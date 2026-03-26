@@ -9,6 +9,6 @@ jobs:
     - name: install rust
       uses: dtolnay/rust-toolchain@stable
     - name: install rsconstruct
-      run: cargo install rsconstruct
+      run: cargo install --force rsconstruct
     - name: build
       run: rsconstruct build
