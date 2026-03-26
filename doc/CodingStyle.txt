@@ -1,0 +1,16 @@
+We use * for all manner of unordered lists in any nesting
+
+We use # and ## for sections and subsections
+	We prefer those to "====", "----" and the like
+
+We leave one line of space between sections like this:
+	# Duration
+	40 hours / 5 days
+
+	# Prerequisites
+
+We don't put a ":" after section names
+
+We don't use the word "syllabus" in the name of the course header
+
+We use standard subsections which you can see in scripts/check_md.py

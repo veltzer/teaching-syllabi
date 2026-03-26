@@ -1,0 +1,446 @@
+.NET
+2FA
+ABC
+ACID
+ActiveMQ
+AES
+Agent
+AI
+Airflow
+Alembic
+Amazon CloudFront
+Amazon CloudWatch
+Amazon CodeWhisperer
+Amazon DynamoDB
+Amazon EBS
+Amazon EC2
+Amazon EFS
+Amazon Glacier
+Amazon Machine Images
+Amazon RDS
+Amazon Route 53
+Amazon S3
+Amazon SQS
+Amazon VPC
+Amazon Web Services
+AMIs
+Android
+Ansible
+Apache Airflow
+Apache Hadoop
+Apache Hudi
+Apache Iceberg
+Apache Kafka
+Apache Lucene
+Apache Spark
+API
+APIRouter
+APIs
+Argo CD
+Argo CD's
+Argon2
+ASGI
+ASP.NET
+Assembly
+Auto Scaling
+automation
+AWS
+AWS Certified Cloud Practitioner
+AWS CloudTrail
+AWS Identity and Access Management
+AWS Management Console
+AWS Well-Architected Framework
+Azure
+Bash
+Basic Auth
+bcrypt
+Beats
+BeautifulSoup
+Big Data
+blackbox_exporter
+Boost
+Buildroot
+C
+C#
+C++
+C++17
+C++20
+C99
+CA
+Cassandra
+Catalyst
+CD
+CDash
+CDN
+ChatGPT
+CI
+CI/CD
+CIA
+Claude
+cloud
+Cloudera
+CMake
+cmake
+Codeium
+CodeWhisperer
+Composite
+Continuous Delivery
+Copilot
+CPack
+CQRS
+CronJob
+CSS
+CSV
+CTest
+Cursor
+Dagster
+DAST
+data science
+DDoS
+Delta Lake
+DevOps
+devops
+DevOps Handbook
+DIP
+Django
+Django REST Framework
+DMA
+DNS
+DNSSEC
+Docker
+docker
+Docker Compose
+Docker Desktop
+Docker HUB
+DoH
+Domain
+DPDK
+Dreambooth
+DRY
+DSL
+DynamoDB
+eBPF
+EC2
+ECC
+Eclipse
+ECS
+EF Core
+Efence
+EKS
+Elastic Agent
+Elastic APM
+Elastic Cloud
+Elastic Load Balancing
+Elastic Stack
+Elasticsearch
+ELB
+ELK
+embedded
+EMR
+Entity Framework
+Entity-Relationship
+Entity-Relationship Diagram
+Entity-Relationship Diagrams
+ERD
+ERDs
+ES|QL
+ES|QL?
+Ethernet
+ETL
+FastAPI
+Flask
+Fleet
+Flink
+Flume
+FreeRTOS
+FSx
+FTP
+GC
+GCC
+GCP
+GDB
+GDPR
+Gemini
+Gerrit
+Git
+GitHub
+GitHub Actions
+GitHub Copilot
+GitHub Marketplace
+GitHub Secrets
+GitHub Workflows
+GitHub's
+GNU make
+Go
+Google Cloud
+GPIO
+GPT
+Gradle
+gradle
+Grafana
+GraphQL
+GraphX
+Groovy
+gRPC
+GUI
+Gunicorn
+Hadoop
+HBase
+HDFS
+HIPAA
+Hive
+HiveQL
+HTML
+HTTP
+HTTP/1.0
+HTTP/1.1
+HTTP/2
+HTTP/3
+HTTPS
+Hugging Face
+IaC
+IAM
+IDE
+IDEs
+ILM
+Ingress
+IntelliJ
+IntelliJ IDEA
+IO
+IoC
+iOS
+IoT
+IP
+IPv4
+IPv6
+ISO/IEC 14882
+ISP
+IT
+ivy
+Java
+JavaScript
+JDBC
+JDK
+Jenkins
+JetBrains
+JIT
+JMeter
+JNI
+Job
+JSON
+JUnit
+JVM
+JWT
+K8S
+k8s
+Kafka
+Kibana
+KISS
+Kotlin
+Kubernetes
+Lambda
+LangChain
+LDAP
+LINQ
+Linux
+LLM
+LLMs
+Logstash
+LoRA
+LSP
+Lucene
+Lucidchart
+Machine Learning
+Machine learning
+machine learning
+Make
+Map-Reduce
+Map/Reduce
+MapR
+MapReduce
+Maven
+maven
+Metricbeat
+MFA
+Micro services
+ML
+MLlib
+Mockito
+MongoDB
+MongoDB Atlas
+MongoDB Compass
+Moq
+MPatrol
+MySQL
+MySQL Workbench
+Neo4j
+Newman
+Nexus
+nginx
+NIO
+NIST
+NLP
+no-os
+Node.js
+node_exporter
+NoSQL
+NuGet
+NumPy
+numpy
+OAuth 2.0
+OAuth2
+OCP
+OO
+OOP
+OpenAI
+OpenAPI
+OpenCL
+OpenID Connect
+OpenTelemetry
+Oracle
+ORM
+OSI
+OWASP
+OWASP Top 10
+Packer
+Pandas
+pandas
+Parquet
+PCI DSS
+PersistentVolume
+pgAdmin
+Pig
+PKI
+Pod
+podman
+POSIX
+PostgreSQL
+Postman
+Prefect
+Prometheus
+Protocol Buffers
+Pulsar
+Puppet
+PyCharm
+Pycharm
+Pydantic
+PyPI
+PySpark
+pytest
+Python
+python
+QEMU
+QLoRA
+R
+RabbitMQ
+RAII
+RBAC
+RDBMS
+RDTSC
+Redis
+ReDoc
+REST
+REST API
+REST APIs
+RESTful
+RESTful APIs
+RPC
+RSA
+RTTI
+Rust
+rust
+S3
+SAML
+SAST
+Scala
+scipy
+Scrum
+SDK
+Selenium
+Service
+SHA-256
+SHA-3
+SMTP
+SOAP
+SOLID
+Solr
+Spark
+Spark MLlib
+Spark SQL
+Spark Streaming
+SPI
+Splunk
+Spring
+Spring Boot
+Spring Cloud
+Spring MVC
+SQL
+SQL Injection
+SQL injection
+SQL Server
+SQL-86
+SQL-92
+SQL:1999
+SQL:2003
+SQL:2016
+SQLAlchemy
+Sqoop
+SRP
+SSH
+SSL
+SSO
+SSRF
+STL
+Swagger
+Swagger UI
+SysV
+Tabnine
+TCP
+TDD
+Terraform
+The Phoenix Project
+TLS
+Tokio
+Twisted
+twisted
+Ubuntu
+UDP
+UI
+Unicode
+Unity
+UNIX
+Unix
+URL
+URLs
+Uvicorn
+UX
+Valgrind
+Verify
+vim
+Visual Studio
+Visual Studio 2026
+VM
+VPC
+VPN
+VPNs
+VS Code
+VSCode
+vscode
+Web Services
+WebSocket
+Windows
+Windows CMD
+Wireshark
+wireshark
+WSGI
+WSL2
+wxPython
+X-Pack
+XML
+XSS
+xUnit
+YAGNI
+YAML
+Yocto
+ZooKeeper
+Zookeeper

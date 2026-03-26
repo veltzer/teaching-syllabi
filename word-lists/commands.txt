@@ -1,0 +1,184 @@
+ant
+ar
+ar(1)
+arp
+autoconf
+bash -x
+bazel
+c++filt
+cachegrind
+callgrind
+cat /proc/net/route
+cat, more
+chmod
+chown
+chroot
+cron
+ctstat
+curl
+debugfs
+df, du
+dhclient
+dhclint
+dig
+dmalloc
+dmidecode
+docker-compose
+env
+ethtool
+gas
+gcore
+gcov
+gdb
+gdbtui
+git
+git add
+git annotate
+git archive
+git bisect
+git blame
+git branch
+git branch --edit-description
+git branch -D
+git branch -d
+git branch -m
+git bundle
+git checkout
+git cherry
+git cherry-pick
+git commit
+git commit --amend
+git daemon
+git describe
+git diff
+git export
+git fetch
+git grep
+git http-backend
+git instaweb
+git log
+git ls-files
+git mv
+git notes
+git pull
+git rebase
+git reflog
+git reset
+git reset --hard
+git reset <ref> <file>
+git restore
+git restore --staged <file>
+git rev-list
+git rev-parse
+git revert
+git rm
+git shell
+git show
+git show-branch
+git stage
+git status
+git submodule
+git switch
+git whatchanged
+gperf
+grep
+grub
+gzip
+head, tail
+helm
+host
+hostname
+ifconfig
+ifdown
+ifup
+init
+iostats
+ip
+iptables
+iwconfig
+iwlist
+iwpriv
+jnettop
+ld
+ld.so
+ldconfig
+ldd
+lnstat
+ls
+lspci
+lsusb
+ltrace
+make
+mii-tool
+mkdir, rmdir
+mongodump
+mongorestore
+mongos
+mongosh
+mtrace
+mv, cp
+nano
+nc
+netcat
+netperf
+netstat
+nm
+nmap
+npm
+nslookup
+nstat
+objcopy
+objdump
+oprofile
+perf
+ping
+pip
+pmap
+popd
+pushd
+pydb
+pydoc
+ranlib
+rcp
+readelf
+rlogin
+route
+route(1)
+routef
+routel
+rsh
+rtacct
+rtmon
+rtstat
+scons
+script
+sed, awk
+set -e
+set -euo pipefail
+set -v
+shuf
+ss
+ssh
+strace
+strings
+strip
+sudo
+swapoff
+swapon
+sysctl
+tc
+tcpdump
+tee
+telnet
+touch
+tr, cut
+trace-cmd
+traceroute
+tracert
+ulimit
+umask
+uniq, sort
+vi
+wc, diff
+xargs, find
+xxgdb

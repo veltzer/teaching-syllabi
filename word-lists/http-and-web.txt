@@ -1,0 +1,66 @@
+100 Continue
+101 Switching Protocols
+1xx
+200
+200 OK
+201
+201 Created
+202 Accepted
+204 No Content
+2xx
+301 Moved Permanently
+302 Found
+304 Not Modified
+3xx
+400
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404
+404 Not Found
+409 Conflict
+422 Unprocessable Entity
+429 Too Many Requests
+4xx
+500
+500 Internal Server Error
+502 Bad Gateway
+503 Service Unavailable
+5xx
+Accept
+Access-Control-Allow-Methods
+Access-Control-Allow-Origin
+Authorization
+Bearer Token
+Cache-Control
+Content-Length
+Content-Type
+CORS
+CRUD
+CSRF
+deflate
+ETag
+ETags
+Expires
+GET
+HATEOAS
+HEAD
+Host
+HttpOnly
+httpOnly
+If-Modified-Since
+Last-Modified
+localStorage
+Max-Age
+MIME
+OPTIONS
+PATCH
+POST
+PUT
+SameSite
+Secure
+Server
+sessionStorage
+Set-Cookie
+User-Agent
+X-

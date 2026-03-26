@@ -1,0 +1,84 @@
+---
+tags:
+  - terraform
+  - infrastructure-as-code
+  - cloud
+  - devops
+level: intermediate
+category: devops
+duration_days: 3
+audience:
+  - devops
+---
+# `Terraform`
+
+## Credits
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
+
+## Description
+`Terraform` training course demonstrates the flexibility and power of the `Terraform` provisioning system.
+
+## Duration
+24 hours / 3 days
+
+## Intended Audience
+* `DevOps` developers and infrastructure maintainers.
+
+## Prerequisites
+* No special experience is required.
+* Experience with any type of cloud is beneficial but not required.
+
+## Objectives
+* Read and build `Terraform` projects.
+* Utilize reusable `Terraform` patterns.
+* Leverage security best practices for `Terraform`.
+* Automate instance provisioning pipelines with `Packer`.
+
+## Exercises
+The course includes exercises on `AWS` for every chapter.
+The exercises could be modified to work on other cloud providers (`GCP`, `Azure`)
+but this will require some work.
+
+## Outline
+* Introduction to `Terraform`
+    * Project Structure
+    * Commands
+    * Resources
+    * Data Sources
+    * Variable
+    * Providers
+    * State/Remote State (back ends)
+* Reuse Patterns in `Terraform`
+    * Workspaces
+    * Outputs
+    * Modules
+* Keeping `Terraform` in Sync With Resources
+    * Configuration drift
+    * Drift use cases
+    * Refresh command
+    * Importing existing resources
+* Security and `Terraform`
+* Built-in Functions and Interpolation
+* Building Infrastructure with `Terraform`
+    * Configuration management vs provisioning
+    * Provisioners vs providers
+    * Tainting
+    * Files
+* Provisioner
+    * Local Exec
+    * Remote Exec
+    * File Upload
+* Error Handling and Debugging in `Terraform`
+* Introduction to Packer
+    * Terminology
+    * Templates
+    * Builders
+        * `AWS`
+        * `Azure`
+        * Others
+    * Provisioners
+    * Post-processors
+* Packer Use Cases
+    * Packer with `AWS`
+    * Packer with Containers
+    * Packer with Virtual Box

@@ -1,0 +1,13 @@
+git-cherry
+gitops
+gitrevisions
+issues
+PR
+releases
+\<branch\>
+\<commit-ish\>
+\<commit\>
+\<object\>
+\<pathspec\>
+\<tree-ish\>
+\<tree\>

@@ -1,0 +1,8 @@
+[global]
+disable = [
+	"MD032", #  List should be preceded by blank line [*]
+	"MD007", # Expected 4 spaces for indent depth 2, found 8 [*]
+	"MD013", # Line length 117 exceeds 80 characters
+	"MD071", #  Missing blank line after frontmatter [*]
+	"MD022", #  Expected 1 blank line below heading [*]
+]

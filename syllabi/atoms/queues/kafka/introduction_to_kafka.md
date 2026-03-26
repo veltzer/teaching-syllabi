@@ -1,0 +1,37 @@
+---
+tags:
+  - kafka
+  - message-queues
+  - streaming
+level: beginner
+category: message-queue
+audience:
+  - developers
+  - devops
+---
+# Introduction to `Kafka`
+
+## Credits
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
+
+## Description
+TBD
+
+## Duration
+24 hours / 3 days
+
+## Outline
+* Introduction to `Big Data`
+* `Big Data` Analytics
+* Need for `Kafka`
+* What is `Kafka`?
+* `Kafka` Features
+* `Kafka` Concepts
+* `Kafka` Architecture
+* `Kafka` Components
+* `ZooKeeper`
+* Where is `Kafka` Used?
+* `Kafka` Installation
+* `Kafka` Cluster
+* Types of `Kafka` Clusters
+* Configuring Single Node Single Broker Cluster

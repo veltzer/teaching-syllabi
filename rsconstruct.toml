@@ -1,0 +1,74 @@
+[processor.tera]
+extra_inputs = [
+    "config/project.lua",
+    "config/personal.lua",
+    "config/version.lua",
+]
+
+[processor.jsonlint]
+exclude_files = ["package-lock.json"]
+
+[processor.make]
+exclude_paths = ["Makefile"]
+
+[processor.a2x]
+enabled = false
+
+[processor.mako]
+enabled = false
+
+[processor.markdown]
+scan_dir = "syllabi"
+
+[processor.mdl]
+enabled = false
+
+[processor.pandoc]
+scan_dir = "syllabi"
+formats = ["pdf", "html", "docx"]
+
+[processor.script_check]
+scan_dir = "syllabi"
+extensions = [".md"]
+exclude_files = ["README.md"]
+linter = "scripts/check_md.py"
+batch = true
+
+[processor.slidev]
+enabled = false
+
+[processor.tidy]
+enabled = false
+
+[processor.htmlhint]
+enabled = false
+
+[processor.htmllint]
+enabled = false
+
+[processor.marp]
+enabled = false
+
+[processor.jslint]
+enabled = false
+
+[processor.jshint]
+enabled = false
+
+[processor.eslint]
+enabled = false
+
+[processor.stylelint]
+enabled = false
+
+[processor.standard]
+enabled = false
+
+[processor.npm]
+enabled = false
+
+[processor.gem]
+enabled = false
+
+[processor.pip]
+enabled = false

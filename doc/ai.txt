@@ -1,0 +1,3 @@
+- look at "syllabi/atoms/operating_systems/linux/linux_fundamentals.md" to see how a syllabus looks like.
+- don't have a bullets in the syllabus for exercises
+- do not state how long each topics/subtopic takes.

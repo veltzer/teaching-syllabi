@@ -1,0 +1,66 @@
+---
+tags:
+  - hadoop
+  - hdfs
+  - mapreduce
+  - big-data
+  - java
+level: beginner
+category: big-data
+audience:
+  - developers
+  - architects
+---
+# `Hadoop`
+
+## Credits
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
+
+## Description
+`Apache Hadoop` is an open-source distributed fault-tolerant system that leverages commodity hardware to achieve large-scale agile data storage and processing. `Hadoop` empowers applications to work with thousands of nodes and petabytes of data without exposing the complexity of clustering to the end user.
+
+This course discusses the design principles behind `Apache Hadoop` and explains the architecture of its core sub-systems: `HDFS` and `Map-Reduce`
+
+Understand the main `Hadoop` components and other open source software related to `Hadoop`. Understand how `HDFS` works and the concepts of map and reduce operations.
+
+This course is intended for developers, architects and technical managers who wish to understand `Hadoop`'s architecture.
+
+This course assumes no prior knowledge of `Hadoop`. Participants should be comfortable with `Java` code and familiar with DWH concepts
+
+## Duration
+TBD
+
+## Intended Audience
+TBD
+
+## Prerequisites
+TBD
+
+## Objectives
+TBD
+
+## Outline
+* Big Data Brief Overview
+    * Big Data Characteristics and Use-Cases
+    * New Data Categories
+    * Big Data vs. Traditional Enterprise Relational Data
+* Introduction to `Hadoop`
+    * `Hadoop` vs. Traditional Large-Scale Data Storage and Processing
+    * Introduction to `Hadoop` Ecosystem: `HDFS`, `Map-Reduce`, `Pig`, `Hive`, `HBase`
+    * `Hadoop` Distributors: `Cloudera`, Horton-works, `MapR`
+    * Available `Java` run time Environments for `Hadoop`
+* `MapReduce`
+    * `MapReduce` Motivation and Core Concepts
+    * How Does `MapReduce` Work?
+    * Implementing Common `MapReduce` Patterns
+    * Core `Hadoop` `API` Interfaces and Classes
+* The `Hadoop` Distributed File System (`HDFS`)
+    * How `HDFS` works?
+    * Writing a File to `HDFS`
+    * `HDFS` Command Line
+    * `Hadoop` Cluster Architecture overview
+* `Hadoop` Related Projects
+    * Data Warehousing with `Hive`
+    * Parallel Processing with `Pig`
+    * Data Storage with `HBase`
+    * Common Utilities: `Sqoop`, `Flume`, `Zookeeper`, etc.

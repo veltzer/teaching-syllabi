@@ -1,0 +1,65 @@
+---
+tags:
+  - ai
+  - generative-ai
+  - python
+  - prompt-engineering
+  - ethics
+level: intermediate
+category: ai
+duration_days: 5
+audience:
+  - data-scientists
+---
+# Generative `AI` applications
+
+## Credits
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
+
+## Description
+Designed for a broad audience of `Machine Learning` practitioners,
+this module will teach you how to utilize existing generative models
+in applications with a special emphasis on the questions of `AI` Ethics
+and Safety. Generative `AI` applications
+
+## Duration
+40 hours / 5 days
+
+## Intended Audience
+* `Machine Learning` practitioners
+
+## Prerequisites
+* `Python` programming
+
+## Outline
+* An overview of Generative `AI`
+    * An overview of Generative `AI`.
+    * Language modeling with `GPT` and `ChatGPT`.
+    * An overview of `ChatGPT` training stages.
+* `APIs` of generative models
+    * Getting the most from an `API`
+        * Prompt engineering
+        * Few-shot & Zero-shot learning
+        * Chain-of-thought reasoning
+        * Fine Tuning etc.
+    * Agents and memory.
+    * `LangChain`.
+    * Making a customized database interface.
+* Open source models for text generation
+    * Working with open source models
+    * Using `Hugging Face` infrastructure and `LangChain`.
+    * Parameter Efficient Fine Tuning.
+    * Prompt Tuning.
+    * `LoRA`.
+    * `QLoRA`.
+* Brief overview of image generation approaches
+    * Parameter Efficient Fine Tuning for image generating models.
+    * `Dreambooth`.
+    * Text inversion.
+* Measuring quality of text generation
+    * Bias in generative models.
+    * Intro to `AI` Safety.
+    * Deep Fakes.
+
+## References
+[syllabus](https://ai-dt.school/generative-ai/#curriculum)
