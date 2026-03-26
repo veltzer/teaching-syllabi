@@ -8,6 +8,7 @@ website: [website](https://veltzer.github.io/teaching-syllabi)
 
 ## Build
 
+![build](https://github.com/veltzer/teaching-syllabi/workflows/build/badge.svg)
 ## Contact
 
 chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veltzer/mark.veltzer)
@@ -15,4 +16,4 @@ chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gi
 
 Currently there are 215 syllabi in this repo.
 
-Mark Veltzer, Copyright (c) 2021, 2022, 2023, 2024, 2025, 2026
+Mark Veltzer, Copyright (c) 2026
