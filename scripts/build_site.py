@@ -52,9 +52,11 @@ def build_site():
         entries.append((category, title, str(rel)))
 
     # group by category
-    categories = {}
+    categories: dict[str, list[tuple[str, str]]] = {}
     for category, title, path in entries:
-        categories.setdefault(category, []).append((title, path))
+        if category not in categories:
+            categories[category] = []
+        categories[category].append((title, path))
 
     # generate index.html
     index_path = DOCS_DIR / "index.html"
