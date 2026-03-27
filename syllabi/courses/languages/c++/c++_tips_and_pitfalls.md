@@ -27,6 +27,10 @@ ways to decrease number of there invocations will be discussed ).
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
 ## Prerequisites
 This course is for programmers which already have C++ experience.
 

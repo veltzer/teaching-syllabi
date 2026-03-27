@@ -23,6 +23,20 @@ Course is intended for `C`/`C++` programmers who want to find their way in the `
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
+## Prerequisites
+* experience with C programming
+* familiarity with Linux command line
+
+## Objectives
+* understand the core concepts and principles of Linux` programming environment
+* gain practical knowledge of The shell:
+* gain practical knowledge of The compiler (`GCC`/g++):
+* gain practical knowledge of libraries:
+
 ## Outline
 * The shell:
     * Basic organization of the file system.

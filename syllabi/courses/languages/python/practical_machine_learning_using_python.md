@@ -33,6 +33,15 @@ new problems.
 * Basic understanding of Programming concepts
 * intended for Data Analysts, Developers, Business Intelligence
 
+## Prerequisites
+* experience with Python programming
+
+## Objectives
+* understand the core concepts and principles of Practical `Machine Learning` Using `Python
+* gain practical knowledge of Python` Refresher/Crash Course
+* gain practical knowledge of Introduction to Data Analysis
+* gain practical knowledge of Machine Learning` Basic Concepts
+
 ## Outline
 * `Python` Refresher/Crash Course
     * Introduction

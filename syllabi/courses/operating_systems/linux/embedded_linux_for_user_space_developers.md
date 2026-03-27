@@ -31,6 +31,20 @@ This is a practical course with exercises covering most topics.
 ## Duration
 56 hours / 7 days
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* experience with C or C++ programming
+* basic understanding of computer architecture
+
+## Objectives
+* understand the core concepts and principles of Embedded `Linux` for user space developers
+* gain practical knowledge of How protected operating systems work?
+* gain practical knowledge of Real time operating systems
+* gain practical knowledge of Linux` as a real time operating system
+
 ## Outline
 * How protected operating systems work?
     * How preemption works

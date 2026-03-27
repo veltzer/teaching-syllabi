@@ -32,6 +32,12 @@ Ajax-enabled applications and more.
 * Good knowledge of AJAX
 * Good knowledge of object-oriented programming in any programming language.
 
+## Objectives
+* understand the core concepts and principles of Dojo Framework
+* gain practical knowledge of Introduction
+* gain practical knowledge of How does Dojo work ?
+* gain practical knowledge of Programmatic vs. Declarative Dojo
+
 ## Outline
 * Introduction
     * what is Dojo ?

@@ -29,6 +29,12 @@ design patterns prevalent in the industry.
 * C programming
 * Embedded programming is an advantage
 
+## Objectives
+* understand the core concepts and principles of Real Time Design Patterns
+* gain practical knowledge of Introduction to Real-Time Systems and Design Patterns
+* gain practical knowledge of Concurrency Patterns
+* gain practical knowledge of Resource Management Patterns
+
 ## Outline
 * Introduction to Real-Time Systems and Design Patterns
     * Characteristics of real-time systems

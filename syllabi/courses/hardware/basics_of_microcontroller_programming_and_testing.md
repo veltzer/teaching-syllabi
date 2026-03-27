@@ -35,6 +35,12 @@ This course provides a comprehensive introduction to programming and testing mic
 * C++ is an advantage
 * Understanding of computer architecture is helpful
 
+## Objectives
+* understand the core concepts and principles of Basics of Micro-controller Programming and Testing
+* gain practical knowledge of Introduction to Microcontrollers
+* gain practical knowledge of Development Environment Setup
+* gain practical knowledge of Embedded C Programming Fundamentals
+
 ## Outline
 * Introduction to Microcontrollers
     * What is a microcontroller?

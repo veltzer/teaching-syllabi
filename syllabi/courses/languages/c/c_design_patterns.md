@@ -19,6 +19,19 @@ This course teaches classical software design patterns and how to implement them
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C programmers
+* embedded and systems software developers
+
+## Prerequisites
+* solid experience with C programming
+
+## Objectives
+* understand the core concepts and principles of C Design Patterns
+* gain practical knowledge of Introduction
+* gain practical knowledge of Creational
+* gain practical knowledge of Structural
+
 ## Outline
 * Introduction
     * What are design patterns?

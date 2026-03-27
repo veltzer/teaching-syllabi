@@ -30,11 +30,21 @@ and integration scenarios commonly found in production environments.
 ## Duration
 40 hours / 5 days
 
+## Intended Audience
+* software developers working with databases
+* backend engineers and data engineers
+
 ## Prerequisites
 * Basic `Linux` command line experience
 * Understanding of `JSON` format
 * Basic knowledge of web applications and `APIs`
 * Familiarity with log files and formats
+
+## Objectives
+* understand the core concepts and principles of ELK`Stack (`Elasticsearch`, Logstash, Kibana)
+* gain practical knowledge of Introduction to `ELK` Stack
+* gain practical knowledge of Elasticsearch` Fundamentals
+* gain practical knowledge of Elasticsearch` Advanced
 
 ## Outline
 * Introduction to `ELK` Stack

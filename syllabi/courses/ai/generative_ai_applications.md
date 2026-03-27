@@ -31,6 +31,12 @@ and Safety. Generative `AI` applications
 ## Prerequisites
 * `Python` programming
 
+## Objectives
+* understand the core concepts and principles of Generative `AI` applications
+* gain practical knowledge of An overview of Generative `AI
+* gain practical knowledge of APIs` of generative models
+* gain practical knowledge of Open source models for text generation
+
 ## Outline
 * An overview of Generative `AI`
     * An overview of Generative `AI`.

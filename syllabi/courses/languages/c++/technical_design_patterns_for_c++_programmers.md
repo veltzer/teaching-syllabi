@@ -28,6 +28,10 @@ used throughout the industry.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
 ## Prerequisites
 Three years experience in C++
 

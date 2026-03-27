@@ -33,6 +33,16 @@ program efficiently when running on this platform.
 * Seasoned `C`/`C++` developers who are not familiar with this information and the techniques presented.
 * `Java` and other programming language programmers are also welcome and will benefit from the course but not as much as `C`/`C++` developers.
 
+## Prerequisites
+* experience with C programming
+* familiarity with Linux command line
+
+## Objectives
+* understand the core concepts and principles of Multi Core Programming
+* gain practical knowledge of Basics of scaling hardware
+* gain practical knowledge of Basics of CPU design (how did we get here)
+* gain practical knowledge of multi-core vs multi-cpu
+
 ## Outline
 * Basics of scaling hardware
     * Why is Moore's law outdated

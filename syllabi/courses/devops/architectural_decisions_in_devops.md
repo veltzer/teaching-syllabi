@@ -42,6 +42,12 @@ organizational context, scale, and maturity.
 * General understanding of cloud computing and containerization concepts.
 * Experience working in a team that delivers software to production.
 
+## Objectives
+* understand the core concepts and principles of Architectural Decisions in `DevOps
+* gain practical knowledge of Decision Frameworks for `DevOps
+* gain practical knowledge of Source Code Management Strategy
+* gain practical knowledge of CI/CD` Pipeline Architecture
+
 ## Outline
 * Decision Frameworks for `DevOps`
     * What makes a decision "architectural" in `DevOps`

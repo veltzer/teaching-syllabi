@@ -20,6 +20,20 @@ This course covers advanced `Git` topics for developers who already know the bas
 ## Duration
 8 hours (1 day)
 
+## Intended Audience
+* software developers
+* team leads and DevOps engineers managing source code
+
+## Prerequisites
+* working experience with git` topics
+* basic software development experience
+
+## Objectives
+* understand the core concepts and principles of Git` Advanced Topics
+* gain practical knowledge of Workflows
+* gain practical knowledge of Technical topics
+* gain practical knowledge of In case of emergency (never do this)
+
 ## Outline
 * Workflows
     * Centralized Workflow

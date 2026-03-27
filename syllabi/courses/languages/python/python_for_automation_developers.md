@@ -34,6 +34,15 @@ automation project with `Selenium`, Appium, `REST` `API` support and Allure repo
 * Programming experience with any programming language
 * Basic background in automation development
 
+## Prerequisites
+* basic programming experience in any language
+
+## Objectives
+* understand the core concepts and principles of Python` for Automation Developers
+* gain practical knowledge of Python` crash course
+* gain practical knowledge of Introduction to PyTest
+* gain practical knowledge of Selenium` & Appium
+
 ## Outline
 * `Python` crash course
     * Why `Python` for automation development?

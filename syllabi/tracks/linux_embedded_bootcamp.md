@@ -9,6 +9,20 @@ This intensive bootcamp covers the full stack of embedded `Linux` development, f
 ## Duration
 500 hours
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* experience with C or C++ programming
+* basic understanding of computer architecture
+
+## Objectives
+* understand the core concepts and principles of Linux` embedded bootcamp
+* gain practical knowledge of Introduction to low level programming in `Assembly
+* gain practical knowledge of Linux
+* gain practical knowledge of C and C++ programming (exercises on `Linux`)
+
 ## Outline
 * Introduction to low level programming in `Assembly`
     * The CPU and multi CPU model (theory)

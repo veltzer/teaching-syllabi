@@ -20,6 +20,19 @@ This course is based on the Scott Meyers book of the same title.
 ## Duration
 32 hours / 4 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
+## Prerequisites
+* experience with C++ programming
+
+## Objectives
+* understand the core concepts and principles of Effective C++
+* gain practical knowledge of Preface
+* gain practical knowledge of Basic topics
+* gain practical knowledge of Templates
+
 ## Outline
 * Preface
     * What is effective C++

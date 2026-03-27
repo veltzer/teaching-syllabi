@@ -18,6 +18,20 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 ## Duration
 56 hours / 7 days
 
+## Intended Audience
+* data scientists and machine learning engineers
+* software developers transitioning to ML roles
+
+## Prerequisites
+* programming experience in Python
+* basic knowledge of statistics and linear algebra
+
+## Objectives
+* understand the core concepts and principles of Machine learning
+* gain practical knowledge of Basics and supervised learning
+* gain practical knowledge of Unsupervised learning and data handling
+* gain practical knowledge of Deep learning basics
+
 ## Outline
 * Basics and supervised learning
     * Intro to `ML`

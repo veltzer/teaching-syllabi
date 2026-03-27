@@ -31,6 +31,12 @@ and demonstrated.
 * Tech affinity
 * Programming background is not required but may add to participants understanding
 
+## Objectives
+* understand the core concepts and principles of Cyber Threats and Attack Vectors
+* gain practical knowledge of Hacking landscape overview
+* gain practical knowledge of Basic OS security
+* gain practical knowledge of Injections
+
 ## Outline
 * Hacking landscape overview
     * Who are the hackers?

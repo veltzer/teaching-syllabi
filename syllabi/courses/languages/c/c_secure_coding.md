@@ -21,6 +21,19 @@ For `GCC` modifications need to be made.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C programmers
+* embedded and systems software developers
+
+## Prerequisites
+* solid experience with C programming
+
+## Objectives
+* understand the core concepts and principles of Coding securely in C
+* gain practical knowledge of Motivation for Secure Programming
+* gain practical knowledge of Machine-Level Representation of C programs
+* gain practical knowledge of Integer security
+
 ## Outline
 * Motivation for Secure Programming
     * In User Space/Kernel Space systems

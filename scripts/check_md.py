@@ -28,8 +28,9 @@ REQUIRED = [
 MUST = [
     "Description",
     "Duration",
-    # "Prerequisites",
-    # "Objectives",
+    "Intended Audience",
+    "Prerequisites",
+    "Objectives",
     "Outline",
 ]
 

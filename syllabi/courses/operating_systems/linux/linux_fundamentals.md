@@ -44,6 +44,12 @@ usually better undertaken with the knowledge of this course already internalized
 ## Prerequisites
 * No special requirements for this course.
 
+## Objectives
+* understand the core concepts and principles of Linux` fundamentals
+* gain practical knowledge of Introduction to `UNIX
+* gain practical knowledge of The basics
+* gain practical knowledge of File system
+
 ## Outline
 * Introduction to `UNIX`
     * What is `UNIX`

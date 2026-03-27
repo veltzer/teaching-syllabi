@@ -21,6 +21,19 @@ We deal with the cost of various C++ features and with interacting efficiently w
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
+## Prerequisites
+* experience with C++ programming
+
+## Objectives
+* understand the core concepts and principles of C++ Performance
+* gain practical knowledge of Micro optimizations
+* gain practical knowledge of C++ efficiency compared to C and assembly
+* gain practical knowledge of Is efficiency important?
+
 ## Outline
 * Micro optimizations
 * C++ efficiency compared to C and assembly

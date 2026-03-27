@@ -25,6 +25,19 @@ scalable, durable and efficient system.
 ## Duration
 1 hour
 
+## Intended Audience
+* software architects and senior developers
+* technical leads making design decisions
+
+## Prerequisites
+* several years of software development experience
+
+## Objectives
+* understand the core concepts and principles of Message Queues
+* gain practical knowledge of when to use a message queue from an architecture perspective
+* gain practical knowledge of basic message queue features
+* gain practical knowledge of features of message queues
+
 ## Outline
 * when to use a message queue from an architecture perspective
     * mq vs `API` vs other queue like features (internet of things messaging)

@@ -20,6 +20,10 @@ This course covers Test Driven Development (`TDD`) in `Java`, combining testing 
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* Java developers
+* software engineers working with JVM-based technologies
+
 ## Prerequisites
 * Development in `Java` for at least one year
 

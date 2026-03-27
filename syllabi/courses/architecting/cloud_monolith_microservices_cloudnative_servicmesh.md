@@ -23,6 +23,13 @@ This course covers the evolution of application architecture from monolithic sys
 ## Duration
 1 hour
 
+## Intended Audience
+* cloud engineers and architects
+* developers deploying applications to the cloud
+
+## Prerequisites
+* several years of software development experience
+
 ## Objectives
 * Understand the transition from monolithic architectures to microservices
 * Identify when microservices are and are not appropriate for a given system

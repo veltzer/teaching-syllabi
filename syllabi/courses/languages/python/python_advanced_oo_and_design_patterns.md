@@ -34,6 +34,10 @@ The study of each pattern will be accompanied by real-world examples and a lab i
 * Experience in Object Oriented Development with `Python`
 * Any `Java`/`C#`, C++, or Typescript experience is beneficial
 
+## Prerequisites
+* working experience with design patterns and object-oriented design for `python` developers
+* experience with Python programming
+
 ## Objectives
 * Describe and apply good principles for object oriented software design.
 * Describe design patterns and provide examples of problems and their pattern solutions in `Java`

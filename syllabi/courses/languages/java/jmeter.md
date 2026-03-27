@@ -23,6 +23,19 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* Java developers
+* software engineers working with JVM-based technologies
+
+## Prerequisites
+* experience with Java programming
+
+## Objectives
+* understand the core concepts and principles of JMeter
+* gain practical knowledge of High level intro to load testing
+* gain practical knowledge of JMeter` basics
+* gain practical knowledge of Real test cases
+
 ## Outline
 * High level intro to load testing
 * `JMeter` basics

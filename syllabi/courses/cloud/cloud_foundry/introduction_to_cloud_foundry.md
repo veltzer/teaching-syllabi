@@ -39,6 +39,12 @@ platform (.NET, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * Basic knowledge of the programming language to be chosen (`Python`).
 * Some cloud computing concepts knowledge is recommended but not required.
 
+## Objectives
+* understand the core concepts and principles of Introduction to CloudFoundry
+* gain practical knowledge of Theory
+* gain practical knowledge of Exercises
+* gain practical knowledge of Microservices theory
+
 ## Outline
 * Theory
     * Cloud Development Philosophy and trends

@@ -23,6 +23,19 @@ as environment variables, configuration files, filesystem layout and many more.
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* system administrators and DevOps engineers
+* developers who want to automate tasks using shell scripts
+
+## Prerequisites
+* familiarity with the Linux command line
+
+## Objectives
+* understand the core concepts and principles of Using `Bash
+* gain practical knowledge of What is a shell?
+* gain practical knowledge of Why do we need a shell?
+* gain practical knowledge of How is a shell better than a GUI?
+
 ## Outline
 * What is a shell?
 * Why do we need a shell?

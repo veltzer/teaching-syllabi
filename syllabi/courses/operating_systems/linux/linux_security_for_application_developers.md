@@ -32,6 +32,12 @@ This course is intended to introduce the participants to `Linux` security issues
 * `UNIX` `API` familiarity is a plus
 * If no such knowledge exists then the course could be made longer to accommodate with an intro about `UNIX`/`Linux` philosophy, command line usage, boot process and more.
 
+## Objectives
+* understand the core concepts and principles of Linux` security for application developers
+* gain practical knowledge of Basic `Linux` security
+* gain practical knowledge of C level security
+* gain practical knowledge of How to combat C level vulnerabilities
+
 ## Exercises
 This course is an instructor led course, with demos by the instructor and no exercises.
 

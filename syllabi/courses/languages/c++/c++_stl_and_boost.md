@@ -21,6 +21,19 @@ This course various topics related to `STL` and `Boost` which are commonly used 
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
+## Prerequisites
+* experience with C++ programming
+
+## Objectives
+* understand the core concepts and principles of C++ `STL` and `Boost
+* gain practical knowledge of STL
+* gain practical knowledge of Boost
+* gain practical knowledge of Exercises
+
 ## Outline
 * `STL`
     * Performance of various `STL` data structures.

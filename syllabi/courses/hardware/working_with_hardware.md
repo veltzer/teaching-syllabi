@@ -35,6 +35,12 @@ i2c, interrupt mitigation and other subjects.
 * Familiarity with secure operating systems (`Linux`) is an advantage.
 * C++ is an advantage
 
+## Objectives
+* understand the core concepts and principles of Working with Hardware
+* gain practical knowledge of Basics of hardware design
+* gain practical knowledge of Reading data-sheets
+* gain practical knowledge of Interrupts
+
 ## Outline
 * Basics of hardware design
     * Traditional CPU

@@ -22,6 +22,14 @@ This intensive one-day training program covers essential IT security policies an
 ## Duration
 8 hours / 1 day
 
+## Intended Audience
+* security professionals and penetration testers
+* software developers interested in security practices
+
+## Prerequisites
+* familiarity with networking fundamentals
+* basic programming experience
+
 ## Objectives
 * Understand basic information security concepts and their importance
 * Implement strong password practices and access management

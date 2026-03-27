@@ -30,6 +30,12 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
 ## Prerequisites
 * C programming (C++ an advantage)
 
+## Objectives
+* understand the core concepts and principles of Real Time Programming
+* gain practical knowledge of Definitions
+* gain practical knowledge of Types of real time system
+* gain practical knowledge of The connections between real time systems and operating systems
+
 ## Outline
 * Definitions
     * The definition of a real time system

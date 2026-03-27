@@ -29,10 +29,20 @@ and delays the stasis that most `C`/`C++` systems reach at some point.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
 ## Prerequisites
 * The course is ONLY for `C`/`C++` developers.
 * The course is ONLY for `UNIX`/`Linux` developers.
 * The course is ONLY for programmers who have been programming for at least one year.
+
+## Objectives
+* understand the core concepts and principles of Linux` Debugging
+* gain practical knowledge of The `C`/`C++` languages and their pitfalls.
+* gain practical knowledge of Programming for better debugging.
+* gain practical knowledge of Using `gdb` efficiently.
 
 ## Outline
 * The `C`/`C++` languages and their pitfalls.

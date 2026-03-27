@@ -23,6 +23,20 @@ the course takes students on a journey from the fundamentals of assembly languag
 ## Duration
 32 hours / 4 days
 
+## Intended Audience
+* systems programmers and reverse engineers
+* developers who need to understand low-level code execution
+
+## Prerequisites
+* experience with C programming
+* basic understanding of computer architecture
+
+## Objectives
+* understand the core concepts and principles of Assembly` programming using gas
+* gain practical knowledge of Introduction to `Assembly` Language
+* gain practical knowledge of Setting Up the Development Environment
+* gain practical knowledge of Basic `Assembly` Concepts
+
 ## Outline
 * Introduction to `Assembly` Language
     * What is assembly language?

@@ -28,6 +28,20 @@ the lack thereof and others.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* experience with C or C++ programming
+* basic understanding of computer architecture
+
+## Objectives
+* understand the core concepts and principles of Embedded `Linux` topics for `Linux` user space developers
+* gain practical knowledge of Programming topics for embedded
+* gain practical knowledge of Embedded topics for `Linux` embedded developers
+* apply Embedded `Linux` topics for `Linux` user space developers techniques and best practices in real-world scenarios
+
 ## Outline
 * Programming topics for embedded
     * `Linux` support for real time: the real time patch.

@@ -33,6 +33,12 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 * Knowledge of `UNIX` philosophy and design.
 * If no such knowledge exists then the course could be made longer to accommodate with an intro about `UNIX`/`Linux` philosophy, command line usage, boot process and more.
 
+## Objectives
+* understand the core concepts and principles of Linux` real time programming
+* gain practical knowledge of Definitions
+* gain practical knowledge of Linux` and real time
+* gain practical knowledge of Real time and being fast
+
 ## Outline
 * Definitions
     * What is realtime?

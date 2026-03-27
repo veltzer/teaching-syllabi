@@ -27,6 +27,15 @@ and environment.
 This course is intended for developers who wish to study
 the basics of the `Java` programming language
 
+## Prerequisites
+* basic programming experience
+
+## Objectives
+* understand the core concepts and principles of Java` Programming
+* gain practical knowledge of Introduction to `Java
+* gain practical knowledge of Your very first program
+* gain practical knowledge of Types
+
 ## Outline
 * Introduction to `Java`
     * `Java` technology

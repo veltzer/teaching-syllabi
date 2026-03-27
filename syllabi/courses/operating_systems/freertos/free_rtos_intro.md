@@ -34,6 +34,12 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * Knowledge of other operating systems (`Linux`, `Windows`, ...) is an advantage.
 * Knowledge of other real time systems (`Linux`, ...) is an advantage.
 
+## Objectives
+* understand the core concepts and principles of FreeRTOS` intro
+* gain practical knowledge of Demo projects
+* gain practical knowledge of Coding standard
+* gain practical knowledge of Tasks
+
 ## Outline
 * Demo projects
 * Coding standard

@@ -32,6 +32,19 @@ Attendees will be equipped to significantly enhance the performance of their `Li
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
+## Prerequisites
+* basic familiarity with operating system concepts
+
+## Objectives
+* understand the core concepts and principles of Intel Compiler Optimization for `Linux
+* gain practical knowledge of Introduction
+* gain practical knowledge of Fundamentals of Intel Compiler
+* gain practical knowledge of Vectorization
+
 ## Outline
 * Introduction
     * Overview of Intel Compiler Suite

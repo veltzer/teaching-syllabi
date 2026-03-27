@@ -26,6 +26,19 @@ The weight is 2/3 git and 1/3 `Gerrit`.
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers
+* team leads and DevOps engineers managing source code
+
+## Prerequisites
+* basic software development experience
+
+## Objectives
+* understand the core concepts and principles of Git` and `Gerrit
+* gain practical knowledge of git
+* gain practical knowledge of Gerrit
+* apply Git` and `Gerrit techniques and best practices in real-world scenarios
+
 ## Outline
 * git
     * philosophy of git.

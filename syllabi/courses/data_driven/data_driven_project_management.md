@@ -37,6 +37,12 @@ Any of the following
 * Experience in tech management
 * Experience in account management in tech.
 
+## Objectives
+* understand the core concepts and principles of Data Driven Project Management
+* gain practical knowledge of The Data Drive approach (4 hours)
+* gain practical knowledge of Industry case studies and examples (2 hours)
+* gain practical knowledge of Frameworks (4 hours)
+
 ## Outline
 * The Data Drive approach (4 hours)
     * What is it?

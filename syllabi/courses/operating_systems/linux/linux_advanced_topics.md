@@ -38,6 +38,12 @@ IO advanced `APIs`
 * `Linux` systems programming
 * `Linux` real time programming
 
+## Objectives
+* understand the core concepts and principles of Linux` Advanced Topics
+* gain practical knowledge of the IO layer and it's lies.
+* gain practical knowledge of using the CPU to the max
+* gain practical knowledge of advanced synchronization topics:
+
 ## Outline
 * the IO layer and it's lies.
     * flush, sync and batteries.

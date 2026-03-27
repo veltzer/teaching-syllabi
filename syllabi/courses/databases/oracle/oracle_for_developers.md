@@ -20,6 +20,10 @@ This course is designed to provide students with a comprehensive understanding o
 ## Duration
 40 hours / 5 days
 
+## Intended Audience
+* software developers working with databases
+* backend engineers and data engineers
+
 ## Prerequisites
 * Basic knowledge of programming concepts
 * Familiarity with relational database management systems (RDBMS)

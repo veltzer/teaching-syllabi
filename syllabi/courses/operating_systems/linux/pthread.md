@@ -22,9 +22,19 @@ An in depth course looking at working with the `Linux` `pthread` library.
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
 ## Prerequisites
 * knowledge in basic `UNIX` systems programming.
 * hands on familiarity with command line writing, compiling running and debugging on `Linux` and/or `UNIX`.
+
+## Objectives
+* understand the core concepts and principles of Pthreads course
+* gain practical knowledge of the `Linux` threading model.
+* gain practical knowledge of your very first thread.
+* gain practical knowledge of seeing thread information on the command line.
 
 ## Outline
 * the `Linux` threading model.

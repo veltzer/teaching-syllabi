@@ -28,6 +28,19 @@ device driver itself. It also teaching about other technologies that have an int
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
+## Prerequisites
+* familiarity with Linux command line and system administration
+
+## Objectives
+* understand the core concepts and principles of Linux` networking overview
+* gain practical knowledge of TCP`/IP essentials
+* gain practical knowledge of The `Linux` networking stack
+* gain practical knowledge of Network C Programming essentials
+
 ## Outline
 * `TCP`/IP essentials
     * Introduction to `TCP`/IP

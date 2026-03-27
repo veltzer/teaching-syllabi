@@ -19,6 +19,20 @@ This course covers `RabbitMQ` from a `DevOps` perspective, focusing on deploymen
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* DevOps engineers and system administrators
+* software engineers looking to adopt DevOps practices
+
+## Prerequisites
+* familiarity with Linux command line
+* basic software development or system administration experience
+
+## Objectives
+* understand the core concepts and principles of RabbitMQ` for `DevOps
+* gain practical knowledge of RabbitMQ` use cases
+* gain practical knowledge of AMQP
+* gain practical knowledge of Messaging topology
+
 ## Outline
 * `RabbitMQ` use cases
 * AMQP

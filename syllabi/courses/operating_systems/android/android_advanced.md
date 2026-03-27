@@ -23,6 +23,21 @@ This course provides an in-depth exploration of the `Android` platform across al
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* mobile application developers
+* software engineers interested in Android development
+
+## Prerequisites
+* working experience with android`
+* experience with Java programming
+* familiarity with object-oriented programming
+
+## Objectives
+* understand the core concepts and principles of Android` Advanced
+* gain practical knowledge of Android` platform overview
+* gain practical knowledge of Exploring your `Android` device
+* gain practical knowledge of The `Java` layer (basics): assumes knowledge of `Java
+
 ## Outline
 * `Android` platform overview
     * The `Java` layer (`SDK`).

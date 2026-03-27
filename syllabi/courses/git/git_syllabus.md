@@ -18,6 +18,19 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers
+* team leads and DevOps engineers managing source code
+
+## Prerequisites
+* basic software development experience
+
+## Objectives
+* understand the core concepts and principles of Git
+* gain practical knowledge of Git` philosophy
+* gain practical knowledge of Installing and configuring git
+* gain practical knowledge of Git` basics
+
 ## Outline
 * `Git` philosophy
     * What is source control?

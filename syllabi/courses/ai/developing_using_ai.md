@@ -28,6 +28,10 @@ can accelerate development cycles, improve code quality, and transform tradition
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers
+* engineers looking to leverage AI in their workflow
+
 ## Prerequisites
 * Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, or similar)
 * Experience with software development practices (version control, testing, debugging)

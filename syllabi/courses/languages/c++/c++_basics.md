@@ -21,6 +21,19 @@ concepts of the language.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C++ developers
+* software engineers working on performance-critical applications
+
+## Prerequisites
+* experience with C++ programming
+
+## Objectives
+* understand the core concepts and principles of C++` Basics
+* gain practical knowledge of Introduction
+* gain practical knowledge of What are objects?
+* gain practical knowledge of Classes, Constructors, Destructors
+
 ## Outline
 * Introduction
 * What are objects?

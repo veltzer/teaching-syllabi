@@ -27,6 +27,10 @@ the boot process and more.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
 ## Prerequisites
 * Knowledge of command line on Unix or `Linux`.
 * `C`/`C++` programming is a real advantage and a must for some of the advanced chapters.

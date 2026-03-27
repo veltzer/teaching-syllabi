@@ -36,6 +36,21 @@ have been an long list of miscellaneous topics).
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* working experience with `linux` kernel topics
+* experience with C programming
+* familiarity with Linux system administration
+
+## Objectives
+* understand the core concepts and principles of Advanced `Linux` Kernel Topics
+* gain practical knowledge of at the compiling stage
+* gain practical knowledge of measuring and improving kernel boot time
+* gain practical knowledge of locking properly
+
 ## Outline
 * at the compiling stage
     * passing flags to the compilation process (-Wall -Werror for instance).

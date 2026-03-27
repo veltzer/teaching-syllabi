@@ -21,6 +21,10 @@ This course will provide a comprehensive introduction to game development using 
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* aspiring game developers
+* software developers interested in game development
+
 ## Prerequisites
 * Basic computer literacy
 * No prior programming or game development experience required

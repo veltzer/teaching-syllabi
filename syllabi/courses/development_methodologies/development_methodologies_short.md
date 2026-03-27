@@ -31,6 +31,12 @@ developer and your development environment more productive.
 ## Prerequisites
 * Some development background
 
+## Objectives
+* understand the core concepts and principles of Development Methodologies from the professionals
+* gain practical knowledge of Script everything / Don't use GUIs
+* gain practical knowledge of Fail often, fail soon.
+* gain practical knowledge of Professional code writing
+
 ## Outline
 * Script everything / Don't use GUIs
 * Fail often, fail soon.

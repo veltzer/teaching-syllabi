@@ -39,6 +39,12 @@ Key topics:
 * Working knowledge of `C`/`C++`
 * Some knowledge of Embedded/Real Time programming
 
+## Objectives
+* understand the core concepts and principles of Design Patterns for Embedded and Real Time Systems
+* gain practical knowledge of Overview
+* gain practical knowledge of Languages
+* gain practical knowledge of Implementing Object Oriented Concepts with C
+
 ## Outline
 * Overview
     * Real time systems design

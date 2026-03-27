@@ -33,6 +33,12 @@ fail.
 ## Prerequisites
 * Some development background
 
+## Objectives
+* understand the core concepts and principles of Modern Development
+* gain practical knowledge of Configuration management
+* gain practical knowledge of Build system
+* gain practical knowledge of Modern QA
+
 ## Outline
 * Configuration management
     * comparing various tools (git, ClearCase, aegis, CVS, BitKeeper, subversion).

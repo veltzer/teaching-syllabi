@@ -26,6 +26,12 @@ This course covers the `C2x` standard (formally `C23`), the latest major revisio
 * Solid working knowledge of `C` programming.
 * Familiarity with `C11` and `C17` features is recommended.
 
+## Objectives
+* understand the core concepts and principles of C2x
+* gain practical knowledge of Overview of `C2x` and its goals
+* gain practical knowledge of New language features: `typeof`, `auto`, `constexpr`, `nullptr`, `bool` as keyword
+* gain practical knowledge of Attributes: `[[nodiscard]]`, `[[maybe_unused]]`, `[[deprecated]]`, `[[fallthrough]]
+
 ## Outline
 * Overview of `C2x` and its goals
 * New language features: `typeof`, `auto`, `constexpr`, `nullptr`, `bool` as keyword

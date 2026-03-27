@@ -24,6 +24,20 @@ object of providing board support or tuning your kernel to a specific purpose.
 ## Duration
 8 hours / 1 day
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* experience with C programming
+* familiarity with Linux system administration
+
+## Objectives
+* understand the core concepts and principles of Device Tree 101
+* gain practical knowledge of Why the Device Tree ?
+* gain practical knowledge of Basic Device Tree syntax
+* gain practical knowledge of Device Tree inheritance
+
 ## Outline
 * Why the Device Tree ?
 * Basic Device Tree syntax

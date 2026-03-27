@@ -26,6 +26,12 @@ Web developers with basic `Dojo` experience who need to build advanced widget-ba
 * Working knowledge of `JavaScript` and `HTML`/`CSS`
 * Basic experience with the `Dojo` toolkit
 
+## Objectives
+* understand the core concepts and principles of Dojo Advanced
+* gain practical knowledge of classes in dojo, multi inheritance
+* gain practical knowledge of data handling, dojo.data, dojo.io
+* gain practical knowledge of advanced topics
+
 ## Outline
 * classes in dojo, multi inheritance
     * dojo - quick overview on different widgets

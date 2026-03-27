@@ -24,9 +24,19 @@ This course covers media programming at the native layer of the `Android` platfo
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* mobile application developers
+* software engineers interested in Android development
+
 ## Prerequisites
 * `Android` familiarity
 * NDK familiarity
+
+## Objectives
+* understand the core concepts and principles of Android` Media at the Native layer
+* gain practical knowledge of Android` Audio
+* gain practical knowledge of AudioFlinger
+* gain practical knowledge of AudioPolicy
 
 ## Outline
 * `Android` Audio

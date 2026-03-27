@@ -9,6 +9,20 @@ This course covers two essential build and continuous integration tools: `Jenkin
 ## Duration
 32 hours / 4 days
 
+## Intended Audience
+* DevOps engineers and system administrators
+* software engineers looking to adopt DevOps practices
+
+## Prerequisites
+* familiarity with Linux command line
+* basic software development or system administration experience
+
+## Objectives
+* understand the core concepts and principles of Jenkins` and `Gradle
+* gain practical knowledge of Jenkins` (16 hours)
+* gain practical knowledge of Gradle` (16 hours)
+* apply Jenkins` and `Gradle techniques and best practices in real-world scenarios
+
 ## Outline
 * `Jenkins` (16 hours)
     * Continuous Integration (CI) Concepts

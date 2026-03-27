@@ -38,6 +38,12 @@ in the `Linux` kernel.
 * `Linux` command line
 * `Linux` kernel programming
 
+## Objectives
+* understand the core concepts and principles of Linux` Kernel Debugging
+* gain practical knowledge of Basics
+* gain practical knowledge of Kernel Features (reminder)
+* gain practical knowledge of Techniques for finding the problem
+
 ## Outline
 * Basics
     * Procedures

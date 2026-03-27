@@ -24,11 +24,21 @@ and implement full-text search features in their applications.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working with databases
+* backend engineers and data engineers
+
 ## Prerequisites
 * Programming experience in at least one language (`Java`, `Python`, `JavaScript`, or similar)
 * Understanding of `JSON` format and `RESTful` `APIs`
 * Basic knowledge of database concepts (`CRUD` operations, indexes)
 * Familiarity with `HTTP` protocols and client-server architecture
+
+## Objectives
+* understand the core concepts and principles of Elasticsearch` for Developers (Short)
+* gain practical knowledge of Introduction to `Elasticsearch
+* gain practical knowledge of Elasticsearch` Fundamentals
+* gain practical knowledge of Data Modeling and Mappings
 
 ## Outline
 * Introduction to `Elasticsearch`

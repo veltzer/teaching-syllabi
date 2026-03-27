@@ -19,6 +19,20 @@ This course covers advanced `C` programming topics for experienced developers wo
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* C programmers
+* embedded and systems software developers
+
+## Prerequisites
+* working experience with c
+* solid experience with C programming
+
+## Objectives
+* understand the core concepts and principles of C Advanced
+* gain practical knowledge of Debugging using `gdb` and friends
+* gain practical knowledge of Various ways of allocation memory
+* gain practical knowledge of Memory leaks and memory corruption
+
 ## Outline
 * Debugging using `gdb` and friends
     * configuring source code locations.

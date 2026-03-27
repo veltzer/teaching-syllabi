@@ -24,10 +24,20 @@ This course is designed for experienced kernel developers who want to leverage `
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
 ## Prerequisites
 * Proficiency in C programming
 * Familiarity with operating system concepts and kernel development
 * Basic understanding of computer architecture
+
+## Objectives
+* understand the core concepts and principles of QEMU` for Kernel Developers
+* gain practical knowledge of Introduction to `QEMU
+* gain practical knowledge of Basic `QEMU` Usage for Kernel Development
+* gain practical knowledge of QEMU` Networking
 
 ## Outline
 * Introduction to `QEMU`

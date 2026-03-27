@@ -21,6 +21,19 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers managing build processes
+* DevOps engineers working with CI/CD pipelines
+
+## Prerequisites
+* software development experience
+
+## Objectives
+* understand the core concepts and principles of CMake
+* gain practical knowledge of Introduction to `CMake
+* gain practical knowledge of "Hello, World!"
+* gain practical knowledge of In-Depth Syntax
+
 ## Outline
 * Introduction to `CMake`
     * `CMake` History

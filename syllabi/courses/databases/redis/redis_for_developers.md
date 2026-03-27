@@ -21,6 +21,10 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working with databases
+* backend engineers and data engineers
+
 ## Prerequisites
 * Basic understanding of data structures and algorithms.
 * Familiarity with command-line interfaces.

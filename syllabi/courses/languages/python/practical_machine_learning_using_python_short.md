@@ -37,6 +37,15 @@ and did the data science course.
 * Have basic `Python` proficiency.
 * Have gone through `Python` Data Science training.
 
+## Prerequisites
+* experience with Python programming
+
+## Objectives
+* understand the core concepts and principles of Practical `Machine Learning` Using `Python
+* gain practical knowledge of Machine Learning` Basic Concepts
+* gain practical knowledge of Data Preparation
+* gain practical knowledge of Supervised Learning
+
 ## Outline
 * `Machine Learning` Basic Concepts
     * Overview

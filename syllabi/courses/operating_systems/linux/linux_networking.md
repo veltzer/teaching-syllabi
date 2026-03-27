@@ -29,6 +29,19 @@ administration levels.
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
+## Prerequisites
+* familiarity with Linux command line and system administration
+
+## Objectives
+* understand the core concepts and principles of Linux` networking
+* gain practical knowledge of Networking for programmers
+* gain practical knowledge of C user level `API` for networking.
+* gain practical knowledge of Command line and information about the network stack in real time
+
 ## Outline
 * Networking for programmers
     * Introduction to `TCP`/IP

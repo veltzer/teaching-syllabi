@@ -24,10 +24,20 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
 ## Duration
 8 hours / 1 day
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
 ## Prerequisites
 * Basic understanding of embedded systems
 * Familiarity with command-line interfaces
 * General knowledge of at least one programming language (preferably C or C++)
+
+## Objectives
+* understand the core concepts and principles of QEMU
+* gain practical knowledge of Introduction to `QEMU
+* gain practical knowledge of QEMU` Setup and Configuration
+* gain practical knowledge of QEMU` for ARM-based Systems
 
 ## Outline
 * Introduction to `QEMU`

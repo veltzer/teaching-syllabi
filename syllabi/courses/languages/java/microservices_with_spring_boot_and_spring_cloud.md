@@ -39,6 +39,12 @@ Boot, and `Spring Cloud`.
 * Experience developing with the `Spring` Framework and `Java`
 * Basic familiarity with networking concepts such as `HTTP`
 
+## Objectives
+* understand the core concepts and principles of Micro-services with `Spring Boot` and `Spring Cloud
+* gain practical knowledge of Refresher: Introduction to the `Spring` Framework
+* gain practical knowledge of Spring` testing
+* gain practical knowledge of Spring` Beans Exercises
+
 ## Outline
 * Refresher: Introduction to the `Spring` Framework
     * Course introduction

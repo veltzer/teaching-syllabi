@@ -24,6 +24,19 @@ use the `Linux` `gdb` debugger and get better at debugging in general.
 ## Duration
 16 hours / 2 days
 
+## Intended Audience
+* software developers working on Linux-based systems
+* system administrators and DevOps engineers
+
+## Prerequisites
+* basic familiarity with operating system concepts
+
+## Objectives
+* understand the core concepts and principles of Gdb
+* gain practical knowledge of definitions
+* gain practical knowledge of gdb` intro
+* gain practical knowledge of the toolchain and its tools
+
 ## Outline
 * definitions
 * `gdb` intro

@@ -33,6 +33,20 @@ required.
 ## Duration
 40 hours / 5 days
 
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* experience with C programming
+* familiarity with Linux system administration
+
+## Objectives
+* understand the core concepts and principles of Linux` Kernel
+* gain practical knowledge of Linux` Kernel Introduction
+* gain practical knowledge of Kernel Sources
+* gain practical knowledge of Compiling
+
 ## Outline
 * `Linux` Kernel Introduction
     * System and kernel overview

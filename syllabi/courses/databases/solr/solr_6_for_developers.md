@@ -20,6 +20,20 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
 ## Duration
 24 hours / 3 days
 
+## Intended Audience
+* software developers working with databases
+* backend engineers and data engineers
+
+## Prerequisites
+* software development experience
+* basic understanding of data storage and retrieval
+
+## Objectives
+* understand the core concepts and principles of Solr` 6 for Developers
+* gain practical knowledge of Fundamentals and Getting Started with `Solr` 6
+* gain practical knowledge of Designing Schemas
+* gain practical knowledge of Mastering Text Analysis Methodologies
+
 ## Outline
 * Fundamentals and Getting Started with `Solr` 6
     * What is new in `Solr` 6

@@ -40,6 +40,12 @@ when to apply each technique based on system requirements and constraints.
 * Familiarity with embedded systems concepts
 * Basic understanding of `C`/`C++` (helpful for Part 3)
 
+## Objectives
+* understand the core concepts and principles of Embedded `Java
+* gain practical knowledge of Part 1: Creating `Linux` Distributions for Embedded `Java
+* gain practical knowledge of Part 2: Real-Time `Java
+* gain practical knowledge of Part 3: `Java` Integration with Native Real-Time Processes
+
 ## Outline
 * Part 1: Creating `Linux` Distributions for Embedded `Java`
     * Introduction to Embedded `Linux`
