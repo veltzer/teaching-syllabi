@@ -137,3 +137,6 @@ This is a rather lengthy course for testing as most testing courses are one day 
 ## Installations
 * Each student should have a machine with python3 installed on it
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
+
+## Copyright
+Mark Veltzer, © 2026

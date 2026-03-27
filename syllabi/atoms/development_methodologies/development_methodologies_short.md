@@ -45,3 +45,6 @@ developer and your development environment more productive.
 * Stop using MS-`Windows`!
 * Philosophy of tools is more important than practical knowledge
 * How to use and when not to use consultants
+
+## Copyright
+Mark Veltzer, © 2026

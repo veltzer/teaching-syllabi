@@ -83,3 +83,6 @@ shown by the instructor.
     * Amazon Rekognition
 * Image to text
     * Amazon Textract
+
+## Copyright
+Mark Veltzer, © 2026

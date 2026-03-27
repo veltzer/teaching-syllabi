@@ -76,3 +76,6 @@ This course will provide a comprehensive introduction to game development using 
 * Online `C#` programming resources
 * Game design books and articles
 * Additional resources will be provided throughout the course.
+
+## Copyright
+Mark Veltzer, © 2026

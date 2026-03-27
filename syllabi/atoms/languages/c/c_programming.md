@@ -111,3 +111,6 @@ C is and has been for years the world's best language for low level, systems and
     * Code organization and style
     * Documentation practices
     * Common C programming pitfalls
+
+## Copyright
+Mark Veltzer, © 2026

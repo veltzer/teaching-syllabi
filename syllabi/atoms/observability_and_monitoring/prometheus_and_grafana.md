@@ -98,3 +98,6 @@ As current deployed applications and systems are becoming more complex with tool
     * Adding a metrics endpoint as a data source
     * Securing user permissions and authentication
     * Publishing dashboards / snapshots
+
+## Copyright
+Mark Veltzer, © 2026

@@ -117,3 +117,6 @@ This is a practical course with exercises covering most topics.
     * Power-on self tests
     * Division between software and hardware in BIT
     * BIT mandates in certain industries or hardware devices
+
+## Copyright
+Mark Veltzer, © 2026

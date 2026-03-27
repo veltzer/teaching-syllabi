@@ -99,3 +99,6 @@ device driver itself. It also teaching about other technologies that have an int
     * The architecture of eBPF
     * Creating and running eBPF code
     * Off the shelf eBPF program collections
+
+## Copyright
+Mark Veltzer, © 2026

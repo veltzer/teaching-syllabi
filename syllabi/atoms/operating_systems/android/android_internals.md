@@ -125,3 +125,6 @@ data flows from the java application down to the kernel driver and the hardware.
     * Creating a full system service
     * Handling interrupts at any layer
     * Debugging code in AOSP (application & libraries)
+
+## Copyright
+Mark Veltzer, © 2026

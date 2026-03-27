@@ -97,3 +97,6 @@ but this will require some work.
     * Checking OCI service status
     * Verbose Logging
     * Error messages
+
+## Copyright
+Mark Veltzer, © 2026

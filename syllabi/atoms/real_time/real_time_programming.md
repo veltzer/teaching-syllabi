@@ -79,3 +79,6 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
     * Problems relating to real time coming from hardware
     * IO busses and real time
     * Interrupts causing problems to real time systems
+
+## Copyright
+Mark Veltzer, © 2026

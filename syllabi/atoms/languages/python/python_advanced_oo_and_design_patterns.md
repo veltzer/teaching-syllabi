@@ -158,3 +158,6 @@ The study of each pattern will be accompanied by real-world examples and a lab i
         * Comparison of GOF Patterns
         * When to not to use patterns
         * Overview of other GOF and non GOF patterns
+
+## Copyright
+Mark Veltzer, © 2026

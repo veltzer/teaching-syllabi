@@ -62,3 +62,6 @@ This one-day course introduces participants to the fundamental concepts and prac
 * Case Study
     * Applying concepts to a real-world scenario
     * Group discussion and analysis
+
+## Copyright
+Mark Veltzer, © 2026

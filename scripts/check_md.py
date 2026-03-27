@@ -23,6 +23,7 @@ REQUIRED = [
     "Notes",
     "Links",
     "Textbooks and Resources",
+    "Copyright",
 ]
 MUST = [
     "Description",

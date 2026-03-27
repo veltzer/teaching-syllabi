@@ -95,3 +95,6 @@ Key topics:
     * Effective `STL`
     * UML
     * Case study: Embedded system design with UML
+
+## Copyright
+Mark Veltzer, © 2026

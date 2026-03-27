@@ -55,3 +55,6 @@ This course teaches classical software design patterns and how to implement them
 
 ## References
 * [software design patterns](http://en.wikipedia.org/wiki/Software_design_pattern)
+
+## Copyright
+Mark Veltzer, © 2026

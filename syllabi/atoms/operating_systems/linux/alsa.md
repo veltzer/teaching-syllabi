@@ -73,3 +73,6 @@ The "Advanced `Linux` Sound Architecture (ALSA) Programming" course is designed 
     * Existing audio encoders/decoders
     * Sound servers
     * Other existing applications
+
+## Copyright
+Mark Veltzer, © 2026

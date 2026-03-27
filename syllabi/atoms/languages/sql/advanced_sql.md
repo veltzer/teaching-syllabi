@@ -35,3 +35,6 @@ This course covers advanced `SQL` techniques including analytic functions, windo
 * Covering Index concept
 * Choosing the right index
 * Stored Procedures and compilation
+
+## Copyright
+Mark Veltzer, © 2026

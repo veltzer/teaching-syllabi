@@ -122,3 +122,6 @@ Upon completion, delegates will be able to:
 * [drgn - kernel debugger](https://github.com/osandov/drgn)
 * [crash utility](https://github.com/crash-utility/crash)
 * [`Linux` Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+
+## Copyright
+Mark Veltzer, © 2026

@@ -70,3 +70,6 @@ The course begins with a lesson on how to use `Splunk` to run basic searches and
     * Apply statistical functions
     * Introduction to dashboards
     * Alerts and scheduled searches
+
+## Copyright
+Mark Veltzer, © 2026

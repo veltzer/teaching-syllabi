@@ -101,3 +101,6 @@ This is a shortened version of the course to a single day instead of two days:
     * Monitoring - Hystrix
     * Load-balancing - `Spring` Ribbon
     * Feign clients
+
+## Copyright
+Mark Veltzer, © 2026

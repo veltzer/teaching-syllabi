@@ -143,3 +143,6 @@ to building correct, deterministic, multi-threaded firmware.
     * Shared-nothing architectures on multi-core `MCUs`
     * When not to use multi-core (overhead vs benefit)
     * Power consumption implications of running multiple cores
+
+## Copyright
+Mark Veltzer, © 2026

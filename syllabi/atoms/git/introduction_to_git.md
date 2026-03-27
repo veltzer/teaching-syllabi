@@ -140,3 +140,6 @@ Because the industry sometimes misuses git this course is also focuses on cleari
     * Gitlab
     * `Git` and `IDEs`
     * `Git` and `Jenkins`, Bamboo etc
+
+## Copyright
+Mark Veltzer, © 2026

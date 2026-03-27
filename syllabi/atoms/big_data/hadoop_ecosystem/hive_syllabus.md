@@ -83,3 +83,6 @@ Developers and data scientists who need to query and analyze large-scale data us
     * Partitioning
     * Bucketing
     * Indexing
+
+## Copyright
+Mark Veltzer, © 2026

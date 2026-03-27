@@ -133,3 +133,6 @@ sure that the participants have an access to `Linux` boxes.
 * In any case the student must have sudo/root on this virtual machine.
 * In all cases the installations are not a must and the instructor will guide the students how to do the installations on the first day of the course.
 * The virtual machines should have at least 4GB of memory.
+
+## Copyright
+Mark Veltzer, © 2026

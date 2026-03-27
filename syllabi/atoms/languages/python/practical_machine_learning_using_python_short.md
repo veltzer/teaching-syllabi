@@ -106,3 +106,6 @@ and did the data science course.
     * Clustering
     * K-Means
     * Recommender systems
+
+## Copyright
+Mark Veltzer, © 2026

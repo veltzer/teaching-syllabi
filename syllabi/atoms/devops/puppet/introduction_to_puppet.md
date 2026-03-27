@@ -75,3 +75,6 @@ allows them to start working with it.
     * Content templates
     * Resource types
 * Q/A
+
+## Copyright
+Mark Veltzer, © 2026

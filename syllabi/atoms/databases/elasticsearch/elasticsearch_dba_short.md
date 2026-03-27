@@ -143,3 +143,6 @@ Each student should have:
 * Modern web browser for accessing Kibana interface
 * curl for `REST` `API` testing
 * Network connectivity between all nodes for cluster formation
+
+## Copyright
+Mark Veltzer, © 2026

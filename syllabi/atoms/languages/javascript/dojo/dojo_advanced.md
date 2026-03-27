@@ -54,3 +54,6 @@ Web developers with basic `Dojo` experience who need to build advanced widget-ba
     * tools and debugging
     * build and deployment
     * i18n in general and in widget
+
+## Copyright
+Mark Veltzer, © 2026

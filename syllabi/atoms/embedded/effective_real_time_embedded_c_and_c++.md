@@ -162,3 +162,6 @@ programming languages in a real time, embedded environment.
     * System Tick Timer (SysTick)
 
 [//1]: <> (Logtel course # 3411)
+
+## Copyright
+Mark Veltzer, © 2026

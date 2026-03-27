@@ -139,3 +139,6 @@ Embedded/Real Time programming.
         * Conversions to a class object
         * Conversions from a class object
         * Embedded / Real Time considerations
+
+## Copyright
+Mark Veltzer, © 2026

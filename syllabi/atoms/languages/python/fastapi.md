@@ -118,3 +118,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Performance monitoring and health check endpoints
     * `Docker` containerization and deployment strategies
     * Production deployment with `Gunicorn`, `Uvicorn`, and cloud platforms
+
+## Copyright
+Mark Veltzer, © 2026

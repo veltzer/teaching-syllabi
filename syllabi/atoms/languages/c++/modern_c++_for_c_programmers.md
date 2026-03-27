@@ -222,3 +222,6 @@ This is not a course for beginners. It covers a great deal of material and those
     * Iterators
     * Algorithms
     * Modifying Sort
+
+## Copyright
+Mark Veltzer, © 2026

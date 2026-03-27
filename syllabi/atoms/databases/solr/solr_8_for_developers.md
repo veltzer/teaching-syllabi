@@ -109,3 +109,6 @@ are, how they work, how `Solr` works and how to use `Solr` effectively in a prod
     * `Solr`.xml
     * Managing `Solr`
     * Learn about `Solr` Cloud: Introduction, Features, Architecture, Exploring `Solr` Cloud
+
+## Copyright
+Mark Veltzer, © 2026

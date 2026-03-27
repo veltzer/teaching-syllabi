@@ -174,3 +174,6 @@ required.
 * In any case the student must have sudo/root on this virtual machine and the machines should be connected to the internet.
 * There is no need for special installations on the machine. The instructor will guide the students to install whatever is needed.
 * The machine should have at least 15GB free disk space.
+
+## Copyright
+Mark Veltzer, © 2026

@@ -116,3 +116,6 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
     * Maintaining memory safety in no-std
     * Following resource management patterns
     * Testing embedded code
+
+## Copyright
+Mark Veltzer, © 2026

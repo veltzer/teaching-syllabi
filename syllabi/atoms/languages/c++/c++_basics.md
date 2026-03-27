@@ -55,3 +55,6 @@ concepts of the language.
     * Algorithms
     * How to choose `STL` Container
     * Safe `STL`
+
+## Copyright
+Mark Veltzer, © 2026

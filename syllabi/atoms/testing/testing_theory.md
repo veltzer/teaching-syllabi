@@ -50,3 +50,6 @@ This course provides a comprehensive introduction to software testing theory, co
 * Measuring software quality
     * Various methods
     * Combining methods
+
+## Copyright
+Mark Veltzer, © 2026

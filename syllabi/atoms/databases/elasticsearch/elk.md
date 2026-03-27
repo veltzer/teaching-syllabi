@@ -334,3 +334,6 @@ and integration scenarios commonly found in production environments.
         * OpenSearch
         * Graylog
         * `Splunk` comparison
+
+## Copyright
+Mark Veltzer, © 2026

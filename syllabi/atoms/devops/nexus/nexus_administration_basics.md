@@ -43,3 +43,6 @@ This course is designed to provide new customers with the first steps towards op
 * Components and Formats
 * Repository Types
 * Repository Planning Checklist
+
+## Copyright
+Mark Veltzer, © 2026

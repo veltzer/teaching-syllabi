@@ -95,3 +95,6 @@ Ajax-enabled applications and more.
     interaction with the server
 * `JavaScript` aware editor (pspad is one alternative, eclipse is another)
 * Firefox with firebug installed for debugging and understanding
+
+## Copyright
+Mark Veltzer, © 2026

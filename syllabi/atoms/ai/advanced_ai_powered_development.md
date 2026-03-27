@@ -303,3 +303,6 @@ patterns that are actively used in production environments.
         * Standardizing tool configurations
         * Measuring and improving `AI` adoption
         * Building internal `AI` development platforms
+
+## Copyright
+Mark Veltzer, © 2026

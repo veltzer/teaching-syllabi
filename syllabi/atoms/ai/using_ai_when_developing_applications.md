@@ -174,3 +174,6 @@ This is a practical course for experienced developers. Participants should have:
 * "The Pragmatic Programmer" - `AI` Integration Patterns
 * IEEE Standards for `AI`-Assisted Software Development
 * OWASP Guidelines for `AI` Security in Development
+
+## Copyright
+Mark Veltzer, © 2026

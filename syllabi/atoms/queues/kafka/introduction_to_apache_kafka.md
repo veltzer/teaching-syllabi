@@ -53,3 +53,6 @@ The Introduction to `Apache Kafka` training course will provide the path for how
     * Message Delivery
     * Replication
     * Log Compaction
+
+## Copyright
+Mark Veltzer, © 2026

@@ -101,3 +101,6 @@ understanding of C++.
 * [Scott Meyers, More Effective C++, Addison-Wesley Publishing Company](https://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/c++/Effective%20C++%20+%20More%20Effective%20C++.pdf)
 * [Scott Meyers, Effective Modern C++, Addison-Wesley Publishing Company](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
 * [E.Gamma, R.Helm, R.Johnson, J.Vlissides, Design Patterns, Addison-Wesley Publishing Company](http://www.javier8a.com/itc/bd1/articulo.pdf)
+
+## Copyright
+Mark Veltzer, © 2026

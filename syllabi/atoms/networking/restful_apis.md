@@ -124,3 +124,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Performance optimization: response compression, efficient queries
     * Backward compatibility and deprecation strategies
     * Security headers and protection against common vulnerabilities
+
+## Copyright
+Mark Veltzer, © 2026

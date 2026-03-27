@@ -50,3 +50,6 @@ Architects and senior developers responsible for designing and maintaining large
 
 ## References
 * [The 6 Pillars of the `AWS` Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework)
+
+## Copyright
+Mark Veltzer, © 2026

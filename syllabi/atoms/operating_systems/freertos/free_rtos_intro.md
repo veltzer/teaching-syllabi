@@ -50,3 +50,6 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * Memory management
 * Stack overflow protection
 * Hook functions
+
+## Copyright
+Mark Veltzer, © 2026

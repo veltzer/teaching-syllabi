@@ -31,3 +31,6 @@ This course covers `Ansible`, the agentless automation and configuration managem
     * Playbooks
     * Best Practices
     * Exercises
+
+## Copyright
+Mark Veltzer, © 2026

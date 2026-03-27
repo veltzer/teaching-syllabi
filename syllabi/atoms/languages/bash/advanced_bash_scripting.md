@@ -106,3 +106,6 @@ Upon completion, delegates will be able to:
 * [Bats: `Bash` Automated Testing System](https://github.com/bats-core/bats-core)
 * [shunit2 Testing Framework](https://github.com/kward/shunit2)
 * [systemd Timers](https://www.freedesktop.org/software/systemd/man/systemd.timer.html)
+
+## Copyright
+Mark Veltzer, © 2026

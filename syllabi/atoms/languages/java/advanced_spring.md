@@ -113,3 +113,6 @@ SOLID, `Spring` Reactive, `gRPC`
         * `HTTP` 2.0
         * `RESTful` Vs. `gRPC`
         * Demo
+
+## Copyright
+Mark Veltzer, © 2026

@@ -66,3 +66,6 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
     * Managing solrconfig.xml
     * SolrCloud overview
     * Performance statistics
+
+## Copyright
+Mark Veltzer, © 2026

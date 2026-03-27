@@ -113,3 +113,6 @@ frugal and efficient application in the cloud.
     * mobile
     * testing
     * `AI`
+
+## Copyright
+Mark Veltzer, © 2026

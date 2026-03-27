@@ -124,3 +124,6 @@ This advanced course is designed for experienced `Linux` system administrators, 
 * [Ceph Documentation](https://docs.ceph.com/)
 * [GlusterFS Documentation](https://docs.gluster.org/)
 * [LUKS Disk Encryption](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home)
+
+## Copyright
+Mark Veltzer, © 2026

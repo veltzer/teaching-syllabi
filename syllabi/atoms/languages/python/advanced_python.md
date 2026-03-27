@@ -209,3 +209,6 @@ Each student should have:
 * Username and password of a user that has `sudo` privileges on the machine.
 * [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 * Users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them to fix issues but a minority of the more advanced exercises may not work on those machine.
+
+## Copyright
+Mark Veltzer, © 2026

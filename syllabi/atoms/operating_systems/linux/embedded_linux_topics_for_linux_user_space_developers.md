@@ -63,3 +63,6 @@ the lack thereof and others.
     * BSP and `Linux`.
     * Bootloaders and `Linux`.
         * uboot, lilo, grub, syslinux, xloader.
+
+## Copyright
+Mark Veltzer, © 2026

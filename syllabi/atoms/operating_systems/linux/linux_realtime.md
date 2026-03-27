@@ -141,3 +141,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Real time drivers and real time.
     * PCI pass through.
     * Hypervisors scheduling.
+
+## Copyright
+Mark Veltzer, © 2026

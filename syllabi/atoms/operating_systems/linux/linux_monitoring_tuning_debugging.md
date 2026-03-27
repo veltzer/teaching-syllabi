@@ -152,3 +152,6 @@ the boot process and more.
 * interacting with the shell
 * login/logout
 * using a debugger (local or remote)
+
+## Copyright
+Mark Veltzer, © 2026

@@ -30,3 +30,6 @@ We deal with the cost of various C++ features and with interacting efficiently w
 * Basics (how classes, inheritance, virtuals, etc are implemented)
 * Inlining
 * Efficiency topics
+
+## Copyright
+Mark Veltzer, © 2026

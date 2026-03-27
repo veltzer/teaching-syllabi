@@ -81,3 +81,6 @@ an object oriented one like `Java`, `C#`, `Python` or C++.
     * Strategy
     * Template method
     * Visitor
+
+## Copyright
+Mark Veltzer, © 2026

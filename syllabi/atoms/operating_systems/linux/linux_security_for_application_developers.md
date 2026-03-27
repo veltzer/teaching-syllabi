@@ -90,3 +90,6 @@ This course is an instructor led course, with demos by the instructor and no exe
         * What is it? Why is it good?
         * How to enable it for libraries/binaries
         * How to disable it for various purposes (debugging, ...)
+
+## Copyright
+Mark Veltzer, © 2026

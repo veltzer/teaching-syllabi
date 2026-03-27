@@ -106,3 +106,6 @@ The course includes hands on exercises.
     * Documentation
     * Publishing to crates.io
     * Common tools and utilities
+
+## Copyright
+Mark Veltzer, © 2026

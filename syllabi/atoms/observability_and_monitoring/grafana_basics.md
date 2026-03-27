@@ -43,3 +43,6 @@ This course provides a hands-on introduction to `Grafana`, the popular open-sour
 * Dynamic Graphs from Variables
 * Using Plugins
 * Dashboard Design
+
+## Copyright
+Mark Veltzer, © 2026

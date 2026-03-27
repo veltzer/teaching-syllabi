@@ -31,3 +31,6 @@ This course provides a hands-on introduction to `Terraform`, the popular infrast
 * `Terraform` Test Automation
 * `Terraform` Security
 * Maintenance and Troubleshooting
+
+## Copyright
+Mark Veltzer, © 2026

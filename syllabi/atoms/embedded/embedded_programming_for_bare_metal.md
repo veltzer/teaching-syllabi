@@ -92,3 +92,6 @@ This intensive 4-day course introduces students to programming embedded systems 
     * Advanced troubleshooting techniques
     * System integration concepts
     * Future learning paths
+
+## Copyright
+Mark Veltzer, © 2026

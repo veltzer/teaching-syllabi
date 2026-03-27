@@ -125,3 +125,6 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 
 ## References
 * [slides for this course](https://bootlin.com/doc/training/buildroot/)
+
+## Copyright
+Mark Veltzer, © 2026

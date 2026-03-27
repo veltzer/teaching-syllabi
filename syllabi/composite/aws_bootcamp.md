@@ -393,3 +393,6 @@ to `DevOps` skilled tuned for the `AWS` environment.
     * Managing application users
         * Cognito
         * `AWS` SSO.
+
+## Copyright
+Mark Veltzer, © 2026

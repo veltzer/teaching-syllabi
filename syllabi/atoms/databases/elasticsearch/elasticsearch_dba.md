@@ -229,3 +229,6 @@ Each student should have:
 * For cloud exercises: trial account for `Elastic Cloud` (14-day free trial)
 * Network connectivity between all nodes for cluster formation
 * Basic familiarity with command-line tools and `SSH` for remote access
+
+## Copyright
+Mark Veltzer, © 2026

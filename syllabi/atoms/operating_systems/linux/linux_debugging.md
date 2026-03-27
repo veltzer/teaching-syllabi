@@ -301,3 +301,6 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
     * Bug pattern recognition
     * Root cause analysis methodology
     * Debugging metrics and KPIs
+
+## Copyright
+Mark Veltzer, © 2026

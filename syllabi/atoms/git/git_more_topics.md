@@ -34,3 +34,6 @@ This course covers advanced `Git` topics for developers who already know the bas
     * Editing commits and history in general
     * Recover lost commits
     * Push to feature branch before update from master
+
+## Copyright
+Mark Veltzer, © 2026

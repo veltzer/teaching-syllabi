@@ -151,3 +151,6 @@ exam.
 * Conclusions
     * Cloud best practices.
     * Keeping up with `AWS`
+
+## Copyright
+Mark Veltzer, © 2026

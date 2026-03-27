@@ -96,3 +96,6 @@ Using `Python`: numpy, SciPy, pandas, Scikit-learn.
 ## Notes
 * This course does not include `Python` basics which is a pre-requisite to this course.
 * This course does not include deep learning which should be taken after this course.
+
+## Copyright
+Mark Veltzer, © 2026

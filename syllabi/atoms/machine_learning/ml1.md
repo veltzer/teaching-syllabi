@@ -76,3 +76,6 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
     * Deep Super-Resolution and image enhancement
     * Capsule Networks (Hinton) and recent works
     * Summary
+
+## Copyright
+Mark Veltzer, © 2026

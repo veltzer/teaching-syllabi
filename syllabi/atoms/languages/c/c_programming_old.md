@@ -49,3 +49,6 @@ C is and has been for years the world's best language for low level, systems and
 * Pointers to functions
 * Bits and Bit-wise Operations
 * Functions with a variable number of parameters
+
+## Copyright
+Mark Veltzer, © 2026

@@ -47,3 +47,6 @@ This intensive bootcamp covers the full stack of embedded `Linux` development, f
 
 ## Notes
 * Any topic marked as "Theory" is only theory with no exercises or exercises which are not programming ones. Anything else is practical and includes exercises
+
+## Copyright
+Mark Veltzer, © 2026

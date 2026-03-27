@@ -214,3 +214,6 @@ as a testing framework for professional web testing.
         * Continuous Integration
     * `Selenium` 2.0
         * Key Features
+
+## Copyright
+Mark Veltzer, © 2026

@@ -101,3 +101,6 @@ the basics of the `Java` programming language
     * Thread local storage
     * Daemons
     * Passing messages between threads
+
+## Copyright
+Mark Veltzer, © 2026

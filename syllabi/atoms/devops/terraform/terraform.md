@@ -82,3 +82,6 @@ but this will require some work.
     * Packer with `AWS`
     * Packer with Containers
     * Packer with Virtual Box
+
+## Copyright
+Mark Veltzer, © 2026

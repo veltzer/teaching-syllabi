@@ -167,3 +167,6 @@ will stick with this structure instead of the reverse: students will code an app
 UI (very easy at first). Then they will code native libraries which they will use from
 the previous application. And finally they will write a kernel module which will be
 used from the native library (and therefor from the UI application).
+
+## Copyright
+Mark Veltzer, © 2026

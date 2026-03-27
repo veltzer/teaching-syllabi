@@ -63,3 +63,6 @@ specifically 802.11b.
         * WPA
         * WPA2
         * WPA3.
+
+## Copyright
+Mark Veltzer, © 2026

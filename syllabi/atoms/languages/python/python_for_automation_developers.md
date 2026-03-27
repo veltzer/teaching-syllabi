@@ -62,3 +62,6 @@ automation project with `Selenium`, Appium, `REST` `API` support and Allure repo
 * Data Scraping (if time allows)
     * Introduction to data scraping?
     * Beautiful soup
+
+## Copyright
+Mark Veltzer, © 2026

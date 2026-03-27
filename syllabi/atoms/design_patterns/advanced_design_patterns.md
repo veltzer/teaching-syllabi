@@ -189,3 +189,6 @@ This is the full version of the Design Patterns Course covering all 24 GOF patte
 
 ## Notes
 This course could can be done with `Java`, `C#`, `Python` or C++ materials.
+
+## Copyright
+Mark Veltzer, © 2026

@@ -95,3 +95,6 @@ program efficiently when running on this platform.
     * Futex
     * Mutex
     * Semaphore
+
+## Copyright
+Mark Veltzer, © 2026

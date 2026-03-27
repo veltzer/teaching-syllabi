@@ -69,3 +69,6 @@ Using `Python`, `numpy`, `scipy`, `pandas`, `SQL`.
     * Operationalizing an Analytics project
     * Data Visualization Techniques
     * Creating final deliverables
+
+## Copyright
+Mark Veltzer, © 2026

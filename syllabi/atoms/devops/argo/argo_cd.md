@@ -81,3 +81,6 @@ will include tasks such as:
     * GitOps integration into a pipeline
     * Adding and monitoring apps
     * `CI/CD` workflow completion
+
+## Copyright
+Mark Veltzer, © 2026

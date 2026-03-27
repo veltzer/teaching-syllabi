@@ -130,3 +130,6 @@ flaws in bash design to create well written, easy to maintain, reliable and dete
     * Using associative arrays to create objects
 * Test harnesses
 * Aliases
+
+## Copyright
+Mark Veltzer, © 2026

@@ -190,3 +190,6 @@ Each student should have:
 * Students planning to work with `MongoDB` Atlas should have access to create a free Atlas account
 * For `Windows` users: `WSL2` with `Ubuntu` is acceptable, or native `Windows` `MongoDB` installation
 * For `MacOS` users: Native `MongoDB` installation is fully supported
+
+## Copyright
+Mark Veltzer, © 2026

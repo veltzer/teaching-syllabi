@@ -140,3 +140,6 @@ The course helps prepare for the certification exam CLFP (7Safe).
 * [7Safe CLFP Certification](https://www.7safe.com/)
 * [`GDB`: The GNU Project Debugger](https://www.gnu.org/software/gdb/)
 * [Dradis Framework](https://dradisframework.com/)
+
+## Copyright
+Mark Veltzer, © 2026

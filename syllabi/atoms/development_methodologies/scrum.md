@@ -71,3 +71,6 @@ This course provides a thorough introduction to the `Scrum` framework for agile 
     * Scaling the product backlog
     * Scaling across a program and business areas
     * Distributed Teams
+
+## Copyright
+Mark Veltzer, © 2026

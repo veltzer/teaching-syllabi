@@ -86,3 +86,6 @@ The course utilizes a mixture of lectures and hands-on exercises to reinforce le
     * Overview
     * What is `Kafka` Streams
     * Why `Kafka` Streams
+
+## Copyright
+Mark Veltzer, © 2026

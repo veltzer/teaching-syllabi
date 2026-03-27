@@ -87,3 +87,6 @@ Upon successful completion of this course, students will be able to:
 * "`Oracle` PL/SQL Programming" by Steven Feuerstein
 * "`Oracle` Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney
 * Online resources (`Oracle` Learning Library, `Oracle` Developer Community, etc.)
+
+## Copyright
+Mark Veltzer, © 2026

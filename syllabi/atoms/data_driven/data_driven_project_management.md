@@ -122,3 +122,6 @@ Any of the following
 
 ## Notes
 * There are preparation hints in the form of Quiz slides at ends of chapters
+
+## Copyright
+Mark Veltzer, © 2026

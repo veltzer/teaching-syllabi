@@ -91,3 +91,6 @@ An in depth course looking at working with the `Linux` `pthread` library.
     * `thread_at_fork` hooks
     * `pthread_once`
     * what happens when a thread does execve? answer: all threads die automatically
+
+## Copyright
+Mark Veltzer, © 2026

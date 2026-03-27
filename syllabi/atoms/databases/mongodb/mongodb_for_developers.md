@@ -217,3 +217,6 @@ Each student should have:
 * `Postman` or similar tool for `API` testing
 * Free internet access for package installation and `MongoDB Atlas` access
 * Sample datasets will be provided during the course
+
+## Copyright
+Mark Veltzer, © 2026

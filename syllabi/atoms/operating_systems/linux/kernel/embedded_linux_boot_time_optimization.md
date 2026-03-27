@@ -96,3 +96,6 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
     * Generating and analyzing a boot graph for the kernel
     * Find and eliminate unnecessary kernel features
     * Find the best kernel compression solution for our system
+
+## Copyright
+Mark Veltzer, © 2026

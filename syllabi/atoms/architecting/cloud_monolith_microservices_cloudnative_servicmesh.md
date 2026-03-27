@@ -43,3 +43,6 @@ This course covers the evolution of application architecture from monolithic sys
     * From #Monolith to #Micro-services to #CLOUD_NATIVE to #SERVICE MESH
     * Hope is not a strategy ?!
     * #CHAOS ENGINEERING in cloudy Micro-services environment
+
+## Copyright
+Mark Veltzer, © 2026

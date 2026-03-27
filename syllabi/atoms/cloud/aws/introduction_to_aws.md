@@ -73,3 +73,6 @@ General `IT` knowledge and a desire to learn about cloud computing. No prior exp
     * The `AWS Well-Architected Framework`
     * Understanding `AWS` pricing and billing
     * Next Steps and Path to Certification
+
+## Copyright
+Mark Veltzer, © 2026

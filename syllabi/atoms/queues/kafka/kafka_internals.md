@@ -86,3 +86,6 @@ The course begins with covering configurations, allowing students to discover br
     * What is KSQLDB
     * Why KSQLDB
     * Hands-on Exercise(s)
+
+## Copyright
+Mark Veltzer, © 2026

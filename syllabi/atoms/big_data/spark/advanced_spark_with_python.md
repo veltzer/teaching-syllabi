@@ -88,3 +88,6 @@ This course is designed for data engineers and data scientists who have a basic 
 ## References
 * "Learning `Spark`: Lightning-Fast Data Analytics" by Jules S. Damji et al.
 * "High Performance `Spark`: Best Practices for Scaling and Optimizing `Apache Spark`" by Holden Karau and Rachel Warren
+
+## Copyright
+Mark Veltzer, © 2026

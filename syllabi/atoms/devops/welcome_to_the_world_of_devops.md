@@ -147,3 +147,6 @@ course will also discuss current trends and future directions in the `DevOps` la
     * Success Stories
         * Examples of organizations benefiting from `DevOps`
         * Lessons learned and best practices
+
+## Copyright
+Mark Veltzer, © 2026

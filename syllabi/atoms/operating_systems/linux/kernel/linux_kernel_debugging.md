@@ -129,3 +129,6 @@ Other chapters are written by [me](mailto:mark.veltzer@gmail.com).
 This course does not teach `Linux` Kernel Programming from the ground up. Kernel knowledge
 is assumed and should have been acquired in a previous course or some years with hands
 on experience in kernel programming.
+
+## Copyright
+Mark Veltzer, © 2026

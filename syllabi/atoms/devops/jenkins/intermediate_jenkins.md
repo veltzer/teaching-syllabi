@@ -127,3 +127,6 @@ well as uncover some lessons learned from instructors with years of experience w
 ## References
 [building-a-modern-ci-cd-pipeline-with-`Jenkins`](https://www.pluralsight.com/courses/building-modern-ci-cd-pipeline-`Jenkins`)
 [automating-`Jenkins`-with-groovy](https://www.pluralsight.com/courses/automating-`Jenkins`-groovy)
+
+## Copyright
+Mark Veltzer, © 2026

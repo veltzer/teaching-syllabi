@@ -475,3 +475,6 @@ languages and real-world search scenarios commonly encountered in application de
         * Migration strategies
         * Environment management
         * Documentation practices
+
+## Copyright
+Mark Veltzer, © 2026

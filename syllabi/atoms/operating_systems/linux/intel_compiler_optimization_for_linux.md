@@ -80,3 +80,6 @@ Attendees will be equipped to significantly enhance the performance of their `Li
 
 ## References
 * [Intel Compiler](http://denali.princeton.edu/IntelXe2011/compiler_c/main_cls/index.htm#bldaps_cls/common/bldaps_pch_comm.htm)
+
+## Copyright
+Mark Veltzer, © 2026

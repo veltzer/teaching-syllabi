@@ -75,3 +75,6 @@ fail.
     * splitting the product.
     * sharing as much as possible between products.
     * not inventing the wheel.
+
+## Copyright
+Mark Veltzer, © 2026

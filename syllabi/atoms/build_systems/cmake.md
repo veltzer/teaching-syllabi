@@ -58,3 +58,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Generating files during `CMake` execution
     * Custom targets
     * Executing processes during `CMake` execution
+
+## Copyright
+Mark Veltzer, © 2026

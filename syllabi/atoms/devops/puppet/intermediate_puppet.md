@@ -99,3 +99,6 @@ improve your application delivery process.
         * Applications
         * Types
         * Type Aliases
+
+## Copyright
+Mark Veltzer, © 2026

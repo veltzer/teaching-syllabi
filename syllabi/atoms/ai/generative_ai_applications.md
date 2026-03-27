@@ -63,3 +63,6 @@ and Safety. Generative `AI` applications
 
 ## References
 [syllabus](https://ai-dt.school/generative-ai/#curriculum)
+
+## Copyright
+Mark Veltzer, © 2026

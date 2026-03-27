@@ -89,3 +89,6 @@ over it in C or C++ which make efficient use of it.
     * strace, `ltrace` and friends.
     * valgrind, `cachegrind` and friends.
     * Logging approaches and the system logger.
+
+## Copyright
+Mark Veltzer, © 2026

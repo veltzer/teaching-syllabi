@@ -83,3 +83,6 @@ This one day course covers the OWASP Top 10 for Large Language Model Application
     * Model extraction attacks
     * `API` abuse for model replication
     * Access controls and monitoring
+
+## Copyright
+Mark Veltzer, © 2026

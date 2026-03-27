@@ -115,3 +115,6 @@ Boot, and `Spring Cloud`.
 * `Spring Cloud` Exercises
     * Configuration server exercise
     * Service discovery exercise
+
+## Copyright
+Mark Veltzer, © 2026

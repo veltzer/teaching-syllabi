@@ -160,3 +160,6 @@ new problems.
     * Anomaly detection
     * Handling imbalanced data
     * Ensemble methods
+
+## Copyright
+Mark Veltzer, © 2026

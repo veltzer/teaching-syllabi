@@ -36,3 +36,6 @@ This course covers `RabbitMQ` from a `DevOps` perspective, focusing on deploymen
 * Alarms and monitoring
 * Health checks
 * Upgrading `RabbitMQ`
+
+## Copyright
+Mark Veltzer, © 2026

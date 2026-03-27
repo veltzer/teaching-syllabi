@@ -87,3 +87,6 @@ A year of experience in the software industry in any technical position is requi
 * The virtual machines should have a connection to the internet (so we could download any software we need).
 * The virtual machines should have a working graphical display (so we could run graphical applications on them).
 * The user should have `sudo` privileges on those machines.
+
+## Copyright
+Mark Veltzer, © 2026

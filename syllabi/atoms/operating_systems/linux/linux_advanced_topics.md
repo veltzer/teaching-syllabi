@@ -71,3 +71,6 @@ IO advanced `APIs`
     * splice
     * tee
     * vmsplice
+
+## Copyright
+Mark Veltzer, © 2026

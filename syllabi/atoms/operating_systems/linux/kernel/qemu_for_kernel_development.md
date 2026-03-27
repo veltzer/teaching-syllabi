@@ -66,3 +66,6 @@ This course is designed for experienced kernel developers who want to leverage `
     * `QEMU` source code organization
     * TCG (Tiny Code Generator) basics
     * Contributing to `QEMU`
+
+## Copyright
+Mark Veltzer, © 2026

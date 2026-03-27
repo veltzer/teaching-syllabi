@@ -48,3 +48,6 @@ scalable, durable and efficient system.
     * scalability of the queue
 * comparison of different alternatives:
     * `Kafka`, `ActiveMQ`, `RabbitMQ`, `Pulsar`, `Azure` queues.
+
+## Copyright
+Mark Veltzer, © 2026

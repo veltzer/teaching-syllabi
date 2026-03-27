@@ -85,3 +85,6 @@ Experienced `Rust` developers looking to deepen their knowledge of advanced lang
     * Advanced techniques for debugging and resolving complex issues in `Rust` programs
     * Profiling and optimizing performance in real-world scenarios
     * Strategies for handling edge cases and unusual behavior
+
+## Copyright
+Mark Veltzer, © 2026

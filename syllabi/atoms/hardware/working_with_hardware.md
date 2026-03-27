@@ -100,3 +100,6 @@ i2c, interrupt mitigation and other subjects.
     * Hardware support for debugging - external
     * Hardware support for debugging - software
     * JTAG
+
+## Copyright
+Mark Veltzer, © 2026

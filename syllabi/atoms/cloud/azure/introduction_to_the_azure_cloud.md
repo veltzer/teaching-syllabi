@@ -88,3 +88,6 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
     * `Azure` Certifications
     * Learning Resources
     * Community Engagement
+
+## Copyright
+Mark Veltzer, © 2026

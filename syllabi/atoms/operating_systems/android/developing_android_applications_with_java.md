@@ -191,3 +191,6 @@ will previous experience of `Android` Studio
 * Latest version is usually preferred.
 * No need to install `Java` before either.
 * The course uses the emulator to run the applications so no need for a physical device although the students may use their phone to run the applications they write.
+
+## Copyright
+Mark Veltzer, © 2026

@@ -103,3 +103,6 @@ and architect systems for resiliency, observability, and continuous delivery.
         * Infrastructure as Code (`IaC`) principles
         * Deployment strategies including Blue/Green, Canary, and Rolling updates
         * The role of the Architect in the `DevOps` lifecycle
+
+## Copyright
+Mark Veltzer, © 2026

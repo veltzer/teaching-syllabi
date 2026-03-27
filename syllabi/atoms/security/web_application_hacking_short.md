@@ -128,3 +128,6 @@ These are the exercises that we will do:
 * [TryHackMe](https://tryhackme.com/dashboard)
 * [HackThisSite](https://www.hackthissite.org)
 * [CTFlearn](https://ctflearn.com)
+
+## Copyright
+Mark Veltzer, © 2026

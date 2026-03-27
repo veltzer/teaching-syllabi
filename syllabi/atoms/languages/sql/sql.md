@@ -143,3 +143,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Testing `SQL` queries
     * Version control for database schemas
     * Common `SQL` antipatterns and pitfalls
+
+## Copyright
+Mark Veltzer, © 2026

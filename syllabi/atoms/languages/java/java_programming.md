@@ -113,3 +113,6 @@ of multi-threading in `Java`.
     * Thread local storage
     * Daemons
     * Passing messages between threads
+
+## Copyright
+Mark Veltzer, © 2026

@@ -89,3 +89,6 @@ Code examples will be shown and given to the students for many of the patterns.
     * async completion (future) pattern
     * proactor pattern
     * object monitor
+
+## Copyright
+Mark Veltzer, © 2026

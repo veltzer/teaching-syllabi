@@ -281,3 +281,6 @@ pick the right tradeoff for your case.
     * Edge computing
     * `AI` and machine learning in cloud architecture
     * Blockchain and distributed systems
+
+## Copyright
+Mark Veltzer, © 2026

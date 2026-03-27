@@ -176,3 +176,6 @@ and implement full-text search features in their applications.
         * Mapping explosions
         * Memory issues
         * Query performance problems
+
+## Copyright
+Mark Veltzer, © 2026

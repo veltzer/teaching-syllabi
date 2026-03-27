@@ -61,3 +61,6 @@ design patterns prevalent in the industry.
 
 ## References
 * [Bruce Powel Douglass, Ph.D, Real-Time Design Patterns](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.pdf)
+
+## Copyright
+Mark Veltzer, © 2026

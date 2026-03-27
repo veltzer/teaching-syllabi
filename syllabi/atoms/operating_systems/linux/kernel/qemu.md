@@ -85,3 +85,6 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
     * Common pitfalls and troubleshooting strategies
     * Future trends in embedded system emulation
     * `QEMU` in continuous integration and testing environments
+
+## Copyright
+Mark Veltzer, © 2026

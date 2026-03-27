@@ -125,3 +125,6 @@ impactful `AI` development techniques that can be immediately applied to real wo
         * Over-reliance on `AI`
         * Maintaining core skills
         * Recognizing tool boundaries
+
+## Copyright
+Mark Veltzer, © 2026

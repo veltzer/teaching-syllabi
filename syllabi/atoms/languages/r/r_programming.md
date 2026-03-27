@@ -48,3 +48,6 @@ This course provides a hands-on introduction to the `R` programming language for
     * Testing the mean of a sample (t test)
     * Finding confidence interval for the mean.
     * Testing for normality
+
+## Copyright
+Mark Veltzer, © 2026

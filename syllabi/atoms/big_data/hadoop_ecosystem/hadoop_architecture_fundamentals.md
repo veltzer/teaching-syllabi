@@ -68,3 +68,6 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
     * Parallel Processing with `Pig`
     * Data Storage with `HBase`
     * Common Utilities: `Sqoop`, `Flume`, `Zookeeper`, etc.
+
+## Copyright
+Mark Veltzer, © 2026

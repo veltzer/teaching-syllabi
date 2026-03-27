@@ -56,3 +56,6 @@ platform (.NET, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 ## Notes
 * This course uses `Python` as it's main programming language with `PyCharm` as it's development environment.
 * This can be changed.
+
+## Copyright
+Mark Veltzer, © 2026

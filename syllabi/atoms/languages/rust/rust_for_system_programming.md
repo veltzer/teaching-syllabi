@@ -85,3 +85,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Tools and techniques for debugging `Rust` programs
     * Profiling and performance analysis
     * Troubleshooting common issues in systems programming
+
+## Copyright
+Mark Veltzer, © 2026

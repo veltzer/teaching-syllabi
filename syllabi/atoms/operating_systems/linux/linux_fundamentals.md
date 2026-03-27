@@ -150,3 +150,6 @@ The `vi` text editor
     * new `systemd`
     * `rc.local` and adding your own initialization code
     * writing your own `/etc/init.d` script
+
+## Copyright
+Mark Veltzer, © 2026

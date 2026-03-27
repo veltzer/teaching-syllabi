@@ -35,3 +35,6 @@ This course teaches how to design clean, sustainable, and extensible `API`s in t
 * techniques for avoiding client re compilation in `C`.
 * communication by registration of hooks.
 * exception handling in `C`.
+
+## Copyright
+Mark Veltzer, © 2026

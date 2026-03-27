@@ -249,3 +249,6 @@ examples instead.
         * for libraries
         * for binaries
         * how to turn it off for debugging
+
+## Copyright
+Mark Veltzer, © 2026

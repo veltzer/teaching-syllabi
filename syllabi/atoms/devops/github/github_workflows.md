@@ -113,3 +113,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Monitoring workflow usage and billing
     * Documentation and team collaboration
     * Version control for workflow files
+
+## Copyright
+Mark Veltzer, © 2026

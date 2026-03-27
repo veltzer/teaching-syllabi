@@ -131,3 +131,6 @@ third party tools that will be discussed in the development section.
             * Using PMD from the command line
             * Using PMD from ant
             * Using PMD from eclipse
+
+## Copyright
+Mark Veltzer, © 2026

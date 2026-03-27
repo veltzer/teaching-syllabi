@@ -72,3 +72,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * Methods and examples of deep learning for `NLP` and CV
     * Recent papers and active research
     * Tips and tricks
+
+## Copyright
+Mark Veltzer, © 2026

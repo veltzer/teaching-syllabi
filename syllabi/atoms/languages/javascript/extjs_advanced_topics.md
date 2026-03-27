@@ -29,3 +29,6 @@ This course covers advanced `ExtJS` topics including `WebWorkers`, custom widget
 * Custom widgets with DOM construction in Extjs.
 * new async `APIs` in Extjs.
 * update slides for Extjs 6.0 (including MVVM).
+
+## Copyright
+Mark Veltzer, © 2026

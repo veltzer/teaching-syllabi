@@ -432,3 +432,6 @@ is designed to take people new to the tech industry and turn them into entry lev
     * Employability
     * Introduction to `Kafka`
 * 360 hour / 45 day course.
+
+## Copyright
+Mark Veltzer, © 2026

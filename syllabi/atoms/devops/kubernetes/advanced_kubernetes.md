@@ -90,3 +90,6 @@ Each student should have:
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software.
 * Username and password of a user that has `sudo` privileges on the machine.
 * [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
+
+## Copyright
+Mark Veltzer, © 2026

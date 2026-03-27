@@ -124,3 +124,6 @@ Networking fundamentals are essential for understanding how computers communicat
     * `Wireshark` for packet capture and protocol analysis
     * Network monitoring and performance analysis techniques
     * Common network problems and systematic troubleshooting approaches
+
+## Copyright
+Mark Veltzer, © 2026

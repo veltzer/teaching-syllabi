@@ -103,3 +103,6 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
     * Memory management
     * Caching and Persistence of DataFrames
     * Cluster configuration
+
+## Copyright
+Mark Veltzer, © 2026

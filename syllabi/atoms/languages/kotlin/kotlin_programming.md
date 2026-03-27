@@ -131,3 +131,6 @@ but still be fully interoperable with `Java` code.
     * `Android` Menus
     * `Android` progress notifications in `Kotlin`
     * `Android` Project folder Structure
+
+## Copyright
+Mark Veltzer, © 2026

@@ -163,3 +163,6 @@ and other roles responsible for analyzing the organization's data.
         * Reinforcement learning
     * CRISP-DM
     * Examples
+
+## Copyright
+Mark Veltzer, © 2026

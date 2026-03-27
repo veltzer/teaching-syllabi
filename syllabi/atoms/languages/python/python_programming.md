@@ -216,3 +216,6 @@ Be aware that `Python` was designed with `UNIX` in mind and so some systems prog
 may not work correctly on `Windows` but impacts this beginners course very little.
 * Students who wish to practice on `MacOS` may do so as well. Again, make sure that you have `Python` installed on your laptop (usually it is already installed) or that you have the privilege to install it.
 * Recommended development environments: `vscode` with `Python` plugins, `PyCharm` community edition from `JetBrains`.
+
+## Copyright
+Mark Veltzer, © 2026

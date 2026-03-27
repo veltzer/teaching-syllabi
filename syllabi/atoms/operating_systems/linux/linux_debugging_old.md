@@ -113,3 +113,6 @@ and delays the stasis that most `C`/`C++` systems reach at some point.
     * Using the proc filesystem.
     * Listing open files.
     * Listing open ports.
+
+## Copyright
+Mark Veltzer, © 2026

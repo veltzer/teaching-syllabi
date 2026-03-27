@@ -503,3 +503,6 @@ Upon completion of this course, participants will be able to:
 * Community forums and mailing lists
 * Sample code repository with all lab solutions
 * Quick reference cards for BitBake syntax and common tasks
+
+## Copyright
+Mark Veltzer, © 2026

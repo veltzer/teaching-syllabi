@@ -36,3 +36,6 @@ This course covers two essential build and continuous integration tools: `Jenkin
     * `IDE` Integration
     * The `Gradle` Wrapper
     * Multi project Builds
+
+## Copyright
+Mark Veltzer, © 2026

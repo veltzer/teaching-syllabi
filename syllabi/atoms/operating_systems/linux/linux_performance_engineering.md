@@ -135,3 +135,6 @@ and `FlameGraphs` to identify bottlenecks, and will gain a deep understanding of
     * `cgroups` v2 for resource isolation and control
     * Performance-oriented `Linux` kernel configuration
     * Documenting and communicating performance findings
+
+## Copyright
+Mark Veltzer, © 2026

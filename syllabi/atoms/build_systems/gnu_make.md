@@ -89,3 +89,6 @@ while being the most flexible and misunderstood. This course will get you starte
     * Exercise: Creating a complete build system
     * Review of key concepts
     * Additional resources
+
+## Copyright
+Mark Veltzer, © 2026

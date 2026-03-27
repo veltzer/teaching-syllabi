@@ -130,3 +130,6 @@ and other roles responsible for analyzing the organization's data.
     * Histograms
     * Interactive graphs and Events
     * Animation
+
+## Copyright
+Mark Veltzer, © 2026

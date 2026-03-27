@@ -100,3 +100,6 @@ the course takes students on a journey from the fundamentals of assembly languag
 * Future of `Assembly` Programming
     * Role of assembly in modern software development
     * Emerging architectures and instruction sets
+
+## Copyright
+Mark Veltzer, © 2026

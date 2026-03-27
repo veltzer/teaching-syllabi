@@ -130,3 +130,6 @@ This course provides a comprehensive introduction to programming and testing mic
     * Integrating multiple peripherals
     * Implementing a complete application
     * Testing and validation
+
+## Copyright
+Mark Veltzer, © 2026

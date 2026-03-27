@@ -137,3 +137,6 @@ developer and your development environment more productive.
 * How to use `Docker` correctly
     * Always use one `Docker` image! that's the whole point of `Docker`!
     * Don't abuse the technology.
+
+## Copyright
+Mark Veltzer, © 2026

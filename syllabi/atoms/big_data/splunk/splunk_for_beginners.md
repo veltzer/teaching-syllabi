@@ -61,3 +61,6 @@ This beginner-friendly course introduces `Splunk`, a powerful platform for opera
     * Create reports and charts
     * Chart functions (timechart)
     * Introduction to dashboards
+
+## Copyright
+Mark Veltzer, © 2026

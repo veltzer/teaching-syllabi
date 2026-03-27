@@ -60,3 +60,6 @@ or one who are capable of programming at a non advanced level at a minimum.
 * `IDE` Integration
 * The `Gradle` Wrapper
 * Multi project Builds
+
+## Copyright
+Mark Veltzer, © 2026

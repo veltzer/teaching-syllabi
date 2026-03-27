@@ -137,3 +137,6 @@ when to apply each technique based on system requirements and constraints.
         * Data acquisition and processing
         * Monitoring and logging
         * Graceful degradation and failover
+
+## Copyright
+Mark Veltzer, © 2026

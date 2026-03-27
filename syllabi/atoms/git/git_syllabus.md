@@ -91,3 +91,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * GitWeb
     * `Gerrit`
     * eclipse
+
+## Copyright
+Mark Veltzer, © 2026

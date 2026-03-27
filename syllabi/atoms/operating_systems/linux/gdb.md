@@ -76,3 +76,6 @@ use the `Linux` `gdb` debugger and get better at debugging in general.
     * `gdbtui`
     * `xxgdb`
     * eclipse+CDT
+
+## Copyright
+Mark Veltzer, © 2026

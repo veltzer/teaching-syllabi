@@ -85,3 +85,6 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 * `Redis` Documentation: [https://`Redis`.io/docs/](https://`Redis`.io/docs/)
 * "`Redis` in Action" by Josiah Carlson (Optional)
 * Various online tutorials and articles.
+
+## Copyright
+Mark Veltzer, © 2026

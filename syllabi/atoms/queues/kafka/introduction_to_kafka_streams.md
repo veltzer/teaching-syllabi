@@ -65,3 +65,6 @@ The course begins with an introduction to `Kafka` and it's components. The cours
     * Parallel Processing
     * KStream
     * KTable
+
+## Copyright
+Mark Veltzer, © 2026

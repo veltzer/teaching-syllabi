@@ -98,3 +98,6 @@ For `GCC` modifications need to be made.
     * Creating files with correct ACLs
     * Ensure files are closed when no longer needed
     * Insecure usage of shared directories
+
+## Copyright
+Mark Veltzer, © 2026

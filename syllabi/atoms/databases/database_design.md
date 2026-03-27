@@ -114,3 +114,6 @@ Relational database design is the foundation of effective data management and ap
     * Encryption and sensitive data handling
     * Backup and recovery design considerations
     * Compliance requirements (`GDPR`, `HIPAA`) impact on design
+
+## Copyright
+Mark Veltzer, © 2026

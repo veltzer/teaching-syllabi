@@ -45,3 +45,6 @@ This course various topics related to `STL` and `Boost` which are commonly used 
 
 ## Notes
 * Each topic will be expounded by examples
+
+## Copyright
+Mark Veltzer, © 2026

@@ -93,3 +93,6 @@ and demonstrated.
 * [burp](https://portswigger.net/burp)
 * [NMAP](https://nmap.org)
 * [Web Development Tools](https://en.wikipedia.org/wiki/Web_development_tools)
+
+## Copyright
+Mark Veltzer, © 2026

@@ -220,3 +220,6 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 * WSL installation on `Windows` with git installed.
 * [`Git` BASH](https://gitforwindows.org/) installed on `Windows`.
 * In any case the installations are not a must and the instructor can guide the students how to perform the installations on the first day of the course.
+
+## Copyright
+Mark Veltzer, © 2026

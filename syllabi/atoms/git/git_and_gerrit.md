@@ -44,3 +44,6 @@ The weight is 2/3 git and 1/3 `Gerrit`.
 * GitHub access.
     * or maybe we should have local git so that we could directly
     * pull and push.
+
+## Copyright
+Mark Veltzer, © 2026

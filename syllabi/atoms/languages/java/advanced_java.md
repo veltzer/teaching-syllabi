@@ -158,3 +158,6 @@ production `Java` systems.
     * `Java` Internationalization
     * `JVM` Internals
     * `JNI`
+
+## Copyright
+Mark Veltzer, © 2026

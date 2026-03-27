@@ -113,3 +113,6 @@ Any of the following:
     * Examples from Retail (Twiggle)
     * Quick intro about concepts in modern application design: Dockers, Containers, Server-less, Micro Services,
         Service Meshes, Virtual machines vs containers, web functions. (1 hour)
+
+## Copyright
+Mark Veltzer, © 2026

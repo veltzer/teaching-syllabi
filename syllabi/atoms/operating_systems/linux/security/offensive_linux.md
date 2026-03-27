@@ -96,3 +96,6 @@ This intensive course is designed for experienced penetration testers seeking to
 * [`Linux` Privilege Escalation Guide](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * [Metasploit Framework](https://www.metasploit.com/)
 * [Exploit Database](https://www.exploit-db.com/)
+
+## Copyright
+Mark Veltzer, © 2026

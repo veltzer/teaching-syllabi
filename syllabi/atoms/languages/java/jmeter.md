@@ -57,3 +57,6 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
     * `JMeter` Variables And Functions
     * Distributed (Remote) Testing
     * Practice time - hands on time to do some real tests with the `JMeter` on our Application.
+
+## Copyright
+Mark Veltzer, © 2026

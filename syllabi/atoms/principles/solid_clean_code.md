@@ -116,3 +116,6 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
     * `YAGNI` (You Aren't Gonna Need It) and avoiding over-engineering
     * Code metrics: cyclomatic complexity, code coverage, maintainability index
     * Legacy code refactoring strategies and techniques
+
+## Copyright
+Mark Veltzer, © 2026

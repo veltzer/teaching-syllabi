@@ -136,3 +136,6 @@ the development of an `OpenCL` project.
             * ND-Range optimizations
             * Kernel code optimizations
             * Host application execution optimizations
+
+## Copyright
+Mark Veltzer, © 2026

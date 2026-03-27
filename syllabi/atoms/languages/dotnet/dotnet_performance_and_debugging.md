@@ -116,3 +116,6 @@ those crashes that are so hard to reproduce.
             * Detecting memory leaks
             * Handling Interop problems
     * Viewing the managed heap, objects, threads, call stack and more
+
+## Copyright
+Mark Veltzer, © 2026

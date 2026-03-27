@@ -650,3 +650,6 @@ on native platforms.
     * Object oriented programming
     * Test harnesses
     * Aliases
+
+## Copyright
+Mark Veltzer, © 2026

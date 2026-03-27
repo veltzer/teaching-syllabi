@@ -100,3 +100,6 @@ In our final module we discuss optimizing the costs for `Google Cloud`'s operati
 Specifically, you will learn to analyze resource utilization costs for operations related components
 within `Google Cloud`, and implement best practices for controlling the cost of operations within
 `Google Cloud`.
+
+## Copyright
+Mark Veltzer, © 2026

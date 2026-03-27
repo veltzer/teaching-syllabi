@@ -385,3 +385,6 @@ This intensive course covers essential `Linux` system administration concepts an
     * Audit trail and chain of custody
     * Offline monitoring tools
     * Best practices for isolated systems
+
+## Copyright
+Mark Veltzer, © 2026

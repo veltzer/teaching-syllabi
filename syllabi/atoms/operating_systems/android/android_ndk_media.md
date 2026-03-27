@@ -49,3 +49,6 @@ This course covers media programming at the native layer of the `Android` platfo
 ## References
 * [Audio Streaming](http://audioprograming.wordpress.com/2012/03/03/android-audio-streaming-with-opensl-es-and-the-ndk/)
 * [OpenSL](http://www.slideshare.net/DSPIP/android-audio-opensl)
+
+## Copyright
+Mark Veltzer, © 2026

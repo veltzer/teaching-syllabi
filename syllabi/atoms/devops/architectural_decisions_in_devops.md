@@ -226,3 +226,6 @@ organizational context, scale, and maturity.
         * Synthetic monitoring
         * Chaos engineering as a testing practice
         * Observability-driven testing
+
+## Copyright
+Mark Veltzer, © 2026

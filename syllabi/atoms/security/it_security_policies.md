@@ -78,3 +78,6 @@ This intensive one-day training program covers essential IT security policies an
     * Social media security
     * Physical security awareness
     * Third-party vendor security
+
+## Copyright
+Mark Veltzer, © 2026

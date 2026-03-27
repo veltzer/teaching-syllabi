@@ -81,3 +81,6 @@ Upon successful completion of this course, students will be able to:
 * "`Oracle` Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney
 * "`Oracle` Database Administration: The Essential Reference" by David C. Kreines
 * Online resources (`Oracle` Learning Library, `Oracle` Support Community, etc.)
+
+## Copyright
+Mark Veltzer, © 2026

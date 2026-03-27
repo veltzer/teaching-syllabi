@@ -89,3 +89,6 @@ This course is based on the Scott Meyers book of the same title.
     * Associative container `map`
     * Iterator adapters
     * Iterator categories
+
+## Copyright
+Mark Veltzer, © 2026

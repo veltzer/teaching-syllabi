@@ -60,3 +60,6 @@ as environment variables, configuration files, filesystem layout and many more.
 * When to use heavier tools?
     * sed, awk, `Python`
 * Writing bash functions (introduction)
+
+## Copyright
+Mark Veltzer, © 2026

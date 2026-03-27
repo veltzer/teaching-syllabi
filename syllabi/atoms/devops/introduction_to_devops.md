@@ -95,3 +95,6 @@ This 40-hour course introduces students to the principles and practices of `DevO
 * `The Phoenix Project` by Gene Kim, Kevin Behr, and George Spafford
 * `DevOps Handbook` by Gene Kim, Jez Humble, Patrick Debois, and John Willis
 * `Continuous Delivery` by Jez Humble and David Farley
+
+## Copyright
+Mark Veltzer, © 2026

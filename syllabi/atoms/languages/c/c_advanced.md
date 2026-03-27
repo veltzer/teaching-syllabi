@@ -107,3 +107,6 @@ This course covers advanced `C` programming topics for experienced developers wo
 
 ## References
 * [C99](https://en.wikipedia.org/wiki/C99)
+
+## Copyright
+Mark Veltzer, © 2026

@@ -53,3 +53,6 @@ pipelines and agile development, can utilize such technologies as the public clo
 * Distributed Builds with `Jenkins`
 * Continuous Delivery (CD) Pipelines
 * Best Practices in `CI/CD` process with `Jenkins`
+
+## Copyright
+Mark Veltzer, © 2026
