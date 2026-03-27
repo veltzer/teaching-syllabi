@@ -18,7 +18,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides an in-depth exploration of the `Android` platform across all its layers: the `Java` SDK layer, the native NDK layer, and the `Linux` kernel layer. Participants will learn to develop and deliver applications at each layer, use `JNI` to bridge `Java` and native code, write kernel modules, and understand the `Android` boot process and power management framework.
 
 ## Duration
 16 hours / 2 days

@@ -14,7 +14,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers advanced `C` programming topics for experienced developers working on `Linux`. Topics include advanced debugging with `gdb`, memory allocation strategies and leak detection, dynamic shared objects, performance measurement and optimization, multi-threading with `pthreads`, and managing large `C` projects. The course also covers `C99` features and the `C` pre-processor in depth.
 
 ## Duration
 24 hours / 3 days

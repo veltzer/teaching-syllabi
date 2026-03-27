@@ -16,7 +16,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides a hands-on introduction to the `R` programming language for data analysis and statistics. Students will learn `R` basics including data types, data structures, file I/O, data visualization with plotting, and fundamental statistical methods such as hypothesis testing and confidence intervals.
 
 ## Duration
 24 hours / 3 days

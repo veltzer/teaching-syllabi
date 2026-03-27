@@ -14,7 +14,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This comprehensive course covers the theory and practice of `Machine Learning`, from supervised and unsupervised learning through deep learning and advanced neural network architectures. Topics include regression, classification, clustering, dimensionality reduction, convolutional and recurrent neural networks, and recent advances in the field.
 
 ## Duration
 56 hours / 7 days

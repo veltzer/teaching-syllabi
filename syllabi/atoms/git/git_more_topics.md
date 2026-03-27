@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers advanced `Git` topics for developers who already know the basics. Students will explore different branching workflows, cherry-picking, merge tools, and techniques for editing history and recovering lost commits in emergency situations.
 
 ## Duration
 8 hours (1 day)

@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides an introduction to `Apache Kafka`, the distributed streaming platform. Students will learn `Kafka`'s architecture, core concepts, components, and cluster configuration, as well as its role in big data analytics and real-time data pipelines.
 
 ## Duration
 24 hours / 3 days

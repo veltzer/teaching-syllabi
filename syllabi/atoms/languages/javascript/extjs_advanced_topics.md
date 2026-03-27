@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers advanced `ExtJS` topics including `WebWorkers`, custom widget development with DOM construction, the new async `APIs`, and the `MVVM` pattern introduced in `ExtJS` 6.0.
 
 ## Duration
 8 hours / 1 day

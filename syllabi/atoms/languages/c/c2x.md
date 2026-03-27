@@ -14,19 +14,25 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers the `C2x` standard (formally `C23`), the latest major revision of the `C` programming language. Participants will learn about the new features, syntax changes, and library additions introduced in `C2x`, including improvements to type safety, attributes, and modern language conveniences.
 
 ## Duration
-TBD
+8 hours / 1 day
 
 ## Intended Audience
-TBD
+`C` developers who want to understand and adopt the newest features and improvements introduced in the `C2x` (`C23`) standard.
 
 ## Prerequisites
-TBD
+* Solid working knowledge of `C` programming.
+* Familiarity with `C11` and `C17` features is recommended.
 
 ## Outline
-TBD
+* Overview of `C2x` and its goals
+* New language features: `typeof`, `auto`, `constexpr`, `nullptr`, `bool` as keyword
+* Attributes: `[[nodiscard]]`, `[[maybe_unused]]`, `[[deprecated]]`, `[[fallthrough]]`
+* Improved `enum` and bit-precise integer types
+* Library additions and changes
+* Compiler support for `C2x` in `GCC` and `Clang`
 
 ## References
 * [C2x at Wikipedia](https://en.wikipedia.org/wiki/C2x)

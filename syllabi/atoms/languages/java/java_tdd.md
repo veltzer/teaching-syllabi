@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers Test Driven Development (`TDD`) in `Java`, combining testing theory with hands-on practice using `JUnit` and related tools. Students will learn agile and `XP` methodologies, unit testing techniques, mock objects, code refactoring for testability, and tools such as `DbUnit`, `JMockit`, and `PMD`.
 
 ## Duration
 24 hours / 3 days

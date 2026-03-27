@@ -19,7 +19,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers media programming at the native layer of the `Android` platform. Participants will learn how audio, video, display, and camera subsystems work under the hood, including `AudioFlinger`, `SurfaceFlinger`, and `OpenGL`. The course focuses on writing native applications that play audio and video, access the camera and display, and manage thread priority and CPU resources.
 
 ## Duration
 16 hours / 2 days

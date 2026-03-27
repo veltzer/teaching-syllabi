@@ -14,7 +14,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course teaches classical software design patterns and how to implement them in `C`. Participants will learn creational, structural, and behavioral patterns and how to apply them effectively in `C` projects that lack built-in object-oriented language features. The course covers patterns such as Factory, Singleton, Adapter, Observer, and many more.
 
 ## Duration
 24 hours / 3 days

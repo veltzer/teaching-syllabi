@@ -17,19 +17,24 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides a comprehensive introduction to `Apache Hive` and its role within the `Hadoop` ecosystem. Participants will learn how to use `HiveQL` for querying and managing large datasets stored in `HDFS`, as well as how to optimize query performance. The course also covers related tools such as `Pig` and `ETL` workflows for bringing data into `Hadoop`.
 
 ## Duration
-TBD
+24 hours / 3 days
 
 ## Intended Audience
-TBD
+Developers and data scientists who need to query and analyze large-scale data using `SQL`-like interfaces on top of `Hadoop`.
 
 ## Prerequisites
-TBD
+* Basic knowledge of `SQL` and relational database concepts.
+* Familiarity with the `Hadoop` ecosystem is an advantage but not required.
 
 ## Objectives
-TBD
+* Understand the `Hadoop` ecosystem and the role of `Hive` within it
+* Write `HiveQL` queries to analyze large datasets stored in `HDFS`
+* Manage `Hive` databases, tables, views, and data formats
+* Perform text processing and use regular expressions within `Hive`
+* Optimize `Hive` query performance using partitioning, bucketing, and indexing
 
 ## Outline
 * Introduction to `Hadoop`

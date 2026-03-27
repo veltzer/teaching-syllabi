@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides a comprehensive introduction to software testing theory, covering the testing life-cycle, static and dynamic techniques, and various levels of testing. Students will learn control flow testing, data-flow testing, mutation testing, and how to measure software quality using different methods.
 
 ## Duration
 16 hours / 2 days

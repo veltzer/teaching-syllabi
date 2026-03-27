@@ -16,7 +16,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides a thorough introduction to the `Scrum` framework for agile software development. Students will learn `Scrum` roles, ceremonies, and artifacts, as well as practical skills in estimation, sprint planning, release planning, and scaling `Scrum` across teams and organizations.
 
 ## Duration
 24 hours / 3 days

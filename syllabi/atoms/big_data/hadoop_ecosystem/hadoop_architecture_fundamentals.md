@@ -28,16 +28,20 @@ This course is intended for developers, architects and technical managers who wi
 This course assumes no prior knowledge of `Hadoop`. Participants should be comfortable with `Java` code and familiar with DWH concepts
 
 ## Duration
-TBD
+16 hours / 2 days
 
 ## Intended Audience
-TBD
+Developers, architects, and technical managers who wish to understand `Hadoop`'s architecture and its core subsystems.
 
 ## Prerequisites
-TBD
+* Familiarity with `Java` code.
+* Basic understanding of data warehousing concepts.
 
 ## Objectives
-TBD
+* Understand the main components of the `Hadoop` ecosystem including `HDFS`, `MapReduce`, `Hive`, `Pig`, and `HBase`
+* Explain how `HDFS` stores and replicates data across a cluster
+* Implement common `MapReduce` patterns and understand their execution flow
+* Compare `Hadoop` with traditional large-scale data storage and processing approaches
 
 ## Outline
 * Big Data Brief Overview

@@ -14,16 +14,17 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers advanced `Dojo` toolkit topics including custom widget development, data handling with stores, application architecture, internationalization, and performance optimization. Students will gain hands-on experience building complex widget-based web applications.
 
 ## Duration
-TBD
+24 hours / 3 days
 
 ## Intended Audience
-TBD
+Web developers with basic `Dojo` experience who need to build advanced widget-based applications.
 
 ## Prerequisites
-TBD
+* Working knowledge of `JavaScript` and `HTML`/`CSS`
+* Basic experience with the `Dojo` toolkit
 
 ## Outline
 * classes in dojo, multi inheritance

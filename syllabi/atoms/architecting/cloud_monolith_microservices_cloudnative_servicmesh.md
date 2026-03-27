@@ -18,13 +18,17 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers the evolution of application architecture from monolithic systems to microservices, cloud-native applications, and service mesh patterns. Students will learn the organizational and technical implications of adopting microservices, including `DevOps`, `CI/CD`, and chaos engineering in cloud environments.
 
 ## Duration
 1 hour
 
 ## Objectives
-TBD
+* Understand the transition from monolithic architectures to microservices
+* Identify when microservices are and are not appropriate for a given system
+* Grasp the relationship between agile development, `DevOps`, and microservices
+* Understand cloud-native and service mesh concepts and their role in modern architectures
+* Learn about chaos engineering practices for resilient distributed systems
 
 ## Outline
 * The first step to the native cloud, from Monolith to Micro-services

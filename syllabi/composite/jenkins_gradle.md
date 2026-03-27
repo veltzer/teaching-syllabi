@@ -4,7 +4,7 @@
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers two essential build and continuous integration tools: `Jenkins` and `Gradle`. Students will learn to set up and administer `Jenkins` for `CI/CD` pipelines and distributed builds, as well as use `Gradle` for building `Java` and `Groovy` projects with tasks, plugins, and multi-project configurations.
 
 ## Duration
 32 hours / 4 days

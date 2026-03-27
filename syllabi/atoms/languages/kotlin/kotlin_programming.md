@@ -35,7 +35,10 @@ but still be fully interoperable with `Java` code.
 * Prior programming experience in another language such as Go, `Java`, `C#` or `C`/`C++` is an advantage.
 
 ## Objectives
-* TBD
+* Understand `Kotlin` syntax, type system, and core language features
+* Write object-oriented and functional `Kotlin` code with confidence
+* Leverage `Kotlin`'s null safety and interoperability with `Java`
+* Build `Android` applications using `Kotlin`
 
 ## Outline
 * Overview

@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides a hands-on introduction to `Terraform`, the popular infrastructure-as-code tool. Students will learn how to define, provision, and manage infrastructure resources using `Terraform`'s declarative language, including state management, security best practices, and integration with `Git` workflows.
 
 ## Duration
 8 hours (1 day)

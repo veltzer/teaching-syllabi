@@ -4,7 +4,7 @@
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This intensive bootcamp covers the full stack of embedded `Linux` development, from low-level `Assembly` programming through `C`/`C++` systems programming to `Linux` kernel development and device drivers. Students will also learn real-time systems, hardware interfaces, and non-secure embedded operating systems such as `VxWorks`.
 
 ## Duration
 500 hours

@@ -20,7 +20,7 @@ This course dwells on the more advanced aspects of `Rust` and is suitable for pr
 24 hours / 3 days
 
 ## Intended Audience
-TBD
+Experienced `Rust` developers looking to deepen their knowledge of advanced language features and patterns.
 
 ## Prerequisites
 * Proficiency in `Rust` Fundamentals or equivalent experience
@@ -28,7 +28,11 @@ TBD
 * Intermediate-level programming experience
 
 ## Objectives
-TBD
+* Master advanced ownership patterns, lifetimes, and smart pointers
+* Write asynchronous code using `async`/`await` and the `Rust` async ecosystem
+* Apply advanced trait and generic programming techniques
+* Optimize `Rust` code performance through profiling and benchmarking
+* Safely use `unsafe` blocks and FFI to interface with `C`/`C++` code
 
 ## Outline
 * Advanced Ownership

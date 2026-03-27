@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course provides developers with a thorough understanding of `Apache Solr` 6, covering schema design, text analysis, data indexing, and advanced query techniques. Students will learn to build, configure, and optimize `Solr`-based search solutions, including faceting, highlighting, clustering, and `SolrCloud` deployment.
 
 ## Duration
 24 hours / 3 days

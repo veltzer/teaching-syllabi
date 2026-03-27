@@ -15,7 +15,7 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course teaches how to design clean, sustainable, and extensible `API`s in the `C` programming language. Topics include opaque pointers, object-oriented techniques in `C` such as inheritance and composition, runtime method overloading, type information systems, exception handling, and techniques for minimizing client recompilation.
 
 ## Duration
 8 hours / 1 day

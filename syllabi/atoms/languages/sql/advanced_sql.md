@@ -14,10 +14,10 @@ audience:
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 
 ## Description
-TBD
+This course covers advanced `SQL` techniques including analytic functions, window aggregates, complex joins, subqueries, stored procedures, user-defined functions, and index optimization strategies. Students will gain the skills needed to write efficient and maintainable `SQL` for production databases.
 
 ## Duration
-TBD
+24 hours / 3 days
 
 ## Outline
 * Analytic for Reporting
