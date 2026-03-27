@@ -1,9 +1,0 @@
-add counting of actual slides in all the presentations.
-
-enable aspell in the makefile and get to full build with spellcheck.
-make aspell target for each syllabi and fix all spelling errors.
-Keep the aspell extra words file local to this repo and commit it.
-run aspell in headless mode and just report the result.
-
-Use pandoc to render stuff here?
-	check out https://github.com/Microbiology/Helpful_Lab_Materials
