@@ -1,0 +1,139 @@
+<h1 id="c-advanced">C Advanced</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course covers advanced <code>C</code> programming topics for
+experienced developers working on <code>Linux</code>. Topics include
+advanced debugging with <code>gdb</code>, memory allocation strategies
+and leak detection, dynamic shared objects, performance measurement and
+optimization, multi-threading with <code>pthreads</code>, and managing
+large <code>C</code> projects. The course also covers <code>C99</code>
+features and the <code>C</code> pre-processor in depth.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Debugging using <code>gdb</code> and friends
+<ul>
+<li>configuring source code locations.</li>
+<li>calling functions.</li>
+<li>changing variables on the fly.</li>
+<li>reverse debugging.</li>
+<li>pretty printing of structures.</li>
+<li>Hardware breakpoints as opposed to software ones.</li>
+</ul></li>
+<li>Various ways of allocation memory
+<ul>
+<li><code>malloc(3)</code>.</li>
+<li><code>malloc(3)</code> replacements for debugging and
+performance.</li>
+<li>how <code>malloc</code> works and what are its problems.</li>
+<li>obstacks.</li>
+<li>pool per thread.</li>
+<li>calling <code>sbrk(2)</code> or <code>mmap(2)</code> directly.</li>
+<li>allocating on the stack: c99 style dynamic arrays.</li>
+<li>allocating on the stack: <code>alloca(3)</code>.</li>
+<li>data segment: bss allocations.</li>
+<li>date segment: initialized allocations.</li>
+<li>data segment: const allocations.</li>
+</ul></li>
+<li>Memory leaks and memory corruption
+<ul>
+<li>mprotect and friends.</li>
+<li>shaking things up to find bugs.</li>
+<li>padding to detect memory corruption.</li>
+<li><code>malloc</code> debugging in the standard library
+(<code>mcheck(3)</code>)</li>
+<li>dmalloc</li>
+</ul></li>
+<li>C-Pre processor
+<ul>
+<li>var args macros</li>
+<li>quoting in macros</li>
+<li>writing type independent functions using the pre-processor.</li>
+<li>list of out of the box defines</li>
+</ul></li>
+<li>Dynamic Shared Objects
+<ul>
+<li>How to prepare a DSO.</li>
+<li>ldd, ld.so</li>
+<li>Versions and dependencies of DSOs.</li>
+<li>DSO and rpath.</li>
+<li>GOT, PLT and DSO performance vs static library performance.</li>
+<li>Weak symbols in C.</li>
+<li>Resolver functions.</li>
+<li><code>LD_LIBRARY_PATH</code>, <code>LD_PRELOAD</code>,
+<code>LD_RUN_PATH</code>, <code>ldconfig</code></li>
+<li><code>dlopen(3)</code>, <code>dlsym(3)</code> and their
+performance.</li>
+</ul></li>
+<li>C technical issues
+<ul>
+<li>32&lt;-&gt;64 bit issues and C programming.</li>
+</ul></li>
+<li>Performance in C
+<ul>
+<li>inline.</li>
+<li>compiler attributes for functions.</li>
+<li>restricted pointers.</li>
+<li>why you should use the standard libraries as much as possible.</li>
+<li>using CPU specific libraries.</li>
+<li>CPU cache lines and performance.</li>
+</ul></li>
+<li>Advanced topics in Make
+<ul>
+<li>Non recursive make approach.</li>
+<li>Handling dependencies automatically for source files.</li>
+<li>Managing a large project.</li>
+</ul></li>
+<li>Issues with large C projects
+<ul>
+<li>h file organization in large projects.</li>
+<li>private vs public h files.</li>
+<li>helping the debugger find all your source code for debugging.</li>
+<li>versioning object files, libraries and executables.</li>
+<li>building large projects.</li>
+</ul></li>
+<li>Measuring performance in C
+<ul>
+<li>tools: <code>callgrind</code>, <code>perf</code>,
+<code>oprofile</code>, <code>gperf</code></li>
+<li>measuring it yourself: <code>gettimeofday()</code>,
+<code>RDTSC</code></li>
+</ul></li>
+<li>C99 issues
+<ul>
+<li>inline functions</li>
+<li>intermingled declarations and code</li>
+<li>new data types</li>
+<li>variable-length arrays</li>
+<li>flexible array members</li>
+<li>one line comments</li>
+<li>new library functions</li>
+<li>new headers</li>
+<li>type-generic math</li>
+<li>improved floating point support</li>
+<li>designated initializers</li>
+<li>compound literals</li>
+<li>variadic macros</li>
+<li>restrict keyword</li>
+<li>universal character names</li>
+<li><code>static</code> in array indices</li>
+</ul></li>
+<li>Multi-threading and Synchronization in C on <code>Linux</code>
+<ul>
+<li>pthreads</li>
+<li>compiler barriers and machine barriers</li>
+<li>review of all synchronization mechanisms</li>
+<li>transactional memory (new in core i7)</li>
+</ul></li>
+</ul>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/C99">C99</a></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

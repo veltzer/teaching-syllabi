@@ -1,0 +1,662 @@
+<h1 id="elasticsearch-for-developers"><code>Elasticsearch</code> for
+Developers</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course covers <code>Elasticsearch</code> from a developer’s
+perspective, focusing on integrating search and analytics capabilities
+into applications. It includes hands-on exercises for data modeling,
+query development, search relevance tuning, and application integration
+patterns. Participants will learn to design efficient data structures,
+write complex queries, optimize search performance, and implement
+full-text search features in their applications.</p>
+<p>The course emphasizes practical implementation with code examples in
+multiple programming languages and real-world search scenarios commonly
+encountered in application development.</p>
+<h2 id="duration">Duration</h2>
+<p>40 hours / 5 days</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Programming experience in at least one language (<code>Java</code>,
+<code>Python</code>, <code>JavaScript</code>, or similar)</li>
+<li>Understanding of <code>JSON</code> format and <code>RESTful</code>
+<code>APIs</code></li>
+<li>Basic knowledge of database concepts (<code>CRUD</code> operations,
+indexes)</li>
+<li>Familiarity with <code>HTTP</code> protocols and client-server
+architecture</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>Elasticsearch</code>
+<ul>
+<li>What is <code>Elasticsearch</code>?</li>
+<li>Use cases for developers</li>
+<li><code>Elasticsearch</code> vs traditional databases</li>
+<li><code>Elasticsearch</code> vs other search engines</li>
+<li>Basic architecture concepts
+<ul>
+<li>Clusters and nodes overview</li>
+<li>Indices and shards basics</li>
+<li>Documents and fields</li>
+</ul></li>
+<li>Development environment setup
+<ul>
+<li>Local installation</li>
+<li><code>Docker</code> setup</li>
+<li>Cloud trial account</li>
+<li>Development tools (Kibana Dev Tools, Postman)</li>
+</ul></li>
+</ul></li>
+<li><code>Elasticsearch</code> Fundamentals
+<ul>
+<li>Document-oriented data model
+<ul>
+<li><code>JSON</code> documents</li>
+<li>Document metadata (<code>_id</code>, <code>_source</code>,
+<code>_version</code>)</li>
+<li>Document lifecycle</li>
+</ul></li>
+<li>Basic <code>CRUD</code> operations
+<ul>
+<li>Indexing documents (<code>POST</code>, <code>PUT</code>)</li>
+<li>Retrieving documents (<code>GET</code>)</li>
+<li>Updating documents (partial and full)</li>
+<li>Deleting documents</li>
+<li>Bulk operations for performance</li>
+</ul></li>
+<li>Index management basics
+<ul>
+<li>Creating indices</li>
+<li>Index settings relevant to developers</li>
+<li>Aliases and their uses</li>
+<li>Reindexing data</li>
+</ul></li>
+<li>Introduction to mappings
+<ul>
+<li>Dynamic mapping</li>
+<li>Field data types</li>
+<li>Why mappings matter for developers</li>
+</ul></li>
+</ul></li>
+<li>Data Modeling and Mappings
+<ul>
+<li>Field types deep dive
+<ul>
+<li><code>text</code> vs <code>keyword</code></li>
+<li>Numeric types</li>
+<li>Date fields and formats</li>
+<li>Boolean fields</li>
+<li><code>object</code> and <code>nested</code> types</li>
+<li>Arrays and multi-values</li>
+<li><code>geo_point</code> and <code>geo_shape</code></li>
+</ul></li>
+<li>Mapping parameters
+<ul>
+<li><code>index</code> and <code>store</code> options</li>
+<li><code>doc_values</code></li>
+<li><code>norms</code></li>
+<li><code>null_value</code></li>
+<li><code>copy_to</code></li>
+<li><code>fields</code> (multi-fields)</li>
+</ul></li>
+<li>Designing data models
+<ul>
+<li>Denormalization strategies</li>
+<li>Parent-child relationships</li>
+<li><code>nested</code> vs <code>object</code> types</li>
+<li><code>join</code> field type</li>
+<li>Handling relationships</li>
+</ul></li>
+<li>Index templates
+<ul>
+<li>Creating templates</li>
+<li>Dynamic templates</li>
+<li>Index patterns</li>
+<li>Component templates</li>
+</ul></li>
+</ul></li>
+<li>Data Ingestion
+<ul>
+<li>Bulk <code>API</code> operations
+<ul>
+<li>Bulk indexing strategies</li>
+<li>Optimal batch sizes</li>
+<li>Error handling in bulk operations</li>
+<li>Performance tuning</li>
+<li>Monitoring bulk operations</li>
+</ul></li>
+<li>Ingest pipelines
+<ul>
+<li>Pipeline architecture</li>
+<li>Processors overview</li>
+<li>Common processors
+<ul>
+<li><code>set</code> processor</li>
+<li><code>remove</code> processor</li>
+<li><code>rename</code> processor</li>
+<li><code>convert</code> processor</li>
+<li><code>date</code> processor</li>
+<li><code>grok</code> processor</li>
+<li><code>dissect</code> processor</li>
+<li><code>script</code> processor</li>
+</ul></li>
+<li>Data transformation</li>
+<li>Data enrichment
+<ul>
+<li><code>enrich</code> processor</li>
+<li>Lookup data sources</li>
+<li>Geo enrichment</li>
+</ul></li>
+<li>Conditional processing</li>
+<li>Pipeline error handling</li>
+<li>Testing pipelines</li>
+</ul></li>
+<li>Data sources and formats
+<ul>
+<li><code>JSON</code> data ingestion</li>
+<li><code>CSV</code> data handling</li>
+<li><code>XML</code> processing</li>
+<li>Log file parsing</li>
+<li>Database imports</li>
+<li>Streaming data</li>
+</ul></li>
+<li>Update strategies
+<ul>
+<li>Full document updates</li>
+<li>Partial updates with <code>_update</code></li>
+<li>Scripted updates</li>
+<li>Update by query</li>
+<li>Optimistic concurrency control</li>
+<li>Version conflicts</li>
+</ul></li>
+<li>Performance considerations
+<ul>
+<li>Refresh intervals</li>
+<li>Indexing buffer settings</li>
+<li>Thread pool tuning</li>
+<li>Throttling strategies</li>
+<li>Monitoring ingestion rates</li>
+</ul></li>
+</ul></li>
+<li>Search Fundamentals
+<ul>
+<li>Query context vs filter context
+<ul>
+<li>Scoring vs filtering</li>
+<li>Performance implications</li>
+<li>Cache behavior</li>
+</ul></li>
+<li>Full-text queries
+<ul>
+<li><code>match</code> query</li>
+<li><code>match_phrase</code> query</li>
+<li><code>multi_match</code> query</li>
+<li><code>query_string</code> query</li>
+<li><code>simple_query_string</code></li>
+</ul></li>
+<li>Term-level queries
+<ul>
+<li><code>term</code> and <code>terms</code> query</li>
+<li><code>range</code> query</li>
+<li><code>exists</code> query</li>
+<li><code>prefix</code> query</li>
+<li><code>wildcard</code> query</li>
+<li><code>regexp</code> query</li>
+</ul></li>
+<li>Compound queries
+<ul>
+<li><code>bool</code> query (<code>must</code>, <code>should</code>,
+<code>must_not</code>, <code>filter</code>)</li>
+<li><code>boosting</code> query</li>
+<li><code>constant_score</code> query</li>
+<li><code>dis_max</code> query</li>
+<li><code>function_score</code> query</li>
+</ul></li>
+</ul></li>
+<li>Advanced Search Features
+<ul>
+<li>Text analysis
+<ul>
+<li>Analyzers components (tokenizers, filters)</li>
+<li>Built-in analyzers</li>
+<li>Custom analyzers</li>
+<li>Language analyzers</li>
+<li>Synonyms</li>
+<li>Stemming and lemmatization</li>
+<li>Edge n-grams and n-grams</li>
+<li>Phonetic matching</li>
+</ul></li>
+<li>Search relevance tuning
+<ul>
+<li>Understanding scoring</li>
+<li>Boosting strategies</li>
+<li>Field boosting</li>
+<li>Query-time boosting</li>
+<li>Index-time boosting (deprecated)</li>
+<li>Explain <code>API</code> for debugging</li>
+</ul></li>
+<li>Highlighting
+<ul>
+<li>Plain highlighter</li>
+<li>Unified highlighter</li>
+<li>Fast vector highlighter</li>
+<li>Highlight fragments</li>
+<li>Custom tags</li>
+</ul></li>
+<li>Suggesters
+<ul>
+<li>Term suggester</li>
+<li>Phrase suggester</li>
+<li>Completion suggester</li>
+<li>Context suggester</li>
+<li>Did-you-mean functionality</li>
+</ul></li>
+</ul></li>
+<li><code>Elasticsearch</code> Query Language (<code>ES|QL</code>)
+<ul>
+<li>Introduction to <code>ES|QL</code>
+<ul>
+<li>What is <code>ES|QL?</code></li>
+<li><code>ES|QL</code> vs Query DSL</li>
+<li>When to use <code>ES|QL</code></li>
+<li>Architecture and execution engine</li>
+<li>Performance characteristics</li>
+</ul></li>
+<li><code>ES|QL</code> fundamentals
+<ul>
+<li><code>_query</code> endpoint</li>
+<li>Piped query syntax</li>
+<li>Case sensitivity</li>
+<li>Comments and formatting</li>
+<li>Output formats (<code>txt</code>, <code>json</code>,
+<code>csv</code>, <code>tsv</code>)</li>
+</ul></li>
+<li>Source commands
+<ul>
+<li><code>FROM</code> command</li>
+<li><code>ROW</code> command</li>
+<li><code>SHOW</code> command</li>
+<li>Index patterns</li>
+<li>Metadata fields</li>
+</ul></li>
+<li>Processing commands
+<ul>
+<li><code>WHERE</code> filtering</li>
+<li><code>EVAL</code> expressions</li>
+<li><code>DISSECT</code> and <code>GROK</code> patterns</li>
+<li><code>ENRICH</code> data</li>
+<li><code>RENAME</code> fields</li>
+<li><code>DROP</code> and <code>KEEP</code> fields</li>
+<li><code>SORT</code> operations</li>
+<li><code>LIMIT</code> results</li>
+</ul></li>
+<li>Aggregation commands
+<ul>
+<li><code>STATS</code> aggregations</li>
+<li><code>STATS ... BY</code> grouping</li>
+<li>Aggregation functions
+<ul>
+<li><code>COUNT()</code>, <code>SUM()</code>, <code>AVG()</code></li>
+<li><code>MIN()</code>, <code>MAX()</code></li>
+<li><code>PERCENTILE()</code></li>
+<li><code>MEDIAN()</code></li>
+</ul></li>
+<li>Multiple aggregations</li>
+<li>Chained aggregations</li>
+</ul></li>
+<li>Functions and operators
+<ul>
+<li>Mathematical functions</li>
+<li>String functions</li>
+<li>Date functions</li>
+<li>Type conversion functions</li>
+<li>Conditional expressions</li>
+<li><code>CASE</code> statements</li>
+</ul></li>
+<li>Advanced <code>ES|QL</code> features
+<ul>
+<li>Multi-value fields</li>
+<li>Lookup operations</li>
+<li>Time series operations</li>
+<li>Geospatial functions</li>
+<li>Regular expressions</li>
+<li>Custom scripting</li>
+</ul></li>
+<li><code>ES|QL</code> best practices
+<ul>
+<li>Query optimization</li>
+<li>Memory management</li>
+<li>Result set handling</li>
+<li>Error handling</li>
+<li>Migration from Query DSL</li>
+</ul></li>
+</ul></li>
+<li>Aggregations
+<ul>
+<li>Metrics aggregations
+<ul>
+<li><code>sum</code>, <code>avg</code>, <code>min</code>,
+<code>max</code></li>
+<li><code>stats</code> and <code>extended_stats</code></li>
+<li><code>cardinality</code></li>
+<li><code>percentiles</code></li>
+<li><code>value_count</code></li>
+</ul></li>
+<li>Bucket aggregations
+<ul>
+<li><code>terms</code> aggregation</li>
+<li><code>range</code> and <code>date_range</code></li>
+<li><code>histogram</code> and <code>date_histogram</code></li>
+<li><code>filters</code> aggregation</li>
+<li><code>nested</code> aggregation</li>
+<li><code>significant_terms</code></li>
+</ul></li>
+<li>Pipeline aggregations
+<ul>
+<li><code>avg_bucket</code></li>
+<li><code>sum_bucket</code></li>
+<li><code>moving_avg</code></li>
+<li><code>derivative</code></li>
+<li><code>cumulative_sum</code></li>
+</ul></li>
+<li>Combining aggregations
+<ul>
+<li>Sub-aggregations</li>
+<li>Multi-level aggregations</li>
+<li>Post-processing results</li>
+<li>Aggregation performance</li>
+</ul></li>
+</ul></li>
+<li>Search Patterns and Features
+<ul>
+<li>Pagination strategies
+<ul>
+<li><code>from</code>/<code>size</code> pagination</li>
+<li><code>search_after</code> for deep pagination</li>
+<li>Scroll <code>API</code> (deprecated)</li>
+<li>Point in Time (PIT) <code>API</code></li>
+</ul></li>
+<li>Sorting results
+<ul>
+<li>Field sorting</li>
+<li>Geo-distance sorting</li>
+<li>Script-based sorting</li>
+<li>Missing values</li>
+<li>Multi-level sorting</li>
+</ul></li>
+<li>Faceted search
+<ul>
+<li>Building facets with aggregations</li>
+<li>Post filters</li>
+<li>Filter breadcrumbs</li>
+<li>Multi-select facets</li>
+</ul></li>
+<li>Autocomplete implementation
+<ul>
+<li>Prefix queries</li>
+<li>Edge n-grams</li>
+<li>Completion suggester</li>
+<li><code>search_as_you_type</code> field type</li>
+<li>Fuzzy matching</li>
+</ul></li>
+</ul></li>
+<li>Geospatial Search
+<ul>
+<li>Geo data types
+<ul>
+<li><code>geo_point</code></li>
+<li><code>geo_shape</code></li>
+<li><code>shape</code> field type</li>
+</ul></li>
+<li>Geo queries
+<ul>
+<li><code>geo_distance</code> query</li>
+<li><code>geo_bounding_box</code> query</li>
+<li><code>geo_polygon</code> query</li>
+<li><code>geo_shape</code> query</li>
+</ul></li>
+<li>Geo aggregations
+<ul>
+<li><code>geo_distance</code> aggregation</li>
+<li><code>geohash_grid</code> aggregation</li>
+<li><code>geo_bounds</code> aggregation</li>
+<li><code>geo_centroid</code> aggregation</li>
+</ul></li>
+<li>Location-based search patterns
+<ul>
+<li>Store locator</li>
+<li>Radius search</li>
+<li>Region-based search</li>
+<li>Route searching</li>
+</ul></li>
+</ul></li>
+<li>Performance Optimization for Developers
+<ul>
+<li>Query performance
+<ul>
+<li>Filter vs query context</li>
+<li>Query caching</li>
+<li>Avoiding expensive queries</li>
+<li>Profile <code>API</code> usage</li>
+</ul></li>
+<li>Indexing performance
+<ul>
+<li>Bulk <code>API</code> best practices</li>
+<li>Refresh intervals</li>
+<li>Replica settings</li>
+<li>Mapping optimizations</li>
+</ul></li>
+<li>Data modeling for performance
+<ul>
+<li>Denormalization trade-offs</li>
+<li><code>nested</code> vs parent-child performance</li>
+<li>Field data types impact</li>
+<li><code>doc_values</code> vs field data</li>
+</ul></li>
+<li>Search optimization
+<ul>
+<li>Query rewriting</li>
+<li>Pagination performance</li>
+<li>Aggregation optimization</li>
+<li><code>terminate_after</code> parameter</li>
+</ul></li>
+</ul></li>
+<li>Client Libraries and Integration
+<ul>
+<li>Official client libraries
+<ul>
+<li><code>Java</code> client (<code>REST</code> high-level client)</li>
+<li><code>Python</code> client</li>
+<li><code>JavaScript</code>/Node.js client</li>
+<li>.NET client</li>
+<li>Go client</li>
+</ul></li>
+<li>Connection management
+<ul>
+<li>Connection pooling</li>
+<li>Retry strategies</li>
+<li>Circuit breakers</li>
+<li>Load balancing</li>
+</ul></li>
+<li>Error handling
+<ul>
+<li>Common error types</li>
+<li>Retry logic</li>
+<li>Bulk operation errors</li>
+<li>Version conflicts</li>
+</ul></li>
+<li>Integration patterns
+<ul>
+<li>Repository pattern</li>
+<li>Search service layer</li>
+<li>Caching strategies</li>
+<li>Async operations</li>
+</ul></li>
+</ul></li>
+<li>Application Development Patterns
+<ul>
+<li>Search UI implementation
+<ul>
+<li>Query building</li>
+<li>Facet management</li>
+<li>Result presentation</li>
+<li>Pagination handling</li>
+<li>Search state management</li>
+</ul></li>
+<li>Multi-tenancy patterns
+<ul>
+<li>Index per tenant</li>
+<li>Shared index with filters</li>
+<li>Routing strategies</li>
+<li>Alias management</li>
+</ul></li>
+<li>Real-time search
+<ul>
+<li>Refresh strategies</li>
+<li>Event-driven indexing</li>
+<li>Change data capture</li>
+<li>Queue integration</li>
+</ul></li>
+<li>Testing strategies
+<ul>
+<li>Unit testing queries</li>
+<li>Integration testing</li>
+<li>Test data management</li>
+<li>Mocking <code>Elasticsearch</code></li>
+</ul></li>
+</ul></li>
+<li>Advanced Developer Features
+<ul>
+<li>Scripting
+<ul>
+<li>Painless scripting language</li>
+<li>Script fields</li>
+<li>Script queries</li>
+<li>Script aggregations</li>
+<li>Stored scripts</li>
+<li>Script performance</li>
+</ul></li>
+<li>Ingest pipelines (advanced)
+<ul>
+<li>Complex processors</li>
+<li>Pipeline composition</li>
+<li>Simulation and debugging</li>
+<li>Performance monitoring</li>
+</ul></li>
+<li>Index lifecycle for developers
+<ul>
+<li>Time-based indices</li>
+<li>Rollover patterns</li>
+<li>Data streams basics</li>
+<li>Retention strategies</li>
+</ul></li>
+<li>Percolator
+<ul>
+<li>Reverse search concept</li>
+<li>Percolator query</li>
+<li>Use cases (alerts, classification)</li>
+<li>Performance considerations</li>
+</ul></li>
+</ul></li>
+<li>Search Analytics and Monitoring
+<ul>
+<li>Search analytics
+<ul>
+<li>Tracking searches</li>
+<li>Click-through rates</li>
+<li>Zero-result queries</li>
+<li>Popular queries</li>
+<li>Search metrics</li>
+</ul></li>
+<li>Slow query logging
+<ul>
+<li>Configuring slow logs</li>
+<li>Analyzing slow queries</li>
+<li>Query optimization based on logs</li>
+</ul></li>
+<li>Application monitoring
+<ul>
+<li>Response time tracking</li>
+<li>Error rate monitoring</li>
+<li>Query performance metrics</li>
+<li>Indexing performance metrics</li>
+</ul></li>
+<li>A/B testing search
+<ul>
+<li>Relevance experiments</li>
+<li>Ranking variations</li>
+<li>Measuring improvements</li>
+<li>Feature toggling</li>
+</ul></li>
+</ul></li>
+<li>Modern Search Features
+<ul>
+<li>Vector search
+<ul>
+<li>Dense vectors</li>
+<li>Sparse vectors</li>
+<li>kNN search</li>
+<li>Similarity metrics</li>
+<li>Hybrid search (text + vector)</li>
+</ul></li>
+<li>Machine learning features
+<ul>
+<li>Inference processor</li>
+<li>Language identification</li>
+<li>Named entity recognition</li>
+<li>Sentiment analysis</li>
+<li>Text classification</li>
+</ul></li>
+<li><code>SQL</code> interface
+<ul>
+<li><code>SQL</code> queries</li>
+<li><code>JDBC</code>/ODBC drivers</li>
+<li>Limitations</li>
+<li>Translation to DSL</li>
+</ul></li>
+<li>Async search
+<ul>
+<li>Long-running queries</li>
+<li>Status checking</li>
+<li>Results retrieval</li>
+<li>Use cases</li>
+</ul></li>
+</ul></li>
+<li>Best Practices and Common Pitfalls
+<ul>
+<li>Data modeling best practices
+<ul>
+<li>Schema design principles</li>
+<li>Field naming conventions</li>
+<li>Mapping strategies</li>
+<li>Evolution patterns</li>
+</ul></li>
+<li>Query best practices
+<ul>
+<li>Query complexity</li>
+<li>Caching strategies</li>
+<li>Resource usage</li>
+<li>Security considerations</li>
+</ul></li>
+<li>Common mistakes
+<ul>
+<li>Mapping explosions</li>
+<li>Memory issues</li>
+<li>Query performance problems</li>
+<li>Over-sharding</li>
+</ul></li>
+<li>Development workflow
+<ul>
+<li>Version control for mappings</li>
+<li>Migration strategies</li>
+<li>Environment management</li>
+<li>Documentation practices</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

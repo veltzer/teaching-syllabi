@@ -1,0 +1,121 @@
+<h1 id="working-with-hardware">Working with Hardware</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>Low level developers usually need to interact with hardware. This
+course explains the various types of hardware devices that are out there
+and how to work with these devices. It goes through interrupts, ports,
+memory mapping, <code>DMA</code>, interrupt less communication, i2c,
+interrupt mitigation and other subjects.</p>
+<h2 id="duration">Duration</h2>
+<p>12 days / 96 hours</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Programmers who wish to understand all the intricacies of
+interacting with modern hardware</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>C programming</li>
+<li>Understanding real time concepts is an advantage</li>
+<li>Familiarity with real time operating systems is an advantage.</li>
+<li>Familiarity with secure operating systems (<code>Linux</code>) is an
+advantage.</li>
+<li>C++ is an advantage</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Basics of hardware design
+<ul>
+<li>Traditional CPU</li>
+<li>Micro controllers/MCU</li>
+<li>System on chip/SoC</li>
+<li>Multi core systems</li>
+<li>Virtual cores</li>
+</ul></li>
+<li>Reading data-sheets</li>
+<li>Interrupts
+<ul>
+<li>What are interrupts?</li>
+<li>Different types of interrupts at the hardware level</li>
+<li>How to handle interrupts</li>
+<li>Acknowledging IRQs to hardware</li>
+<li>Interrupts CPU affinity in multi-core systems</li>
+<li>Interrupts and priorities</li>
+<li>Sharing interrupts</li>
+<li>Deferring work on incoming data</li>
+</ul></li>
+<li>IO Ports
+<ul>
+<li>What are io ports?</li>
+<li>Reading and writing</li>
+<li>Buffer sizes</li>
+</ul></li>
+<li>IO memory
+<ul>
+<li>mapping memory</li>
+<li>reading and writing</li>
+<li>memory barriers</li>
+<li>cycling through buffers</li>
+</ul></li>
+<li>I2C
+<ul>
+<li>what is i2c?</li>
+<li>Sending and receiving messages</li>
+<li>i2c limitations</li>
+</ul></li>
+<li><code>GPIO</code>
+<ul>
+<li>What is <code>GPIO</code> hardware?</li>
+<li>Reading and writing <code>GPIO</code></li>
+</ul></li>
+<li><code>DMA</code>
+<ul>
+<li>What is <code>DMA</code>?</li>
+<li>Allocating memory for <code>DMA</code></li>
+<li>Different types of <code>DMA</code> buffers</li>
+<li>Cycling through buffers to allow processing</li>
+<li>Getting notified when <code>DMA</code> is done</li>
+<li>CPU memory caching and <code>DMA</code></li>
+</ul></li>
+<li>Storage
+<ul>
+<li>NAND flash</li>
+<li>File-systems</li>
+</ul></li>
+<li>Bootloaders
+<ul>
+<li>The role of the bootloader</li>
+<li>Examples of bootloaders</li>
+<li>Configuring bootloaders</li>
+</ul></li>
+<li>Power management
+<ul>
+<li>Hardware support for power management</li>
+<li>Things to deal with (cleanup, registration and more)</li>
+</ul></li>
+<li>BSP
+<ul>
+<li>What is a BSP? Who write it?</li>
+<li>Board Bring Up</li>
+<li>Initialization Sequence</li>
+<li>Device Trees</li>
+<li>Memory</li>
+<li>Interrupts and Timers</li>
+<li>Device Drivers</li>
+<li>IODevices</li>
+<li>IORequest Model</li>
+<li>Standard Driver Interfaces</li>
+</ul></li>
+<li>Debugging hardware issues
+<ul>
+<li>Hardware support for debugging - external</li>
+<li>Hardware support for debugging - software</li>
+<li>JTAG</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

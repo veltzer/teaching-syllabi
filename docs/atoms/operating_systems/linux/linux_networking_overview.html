@@ -1,0 +1,131 @@
+<h1 id="linux-networking-overview"><code>Linux</code> networking
+overview</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This is a comprehensive course about the various subsystems in
+<code>Linux</code> which have to do with networking. It scans both the
+user space <code>APIs</code> and the networking stack in the kernel
+including the role of the network device driver itself. It also teaching
+about other technologies that have an interaction with networking like
+<code>eBPF</code>, <code>iptables</code>, <code>netfilter</code>,
+namespaces and more</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li><code>TCP</code>/IP essentials
+<ul>
+<li>Introduction to <code>TCP</code>/IP</li>
+<li>Internet Protocol (IP)</li>
+<li>Transmission Control Protocol (<code>TCP</code>)</li>
+<li>User Datagram Protocol (<code>UDP</code>)</li>
+<li>Concepts: Router, Modem, Switch, Gateway, Server, Client, NAT,
+<code>DNS</code></li>
+</ul></li>
+<li>The <code>Linux</code> networking stack
+<ul>
+<li>What is the role of <code>net_device</code> and network device
+drivers</li>
+<li>The <code>Linux</code> protocol stack (<code>TCP</code>/IP)</li>
+<li>Sockets</li>
+<li>The socket &lt;-&gt; protocol interface</li>
+<li>The link layer</li>
+<li>The user space <code>API</code></li>
+</ul></li>
+<li>Network C Programming essentials
+<ul>
+<li>Stream socket server and client coding
+<ul>
+<li><code>socket</code>, <code>bind</code>, <code>connect</code>,
+<code>listen</code>, <code>accept</code></li>
+<li><code>read</code>, <code>write</code>, <code>recv</code>,
+<code>send</code></li>
+</ul></li>
+<li>C library utility functions: <code>gethostbyname</code>,
+<code>getservbyname</code></li>
+<li>Datagram coding: <code>socket</code>, <code>bind</code>,
+<code>connect</code>, <code>recvfrom</code>, <code>sendto</code></li>
+<li>Socket options, especially DSCP/TOS using <code>IP_TOS</code></li>
+<li>Out of band data</li>
+<li>Using the command line <code>tc</code> to handle priorities</li>
+</ul></li>
+<li>Various command line tools that control networking
+<ul>
+<li>Information tools: <code>/proc/[pid]/fd</code>,
+<code>netstat</code>, <code>ip</code>, <code>ss</code></li>
+<li>Low level tools: <code>ethtool</code>, <code>mii-tool</code>,
+<code>arp</code></li>
+<li>Configuration tools: <code>ifconfig</code>, <code>ip</code>,
+<code>ifup</code>/<code>ifdown</code>, <code>route</code>,
+<code>iwconfig</code>, <code>iwlist</code>, <code>iwpriv</code></li>
+<li>performance tools: <code>jnettop</code>, <code>netperf</code>,
+<code>lnstat</code> <code>rtmon</code> <code>rtstat</code>
+<code>nstat</code> <code>rtacct</code> <code>routef</code>
+<code>routel</code> <code>ctstat</code></li>
+<li>Tapping tools: <code>nc</code>, <code>netcat</code>,
+<code>tcpdump</code>, <code>wireshark</code></li>
+<li>Quality control: <code>tc</code></li>
+<li>Debugging tools: <code>telnet</code>, <code>ping</code>,
+<code>traceroute</code>, <code>nmap</code></li>
+</ul></li>
+<li><code>Linux</code> module primer
+<ul>
+<li>Module initialization</li>
+<li>Module cleanup</li>
+<li>Compiling a kernel module</li>
+<li>Kernel logging</li>
+</ul></li>
+<li>Network Device overview
+<ul>
+<li><code>sk_buff</code></li>
+<li>The <code>net_device</code> structure</li>
+<li>Registering a network driver</li>
+<li>Network driver private data</li>
+<li>Network device operations: <code>ndo_open</code>,
+<code>ndo_stop</code>, <code>start_xmit</code></li>
+<li>Handling interrupts, mitigating large number of interrupts</li>
+<li>Memory mapping</li>
+</ul></li>
+<li><code>TCP</code>/IP Firewall
+<ul>
+<li>What is a firewall?</li>
+<li>What is IP filtering?</li>
+<li><code>Linux</code> and firewalling</li>
+<li>IP tables</li>
+<li>Testing a firewall configuration</li>
+</ul></li>
+<li>Net Filters
+<ul>
+<li>Implementing netfilters in user space</li>
+<li>Hooking points</li>
+<li>Hook functions</li>
+<li>Registering a netfilter</li>
+<li>Removal of netfilters</li>
+<li>Implementing netfilters in kernel space</li>
+</ul></li>
+<li>Namespaces
+<ul>
+<li>What are namespaces</li>
+<li>Types of namespaces</li>
+<li>Cgroups and their relation to namespaces</li>
+<li>Creating namespaces and cgroups</li>
+<li>Inspecting a namespace from the outer world</li>
+<li>Connecting namespaces</li>
+<li>Using <code>net_prio</code> and <code>net_cls</code> to prioritize
+networking for containers</li>
+</ul></li>
+<li>eBPF Overview and Usage Optional, second priority
+<ul>
+<li>The extended Berkeley packet filter</li>
+<li>cBPF vs. eBPF</li>
+<li>The architecture of eBPF</li>
+<li>Creating and running eBPF code</li>
+<li>Off the shelf eBPF program collections</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

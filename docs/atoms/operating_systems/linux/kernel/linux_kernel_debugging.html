@@ -1,0 +1,151 @@
+<h1 id="linux-kernel-debugging"><code>Linux</code> Kernel Debugging</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course is a <code>Linux</code> Kernel Debugging course and
+explores the various tools and techniques that enable efficient
+debugging of code in the <code>Linux</code> kernel.</p>
+<h2 id="duration">Duration</h2>
+<ul>
+<li>3 days for experienced programmer.</li>
+<li>5 days for non experienced programmers.</li>
+</ul>
+<h2 id="intended-audience">Intended Audience</h2>
+<p>This course is intended for kernel developers which either do not
+have many years experience in <code>Linux</code> kernel development or
+for developers who want to expand their knowledge about the tools and
+techniques for debugging code in the <code>Linux</code> kernel.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>C language</li>
+<li><code>Linux</code> command line</li>
+<li><code>Linux</code> kernel programming</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Basics
+<ul>
+<li>Procedures</li>
+<li>Kernel Versions</li>
+<li>Kernel Sources and Use of git</li>
+</ul></li>
+<li>Kernel Features (reminder)
+<ul>
+<li>Components of the Kernel</li>
+<li>User-Space vs. Kernel-Space</li>
+<li>What are System Calls?</li>
+<li>Available System Calls</li>
+<li>Scheduling Algorithms and Task Structures</li>
+<li>Process Context</li>
+</ul></li>
+<li>Techniques for finding the problem
+<ul>
+<li>Binary search for your bug</li>
+<li>Building in debugging capabilities into your module</li>
+<li>Building in configurability into your module</li>
+</ul></li>
+<li>Correct locking in the kernel
+<ul>
+<li>Review of locking rules in the kernel</li>
+<li>Using <code>lockdep</code></li>
+<li>Keeping the types of your locks flexible</li>
+<li>Avoiding locks altogether</li>
+</ul></li>
+<li>Kernel debugging overview
+<ul>
+<li>Using the kernel log.</li>
+<li>The <code>debugfs</code> filesystem.</li>
+<li><code>ioctl</code></li>
+<li>The <code>proc</code> filesystem.</li>
+<li>The <code>sysfs</code> filesystem.</li>
+</ul></li>
+<li>Malloc debugging in the kernel
+<ul>
+<li>Debugging caches via your code and <code>/proc/slabinfo</code></li>
+<li>KASAN</li>
+<li>Kmemleak</li>
+</ul></li>
+<li>Monitoring and Debugging
+<ul>
+<li>Debuginfo Packages</li>
+<li>Tracing and Profiling</li>
+<li>Using <code>sysctl</code></li>
+<li>SysRq Key</li>
+<li>oops Messages</li>
+<li>Kernel Debuggers</li>
+<li>debugfs</li>
+</ul></li>
+<li>The proc Filesystem
+<ul>
+<li>What is the proc Filesystem?</li>
+<li>Creating and Removing Entries</li>
+<li>Reading and Writing Entries</li>
+<li>The <code>seq_file</code> Interface</li>
+</ul></li>
+<li>kprobes
+<ul>
+<li>kprobes</li>
+<li>kretprobes</li>
+<li>SystemTap</li>
+</ul></li>
+<li>Ftrace
+<ul>
+<li>What is ftrace?</li>
+<li>ftrace, trace-cmd and kernelshark</li>
+<li>Available Tracers</li>
+<li>Using ftrace</li>
+<li>Files in the Tracing Directory</li>
+<li>Tracing Options</li>
+<li>Printing with <code>trace_printk()</code></li>
+<li>Trace Markers</li>
+<li>Dumping the Buffer</li>
+<li><code>trace-cmd</code></li>
+</ul></li>
+<li>Perf
+<ul>
+<li>What is perf?</li>
+<li>perf stat</li>
+<li>perf list</li>
+<li>perf record</li>
+<li>perf report</li>
+<li>perf annotate</li>
+<li>perf top</li>
+</ul></li>
+<li>Crash
+<ul>
+<li>Crash</li>
+<li>Main Commands</li>
+</ul></li>
+<li>Kernel Core Dumps
+<ul>
+<li>Generating Kernel Core Dumps</li>
+<li>kexec</li>
+<li>Setting Up Kernel Core Dumps</li>
+</ul></li>
+<li><code>Linux</code> Kernel debuggers
+<ul>
+<li><code>Linux</code> Kernel (built-in) tools and helpers</li>
+<li>kdb</li>
+<li>qemu+<code>gdb</code></li>
+<li>kgdb: hardware+serial+<code>gdb</code></li>
+</ul></li>
+<li>Netlink Sockets
+<ul>
+<li>What are netlink Sockets?</li>
+<li>Opening a netlink Socket</li>
+<li>netlink Messages</li>
+</ul></li>
+</ul>
+<h2 id="notes">Notes</h2>
+<p>Several of the chapters in this course are based on chapters from <a
+href="https://training.linuxfoundation.org/training/linux-kernel-debugging-and-security">linux-kernel-debugging-and_security</a>.
+Other chapters are written by <a
+href="mailto:mark.veltzer@gmail.com">me</a>. This course does not teach
+<code>Linux</code> Kernel Programming from the ground up. Kernel
+knowledge is assumed and should have been acquired in a previous course
+or some years with hands on experience in kernel programming.</p>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

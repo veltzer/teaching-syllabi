@@ -1,0 +1,188 @@
+<h1 id="linux-real-time-programming"><code>Linux</code> real time
+programming</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Linux</code> has become the dominant operating system in many
+real work, real time applications but it is also the most complicated
+operating system to be used in that space and so requires quite a high
+degree of understanding in order to be utilized properly. This is a
+course designed to achieve exactly that. The course could be taught at a
+theoretical level with no exercises covering more ground or less
+theoretically with exercises for new comers to the <code>Linux</code>
+Real Time playing field.</p>
+<h2 id="duration">Duration</h2>
+<p>32 hours / 4 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Experienced <code>C</code>/<code>C++</code> programmers (3 years
+minimum).</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>C programming (C++ if C++ issues are to be discussed)</li>
+<li><code>UNIX</code> <code>API</code> familiarity</li>
+<li>Knowledge of <code>UNIX</code> philosophy and design.</li>
+<li>If no such knowledge exists then the course could be made longer to
+accommodate with an intro about <code>UNIX</code>/<code>Linux</code>
+philosophy, command line usage, boot process and more.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Definitions
+<ul>
+<li>What is realtime?</li>
+<li>Near real time scenarios</li>
+<li>Traditional real time operating systems</li>
+<li>Deficiencies in traditional real time operating systems</li>
+<li>The sources of latency</li>
+</ul></li>
+<li><code>Linux</code> and real time
+<ul>
+<li>Is <code>Linux</code> real time?</li>
+<li>The <code>Linux</code> real time patch</li>
+<li>real time <code>APIs</code> in <code>Linux</code></li>
+</ul></li>
+<li>Real time and being fast
+<ul>
+<li>The importance of knowing the systems <code>APIs</code>
+(<code>memcpy</code>, etc)</li>
+<li>Intel libraries for <code>Linux</code></li>
+<li>Writing assembly in <code>Linux</code></li>
+</ul></li>
+<li>Real time and the operating system
+<ul>
+<li>cost of a system calls</li>
+<li>the cost of regular <code>read</code> and <code>write</code> system
+calls.</li>
+<li>“do many” system calls (<code>readv</code>, <code>writev</code>,
+…)</li>
+<li>multiplexing IO in <code>Linux</code> (<code>select</code>,
+<code>poll</code>, <code>epoll</code>)</li>
+<li>asynchronous IO in <code>Linux</code></li>
+<li><code>io_uring</code> interface</li>
+<li><code>mmap</code> with drivers and files</li>
+<li>avoiding system calls (caching, getpid, gettid and more)</li>
+<li>virtual memory, page faults and their cost.</li>
+<li>avoiding pagefaults</li>
+<li>avoiding swap</li>
+<li>shared memory and how it’s implemented</li>
+<li>cost of DSOs</li>
+</ul></li>
+<li>Real time and locking
+<ul>
+<li>How are locks implemented?</li>
+<li>spinlocks</li>
+<li>futexes</li>
+<li>readers/writer lock</li>
+<li>RCU</li>
+<li>lock free data structures</li>
+</ul></li>
+<li>Real time and devices
+<ul>
+<li><code>read</code>, <code>write</code></li>
+<li><code>aio</code></li>
+<li><code>ioctl</code></li>
+<li><code>mmap</code></li>
+<li><code>get_user_pages</code></li>
+</ul></li>
+<li>Real time and clocks
+<ul>
+<li>The various types of clocks supported by <code>Linux</code>.</li>
+<li>Accuracy of the various clocks.</li>
+<li><code>sleep(3)</code>, <code>usleep(3)</code>,
+<code>nanosleep(2)</code></li>
+<li><code>clock_*(2)</code></li>
+<li><code>timerfd(2)</code>: multiplexing clocks and other events</li>
+</ul></li>
+<li>Real time and files
+<ul>
+<li>cost of reading files</li>
+<li>cost of writing files</li>
+<li>cost of seeking files</li>
+<li>cost of deleting files</li>
+<li>cost of many files in a folder</li>
+<li>using tmpfs/<code>ramfs</code> as an alternative</li>
+</ul></li>
+<li>Real time and memory allocation
+<ul>
+<li>performance of <code>malloc</code></li>
+<li><code>mlock</code></li>
+<li>obstacks</li>
+<li><code>mmap</code></li>
+<li>other memory allocators</li>
+<li>kernel memory allocation</li>
+</ul></li>
+<li>Real time and scheduling
+<ul>
+<li>Scheduling real time threads</li>
+<li>user space threads vs kernel threads vs IRQ handlers</li>
+<li>Real time threads can hurt your system</li>
+<li>debugging your threads preemption</li>
+<li>examining interrupts and thread priorities</li>
+</ul></li>
+<li>Real time and signals
+<ul>
+<li>What is signal handling?</li>
+<li>The problems of traditional signal handling</li>
+<li>RT signals in <code>Linux</code></li>
+<li>eventfd as alternative to RT signals</li>
+<li>performance of pipes</li>
+</ul></li>
+<li>Real time and measurements
+<ul>
+<li>gettimeofday</li>
+<li>problems with gettimeofday</li>
+<li>performance counters intro</li>
+<li>perf</li>
+<li>doing it on your own (RDTSC, PAPI)</li>
+<li>measuring embedded <code>Linux</code> latency</li>
+<li>measuring latency using external methods (oscilloscope, logic
+analyzer)</li>
+<li>kernel profiling</li>
+</ul></li>
+<li>Real time and logging
+<ul>
+<li>cost of syslog</li>
+<li>cost of writing to files</li>
+<li>alternatives to both using shared memory</li>
+</ul></li>
+<li>Real time and software design
+<ul>
+<li>Designing a real time <code>Linux</code> system - intro</li>
+<li>CPU affinity for threads and processes.</li>
+<li>CPU affinity for interrupt handlers and kernel threads.</li>
+</ul></li>
+<li>Real time and the hardware
+<ul>
+<li>hardware built for real time</li>
+<li>IO busses and real time</li>
+<li>problems caused by the hardware (Self monitoring IRQs (SMIs) and
+similar issues)</li>
+</ul></li>
+<li>Hypervisors intro
+<ul>
+<li>Host-Guest OS terminology</li>
+<li>Hypervisors</li>
+<li>Virtualization technologies: Full Virtualization,
+Para-Virtualization, Os-Level Virtualization</li>
+<li>Virtual machine privileges.</li>
+<li>Advantages &amp; disadvantages of using virtual machines</li>
+<li>Additional option: basic demo on KVM</li>
+<li>Quick review of common hypervisors (KVM, VMWare, Hyper-V) and their
+capabilities.</li>
+</ul></li>
+<li>Real time and hypervisors
+<ul>
+<li>Comparing native (bare metal) and hosted hypervisors for real time
+needs.</li>
+<li>Real time drivers and real time.</li>
+<li>PCI pass through.</li>
+<li>Hypervisors scheduling.</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

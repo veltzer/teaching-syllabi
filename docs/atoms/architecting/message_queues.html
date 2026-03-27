@@ -1,0 +1,55 @@
+<h1 id="message-queues">Message Queues</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>Message queues are arguably the most important tool in a software
+architects toolbox. Sadly though they are not discussed seriously enough
+in architecting classes and software development courses. This lecture
+is intended to fill some knowledge gap and explain when you should use
+this tool, when you should not, and what Message Queue features would be
+of interest to an architect when designing a scalable, durable and
+efficient system.</p>
+<h2 id="duration">Duration</h2>
+<p>1 hour</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>when to use a message queue from an architecture perspective
+<ul>
+<li>mq vs <code>API</code> vs other queue like features (internet of
+things messaging)</li>
+<li>mq across <code>k8s</code></li>
+</ul></li>
+<li>basic message queue features
+<ul>
+<li>one to one</li>
+<li>one to many</li>
+<li>one to group</li>
+<li>pub/sub</li>
+<li>streaming</li>
+<li>size of message</li>
+</ul></li>
+<li>features of message queues
+<ul>
+<li>at least one delivery
+<ul>
+<li>invisibility timeout</li>
+<li>extending timeout</li>
+</ul></li>
+<li>exactly one delivery</li>
+<li>dead letter queue</li>
+<li>ordered delivery</li>
+<li>persistence</li>
+<li>durability of the queue</li>
+<li>scalability of the queue</li>
+</ul></li>
+<li>comparison of different alternatives:
+<ul>
+<li><code>Kafka</code>, <code>ActiveMQ</code>, <code>RabbitMQ</code>,
+<code>Pulsar</code>, <code>Azure</code> queues.</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>
