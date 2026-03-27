@@ -75,3 +75,15 @@ enabled = false
 
 [processor.ascii_check]
 enabled = false
+
+[processor.apt]
+enabled = false
+
+[processor.gem]
+enabled = false
+
+[processor.checkpatch.pl]
+enabled = false
+
+[processor.npm]
+enabled = false
