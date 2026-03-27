@@ -11,7 +11,7 @@ category: operating-systems
 duration_days: 7
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
 ---
 # Embedded `Linux` for user space developers
 

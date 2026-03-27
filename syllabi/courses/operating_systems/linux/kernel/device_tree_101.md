@@ -10,7 +10,7 @@ category: operating-systems
 duration_days: 1
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
 ---
 # Device Tree 101
 

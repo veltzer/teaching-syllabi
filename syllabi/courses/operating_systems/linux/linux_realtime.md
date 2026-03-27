@@ -11,7 +11,7 @@ category: operating-systems
 duration_days: 4
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
 ---
 # `Linux` real time programming
 

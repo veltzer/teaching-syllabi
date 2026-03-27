@@ -12,7 +12,7 @@ category: operating-systems
 duration_days: 3
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
   - devops
 ---
 # Embedded `Linux` Platform Development with `Yocto`

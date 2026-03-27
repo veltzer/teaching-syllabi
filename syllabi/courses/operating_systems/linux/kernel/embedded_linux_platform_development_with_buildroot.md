@@ -11,7 +11,7 @@ category: operating-systems
 duration_days: 3
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
 ---
 # Embedded `Linux` Platform Development with `Buildroot`
 

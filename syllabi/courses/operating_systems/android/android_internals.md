@@ -11,7 +11,7 @@ category: operating-systems
 duration_days: 5
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
   - security-professionals
 ---
 # `Android` Internals

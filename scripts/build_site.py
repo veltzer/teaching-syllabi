@@ -10,6 +10,7 @@ import json
 import re
 import shutil
 from pathlib import Path
+from typing import Any
 
 import yaml
 
@@ -19,7 +20,7 @@ PANDOC_DIR = ROOT / "out" / "pandoc"
 DOCS_DIR = ROOT / "docs"
 
 
-def parse_frontmatter(md_path: Path) -> dict[str, object]:
+def parse_frontmatter(md_path: Path) -> dict[str, Any]:
     """Parse YAML frontmatter from a markdown file."""
     text = md_path.read_text(encoding="utf-8")
     match = re.match(r"^---\n(.*?\n)---\n", text, re.DOTALL)
@@ -55,7 +56,7 @@ def build_site() -> None:
         shutil.rmtree(DOCS_DIR)
     DOCS_DIR.mkdir()
 
-    entries: list[dict[str, object]] = []
+    entries: list[dict[str, Any]] = []
     all_tags: set[str] = set()
     all_levels: set[str] = set()
     all_categories: set[str] = set()
@@ -112,7 +113,7 @@ def build_site() -> None:
 
 
 def generate_index(
-    entries: list[dict[str, object]],
+    entries: list[dict[str, Any]],
     all_tags: list[str],
     all_levels: list[str],
     all_categories: list[str],

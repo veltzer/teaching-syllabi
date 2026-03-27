@@ -11,7 +11,7 @@ category: operating-systems
 duration_days: 2
 audience:
   - developers
-  - embedded-developers
+  - embedded-engineers
 ---
 # `Android` Media at the Native layer
 
