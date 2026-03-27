@@ -64,9 +64,6 @@ enabled = false
 [processor.standard]
 enabled = false
 
-[processor.npm]
-enabled = false
-
 [processor.pip]
 enabled = false
 
@@ -79,7 +76,7 @@ enabled = false
 [processor.gem]
 enabled = false
 
-[processor.checkpatch.pl]
+[processor.checkpatch]
 enabled = false
 
 [processor.npm]

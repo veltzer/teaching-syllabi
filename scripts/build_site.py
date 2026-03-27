@@ -5,7 +5,6 @@ Build the GitHub Pages site from generated pandoc HTML files.
 Copies all HTML syllabi to docs/ and generates an index.html.
 """
 
-import os
 import re
 import shutil
 from pathlib import Path
