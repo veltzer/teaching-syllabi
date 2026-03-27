@@ -1,13 +1,13 @@
 ---
 tags:
-  - c
-  - api
-  - design-patterns
+  - languages:c
+  - concepts:api
+  - concepts:design-patterns
 level: advanced
 category: language
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # C `API` Design
 

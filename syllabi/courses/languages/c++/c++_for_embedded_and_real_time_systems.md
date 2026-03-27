@@ -1,15 +1,15 @@
 ---
 tags:
-  - c++
-  - embedded
-  - real-time
-  - performance
+  - languages:c++
+  - hardware-and-embedded:embedded
+  - infrastructure:real-time
+  - practices:performance
 level: advanced
 category: language
 duration_days: 5
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # C++ for Embedded and Real Time Systems
 

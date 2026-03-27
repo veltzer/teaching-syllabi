@@ -1,12 +1,12 @@
 ---
 tags:
-  - kafka
-  - streaming
-  - message-queues
+  - tools:kafka
+  - data-and-ai:streaming
+  - data-and-ai:message-queues
 level: intermediate
 category: message-queue
 audience:
-  - developers
+  - audiences:developers
 ---
 # Introduction to `Kafka` Streams
 

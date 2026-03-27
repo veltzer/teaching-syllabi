@@ -1,12 +1,12 @@
 ---
 tags:
-  - sql
-  - databases
+  - languages:sql
+  - data-and-ai:databases
 level: beginner
 category: language
 audience:
-  - developers
-  - dbas
+  - audiences:developers
+  - audiences:dbas
 ---
 # `SQL`
 

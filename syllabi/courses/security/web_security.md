@@ -1,13 +1,13 @@
 ---
 tags:
-  - security
-  - web-security
-  - authentication
-  - encryption
+  - security:security
+  - security:web-security
+  - security:authentication
+  - security:encryption
 level: beginner
 category: security
 audience:
-  - developers
+  - audiences:developers
 ---
 # Web Security Fundamentals
 

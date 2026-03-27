@@ -1,14 +1,14 @@
 ---
 tags:
-  - python
-  - automation
-  - testing
-  - scripting
+  - languages:python
+  - practices:automation
+  - practices:testing
+  - practices:scripting
 level: intermediate
 category: language
 audience:
-  - developers
-  - testers
+  - audiences:developers
+  - audiences:testers
 ---
 # `Python` for Automation Developers
 

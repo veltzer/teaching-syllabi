@@ -1,14 +1,14 @@
 ---
 tags:
-  - cmake
-  - c
-  - c++
-  - build-systems
+  - tools:cmake
+  - languages:c
+  - languages:c++
+  - practices:build-systems
 level: intermediate
 category: build-system
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # `CMake`
 

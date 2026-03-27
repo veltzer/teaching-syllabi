@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - embedded
-  - real-time
-  - user-space
-  - ipc
-  - networking
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - infrastructure:real-time
+  - infrastructure:user-space
+  - infrastructure:ipc
+  - networking:networking
 level: intermediate
 category: operating-systems
 duration_days: 7
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Linux` for user space developers
 

@@ -1,12 +1,12 @@
 ---
 tags:
-  - c
-  - programming
+  - languages:c
+  - concepts:programming
 level: advanced
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # C Advanced
 

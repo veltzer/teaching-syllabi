@@ -1,14 +1,14 @@
 ---
 tags:
-  - make
-  - c
-  - build-systems
-  - linux
+  - tools:make
+  - languages:c
+  - practices:build-systems
+  - infrastructure:linux
 level: intermediate
 category: build-system
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # GNU Make
 

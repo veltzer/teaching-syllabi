@@ -1,13 +1,13 @@
 ---
 tags:
-  - architecture
-  - design-patterns
+  - concepts:architecture
+  - concepts:design-patterns
 level: beginner
 category: architecture
 duration_days: 1
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # Introduction to Architecting
 

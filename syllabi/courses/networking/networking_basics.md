@@ -1,14 +1,14 @@
 ---
 tags:
-  - networking
-  - tcp-ip
-  - http
-  - protocols
+  - networking:networking
+  - networking:tcp-ip
+  - networking:http
+  - networking:protocols
 level: beginner
 category: networking
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # Networking Basics
 

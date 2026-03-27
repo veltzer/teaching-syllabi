@@ -1,19 +1,19 @@
 ---
 tags:
-  - linux
-  - debugging
-  - gdb
-  - valgrind
-  - sanitizers
-  - performance
-  - multithreading
+  - infrastructure:linux
+  - practices:debugging
+  - tools:gdb
+  - tools:valgrind
+  - practices:sanitizers
+  - practices:performance
+  - concepts:multithreading
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
-  - devops
-  - performance-engineers
+  - audiences:developers
+  - practices:devops
+  - audiences:performance-engineers
 ---
 # `Linux` Debugging
 

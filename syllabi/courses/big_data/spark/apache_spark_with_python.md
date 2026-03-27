@@ -1,15 +1,15 @@
 ---
 tags:
-  - spark
-  - python
-  - big-data
-  - distributed-systems
+  - tools:spark
+  - languages:python
+  - data-and-ai:big-data
+  - concepts:distributed-systems
 level: intermediate
 category: big-data
 duration_days: 3
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # `Apache Spark` with `Python`
 

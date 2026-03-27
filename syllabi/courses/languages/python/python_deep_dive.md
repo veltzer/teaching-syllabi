@@ -1,13 +1,13 @@
 ---
 tags:
-  - python
-  - programming
-  - oop
-  - functional-programming
+  - languages:python
+  - concepts:programming
+  - concepts:oop
+  - concepts:functional-programming
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Python` Deep Dive for Programmers
 

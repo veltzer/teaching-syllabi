@@ -1,14 +1,14 @@
 ---
 tags:
-  - security
-  - cyber-threats
-  - web-security
-  - penetration-testing
+  - security:security
+  - security:cyber-threats
+  - security:web-security
+  - security:penetration-testing
 level: intermediate
 category: security
 audience:
-  - security-professionals
-  - developers
+  - audiences:security-professionals
+  - audiences:developers
 ---
 # Cyber Threats and Attack Vectors
 

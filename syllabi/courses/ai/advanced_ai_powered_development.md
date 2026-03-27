@@ -1,21 +1,21 @@
 ---
 tags:
-  - ai
-  - agents
-  - mcp
-  - rag
-  - tools
-  - large-codebases
-  - prompt-engineering
-  - productivity
+  - data-and-ai:ai
+  - data-and-ai:agents
+  - data-and-ai:mcp
+  - data-and-ai:rag
+  - practices:tools
+  - practices:large-codebases
+  - data-and-ai:prompt-engineering
+  - audiences:productivity
 level: advanced
 category: ai
 duration_days: 5
 audience:
-  - developers
-  - architects
-  - devops
-  - team-leads
+  - audiences:developers
+  - audiences:architects
+  - practices:devops
+  - audiences:team-leads
 ---
 # Advanced `AI`-Powered Development
 

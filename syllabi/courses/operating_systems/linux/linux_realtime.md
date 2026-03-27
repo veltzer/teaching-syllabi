@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - real-time
-  - performance
-  - scheduling
-  - embedded
-  - latency
+  - infrastructure:linux
+  - infrastructure:real-time
+  - practices:performance
+  - concepts:scheduling
+  - hardware-and-embedded:embedded
+  - practices:latency
 level: advanced
 category: operating-systems
 duration_days: 4
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Linux` real time programming
 

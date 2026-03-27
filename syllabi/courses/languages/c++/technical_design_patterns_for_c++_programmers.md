@@ -1,15 +1,15 @@
 ---
 tags:
-  - c++
-  - c
-  - design-patterns
-  - concurrency
-  - performance
+  - languages:c++
+  - languages:c
+  - concepts:design-patterns
+  - concepts:concurrency
+  - practices:performance
 level: advanced
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # Technical design patterns for `C`/`C++` programmers
 

@@ -1,17 +1,17 @@
 ---
 tags:
-  - android
-  - ndk
-  - media
-  - audio
-  - video
-  - opengl
+  - infrastructure:android
+  - hardware-and-embedded:ndk
+  - audiences:media
+  - hardware-and-embedded:audio
+  - hardware-and-embedded:video
+  - hardware-and-embedded:opengl
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Android` Media at the Native layer
 

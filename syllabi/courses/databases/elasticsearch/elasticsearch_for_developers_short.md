@@ -1,13 +1,13 @@
 ---
 tags:
-  - elasticsearch
-  - search
-  - api
+  - tools:elasticsearch
+  - data-and-ai:search
+  - concepts:api
 level: intermediate
 category: database
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Elasticsearch` for Developers (Short)
 

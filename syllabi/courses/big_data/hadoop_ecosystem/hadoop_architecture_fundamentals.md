@@ -1,15 +1,15 @@
 ---
 tags:
-  - hadoop
-  - hdfs
-  - mapreduce
-  - big-data
-  - java
+  - tools:hadoop
+  - data-and-ai:hdfs
+  - data-and-ai:mapreduce
+  - data-and-ai:big-data
+  - languages:java
 level: beginner
 category: big-data
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # `Hadoop`
 

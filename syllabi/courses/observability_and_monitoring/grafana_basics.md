@@ -1,13 +1,13 @@
 ---
 tags:
-  - grafana
-  - monitoring
-  - observability
+  - tools:grafana
+  - practices:monitoring
+  - practices:observability
 level: beginner
 category: observability
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `Grafana` Basics
 

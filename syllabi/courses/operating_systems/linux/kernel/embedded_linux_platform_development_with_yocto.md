@@ -1,19 +1,19 @@
 ---
 tags:
-  - linux
-  - embedded
-  - yocto
-  - bitbake
-  - cross-compilation
-  - build-systems
-  - ci-cd
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - tools:yocto
+  - tools:bitbake
+  - infrastructure:cross-compilation
+  - practices:build-systems
+  - practices:ci-cd
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
-  - devops
+  - audiences:developers
+  - audiences:embedded-engineers
+  - practices:devops
 ---
 # Embedded `Linux` Platform Development with `Yocto`
 

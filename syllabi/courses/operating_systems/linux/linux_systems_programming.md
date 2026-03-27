@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - c
-  - systems-programming
-  - multithreading
-  - ipc
-  - networking
-  - io
+  - infrastructure:linux
+  - languages:c
+  - concepts:systems-programming
+  - concepts:multithreading
+  - infrastructure:ipc
+  - networking:networking
+  - infrastructure:io
 level: advanced
 category: operating-systems
 duration_days: 8
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` systems programming
 

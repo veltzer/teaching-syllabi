@@ -1,16 +1,16 @@
 ---
 tags:
-  - kubernetes
-  - containers
-  - devops
-  - go
-  - service-mesh
+  - tools:kubernetes
+  - infrastructure:containers
+  - practices:devops
+  - languages:go
+  - concepts:service-mesh
 level: advanced
 category: devops
 duration_days: 3
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # Advanced `Kubernetes`
 

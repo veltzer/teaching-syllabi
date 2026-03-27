@@ -1,17 +1,17 @@
 ---
 tags:
-  - microcontrollers
-  - multi-core
-  - multithreading
-  - concurrency
-  - embedded
-  - rtos
+  - hardware-and-embedded:microcontrollers
+  - hardware-and-embedded:multi-core
+  - concepts:multithreading
+  - concepts:concurrency
+  - hardware-and-embedded:embedded
+  - infrastructure:rtos
 level: advanced
 category: hardware
 duration_days: 2
 audience:
-  - embedded-engineers
-  - firmware-developers
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
 ---
 # Multi-Core and Multi-Threading for Microcontrollers
 

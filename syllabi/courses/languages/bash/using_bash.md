@@ -1,14 +1,14 @@
 ---
 tags:
-  - bash
-  - linux
-  - shell
+  - languages:bash
+  - infrastructure:linux
+  - languages:shell
 level: beginner
 category: language
 duration_days: 2
 audience:
-  - developers
-  - sysadmins
+  - audiences:developers
+  - audiences:sysadmins
 ---
 # Using `Bash`
 

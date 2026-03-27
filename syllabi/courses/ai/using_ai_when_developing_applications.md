@@ -1,17 +1,17 @@
 ---
 tags:
-  - ai
-  - code-generation
-  - prompt-engineering
-  - testing
-  - productivity
+  - data-and-ai:ai
+  - concepts:code-generation
+  - data-and-ai:prompt-engineering
+  - practices:testing
+  - audiences:productivity
 level: intermediate
 category: ai
 duration_days: 3
 audience:
-  - developers
-  - devops
-  - architects
+  - audiences:developers
+  - practices:devops
+  - audiences:architects
 ---
 # Using `AI` when Developing Applications
 

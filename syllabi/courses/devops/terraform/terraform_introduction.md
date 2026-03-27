@@ -1,14 +1,14 @@
 ---
 tags:
-  - terraform
-  - infrastructure-as-code
-  - cloud
-  - devops
+  - tools:terraform
+  - infrastructure:infrastructure-as-code
+  - infrastructure:cloud
+  - practices:devops
 level: beginner
 category: devops
 duration_days: 3
 audience:
-  - devops
+  - practices:devops
 ---
 # `Terraform` Introduction
 

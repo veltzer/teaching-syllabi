@@ -1,16 +1,16 @@
 ---
 tags:
-  - architecture
-  - microservices
-  - cloud
-  - ci-cd
-  - design-patterns
+  - concepts:architecture
+  - concepts:microservices
+  - infrastructure:cloud
+  - practices:ci-cd
+  - concepts:design-patterns
 level: intermediate
 category: architecture
 duration_days: 5
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # Architecting
 

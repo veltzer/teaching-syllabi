@@ -1,14 +1,14 @@
 ---
 tags:
-  - devops
-  - architecture
-  - ci-cd
-  - infrastructure-as-code
+  - practices:devops
+  - concepts:architecture
+  - practices:ci-cd
+  - infrastructure:infrastructure-as-code
 level: advanced
 category: devops
 audience:
-  - devops
-  - architects
+  - practices:devops
+  - audiences:architects
 ---
 # Architectural Decisions in `DevOps`
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - cloud-foundry
-  - cloud
-  - containers
-  - microservices
+  - infrastructure:cloud-foundry
+  - infrastructure:cloud
+  - infrastructure:containers
+  - concepts:microservices
 level: beginner
 category: cloud
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # Introduction to CloudFoundry
 

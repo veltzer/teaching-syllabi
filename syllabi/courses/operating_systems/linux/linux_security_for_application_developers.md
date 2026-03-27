@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - security
-  - c
-  - vulnerabilities
-  - containers
-  - aslr
+  - infrastructure:linux
+  - security:security
+  - languages:c
+  - security:vulnerabilities
+  - infrastructure:containers
+  - security:aslr
 level: intermediate
 category: operating-systems
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` security for application developers
 

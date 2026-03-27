@@ -1,16 +1,16 @@
 ---
 tags:
-  - architecture
-  - microservices
-  - cloud-native
-  - service-mesh
-  - devops
+  - concepts:architecture
+  - concepts:microservices
+  - infrastructure:cloud-native
+  - concepts:service-mesh
+  - practices:devops
 level: intermediate
 category: architecture
 duration_days: 1
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # Cloud monolith micro services cloudnative servicemesh
 

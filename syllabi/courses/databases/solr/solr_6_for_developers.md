@@ -1,13 +1,13 @@
 ---
 tags:
-  - solr
-  - search
-  - lucene
+  - tools:solr
+  - data-and-ai:search
+  - tools:lucene
 level: intermediate
 category: database
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Solr` 6 for Developers
 

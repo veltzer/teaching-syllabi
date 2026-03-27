@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - debugging
-  - gdb
-  - c
-  - c++
-  - memory
+  - infrastructure:linux
+  - practices:debugging
+  - tools:gdb
+  - languages:c
+  - languages:c++
+  - audiences:memory
 level: intermediate
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` Debugging
 

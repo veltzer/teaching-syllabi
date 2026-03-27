@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - qemu
-  - kernel
-  - debugging
-  - virtualization
-  - device-drivers
+  - infrastructure:linux
+  - tools:qemu
+  - infrastructure:kernel
+  - practices:debugging
+  - infrastructure:virtualization
+  - infrastructure:device-drivers
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `QEMU` for Kernel Developers
 

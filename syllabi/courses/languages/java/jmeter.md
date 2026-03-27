@@ -1,16 +1,16 @@
 ---
 tags:
-  - java
-  - jmeter
-  - testing
-  - performance
-  - load-testing
+  - languages:java
+  - tools:jmeter
+  - practices:testing
+  - practices:performance
+  - practices:load-testing
 level: intermediate
 category: language
 duration_days: 2
 audience:
-  - developers
-  - testers
+  - audiences:developers
+  - audiences:testers
 ---
 # `JMeter`
 

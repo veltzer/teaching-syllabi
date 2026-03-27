@@ -1,14 +1,14 @@
 ---
 tags:
-  - security
-  - web-security
-  - penetration-testing
-  - owasp
+  - security:security
+  - security:web-security
+  - security:penetration-testing
+  - security:owasp
 level: advanced
 category: security
 audience:
-  - security-professionals
-  - developers
+  - audiences:security-professionals
+  - audiences:developers
 ---
 # Web Application Hacking
 

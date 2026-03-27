@@ -1,12 +1,12 @@
 ---
 tags:
-  - rust
-  - programming
+  - languages:rust
+  - concepts:programming
 level: advanced
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # Advanced `Rust`
 

@@ -1,13 +1,13 @@
 ---
 tags:
-  - python
-  - fastapi
-  - api
-  - web
+  - languages:python
+  - tools:fastapi
+  - concepts:api
+  - networking:web
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `FastAPI` Development
 

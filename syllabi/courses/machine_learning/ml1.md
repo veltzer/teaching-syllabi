@@ -1,12 +1,12 @@
 ---
 tags:
-  - machine-learning
-  - supervised-learning
+  - data-and-ai:machine-learning
+  - data-and-ai:supervised-learning
 level: intermediate
 category: machine-learning
 duration_days: 7
 audience:
-  - data-scientists
+  - audiences:data-scientists
 ---
 # `Machine Learning`
 

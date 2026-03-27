@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - alsa
-  - audio
-  - kernel
-  - device-drivers
-  - embedded
+  - infrastructure:linux
+  - hardware-and-embedded:alsa
+  - hardware-and-embedded:audio
+  - infrastructure:kernel
+  - infrastructure:device-drivers
+  - hardware-and-embedded:embedded
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # ALSA - Advanced `Linux` Sound Architecture
 

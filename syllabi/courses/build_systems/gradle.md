@@ -1,15 +1,15 @@
 ---
 tags:
-  - gradle
-  - java
-  - build-systems
-  - ci-cd
+  - tools:gradle
+  - languages:java
+  - practices:build-systems
+  - practices:ci-cd
 level: intermediate
 category: build-system
 duration_days: 2
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # `Gradle`
 

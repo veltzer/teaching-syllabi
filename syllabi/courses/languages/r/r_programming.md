@@ -1,14 +1,14 @@
 ---
 tags:
-  - r
-  - statistics
-  - data-analysis
+  - languages:r
+  - data-and-ai:statistics
+  - data-and-ai:data-analysis
 level: beginner
 category: language
 duration_days: 3
 audience:
-  - data-scientists
-  - developers
+  - audiences:data-scientists
+  - audiences:developers
 ---
 # R programming
 

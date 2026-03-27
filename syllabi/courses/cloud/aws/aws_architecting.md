@@ -1,17 +1,17 @@
 ---
 tags:
-  - aws
-  - cloud
-  - architecture
-  - scalability
+  - infrastructure:aws
+  - infrastructure:cloud
+  - concepts:architecture
+  - concepts:scalability
 level: intermediate
 category: cloud
 duration_days: 5
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - architects
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:architects
 ---
 # `AWS` architecting
 

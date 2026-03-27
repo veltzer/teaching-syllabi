@@ -1,16 +1,16 @@
 ---
 tags:
-  - android
-  - ndk
-  - jni
-  - kernel
-  - embedded
+  - infrastructure:android
+  - hardware-and-embedded:ndk
+  - tools:jni
+  - infrastructure:kernel
+  - hardware-and-embedded:embedded
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Android` Advanced
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - hardware
-  - interrupts
-  - dma
-  - embedded
+  - hardware-and-embedded:hardware
+  - hardware-and-embedded:interrupts
+  - hardware-and-embedded:dma
+  - hardware-and-embedded:embedded
 level: advanced
 category: hardware
 duration_days: 12
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Working with Hardware
 

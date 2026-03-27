@@ -1,14 +1,14 @@
 ---
 tags:
-  - ai
-  - code-generation
-  - prompt-engineering
-  - productivity
+  - data-and-ai:ai
+  - concepts:code-generation
+  - data-and-ai:prompt-engineering
+  - audiences:productivity
 level: intermediate
 category: ai
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # Development Using `AI` - Short Course
 

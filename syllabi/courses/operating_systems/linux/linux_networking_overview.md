@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - networking
-  - tcp-ip
-  - kernel
-  - ebpf
-  - netfilter
-  - namespaces
+  - infrastructure:linux
+  - networking:networking
+  - networking:tcp-ip
+  - infrastructure:kernel
+  - audiences:ebpf
+  - networking:netfilter
+  - infrastructure:namespaces
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
+  - audiences:developers
+  - audiences:sysadmins
 ---
 # `Linux` networking overview
 

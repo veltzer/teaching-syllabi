@@ -1,18 +1,18 @@
 ---
 tags:
-  - android
-  - android-internals
-  - embedded
-  - kernel
-  - binder
-  - hal
+  - infrastructure:android
+  - infrastructure:android-internals
+  - hardware-and-embedded:embedded
+  - infrastructure:kernel
+  - infrastructure:binder
+  - hardware-and-embedded:hal
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
-  - embedded-engineers
-  - security-professionals
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:security-professionals
 ---
 # `Android` Internals
 

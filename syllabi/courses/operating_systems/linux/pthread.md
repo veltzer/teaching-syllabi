@@ -1,15 +1,15 @@
 ---
 tags:
-  - linux
-  - pthreads
-  - multithreading
-  - synchronization
-  - c
+  - infrastructure:linux
+  - audiences:pthreads
+  - concepts:multithreading
+  - concepts:synchronization
+  - languages:c
 level: intermediate
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # Pthreads course
 

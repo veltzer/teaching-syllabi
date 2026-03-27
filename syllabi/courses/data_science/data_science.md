@@ -1,15 +1,15 @@
 ---
 tags:
-  - data-science
-  - python
-  - machine-learning
-  - statistics
+  - data-and-ai:data-science
+  - languages:python
+  - data-and-ai:machine-learning
+  - data-and-ai:statistics
 level: beginner
 category: data-science
 duration_days: 5
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # Data Science
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - unity
-  - game-development
-  - 3d
-  - scripting
+  - tools:unity
+  - practices:game-development
+  - hardware-and-embedded:3d
+  - practices:scripting
 level: beginner
 category: game-development
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # Introduction to Game Development with `Unity`
 

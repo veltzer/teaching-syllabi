@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - networking
-  - tcp-ip
-  - sockets
-  - device-drivers
-  - dpdk
+  - infrastructure:linux
+  - networking:networking
+  - networking:tcp-ip
+  - networking:sockets
+  - infrastructure:device-drivers
+  - hardware-and-embedded:dpdk
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
+  - audiences:developers
+  - audiences:sysadmins
 ---
 # `Linux` networking
 

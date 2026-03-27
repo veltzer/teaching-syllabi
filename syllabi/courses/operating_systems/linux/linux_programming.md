@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - c
-  - c++
-  - systems-programming
-  - multithreading
-  - ipc
-  - debugging
+  - infrastructure:linux
+  - languages:c
+  - languages:c++
+  - concepts:systems-programming
+  - concepts:multithreading
+  - infrastructure:ipc
+  - practices:debugging
 level: intermediate
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` programming
 

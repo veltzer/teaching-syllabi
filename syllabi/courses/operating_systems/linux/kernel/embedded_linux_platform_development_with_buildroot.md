@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - embedded
-  - buildroot
-  - cross-compilation
-  - toolchain
-  - build-systems
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - tools:buildroot
+  - infrastructure:cross-compilation
+  - hardware-and-embedded:toolchain
+  - practices:build-systems
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Linux` Platform Development with `Buildroot`
 

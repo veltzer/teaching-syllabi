@@ -1,15 +1,15 @@
 ---
 tags:
-  - microcontrollers
-  - embedded
-  - testing
-  - firmware
+  - hardware-and-embedded:microcontrollers
+  - hardware-and-embedded:embedded
+  - practices:testing
+  - hardware-and-embedded:firmware
 level: beginner
 category: hardware
 duration_days: 4
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Basics of Micro-controller Programming and Testing
 

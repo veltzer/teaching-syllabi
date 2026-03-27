@@ -1,15 +1,15 @@
 ---
 tags:
-  - ansible
-  - automation
-  - configuration-management
-  - devops
+  - tools:ansible
+  - practices:automation
+  - infrastructure:configuration-management
+  - practices:devops
 level: intermediate
 category: devops
 duration_days: 3
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `Ansible`
 

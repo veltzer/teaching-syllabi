@@ -1,13 +1,13 @@
 ---
 tags:
-  - testing
-  - methodology
+  - practices:testing
+  - practices:methodology
 level: beginner
 category: testing
 duration_days: 2
 audience:
-  - developers
-  - testers
+  - audiences:developers
+  - audiences:testers
 ---
 # Testing theory
 

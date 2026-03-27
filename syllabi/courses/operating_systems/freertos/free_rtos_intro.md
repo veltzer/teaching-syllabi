@@ -1,16 +1,16 @@
 ---
 tags:
-  - freertos
-  - rtos
-  - embedded
-  - microcontrollers
-  - real-time
+  - infrastructure:freertos
+  - infrastructure:rtos
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:microcontrollers
+  - infrastructure:real-time
 level: intermediate
 category: operating-systems
 duration_days: 10
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `FreeRTOS` intro
 

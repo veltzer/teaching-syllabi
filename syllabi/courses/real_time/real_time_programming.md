@@ -1,14 +1,14 @@
 ---
 tags:
-  - real-time
-  - c
-  - linux
-  - systems-programming
+  - infrastructure:real-time
+  - languages:c
+  - infrastructure:linux
+  - concepts:systems-programming
 level: advanced
 category: real-time
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Real Time Programming
 

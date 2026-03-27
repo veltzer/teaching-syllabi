@@ -1,14 +1,14 @@
 ---
 tags:
-  - elasticsearch
-  - search
-  - api
-  - distributed-systems
+  - tools:elasticsearch
+  - data-and-ai:search
+  - concepts:api
+  - concepts:distributed-systems
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Elasticsearch` for Developers
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - puppet
-  - configuration-management
-  - automation
-  - devops
+  - tools:puppet
+  - infrastructure:configuration-management
+  - practices:automation
+  - practices:devops
 level: intermediate
 category: devops
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # Intermediate `Puppet`
 

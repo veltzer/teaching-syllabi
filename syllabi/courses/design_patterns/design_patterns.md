@@ -1,11 +1,11 @@
 ---
 tags:
-  - design-patterns
-  - oop
+  - concepts:design-patterns
+  - concepts:oop
 level: intermediate
 category: design-patterns
 audience:
-  - developers
+  - audiences:developers
 ---
 # Design patterns
 

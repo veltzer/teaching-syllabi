@@ -1,15 +1,15 @@
 ---
 tags:
-  - machine-learning
-  - python
-  - data-science
-  - algorithms
+  - data-and-ai:machine-learning
+  - languages:python
+  - data-and-ai:data-science
+  - concepts:algorithms
 level: intermediate
 category: machine-learning
 duration_days: 5
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # `Machine Learning`
 

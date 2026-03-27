@@ -1,15 +1,15 @@
 ---
 tags:
-  - android
-  - kotlin
-  - mobile
-  - android-studio
-  - sqlite
+  - infrastructure:android
+  - languages:kotlin
+  - practices:mobile
+  - tools:android-studio
+  - tools:sqlite
 level: beginner
 category: operating-systems
 duration_days: 6
 audience:
-  - developers
+  - audiences:developers
 ---
 # Developing `Android` Applications with `Kotlin`
 

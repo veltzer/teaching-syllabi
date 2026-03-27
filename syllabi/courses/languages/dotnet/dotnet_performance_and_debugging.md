@@ -1,12 +1,12 @@
 ---
 tags:
-  - dotnet
-  - performance
-  - debugging
+  - languages:dotnet
+  - practices:performance
+  - practices:debugging
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # .NET Performance and Debugging
 

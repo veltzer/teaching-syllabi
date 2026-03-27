@@ -1,13 +1,13 @@
 ---
 tags:
-  - c
-  - security
-  - secure-coding
+  - languages:c
+  - security:security
+  - security:secure-coding
 level: intermediate
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # Coding securely in C
 

@@ -1,12 +1,12 @@
 ---
 tags:
-  - javascript
-  - dojo
-  - web
+  - languages:javascript
+  - tools:dojo
+  - networking:web
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # Dojo Advanced
 

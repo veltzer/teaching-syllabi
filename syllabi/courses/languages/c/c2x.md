@@ -1,12 +1,12 @@
 ---
 tags:
-  - c
-  - c2x
-  - programming
+  - languages:c
+  - languages:c2x
+  - concepts:programming
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # C2x
 

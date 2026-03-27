@@ -1,16 +1,16 @@
 ---
 tags:
-  - gcp
-  - cloud
-  - monitoring
-  - observability
-  - sre
+  - infrastructure:gcp
+  - infrastructure:cloud
+  - practices:monitoring
+  - practices:observability
+  - practices:sre
 level: intermediate
 category: cloud
 duration_days: 3
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # Logging, Monitoring and Observability in the `Google Cloud`
 

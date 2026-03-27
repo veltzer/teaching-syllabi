@@ -1,14 +1,14 @@
 ---
 tags:
-  - scrum
-  - agile
-  - methodology
+  - practices:scrum
+  - concepts:agile
+  - practices:methodology
 level: beginner
 category: methodology
 duration_days: 3
 audience:
-  - developers
-  - managers
+  - audiences:developers
+  - audiences:managers
 ---
 # Scrum
 

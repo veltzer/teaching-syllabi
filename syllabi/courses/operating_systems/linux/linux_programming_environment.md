@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - gcc
-  - gdb
-  - toolchain
-  - make
-  - git
+  - infrastructure:linux
+  - tools:gcc
+  - tools:gdb
+  - hardware-and-embedded:toolchain
+  - tools:make
+  - tools:git
 level: beginner
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` programming environment
 

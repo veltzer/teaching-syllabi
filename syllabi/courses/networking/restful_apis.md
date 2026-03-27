@@ -1,13 +1,13 @@
 ---
 tags:
-  - api
-  - rest
-  - http
-  - web
+  - concepts:api
+  - concepts:rest
+  - networking:http
+  - networking:web
 level: intermediate
 category: networking
 audience:
-  - developers
+  - audiences:developers
 ---
 # `RESTful` `APIs` Development
 

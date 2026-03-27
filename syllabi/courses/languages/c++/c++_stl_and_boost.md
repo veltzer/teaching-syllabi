@@ -1,14 +1,14 @@
 ---
 tags:
-  - c++
-  - stl
-  - boost
-  - data-structures
+  - languages:c++
+  - languages:stl
+  - tools:boost
+  - concepts:data-structures
 level: intermediate
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # C++ `STL` and `Boost`
 

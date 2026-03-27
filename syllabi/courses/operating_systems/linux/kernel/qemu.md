@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - qemu
-  - emulation
-  - embedded
-  - arm
-  - debugging
+  - infrastructure:linux
+  - tools:qemu
+  - practices:emulation
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:arm
+  - practices:debugging
 level: intermediate
 category: operating-systems
 duration_days: 1
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `QEMU`
 

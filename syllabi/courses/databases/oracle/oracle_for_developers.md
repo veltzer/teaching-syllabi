@@ -1,13 +1,13 @@
 ---
 tags:
-  - oracle
-  - sql
-  - plsql
+  - tools:oracle
+  - languages:sql
+  - languages:plsql
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Oracle` for Developers
 

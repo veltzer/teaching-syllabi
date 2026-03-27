@@ -1,13 +1,13 @@
 ---
 tags:
-  - c
-  - programming
-  - systems-programming
+  - languages:c
+  - concepts:programming
+  - concepts:systems-programming
 level: beginner
 category: language
 duration_days: 4
 audience:
-  - developers
+  - audiences:developers
 ---
 # C Programming
 

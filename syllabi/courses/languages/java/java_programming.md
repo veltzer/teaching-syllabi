@@ -1,14 +1,14 @@
 ---
 tags:
-  - java
-  - programming
-  - oop
-  - jvm
+  - languages:java
+  - concepts:programming
+  - concepts:oop
+  - tools:jvm
 level: beginner
 category: language
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Java` Programming
 

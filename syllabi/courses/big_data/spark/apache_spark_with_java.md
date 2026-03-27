@@ -1,14 +1,14 @@
 ---
 tags:
-  - spark
-  - java
-  - big-data
-  - distributed-systems
+  - tools:spark
+  - languages:java
+  - data-and-ai:big-data
+  - concepts:distributed-systems
 level: intermediate
 category: big-data
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Apache Spark` with `Java`
 

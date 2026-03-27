@@ -1,12 +1,12 @@
 ---
 tags:
-  - c
-  - design-patterns
+  - languages:c
+  - concepts:design-patterns
 level: intermediate
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # C Design Patterns
 

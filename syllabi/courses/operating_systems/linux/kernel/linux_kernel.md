@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - kernel
-  - device-drivers
-  - embedded
-  - bsp
-  - real-time
+  - infrastructure:linux
+  - infrastructure:kernel
+  - infrastructure:device-drivers
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:bsp
+  - infrastructure:real-time
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Linux` Kernel
 

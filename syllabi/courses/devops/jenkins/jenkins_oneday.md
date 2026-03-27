@@ -1,14 +1,14 @@
 ---
 tags:
-  - jenkins
-  - ci-cd
-  - devops
+  - tools:jenkins
+  - practices:ci-cd
+  - practices:devops
 level: beginner
 category: devops
 duration_days: 1
 audience:
-  - devops
-  - developers
+  - practices:devops
+  - audiences:developers
 ---
 # `Jenkins`
 

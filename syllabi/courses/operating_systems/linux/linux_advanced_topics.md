@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - performance
-  - synchronization
-  - epoll
-  - cgroups
-  - namespaces
-  - zero-copy
+  - infrastructure:linux
+  - practices:performance
+  - concepts:synchronization
+  - infrastructure:epoll
+  - infrastructure:cgroups
+  - infrastructure:namespaces
+  - hardware-and-embedded:zero-copy
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Linux` Advanced Topics
 

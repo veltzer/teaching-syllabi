@@ -1,15 +1,15 @@
 ---
 tags:
-  - git
-  - gerrit
-  - version-control
-  - code-review
+  - tools:git
+  - tools:gerrit
+  - concepts:version-control
+  - concepts:code-review
 level: intermediate
 category: version-control
 duration_days: 2
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # `Git` and `Gerrit`
 

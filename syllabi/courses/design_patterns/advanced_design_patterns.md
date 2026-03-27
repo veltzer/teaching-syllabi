@@ -1,14 +1,14 @@
 ---
 tags:
-  - design-patterns
-  - oop
-  - solid
-  - uml
+  - concepts:design-patterns
+  - concepts:oop
+  - concepts:solid
+  - concepts:uml
 level: advanced
 category: design-patterns
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # Advanced design patterns
 

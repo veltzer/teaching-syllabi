@@ -1,13 +1,13 @@
 ---
 tags:
-  - mongodb
-  - nosql
-  - api
+  - tools:mongodb
+  - data-and-ai:nosql
+  - concepts:api
 level: intermediate
 category: database
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `MongoDB` for Developers
 

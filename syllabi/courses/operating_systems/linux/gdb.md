@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - gdb
-  - debugging
-  - c
-  - c++
-  - toolchain
+  - infrastructure:linux
+  - tools:gdb
+  - practices:debugging
+  - languages:c
+  - languages:c++
+  - hardware-and-embedded:toolchain
 level: intermediate
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # Gdb
 

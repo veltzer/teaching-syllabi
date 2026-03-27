@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - sysadmin
-  - storage
-  - networking
-  - security
-  - monitoring
+  - infrastructure:linux
+  - audiences:sysadmin
+  - infrastructure:storage
+  - networking:networking
+  - security:security
+  - practices:monitoring
 level: intermediate
 category: operating-systems
 duration_days: 5
 audience:
-  - sysadmins
-  - devops
+  - audiences:sysadmins
+  - practices:devops
 ---
 # `Linux` System Administration
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - oracle
-  - sql
-  - administration
-  - performance
+  - tools:oracle
+  - languages:sql
+  - audiences:administration
+  - practices:performance
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - dbas
-  - sysadmins
+  - audiences:dbas
+  - audiences:sysadmins
 ---
 # `Oracle` for Developers
 

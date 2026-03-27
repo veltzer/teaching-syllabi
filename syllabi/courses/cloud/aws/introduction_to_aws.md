@@ -1,15 +1,15 @@
 ---
 tags:
-  - aws
-  - cloud
+  - infrastructure:aws
+  - infrastructure:cloud
 level: beginner
 category: cloud
 duration_days: 2
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - managers
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:managers
 ---
 # Introduction to `AWS`
 

@@ -1,16 +1,16 @@
 ---
 tags:
-  - methodology
-  - build-systems
-  - testing
-  - configuration-management
+  - practices:methodology
+  - practices:build-systems
+  - practices:testing
+  - infrastructure:configuration-management
 level: intermediate
 category: methodology
 duration_days: 1
 audience:
-  - developers
-  - managers
-  - testers
+  - audiences:developers
+  - audiences:managers
+  - audiences:testers
 ---
 # Modern Development
 

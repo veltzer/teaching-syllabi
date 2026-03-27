@@ -1,16 +1,16 @@
 ---
 tags:
-  - kubernetes
-  - docker
-  - containers
-  - devops
-  - orchestration
+  - tools:kubernetes
+  - tools:docker
+  - infrastructure:containers
+  - practices:devops
+  - infrastructure:orchestration
 level: beginner
 category: devops
 duration_days: 5
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # Introduction to `Kubernetes`
 

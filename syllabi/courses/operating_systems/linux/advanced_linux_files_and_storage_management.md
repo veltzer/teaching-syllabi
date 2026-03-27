@@ -1,19 +1,19 @@
 ---
 tags:
-  - linux
-  - storage
-  - filesystems
-  - lvm
-  - raid
-  - nfs
-  - encryption
+  - infrastructure:linux
+  - infrastructure:storage
+  - infrastructure:filesystems
+  - infrastructure:lvm
+  - infrastructure:raid
+  - infrastructure:nfs
+  - security:encryption
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - sysadmins
-  - devops
-  - security-professionals
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:security-professionals
 ---
 # Advanced `Linux` Files and Storage Management
 

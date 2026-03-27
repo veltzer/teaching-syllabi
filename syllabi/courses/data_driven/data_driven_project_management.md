@@ -1,13 +1,13 @@
 ---
 tags:
-  - data-analytics
-  - management
-  - project-management
+  - data-and-ai:data-analytics
+  - audiences:management
+  - audiences:project-management
 level: intermediate
 category: data-driven
 duration_days: 3
 audience:
-  - managers
+  - audiences:managers
 ---
 # Data Driven Project Management
 

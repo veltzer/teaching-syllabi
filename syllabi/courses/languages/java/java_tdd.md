@@ -1,13 +1,13 @@
 ---
 tags:
-  - java
-  - testing
-  - tdd
+  - languages:java
+  - practices:testing
+  - practices:tdd
 level: intermediate
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Java` `TDD`
 

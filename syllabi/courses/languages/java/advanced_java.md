@@ -1,13 +1,13 @@
 ---
 tags:
-  - java
-  - jvm
-  - concurrency
-  - performance
+  - languages:java
+  - tools:jvm
+  - concepts:concurrency
+  - practices:performance
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # Advanced `Java`
 

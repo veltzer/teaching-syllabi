@@ -1,15 +1,15 @@
 ---
 tags:
-  - puppet
-  - configuration-management
-  - automation
-  - devops
+  - tools:puppet
+  - infrastructure:configuration-management
+  - practices:automation
+  - practices:devops
 level: beginner
 category: devops
 duration_days: 1
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # Introduction to `Puppet`
 

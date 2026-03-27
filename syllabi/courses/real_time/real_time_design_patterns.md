@@ -1,13 +1,13 @@
 ---
 tags:
-  - real-time
-  - design-patterns
+  - infrastructure:real-time
+  - concepts:design-patterns
 level: advanced
 category: real-time
 duration_days: 2
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Real Time Design Patterns
 

@@ -1,13 +1,13 @@
 ---
 tags:
-  - c++
-  - performance
-  - optimization
+  - languages:c++
+  - practices:performance
+  - concepts:optimization
 level: advanced
 category: language
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # C++ Performance
 

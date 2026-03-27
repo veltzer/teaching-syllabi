@@ -1,19 +1,19 @@
 ---
 tags:
-  - linux
-  - performance
-  - optimization
-  - profiling
-  - benchmarking
-  - kernel
+  - infrastructure:linux
+  - practices:performance
+  - concepts:optimization
+  - practices:profiling
+  - practices:benchmarking
+  - infrastructure:kernel
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - performance-engineers
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:performance-engineers
 ---
 # `Linux` Performance Engineering
 

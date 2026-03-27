@@ -1,17 +1,17 @@
 ---
 tags:
-  - elasticsearch
-  - logstash
-  - kibana
-  - logging
-  - monitoring
+  - tools:elasticsearch
+  - tools:logstash
+  - tools:kibana
+  - practices:logging
+  - practices:monitoring
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - developers
-  - devops
-  - sysadmins
+  - audiences:developers
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `ELK` Stack (`Elasticsearch`, Logstash, Kibana)
 

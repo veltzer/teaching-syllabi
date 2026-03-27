@@ -1,13 +1,13 @@
 ---
 tags:
-  - javascript
-  - dojo
-  - web
-  - ajax
+  - languages:javascript
+  - tools:dojo
+  - networking:web
+  - networking:ajax
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # Dojo Framework
 

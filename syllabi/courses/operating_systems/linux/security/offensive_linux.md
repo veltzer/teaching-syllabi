@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - security
-  - penetration-testing
-  - privilege-escalation
-  - exploitation
-  - red-team
+  - infrastructure:linux
+  - security:security
+  - security:penetration-testing
+  - security:privilege-escalation
+  - security:exploitation
+  - security:red-team
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - security-professionals
+  - audiences:security-professionals
 ---
 # Offensive `Linux`
 

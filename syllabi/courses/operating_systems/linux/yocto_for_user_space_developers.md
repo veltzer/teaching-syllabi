@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - yocto
-  - embedded
-  - build-systems
-  - toolchain
+  - infrastructure:linux
+  - tools:yocto
+  - hardware-and-embedded:embedded
+  - practices:build-systems
+  - hardware-and-embedded:toolchain
 level: intermediate
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Yocto` for Non-Kernel developers
 

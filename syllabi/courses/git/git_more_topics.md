@@ -1,13 +1,13 @@
 ---
 tags:
-  - git
-  - version-control
+  - tools:git
+  - concepts:version-control
 level: advanced
 category: version-control
 duration_days: 1
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # `Git` Advanced Topics
 

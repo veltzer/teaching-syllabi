@@ -1,15 +1,15 @@
 ---
 tags:
-  - kafka
-  - spark
-  - streaming
-  - big-data
-  - real-time
+  - tools:kafka
+  - tools:spark
+  - data-and-ai:streaming
+  - data-and-ai:big-data
+  - infrastructure:real-time
 level: intermediate
 category: message-queue
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # Real-Time Ingestion & Processing Using `Kafka` & `Spark`
 

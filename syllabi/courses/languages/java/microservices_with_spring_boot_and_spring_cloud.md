@@ -1,13 +1,13 @@
 ---
 tags:
-  - java
-  - spring
-  - microservices
-  - architecture
+  - languages:java
+  - tools:spring
+  - concepts:microservices
+  - concepts:architecture
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # Micro-services with `Spring Boot` and `Spring Cloud`
 

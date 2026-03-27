@@ -1,14 +1,14 @@
 ---
 tags:
-  - docker
-  - containers
-  - devops
-  - networking
+  - tools:docker
+  - infrastructure:containers
+  - practices:devops
+  - networking:networking
 level: intermediate
 category: devops
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Docker` for developers
 

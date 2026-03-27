@@ -1,13 +1,13 @@
 ---
 tags:
-  - rust
-  - systems-programming
-  - concurrency
-  - performance
+  - languages:rust
+  - concepts:systems-programming
+  - concepts:concurrency
+  - practices:performance
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Rust` For System Programming
 

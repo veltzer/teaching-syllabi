@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - multi-core
-  - performance
-  - concurrency
-  - cache
-  - synchronization
+  - infrastructure:linux
+  - hardware-and-embedded:multi-core
+  - practices:performance
+  - concepts:concurrency
+  - hardware-and-embedded:cache
+  - concepts:synchronization
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
+  - audiences:developers
 ---
 # Multi Core Programming
 

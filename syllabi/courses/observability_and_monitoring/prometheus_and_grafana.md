@@ -1,15 +1,15 @@
 ---
 tags:
-  - prometheus
-  - grafana
-  - monitoring
-  - observability
-  - kubernetes
+  - tools:prometheus
+  - tools:grafana
+  - practices:monitoring
+  - practices:observability
+  - tools:kubernetes
 level: intermediate
 category: observability
 audience:
-  - devops
-  - sysadmins
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `Prometheus` and `Grafana`
 

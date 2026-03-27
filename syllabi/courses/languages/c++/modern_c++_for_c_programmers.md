@@ -1,15 +1,15 @@
 ---
 tags:
-  - c++
-  - c
-  - c++11
-  - oop
-  - design-patterns
+  - languages:c++
+  - languages:c
+  - languages:c++11
+  - concepts:oop
+  - concepts:design-patterns
 level: intermediate
 category: language
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # Modern C++ for C Programmers
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - mongodb
-  - nosql
-  - administration
-  - performance
+  - tools:mongodb
+  - data-and-ai:nosql
+  - audiences:administration
+  - practices:performance
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - dbas
-  - sysadmins
+  - audiences:dbas
+  - audiences:sysadmins
 ---
 # `MongoDB` DBA
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - java
-  - embedded
-  - real-time
-  - linux
+  - languages:java
+  - hardware-and-embedded:embedded
+  - infrastructure:real-time
+  - infrastructure:linux
 level: advanced
 category: language
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Java`
 

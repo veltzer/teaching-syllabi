@@ -1,16 +1,16 @@
 ---
 tags:
-  - spark
-  - python
-  - big-data
-  - performance
-  - machine-learning
+  - tools:spark
+  - languages:python
+  - data-and-ai:big-data
+  - practices:performance
+  - data-and-ai:machine-learning
 level: advanced
 category: big-data
 duration_days: 3
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # Advanced `Spark` with `Python`
 

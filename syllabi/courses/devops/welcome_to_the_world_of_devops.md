@@ -1,15 +1,15 @@
 ---
 tags:
-  - devops
-  - ci-cd
-  - automation
+  - practices:devops
+  - practices:ci-cd
+  - practices:automation
 level: beginner
 category: devops
 duration_days: 5
 audience:
-  - developers
-  - sysadmins
-  - devops
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
 ---
 # Welcome to the World of `DevOps`
 

@@ -1,16 +1,16 @@
 ---
 tags:
-  - linux
-  - kernel
-  - device-tree
-  - embedded
-  - bsp
+  - infrastructure:linux
+  - infrastructure:kernel
+  - infrastructure:device-tree
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:bsp
 level: intermediate
 category: operating-systems
 duration_days: 1
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Device Tree 101
 

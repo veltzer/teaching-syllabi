@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - kernel
-  - fuzzing
-  - security
-  - exploitation
-  - debugging
-  - syzkaller
+  - infrastructure:linux
+  - infrastructure:kernel
+  - security:fuzzing
+  - security:security
+  - security:exploitation
+  - practices:debugging
+  - practices:syzkaller
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - security-professionals
-  - developers
+  - audiences:security-professionals
+  - audiences:developers
 ---
 # `Linux` Kernel Fuzzing and Root Cause Analysis
 

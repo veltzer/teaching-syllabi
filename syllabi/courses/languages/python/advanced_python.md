@@ -1,13 +1,13 @@
 ---
 tags:
-  - python
-  - performance
-  - concurrency
-  - data-structures
+  - languages:python
+  - practices:performance
+  - concepts:concurrency
+  - concepts:data-structures
 level: advanced
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # Advanced `Python`
 

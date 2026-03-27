@@ -1,13 +1,13 @@
 ---
 tags:
-  - data-analytics
-  - management
-  - business-intelligence
+  - data-and-ai:data-analytics
+  - audiences:management
+  - data-and-ai:business-intelligence
 level: beginner
 category: data-driven
 duration_days: 4
 audience:
-  - managers
+  - audiences:managers
 ---
 # Data Analytics for Managers
 

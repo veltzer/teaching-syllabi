@@ -1,14 +1,14 @@
 ---
 tags:
-  - redis
-  - nosql
-  - caching
-  - data-structures
+  - tools:redis
+  - data-and-ai:nosql
+  - data-and-ai:caching
+  - concepts:data-structures
 level: intermediate
 category: database
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Redis`: In-Memory Data Structure Store
 

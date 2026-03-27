@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - unix
-  - shell
-  - command-line
-  - sysadmin
+  - infrastructure:linux
+  - infrastructure:unix
+  - languages:shell
+  - practices:command-line
+  - audiences:sysadmin
 level: beginner
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
-  - devops
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
 ---
 # `Linux` fundamentals
 

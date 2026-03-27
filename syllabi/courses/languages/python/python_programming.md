@@ -1,18 +1,18 @@
 ---
 tags:
-  - python
-  - programming
-  - scripting
-  - automation
-  - oop
+  - languages:python
+  - concepts:programming
+  - practices:scripting
+  - practices:automation
+  - concepts:oop
 level: beginner
 category: language
 duration_days: 5
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - data-scientists
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:data-scientists
 ---
 # `Python` Programming
 

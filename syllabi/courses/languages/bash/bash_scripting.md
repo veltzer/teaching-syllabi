@@ -1,16 +1,16 @@
 ---
 tags:
-  - bash
-  - scripting
-  - linux
-  - automation
+  - languages:bash
+  - practices:scripting
+  - infrastructure:linux
+  - practices:automation
 level: intermediate
 category: language
 duration_days: 3
 audience:
-  - developers
-  - devops
-  - sysadmins
+  - audiences:developers
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `Bash` scripting
 

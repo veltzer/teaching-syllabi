@@ -1,14 +1,14 @@
 ---
 tags:
-  - selenium
-  - testing
-  - web
-  - automation
+  - tools:selenium
+  - practices:testing
+  - networking:web
+  - practices:automation
 level: beginner
 category: testing
 audience:
-  - developers
-  - testers
+  - audiences:developers
+  - audiences:testers
 ---
 # Introduction to `Selenium`
 

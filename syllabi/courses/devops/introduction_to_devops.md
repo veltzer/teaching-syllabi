@@ -1,17 +1,17 @@
 ---
 tags:
-  - devops
-  - ci-cd
-  - automation
-  - cloud
+  - practices:devops
+  - practices:ci-cd
+  - practices:automation
+  - infrastructure:cloud
 level: beginner
 category: devops
 duration_days: 5
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - managers
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:managers
 ---
 # Introduction to `DevOps`
 

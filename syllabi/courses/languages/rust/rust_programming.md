@@ -1,13 +1,13 @@
 ---
 tags:
-  - rust
-  - programming
-  - concurrency
-  - systems-programming
+  - languages:rust
+  - concepts:programming
+  - concepts:concurrency
+  - concepts:systems-programming
 level: beginner
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Rust` Programming
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - security
-  - ai
-  - llm
-  - owasp
+  - security:security
+  - data-and-ai:ai
+  - data-and-ai:llm
+  - security:owasp
 level: intermediate
 category: security
 duration_days: 1
 audience:
-  - developers
-  - security-professionals
+  - audiences:developers
+  - audiences:security-professionals
 ---
 # Working with `LLMs` Securely
 

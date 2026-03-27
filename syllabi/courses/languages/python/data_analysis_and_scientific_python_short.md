@@ -1,15 +1,15 @@
 ---
 tags:
-  - python
-  - numpy
-  - pandas
-  - data-analysis
-  - data-science
+  - languages:python
+  - tools:numpy
+  - tools:pandas
+  - data-and-ai:data-analysis
+  - data-and-ai:data-science
 level: intermediate
 category: language
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # Data Analysis and Scientific `Python`
 

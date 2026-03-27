@@ -1,15 +1,15 @@
 ---
 tags:
-  - ai
-  - generative-ai
-  - python
-  - prompt-engineering
-  - ethics
+  - data-and-ai:ai
+  - data-and-ai:generative-ai
+  - languages:python
+  - data-and-ai:prompt-engineering
+  - audiences:ethics
 level: intermediate
 category: ai
 duration_days: 5
 audience:
-  - data-scientists
+  - audiences:data-scientists
 ---
 # Generative `AI` applications
 

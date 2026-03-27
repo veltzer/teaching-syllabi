@@ -1,13 +1,13 @@
 ---
 tags:
-  - c++
-  - programming
-  - oop
+  - languages:c++
+  - concepts:programming
+  - concepts:oop
 level: beginner
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # `C++` Basics
 

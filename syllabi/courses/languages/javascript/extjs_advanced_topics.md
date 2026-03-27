@@ -1,13 +1,13 @@
 ---
 tags:
-  - javascript
-  - extjs
-  - web
+  - languages:javascript
+  - tools:extjs
+  - networking:web
 level: advanced
 category: language
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # Extjs Advanced Topics
 

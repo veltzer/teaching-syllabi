@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - embedded
-  - real-time
-  - user-space
-  - scheduling
-  - buildroot
-  - yocto
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - infrastructure:real-time
+  - infrastructure:user-space
+  - concepts:scheduling
+  - tools:buildroot
+  - tools:yocto
 level: intermediate
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Linux` topics for `Linux` user space developers
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - nexus
-  - devops
-  - artifact-management
-  - ci-cd
+  - tools:nexus
+  - practices:devops
+  - practices:artifact-management
+  - practices:ci-cd
 level: beginner
 category: devops
 duration_days: 1
 audience:
-  - devops
+  - practices:devops
 ---
 # `Nexus` Administration Basics
 

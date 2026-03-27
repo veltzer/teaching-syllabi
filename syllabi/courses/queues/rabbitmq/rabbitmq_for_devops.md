@@ -1,12 +1,12 @@
 ---
 tags:
-  - rabbitmq
-  - message-queues
-  - devops
+  - tools:rabbitmq
+  - data-and-ai:message-queues
+  - practices:devops
 level: intermediate
 category: message-queue
 audience:
-  - devops
+  - practices:devops
 ---
 # `RabbitMQ` for `DevOps`
 

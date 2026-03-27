@@ -1,14 +1,14 @@
 ---
 tags:
-  - python
-  - design-patterns
-  - oop
-  - solid
+  - languages:python
+  - concepts:design-patterns
+  - concepts:oop
+  - concepts:solid
 level: advanced
 category: language
 audience:
-  - developers
-  - architects
+  - audiences:developers
+  - audiences:architects
 ---
 # Design Patterns and Advanced Object-Oriented Design for `Python` Developers
 

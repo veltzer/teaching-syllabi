@@ -1,14 +1,14 @@
 ---
 tags:
-  - kafka
-  - message-queues
-  - streaming
-  - distributed-systems
+  - tools:kafka
+  - data-and-ai:message-queues
+  - data-and-ai:streaming
+  - concepts:distributed-systems
 level: advanced
 category: message-queue
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # `Kafka` Internals
 

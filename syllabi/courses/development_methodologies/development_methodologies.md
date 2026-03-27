@@ -1,15 +1,15 @@
 ---
 tags:
-  - methodology
-  - productivity
-  - best-practices
+  - practices:methodology
+  - audiences:productivity
+  - concepts:best-practices
 level: intermediate
 category: methodology
 duration_days: 1
 audience:
-  - developers
-  - managers
-  - testers
+  - audiences:developers
+  - audiences:managers
+  - audiences:testers
 ---
 # Development Methodologies from the professionals
 

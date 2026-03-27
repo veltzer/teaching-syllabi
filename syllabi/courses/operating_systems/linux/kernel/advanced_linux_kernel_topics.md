@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - kernel
-  - debugging
-  - performance
-  - device-drivers
-  - locking
+  - infrastructure:linux
+  - infrastructure:kernel
+  - practices:debugging
+  - practices:performance
+  - infrastructure:device-drivers
+  - concepts:locking
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Advanced `Linux` Kernel Topics
 

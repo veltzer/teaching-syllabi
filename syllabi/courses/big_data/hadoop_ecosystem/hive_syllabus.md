@@ -1,15 +1,15 @@
 ---
 tags:
-  - hive
-  - hadoop
-  - big-data
-  - sql
-  - etl
+  - tools:hive
+  - tools:hadoop
+  - data-and-ai:big-data
+  - languages:sql
+  - data-and-ai:etl
 level: intermediate
 category: big-data
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # `Hive`
 

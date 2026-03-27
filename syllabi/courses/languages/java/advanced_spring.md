@@ -1,14 +1,14 @@
 ---
 tags:
-  - java
-  - spring
-  - reactive
-  - grpc
+  - languages:java
+  - tools:spring
+  - concepts:reactive
+  - networking:grpc
 level: advanced
 category: language
 duration_days: 4
 audience:
-  - developers
+  - audiences:developers
 ---
 # Advanced `Spring`
 

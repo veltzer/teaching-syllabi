@@ -1,14 +1,14 @@
 ---
 tags:
-  - c++
-  - performance
-  - best-practices
-  - stl
+  - languages:c++
+  - practices:performance
+  - concepts:best-practices
+  - languages:stl
 level: advanced
 category: language
 duration_days: 3
 audience:
-  - developers
+  - audiences:developers
 ---
 # C++ Tips and Pitfalls
 

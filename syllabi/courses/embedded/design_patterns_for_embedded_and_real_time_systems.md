@@ -1,14 +1,14 @@
 ---
 tags:
-  - embedded
-  - real-time
-  - design-patterns
-  - oop
+  - hardware-and-embedded:embedded
+  - infrastructure:real-time
+  - concepts:design-patterns
+  - concepts:oop
 level: advanced
 category: embedded
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Design Patterns for Embedded and Real Time Systems
 

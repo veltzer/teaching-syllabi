@@ -1,15 +1,15 @@
 ---
 tags:
-  - github
-  - ci-cd
-  - automation
-  - devops
+  - tools:github
+  - practices:ci-cd
+  - practices:automation
+  - practices:devops
 level: intermediate
 category: devops
 duration_days: 1
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # GitHub Workflows
 

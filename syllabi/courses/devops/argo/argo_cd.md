@@ -1,16 +1,16 @@
 ---
 tags:
-  - argo-cd
-  - kubernetes
-  - ci-cd
-  - gitops
-  - devops
+  - tools:argo-cd
+  - tools:kubernetes
+  - practices:ci-cd
+  - concepts:gitops
+  - practices:devops
 level: intermediate
 category: devops
 duration_days: 2
 audience:
-  - devops
-  - developers
+  - practices:devops
+  - audiences:developers
 ---
 # Argo CD
 

@@ -1,13 +1,13 @@
 ---
 tags:
-  - c++
-  - best-practices
-  - oop
+  - languages:c++
+  - concepts:best-practices
+  - concepts:oop
 level: advanced
 category: language
 duration_days: 4
 audience:
-  - developers
+  - audiences:developers
 ---
 # Effective C++
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - solid
-  - clean-code
-  - oop
-  - design-patterns
-  - best-practices
+  - concepts:solid
+  - concepts:clean-code
+  - concepts:oop
+  - concepts:design-patterns
+  - concepts:best-practices
 level: intermediate
 category: design-patterns
 duration_days: 1
 audience:
-  - developers
+  - audiences:developers
 ---
 # SOLID Principles and Clean Code
 

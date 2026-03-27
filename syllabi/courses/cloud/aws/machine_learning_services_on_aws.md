@@ -1,15 +1,15 @@
 ---
 tags:
-  - aws
-  - cloud
-  - machine-learning
-  - nlp
+  - infrastructure:aws
+  - infrastructure:cloud
+  - data-and-ai:machine-learning
+  - data-and-ai:nlp
 level: intermediate
 category: cloud
 duration_days: 2
 audience:
-  - data-scientists
-  - developers
+  - audiences:data-scientists
+  - audiences:developers
 ---
 # Machine learning services on `AWS`
 

@@ -1,17 +1,17 @@
 ---
 tags:
-  - architecture
-  - microservices
-  - cloud-native
-  - domain-driven-design
-  - distributed-systems
+  - concepts:architecture
+  - concepts:microservices
+  - infrastructure:cloud-native
+  - concepts:domain-driven-design
+  - concepts:distributed-systems
 level: advanced
 category: architecture
 duration_days: 5
 audience:
-  - developers
-  - architects
-  - devops
+  - audiences:developers
+  - audiences:architects
+  - practices:devops
 ---
 # Modern Software Architecture
 

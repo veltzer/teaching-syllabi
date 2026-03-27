@@ -1,14 +1,14 @@
 ---
 tags:
-  - kafka
-  - message-queues
-  - streaming
-  - distributed-systems
+  - tools:kafka
+  - data-and-ai:message-queues
+  - data-and-ai:streaming
+  - concepts:distributed-systems
 level: beginner
 category: message-queue
 audience:
-  - developers
-  - devops
+  - audiences:developers
+  - practices:devops
 ---
 # Introduction to `Apache Kafka`
 

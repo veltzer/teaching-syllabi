@@ -1,15 +1,15 @@
 ---
 tags:
-  - android
-  - java
-  - mobile
-  - android-studio
-  - sqlite
+  - infrastructure:android
+  - languages:java
+  - practices:mobile
+  - tools:android-studio
+  - tools:sqlite
 level: beginner
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
+  - audiences:developers
 ---
 # Developing `Android` Applications with `Java`
 

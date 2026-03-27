@@ -1,14 +1,14 @@
 ---
 tags:
-  - splunk
-  - big-data
-  - monitoring
-  - log-management
+  - tools:splunk
+  - data-and-ai:big-data
+  - practices:monitoring
+  - practices:log-management
 level: beginner
 category: big-data
 duration_days: 2
 audience:
-  - devops
+  - practices:devops
 ---
 # Introduction to `Splunk`
 

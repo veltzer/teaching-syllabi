@@ -1,14 +1,14 @@
 ---
 tags:
-  - rust
-  - embedded
-  - bare-metal
+  - languages:rust
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:bare-metal
 level: advanced
 category: embedded
 duration_days: 4
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # `Rust` Topics for Embedded Systems Programming
 

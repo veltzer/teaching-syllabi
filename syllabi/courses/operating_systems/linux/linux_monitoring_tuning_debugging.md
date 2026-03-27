@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - monitoring
-  - tuning
-  - debugging
-  - performance
-  - kernel
+  - infrastructure:linux
+  - practices:monitoring
+  - practices:tuning
+  - practices:debugging
+  - practices:performance
+  - infrastructure:kernel
 level: intermediate
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
-  - devops
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
 ---
 # `Linux` Monitoring Tuning and Debugging
 

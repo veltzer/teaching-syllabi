@@ -1,13 +1,13 @@
 ---
 tags:
-  - kotlin
-  - jvm
-  - programming
-  - android
+  - languages:kotlin
+  - tools:jvm
+  - concepts:programming
+  - infrastructure:android
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Kotlin` Programming
 

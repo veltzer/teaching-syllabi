@@ -1,14 +1,14 @@
 ---
 tags:
-  - python
-  - testing
-  - automation
-  - selenium
+  - languages:python
+  - practices:testing
+  - practices:automation
+  - tools:selenium
 level: intermediate
 category: language
 audience:
-  - developers
-  - testers
+  - audiences:developers
+  - audiences:testers
 ---
 # `Python` and Testing
 

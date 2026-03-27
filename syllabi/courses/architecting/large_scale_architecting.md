@@ -1,16 +1,16 @@
 ---
 tags:
-  - architecture
-  - scalability
-  - security
-  - networking
-  - databases
+  - concepts:architecture
+  - concepts:scalability
+  - security:security
+  - networking:networking
+  - data-and-ai:databases
 level: advanced
 category: architecture
 duration_days: 5
 audience:
-  - architects
-  - developers
+  - audiences:architects
+  - audiences:developers
 ---
 # Large Scale Architecture
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - architecture
-  - message-queues
-  - scalability
+  - concepts:architecture
+  - data-and-ai:message-queues
+  - concepts:scalability
 level: intermediate
 category: architecture
 duration_days: 1
 audience:
-  - architects
-  - developers
+  - audiences:architects
+  - audiences:developers
 ---
 # Message Queues
 

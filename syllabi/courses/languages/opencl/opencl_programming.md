@@ -1,13 +1,13 @@
 ---
 tags:
-  - opencl
-  - gpu
-  - parallel-computing
-  - performance
+  - languages:opencl
+  - hardware-and-embedded:gpu
+  - concepts:parallel-computing
+  - practices:performance
 level: intermediate
 category: language
 audience:
-  - developers
+  - audiences:developers
 ---
 # `OpenCL` Programming
 

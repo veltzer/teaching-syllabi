@@ -1,19 +1,19 @@
 ---
 tags:
-  - linux
-  - embedded
-  - kernel
-  - bsp
-  - cross-compilation
-  - u-boot
-  - yocto
-  - buildroot
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - infrastructure:kernel
+  - hardware-and-embedded:bsp
+  - infrastructure:cross-compilation
+  - tools:u-boot
+  - tools:yocto
+  - tools:buildroot
 level: advanced
 category: operating-systems
 duration_days: 5
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Linux` Platform Development
 

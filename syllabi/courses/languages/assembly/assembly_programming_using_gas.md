@@ -1,15 +1,15 @@
 ---
 tags:
-  - assembly
-  - x86
-  - linux
-  - low-level
-  - performance
+  - languages:assembly
+  - hardware-and-embedded:x86
+  - infrastructure:linux
+  - infrastructure:low-level
+  - practices:performance
 level: advanced
 category: language
 duration_days: 4
 audience:
-  - developers
+  - audiences:developers
 ---
 # `Assembly` programming using gas
 

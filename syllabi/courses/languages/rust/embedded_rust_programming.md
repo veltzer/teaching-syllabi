@@ -1,15 +1,15 @@
 ---
 tags:
-  - rust
-  - embedded
-  - bare-metal
-  - c
-  - c++
+  - languages:rust
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:bare-metal
+  - languages:c
+  - languages:c++
 level: advanced
 category: language
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Rust` Programming
 

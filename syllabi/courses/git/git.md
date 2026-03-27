@@ -1,14 +1,14 @@
 ---
 tags:
-  - git
-  - version-control
+  - tools:git
+  - concepts:version-control
 level: intermediate
 category: version-control
 duration_days: 3
 audience:
-  - developers
-  - devops
-  - sysadmins
+  - audiences:developers
+  - practices:devops
+  - audiences:sysadmins
 ---
 # `Git`
 

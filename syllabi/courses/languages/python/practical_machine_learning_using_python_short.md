@@ -1,13 +1,13 @@
 ---
 tags:
-  - python
-  - machine-learning
-  - data-science
+  - languages:python
+  - data-and-ai:machine-learning
+  - data-and-ai:data-science
 level: intermediate
 category: language
 audience:
-  - developers
-  - data-scientists
+  - audiences:developers
+  - audiences:data-scientists
 ---
 # Practical `Machine Learning` Using `Python`
 

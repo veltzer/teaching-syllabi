@@ -1,15 +1,15 @@
 ---
 tags:
-  - jenkins
-  - ci-cd
-  - devops
-  - groovy
-  - docker
+  - tools:jenkins
+  - practices:ci-cd
+  - practices:devops
+  - languages:groovy
+  - tools:docker
 level: intermediate
 category: devops
 audience:
-  - devops
-  - developers
+  - practices:devops
+  - audiences:developers
 ---
 # Intermediate `Jenkins`
 

@@ -1,17 +1,17 @@
 ---
 tags:
-  - cloud
-  - architecture
-  - scalability
-  - design-patterns
+  - infrastructure:cloud
+  - concepts:architecture
+  - concepts:scalability
+  - concepts:design-patterns
 level: intermediate
 category: cloud
 duration_days: 4
 audience:
-  - developers
-  - sysadmins
-  - devops
-  - architects
+  - audiences:developers
+  - audiences:sysadmins
+  - practices:devops
+  - audiences:architects
 ---
 # Architecting in the Cloud
 

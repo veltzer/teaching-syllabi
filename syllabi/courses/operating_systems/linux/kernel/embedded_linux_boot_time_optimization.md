@@ -1,17 +1,17 @@
 ---
 tags:
-  - linux
-  - embedded
-  - boot-time
-  - optimization
-  - kernel
-  - buildroot
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:boot-time
+  - concepts:optimization
+  - infrastructure:kernel
+  - tools:buildroot
 level: advanced
 category: operating-systems
 duration_days: 2
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Embedded `Linux` boot time optimization
 

@@ -1,14 +1,14 @@
 ---
 tags:
-  - azure
-  - cloud
+  - infrastructure:azure
+  - infrastructure:cloud
 level: beginner
 category: cloud
 duration_days: 3
 audience:
-  - developers
-  - sysadmins
-  - managers
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:managers
 ---
 # Introduction to the `Azure` Cloud
 

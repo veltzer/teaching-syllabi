@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - intel
-  - compiler
-  - optimization
-  - simd
-  - vectorization
-  - performance
+  - infrastructure:linux
+  - hardware-and-embedded:intel
+  - hardware-and-embedded:compiler
+  - concepts:optimization
+  - hardware-and-embedded:simd
+  - hardware-and-embedded:vectorization
+  - practices:performance
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - performance-engineers
+  - audiences:developers
+  - audiences:performance-engineers
 ---
 # Intel Compiler Optimization for `Linux`
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - security
-  - policies
-  - compliance
+  - security:security
+  - security:policies
+  - security:compliance
 level: beginner
 category: security
 duration_days: 1
 audience:
-  - managers
-  - developers
-  - sysadmins
+  - audiences:managers
+  - audiences:developers
+  - audiences:sysadmins
 ---
 # IT Security Policies
 

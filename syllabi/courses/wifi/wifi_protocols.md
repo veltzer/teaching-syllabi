@@ -1,15 +1,15 @@
 ---
 tags:
-  - wifi
-  - networking
-  - protocols
-  - 802.11
+  - networking:wifi
+  - networking:networking
+  - networking:protocols
+  - networking:802.11
 level: intermediate
 category: networking
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # Wi-Fi Protocols
 

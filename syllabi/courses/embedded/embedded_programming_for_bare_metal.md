@@ -1,16 +1,16 @@
 ---
 tags:
-  - embedded
-  - bare-metal
-  - c
-  - microcontrollers
-  - real-time
+  - hardware-and-embedded:embedded
+  - hardware-and-embedded:bare-metal
+  - languages:c
+  - hardware-and-embedded:microcontrollers
+  - infrastructure:real-time
 level: intermediate
 category: embedded
 duration_days: 4
 audience:
-  - embedded-engineers
-  - developers
+  - audiences:embedded-engineers
+  - audiences:developers
 ---
 # Embedded Programming for Bare Metal
 

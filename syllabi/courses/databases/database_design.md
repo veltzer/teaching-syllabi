@@ -1,16 +1,16 @@
 ---
 tags:
-  - database-design
-  - sql
-  - normalization
-  - data-modeling
+  - concepts:database-design
+  - languages:sql
+  - concepts:normalization
+  - data-and-ai:data-modeling
 level: intermediate
 category: database
 duration_days: 1
 audience:
-  - developers
-  - dbas
-  - architects
+  - audiences:developers
+  - audiences:dbas
+  - audiences:architects
 ---
 # Designing Relational Databases
 

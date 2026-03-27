@@ -1,12 +1,12 @@
 ---
 tags:
-  - linux
-  - forensics
-  - security
+  - infrastructure:linux
+  - security:forensics
+  - security:security
 level: advanced
 category: security
 audience:
-  - security-professionals
+  - audiences:security-professionals
 ---
 # `Linux` Forensics
 

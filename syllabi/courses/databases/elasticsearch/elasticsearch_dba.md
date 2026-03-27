@@ -1,16 +1,16 @@
 ---
 tags:
-  - elasticsearch
-  - administration
-  - search
-  - distributed-systems
+  - tools:elasticsearch
+  - audiences:administration
+  - data-and-ai:search
+  - concepts:distributed-systems
 level: intermediate
 category: database
 duration_days: 5
 audience:
-  - dbas
-  - sysadmins
-  - devops
+  - audiences:dbas
+  - audiences:sysadmins
+  - practices:devops
 ---
 # `Elasticsearch` DBA
 

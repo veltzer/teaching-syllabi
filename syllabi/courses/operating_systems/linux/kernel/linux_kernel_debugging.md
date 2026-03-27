@@ -1,18 +1,18 @@
 ---
 tags:
-  - linux
-  - kernel
-  - debugging
-  - ftrace
-  - perf
-  - kprobes
-  - crash
+  - infrastructure:linux
+  - infrastructure:kernel
+  - practices:debugging
+  - audiences:ftrace
+  - practices:perf
+  - audiences:kprobes
+  - practices:crash
 level: advanced
 category: operating-systems
 duration_days: 3
 audience:
-  - developers
-  - embedded-engineers
+  - audiences:developers
+  - audiences:embedded-engineers
 ---
 # `Linux` Kernel Debugging
 
