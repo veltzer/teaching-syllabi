@@ -17,9 +17,6 @@ enabled = false
 [processor.mako]
 enabled = false
 
-[processor.markdown]
-scan_dir = "syllabi"
-
 [processor.mdl]
 enabled = false
 
@@ -30,7 +27,6 @@ formats = ["pdf", "html", "docx"]
 [processor.script_check]
 scan_dir = "syllabi"
 extensions = [".md"]
-exclude_files = ["README.md"]
 linter = "scripts/check_md.py"
 batch = true
 
