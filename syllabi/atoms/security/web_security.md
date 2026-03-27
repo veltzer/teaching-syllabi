@@ -116,4 +116,4 @@ Web security is critical for protecting applications, user data, and business op
     * Security metrics and continuous security improvement
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

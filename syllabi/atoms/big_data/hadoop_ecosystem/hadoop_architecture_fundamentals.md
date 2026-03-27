@@ -70,4 +70,4 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
     * Common Utilities: `Sqoop`, `Flume`, `Zookeeper`, etc.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -158,4 +158,4 @@ versions
 * The machine should have at least 15GB free disk space.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

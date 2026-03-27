@@ -67,4 +67,4 @@ The course begins with an introduction to `Kafka` and it's components. The cours
     * KTable
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

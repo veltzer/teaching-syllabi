@@ -91,4 +91,4 @@ Code examples will be shown and given to the students for many of the patterns.
     * object monitor
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

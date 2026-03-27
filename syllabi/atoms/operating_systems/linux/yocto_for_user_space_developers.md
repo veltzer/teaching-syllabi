@@ -80,4 +80,4 @@ It introduces `Linux` user space and then proceeds to analyze how to debug and f
     * Configuration errors
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -87,4 +87,4 @@ Experienced `Rust` developers looking to deepen their knowledge of advanced lang
     * Strategies for handling edge cases and unusual behavior
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

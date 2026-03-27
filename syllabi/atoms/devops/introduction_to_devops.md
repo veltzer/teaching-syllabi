@@ -97,4 +97,4 @@ This 40-hour course introduces students to the principles and practices of `DevO
 * `Continuous Delivery` by Jez Humble and David Farley
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

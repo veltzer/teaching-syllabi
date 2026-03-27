@@ -116,4 +116,4 @@ Relational database design is the foundation of effective data management and ap
     * Compliance requirements (`GDPR`, `HIPAA`) impact on design
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

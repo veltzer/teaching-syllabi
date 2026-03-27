@@ -129,4 +129,4 @@ well as uncover some lessons learned from instructors with years of experience w
 [automating-`Jenkins`-with-groovy](https://www.pluralsight.com/courses/automating-`Jenkins`-groovy)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -193,4 +193,4 @@ will previous experience of `Android` Studio
 * The course uses the emulator to run the applications so no need for a physical device although the students may use their phone to run the applications they write.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

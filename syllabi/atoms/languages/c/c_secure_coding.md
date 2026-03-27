@@ -100,4 +100,4 @@ For `GCC` modifications need to be made.
     * Insecure usage of shared directories
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

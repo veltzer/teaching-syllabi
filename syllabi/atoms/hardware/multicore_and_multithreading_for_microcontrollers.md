@@ -145,4 +145,4 @@ to building correct, deterministic, multi-threaded firmware.
     * Power consumption implications of running multiple cores
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

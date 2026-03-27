@@ -90,4 +90,4 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
     * Community Engagement
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

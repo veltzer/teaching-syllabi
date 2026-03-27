@@ -45,4 +45,4 @@ This course is designed to provide new customers with the first steps towards op
 * Repository Planning Checklist
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

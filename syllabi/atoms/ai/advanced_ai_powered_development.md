@@ -305,4 +305,4 @@ patterns that are actively used in production environments.
         * Building internal `AI` development platforms
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

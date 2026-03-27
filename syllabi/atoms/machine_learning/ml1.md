@@ -78,4 +78,4 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
     * Summary
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

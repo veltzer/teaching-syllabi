@@ -88,4 +88,4 @@ The course utilizes a mixture of lectures and hands-on exercises to reinforce le
     * Why `Kafka` Streams
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

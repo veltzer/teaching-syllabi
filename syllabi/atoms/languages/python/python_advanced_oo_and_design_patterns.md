@@ -160,4 +160,4 @@ The study of each pattern will be accompanied by real-world examples and a lab i
         * Overview of other GOF and non GOF patterns
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

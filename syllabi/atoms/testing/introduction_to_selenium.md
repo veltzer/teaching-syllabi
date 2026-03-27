@@ -103,4 +103,4 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
     * Key Features
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -132,4 +132,4 @@ This course provides a comprehensive introduction to programming and testing mic
     * Testing and validation
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

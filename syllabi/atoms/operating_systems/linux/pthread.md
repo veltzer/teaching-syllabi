@@ -93,4 +93,4 @@ An in depth course looking at working with the `Linux` `pthread` library.
     * what happens when a thread does execve? answer: all threads die automatically
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

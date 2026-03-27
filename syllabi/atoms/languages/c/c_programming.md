@@ -113,4 +113,4 @@ C is and has been for years the world's best language for low level, systems and
     * Common C programming pitfalls
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

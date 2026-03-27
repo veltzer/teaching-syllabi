@@ -56,4 +56,4 @@ Web developers with basic `Dojo` experience who need to build advanced widget-ba
     * i18n in general and in widget
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

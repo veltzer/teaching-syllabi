@@ -87,4 +87,4 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
     * `QEMU` in continuous integration and testing environments
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

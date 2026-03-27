@@ -169,4 +169,4 @@ the previous application. And finally they will write a kernel module which will
 used from the native library (and therefor from the UI application).
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

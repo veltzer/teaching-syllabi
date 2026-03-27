@@ -149,4 +149,4 @@ course will also discuss current trends and future directions in the `DevOps` la
         * Lessons learned and best practices
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

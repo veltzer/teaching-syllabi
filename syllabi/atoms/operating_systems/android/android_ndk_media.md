@@ -51,4 +51,4 @@ This course covers media programming at the native layer of the `Android` platfo
 * [OpenSL](http://www.slideshare.net/DSPIP/android-audio-opensl)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

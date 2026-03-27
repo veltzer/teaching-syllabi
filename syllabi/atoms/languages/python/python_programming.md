@@ -218,4 +218,4 @@ may not work correctly on `Windows` but impacts this beginners course very littl
 * Recommended development environments: `vscode` with `Python` plugins, `PyCharm` community edition from `JetBrains`.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -91,4 +91,4 @@ over it in C or C++ which make efficient use of it.
     * Logging approaches and the system logger.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

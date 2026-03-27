@@ -273,4 +273,4 @@ and demonstrated.
 * [Web Development Tools](https://en.wikipedia.org/wiki/Web_development_tools)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

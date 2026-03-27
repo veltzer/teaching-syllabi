@@ -62,4 +62,4 @@ as environment variables, configuration files, filesystem layout and many more.
 * Writing bash functions (introduction)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

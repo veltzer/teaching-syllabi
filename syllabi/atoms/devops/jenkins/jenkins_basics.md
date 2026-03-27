@@ -55,4 +55,4 @@ pipelines and agile development, can utilize such technologies as the public clo
 * Best Practices in `CI/CD` process with `Jenkins`
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

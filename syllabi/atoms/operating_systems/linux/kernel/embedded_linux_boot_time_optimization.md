@@ -98,4 +98,4 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
     * Find the best kernel compression solution for our system
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

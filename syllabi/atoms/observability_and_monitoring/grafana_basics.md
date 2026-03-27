@@ -45,4 +45,4 @@ This course provides a hands-on introduction to `Grafana`, the popular open-sour
 * Dashboard Design
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

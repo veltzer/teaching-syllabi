@@ -86,4 +86,4 @@ The course will include exercises for all the major topics explained with best p
 * [Similar course](https://www.jobreadyprogrammer.com/p/ultimate-apache-spark-with-java-course)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

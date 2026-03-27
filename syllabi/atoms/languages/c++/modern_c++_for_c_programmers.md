@@ -224,4 +224,4 @@ This is not a course for beginners. It covers a great deal of material and those
     * Modifying Sort
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

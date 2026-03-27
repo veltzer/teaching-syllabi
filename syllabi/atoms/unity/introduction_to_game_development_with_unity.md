@@ -78,4 +78,4 @@ This course will provide a comprehensive introduction to game development using 
 * Additional resources will be provided throughout the course.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

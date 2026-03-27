@@ -231,4 +231,4 @@ Each student should have:
 * Basic familiarity with command-line tools and `SSH` for remote access
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

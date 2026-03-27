@@ -37,4 +37,4 @@ This course teaches how to design clean, sustainable, and extensible `API`s in t
 * exception handling in `C`.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

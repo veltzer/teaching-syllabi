@@ -127,4 +127,4 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 * [slides for this course](https://bootlin.com/doc/training/buildroot/)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

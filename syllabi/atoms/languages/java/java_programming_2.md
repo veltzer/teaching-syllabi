@@ -103,4 +103,4 @@ the basics of the `Java` programming language
     * Passing messages between threads
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -137,4 +137,4 @@ techniques acquired
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

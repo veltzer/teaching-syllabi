@@ -57,4 +57,4 @@ It does with some of the more advanced features of `Splunk` and is intended for 
 * DevelopIntelligence/*
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

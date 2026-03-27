@@ -98,4 +98,4 @@ This intensive course is designed for experienced penetration testers seeking to
 * [Exploit Database](https://www.exploit-db.com/)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

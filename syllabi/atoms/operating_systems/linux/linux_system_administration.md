@@ -387,4 +387,4 @@ This intensive course covers essential `Linux` system administration concepts an
     * Best practices for isolated systems
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

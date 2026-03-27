@@ -108,4 +108,4 @@ The course includes hands on exercises.
     * Common tools and utilities
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

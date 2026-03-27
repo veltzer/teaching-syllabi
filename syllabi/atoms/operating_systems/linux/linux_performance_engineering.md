@@ -137,4 +137,4 @@ and `FlameGraphs` to identify bottlenecks, and will gain a deep understanding of
     * Documenting and communicating performance findings
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

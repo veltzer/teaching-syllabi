@@ -61,4 +61,4 @@ This course is intended for `Rust` developers who wish to delve deeper into `Rus
 * [Using C libraries in `Rust`](https://medium.com/dwelo-r-d/using-c-libraries-in-rust-13961948c72a)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

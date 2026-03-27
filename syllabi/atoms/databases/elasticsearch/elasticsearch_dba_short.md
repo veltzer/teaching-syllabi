@@ -145,4 +145,4 @@ Each student should have:
 * Network connectivity between all nodes for cluster formation
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

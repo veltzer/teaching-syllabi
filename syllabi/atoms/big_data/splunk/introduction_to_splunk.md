@@ -72,4 +72,4 @@ The course begins with a lesson on how to use `Splunk` to run basic searches and
     * Alerts and scheduled searches
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

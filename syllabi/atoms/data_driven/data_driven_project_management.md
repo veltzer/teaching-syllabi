@@ -124,4 +124,4 @@ Any of the following
 * There are preparation hints in the form of Quiz slides at ends of chapters
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

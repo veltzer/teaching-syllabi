@@ -62,4 +62,4 @@ or one who are capable of programming at a non advanced level at a minimum.
 * Multi project Builds
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

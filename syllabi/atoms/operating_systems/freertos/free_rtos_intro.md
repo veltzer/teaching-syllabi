@@ -52,4 +52,4 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * Hook functions
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

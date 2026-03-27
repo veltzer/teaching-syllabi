@@ -135,4 +135,4 @@ sure that the participants have an access to `Linux` boxes.
 * The virtual machines should have at least 4GB of memory.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

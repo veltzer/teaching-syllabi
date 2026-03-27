@@ -102,4 +102,4 @@ the course takes students on a journey from the fundamentals of assembly languag
     * Emerging architectures and instruction sets
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

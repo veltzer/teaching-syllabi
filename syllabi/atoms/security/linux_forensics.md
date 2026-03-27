@@ -142,4 +142,4 @@ The course helps prepare for the certification exam CLFP (7Safe).
 * [Dradis Framework](https://dradisframework.com/)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

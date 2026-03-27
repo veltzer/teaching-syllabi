@@ -89,4 +89,4 @@ A year of experience in the software industry in any technical position is requi
 * The user should have `sudo` privileges on those machines.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -80,4 +80,4 @@ This intensive one-day training program covers essential IT security policies an
     * Third-party vendor security
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

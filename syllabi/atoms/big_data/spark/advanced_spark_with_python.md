@@ -90,4 +90,4 @@ This course is designed for data engineers and data scientists who have a basic 
 * "High Performance `Spark`: Best Practices for Scaling and Optimizing `Apache Spark`" by Holden Karau and Rachel Warren
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

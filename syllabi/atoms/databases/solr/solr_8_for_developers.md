@@ -111,4 +111,4 @@ are, how they work, how `Solr` works and how to use `Solr` effectively in a prod
     * Learn about `Solr` Cloud: Introduction, Features, Architecture, Exploring `Solr` Cloud
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

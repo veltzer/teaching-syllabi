@@ -118,4 +118,4 @@ those crashes that are so hard to reproduce.
     * Viewing the managed heap, objects, threads, call stack and more
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -131,4 +131,4 @@ is assumed and should have been acquired in a previous course or some years with
 on experience in kernel programming.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

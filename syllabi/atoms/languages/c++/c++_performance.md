@@ -32,4 +32,4 @@ We deal with the cost of various C++ features and with interacting efficiently w
 * Efficiency topics
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

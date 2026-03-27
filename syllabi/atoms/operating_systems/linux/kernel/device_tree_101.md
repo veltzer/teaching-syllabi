@@ -36,4 +36,4 @@ object of providing board support or tuning your kernel to a specific purpose.
 * [slides for this course](https://bootlin.com/pub/conferences/2021/webinar/petazzoni-device-tree-101/)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

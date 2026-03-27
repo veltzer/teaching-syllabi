@@ -115,4 +115,4 @@ Any of the following:
         Service Meshes, Virtual machines vs containers, web functions. (1 hour)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

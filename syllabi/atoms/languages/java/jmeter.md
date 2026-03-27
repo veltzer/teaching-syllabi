@@ -59,4 +59,4 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
     * Practice time - hands on time to do some real tests with the `JMeter` on our Application.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

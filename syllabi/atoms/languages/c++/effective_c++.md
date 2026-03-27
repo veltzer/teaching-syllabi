@@ -91,4 +91,4 @@ This course is based on the Scott Meyers book of the same title.
     * Iterator categories
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

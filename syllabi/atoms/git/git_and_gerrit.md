@@ -46,4 +46,4 @@ The weight is 2/3 git and 1/3 `Gerrit`.
     * pull and push.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

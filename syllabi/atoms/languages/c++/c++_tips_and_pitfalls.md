@@ -103,4 +103,4 @@ understanding of C++.
 * [E.Gamma, R.Helm, R.Johnson, J.Vlissides, Design Patterns, Addison-Wesley Publishing Company](http://www.javier8a.com/itc/bd1/articulo.pdf)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

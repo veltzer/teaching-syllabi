@@ -434,4 +434,4 @@ is designed to take people new to the tech industry and turn them into entry lev
 * 360 hour / 45 day course.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

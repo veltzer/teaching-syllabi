@@ -92,4 +92,4 @@ This course is an instructor led course, with demos by the instructor and no exe
         * How to disable it for various purposes (debugging, ...)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

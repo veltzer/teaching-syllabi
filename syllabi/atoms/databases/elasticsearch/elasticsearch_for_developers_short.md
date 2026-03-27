@@ -178,4 +178,4 @@ and implement full-text search features in their applications.
         * Query performance problems
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

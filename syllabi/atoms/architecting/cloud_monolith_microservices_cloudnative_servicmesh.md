@@ -45,4 +45,4 @@ This course covers the evolution of application architecture from monolithic sys
     * #CHAOS ENGINEERING in cloudy Micro-services environment
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -87,4 +87,4 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 * Various online tutorials and articles.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -64,4 +64,4 @@ automation project with `Selenium`, Appium, `REST` `API` support and Allure repo
     * Beautiful soup
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

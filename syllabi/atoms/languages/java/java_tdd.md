@@ -133,4 +133,4 @@ third party tools that will be discussed in the development section.
             * Using PMD from eclipse
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

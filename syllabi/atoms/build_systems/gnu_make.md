@@ -91,4 +91,4 @@ while being the most flexible and misunderstood. This course will get you starte
     * Additional resources
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

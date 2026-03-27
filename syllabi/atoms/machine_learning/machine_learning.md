@@ -98,4 +98,4 @@ Using `Python`: numpy, SciPy, pandas, Scikit-learn.
 * This course does not include deep learning which should be taken after this course.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

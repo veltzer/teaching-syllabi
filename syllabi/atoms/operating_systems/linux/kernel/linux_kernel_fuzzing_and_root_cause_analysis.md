@@ -124,4 +124,4 @@ Upon completion, delegates will be able to:
 * [`Linux` Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

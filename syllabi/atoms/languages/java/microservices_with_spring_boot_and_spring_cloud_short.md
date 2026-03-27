@@ -103,4 +103,4 @@ This is a shortened version of the course to a single day instead of two days:
     * Feign clients
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

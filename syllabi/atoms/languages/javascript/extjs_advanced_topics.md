@@ -31,4 +31,4 @@ This course covers advanced `ExtJS` topics including `WebWorkers`, custom widget
 * update slides for Extjs 6.0 (including MVVM).
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

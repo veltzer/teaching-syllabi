@@ -89,4 +89,4 @@ Upon successful completion of this course, students will be able to:
 * Online resources (`Oracle` Learning Library, `Oracle` Developer Community, etc.)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

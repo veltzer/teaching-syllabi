@@ -65,4 +65,4 @@ specifically 802.11b.
         * WPA3.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

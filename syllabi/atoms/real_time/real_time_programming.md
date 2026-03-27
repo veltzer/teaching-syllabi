@@ -81,4 +81,4 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
     * Interrupts causing problems to real time systems
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

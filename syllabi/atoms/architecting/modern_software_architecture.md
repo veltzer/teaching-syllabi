@@ -105,4 +105,4 @@ and architect systems for resiliency, observability, and continuous delivery.
         * The role of the Architect in the `DevOps` lifecycle
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

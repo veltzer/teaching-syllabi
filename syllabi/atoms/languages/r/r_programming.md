@@ -50,4 +50,4 @@ This course provides a hands-on introduction to the `R` programming language for
     * Testing for normality
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

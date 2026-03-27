@@ -58,4 +58,4 @@ platform (.NET, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * This can be changed.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

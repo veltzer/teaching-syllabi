@@ -119,4 +119,4 @@ This is a practical course with exercises covering most topics.
     * BIT mandates in certain industries or hardware devices
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

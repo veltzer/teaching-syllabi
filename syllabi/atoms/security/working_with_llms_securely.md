@@ -85,4 +85,4 @@ This one day course covers the OWASP Top 10 for Large Language Model Application
     * Access controls and monitoring
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

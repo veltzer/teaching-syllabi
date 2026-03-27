@@ -108,4 +108,4 @@ Upon completion, delegates will be able to:
 * [systemd Timers](https://www.freedesktop.org/software/systemd/man/systemd.timer.html)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -75,4 +75,4 @@ The "Advanced `Linux` Sound Architecture (ALSA) Programming" course is designed 
     * Other existing applications
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

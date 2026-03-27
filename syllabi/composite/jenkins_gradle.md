@@ -38,4 +38,4 @@ This course covers two essential build and continuous integration tools: `Jenkin
     * Multi project Builds
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

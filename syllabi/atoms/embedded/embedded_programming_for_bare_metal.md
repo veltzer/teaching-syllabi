@@ -94,4 +94,4 @@ This intensive 4-day course introduces students to programming embedded systems 
     * Future learning paths
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

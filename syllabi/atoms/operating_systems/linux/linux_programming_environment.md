@@ -71,4 +71,4 @@ Course is intended for `C`/`C++` programmers who want to find their way in the `
 * The `Linux` kernel or user space (glibc?) `APIs` and their correct usage.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

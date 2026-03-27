@@ -139,4 +139,4 @@ developer and your development environment more productive.
     * Don't abuse the technology.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

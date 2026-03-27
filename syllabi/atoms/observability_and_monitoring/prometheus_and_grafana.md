@@ -100,4 +100,4 @@ As current deployed applications and systems are becoming more complex with tool
     * Publishing dashboards / snapshots
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

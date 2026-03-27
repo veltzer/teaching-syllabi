@@ -118,4 +118,4 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
     * Testing embedded code
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

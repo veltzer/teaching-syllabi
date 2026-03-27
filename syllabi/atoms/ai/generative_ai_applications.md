@@ -65,4 +65,4 @@ and Safety. Generative `AI` applications
 [syllabus](https://ai-dt.school/generative-ai/#curriculum)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

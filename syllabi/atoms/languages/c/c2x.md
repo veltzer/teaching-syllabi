@@ -38,4 +38,4 @@ This course covers the `C2x` standard (formally `C23`), the latest major revisio
 * [C2x at Wikipedia](https://en.wikipedia.org/wiki/C2x)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -68,4 +68,4 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
     * Performance statistics
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

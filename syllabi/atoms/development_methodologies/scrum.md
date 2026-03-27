@@ -73,4 +73,4 @@ This course provides a thorough introduction to the `Scrum` framework for agile 
     * Distributed Teams
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

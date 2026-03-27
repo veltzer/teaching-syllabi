@@ -104,4 +104,4 @@ order to improve the way they operate containerized workloads.
 * The virtual machines should have at least 4GB of memory.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

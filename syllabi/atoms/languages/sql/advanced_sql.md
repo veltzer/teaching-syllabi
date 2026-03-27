@@ -37,4 +37,4 @@ This course covers advanced `SQL` techniques including analytic functions, windo
 * Stored Procedures and compilation
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

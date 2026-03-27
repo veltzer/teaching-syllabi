@@ -164,4 +164,4 @@ programming languages in a real time, embedded environment.
 [//1]: <> (Logtel course # 3411)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

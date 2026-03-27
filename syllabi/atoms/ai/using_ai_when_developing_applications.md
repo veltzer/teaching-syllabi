@@ -176,4 +176,4 @@ This is a practical course for experienced developers. Participants should have:
 * OWASP Guidelines for `AI` Security in Development
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

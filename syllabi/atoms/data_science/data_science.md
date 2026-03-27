@@ -71,4 +71,4 @@ Using `Python`, `numpy`, `scipy`, `pandas`, `SQL`.
     * Creating final deliverables
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

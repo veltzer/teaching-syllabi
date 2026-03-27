@@ -112,4 +112,4 @@ administration levels.
 * [vj_channels](http://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

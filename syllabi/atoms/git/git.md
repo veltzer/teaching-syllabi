@@ -222,4 +222,4 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 * In any case the installations are not a must and the instructor can guide the students how to perform the installations on the first day of the course.
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -127,4 +127,4 @@ data flows from the java application down to the kernel driver and the hardware.
     * Debugging code in AOSP (application & libraries)
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

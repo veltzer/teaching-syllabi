@@ -101,4 +101,4 @@ device driver itself. It also teaching about other technologies that have an int
     * Off the shelf eBPF program collections
 
 ## Copyright
-Mark Veltzer, © 2026
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026
