@@ -1,0 +1,330 @@
+<h1 id="linux-debugging"><code>Linux</code> Debugging</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Linux</code> Debugging and Troubleshooting is a comprehensive
+course focused on mastering the art and science of debugging complex
+<code>C</code>/<code>C++</code> applications on <code>Linux</code>
+systems. From basic debugging techniques to hunting elusive Heisenbugs,
+this course covers the full spectrum of debugging methodologies, tools,
+and strategies used by professional developers to diagnose and fix the
+most challenging software defects. Participants will learn to use
+industry-standard debugging tools, analyze complex runtime issues, debug
+multi-threaded and distributed applications, and tackle
+non-deterministic bugs that appear only in production environments. This
+course emphasizes practical, real-world debugging scenarios including
+memory corruption, race conditions, performance bottlenecks, and
+system-level issues that affect application behavior.</p>
+<p>This course covers <code>GDB</code> 12+, modern
+<code>Valgrind</code>, LLDB, and current <code>Linux</code> debugging
+tools. Legacy debugging techniques and deprecated tools are not
+discussed.</p>
+<h2 id="duration">Duration</h2>
+<p>40 hours / 5 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li><code>C</code>/<code>C++</code> developers debugging complex
+applications</li>
+<li>System programmers dealing with low-level bugs</li>
+<li><code>DevOps</code> engineers troubleshooting production issues</li>
+<li>QA engineers performing deep technical analysis</li>
+<li>Performance engineers identifying bottlenecks</li>
+<li>Technical leads responsible for code quality and reliability</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Strong <code>C</code>/<code>C++</code> programming experience</li>
+<li>Understanding of <code>Linux</code> system programming</li>
+<li>Familiarity with multi-threaded programming</li>
+<li>Basic knowledge of computer architecture</li>
+<li>Command line proficiency in <code>Linux</code></li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Master <code>GDB</code> and advanced debugging techniques</li>
+<li>Identify and fix memory-related bugs efficiently</li>
+<li>Debug multi-threaded and concurrent applications</li>
+<li>Diagnose and resolve Heisenbugs and race conditions</li>
+<li>Use dynamic analysis tools for runtime debugging</li>
+<li>Implement production debugging strategies</li>
+<li>Analyze core dumps and post-mortem debugging</li>
+<li>Apply systematic debugging methodologies</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to Debugging Methodology
+<ul>
+<li>Scientific method in debugging</li>
+<li>Hypothesis-driven debugging</li>
+<li>Binary search debugging</li>
+<li>Minimal reproducible examples</li>
+<li>Bug classification and triage</li>
+<li>Documentation and bug tracking</li>
+<li>Debugging psychology and cognitive biases</li>
+</ul></li>
+<li><code>GDB</code> Fundamentals
+<ul>
+<li><code>GDB</code> architecture and concepts</li>
+<li>Compilation for debugging (-g, -O0, -ggdb3)</li>
+<li>Starting and attaching to processes</li>
+<li>Breakpoints and watchpoints</li>
+<li>Conditional breakpoints</li>
+<li>Stepping through code</li>
+<li>Examining variables and memory</li>
+<li>Call stack navigation</li>
+<li>Source code navigation</li>
+</ul></li>
+<li>Advanced <code>GDB</code> Features
+<ul>
+<li><code>GDB</code> scripting and automation</li>
+<li><code>Python</code> extensions in <code>GDB</code></li>
+<li>Pretty printers</li>
+<li>Reverse debugging (record and replay)</li>
+<li>Remote debugging</li>
+<li>Multi-process debugging</li>
+<li>Catchpoints and syscall tracing</li>
+<li><code>GDB</code> MI (Machine Interface)</li>
+<li>Custom commands and hooks</li>
+</ul></li>
+<li>LLDB and Alternative Debuggers
+<ul>
+<li>LLDB basics and comparison with <code>GDB</code></li>
+<li>LLDB command syntax</li>
+<li>Data formatters in LLDB</li>
+<li><code>IDE</code> integration (VS Code, CLion)</li>
+<li>TUI mode debugging</li>
+<li>DDD (Data Display Debugger)</li>
+<li>Console vs GUI debugging</li>
+</ul></li>
+<li>Static Analysis Tools
+<ul>
+<li>Compiler warnings and sanitizers</li>
+<li>Clang Static Analyzer</li>
+<li>Cppcheck</li>
+<li>PVS-Studio basics</li>
+<li>Coverity concepts</li>
+<li>PC-lint/PC-lint Plus</li>
+<li>Integration with build systems</li>
+<li>False positive management</li>
+</ul></li>
+<li>Memory Bug Categories
+<ul>
+<li>Buffer overflows and underflows</li>
+<li>Use-after-free bugs</li>
+<li>Double-free errors</li>
+<li>Memory leaks</li>
+<li>Uninitialized memory usage</li>
+<li>Stack corruption</li>
+<li>Heap corruption</li>
+<li>Invalid pointer dereference</li>
+</ul></li>
+<li><code>Valgrind</code> Memory Debugging
+<ul>
+<li>Memcheck tool in depth</li>
+<li>Leak detection and analysis</li>
+<li>Cachegrind for cache profiling</li>
+<li>Helgrind for thread errors</li>
+<li>Massif heap profiler</li>
+<li>DHAT dynamic heap analysis</li>
+<li><code>Valgrind</code> suppression files</li>
+<li>Custom memory allocators with <code>Valgrind</code></li>
+</ul></li>
+<li>AddressSanitizer (ASan)
+<ul>
+<li>ASan architecture and overhead</li>
+<li>Compilation and runtime options</li>
+<li>Understanding ASan reports</li>
+<li>Memory poisoning concepts</li>
+<li>Stack buffer overflow detection</li>
+<li>Global buffer overflow detection</li>
+<li>Use-after-return detection</li>
+<li>ASan with production code</li>
+</ul></li>
+<li>Memory Debugging Techniques
+<ul>
+<li>Custom memory allocators for debugging</li>
+<li>Guard pages and electric fence</li>
+<li>Memory pattern filling</li>
+<li>Heap consistency checking</li>
+<li>Memory usage tracking</li>
+<li>Smart pointers and <code>RAII</code></li>
+<li>Memory pool debugging</li>
+<li>Debugging memory-mapped files</li>
+</ul></li>
+<li>Core Dump Analysis
+<ul>
+<li>Core dump generation and configuration</li>
+<li>Analyzing core files with <code>GDB</code></li>
+<li>Extracting information from stripped binaries</li>
+<li>Matching core dumps to source code</li>
+<li>Automated core dump analysis</li>
+<li>Core dump management in production</li>
+<li>Debugging info packages</li>
+<li>Mini-dumps and custom crash handlers</li>
+</ul></li>
+<li>Multi-threading Bugs
+<ul>
+<li>Race conditions</li>
+<li>Deadlocks and livelocks</li>
+<li>Priority inversion</li>
+<li>Thread starvation</li>
+<li>ABA problems</li>
+<li>Memory ordering issues</li>
+<li>False sharing</li>
+<li>Thread-safety violations</li>
+</ul></li>
+<li>Thread Debugging with <code>GDB</code>
+<ul>
+<li>Thread-specific breakpoints</li>
+<li>Switching between threads</li>
+<li>All-stop vs non-stop mode</li>
+<li>Thread apply commands</li>
+<li>Scheduler locking</li>
+<li>Thread-local storage debugging</li>
+<li>Debugging thread creation/destruction</li>
+</ul></li>
+<li>ThreadSanitizer (TSan)
+<ul>
+<li>TSan principles and implementation</li>
+<li>Data race detection</li>
+<li>Deadlock detection</li>
+<li>Understanding TSan reports</li>
+<li>TSan suppressions</li>
+<li>Performance impact</li>
+<li>TSan with real applications</li>
+<li>Limitations and false positives</li>
+</ul></li>
+<li>Helgrind and DRD
+<ul>
+<li>Helgrind race detection</li>
+<li>Lock order violation detection</li>
+<li>Comparing Helgrind and DRD</li>
+<li><code>POSIX</code> thread <code>API</code> checking</li>
+<li>Custom synchronization primitives</li>
+<li>Performance considerations</li>
+</ul></li>
+<li>Advanced Synchronization Debugging
+<ul>
+<li>Lock-free algorithm debugging</li>
+<li>Atomic operation debugging</li>
+<li>Memory barrier issues</li>
+<li>Debugging condition variables</li>
+<li>Semaphore debugging</li>
+<li>Read-write lock issues</li>
+<li>Futex debugging</li>
+<li>Event ordering analysis</li>
+</ul></li>
+<li>Understanding Heisenbugs
+<ul>
+<li>Definition and characteristics</li>
+<li>Why Heisenbugs occur</li>
+<li>Observer effect in debugging</li>
+<li>Timing-dependent bugs</li>
+<li>Environment-sensitive bugs</li>
+<li>Optimization-related bugs</li>
+<li>Undefined behavior manifestation</li>
+</ul></li>
+<li>Reproducing Non-Deterministic Bugs
+<ul>
+<li>Stress testing techniques</li>
+<li>Fuzzing and property-based testing</li>
+<li>Record and replay systems</li>
+<li>rr (record and replay) debugger</li>
+<li>Deterministic scheduling</li>
+<li>Environment control</li>
+<li>Statistical debugging</li>
+<li>Chaos engineering for debugging</li>
+</ul></li>
+<li>Race Condition Hunting
+<ul>
+<li>Systematic concurrency testing</li>
+<li>Schedule exploration</li>
+<li>Delay injection</li>
+<li>CPU affinity manipulation</li>
+<li>Priority manipulation</li>
+<li>Intel Inspector</li>
+<li>Dynamic race detection</li>
+<li>Lock-free debugging strategies</li>
+</ul></li>
+<li>Timing and Performance Bugs
+<ul>
+<li>Performance regression debugging</li>
+<li>Latency spike investigation</li>
+<li>CPU profiling with perf</li>
+<li>Cache miss analysis</li>
+<li>Lock contention analysis</li>
+<li>I/O bottleneck debugging</li>
+<li>Context switch debugging</li>
+<li>Interrupt and preemption issues</li>
+</ul></li>
+<li>Production Debugging Techniques
+<ul>
+<li>Non-intrusive debugging methods</li>
+<li>eBPF for production tracing</li>
+<li>Dynamic instrumentation</li>
+<li>Logging strategies</li>
+<li>Distributed tracing</li>
+<li>Debugging without symbols</li>
+<li>Customer site debugging</li>
+<li>Debugging containerized applications</li>
+</ul></li>
+<li>Dynamic Binary Instrumentation
+<ul>
+<li>Intel Pin framework</li>
+<li>DynamoRIO basics</li>
+<li>Frida for runtime manipulation</li>
+<li>Custom instrumentation tools</li>
+<li>Binary analysis and patching</li>
+<li>Runtime code modification</li>
+<li><code>API</code> hooking and interception</li>
+</ul></li>
+<li>System-Level Debugging
+<ul>
+<li>strace advanced usage</li>
+<li>ltrace for library calls</li>
+<li>SystemTap scripting</li>
+<li>ftrace for kernel tracing</li>
+<li>perf events and counters</li>
+<li>/proc filesystem debugging</li>
+<li>netstat and network debugging</li>
+<li>inotify for file system debugging</li>
+</ul></li>
+<li>Specialized Debugging Tools
+<ul>
+<li>UndefinedBehaviorSanitizer (UBSan)</li>
+<li>LeakSanitizer standalone usage</li>
+<li>MemorySanitizer for uninitialized memory</li>
+<li>Intel VTune Profiler</li>
+<li>AMD uProf</li>
+<li>Heap profilers comparison</li>
+<li>GPU debugging basics</li>
+<li>JTAG debugging concepts</li>
+</ul></li>
+<li>Debugging Best Practices
+<ul>
+<li>Defensive programming techniques</li>
+<li>Assertion strategies</li>
+<li>Logging best practices</li>
+<li>Error handling patterns</li>
+<li>Unit testing for debugging</li>
+<li>Continuous debugging</li>
+<li>Debugging documentation</li>
+<li>Team debugging practices</li>
+</ul></li>
+<li>Post-Mortem and Failure Analysis
+<ul>
+<li>Crash dump analysis automation</li>
+<li>Symbol servers and debugging symbols</li>
+<li>Minidump analysis</li>
+<li>Black box analysis</li>
+<li>Statistical crash analysis</li>
+<li>Bug pattern recognition</li>
+<li>Root cause analysis methodology</li>
+<li>Debugging metrics and KPIs</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

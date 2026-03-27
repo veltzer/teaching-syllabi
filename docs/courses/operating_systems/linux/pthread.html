@@ -1,0 +1,109 @@
+<h1 id="pthreads-course">Pthreads course</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>An in depth course looking at working with the <code>Linux</code>
+<code>pthread</code> library.</p>
+<h2 id="duration">Duration</h2>
+<p>16 hours / 2 days</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>knowledge in basic <code>UNIX</code> systems programming.</li>
+<li>hands on familiarity with command line writing, compiling running
+and debugging on <code>Linux</code> and/or <code>UNIX</code>.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>the <code>Linux</code> threading model.
+<ul>
+<li>the fork <code>API</code></li>
+<li>the clone <code>API</code></li>
+</ul></li>
+<li>your very first thread.</li>
+<li>seeing thread information on the command line.
+<ul>
+<li>using ps</li>
+<li>using top</li>
+<li>using /proc</li>
+</ul></li>
+<li>thread ids
+<ul>
+<li>why are there two ids</li>
+<li><code>pthread_self(3)</code>, <code>pthread_equal(3)</code></li>
+<li><code>gettid(2)</code></li>
+<li>giving names to threads <code>pthread_setname_np(3)</code>
+<code>prctl(2)</code></li>
+</ul></li>
+<li>thread death
+<ul>
+<li>suspending a thread.</li>
+<li><code>pthread_exit(3)</code></li>
+<li><code>pthread_kill(3)</code></li>
+<li><code>pthread_cancel(3)</code></li>
+<li><code>pthread_setcancelstate(3)</code>,
+<code>pthread_setcanceltype(3)</code></li>
+<li>thread cancellation.</li>
+<li>masking cancellation.</li>
+<li>joining a thread.</li>
+<li>detaching a thread so it can’t be joined.</li>
+<li>cleanup function registrations at thread death.</li>
+</ul></li>
+<li><code>TLS</code> (thread local storage).
+<ul>
+<li>the <code>pthread</code> way.</li>
+<li>the C++ way.</li>
+<li>other options</li>
+</ul></li>
+<li>threads and signals.
+<ul>
+<li>sending signals to threads.</li>
+<li>what happens when a signal arrives at a thread?</li>
+<li>signal queues for real time signals.</li>
+<li>masking signals.</li>
+</ul></li>
+<li>threads synchronization mechanisms:
+<ul>
+<li>barriers</li>
+<li>conditions.</li>
+<li>mutexes (futexes)</li>
+<li>spinlocks.</li>
+<li>rwlocks.</li>
+</ul></li>
+<li>threads and cores
+<ul>
+<li>knowing on which core you are running.</li>
+<li>cpu affinity. at thread creation time. using taskset.</li>
+<li>yielding the CPU.</li>
+<li>scheduling classes and priorities.</li>
+</ul></li>
+<li>threads and time
+<ul>
+<li>sleeping in threads.</li>
+<li>pausing in threads.</li>
+<li>a thread cpu clock.</li>
+<li>setting the thread cpu clock</li>
+</ul></li>
+<li>inter-thread communication options.
+<ul>
+<li>simple implementation of a message queue.</li>
+</ul></li>
+<li>stacks of threads.
+<ul>
+<li>controlling the sizes of stacks</li>
+<li>stack guards</li>
+<li>knowing if you are close to the edge.</li>
+</ul></li>
+<li>misc
+<ul>
+<li>ASLR and how it effects threads.</li>
+<li><code>thread_at_fork</code> hooks</li>
+<li><code>pthread_once</code></li>
+<li>what happens when a thread does execve? answer: all threads die
+automatically</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

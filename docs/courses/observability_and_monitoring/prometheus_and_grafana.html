@@ -1,0 +1,128 @@
+<h1 id="prometheus-and-grafana"><code>Prometheus</code> and
+<code>Grafana</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>As current deployed applications and systems are becoming more
+complex with tools like <code>Kubernetes</code> and large cloud
+deployments, the need to understand how a system is performing and
+understand the source of problems as they appear becomes more important.
+In order to achieve all this new solutions are appearing, both for
+collecting distributed data about system status and for visualizing it
+for system engineers to digest.</p>
+<p><code>Prometheus</code> is a widely used time series database for
+storing online performance data of running systems and allow to create
+alerts in cases of issues. <code>Prometheus</code> is used in
+conjunction with other visualization solution in order to visualize on
+line and historic data to system engineers.</p>
+<p><code>Grafana</code> is a widely used visualization solution used to
+create dashboards and panels that let engineers penetrate the complexity
+of today’s deployments. It is fairly easy to use and flexible and allow
+end user, even those without programming experience, to modify panels
+and dashboards and get at the information that they need.</p>
+<h2 id="duration">Duration</h2>
+<p>16 hours / 2 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Systems Administrators, IT Managers, SREs and <code>DevOps</code> /
+Operations engineers who want to collect and visualize data about their
+deployed systems using <code>Prometheus</code>.</li>
+<li>Any users of <code>Grafana</code> dashboards who want to understand
+how to modify their dashboards and panels in order to better monitor and
+understand what their systems are doing.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Tech affinity.</li>
+<li>Some command line usage of <code>Linux</code> is recommended.</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Why Monitoring &amp; Metrics are important</li>
+<li><code>Prometheus</code> Architecture</li>
+<li>Obtaining &amp; Configuring <code>Prometheus</code></li>
+<li>Data collection methods</li>
+<li>Service Discovery</li>
+<li>Monitoring with <code>Prometheus</code></li>
+<li>Setting up alerts</li>
+<li>Visualization with <code>Grafana</code></li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction
+<ul>
+<li>Why is Monitoring important?</li>
+<li>What should I be monitoring?</li>
+<li>Which tools will suit my needs best?</li>
+<li><code>Prometheus</code> overview</li>
+<li><code>Grafana</code> overview</li>
+</ul></li>
+<li>Getting started with <code>Prometheus</code>
+<ul>
+<li>Pre-requisites</li>
+<li>Installing &amp; configuring <code>Prometheus</code></li>
+</ul></li>
+<li>Monitoring Fundamentals
+<ul>
+<li>What to monitor?
+<ul>
+<li>Node Exporter</li>
+<li>StatsD Exporter</li>
+<li>Graphite Exporter</li>
+<li>Other popular community exporters</li>
+</ul></li>
+<li>Push and Pull data collection</li>
+<li>Service Level Objectives (SLOs)</li>
+<li>Service Level Indicators (SLIs)</li>
+</ul></li>
+<li>Setting up your Metrics
+<ul>
+<li>Instrumenting an application</li>
+<li>Endpoints</li>
+<li>Label Naming</li>
+<li>Working with Time Series data</li>
+<li>Querying with PromQL</li>
+<li>Metric types:</li>
+<li>Counters</li>
+<li>Gauges</li>
+<li>Histograms</li>
+<li>Functions and Operators
+<ul>
+<li>Aggregation</li>
+<li>Binary Operators</li>
+<li>Functions</li>
+</ul></li>
+<li>Monitoring Apps</li>
+<li>Collectors</li>
+<li>Self-destructing apps</li>
+<li>Platform as a Service (PAAS)</li>
+<li>Jobs and Instances</li>
+<li>Service Discovery</li>
+</ul></li>
+<li>Alerts
+<ul>
+<li>Defining Alerting rules</li>
+<li>Templating</li>
+<li>Alert notifications</li>
+<li>Setting up and configuring Alertmanager with
+<code>Prometheus</code></li>
+<li>Grouping</li>
+<li>Inhibition</li>
+<li>Silences</li>
+<li>Behavior</li>
+</ul></li>
+<li>Visualization with <code>Grafana</code>
+<ul>
+<li>Installing and configuring <code>Grafana</code> to work with
+<code>Prometheus</code></li>
+<li>Create a Dashboard</li>
+<li>Adding a metrics endpoint as a data source</li>
+<li>Securing user permissions and authentication</li>
+<li>Publishing dashboards / snapshots</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

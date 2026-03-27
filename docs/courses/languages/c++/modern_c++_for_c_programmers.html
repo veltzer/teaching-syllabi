@@ -1,0 +1,283 @@
+<h1 id="modern-c-for-c-programmers">Modern C++ for C Programmers</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>C++ is the standard language for implementing object-oriented designs
+where performance is a priority. Although long-term language stability
+is an important feature of C++, it has nevertheless continued to be
+developed. C++ 11 introduced a number of significant language and
+library features to improve safety and performance. These features allow
+us to more precisely express concepts from a design directly in code.
+Although these changes could be considered incremental, in fact they
+allow and encourage a whole new approach to programming.</p>
+<p>This course sets out from the beginning to embrace this new approach
+making full use of the facilities for writing well encapsulated robust
+code which is at the same time supremely efficient.</p>
+<p>The course is written from a developers rather than an academics
+perspective, following the design of a simple library and introducing
+language and library features as they are encountered. In the process
+virtually all language features are explored and most of the standard
+library. In addition a variety of design patterns are examined and good
+practices are emphasized.</p>
+<p>Although the course makes use of C++ 11/14 features throughout, most
+of the material is useful and relevant to pre C++ 11 users.</p>
+<p>Delegates will gain a greater understanding of the capabilities and
+potential pitfalls of the C++ language and will be more able to use C++
+language features to write robust, quality software.</p>
+<p>This a comprehensive five-day course with a combination of lectures
+and practical sessions for each chapter to reinforce the topics covered
+throughout the course. The practicals avoid algorithmic difficulties so
+that delegates can concentrate on specific C++ features.</p>
+<h2 id="duration">Duration</h2>
+<p>48 hours / 6 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Active C++ developers who would like to deepen their understanding
+of the C++ language.</li>
+<li>C or other language developers who would like to begin programming
+in C++.</li>
+<li>Developers for which this will be the first language (in which case
+this course will be done slower).</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>This is not a course for beginners. It covers a great deal of
+material and those who do not meet the course prerequisites will find
+the course moves too quickly. * You must have a solid recent experience
+writing C++. * First 2 days will be a refresher for the C++ basics * You
+must have a good appreciation of object-oriented principles. * You must
+be comfortable with new and delete operators, class definitions and
+member functions, constructors and destructors, pointers, references,
+virtual functions, function overloading, specialization, inheritance and
+polymorphism.</p>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Describe the modern approach to programming that C++ 11
+facilitates.</li>
+<li>Describe and use advanced techniques for safe copying and
+forwarding</li>
+<li>Describe and use template techniques for efficient generic
+coding</li>
+<li>Understand portability issues and how to resolve them.</li>
+<li>Make appropriate use of operator overloading.</li>
+<li>Understand how to write robust constructors.</li>
+<li>Use C++ exceptions appropriately in libraries and in large
+programs.</li>
+<li>Understand and resolve issues with global variables.</li>
+<li>Understand the appropriate use of <code>constexpr</code>, volatile,
+unions and bitfields.</li>
+<li>Understand and use the library facilities for multi-threading</li>
+<li>Understand the issues of resource ownership and the use of
+<code>RAII</code> and smart pointers to make association explicit and
+safe.</li>
+<li>Describe advanced inheritance techniques, such as private
+inheritance, multiple inheritance, the template method pattern and
+down-casting.</li>
+<li>Take full advantage of the standard C++ library</li>
+<li>Make good use of the standard container classes and iterators</li>
+<li>Understand and use variety of <code>OO</code> call-back
+mechanisms</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>C++ Refresher
+<ul>
+<li>An Overview of <code>OO</code> Programming and C++</li>
+<li>The Class Approach</li>
+<li>Efficiency and Integrity Issues</li>
+<li>Composite Classes</li>
+<li>Associative Classes</li>
+<li>Operator Overloading</li>
+<li>Class Properties</li>
+<li>Inheritance</li>
+<li>Polymorphism</li>
+</ul></li>
+<li>Robust Design
+<ul>
+<li>Single Responsibility Principle</li>
+<li>Reducing Complexity</li>
+<li>Encapsulation</li>
+<li>Keeping header files clean</li>
+<li>Conditional Compilation</li>
+<li>Coding Style</li>
+<li>C++ 11 game-changers</li>
+</ul></li>
+<li>Const, Copying and Conversions
+<ul>
+<li>Const consistency</li>
+<li>Logical vs physical constness and the mutable keyword</li>
+<li>The staticcast, dynamiccast, constcast and reinterpretcast keyword
+casts</li>
+<li>Converting constructors and the explicit keyword</li>
+<li>User defined conversion operators</li>
+<li>Copy construction and assignment</li>
+<li>Efficiency - Copy Elision and Return Value Optimization</li>
+</ul></li>
+<li>Move and Forward
+<ul>
+<li>R-Value Reference</li>
+<li>Move rather than Copy</li>
+<li>Compiler Synthesized Member Functions</li>
+<li>Rule of Three / Five / Zero</li>
+<li>std::swap, std::move and std::forward</li>
+<li>Perfect forwarding</li>
+</ul></li>
+<li>Strong Primitive Types
+<ul>
+<li>Mission statement for a new design</li>
+<li>Standard libraries for Time and Date</li>
+<li>Creating strongly typed primitive types</li>
+<li>Class Definition Organization</li>
+</ul></li>
+<li>Operator Overloading
+<ul>
+<li>Deriving operators from a sub-set</li>
+<li>Global functions for binary operators</li>
+<li>Templated operators</li>
+<li>Template Parameter Deduction</li>
+<li>Template Functions with non-argument type parameters</li>
+<li>Template Function Overloading and specialization</li>
+<li>Template Instantiation and linkage</li>
+<li>Namespaces</li>
+</ul></li>
+<li>Portable Integers and Robust Constructors
+<ul>
+<li>Language specification for integers</li>
+<li>Discovering int size</li>
+<li>Specifying int size</li>
+<li>Template Classes</li>
+<li>Template Class Specialization and Aliasing</li>
+<li>Single Point Of Maintenance for Constructors</li>
+<li>Argument Range Checking</li>
+<li>Custom Literals</li>
+</ul></li>
+<li>Exception Handling
+<ul>
+<li>Classifying and handling exceptions</li>
+<li>Catching exceptions</li>
+<li>Throwing exceptions</li>
+<li>The standard exception hierarchy</li>
+<li>Uncaught exceptions</li>
+<li>Resource acquisition and release</li>
+<li>Resource Acquisition is Initialization idiom</li>
+<li>Exceptions and constructors</li>
+<li>Copy Before Release idiom</li>
+<li>Exceptions and destructors</li>
+<li>Commit or Rollback idiom</li>
+<li><code>STL</code> exception guarantees</li>
+</ul></li>
+<li>Bitfields and Unions
+<ul>
+<li>Bitfields</li>
+<li>Anonymous Union</li>
+<li>Endedness and Bitfield Portability</li>
+<li>Creating a Portable Bitfield</li>
+<li>Template Parameter Checking</li>
+<li>Type Traits</li>
+<li><code>Static_Assert</code></li>
+</ul></li>
+<li>Delegation Techniques
+<ul>
+<li>Delegation principles</li>
+<li>Composition</li>
+<li>Adapter patterns</li>
+<li>Inheritance</li>
+<li>Multiple Inheritance</li>
+<li>Name Hiding</li>
+<li>Virtual inheritance</li>
+<li>Interface Classes</li>
+<li>Nested Classes</li>
+</ul></li>
+<li>Statics and Globals
+<ul>
+<li>Storage Class</li>
+<li>static class members</li>
+<li>Stateless Classes</li>
+<li>Static Local Variables</li>
+<li>Global and local access</li>
+<li>Problems with Global Variables</li>
+<li>Safe Global Variables</li>
+<li>The Singleton pattern</li>
+<li>Alternatives to Singleton</li>
+</ul></li>
+<li>Volatile Variables
+<ul>
+<li>Memory Mapped IO</li>
+<li>Volatile</li>
+<li>Placement New</li>
+<li>New and Delete operators</li>
+<li>Placing objects in memory</li>
+<li>Allocating without exceptions</li>
+</ul></li>
+<li>Multithreading Techniques
+<ul>
+<li>Multithreading concepts</li>
+<li>Creating multiple threads in C++</li>
+<li>Creating and managing locks</li>
+<li>Exception-Safe Lock Management</li>
+<li>Simultaneous Reads with a shared mutex</li>
+<li>Thread-Safe Assignment</li>
+<li>Atomic variables</li>
+<li>Condition variables</li>
+<li>Asynchronous functions and futures</li>
+<li>Exceptions in threads</li>
+</ul></li>
+<li>Polymorphism
+<ul>
+<li>Abstract Base Classes</li>
+<li>Benefits and Cost of Polymorphism</li>
+<li>Template Method Pattern</li>
+<li>Pure Virtual Functions</li>
+<li>Smart References and their uses</li>
+<li>Templated Outward Conversions</li>
+<li>The Curiously Recurring Template Pattern</li>
+<li>Downcasting</li>
+</ul></li>
+<li>Safe Association
+<ul>
+<li>Association for Independent Lifetimes</li>
+<li>Structured Lifetimes</li>
+<li><code>Unique_ptr</code></li>
+<li>Wrapping new</li>
+<li>‘Pointer’ Function Parameters</li>
+<li><code>Shared_ptr</code></li>
+<li><code>Weak_ptr</code></li>
+<li>Safe Copying with Association</li>
+</ul></li>
+<li>Design Patterns
+<ul>
+<li>Composite</li>
+<li>Cheshire Cat</li>
+<li>Bridge</li>
+<li>Null Object</li>
+<li>Proxy</li>
+<li>Lazy Initialization</li>
+<li>Dependency Inversion</li>
+<li>Factory</li>
+<li>Dependency Injection</li>
+</ul></li>
+<li>Functional Abstraction
+<ul>
+<li>Events and callbacks</li>
+<li>The Command pattern</li>
+<li>Functor Commands</li>
+<li><code>Lambda</code>, an alternatives to functors</li>
+<li>Wrapping Traditional callbacks</li>
+<li>Member function pointers</li>
+<li>Function pointer adapters</li>
+</ul></li>
+<li>Containers
+<ul>
+<li><code>STL</code> Container Classes</li>
+<li>Container Selection</li>
+<li>Container Functions</li>
+<li>Special List and Map/Set functions</li>
+<li>Iterators</li>
+<li>Algorithms</li>
+<li>Modifying Sort</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

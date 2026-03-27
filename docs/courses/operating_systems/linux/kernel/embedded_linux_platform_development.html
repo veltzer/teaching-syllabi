@@ -1,0 +1,246 @@
+<h1 id="embedded-linux-platform-development">Embedded <code>Linux</code>
+Platform Development</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course deals with developing embedded systems based on the
+<code>Linux</code> kernel. It covers the various approaches for building
+such a system and compares their advantages and disadvantages as well as
+explaining other tools useful in this space such as various emulation,
+debugging and building tools.</p>
+<p>The course also deals with the substantial task for configuring the
+<code>Linux</code> kernel, at compile time and at run time. This is a
+huge subject so it cannot be fully covered in a course such as this. The
+objective is not to fully cover the topic but to provide a good
+foundation from which the students can go on to expand their
+knowledge.</p>
+<p>Major topics which are a must for embedded platform developers such
+as filesystems, flash, boot, cross compilation, hardware and are also
+covered.</p>
+<h2 id="duration">Duration</h2>
+<p>40 hours / 5 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>People developing devices using the <code>Linux</code> kernel</li>
+<li>People supporting embedded <code>Linux</code> system developers</li>
+<li>Embedded <code>Linux</code> engineers who have never created a
+<code>Linux</code> image on their own</li>
+<li>Kernel developers who would like a better understanding of how
+embedded <code>Linux</code> systems are built</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Knowledge and practice of <code>UNIX</code> or
+GNU/<code>Linux</code> commands</li>
+<li>Some embedded experience (in <code>Linux</code> or other systems) is
+a must.</li>
+<li>Kernel <code>Linux</code> programming is an advantage.</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Be able to understand the overall architecture of Embedded
+<code>Linux</code> systems.</li>
+<li>Be able to choose, build, setup and use a cross-compilation
+toolchain.</li>
+<li>Be able to understand the booting sequence of an embedded
+<code>Linux</code> system, and to set up and use the U-Boot
+bootloader.</li>
+<li>Be able to select a <code>Linux</code> kernel version, to configure,
+build and install the <code>Linux</code> kernel on an embedded
+system.</li>
+<li>Be able to create from scratch a <code>Linux</code> root filesystem,
+including all its elements: directories, applications, configuration
+files, libraries.</li>
+<li>Be able to choose and setup the main <code>Linux</code> filesystems
+for block and flash storage devices, and understand their main
+characteristics.</li>
+<li>Be able to interact with hardware devices, configure the kernel with
+appropriate drivers and extend the Device Tree</li>
+<li>Be able to select, cross-compile and integrate open-source software
+components (libraries, applications) in an Embedded <code>Linux</code>
+system, and to handle license compliance.</li>
+<li>Be able to setup and use an embedded <code>Linux</code> build
+system, to build a complete system for an embedded platform.</li>
+<li>Be able to develop and debug applications on an embedded
+<code>Linux</code> system.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to embedded <code>Linux</code>
+<ul>
+<li>Advantages of <code>Linux</code> versus traditional embedded
+operating systems.</li>
+<li>Typical hardware platforms used to run embedded <code>Linux</code>
+systems.</li>
+<li>Overall architecture of embedded <code>Linux</code> systems:
+overview of the major software components.</li>
+<li>Development environment for Embedded <code>Linux</code>
+development.</li>
+</ul></li>
+<li>Cross-compiling toolchain and C library
+<ul>
+<li>What’s inside a cross-compiling toolchain</li>
+<li>Choosing the target C library</li>
+<li>What’s inside the C library</li>
+<li>Ready to use cross-compiling toolchains</li>
+<li>Building a cross-compiling toolchain with automated tools.</li>
+</ul></li>
+<li>Boot process, firmware, bootloaders
+<ul>
+<li>Booting process of embedded platforms, focus on the x86 and ARM
+architectures</li>
+<li>Boot process and bootloaders on x86 platforms (legacy and UEFI)</li>
+<li>Boot process on ARM platforms: ROM code, bootloaders, ARM Trusted
+Firmware</li>
+<li>Focus on U-Boot: configuration, installation, and usage.</li>
+<li>U-Boot commands, U-Boot environment, U-Boot scripts, U-Boot generic
+distro boot mechanism</li>
+</ul></li>
+<li><code>Linux</code> kernel
+<ul>
+<li>Role and general architecture of the <code>Linux</code> kernel</li>
+<li>Separation between kernel and user-space, and interfaces between
+user-space and the <code>Linux</code> kernel</li>
+<li>Understanding <code>Linux</code> kernel versions: choosing between
+vendor-provided kernel and upstream kernel, Long Term Support
+versions</li>
+<li>Getting the <code>Linux</code> kernel source code</li>
+</ul></li>
+<li>Configuring, compiling and booting the <code>Linux</code> kernel
+<ul>
+<li>Configuring the <code>Linux</code> kernel: ready-made configuration
+files, configuration interfaces</li>
+<li>Concept of Device Tree</li>
+<li>Cross-compiling the <code>Linux</code> kernel</li>
+<li>Study of the generated files and their role</li>
+<li>Installing and booting the <code>Linux</code> kernel</li>
+<li>The <code>Linux</code> kernel command line</li>
+</ul></li>
+<li>Root filesystem in <code>Linux</code>
+<ul>
+<li>Filesystems in <code>Linux</code>.</li>
+<li>Role and organization of the root filesystem.</li>
+<li>Location of the root filesystem: on storage, in memory, from the
+network.</li>
+<li>Device files, virtual filesystems.</li>
+<li>Contents of a typical root filesystem</li>
+</ul></li>
+<li>BusyBox
+<ul>
+<li>Detailed overview. Detailed features.</li>
+<li>Configuration, compiling and deploying.</li>
+</ul></li>
+<li>Accessing hardware devices
+<ul>
+<li>How to access hardware on popular busses: USB, <code>SPI</code>,
+I2C, PCI</li>
+<li>Usage of kernel drivers and direct userspace access</li>
+<li>The Device Tree syntax, and how to use it to describe additional
+devices and pin-muxing</li>
+<li>Finding <code>Linux</code> kernel drivers for specific hardware
+devices</li>
+<li>Using kernel modules</li>
+<li>Hardware access using /dev and /sys</li>
+<li>User-space interfaces for the most common hardware devices: storage,
+network, <code>GPIO</code>, LEDs, audio, graphics, video</li>
+</ul></li>
+<li>Block filesystems
+<ul>
+<li>Accessing and partitioning block devices.</li>
+<li>Filesystems for block devices.</li>
+<li>Usefulness of journaled filesystems.</li>
+<li>Read-only block filesystems.</li>
+<li>RAM filesystems.</li>
+<li>How to create each of these filesystems.</li>
+<li>Suggestions for embedded systems.</li>
+</ul></li>
+<li>Flash filesystems
+<ul>
+<li>The Memory Technology Devices (MTD) filesystem.</li>
+<li>Filesystems for MTD storage: JFFS2, Yaffs2, UBIFS.</li>
+<li>Kernel configuration options</li>
+<li>MTD storage partitions.</li>
+<li>Focus on today’s best solution, UBI and UBIFS: preparing, flashing
+and using UBI images.</li>
+</ul></li>
+<li>Cross-compiling user-space libraries and applications
+<ul>
+<li>Configuring, cross-compiling and installing applications and
+libraries.</li>
+<li>Concept of build system, and overview of a few common build systems
+used by open-source projects: Makefile, autotools, <code>CMake</code>,
+meson</li>
+<li>Overview of the common issues encountered when cross-compiling.</li>
+</ul></li>
+<li>Embedded system building tools
+<ul>
+<li>Approaches for building embedded <code>Linux</code> systems: build
+systems and binary distributions</li>
+<li>Principle of build systems, overview of <code>Yocto</code>
+Project/OpenEmbedded and <code>Buildroot</code>.</li>
+<li>Principle of binary distributions and useful tools, focus on
+Debian/Ubuntu</li>
+<li>Specialized software frameworks/distributions: Tizen, AGL,
+<code>Android</code></li>
+</ul></li>
+<li>Open source licenses and compliance
+<ul>
+<li>Presentation of the most important open-source licenses: GPL, LGPL,
+MIT, BSD, Apache, etc.</li>
+<li>Concept of copyleft licenses</li>
+<li>Differences between (L)GPL version 2 and 3</li>
+<li>Compliance with open-source licenses: best practices</li>
+</ul></li>
+<li>Overview of major embedded <code>Linux</code> software stacks
+<ul>
+<li>systemd as an init system</li>
+<li>Hardware management with udev</li>
+<li>Inter-process communication with D-Bus</li>
+<li>The connectivity software stack: Ethernet, WiFi, modems,
+Bluetooth</li>
+<li>The graphics software stack: DRM/KMS, X.org, Wayland, Qt, GTK,
+OpenGL</li>
+<li>The multimedia software stack: Video4Linux, GStreamer, Pulseaudio,
+Pipewire</li>
+</ul></li>
+<li>Application development and debugging
+<ul>
+<li>Programming languages and libraries available.</li>
+<li>Build system for your application, an overview of <code>CMake</code>
+and meson</li>
+<li>The <code>gdb</code> debugger: remote debugging with gdbserver,
+post-mortem debugging with core files</li>
+<li>Performance analysis, tracing and profiling tools, memory checkers:
+strace, <code>ltrace</code>, perf, valgrind</li>
+</ul></li>
+<li>Useful resources
+<ul>
+<li>Books about embedded <code>Linux</code> and system programming</li>
+<li>Useful online resources</li>
+<li>International conferences</li>
+</ul></li>
+</ul>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://bootlin.com/doc/training/embedded-linux/">slides
+for this course</a></li>
+</ul>
+<h2 id="installations">Installations</h2>
+<ul>
+<li>A real, virtual or remote machine running <code>Ubuntu</code> LTS
+&gt;= 22.04</li>
+<li>The machine should have <em>free</em> access to the internet to
+install software.</li>
+<li>The students should have an account on the machines with sudo
+privileges.</li>
+<li>In any case the student must have sudo/root on this virtual machine
+and the machines should be connected to the internet.</li>
+<li>There is no need for special installations on the machine. The
+instructor will guide the students to install whatever is needed.</li>
+<li>The machine should have at least 15GB free disk space.</li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

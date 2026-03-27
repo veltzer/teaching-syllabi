@@ -1,0 +1,174 @@
+<h1 id="fastapi-development"><code>FastAPI</code> Development</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>FastAPI</code> is a modern, high-performance web framework for
+building <code>APIs</code> with <code>Python</code> based on standard
+<code>Python</code> type hints. This course covers fundamental to
+advanced <code>FastAPI</code> concepts and teaches how to build robust,
+scalable, and well-documented <code>REST APIs</code> with automatic
+validation, serialization, and interactive documentation generation.</p>
+<h2 id="duration">Duration</h2>
+<p>8 hours / 1 day</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li><code>Python</code> developers building web <code>APIs</code> and
+microservices</li>
+<li>Backend developers transitioning from <code>Flask</code>,
+<code>Django</code>, or other frameworks</li>
+<li>Full-stack developers needing modern <code>API</code> development
+skills</li>
+<li><code>DevOps</code> engineers deploying <code>Python</code> web
+applications</li>
+<li>Data scientists and machine learning engineers exposing models via
+<code>APIs</code></li>
+<li>Software architects designing microservice architectures</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Intermediate proficiency in <code>Python</code> programming
+(functions, classes, decorators)</li>
+<li>Understanding of <code>HTTP</code> protocol and
+<code>REST API</code> concepts</li>
+<li>Basic knowledge of <code>JSON</code> data format and web
+requests</li>
+<li>Familiarity with <code>Python</code> type hints and annotations</li>
+<li>Experience with <code>Python</code> package management
+(<code>pip</code>, virtual environments)</li>
+<li>Basic understanding of databases and <code>SQL</code> queries</li>
+<li>Command-line interface usage and basic terminal operations</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Build complete <code>REST APIs</code> using <code>FastAPI</code>
+framework and <code>Python</code> type hints</li>
+<li>Implement automatic request/response validation using
+<code>Pydantic</code> models</li>
+<li>Create interactive <code>API</code> documentation with
+<code>Swagger UI</code> and <code>ReDoc</code></li>
+<li>Handle authentication and authorization using <code>JWT</code>
+tokens and <code>OAuth2</code></li>
+<li>Integrate databases using <code>SQLAlchemy</code> <code>ORM</code>
+and <code>Alembic</code> migrations</li>
+<li>Implement dependency injection for clean, testable code
+architecture</li>
+<li>Handle file uploads, downloads, and streaming responses</li>
+<li>Apply error handling, logging, and middleware for production-ready
+applications</li>
+<li>Write comprehensive tests using <code>pytest</code> and
+<code>FastAPI</code> testing utilities</li>
+<li>Deploy <code>FastAPI</code> applications using <code>Docker</code>,
+<code>Uvicorn</code>, and cloud platforms</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>FastAPI</code> and Modern <code>API</code>
+Development
+<ul>
+<li>Overview of <code>FastAPI</code> architecture and philosophy</li>
+<li>Comparison with <code>Flask</code>,
+<code>Django REST Framework</code>, and other <code>Python</code>
+frameworks</li>
+<li>Understanding <code>ASGI</code> vs <code>WSGI</code> and
+asynchronous programming benefits</li>
+<li>Setting up development environment with <code>Python</code> virtual
+environments</li>
+<li>Installing <code>FastAPI</code>, <code>Uvicorn</code>, and essential
+dependencies</li>
+<li>Creating your first <code>FastAPI</code> application and “Hello
+World” endpoint</li>
+<li>Understanding automatic interactive documentation
+(<code>Swagger UI</code>, <code>ReDoc</code>)</li>
+</ul></li>
+<li>Core <code>FastAPI</code> Concepts and Path Operations
+<ul>
+<li>Application instance creation and configuration</li>
+<li>Path operations and <code>HTTP</code> methods (<code>GET</code>,
+<code>POST</code>, <code>PUT</code>, <code>DELETE</code>,
+<code>PATCH</code>)</li>
+<li>Path parameters, query parameters, and request body handling</li>
+<li><code>Python</code> type hints for automatic validation and
+documentation</li>
+<li>Response models and status codes</li>
+<li>Path operation decorators and function signatures</li>
+<li>Handling multiple <code>HTTP</code> methods on single endpoints</li>
+</ul></li>
+<li>Request and Response Handling with <code>Pydantic</code>
+<ul>
+<li>Introduction to <code>Pydantic</code> models for data
+validation</li>
+<li>Creating request and response schemas</li>
+<li>Field validation, constraints, and custom validators</li>
+<li>Nested models and complex data structures</li>
+<li>Handling optional fields and default values</li>
+<li><code>JSON</code> serialization and deserialization</li>
+<li>Error messages and validation feedback</li>
+</ul></li>
+<li>Advanced Routing and Path Operations
+<ul>
+<li><code>APIRouter</code> for organizing large applications</li>
+<li>Route prefixes, tags, and operation grouping</li>
+<li>Path converters and regular expression patterns</li>
+<li>Sub-applications and mounting</li>
+<li>Including routers and modular application structure</li>
+<li>Route dependencies and shared logic</li>
+<li>Handling <code>WebSocket</code> connections for real-time
+features</li>
+</ul></li>
+<li>Database Integration and <code>ORM</code>
+<ul>
+<li>Setting up database connections with <code>SQLAlchemy</code></li>
+<li>Creating database models and relationships</li>
+<li>Database session management and connection pooling</li>
+<li><code>CRUD</code> operations (Create, Read, Update, Delete)
+implementation</li>
+<li>Database migrations with <code>Alembic</code></li>
+<li>Async database operations and performance considerations</li>
+<li>Handling database transactions and error scenarios</li>
+</ul></li>
+<li>Authentication and Security
+<ul>
+<li>Understanding <code>OAuth2</code> and <code>JWT</code> token
+authentication</li>
+<li>Implementing user registration and login endpoints</li>
+<li>Password hashing with <code>bcrypt</code> and security best
+practices</li>
+<li>Creating and validating <code>JWT</code> tokens</li>
+<li>Protecting routes with authentication dependencies</li>
+<li>Role-based access control and permissions</li>
+<li><code>CORS</code> (Cross-Origin Resource Sharing) configuration</li>
+<li>Security headers and <code>HTTPS</code> considerations</li>
+</ul></li>
+<li>Dependency Injection and Advanced Features
+<ul>
+<li>Understanding <code>FastAPI</code> dependency injection system</li>
+<li>Creating reusable dependencies for database sessions,
+authentication</li>
+<li>Sub-dependencies and dependency composition</li>
+<li>Using dependencies for validation, logging, and cross-cutting
+concerns</li>
+<li>Background tasks for asynchronous processing</li>
+<li>File upload and download handling</li>
+<li>Streaming responses and server-sent events</li>
+<li>Custom middleware creation and implementation</li>
+</ul></li>
+<li>Testing, Deployment, and Production Considerations
+<ul>
+<li>Writing unit tests with <code>pytest</code> and <code>FastAPI</code>
+<code>TestClient</code></li>
+<li>Testing authenticated endpoints and database operations</li>
+<li>Mocking dependencies and external services</li>
+<li>Environment configuration and settings management</li>
+<li>Logging configuration and structured logging</li>
+<li>Error handling, exception handling, and custom error responses</li>
+<li>Performance monitoring and health check endpoints</li>
+<li><code>Docker</code> containerization and deployment strategies</li>
+<li>Production deployment with <code>Gunicorn</code>,
+<code>Uvicorn</code>, and cloud platforms</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

@@ -1,0 +1,350 @@
+<h1 id="architectural-decisions-in-devops">Architectural Decisions in
+<code>DevOps</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course explores the key architectural decisions that
+<code>DevOps</code> teams face when designing and evolving their
+software delivery pipelines, infrastructure, and operational practices.
+Rather than prescribing a single “right” approach, this course examines
+the tradeoffs, constraints, and organizational implications of each
+decision. Participants will learn to evaluate options such as monorepo
+vs polyrepo, declarative vs imperative infrastructure, push vs pull
+deployment models, and many more, using real-world case studies and
+structured decision frameworks.</p>
+<p>This course is not a hands-on tool tutorial. It focuses on the
+architectural thinking behind tool and process choices so that teams can
+make informed decisions that align with their organizational context,
+scale, and maturity.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li><code>DevOps</code> engineers and platform engineers making
+infrastructure and pipeline decisions.</li>
+<li>Software architects who need to understand the operational
+implications of their designs.</li>
+<li>Engineering managers and tech leads responsible for tooling and
+process choices.</li>
+<li>Site reliability engineers evaluating operational tradeoffs.</li>
+<li>Anyone involved in designing or evolving a software delivery
+organization.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Basic familiarity with software development workflows (version
+control, <code>CI/CD</code> concepts).</li>
+<li>General understanding of cloud computing and containerization
+concepts.</li>
+<li>Experience working in a team that delivers software to
+production.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Decision Frameworks for <code>DevOps</code>
+<ul>
+<li>What makes a decision “architectural” in <code>DevOps</code></li>
+<li>Reversibility and cost of change</li>
+<li>Organizational context and Conway’s Law</li>
+<li>Evaluating tradeoffs systematically</li>
+<li>Documenting decisions with Architecture Decision Records (ADRs)</li>
+</ul></li>
+<li>Source Code Management Strategy
+<ul>
+<li>Monorepo vs polyrepo
+<ul>
+<li>Scaling considerations</li>
+<li>Tooling requirements for monorepos</li>
+<li>Dependency management across repositories</li>
+<li>Impact on team autonomy and coupling</li>
+</ul></li>
+<li>Branching strategies
+<ul>
+<li>Trunk-based development vs feature branching</li>
+<li><code>Git</code> Flow and its variations</li>
+<li>Release branching vs release from trunk</li>
+<li>Branch protection and merge policies</li>
+</ul></li>
+<li>Code ownership models
+<ul>
+<li>Strong ownership vs collective ownership</li>
+<li>CODEOWNERS and review policies</li>
+</ul></li>
+</ul></li>
+<li><code>CI/CD</code> Pipeline Architecture
+<ul>
+<li>Centralized vs decentralized pipeline management
+<ul>
+<li>Shared pipeline libraries and templates</li>
+<li>Platform teams vs embedded <code>DevOps</code></li>
+<li>Balancing standardization with team autonomy</li>
+</ul></li>
+<li>Build vs buy for <code>CI/CD</code> tooling
+<ul>
+<li>Self-hosted vs SaaS <code>CI/CD</code> systems</li>
+<li>Vendor lock-in considerations</li>
+<li>Migration cost and portability</li>
+</ul></li>
+<li>Pipeline design patterns
+<ul>
+<li>Fan-out and fan-in</li>
+<li>Pipeline as code vs UI-configured pipelines</li>
+<li>Triggered vs scheduled vs event-driven pipelines</li>
+</ul></li>
+<li>Build caching and dependency management
+<ul>
+<li>Remote build caches</li>
+<li>Dependency vendoring vs dynamic resolution</li>
+<li>Reproducible builds</li>
+</ul></li>
+<li>GitOps vs traditional push-based <code>CI/CD</code>
+<ul>
+<li>Pull-based reconciliation model</li>
+<li>Drift detection and self-healing</li>
+<li>When GitOps is appropriate and when it is not</li>
+</ul></li>
+</ul></li>
+<li>Artifact Management and Promotion
+<ul>
+<li>Artifact repository strategies
+<ul>
+<li>Single vs multiple artifact repositories</li>
+<li>Promotion between stages (dev, staging, production)</li>
+</ul></li>
+<li>Versioning strategies
+<ul>
+<li>Semantic versioning vs commit-based versioning</li>
+<li>Immutable artifacts and traceability</li>
+</ul></li>
+<li>Container image management
+<ul>
+<li>Base image strategies and supply chain security</li>
+<li>Image scanning and policy enforcement</li>
+<li>Slim images vs full images</li>
+</ul></li>
+</ul></li>
+<li>Infrastructure as Code Decisions
+<ul>
+<li>Declarative vs imperative approaches
+<ul>
+<li><code>Terraform</code> and its state model</li>
+<li>Pulumi and general-purpose languages</li>
+<li>CloudFormation and cloud-native <code>IaC</code></li>
+</ul></li>
+<li>State management tradeoffs
+<ul>
+<li>Remote state backends</li>
+<li>State locking and collaboration</li>
+<li>State file per environment vs shared state</li>
+</ul></li>
+<li>Module and abstraction strategies
+<ul>
+<li>Reusable modules vs inline configuration</li>
+<li>Abstraction layers and platform engineering</li>
+</ul></li>
+<li>Drift detection and reconciliation
+<ul>
+<li>Continuous vs on-demand drift detection</li>
+<li>Auto-remediation risks and benefits</li>
+</ul></li>
+</ul></li>
+<li>Containerization Decisions
+<ul>
+<li>When to containerize and when not to
+<ul>
+<li>Suitability for different workload types</li>
+<li>Overhead and complexity costs</li>
+</ul></li>
+<li>Container runtime choices
+<ul>
+<li><code>Docker</code> vs containerd vs other runtimes</li>
+<li>Rootless containers and security implications</li>
+</ul></li>
+<li>Base image strategies
+<ul>
+<li>Distroless vs alpine vs full OS images</li>
+<li>Custom base images and organizational standards</li>
+<li>Multi-stage builds and build optimization</li>
+</ul></li>
+</ul></li>
+<li>Orchestration and Compute Choices
+<ul>
+<li><code>Kubernetes</code> vs managed container services vs serverless
+<ul>
+<li>Operational complexity and team capability</li>
+<li>Cost models and scaling characteristics</li>
+<li>Portability vs managed convenience</li>
+</ul></li>
+<li><code>Kubernetes</code> architecture decisions
+<ul>
+<li>Cluster per team vs shared clusters</li>
+<li>Namespace strategies and multi-tenancy</li>
+<li>Managed <code>Kubernetes</code> vs self-managed</li>
+</ul></li>
+<li>Serverless architecture tradeoffs
+<ul>
+<li>Cold start implications</li>
+<li>Vendor lock-in depth</li>
+<li>Event-driven vs request-driven models</li>
+</ul></li>
+</ul></li>
+<li>Environment Strategy
+<ul>
+<li>How many environments and why
+<ul>
+<li>Production-like vs lightweight environments</li>
+<li>Cost implications of environment proliferation</li>
+</ul></li>
+<li>Ephemeral vs persistent environments
+<ul>
+<li>Preview environments for pull requests</li>
+<li>On-demand staging environments</li>
+<li>Cleanup and lifecycle management</li>
+</ul></li>
+<li>Environment parity and configuration drift
+<ul>
+<li>Ensuring consistency across environments</li>
+<li>Data management in non-production environments</li>
+</ul></li>
+</ul></li>
+<li>Deployment Strategies
+<ul>
+<li>Blue/green deployments
+<ul>
+<li>Infrastructure cost implications</li>
+<li>Database compatibility requirements</li>
+</ul></li>
+<li>Canary deployments
+<ul>
+<li>Traffic splitting mechanisms</li>
+<li>Metrics and rollback criteria</li>
+</ul></li>
+<li>Rolling deployments
+<ul>
+<li>Update ordering and health checks</li>
+<li>Backward compatibility requirements</li>
+</ul></li>
+<li>Feature flags as a deployment strategy
+<ul>
+<li>Flag lifecycle management</li>
+<li>Testing complexity with flag combinations</li>
+<li>Technical debt from long-lived flags</li>
+</ul></li>
+<li>Progressive delivery and experimentation</li>
+</ul></li>
+<li>Configuration and Secrets Management
+<ul>
+<li>Baked-in vs runtime configuration
+<ul>
+<li>Immutable deployments with baked config</li>
+<li>Dynamic configuration and feature toggles</li>
+<li>Restart vs hot-reload tradeoffs</li>
+</ul></li>
+<li>Secrets management approaches
+<ul>
+<li>Vault and secrets managers vs encrypted config</li>
+<li>Secret rotation strategies</li>
+<li>Secrets in <code>CI/CD</code> pipelines</li>
+</ul></li>
+<li>Configuration as code vs configuration services</li>
+</ul></li>
+<li>Observability Architecture
+<ul>
+<li>Metrics vs logs vs traces
+<ul>
+<li>When to use each signal type</li>
+<li>Cost and storage implications</li>
+<li>Correlation across signal types</li>
+</ul></li>
+<li>Push vs pull collection models
+<ul>
+<li><code>Prometheus</code> pull model vs agent-based push</li>
+<li>Scalability considerations</li>
+</ul></li>
+<li>Centralized vs distributed observability
+<ul>
+<li>Single pane of glass vs team-owned dashboards</li>
+<li>Observability platform build vs buy</li>
+</ul></li>
+<li>Alerting strategy
+<ul>
+<li>Alert fatigue and noise reduction</li>
+<li>SLO-based alerting vs threshold-based alerting</li>
+<li>On-call and escalation architecture</li>
+</ul></li>
+</ul></li>
+<li>Service Mesh Decisions
+<ul>
+<li>When a service mesh is warranted
+<ul>
+<li>Complexity vs benefit analysis</li>
+<li>Alternative approaches to service-to-service communication</li>
+</ul></li>
+<li>Sidecar proxy vs proxyless mesh
+<ul>
+<li>Resource overhead considerations</li>
+<li>Performance implications</li>
+</ul></li>
+<li>mTLS, traffic management, and observability through mesh</li>
+</ul></li>
+<li>Multi-Cloud and Cloud Strategy
+<ul>
+<li>Single cloud vs multi-cloud vs hybrid
+<ul>
+<li>Cost of abstraction layers</li>
+<li>Avoiding vendor lock-in vs embracing cloud-native services</li>
+<li>Regulatory and data sovereignty requirements</li>
+</ul></li>
+<li>Cloud-agnostic tooling tradeoffs
+<ul>
+<li>Lowest common denominator problem</li>
+<li>Abstraction layers and their maintenance cost</li>
+</ul></li>
+<li>Disaster recovery and high availability across regions</li>
+</ul></li>
+<li>Database Migration Strategies in <code>CI/CD</code>
+<ul>
+<li>Schema migration approaches
+<ul>
+<li>Versioned migrations vs state-based migrations</li>
+<li>Forward-only vs reversible migrations</li>
+</ul></li>
+<li>Zero-downtime migration patterns
+<ul>
+<li>Expand and contract pattern</li>
+<li>Dual-write strategies</li>
+</ul></li>
+<li>Data migration and seeding in pipelines</li>
+</ul></li>
+<li>Testing Strategy Tradeoffs
+<ul>
+<li>The test pyramid in <code>CI/CD</code> pipelines
+<ul>
+<li>Unit vs integration vs end-to-end balance</li>
+<li>Cost of test maintenance at each level</li>
+</ul></li>
+<li>Shift-left testing
+<ul>
+<li>Static analysis and linting in pipelines</li>
+<li>Security scanning integration points</li>
+<li>Contract testing vs integration testing</li>
+</ul></li>
+<li>Test environment management
+<ul>
+<li>Test data strategies</li>
+<li>Service virtualization and mocking</li>
+<li>Parallel test execution and pipeline speed</li>
+</ul></li>
+<li>Testing in production
+<ul>
+<li>Synthetic monitoring</li>
+<li>Chaos engineering as a testing practice</li>
+<li>Observability-driven testing</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

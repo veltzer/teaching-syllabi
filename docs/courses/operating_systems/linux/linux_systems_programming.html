@@ -1,0 +1,320 @@
+<h1 id="linux-systems-programming"><code>Linux</code> systems
+programming</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course is about user space programming in <code>Linux</code> in
+<code>C</code>. It covers all major areas of programming (processes,
+threads, IO, networking, synchronization and more). It includes
+exercises (usually one exercise for every major chapter).</p>
+<p><code>C++</code> is not covered as it is yet another thin layer on
+top of <code>C</code> and does not change the system <code>API</code> in
+any way nor change any of the best practices learned in this course.</p>
+<p>The course can be shortened to 5 days if we remove the exercises, but
+this should be done only for experienced developers and in this case the
+instructor will show examples instead.</p>
+<h2 id="duration">Duration</h2>
+<p>64 hours / 8 days</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Experience in <code>C</code> programming is a must.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Boot sequence
+<ul>
+<li><code>grub</code>/<code>uboot</code> - loading and booting the
+image</li>
+<li>secure boot - what is a TPM?</li>
+</ul></li>
+<li>Protected operating system theory
+<ul>
+<li>Protected OS definition.</li>
+<li>Why is the definition important?</li>
+<li>How does privilege work?</li>
+<li>How does memory protection work?</li>
+<li>How do system calls work?</li>
+</ul></li>
+<li>Tools (this chapter is needed for the following exercises)
+<ul>
+<li>The <code>GCC</code> compiler.</li>
+<li>Some make syntax.</li>
+<li>Compiling apps.</li>
+<li>Compiling libraries.</li>
+<li>Making the apps find the libraries.</li>
+<li>Best practices.</li>
+<li>Comparing build tools: make, cmake, ninja, …</li>
+</ul></li>
+<li>Processes
+<ul>
+<li>The process tree.</li>
+<li>/sbin/init and startup/shutdown.</li>
+<li>review of systemd and it’s properties.</li>
+<li>initializing containers
+<ul>
+<li>default user in <code>Docker</code></li>
+<li>initialization in <code>Docker</code></li>
+<li>dumb-init</li>
+</ul></li>
+<li>Creating processes.</li>
+<li>Waiting for processes to change state/die.
+<ul>
+<li>With signals handling.</li>
+<li>With the <code>wait(2)</code> family of functions.</li>
+<li>Using a <code>signalfd(2)</code> and multiplexing.</li>
+</ul></li>
+<li>Analyzing the processes return value.</li>
+<li>Process state transition.</li>
+<li>Adoption.</li>
+<li>Zombies and solutions.</li>
+<li>Fork performance and <code>vfork(2)</code>.</li>
+<li><code>fork(2)/exec(2)</code> way of doing things.</li>
+<li><code>system(3),popen(3)</code></li>
+<li>shells and how are they implemented.</li>
+<li>Is <code>fork(2)</code> a good <code>API</code>? (compared to other
+operating systems).</li>
+<li>There are no threads in <code>Linux</code> and
+<code>clone(2)</code>.</li>
+<li>Advanced material:
+<ul>
+<li>Process groups.</li>
+<li>Sessions.</li>
+<li>Controlling terminals.</li>
+<li>Writing your own process reapers.</li>
+<li>Children getting signals about their parents dying.</li>
+</ul></li>
+</ul></li>
+<li>Pipes
+<ul>
+<li>What is a pipe/fifo.</li>
+<li>The <code>pipe(2)</code> system call.</li>
+<li>EOF condition.</li>
+<li>SIGPIPE.</li>
+<li>File descriptor table after fork.</li>
+<li>File descriptor table after exec.</li>
+<li>Using <code>dup(2)</code>.</li>
+<li><code>popen(3)</code>.</li>
+<li>inetd example - Sockets instead of pipes but still the same.</li>
+<li>Limitations of <code>pipe(2)</code>.</li>
+<li>Named pipes.</li>
+</ul></li>
+<li>Allocating memory
+<ul>
+<li><code>malloc(3)</code> and it’s issues.</li>
+<li><code>mmap(2)</code></li>
+<li>writing your own heap.</li>
+<li><code>TLS</code>.</li>
+<li>obstacks</li>
+<li>allocating on the stack (<code>alloca(3)</code> and C99 stack
+allocation).</li>
+</ul></li>
+<li>Signal Handling
+<ul>
+<li>Why signals?</li>
+<li>The problems created by asynchronous delivery.</li>
+<li>Overcoming the async problem of signals.
+<ul>
+<li>routing back to main context.</li>
+<li><code>sigprocmask(2)/rt_sigprocmask(2)</code></li>
+<li>signal safe functions</li>
+</ul></li>
+<li>How are signals implemented?
+<ul>
+<li>When a process is in user space.</li>
+<li>When a process is in kernel space.</li>
+<li>In real time <code>Linux</code>.</li>
+</ul></li>
+<li>Receiving signals synchronously.</li>
+<li>The problem of signal delivery.</li>
+<li>Jumping out of signal context to regular context.</li>
+<li>Signal interruption.</li>
+<li>The various signals and their semantics and usage.</li>
+</ul></li>
+<li>Real time signals
+<ul>
+<li>The problem</li>
+<li>The solution.</li>
+<li>Queuing real time signals.</li>
+<li>Real time signals and queues in <code>Linux</code>.</li>
+</ul></li>
+<li>Threads
+<ul>
+<li>The <code>pthread</code> library.</li>
+<li>Creating threads.</li>
+<li>Waiting for threads to die.</li>
+<li>Detached threads.</li>
+<li>Thread mutexes and their kinds.</li>
+<li>How are futexes implemented?
+<ul>
+<li>Using futexes for process synchronization.</li>
+</ul></li>
+<li>Barriers</li>
+<li>Conditions</li>
+<li>Readers/Writer locks.</li>
+<li>Spin locks.</li>
+<li>pthreads and signals</li>
+<li>cleanup facilities</li>
+<li>cancellation facilities</li>
+<li>thread affinities.</li>
+<li>threads are not file descriptors and what can you do about it.</li>
+</ul></li>
+<li>File <code>API</code>
+<ul>
+<li>The per process file descriptor table.</li>
+<li><code>open/read/write/close</code></li>
+<li>Explanation of the semantics of read/write.</li>
+<li>Overcoming the read/write issues
+<ul>
+<li><code>mmap(2)</code></li>
+<li><code>ioctl(2)</code></li>
+<li><code>FILE</code> <code>APIs</code>.</li>
+<li>C++ streaming <code>APIs</code>.</li>
+</ul></li>
+<li>Manipulating files.</li>
+<li>No locking in <code>UNIX</code>.</li>
+<li>Directories.</li>
+<li>Symbolic links.</li>
+<li>Other file types.</li>
+<li>Passing file descriptors between unrelated processes.</li>
+<li><code>inotify</code> and its pitfalls</li>
+</ul></li>
+<li>The IO subsystem
+<ul>
+<li>How does it work?</li>
+<li>The kernel page and buffer caches.</li>
+<li>The performance of the io subsystem</li>
+<li><code>ionice(2)</code> and it’s uses to control IO priority.</li>
+<li>Overcoming the copy problem with <code>O_DIRECT</code> and it’s
+problems.</li>
+<li>Overcoming the copy problem with <code>mmap</code>.</li>
+</ul></li>
+<li>Sys V IPC
+<ul>
+<li>Semaphores</li>
+<li>Shared Memory</li>
+<li>Message queues</li>
+<li>Performance compared to <code>POSIX</code> equivalents.</li>
+</ul></li>
+<li><code>POSIX</code> IPC
+<ul>
+<li>Semaphores</li>
+<li>Shared Memory</li>
+<li>Message queues.</li>
+<li>Performance compared to SYS V equivalents.</li>
+</ul></li>
+<li>Networking
+<ul>
+<li>Writing <code>SOCK_STREAM</code> (<code>TCP</code>) servers and
+clients.</li>
+<li>Writing <code>SOCK_DGRAM</code> (<code>UDP</code>) apps.</li>
+<li>The various domains
+<ul>
+<li><code>AF_UNIX</code> vs <code>AF_INET</code></li>
+</ul></li>
+<li>Using raw sockets.</li>
+<li>Debugging tools for networking apps.</li>
+<li>Netlink especially <code>RT_NETLINK</code></li>
+<li>Network namespaces</li>
+<li>VRFs devices and differences from namespaces</li>
+</ul></li>
+<li>Time
+<ul>
+<li>What is the current time?</li>
+<li>How long does it take to know what time is it?</li>
+<li>The various clocks under the operating system</li>
+<li>Sleeping precisely.</li>
+<li>Working with the right clock.</li>
+<li><code>timerfd(2)</code> - a file descriptor for a clock.</li>
+<li>Measuring very short functions accurately.</li>
+</ul></li>
+<li>Multiple IO <code>APIs</code>
+<ul>
+<li><code>readv(2)/writev(2)</code></li>
+<li><code>io_uring(7)</code></li>
+</ul></li>
+<li>Async IO
+<ul>
+<li>What is async io?</li>
+<li>Comparing async io with zero copy and multiplexing</li>
+<li>Using the <code>aio(2)</code> functions</li>
+<li>Using the <code>uring(2)</code> functions</li>
+</ul></li>
+<li>Multiplexing IO
+<ul>
+<li>What is the problem to solve?</li>
+<li>What are the two possible solutions (multiplexing and ioports) and
+why is multiplexing better.</li>
+<li>Comparing the various <code>APIs</code> for multiplexing in
+<code>Linux</code>
+<ul>
+<li><code>select(2)</code></li>
+<li><code>poll(2)</code></li>
+<li><code>epoll(2)</code></li>
+<li><code>uring(2)</code></li>
+<li><code>aio(2)</code></li>
+</ul></li>
+<li>Doing classical multiplexing
+<ul>
+<li>How to do multiplexing correctly?</li>
+<li>Design patterns on top of multiplexing (Reactor/Proactor).</li>
+<li>Libraries built on top of multiplexing (libuv)</li>
+</ul></li>
+</ul></li>
+<li>Zero copy
+<ul>
+<li>What is the problem to solve?</li>
+<li>The various <code>APIs</code>:
+<ul>
+<li><code>sendfile(2)</code></li>
+<li><code>pipe(2)</code></li>
+<li><code>splice(2)</code></li>
+<li><code>tee(2)</code></li>
+<li><code>vmsplice(2)</code></li>
+<li><code>uring(2)</code></li>
+</ul></li>
+<li>Other ways of solving the problem:
+<ul>
+<li><code>mmap(2)</code></li>
+<li>DPDK</li>
+<li>other solutions</li>
+</ul></li>
+</ul></li>
+<li>Working with device drivers
+<ul>
+<li>Everything is a file in <code>UNIX</code> - what does this
+mean?</li>
+<li>The <code>/dev</code> folder and it’s content.</li>
+<li>Working with a simple serial port.</li>
+<li><code>ioctl(2)</code> and it’s uses.</li>
+<li><code>read(2)/write(2)</code> performance.</li>
+<li><code>mmap(2)</code> and it’s uses.</li>
+<li>The various taxonomies of device drivers.</li>
+</ul></li>
+<li>Advanced IO
+<ul>
+<li>File Locking</li>
+<li>Asynchronous I/O</li>
+<li>Network server design</li>
+</ul></li>
+<li>Framework issues
+<ul>
+<li>Namespaces and cgroups (what it is? when to use it?)</li>
+<li>Capabilities and how to use them properly</li>
+</ul></li>
+<li>Secure development
+<ul>
+<li>Stack separation between threads</li>
+<li>AppArmor vs SELinux</li>
+<li>ASLR
+<ul>
+<li>for libraries</li>
+<li>for binaries</li>
+<li>how to turn it off for debugging</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

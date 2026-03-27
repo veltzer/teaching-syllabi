@@ -1,0 +1,528 @@
+<h1 id="linux-system-administration"><code>Linux</code> System
+Administration</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This intensive course covers essential <code>Linux</code> system
+administration concepts and practices. Students will learn to manage,
+secure, and maintain <code>Linux</code> systems in production
+environments. The course focuses on practical skills required for
+professional system administration.</p>
+<h2 id="duration">Duration</h2>
+<p>40 hours / 5 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>System administrators who need to manage <code>Linux</code> systems
+in production environments</li>
+<li><code>DevOps</code> engineers who need solid <code>Linux</code>
+administration skills</li>
+<li>IT professionals transitioning to <code>Linux</code>-based
+infrastructure</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Basic <code>Linux</code> command line experience</li>
+<li>Familiarity with basic text editors (vim/nano)</li>
+<li>Understanding of basic networking concepts</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Manage <code>Linux</code> system architecture, boot process, and
+package management</li>
+<li>Configure and maintain storage, filesystems, and backup
+solutions</li>
+<li>Implement user management, access controls, and system
+hardening</li>
+<li>Set up and administer network services and firewalls</li>
+<li>Monitor system performance, troubleshoot issues, and plan disaster
+recovery</li>
+</ul>
+<h2 id="exercises">Exercises</h2>
+<ul>
+<li>Done on <code>Ubuntu</code> 24.04 machines, real or virtual.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Core System Architecture
+<ul>
+<li><code>Linux</code> filesystem hierarchy standard (FHS)</li>
+<li>The <code>/usr</code> and <code>/var</code> hierarchies</li>
+<li>System boot process
+<ul>
+<li>BIOS vs UEFI</li>
+<li><code>GRUB2</code> bootloader and recovery</li>
+<li><code>initramfs</code></li>
+<li>Boot troubleshooting (rescue and emergency mode)</li>
+</ul></li>
+<li><code>systemd</code> in depth
+<ul>
+<li>Unit files and unit types</li>
+<li>Service types and advanced directives</li>
+<li><code>systemctl</code> usage (basic and advanced)</li>
+<li><code>systemd</code> targets (runlevels)</li>
+<li><code>systemd</code> timers and calendar expressions</li>
+<li><code>journalctl</code> and the journal</li>
+<li>Journal persistence configuration</li>
+<li>Socket activation</li>
+<li><code>systemd-tmpfiles</code>, <code>systemd-sysusers</code>,
+<code>systemd-networkd</code></li>
+</ul></li>
+<li>Control groups (<code>cgroups</code>) and resource control</li>
+<li>Understanding <code>/proc</code> and <code>/sys</code>
+filesystems</li>
+<li>Kernel tuning with <code>sysctl</code> and <code>/proc/sys</code>
+<ul>
+<li>Kernel parameters for production</li>
+</ul></li>
+<li>Kernel modules and <code>udev</code> device management</li>
+<li>Kernel version management and crash dumps (<code>kdump</code>)</li>
+<li>Device mapper overview</li>
+<li>Managing shared libraries and dependencies</li>
+<li>Understanding load average</li>
+<li>File descriptors and limits</li>
+<li>Locale and timezone configuration</li>
+</ul></li>
+<li>Package Management Deep Dive
+<ul>
+<li>Package management ecosystem (<code>apt</code>/<code>dpkg</code> vs
+<code>dnf</code>/<code>rpm</code>)</li>
+<li><code>dpkg</code>: low-level package tool
+<ul>
+<li>Package states and troubleshooting</li>
+<li><code>dpkg</code> triggers</li>
+<li>Debian package internals</li>
+</ul></li>
+<li><code>apt</code>: high-level package tool
+<ul>
+<li>Install options and upgrade strategies</li>
+<li><code>apt-mark</code> for managing package state</li>
+<li><code>apt-cache</code> for querying package information</li>
+<li><code>apt-file</code> for finding files in packages</li>
+<li>Transaction simulation</li>
+</ul></li>
+<li><code>dnf</code>/<code>yum</code> and <code>rpm</code>
+(RHEL/Fedora)</li>
+<li><code>apt</code> vs <code>dnf</code> comparison</li>
+<li>Repository management and configuration
+<ul>
+<li>Adding third-party repositories</li>
+<li>Repository pinning and priorities</li>
+</ul></li>
+<li>Creating and managing custom repositories
+<ul>
+<li>Hosting repositories with a web server</li>
+</ul></li>
+<li><code>apt</code> caching proxy (<code>apt-cacher-ng</code>)</li>
+<li>Managing software from source code
+<ul>
+<li>Building <code>.deb</code> packages</li>
+<li>Package scripts (pre/post install/remove)</li>
+</ul></li>
+<li>Package verification and security</li>
+<li>Dependency resolution and troubleshooting</li>
+<li>Virtual packages and essential packages</li>
+<li>Package lifecycle</li>
+<li>Package downgrade procedures</li>
+<li>Package changelog and history</li>
+<li><code>apt</code> proxy and offline install
+(<code>apt-offline</code>)</li>
+<li>Package management automation</li>
+<li>Unattended upgrades for security patches</li>
+<li>Comparing package versions across systems</li>
+<li><code>Snap</code> and <code>Flatpak</code></li>
+<li>Package management best practices</li>
+<li>Troubleshooting package issues</li>
+</ul></li>
+<li>Storage Management and File Systems
+<ul>
+<li>Storage device management and block devices</li>
+<li><code>SMART</code> disk monitoring</li>
+<li>Partitioning and filesystem creation
+<ul>
+<li>Partition alignment and best practices</li>
+<li>Filesystem types comparison (<code>ext4</code>, <code>XFS</code>,
+<code>Btrfs</code>, <code>ZFS</code>)</li>
+<li><code>ext4</code> tuning options</li>
+</ul></li>
+<li>Mounting filesystems and <code>/etc/fstab</code>
+<ul>
+<li>Advanced mount options</li>
+<li>Mount troubleshooting</li>
+</ul></li>
+<li>Swap space management</li>
+<li>Filesystem quotas</li>
+<li>Disk monitoring and maintenance
+<ul>
+<li>Finding disk space hogs</li>
+<li>Disk I/O scheduling</li>
+<li><code>fstrim</code> for SSD maintenance</li>
+</ul></li>
+<li>Backup strategies and tools (<code>rsync</code>, <code>tar</code>,
+<code>borgbackup</code>, snapshots)</li>
+<li><code>NFS</code> and <code>Samba</code> shared filesystems</li>
+<li>Filesystem integrity and recovery</li>
+<li><code>Btrfs</code> filesystem and snapshots</li>
+<li>Disk encryption with <code>LUKS</code></li>
+<li>Automounting with <code>autofs</code></li>
+<li>Loop devices</li>
+<li>Multipath I/O</li>
+<li>Storage planning for production</li>
+<li><code>iSCSI</code> overview</li>
+<li>Disk cloning with <code>dd</code></li>
+<li>Disk performance benchmarking (<code>fio</code>,
+<code>hdparm</code>)</li>
+<li><code>ZFS</code> on <code>Linux</code> overview</li>
+<li>Storage monitoring scripts</li>
+<li>Logical vs physical sector size</li>
+</ul></li>
+<li>User Management and System Security
+<ul>
+<li>Advanced user and group management
+<ul>
+<li>Understanding <code>/etc/passwd</code> and
+<code>/etc/shadow</code></li>
+<li>Password policies and hash algorithms</li>
+<li>Special user accounts</li>
+</ul></li>
+<li><code>Linux</code> permission model and <code>umask</code></li>
+<li>Access Control Lists (ACLs)</li>
+<li>PAM (Pluggable Authentication Modules)
+<ul>
+<li>Common PAM modules</li>
+<li>Login restrictions</li>
+<li>Two-factor authentication with PAM</li>
+</ul></li>
+<li><code>sudo</code> configuration (basic and advanced)</li>
+<li><code>SSH</code> in depth
+<ul>
+<li>Key types and best practices</li>
+<li><code>SSH</code> config files (basic and advanced)</li>
+<li>Tunneling and jump hosts</li>
+<li><code>SSH</code> hardening</li>
+<li><code>SSH</code> certificates</li>
+</ul></li>
+<li>System hardening techniques
+<ul>
+<li><code>fail2ban</code></li>
+<li>File integrity monitoring
+(<code>AIDE</code>/<code>Tripwire</code>)</li>
+<li>Kernel hardening with <code>sysctl</code></li>
+<li>Immutable and append-only files (<code>chattr</code>)</li>
+<li><code>systemd</code> service security features</li>
+</ul></li>
+<li>Security auditing tools (<code>auditd</code>)</li>
+<li>Certificate management and Let’s Encrypt</li>
+<li>System logging and security monitoring</li>
+<li>LDAP/NSS overview and <code>sssd</code> client</li>
+<li><code>nscd</code> name service cache</li>
+<li>CIS benchmarks and security scanning (<code>Lynis</code>)</li>
+<li>Chroot jails</li>
+<li><code>Linux</code> file capabilities</li>
+<li>Restricted shells</li>
+<li><code>ulimits</code> deep dive</li>
+<li>Console access control (<code>/etc/securetty</code>)</li>
+<li><code>SELinux</code> quick overview for <code>Ubuntu</code></li>
+<li>Security incident response</li>
+<li>Security compliance frameworks (CIS, STIG, PCI-DSS)</li>
+</ul></li>
+<li>Network Services and Configuration
+<ul>
+<li>Network interface configuration
+<ul>
+<li>The <code>ip</code> command in depth</li>
+<li>Network interface naming schemes</li>
+<li>Network bonding and VLANs</li>
+</ul></li>
+<li><code>Netplan</code> (<code>Ubuntu</code>)</li>
+<li>Name resolution (<code>/etc/hosts</code>,
+<code>/etc/resolv.conf</code>, <code>nsswitch.conf</code>)
+<ul>
+<li><code>systemd-resolved</code></li>
+<li>DNS client troubleshooting</li>
+</ul></li>
+<li><code>DHCP</code> server configuration</li>
+<li>Time synchronization (<code>chrony</code>/<code>NTP</code>)</li>
+<li>Firewall configuration (<code>nftables</code>/<code>iptables</code>)
+<ul>
+<li>NAT and port forwarding</li>
+<li>Firewall logging and debugging</li>
+</ul></li>
+<li>Network monitoring tools (<code>ss</code>, <code>tcpdump</code>,
+<code>nmap</code>)</li>
+<li>Network diagnostics and troubleshooting methodology
+<ul>
+<li>ARP and neighbor discovery</li>
+<li>Packet loss troubleshooting</li>
+</ul></li>
+<li><code>SSL</code>/<code>TLS</code> configuration and testing</li>
+<li>Virtual private networks (<code>WireGuard</code>,
+<code>OpenVPN</code>)</li>
+<li>IPv6 configuration</li>
+<li>Network namespaces and bridge networking</li>
+<li>Traffic shaping with <code>tc</code></li>
+<li>Proxy configuration</li>
+<li><code>iproute2</code> advanced usage</li>
+<li><code>NetworkManager</code> vs <code>systemd-networkd</code></li>
+<li>Network boot (PXE) and Wake-on-LAN</li>
+<li><code>ethtool</code> for NIC diagnostics</li>
+<li>Network performance testing (<code>iperf3</code>)</li>
+<li>VXLAN overlay networks</li>
+<li><code>keepalived</code> for high availability</li>
+<li>Network configuration backup and restore</li>
+<li>Legacy networking (<code>/etc/network/interfaces</code>)</li>
+<li>Wireless networking basics</li>
+</ul></li>
+<li>System Monitoring and Maintenance
+<ul>
+<li>Performance monitoring tools (<code>top</code>/<code>htop</code>,
+<code>vmstat</code>, <code>iostat</code>, <code>sar</code>,
+<code>dstat</code>, <code>perf</code>)
+<ul>
+<li>Understanding <code>top</code> output and load average</li>
+<li><code>sar</code> historical data</li>
+<li>Memory analysis in depth (<code>/proc/meminfo</code>)</li>
+<li>CPU analysis tools</li>
+</ul></li>
+<li>Troubleshooting tools (<code>strace</code>, <code>lsof</code>,
+<code>dmesg</code>)</li>
+<li><code>BPF</code>/<code>bpftrace</code> and BCC tools</li>
+<li>Process accounting</li>
+<li>Log management and rotation (<code>journalctl</code>,
+<code>logrotate</code>, <code>rsyslog</code>)
+<ul>
+<li>Centralized logging</li>
+</ul></li>
+<li>Automated monitoring solutions (<code>Prometheus</code>,
+<code>Grafana</code>, <code>Nagios</code>/<code>Zabbix</code>)
+<ul>
+<li><code>Prometheus</code> configuration and alert rules</li>
+<li><code>Grafana</code> dashboards</li>
+</ul></li>
+<li><code>collectd</code> and <code>Netdata</code></li>
+<li>Scheduled tasks (<code>crontab</code>, <code>at</code>,
+<code>systemd</code> timers)</li>
+<li>Disaster recovery planning</li>
+<li>Incident response</li>
+<li>System updates and patches
+<ul>
+<li>Unattended upgrades</li>
+</ul></li>
+<li>Automation with <code>Ansible</code> (playbooks, roles, ad-hoc
+commands)</li>
+<li><code>systemd</code> service watchdogs</li>
+<li>Kernel live patching</li>
+<li>Configuration drift detection (<code>etckeeper</code>,
+<code>debsums</code>)</li>
+<li><code>/proc/diskstats</code> explained</li>
+<li>Capacity planning</li>
+<li>Change management workflow</li>
+<li>Best practices for production environments</li>
+</ul></li>
+<li>Network Services (<code>nginx</code>, <code>Apache</code>,
+<code>HAProxy</code>, <code>Postfix</code>) (optional)
+<ul>
+<li>Web server administration with <code>nginx</code>
+<ul>
+<li>Configuration structure and reverse proxy</li>
+<li>SSL, performance, and security headers</li>
+<li>Logging, debugging, and worker tuning</li>
+<li>Reverse proxy for <code>WebSocket</code></li>
+</ul></li>
+<li>Web server administration with <code>Apache</code>
+<ul>
+<li>SSL and reverse proxy</li>
+<li>MPM models</li>
+<li><code>.htaccess</code> configuration</li>
+</ul></li>
+<li>Load balancer setup with <code>HAProxy</code>
+<ul>
+<li>SSL termination and algorithms</li>
+<li>ACLs, routing, and health checks</li>
+<li>Stick tables</li>
+</ul></li>
+<li>Email server basics with <code>Postfix</code>
+<ul>
+<li>Relay and security</li>
+<li>Virtual domains and aliases</li>
+</ul></li>
+<li>Let’s Encrypt with web servers</li>
+<li>Load testing web services</li>
+</ul></li>
+<li><code>LVM</code> and <code>RAID</code> (optional)
+<ul>
+<li>LVM (Logical Volume Management)
+<ul>
+<li>Physical volumes, volume groups, and logical volumes</li>
+<li>Creating, extending, and reducing volumes</li>
+<li>Moving data between disks</li>
+<li>Snapshots</li>
+<li>Thin provisioning</li>
+<li>Striping and mirroring</li>
+<li>LVM cache (<code>dm-cache</code>)</li>
+<li>LVM on top of RAID</li>
+<li>LVM best practices for virtual machines</li>
+<li>LVM troubleshooting</li>
+</ul></li>
+<li>RAID configuration and management (<code>mdadm</code>)
+<ul>
+<li>RAID levels (0, 1, 5, 6, 10) and selection guide</li>
+<li>Creating and monitoring RAID arrays</li>
+<li>RAID with spare disks</li>
+<li>Recovering from disk failures</li>
+<li>RAID performance tuning</li>
+<li>RAID monitoring with email alerts</li>
+<li>Understanding <code>mdadm.conf</code></li>
+</ul></li>
+</ul></li>
+<li><code>SELinux</code>/<code>AppArmor</code> (optional)
+<ul>
+<li>Mandatory Access Control concepts
+<ul>
+<li>DAC vs MAC comparison</li>
+</ul></li>
+<li><code>SELinux</code> modes (enforcing, permissive, disabled)</li>
+<li><code>SELinux</code> contexts, booleans, and policies
+<ul>
+<li>File context management</li>
+<li>Port labeling</li>
+<li>Common booleans reference</li>
+<li>Building custom policy modules</li>
+</ul></li>
+<li>Troubleshooting <code>SELinux</code> denials
+(<code>audit2why</code>, <code>audit2allow</code>)
+<ul>
+<li>Troubleshooting workflow</li>
+</ul></li>
+<li><code>AppArmor</code> profiles and modes
+<ul>
+<li>Profile structure and permission flags</li>
+<li>Abstractions</li>
+<li>Network rules</li>
+</ul></li>
+<li>Writing and debugging <code>AppArmor</code> profiles</li>
+<li><code>SELinux</code> vs <code>AppArmor</code> comparison</li>
+<li>MAC in container environments</li>
+</ul></li>
+<li><code>DNS</code> Server Administration (optional)
+<ul>
+<li><code>DNS</code> concepts and resolution process</li>
+<li><code>DNS</code> record types</li>
+<li><code>DNS</code> query tools (<code>dig</code>,
+<code>nslookup</code>, <code>host</code>)</li>
+<li>Setting up <code>BIND</code>
+<ul>
+<li>Security options</li>
+<li>Logging configuration</li>
+</ul></li>
+<li>Setting up <code>dnsmasq</code></li>
+<li>Zone files and zone transfers</li>
+<li>Forward and reverse lookups</li>
+<li><code>DNS</code> troubleshooting</li>
+<li><code>DNS</code> security (<code>DNSSEC</code> basics and
+validation)</li>
+<li><code>DNS</code> caching with <code>unbound</code></li>
+<li>Split-horizon <code>DNS</code></li>
+<li><code>DNS</code>-based load balancing</li>
+<li><code>DNS</code> monitoring and alerting</li>
+<li>Advanced <code>dig</code> usage</li>
+<li><code>DNS</code> over HTTPS and <code>DNS</code> over TLS</li>
+<li><code>DNS</code> migration strategies</li>
+</ul></li>
+<li>Containerization (optional)
+<ul>
+<li>Container concepts and architecture
+<ul>
+<li>Containers vs virtual machines</li>
+<li><code>Linux</code> kernel features (namespaces,
+<code>cgroups</code>)</li>
+</ul></li>
+<li><code>Docker</code> basics (images, containers, volumes, networks)
+<ul>
+<li>Run options and image layers</li>
+<li>Network types</li>
+<li>Container networking deep dive</li>
+<li>Overlay storage drivers</li>
+</ul></li>
+<li>Writing <code>Dockerfiles</code> and best practices</li>
+<li><code>Docker</code> Compose</li>
+<li><code>podman</code> as a rootless alternative
+<ul>
+<li><code>Podman</code> pods</li>
+</ul></li>
+<li>Container logging and health checks</li>
+<li>Container debugging</li>
+<li>Image scanning and security</li>
+<li>Multi-architecture builds</li>
+<li>Private <code>Docker</code> registry</li>
+<li>Container backup strategies</li>
+<li>Container resource monitoring</li>
+<li><code>systemd-nspawn</code> containers</li>
+<li>Container orchestration overview</li>
+<li>Container management and lifecycle</li>
+<li>Container security best practices</li>
+</ul></li>
+<li><code>Wireshark</code> Network Analysis (optional)
+<ul>
+<li><code>Wireshark</code> vs <code>tcpdump</code></li>
+<li>Capturing packets</li>
+<li>Capture filters (BPF syntax)</li>
+<li>Display filters (basic and advanced)</li>
+<li><code>tshark</code>: command-line <code>Wireshark</code></li>
+<li>Following TCP streams</li>
+<li>Statistics and analysis</li>
+<li>Analyzing common issues (retransmissions, DNS, TLS)</li>
+<li>Remote capture workflows</li>
+<li>Coloring rules</li>
+<li>IO graphs</li>
+<li>Expert information</li>
+<li>Decrypting TLS with pre-master secret</li>
+<li><code>Wireshark</code> profiles</li>
+<li>Packet injection detection</li>
+<li>Command-line one-liners</li>
+<li><code>mergecap</code> and <code>editcap</code> utilities</li>
+<li>Wireless packet capture</li>
+<li>Security considerations and best practices</li>
+</ul></li>
+<li>Maintaining <code>Linux</code> Systems in Air-Gapped Environments
+(optional)
+<ul>
+<li>Air-gap architecture and network design</li>
+<li>Local repository management
+<ul>
+<li>Building a complete local mirror</li>
+</ul></li>
+<li>Package transport mechanisms
+<ul>
+<li>Dependency resolution for offline install</li>
+</ul></li>
+<li>Security patch evaluation
+<ul>
+<li>CVE monitoring</li>
+</ul></li>
+<li>Update verification procedures</li>
+<li>System update protocols
+<ul>
+<li>Update rollback procedures</li>
+</ul></li>
+<li>Vulnerability management
+<ul>
+<li>Compliance scanning (<code>OpenSCAP</code>)</li>
+</ul></li>
+<li>Documentation and emergency procedures</li>
+<li>Configuration management in air-gapped environments</li>
+<li>Media transfer security</li>
+<li>USB device policy enforcement</li>
+<li>Network diode configuration</li>
+<li>Offline container registry</li>
+<li>Offline <code>Ansible</code> management</li>
+<li>Hardware security modules</li>
+<li>Audit trail and chain of custody</li>
+<li>Offline monitoring tools</li>
+<li>Best practices for isolated systems</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

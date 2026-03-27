@@ -1,0 +1,197 @@
+<h1 id="development-methodologies-from-the-professionals">Development
+Methodologies from the professionals</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>Ever wonder why there is one developer who can do the work of 5
+others? What do they know that you don’t? This one day course is all
+about those things that you don’t want to hear but which will make you a
+better developer and your development environment more productive.</p>
+<h2 id="duration">Duration</h2>
+<p>8 hours (1 day)</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Anyone doing development</li>
+<li>Programmers, QA people, team leaders, managers.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Some development background</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Script everything
+<ul>
+<li>This means even things you do once every year</li>
+<li>The practice will make you better at it</li>
+<li>Use templating engines to tie systems together.</li>
+<li>Use secrets storage solutions to not put secrets in your code.</li>
+</ul></li>
+<li>Writing code
+<ul>
+<li>Reward developers who remove code more than those who add code</li>
+<li>Avoid “it’s working so don’t touch it” attitude</li>
+<li>Allow developers to rebuild everything, fast!</li>
+<li>Reward developers who manage to redesign your code - they are the
+true heroes.</li>
+<li>Agile works, rewriting doesn’t.</li>
+<li>Keep it simple, Stupid! (your codes architecture that is).</li>
+<li>Use simple text or MD drawings to document your systems, avoid GUI
+tools.</li>
+<li>Have good taste.</li>
+<li>Lint with tons of tools. Don’t allow any unlinted code in.</li>
+</ul></li>
+<li>Documentation
+<ul>
+<li>Don’t use fancy tools, use text tools</li>
+<li>Use git to maintain the docs.</li>
+<li>Document the hard parts in your code, don’t document the simple</li>
+<li>Must be accurate</li>
+<li>Must be fast</li>
+</ul></li>
+<li>Debugging
+<ul>
+<li><a
+href="https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/">do not
+use a debugger</a></li>
+<li>Heisenbugs.</li>
+<li>Alternatives to debugging
+<ul>
+<li>reading your code</li>
+<li>infrastructure for visibility</li>
+<li>configurable logging</li>
+</ul></li>
+<li>Debugging cycles should be fast (see building your code fast
+above).</li>
+</ul></li>
+<li>Do not use user interfaces
+<ul>
+<li>Not reproducible</li>
+<li>Not scriptable</li>
+<li>Always changing</li>
+<li>GUI pull you to manual instead of automatic work</li>
+<li>Don’t let fancy GUI tempt you to the dark side, the fancier the
+worst it is</li>
+<li>Disable GUI whenever you can</li>
+</ul></li>
+<li>Do not write code which is not your main business
+<ul>
+<li>You are not good at it</li>
+<li>You don’t want to maintain it</li>
+<li>Get open source alternatives or any other alternative</li>
+<li>Anything which is not your main business should be open sourced</li>
+</ul></li>
+<li>Your development environment
+<ul>
+<li>Keep yourself agile regarding your tools</li>
+<li>Use as few tools as possible</li>
+<li>Be sure about why you use all of these tools</li>
+<li>Drop tools you no longer need to simplify your environment.</li>
+<li>Allow developers to enter password or MFA easily and keep security
+out of their way</li>
+<li>Dump as much as possible on automated cloud services</li>
+<li>Keep it simple, Stupid! (your development environment, that is)</li>
+</ul></li>
+<li>Configuring software that you use:
+<ul>
+<li>Why keeping the default configuration is the best</li>
+<li>If you can’t use the default, change the configuration as little as
+possible.</li>
+<li>Make sure your entire team uses the same configuration</li>
+<li>Keep it simple, Stupid! (your configuration that is)</li>
+</ul></li>
+<li>Allowing to run your software in many ways
+<ul>
+<li>Allow to run it as library</li>
+<li>Allow to run as command line tool</li>
+<li>Allow auto-completion on the command line</li>
+<li>Allow to <code>override</code> any option with environment
+variables.</li>
+<li>Allow configuration files: per user, per system</li>
+<li>Always follow convention over configuration</li>
+</ul></li>
+<li>Separate systems that should be separate
+<ul>
+<li>Prefer multi-process to multi-thread</li>
+<li>Micro-services</li>
+<li>Different code repos</li>
+<li>Everything in computing is about separation.</li>
+</ul></li>
+<li>Zero aural traditions
+<ul>
+<li>No special URLs, users, passwords, tools, that people need to
+gather: everything in one clear page.</li>
+<li>The test of building and running your code from git</li>
+<li>Script bootstrapping your code</li>
+<li>Script installing all dependencies</li>
+<li>Script everything!</li>
+</ul></li>
+<li>Proper logging
+<ul>
+<li>Every tool you run should be run quietly, and if the tool does not
+know how to be quiet, teach it.</li>
+<li>Long log files in the command line or from <code>CI/CD</code> are
+from the devil.</li>
+<li>Make it easy to see more info when you need to.</li>
+<li>Warnings should not be shown either because every warning should be
+treated as error.</li>
+</ul></li>
+<li>Test, test, test
+<ul>
+<li>Test especially the things which failed in the past</li>
+<li>Developers should write tests, not QA people. Fire them!</li>
+<li>Reward new tests which pass, never settle for failing tests.</li>
+</ul></li>
+<li>Microservices
+<ul>
+<li>You are doing it wrong</li>
+<li>The most important part of Micro-services is that they are
+<strong>Independently Deployable</strong>.</li>
+</ul></li>
+<li>Stop using MS-<code>Windows</code>!
+<ul>
+<li>Why <code>Linux</code> is better for developers and facilitates all
+of the above</li>
+<li>Why using windows is making your developers bad developers.</li>
+</ul></li>
+<li>Philosophy is more important than practical knowledge
+<ul>
+<li>Don’t remember all the details, you’ll never remember them
+anyway.</li>
+<li>Being able to explain why you are using every tool you are
+using</li>
+<li>When studying tools, learn their philosophy</li>
+<li>When using each tool check if you are using it according to it’s
+philosophy</li>
+<li>Avoid abusing tools - meaning stop using them against their
+philosophy or not in line with it.</li>
+</ul></li>
+<li>When to use outside help or consultants
+<ul>
+<li>When you are afraid to do it yourself</li>
+<li>When you are using a new technology and you have no in-house
+people</li>
+</ul></li>
+<li>When not to use outside help or consultants
+<ul>
+<li>When it has to do with your core business</li>
+<li>When you should have people that know this shit</li>
+</ul></li>
+<li>How to use your browser correctly
+<ul>
+<li>Never use too many tabs</li>
+<li>Always use bookmarks to your favorite places, this is a tricky
+art.</li>
+</ul></li>
+<li>How to use <code>Docker</code> correctly
+<ul>
+<li>Always use one <code>Docker</code> image! that’s the whole point of
+<code>Docker</code>!</li>
+<li>Don’t abuse the technology.</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

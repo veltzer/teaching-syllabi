@@ -1,0 +1,193 @@
+<h1 id="introduction-to-git">Introduction to <code>Git</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Git</code> is the de-facto standard source control system for
+the tech industry and is one of the most flexible software tools to be
+found. Any developer or <code>DevOps</code> person probably needs at
+least a basic understanding of <code>Git</code> to get going and this
+course is intended for that purpose.</p>
+<p>This course covers all of the fundamental operations an experienced
+coder would use on a daily basis. The course begins with an introduction
+to <code>Git</code> and a comparison of <code>Git</code> to other
+version control systems. It then transitions into the nuts-and-bolts of
+working with <code>Git</code>, including everything from setting up a
+repository to advanced topics like branching and merging.</p>
+<p>Because the industry sometimes misuses git this course is also
+focuses on clearing up muddled understanding of git: the staging area,
+merge vs rebase, history management, branching and more</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours/3 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Any software developer or <code>DevOps</code> who needs to work with
+<code>Git</code> or understand <code>Git</code> better.</li>
+<li>Any software developer who has worked with <code>Git</code> but
+wants a deeper understanding of it.</li>
+<li>System administrators who are moving to <code>DevOps</code> in
+general or <code>Git</code> specifically.</li>
+<li>Any manager who needs to understand what is possible and how to
+manage git using projects.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Tech affinity.</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Setup and use git</li>
+<li>Understand and use <code>Git</code>’s branching features correctly
+and effectively</li>
+<li>Decide on which workflows to use when using <code>Git</code></li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>Git</code>
+<ul>
+<li>History of <code>Git</code></li>
+<li>Who is using <code>Git</code></li>
+<li>Adopting <code>Git</code></li>
+</ul></li>
+<li>Core <code>Git</code> Concepts
+<ul>
+<li>Always on a branch</li>
+<li>Everything is SHA1 (files, changes, tags, branches)</li>
+<li>Everything has a parent except first change.</li>
+<li>Never store anything twice</li>
+<li>SHA includes all history</li>
+<li>SHA is unique in the world</li>
+</ul></li>
+<li><code>Git</code> basics
+<ul>
+<li>Setting up a local repository</li>
+<li>Setting up a client to a repository
+<ul>
+<li>local</li>
+<li>remote</li>
+</ul></li>
+<li>The staging area</li>
+<li>Making your first change</li>
+<li>Committing</li>
+<li>Seeing history</li>
+<li>Renaming, moving and removing files</li>
+</ul></li>
+<li>Configuring <code>Git</code>
+<ul>
+<li>local and global config files</li>
+<li>configuring <code>Git</code> commands</li>
+<li>configuring signing</li>
+<li>adding aliases</li>
+<li>ignoring files</li>
+</ul></li>
+<li>Undoing things
+<ul>
+<li>Staging area undoings</li>
+<li>Undoing latest commit</li>
+<li>Undoing last n commits</li>
+<li>Cherry picking from latest commits</li>
+</ul></li>
+<li>Remote repositories
+<ul>
+<li>Working with a remote repository</li>
+<li>Setting up / publishing a repository</li>
+<li>Understanding the repository structure</li>
+<li>Working with Multiple remotes</li>
+<li>Working with GitHub</li>
+</ul></li>
+<li>Branches
+<ul>
+<li>Creating local branches</li>
+<li>Working on local branches</li>
+<li>Committing on local branches</li>
+<li>Moving between local branches</li>
+<li>Pruning branches</li>
+</ul></li>
+<li>Merging changes
+<ul>
+<li>Fetch</li>
+<li>Pull</li>
+<li>Rebase</li>
+<li>what is fast forwarding?</li>
+<li>cherry picking</li>
+<li>handling conflicts
+<ul>
+<li>basics</li>
+<li>using merge tools</li>
+</ul></li>
+</ul></li>
+<li>Merge vs Rebase
+<ul>
+<li>Which should you choose? (Rebase)</li>
+<li>Why?</li>
+</ul></li>
+<li>Workflows
+<ul>
+<li><code>Git</code> does not force a workflow</li>
+<li>feature branches</li>
+<li>dev vs production</li>
+<li>back porting changes</li>
+<li>Examples of workflows
+<ul>
+<li>working on your own workflow</li>
+<li><code>Jenkins</code></li>
+<li>pull requests</li>
+</ul></li>
+</ul></li>
+<li>Getting <code>Git</code> data
+<ul>
+<li><code>Git</code> log and it’s many options</li>
+<li>Visual tools</li>
+<li>Using programming (example is <code>Python</code>)</li>
+</ul></li>
+<li>Under the hood
+<ul>
+<li>The <code>Git</code> object store and how it works</li>
+<li>What happens when you add</li>
+<li>What happens when you commit?</li>
+<li>What happens when you create an annotated tag?</li>
+<li>What happens when you branch?</li>
+</ul></li>
+<li>Worktrees
+<ul>
+<li>Why are they needed?</li>
+<li>Creating a worktree</li>
+<li>Working with worktrees</li>
+<li>Pruning worktrees</li>
+</ul></li>
+<li>Tagging
+<ul>
+<li>Why tag?</li>
+<li>difference between annotates and non annotated tags</li>
+<li>pushing and pulling tags</li>
+<li>Using tags in other <code>Git</code> commands</li>
+</ul></li>
+<li>Rewriting History
+<ul>
+<li>Why you should never do it</li>
+<li>How to do it anyway</li>
+</ul></li>
+<li>Stashing
+<ul>
+<li>Why would you want stashing?</li>
+<li>Creating and naming stashes</li>
+<li>Apply a specific stash</li>
+<li>Delete stashes</li>
+</ul></li>
+<li><code>Git</code> hooks
+<ul>
+<li>How to set up hooks?</li>
+<li>What guarantees do you get?</li>
+</ul></li>
+<li>External <code>Git</code> tools
+<ul>
+<li>GitHub and BitBucket</li>
+<li>Gitlab</li>
+<li><code>Git</code> and <code>IDEs</code></li>
+<li><code>Git</code> and <code>Jenkins</code>, Bamboo etc</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

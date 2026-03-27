@@ -1,0 +1,255 @@
+<h1 id="introduction-to-kubernetes">Introduction to
+<code>Kubernetes</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Kubernetes</code> (<code>k8s</code>) is fast becoming the
+industry standard for container orchestration and this is an
+introductory course to that technology. The course takes the
+participants from no knowledge of containers and container orchestration
+to a beginner level in using <code>docker</code> and orchestrating
+<code>docker</code> containers with <code>Kubernetes</code>.</p>
+<p>The course includes training on real live systems and orchestrating
+real live clusters.</p>
+<p>The course begins with an introduction to <code>Docker</code> and
+<code>Kubernetes</code> covering the basics and installation and
+configuration. Next, students will learn about resources, pods, and
+controllers. The course ends with a look into services, volumes, and
+cluster administration.</p>
+<h2 id="duration">Duration</h2>
+<p>40 hours / 5 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Developers who wish to deploy small applications or better
+understand their own production environments.</li>
+<li>Architects who wish to understand <code>Kubernetes</code> and
+container orchestration to utilize these technologies within their
+respective companies and application design schemes.</li>
+<li>Devops people who are are not familiar with <code>Kubernetes</code>
+and <code>docker</code> and would like to add these technologies to
+their tool chest.</li>
+<li>Cloud practitioners who wish to understand <code>Kubernetes</code>
+in order to better decide between <code>Kubernetes</code> and other more
+cloud specific offering.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Experience in tech environments is a must</li>
+<li>Understanding of web applications at a basic level is a must</li>
+<li><code>DevOps</code> experience is a plus</li>
+<li>System administration experience is a plus</li>
+<li>Cloud familiarity with one of the big three cloud platforms is a
+plus</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Describe the <code>Docker</code> and <code>Kubernetes</code>
+technologies, their main uses, advantages and disadvantages.</li>
+<li>Create, manage run and debug <code>docker</code> images.</li>
+<li>Deploy <code>Kubernetes</code> clusters and manage them.</li>
+<li>Write <code>Kubernetes</code> deployment descriptors and modify them
+to their needs.</li>
+<li>Debug <code>Kubernetes</code> run time issues.</li>
+<li>Have a basic understanding of the various techniques to upgrade
+<code>Kubernetes</code> application at production</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li><code>Docker</code>
+<ul>
+<li>Overview</li>
+<li><code>Docker</code> Containers</li>
+<li><code>Docker</code> vs. Virtual Machines (<code>VM</code>)</li>
+<li><code>Docker</code> vs. Processes</li>
+</ul></li>
+<li>Intro to <code>Kubernetes</code>
+<ul>
+<li>Containers</li>
+<li>History</li>
+<li>Architecture</li>
+<li>Resources</li>
+<li>Where to go for help</li>
+<li><code>Micro services</code></li>
+</ul></li>
+<li>Installation and Configuration
+<ul>
+<li>Installation options</li>
+<li>Minikube install</li>
+<li>Install <code>Kubernetes</code></li>
+</ul></li>
+<li>CLI Overview
+<ul>
+<li>Overview</li>
+<li>CLI</li>
+</ul></li>
+<li><code>Kubernetes</code> Basics
+<ul>
+<li>Create a cluster</li>
+<li>Deploy an app</li>
+</ul></li>
+<li>Expose Your App
+<ul>
+<li>Expose your app</li>
+</ul></li>
+<li>Scale Your App
+<ul>
+<li>Scale your app</li>
+</ul></li>
+<li><code>Kubernetes</code> Resources
+<ul>
+<li>Master</li>
+<li>Node</li>
+<li>Pod</li>
+<li>Labels</li>
+<li>Configure Pods and Containers</li>
+</ul></li>
+<li>Dashboard
+<ul>
+<li><code>Kubernetes</code> Dashboard</li>
+<li>Dashboard Tour</li>
+<li>Services</li>
+<li>Controller Manager</li>
+<li>Assign Memory and CPU to Containers</li>
+</ul></li>
+<li>Pods
+<ul>
+<li>Pod Life cycle</li>
+<li>Pod Status</li>
+<li>Container Health Checks
+<ul>
+<li>Liveness probes</li>
+<li>Readiness probes</li>
+<li>Startup probes</li>
+</ul></li>
+</ul></li>
+<li>ConfigMaps and Secrets
+<ul>
+<li>Why are they needed?</li>
+<li>How to use them</li>
+<li>Best practices for secret management</li>
+</ul></li>
+<li>Namespaces and Multi-tenancy
+<ul>
+<li>Resource isolation</li>
+<li>Namespace strategies</li>
+<li>Resource quotas</li>
+</ul></li>
+<li>Controllers
+<ul>
+<li>Deployment</li>
+<li>StatefulSet</li>
+<li>DaemonSet</li>
+<li>Controllers</li>
+</ul></li>
+<li>Services
+<ul>
+<li>Defining a Service</li>
+<li>Discovering Services</li>
+<li>Virtual IPs</li>
+<li>Services</li>
+</ul></li>
+<li>Volumes
+<ul>
+<li>Overview</li>
+<li>PersistentVolume</li>
+<li>Configure a Pod to Use a Volume for Storage</li>
+<li>Configure a Pod to Use Persistent Volume</li>
+</ul></li>
+<li><code>Kubernetes</code> Networking
+<ul>
+<li>Pod-to-Pod communication</li>
+<li>Service networking and ClusterIP</li>
+<li>NodePort and LoadBalancer services</li>
+<li>Network policies</li>
+<li><code>DNS</code> in <code>Kubernetes</code></li>
+</ul></li>
+<li>Ingress Controllers
+<ul>
+<li>What is Ingress?</li>
+<li>Popular Ingress controllers (NGINX, Traefik)</li>
+<li><code>TLS</code>/SSL termination</li>
+<li>Path-based and host-based routing</li>
+</ul></li>
+<li>Container Registries and Image Management
+<ul>
+<li><code>Docker</code> Hub and private registries</li>
+<li>Image tagging strategies</li>
+<li>Pull policies and secrets</li>
+<li>Image security scanning basics</li>
+</ul></li>
+<li>Resource Management
+<ul>
+<li>CPU and Memory requests/limits</li>
+<li>Quality of Service (QoS) classes</li>
+<li>Resource quotas</li>
+<li>LimitRanges</li>
+</ul></li>
+<li>Security Fundamentals
+<ul>
+<li>Role-Based Access Control (RBAC)</li>
+<li>ServiceAccounts</li>
+<li>Security contexts</li>
+<li>Pod security policies/standards</li>
+<li>Network policies for security</li>
+</ul></li>
+<li>Troubleshooting and Debugging
+<ul>
+<li>Common <code>Kubernetes</code> issues</li>
+<li>Using kubectl debug</li>
+<li>Analyzing logs and events</li>
+<li>Debugging CrashLoopBackOff</li>
+<li>Performance troubleshooting</li>
+</ul></li>
+<li>Helm Package Manager
+<ul>
+<li>Introduction to Helm</li>
+<li>Charts and repositories</li>
+<li>Installing and managing applications</li>
+<li>Creating custom charts</li>
+<li>Helm templating basics</li>
+</ul></li>
+<li>GitOps and <code>CI/CD</code> Integration
+<ul>
+<li><code>Kubernetes</code> in <code>CI/CD</code> pipelines</li>
+<li>GitOps principles</li>
+<li>Deployment strategies (rolling, blue-green, canary)</li>
+<li>Introduction to ArgoCD/Flux (overview)</li>
+</ul></li>
+<li>Cluster Administration
+<ul>
+<li>CLI</li>
+<li>Contexts</li>
+<li>Scaling</li>
+<li>Monitoring with metrics-server</li>
+<li>Dashboards</li>
+<li>Backup and disaster recovery basics</li>
+<li>Cluster upgrades</li>
+</ul></li>
+<li>Advanced Topics (if time permits)
+<ul>
+<li>Advanced workload types (StatefulSet, DaemonSet, Job, CronJob)</li>
+<li>Multi-container patterns (sidecar, init containers, ambassador)</li>
+<li>Custom Resource Definitions (CRDs)</li>
+<li>Operators pattern</li>
+<li>Service mesh overview (Istio/Linkerd)</li>
+</ul></li>
+</ul>
+<h2 id="installations">Installations</h2>
+<p>Each student should have:</p>
+<ul>
+<li>An <code>Ubuntu</code> 24:04 machine</li>
+<li>8 GB RAM for each machine because we are going to practice
+<code>Kubernetes</code> with Minikube. This requires some RAM.</li>
+<li>Free, wide band, access to the internet from all machines with no
+weird corporate firewalls that might stop us from installing
+software.</li>
+<li>Username and password of a user that has <code>sudo</code>
+privileges on the machine.</li>
+<li><a
+href="https://www.linuxvmimages.com/images/ubuntu-2204/">https://www.linuxvmimages.com/images/ubuntu-2204/</a></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

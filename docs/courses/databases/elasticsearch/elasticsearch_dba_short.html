@@ -1,0 +1,177 @@
+<h1 id="elasticsearch-dba-short"><code>Elasticsearch</code> DBA
+(Short)</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course provides training for database and system administrators
+who need to deploy, configure, secure, monitor, and maintain
+<code>Elasticsearch</code> clusters in production environments.
+Participants will gain hands-on experience with cluster architecture,
+index management, security implementation, and troubleshooting.</p>
+<p>The course focuses on <code>Elasticsearch</code> version 8.x and
+covers self-managed deployments.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Database administrators expanding into search and analytics
+platforms</li>
+<li>System administrators responsible for <code>Elasticsearch</code>
+infrastructure</li>
+<li><code>DevOps</code> engineers managing <code>Elasticsearch</code> in
+production</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Understanding of distributed systems concepts</li>
+<li>Familiarity with <code>Linux</code> command line and system
+administration</li>
+<li>Basic knowledge of <code>JSON</code> and <code>RESTful</code>
+<code>APIs</code></li>
+<li>Understanding of basic database and indexing concepts</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Deploy production-ready <code>Elasticsearch</code> clusters</li>
+<li>Configure and optimize <code>Elasticsearch</code> for various use
+cases</li>
+<li>Implement security and access control</li>
+<li>Monitor cluster health and performance metrics</li>
+<li>Execute backup and recovery procedures</li>
+<li>Troubleshoot and resolve common cluster issues</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>Elasticsearch</code>
+<ul>
+<li><code>Elasticsearch</code> architecture and concepts</li>
+<li>Documents, indices, and shards</li>
+<li>Nodes and cluster topology</li>
+<li>Lucene fundamentals</li>
+<li>Inverted index structure</li>
+<li>Comparison with traditional databases</li>
+</ul></li>
+<li>Installation and Configuration
+<ul>
+<li>System requirements and sizing guidelines</li>
+<li>Installation methods and packages</li>
+<li>Directory structure and file layout</li>
+<li><code>Elasticsearch</code>.yml configuration</li>
+<li><code>JVM</code> configuration and heap sizing</li>
+<li>Network and transport settings</li>
+<li>Cluster bootstrapping</li>
+</ul></li>
+<li>Cluster Architecture
+<ul>
+<li>Node roles and types</li>
+<li>Master nodes and elections</li>
+<li>Data nodes configuration</li>
+<li>Coordinating nodes</li>
+<li>Cluster state management</li>
+<li>Discovery and formation</li>
+</ul></li>
+<li>Index Management
+<ul>
+<li>Index creation and configuration</li>
+<li>Mappings and field types</li>
+<li>Dynamic and explicit mapping</li>
+<li>Index settings and analysis</li>
+<li>Aliases and data streams</li>
+<li>Index templates</li>
+<li>Rollover operations</li>
+</ul></li>
+<li>Document Operations
+<ul>
+<li>Indexing documents</li>
+<li>Bulk operations</li>
+<li>Update and delete operations</li>
+<li>Versioning and optimistic concurrency</li>
+<li>Refresh and flush operations</li>
+</ul></li>
+<li>Search Basics for DBAs
+<ul>
+<li>Query context vs filter context</li>
+<li>Full-text queries</li>
+<li>Term-level queries</li>
+<li>Search performance considerations</li>
+</ul></li>
+<li>Sharding and Replication
+<ul>
+<li>Shard allocation and balancing</li>
+<li>Replica configuration</li>
+<li>Shard allocation filtering</li>
+<li>Reindex operations</li>
+</ul></li>
+<li>Monitoring and Diagnostics
+<ul>
+<li>Cluster health and statistics</li>
+<li>Node and index stats</li>
+<li>X-Pack monitoring</li>
+<li>Diagnostic tools</li>
+<li>Performance troubleshooting</li>
+</ul></li>
+<li>Security
+<ul>
+<li>X-Pack security features</li>
+<li><code>TLS</code>/SSL configuration</li>
+<li>User authentication</li>
+<li>Role-based access control</li>
+<li><code>API</code> keys and tokens</li>
+<li>Audit logging</li>
+</ul></li>
+<li>Backup and Recovery
+<ul>
+<li>Snapshot and restore</li>
+<li>Repository configuration</li>
+<li>Snapshot lifecycle management</li>
+<li>Incremental backups</li>
+<li>Disaster recovery planning</li>
+</ul></li>
+<li>Index Lifecycle Management
+<ul>
+<li>ILM policies and phases</li>
+<li>Hot-warm-cold tiers</li>
+<li>Data streams and rollover</li>
+<li>Automated index management</li>
+<li>Retention policies</li>
+</ul></li>
+<li>Cluster Operations
+<ul>
+<li>Rolling upgrades</li>
+<li>Node decommissioning</li>
+<li>Cluster reroute <code>API</code></li>
+<li>Allocation explain <code>API</code></li>
+<li>Task management</li>
+</ul></li>
+<li>Troubleshooting
+<ul>
+<li>Common cluster issues</li>
+<li>Out of memory errors</li>
+<li>Unassigned shards</li>
+<li>Cluster block exceptions</li>
+<li>Performance degradation</li>
+<li>Recovery procedures</li>
+</ul></li>
+</ul>
+<h2 id="installations">Installations</h2>
+<p>Each student should have:</p>
+<ul>
+<li><code>Linux</code> virtual machines (<code>Ubuntu</code> 24.04 LTS
+or CentOS Stream 9 recommended)</li>
+<li>Minimum 16 GB RAM per machine</li>
+<li>At least 100 GB of SSD storage for indices and data</li>
+<li>Multiple VMs or containers for cluster setup (minimum 3 nodes)</li>
+<li>Free, unrestricted internet access for downloading Elastic Stack
+components</li>
+<li>Administrative (sudo) privileges on all machines</li>
+<li><code>Elasticsearch</code> and Kibana will be installed during the
+course</li>
+<li>Modern web browser for accessing Kibana interface</li>
+<li>curl for <code>REST</code> <code>API</code> testing</li>
+<li>Network connectivity between all nodes for cluster formation</li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

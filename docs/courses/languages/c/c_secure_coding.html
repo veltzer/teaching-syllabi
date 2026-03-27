@@ -1,0 +1,126 @@
+<h1 id="coding-securely-in-c">Coding securely in C</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course was designed for users of the clang tool-chain. For
+<code>GCC</code> modifications need to be made.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Motivation for Secure Programming
+<ul>
+<li>In User Space/Kernel Space systems</li>
+<li>In Monolithic systems</li>
+</ul></li>
+<li>Machine-Level Representation of C programs
+<ul>
+<li>Tour of <code>Assembly</code> Language</li>
+</ul></li>
+<li>Integer security
+<ul>
+<li>Int / Double overflows</li>
+<li>Integer conversion rules</li>
+<li>Signed and unsigned problems</li>
+<li>Safe integer usage</li>
+<li>Enforcing limits on integer values</li>
+<li>Preventing lost or misinterpreted data due to conversion</li>
+<li>Using secure integer libraries</li>
+</ul></li>
+<li>Strings and Buffers
+<ul>
+<li>Formatting vulnerabilities</li>
+<li>Better ways to manipulate strings and buffers</li>
+<li>Using the ‘n’ functions correctly</li>
+</ul></li>
+<li>Stack-based Buffer Overflow
+<ul>
+<li>Function calls and Stack Layout</li>
+<li>Representation of buffers at the assembly level</li>
+<li>Smashing the stack</li>
+<li>Stack guards</li>
+<li>Extra parameters</li>
+<li>Isolating stacks of threads</li>
+<li>Stack layout of variadic functions</li>
+</ul></li>
+<li>Data Pointer and Function Pointer Vulnerabilities
+<ul>
+<li>Smashing the stack by exploiting pointers</li>
+<li>Dynamic memory allocation and security</li>
+</ul></li>
+<li>Advanced Buffer Overflow Attacks
+<ul>
+<li>By-passing non-executable stack</li>
+<li>Jumping to EAX, ESP, and EMP exploit</li>
+</ul></li>
+<li>Other attacks
+<ul>
+<li>Heap overflow attacks</li>
+<li>Array indexing attacks</li>
+</ul></li>
+<li>Linking
+<ul>
+<li>Load-time exploitation</li>
+<li>Basics of static and dynamic linking</li>
+<li>Load time randomization</li>
+</ul></li>
+<li>File I/O Security
+<ul>
+<li>Path Traversal Vulnerabilities</li>
+<li>File I/O Race Conditions</li>
+</ul></li>
+<li>Concurrency
+<ul>
+<li>Multi threads</li>
+<li>Deadlock and vulnerabilities</li>
+</ul></li>
+<li>CPU vulnerabilities
+<ul>
+<li>Spectre and meltdown analysis</li>
+</ul></li>
+<li>General protection mechanisms
+<ul>
+<li>Parameter checking</li>
+<li>Stack checking</li>
+<li>Writing generic layers of protection</li>
+</ul></li>
+<li>Clang tool-chain
+<ul>
+<li>Compiler checks</li>
+<li>Compiler randomization</li>
+</ul></li>
+<li>Secure Memory Usage
+<ul>
+<li>Secure memory handling</li>
+<li>Erasing Data</li>
+<li>Secure pointer usage</li>
+<li>Memory Dumps</li>
+<li>Use smart pointers for resource management</li>
+<li>Ensure pointer arithmetic</li>
+<li>Avoid null pointer de-referencing</li>
+<li>Ensure sensitive data is not paged to disk</li>
+</ul></li>
+<li>Safe <code>APIs</code>
+<ul>
+<li>Dangerous and banned <code>APIs</code></li>
+<li>Real-World Risks</li>
+<li>Using safe <code>APIs</code></li>
+<li>The “n” Functions</li>
+<li>Detecting Dangerous <code>APIs</code></li>
+<li>Alternatives</li>
+<li>StrSafe</li>
+</ul></li>
+<li>Secure File Handling
+<ul>
+<li>Directory Traversal attacks</li>
+<li>File canonicalization attacks</li>
+<li>Creating files with correct ACLs</li>
+<li>Ensure files are closed when no longer needed</li>
+<li>Insecure usage of shared directories</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

@@ -1,0 +1,103 @@
+<h1 id="linux-security-for-application-developers"><code>Linux</code>
+security for application developers</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>This course is intended to introduce the participants to
+<code>Linux</code> security issues, explain the various security threats
+that <code>C</code>/<code>C++</code> programs are subject to on the
+<code>Linux</code> platform and introduce the host of ways to combat
+these issues.</p>
+<h2 id="duration">Duration</h2>
+<p>8 hours / 1 day</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Experienced C application developers.</li>
+<li><code>Linux</code> programming experience is recommended by not a
+must.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>C programming</li>
+<li><code>UNIX</code> <code>API</code> familiarity is a plus</li>
+<li>If no such knowledge exists then the course could be made longer to
+accommodate with an intro about <code>UNIX</code>/<code>Linux</code>
+philosophy, command line usage, boot process and more.</li>
+</ul>
+<h2 id="exercises">Exercises</h2>
+<p>This course is an instructor led course, with demos by the instructor
+and no exercises.</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Basic <code>Linux</code> security
+<ul>
+<li>/etc/passwd and user login</li>
+<li>effective user id, it’s propagation via the process tree</li>
+<li>how security is handled in the kernel</li>
+<li>security of /dev files</li>
+<li>SUID executables and how they work</li>
+<li>the capabilities system and how to tune it</li>
+<li>process pid=1 running as root with full capabilities</li>
+<li>how to define a user on a full fledged system</li>
+<li>how to define a user on an embedded system.</li>
+<li>the boot on a full fledged system</li>
+<li>the boot on an embedded system</li>
+</ul></li>
+<li>C level security
+<ul>
+<li>C level vulnerabilities
+<ul>
+<li>Buffer overflows</li>
+<li>Format string vulnerabilities</li>
+<li>Integer overflows</li>
+<li>Unchecked array indexing</li>
+<li>Null pointer dereferencing</li>
+<li>Resource injection</li>
+<li>Race conditions</li>
+<li>Memory and resource leaks</li>
+<li>Double free bugs</li>
+<li>Use after free bugs</li>
+</ul></li>
+<li>How to avoid C level vulnerabilities</li>
+</ul></li>
+<li>How to combat C level vulnerabilities
+<ul>
+<li>Using bounds checkers</li>
+<li>Input validation</li>
+<li>Overflow safe math libraries</li>
+<li>Limiting allocations</li>
+<li>Using memory safe functions</li>
+<li>Memory tagging</li>
+<li>Stack protection by the compiler</li>
+<li>Handling errors gracefully</li>
+<li>Limit privileges</li>
+<li>Using static linking instead of dynamic linking</li>
+<li>Use memory/thread safe libraries</li>
+<li>Using static analysis</li>
+<li>Using fuzz testing</li>
+<li>Using Stack guards</li>
+<li>Using Canaries</li>
+<li>Using Checksums</li>
+<li>Using multi-processing instead of multi-threading</li>
+<li>Using processes with different users running them</li>
+<li>Using <code>chroot</code> jails</li>
+<li>Using namespaces</li>
+<li>Using full fledged containers
+<ul>
+<li><code>Docker</code></li>
+<li><code>podman</code></li>
+</ul></li>
+<li>Using self made containers using <code>Linux</code> namespaces.</li>
+<li>using ASLR
+<ul>
+<li>What is it? Why is it good?</li>
+<li>How to enable it for libraries/binaries</li>
+<li>How to disable it for various purposes (debugging, …)</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

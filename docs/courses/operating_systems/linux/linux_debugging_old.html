@@ -1,0 +1,139 @@
+<h1 id="linux-debugging"><code>Linux</code> Debugging</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p>The debugging course aims to give programmers and team leaders a
+broader view that debugging plays in systems engineering. In addition
+this course introduces the participants to tools they did not know
+existed. This combination enables to build software which is easier to
+debug both at the development and client sites. This ultimately saves
+precious time and produces systems which are more stable and more
+extendable and delays the stasis that most
+<code>C</code>/<code>C++</code> systems reach at some point.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>The course is ONLY for <code>C</code>/<code>C++</code>
+developers.</li>
+<li>The course is ONLY for <code>UNIX</code>/<code>Linux</code>
+developers.</li>
+<li>The course is ONLY for programmers who have been programming for at
+least one year.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>The <code>C</code>/<code>C++</code> languages and their pitfalls.
+<ul>
+<li>How the MMU works.</li>
+<li>What can a program do?</li>
+<li>What can’t a program do?</li>
+<li>Memory pages are not the ultimate protection.</li>
+</ul></li>
+<li>Programming for better debugging.
+<ul>
+<li>Sanity checking objects.</li>
+<li>Using the preprocessor for debug info.</li>
+<li>Using logging libraries when programming.</li>
+<li>Compiling with debug information.</li>
+<li>Writing modular code - why is it important for debugging ?.</li>
+<li>Build problems leading to bugs - how to fix your build system.</li>
+<li>Unit testing.</li>
+<li>Managing change sets to reduce debug time.</li>
+<li>Passing -Wall.</li>
+<li>Avoiding using the preprocessor for programming.</li>
+<li>Writing naive versions of objects.</li>
+<li>Making sure that bugs never come back: tests and assertions.</li>
+</ul></li>
+<li>Using <code>gdb</code> efficiently.
+<ul>
+<li>What is debug info ?</li>
+<li>Preparing debug info.</li>
+<li>Using debug versions of basic libraries.</li>
+<li>The most useful commands and techniques.</li>
+<li>Graphical front ends.</li>
+<li>Remote debugging (serial port, remote machine over
+<code>TCP</code>/ip, USB).</li>
+</ul></li>
+<li>Memory overrun
+<ul>
+<li>Stack overrun, characterization of such faults, and techniques for
+guarding against</li>
+<li>Heap overrun, characterization of such faults, and techniques for
+guarding against</li>
+<li>Global storage overrun, characterization of such faults, and
+techniques for guarding against</li>
+</ul></li>
+<li>Multi-threading
+<ul>
+<li>And synchronization mechanisms</li>
+<li>Thread stack</li>
+<li><code>TLS</code></li>
+<li>Shared resources and keeping data integrity</li>
+</ul></li>
+<li>Using external libraries/tools
+<ul>
+<li><code>Efence</code></li>
+<li><code>dmalloc</code></li>
+<li><code>MPatrol</code></li>
+</ul></li>
+<li>The earliest point principle
+<ul>
+<li>The importance of finding the bug at the earliest point.</li>
+<li>Using assertions.</li>
+<li>Playing with memory allocation methods.</li>
+<li>Playing with data.</li>
+<li>Playing with optimization.</li>
+<li>Playing with the architecture.</li>
+<li>Using a sparse allocator.</li>
+<li>Checking your heap periodically.</li>
+<li><code>ulimit</code></li>
+<li>Changing read/write attributes of your memory pages.</li>
+<li>Injecting errors to check robustness.</li>
+</ul></li>
+<li>Dynamic allocations and memory leaks
+<ul>
+<li>Allocating memory without de-allocation</li>
+<li>De-allocating non allocated memory</li>
+<li>De-allocating already de-allocated memory</li>
+</ul></li>
+<li>Post mortem
+<ul>
+<li>Using core files correctly.</li>
+<li>At the client side.</li>
+<li>Techniques to have the software send you post mortem automatically
+from the client site.</li>
+</ul></li>
+<li>Stack structure
+<ul>
+<li>What can go wrong?</li>
+<li>Stacks and multi-threading</li>
+<li>Stacks and interrupts</li>
+<li>Stacks and infinite recursion.</li>
+</ul></li>
+<li>Tools: <code>nm</code>, <code>ldd</code>, <code>objdump</code>,
+<code>strace</code>, <code>ltrace</code>
+<ul>
+<li>runtime memory allocation information.</li>
+<li>taking snapshots of your heap.</li>
+<li><code>ld</code> - the dynamic linker.</li>
+<li>overriding symbols.</li>
+<li><code>LD_PRELOAD</code></li>
+<li>printing unmangled names.</li>
+</ul></li>
+<li>Misc issues:
+<ul>
+<li>Dynamically loading unloading code.</li>
+<li>Name mangling in C++.</li>
+<li>Some basic assembly can help.</li>
+<li>Using the system logger.</li>
+<li>Using the proc filesystem.</li>
+<li>Listing open files.</li>
+<li>Listing open ports.</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

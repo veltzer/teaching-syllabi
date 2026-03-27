@@ -1,0 +1,189 @@
+<h1 id="opencl-programming"><code>OpenCL</code> Programming</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>OpenCL</code> programming provides a comprehensive introduction
+to the <code>OpenCL</code> standard for heterogeneous parallel
+computing. The training offers a detailed walk-through of the different
+models defined by the <code>OpenCL</code> standard interleaved with
+specific examples to demonstrate the concepts. The focus is on GPU
+devices, and best practices will be discussed such as how to best suit
+an algorithm to GPU and optimization guidelines.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Software engineers with no, or little, <code>OpenCL</code>
+background, which about to embark on the development of an
+<code>OpenCL</code> project.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Knowledge of lower level programming is required:
+<code>Assembly</code>, C or C++.</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Understand the main idioms for <code>OpenCL</code>.</li>
+<li>Write correct and efficient <code>OpenCL</code> code.</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Parallel computing - introduction
+<ul>
+<li>Flinn’s taxonomy</li>
+<li>Parallel vs. Concurrent</li>
+<li>Task and Data parallelism</li>
+<li>What type of a processor is a GPU</li>
+<li>Mapping tasks to a suitable processor</li>
+</ul></li>
+<li>Introduction to <code>OpenCL</code>
+<ul>
+<li>What is <code>OpenCL</code></li>
+<li>How <code>OpenCL</code> came to be</li>
+<li><code>OpenCL</code> models</li>
+</ul></li>
+<li>First code - The anatomy of <code>OpenCL</code> applications
+<ul>
+<li>The platform model
+<ul>
+<li>Schematic view of an heterogeneous system</li>
+<li>Querying for platforms and devices</li>
+</ul></li>
+<li>The execution model
+<ul>
+<li>The structure of an <code>OpenCL</code> application</li>
+<li>Creating a context</li>
+<li>Creating command-queues</li>
+<li>Creating <code>OpenCL</code> programs and kernels
+<ul>
+<li>Writing <code>OpenCL</code>-C code</li>
+<li>Building the code</li>
+</ul></li>
+<li>Creating memory objects</li>
+<li>Data transfers between host processor and <code>OpenCL</code>
+device</li>
+<li>Executing kernels on the device</li>
+<li>Cleanup</li>
+</ul></li>
+</ul></li>
+<li>Platforms and devices
+<ul>
+<li>Mapping available <code>OpenCL</code> platforms and computation
+devices</li>
+<li>Retrieving information about the devices</li>
+<li>Survey of interesting device information</li>
+</ul></li>
+<li>Data-parallelism (and some complimentary information)
+<ul>
+<li>Spawning an ND-Range for parallel execution of work-items
+<ul>
+<li>What is an ND-Range</li>
+<li>What are work-items and work-groups</li>
+<li>Indexing work-items and work-groups</li>
+</ul></li>
+<li>Mapping work-items and work-groups onto GPU shader cores</li>
+<li>Parallelizing example from first code</li>
+<li>Execution model concepts re-visited
+<ul>
+<li>Context creation and information retrieval</li>
+<li>Command-queue types</li>
+<li>Types of commands</li>
+<li>The <code>OpenCL</code>-C compiler
+<ul>
+<li>Compiler flags</li>
+<li>Resolving compilation issues</li>
+<li>Retrieving compiled binaries</li>
+</ul></li>
+</ul></li>
+<li>New example: large matrix transpose</li>
+</ul></li>
+<li>The <code>OpenCL</code> memory model
+<ul>
+<li>Memory regions and accessibility</li>
+<li>Mapping the <code>OpenCL</code> memory model to GPU
+architecture</li>
+</ul></li>
+<li>Command synchronization and profiling
+<ul>
+<li>Synchronization levels</li>
+<li>Coarse synchronization
+<ul>
+<li>Queue flushing</li>
+<li>Barriers</li>
+</ul></li>
+<li>Fine-grained synchronization
+<ul>
+<li>Creating event objects</li>
+<li>Querying for event information</li>
+<li>Markers</li>
+<li>Synchronizing host application with command-queue</li>
+<li>User events</li>
+<li>Event callbacks</li>
+</ul></li>
+<li>Profiling commands using events</li>
+</ul></li>
+<li>The <code>OpenCL</code>-C language
+<ul>
+<li>Restriction and extensions over C99</li>
+<li>Data-types</li>
+<li>Working with vector literals and elements</li>
+<li>Host-side type referencing</li>
+<li>Qualifiers
+<ul>
+<li>Function qualifiers</li>
+<li>Address space qualifiers</li>
+<li>Accessing qualifiers</li>
+<li>Type qualifiers</li>
+</ul></li>
+<li>Pre-processor directives overview</li>
+<li>Overview of built-in functions
+<ul>
+<li>A word on math functions with emphasis GPU</li>
+</ul></li>
+</ul></li>
+<li><code>OpenCL</code> images
+<ul>
+<li>What are images</li>
+<li>Specialized hardware facilities in GPUs
+<ul>
+<li>Spatial locality aware cache</li>
+<li>Linear interpolation of adjacent values</li>
+<li>Out of bounds accesses</li>
+</ul></li>
+<li>Working with images
+<ul>
+<li>Creating images</li>
+<li>Image element type and arrangement</li>
+<li>Writing/reading data to/from images on the host</li>
+<li>Image sampler objects</li>
+<li>Writing/reading data to/from images in the kernel code</li>
+</ul></li>
+</ul></li>
+<li>Best practices
+<ul>
+<li>What algorithms best suit GPU implementation</li>
+<li>Optimization guidelines
+<ul>
+<li>Establishing an optimization strategy
+<ul>
+<li>Profiling and analyzing kernels</li>
+<li>Load balancing between GPU and host processor</li>
+<li>Memory sharing between GPU and host processor</li>
+</ul></li>
+<li>Optimization checklist
+<ul>
+<li>General optimizations</li>
+<li>Memory optimizations</li>
+<li>ND-Range optimizations</li>
+<li>Kernel code optimizations</li>
+<li>Host application execution optimizations</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

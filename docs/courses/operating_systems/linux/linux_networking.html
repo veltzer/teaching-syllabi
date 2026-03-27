@@ -1,0 +1,141 @@
+<h1 id="linux-networking"><code>Linux</code> networking</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Linux</code> is the premiere operation system used in today’s
+tech world and it’s networking support is extensive. There are many
+tasks to be done in administering and configuring <code>Linux</code>
+networking: setting up device drivers, tuning them, bonding, bridging,
+load balancing, firewalling and much more.</p>
+<p>This course is for those who wish to understand the
+<code>Linux</code> networking stack from the ground up, from C up to
+administration levels.</p>
+<h2 id="duration">Duration</h2>
+<p>24 hours / 3 days</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Networking for programmers
+<ul>
+<li>Introduction to <code>TCP</code>/IP</li>
+<li>Internet Protocol (IP)</li>
+<li>Transmission Control Protocol (<code>TCP</code>)</li>
+<li>User Datagram Protocol (<code>UDP</code>)</li>
+<li>Concepts: Router, Modem, Switch, Gateway, Server, Client, NAT,
+<code>DNS</code></li>
+</ul></li>
+<li>C user level <code>API</code> for networking.
+<ul>
+<li>Socket types: stream sockets (<code>TCP</code>) and datagram sockets
+(<code>UDP</code>).</li>
+<li>Writing servers</li>
+<li>Writing clients</li>
+<li>Controlling socket properties (queue size and more…)</li>
+<li>Sending and receiving data</li>
+<li>Out of band data</li>
+<li>Levels of service</li>
+</ul></li>
+<li>Command line and information about the network stack in real time
+<ul>
+<li>Information tools
+<ul>
+<li><code>/proc/[pid]/fd</code></li>
+<li><code>netstat</code></li>
+<li><code>ip</code></li>
+<li><code>ss</code></li>
+</ul></li>
+<li>Low level tools
+<ul>
+<li><code>ethtool</code></li>
+<li><code>mii-tool</code></li>
+<li><code>arp</code></li>
+</ul></li>
+<li>Configuration tools
+<ul>
+<li><code>ifconfig</code></li>
+<li><code>ip</code></li>
+<li><code>ifup</code>/<code>ifdown</code></li>
+<li>Persistent interface configuration.</li>
+<li><code>route</code></li>
+<li><code>iwconfig</code>, <code>iwlist</code>, <code>iwpriv</code></li>
+</ul></li>
+<li>performance tools:
+<ul>
+<li><code>jnettop</code></li>
+<li><code>netperf</code></li>
+<li><code>lnstat</code> <code>rtmon</code> <code>rtstat</code>
+<code>nstat</code> <code>rtacct</code> <code>routef</code>
+<code>routel</code> <code>ctstat</code></li>
+</ul></li>
+<li>Tapping tools
+<ul>
+<li><code>nc</code></li>
+<li><code>netcat</code></li>
+<li><code>tcpdump</code></li>
+<li><code>wireshark</code></li>
+</ul></li>
+<li>Debugging tools:
+<ul>
+<li><code>telnet</code></li>
+<li><code>ping</code> (and why it’s not SUID, <code>getcap</code>)</li>
+<li><code>traceroute</code></li>
+<li><code>nmap</code></li>
+</ul></li>
+</ul></li>
+<li>More advanced configurations
+<ul>
+<li>Bonding</li>
+<li>Load balancing.</li>
+<li>Bridging.</li>
+</ul></li>
+<li>Routing
+<ul>
+<li>how to see the current routing table.</li>
+<li><code>route(1)</code></li>
+<li><code>cat /proc/net/route</code></li>
+<li>Modifying and persisting the routing table</li>
+</ul></li>
+<li>Protocols support in the kernel.
+<ul>
+<li>How to see which protocols are supported?</li>
+<li>How to add a protocol?</li>
+<li>Protocols in the kernel are independent of the modules of
+transport.</li>
+</ul></li>
+<li>Kernel handling of packets
+<ul>
+<li>where are network packets caught? how are they handled?</li>
+<li>load balancing of packet handling.</li>
+<li>affinity between kernel code that handles the packets and the
+process that consumes them.</li>
+</ul></li>
+<li>the network device driver.
+<ul>
+<li>how are device drivers in the kernel written?</li>
+<li>how are they named?</li>
+<li>giving persistent names to certain devices.</li>
+</ul></li>
+<li>handling networking in user space
+<ul>
+<li><code>netfilter</code></li>
+<li><code>libpcap</code></li>
+<li><code>DPDK</code></li>
+<li><code>AF_PACKET</code></li>
+<li><code>netmap</code></li>
+<li><code>PF_RING</code></li>
+<li><code>XDP</code></li>
+<li><code>TUNTAP</code></li>
+<li>raw sockets.</li>
+</ul></li>
+</ul>
+<h2 id="references">References</h2>
+<ul>
+<li><a
+href="http://vilimpoc.org/research/ku-latency/">ku-latency</a></li>
+<li><a
+href="http://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels">vj_channels</a></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

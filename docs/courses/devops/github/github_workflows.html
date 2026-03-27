@@ -1,0 +1,150 @@
+<h1 id="github-workflows">GitHub Workflows</h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>GitHub Actions</code> and <code>GitHub Workflows</code> provide
+powerful automation capabilities for continuous integration, continuous
+deployment, and general task automation. This course covers fundamental
+to advanced workflow concepts and teaches how to effectively automate
+software development processes using <code>GitHub's</code> native
+<code>CI/CD</code> platform.</p>
+<h2 id="duration">Duration</h2>
+<p>8 hours / 1 day</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Software developers and <code>DevOps</code> engineers</li>
+<li>Development team leads and project managers</li>
+<li>System administrators managing deployment processes</li>
+<li>Quality assurance engineers working with automated testing</li>
+<li>Open source contributors and maintainers</li>
+<li>Anyone looking to automate repetitive development tasks</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Basic understanding of <code>Git</code> version control system</li>
+<li>Familiarity with <code>GitHub</code> repository management</li>
+<li>Basic knowledge of command-line interfaces</li>
+<li>Understanding of software development lifecycle concepts</li>
+<li>Basic familiarity with <code>YAML</code> syntax (helpful but not
+required)</li>
+<li>Experience with at least one programming language</li>
+<li>Access to a <code>GitHub</code> account with repository creation
+permissions</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Create and configure <code>GitHub Actions</code> workflows for
+automated tasks</li>
+<li>Implement <code>CI/CD</code> pipelines for code testing, building,
+and deployment</li>
+<li>Utilize pre-built actions from the
+<code>GitHub Marketplace</code></li>
+<li>Write custom actions using <code>JavaScript</code>,
+<code>Docker</code>, and composite actions</li>
+<li>Manage workflow triggers, events, and scheduling with
+<code>cron</code> expressions</li>
+<li>Handle secrets, environment variables, and secure deployment
+practices</li>
+<li>Debug and troubleshoot workflow failures effectively</li>
+<li>Optimize workflow performance and resource usage</li>
+<li>Implement matrix builds for multi-platform testing</li>
+<li>Apply best practices for workflow organization and
+maintainability</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>GitHub Actions</code> and Workflows
+<ul>
+<li>Overview of <code>CI/CD</code> concepts and benefits</li>
+<li><code>GitHub Actions</code> architecture and components</li>
+<li>Workflows, jobs, steps, and actions relationship</li>
+<li><code>GitHub Actions</code> vs other <code>CI/CD</code>
+platforms</li>
+<li>Setting up your first workflow</li>
+<li>Understanding the <code>.github/workflows</code> directory</li>
+<li>Basic <code>YAML</code> syntax for workflows</li>
+</ul></li>
+<li>Workflow Fundamentals
+<ul>
+<li>Workflow file structure and syntax</li>
+<li>Essential workflow components (<code>name</code>, <code>on</code>,
+<code>jobs</code>)</li>
+<li>Understanding runners (<code>ubuntu-latest</code>,
+<code>windows-latest</code>, <code>macos-latest</code>)</li>
+<li>Job dependencies and execution order</li>
+<li>Workflow status badges and monitoring</li>
+<li>Basic workflow examples and templates</li>
+</ul></li>
+<li>Events and Triggers
+<ul>
+<li>Push and pull request triggers</li>
+<li>Scheduled workflows with <code>cron</code> expressions</li>
+<li>Manual workflow dispatch (<code>workflow_dispatch</code>)</li>
+<li>Repository events (<code>issues</code>, <code>releases</code>,
+<code>fork</code>)</li>
+<li>External webhooks and repository dispatch</li>
+<li>Conditional execution with <code>if</code> statements</li>
+<li>Path-based filtering and branch targeting</li>
+</ul></li>
+<li>Actions and Marketplace
+<ul>
+<li>Using pre-built actions from <code>GitHub Marketplace</code></li>
+<li>Popular actions (<code>actions/checkout</code>,
+<code>actions/setup-node</code>,
+<code>actions/upload-artifact</code>)</li>
+<li>Action versioning and pinning strategies</li>
+<li>Reading action documentation and parameters</li>
+<li>Community actions vs official actions</li>
+<li>Action security considerations</li>
+</ul></li>
+<li>Environment Management
+<ul>
+<li>Working with environment variables (<code>env</code>,
+<code>$GITHUB_ENV</code>)</li>
+<li>Using <code>GitHub Secrets</code> for sensitive data</li>
+<li>Repository, environment, and organization secrets</li>
+<li>Context variables (<code>${{ github.ref }}</code>,
+<code>${{ runner.os }}</code>)</li>
+<li>Artifact upload and download
+(<code>actions/upload-artifact</code>)</li>
+<li>Cache management (<code>actions/cache</code>)</li>
+</ul></li>
+<li>Advanced Workflow Features
+<ul>
+<li>Matrix builds for multi-platform testing</li>
+<li>Conditional jobs and steps</li>
+<li>Job outputs and data passing between jobs</li>
+<li>Reusable workflows and workflow templates</li>
+<li>Composite actions creation</li>
+<li>Service containers and databases</li>
+<li>Self-hosted runners setup and management</li>
+</ul></li>
+<li>Custom Actions Development
+<ul>
+<li>Types of custom actions (<code>JavaScript</code>,
+<code>Docker</code>, <code>Composite</code>)</li>
+<li>Creating <code>JavaScript</code> actions with
+<code>Node.js</code></li>
+<li>Building <code>Docker</code> container actions</li>
+<li>Action metadata files (<code>action.yml</code>)</li>
+<li>Input and output parameters</li>
+<li>Publishing actions to <code>GitHub Marketplace</code></li>
+<li>Action testing and validation</li>
+</ul></li>
+<li>Best Practices and Optimization
+<ul>
+<li>Workflow organization and naming conventions</li>
+<li>Security best practices and <code>GITHUB_TOKEN</code>
+permissions</li>
+<li>Performance optimization and resource management</li>
+<li>Debugging workflows and troubleshooting common issues</li>
+<li>Monitoring workflow usage and billing</li>
+<li>Documentation and team collaboration</li>
+<li>Version control for workflow files</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>
