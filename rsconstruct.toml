@@ -67,9 +67,6 @@ enabled = false
 [processor.npm]
 enabled = false
 
-[processor.gem]
-enabled = false
-
 [processor.pip]
 enabled = false
 
