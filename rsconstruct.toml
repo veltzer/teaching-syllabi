@@ -72,3 +72,6 @@ enabled = false
 
 [processor.pip]
 enabled = false
+
+[processor.ascii_check]
+enabled = false
