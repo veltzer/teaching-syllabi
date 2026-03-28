@@ -6,6 +6,8 @@ tags:
   - security:owasp
 level: advanced
 category: security
+duration_hours_short: 16
+duration_hours_long: 40
 audience:
   - audiences:security-professionals
   - audiences:developers
@@ -19,7 +21,8 @@ Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)
 This course is a practical guide to discovering and exploiting security flaws in web applications. By "web applications" we mean those that are accessed using a web browser to communicate with a web server. We examine a wide variety of different technologies, such as databases, file systems, and web services, but only in the context in which these are employed by web applications. Throughout the course, we spell out the specific steps you need to follow to detect each type of vulnerability, and how to exploit it to perform unauthorized actions.
 
 ## Duration
-40 hours / 5 days
+* Short: 16 hours / 2 days
+* Long: 40 hours / 5 days
 
 ## Intended Audience
 * Penetration testers
@@ -72,9 +75,9 @@ These are the exercises that we will do:
     * Identifying Entry Points for User Input
     * Identifying Server-Side Technologies and Functionality
     * Mapping the Attack Surface
-    * Transmitting Data Via the Client
-    * Capturing User Data: HTML Forms
-    * Capturing User Data: Browser Extensions
+    * Transmitting Data Via the Client [long]
+    * Capturing User Data: HTML Forms [long]
+    * Capturing User Data: Browser Extensions [long]
 * Authentication and session attacks
     * Authentication Technologies
     * Design Flaws in Authentication Mechanisms
@@ -82,9 +85,9 @@ These are the exercises that we will do:
     * Implementation Flaws in Authentication
     * Securing Authentication
     * The Need for State
-    * Weaknesses in Token Generation
-    * Weaknesses in Session Token Handling
-    * Securing Session Management
+    * Weaknesses in Token Generation [long]
+    * Weaknesses in Session Token Handling [long]
+    * Securing Session Management [long]
 * Attacking data stores
     * Exploiting a Basic Vulnerability
     * Injecting into Different Statement Types
@@ -96,29 +99,29 @@ These are the exercises that we will do:
     * Advanced Exploitation (FS interaction, and code execution)
     * Bypassing Filters
     * Second-Order `SQL` Injection
-    * Beyond `SQL` Injection: Escalating the Database Attack
-    * Using `SQL` Exploitation Tools
-    * `SQL` Syntax and Error Reference
-    * Preventing `SQL` Injection
+    * Beyond `SQL` Injection: Escalating the Database Attack [long]
+    * Using `SQL` Exploitation Tools [long]
+    * `SQL` Syntax and Error Reference [long]
+    * Preventing `SQL` Injection [long]
 * Attacking Users: Cross-Site Scripting
     * Varieties of XSS
     * Real-World XSS Attacks
     * Payloads for XSS Attacks
     * Delivery Mechanisms for XSS Attacks
-    * Finding and Exploiting XSS Vulnerabilities
-    * Preventing Reflected and Stored XSS
-    * Evading security filters and browser checks
+    * Finding and Exploiting XSS Vulnerabilities [long]
+    * Preventing Reflected and Stored XSS [long]
+    * Evading security filters and browser checks [long]
 * Attacking Back-End Components and Application Logic
     * Injecting OS Commands
     * Manipulating File Paths
     * Injecting objects and (de)serializers
     * The Nature of Logic Flaws
     * Real-World Logic Flaws
-    * Avoiding Logic Flaws
-    * Hardening OS networking stacks
-    * Implement host-based firewalls and "good" logging
-    * Hardening web application servers (Apache, IIS)
-* boot2root attack scenario against a server
+    * Avoiding Logic Flaws [long]
+    * Hardening OS networking stacks [long]
+    * Implement host-based firewalls and "good" logging [long]
+    * Hardening web application servers (Apache, IIS) [long]
+* boot2root attack scenario against a server [long]
     * Scanning, enumeration and resource mapping
     * Testing for possible injections
     * Detect vulnerable parser at other side
@@ -129,7 +132,7 @@ These are the exercises that we will do:
     * Escalate privileges
     * Establish persistence
     * Pivot
-* boot2root: now it's your turn (optional)
+* boot2root: now it's your turn (optional) [long]
     * Final CTF
     * Students work on their own and submit reports
     * Workshop summary

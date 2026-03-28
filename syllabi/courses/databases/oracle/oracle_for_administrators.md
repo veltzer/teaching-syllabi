@@ -11,7 +11,7 @@ audience:
   - audiences:dbas
   - audiences:sysadmins
 ---
-# `Oracle` for Developers
+# `Oracle` for Administrators
 
 ## Credits
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)

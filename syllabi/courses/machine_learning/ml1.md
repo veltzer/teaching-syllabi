@@ -8,7 +8,7 @@ duration_hours: 56
 audience:
   - audiences:data-scientists
 ---
-# `Machine Learning`
+# `Machine Learning` Theory and Deep Learning
 
 ## Credits
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)

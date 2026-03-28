@@ -7,7 +7,8 @@ tags:
   - tools:sqlite
 level: beginner
 category: operating-systems
-duration_hours: 48
+duration_hours_short: 40
+duration_hours_long: 48
 audience:
   - audiences:developers
 ---
@@ -30,18 +31,16 @@ such as macOS or `Linux`.
 
 This course is intended for developers and teaches the `Kotlin` `APIs` of `Android`.
 
-When dropping the `Kotlin` chapter at the start the course shortens to 5 days.
-
 ## Duration
-48 hours / 6 days
+* Short: 40 hours / 5 days (assumes `Kotlin` experience)
+* Long: 48 hours / 6 days (includes `Kotlin` programming intro)
 
 ## Intended Audience
 * Object-oriented developers who would like to learn how to write `Android` applications using the `Kotlin` programming language.
 
 ## Prerequisites
 * Some knowledge of `XML` is required
-* For those without previous knowledge of `Kotlin`, the first day of the course (optional) will
-cover basic `Kotlin` topics
+* For the short version, previous knowledge and experience of `Kotlin` is assumed
 * Experience of using `Android` at a user level is not assumed but will be an advantage, as
 will previous experience of `Android` Studio
 
@@ -56,7 +55,7 @@ will previous experience of `Android` Studio
 * Effectively use external services and resources
 
 ## Outline
-* `Kotlin` Programming (Optional)
+* `Kotlin` Programming [long]
     * Basic Syntax
     * Object-Oriented Programming in `Kotlin`
     * Collections

@@ -77,6 +77,8 @@ def build_site() -> None:
         category = str(meta.get("category", ""))
         audience = [str(a) for a in meta.get("audience", []) if a is not None]
         duration_hours = meta.get("duration_hours", 0)
+        duration_hours_short = meta.get("duration_hours_short", 0)
+        duration_hours_long = meta.get("duration_hours_long", 0)
         folder = folder_label(rel)
 
         if isinstance(tags, list):
@@ -88,7 +90,7 @@ def build_site() -> None:
         if isinstance(audience, list):
             all_audiences.update(audience)
 
-        entries.append({
+        entry: dict[str, Any] = {
             "title": title,
             "path": str(rel),
             "folder": folder,
@@ -96,8 +98,16 @@ def build_site() -> None:
             "level": level if isinstance(level, str) else "",
             "category": category if isinstance(category, str) else "",
             "audience": audience if isinstance(audience, list) else [],
-            "duration_hours": duration_hours if isinstance(duration_hours, int) else 0,
-        })
+        }
+        if duration_hours_short or duration_hours_long:
+            dhs = duration_hours_short
+            entry["duration_hours_short"] = dhs if isinstance(dhs, int) else 0
+            dhl = duration_hours_long
+            entry["duration_hours_long"] = dhl if isinstance(dhl, int) else 0
+        else:
+            dh = duration_hours
+            entry["duration_hours"] = dh if isinstance(dh, int) else 0
+        entries.append(entry)
 
     index_html = generate_index(
         entries,
@@ -199,7 +209,14 @@ a:hover {{ text-decoration: underline; }}
 
 <script>
 const DATA = {json.dumps(entries, ensure_ascii=False)};
-DATA.forEach(e => {{ e.duration_days = e.duration_hours ? Math.round(e.duration_hours / 8) : 0; }});
+DATA.forEach(e => {{
+    const h = e.duration_hours || e.duration_hours_long || 0;
+    const hs = e.duration_hours_short || 0;
+    e.dh = h;
+    e.dh_short = hs;
+    e.duration_days = h ? Math.round(h / 8) : 0;
+    e.duration_days_short = hs ? Math.round(hs / 8) : 0;
+}});
 const ALL_DURATION_DAYS = [...new Set(DATA.map(e => e.duration_days).filter(d => d > 0))].sort((a, b) => a - b);
 
 const searchEl = document.getElementById("search");
@@ -211,7 +228,9 @@ const durationEl = document.getElementById("filter-duration");
 const resultsEl = document.getElementById("results");
 const totalEl = document.getElementById("total-count");
 
-durationEl.innerHTML = '<option value="">All durations</option>' + ALL_DURATION_DAYS.map(d => '<option value="' + d + '">' + d + (d === 1 ? " day" : " days") + "</option>").join("");
+durationEl.innerHTML = '<option value="">All durations</option>' +
+    ALL_DURATION_DAYS.map(d => '<option value="' + d + '">' + d +
+    (d === 1 ? " day" : " days") + "</option>").join("");
 
 function render() {{
     const search = searchEl.value.toLowerCase();
@@ -227,7 +246,12 @@ function render() {{
         if (category && e.category.replace(/-/g, " ").toLowerCase() !== category.replace(/-/g, " ").toLowerCase()) return false;
         if (tag && !e.tags.includes(tag)) return false;
         if (audience && !e.audience.some(a => a.replace(/-/g, " ").toLowerCase() === audience.replace(/-/g, " ").toLowerCase())) return false;
-        if (duration && e.duration_days !== parseInt(duration)) return false;
+        if (duration) {{
+            const d = parseInt(duration);
+            if (e.dh_short) {{
+                if (d < e.duration_days_short || d > e.duration_days) return false;
+            }} else if (e.duration_days !== d) return false;
+        }}
         return true;
     }});
 
@@ -250,7 +274,12 @@ function render() {{
         for (const item of items) {{
             const levelClass = item.level ? " level-" + item.level : "";
             const levelBadge = item.level ? '<span class="level' + levelClass + '">' + item.level + "</span>" : "";
-            const db = item.duration_hours ? item.duration_days + "d / " + item.duration_hours + "h" : "";
+            let db = "";
+            if (item.dh_short) {{
+                db = item.duration_days_short + "-" + item.duration_days + "d / " + item.dh_short + "-" + item.dh + "h";
+            }} else if (item.dh) {{
+                db = item.duration_days + "d / " + item.dh + "h";
+            }}
             const durationBadge = db ? '<span class="duration">' + db + "</span>" : "";
             html += '<li><a href="' + item.path + '">' + item.title + "</a>" + levelBadge + durationBadge + "</li>";
         }}

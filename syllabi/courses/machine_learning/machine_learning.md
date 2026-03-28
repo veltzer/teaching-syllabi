@@ -11,7 +11,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
-# `Machine Learning`
+# Intro to `Machine Learning` with `Python`
 
 ## Credits
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com)

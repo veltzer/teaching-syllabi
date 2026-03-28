@@ -302,5 +302,15 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
     * Root cause analysis methodology
     * Debugging metrics and KPIs
 
+<!-- Topics from the old `linux_debugging_old.md` not covered above:
+- `MMU` internals: how it works, what programs can/can't do, memory page limitations
+- Legacy memory debugging tools: `efence`, `dmalloc`, `MPatrol`
+- "Earliest point principle": sparse allocator, `ulimit`, changing r/w attributes of memory pages, injecting errors
+- Stack structure: stacks & interrupts, infinite recursion
+- Linker debugging: `ld`, `LD_PRELOAD`, overriding symbols
+- Misc: dynamic loading/unloading code, `C++` name mangling, basic assembly for debugging, system logger, listing open files/ports
+- Programming for better debugging: managing `changesets`, writing naive object versions, modular code for debugging
+-->
+
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

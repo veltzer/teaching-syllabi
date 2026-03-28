@@ -143,6 +143,16 @@ developer and your development environment more productive.
 * How to use `Docker` correctly
     * Always use one `Docker` image! that's the whole point of `Docker`!
     * Don't abuse the technology.
+* Fail often, fail soon
+    * Why fast failure is better than slow failure
+    * How to structure your systems for early failure detection
+* Focus, focus, focus
+    * Avoid context switching
+    * Reduce distractions in your development workflow
+* Basic engineering principles
+    * Isolation
+    * Redundancy
+    * Simplicity
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

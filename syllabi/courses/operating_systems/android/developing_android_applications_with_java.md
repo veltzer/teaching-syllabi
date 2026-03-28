@@ -7,7 +7,8 @@ tags:
   - tools:sqlite
 level: beginner
 category: operating-systems
-duration_hours: 48
+duration_hours_short: 40
+duration_hours_long: 48
 audience:
   - audiences:developers
 ---
@@ -30,18 +31,16 @@ such as macOS or `Linux`.
 
 This course is intended for `Java` programmers and teaches the `Java` `APIs` of `Android`.
 
-When dropping the `Java` chapter at the start the course shortens to 5 days.
-
 ## Duration
-48 hours / 6 days
+* Short: 40 hours / 5 days (assumes `Java` experience)
+* Long: 48 hours / 6 days (includes `Java` programming intro)
 
 ## Intended Audience
 * Object-oriented developers who would like to learn how to write `Android` applications using the `Java` programming language.
 
 ## Prerequisites
 * Some knowledge of `XML` is required
-* For those without a previous knowledge of `Java`, the first day of the course (optional) will
-cover basic `Java` topics
+* For the short version, previous knowledge and experience of `Java` is assumed
 * Experience of using `Android` at a user level is not assumed but will be an advantage, as
 will previous experience of `Android` Studio
 
@@ -56,7 +55,7 @@ will previous experience of `Android` Studio
 * Effectively use external services and resources
 
 ## Outline
-* `Java` Programming (Optional)
+* `Java` Programming [long]
     * Basic Syntax
     * `OOP`
     * Collections

@@ -5,6 +5,8 @@ tags:
   - data-and-ai:data-science
 level: intermediate
 category: language
+duration_hours_short: 16
+duration_hours_long: 40
 audience:
   - audiences:developers
   - audiences:data-scientists
@@ -25,8 +27,12 @@ Learning. Using `Python`, you'll learn about not only the theoretical underpinni
 but also gain the practical know-how needed to quickly and powerfully apply these techniques to
 new problems.
 
+The short version is intended for people who are already familiar with `Python`
+and have completed the data science course.
+
 ## Duration
-40 hours / 5 days
+* Short: 16 hours / 2 days
+* Long: 40 hours / 5 days
 
 ## Intended Audience
 * Professionals, Data Engineers, and other roles responsible for analyzing the organization's data.
@@ -35,15 +41,16 @@ new problems.
 
 ## Prerequisites
 * experience with Python programming
+* For the short version: basic `Python` proficiency and `Python` Data Science training
 
 ## Objectives
-* understand the core concepts and principles of Practical `Machine Learning` Using `Python
-* gain practical knowledge of Python` Refresher/Crash Course
-* gain practical knowledge of Introduction to Data Analysis
-* gain practical knowledge of Machine Learning` Basic Concepts
+* understand the core concepts and principles of Practical `Machine Learning` Using `Python`
+* gain practical knowledge of `Machine Learning` Basic Concepts
+* gain practical knowledge of Data Preparation
+* gain practical knowledge of Supervised Learning
 
 ## Outline
-* `Python` Refresher/Crash Course
+* `Python` Refresher/Crash Course [long]
     * Introduction
     * `IDEs` and Tools for data analysis
     * Data types and strings
@@ -52,7 +59,7 @@ new problems.
     * Collections
     * Object Oriented
     * Modules and Packages
-* Introduction to Data Analysis
+* Introduction to Data Analysis [long]
     * Data Science
     * `Machine Learning` Overview
     * Data Analysis and `ML` Packages overview
@@ -70,8 +77,8 @@ new problems.
         * Reinforcement learning
     * Batch vs Online Learning
     * Instance-based vs model-based learning
-    * CRISP - DM Methodology
-* Business and Data Understanding
+    * CRISP-DM Methodology
+* Business and Data Understanding [long]
     * `ML` tasks
     * Algorithms
     * Variables and Features
@@ -145,7 +152,7 @@ new problems.
     * Clustering
     * K-Means
     * Recommender systems
-* Deep Learning and Neural Networks
+* Deep Learning and Neural Networks [long]
     * Deep Learning
     * Neural networks overview
     * The perceptron
@@ -164,7 +171,7 @@ new problems.
     * Recurrent Neural Networks
     * SOM
     * Auto Encoders
-* Advanced topics
+* Advanced topics [long]
     * `NLP`
     * Anomaly detection
     * Handling imbalanced data

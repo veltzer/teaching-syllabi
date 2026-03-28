@@ -7,6 +7,8 @@ tags:
   - data-and-ai:data-science
 level: intermediate
 category: language
+duration_hours_short: 16
+duration_hours_long: 32
 audience:
   - audiences:developers
   - audiences:data-scientists
@@ -29,7 +31,8 @@ applications
 `Python` is considered to be one of the most efficient programming languages for data analysis
 
 ## Duration
-32 hours / 4 days
+* Short: 16 hours / 2 days
+* Long: 32 hours / 4 days
 
 ## Intended Audience
 * Data Analysts, Developers, Business Intelligence professionals, Data Engineers,
@@ -37,11 +40,15 @@ and other roles responsible for analyzing the organization's data.
 
 ## Prerequisites
 * Basic understanding of Programming concepts
+* People who have a working knowledge of `Python` [short]
 
 ## Objectives
+* Understand how to use the most prominent `Python` libraries for data analysis.
+* Understand the most common mathematical concepts used in data analysis.
+* Get familiar with how to visualize data using `Python`.
 
 ## Outline
-* `Python` Refresher / Crash Course
+* `Python` Refresher / Crash Course [long]
     * Introduction
     * `IDEs` and Tools for data analysis
     * Data types and strings
@@ -136,14 +143,14 @@ and other roles responsible for analyzing the organization's data.
     * Histograms
     * Interactive graphs and Events
     * Animation
-* Seaborn
+* Seaborn [long]
     * Overview
     * Statistics graphs
     * Histograms and distributions
     * Bar plots and Box-plot
     * Heat map and correlation
     * Grids
-* Data Preparation
+* Data Preparation [long]
     * Data preparation and cleaning
     * Dealing with Missing values
     * Central tendency
@@ -152,7 +159,7 @@ and other roles responsible for analyzing the organization's data.
     * Variance and standard deviation
     * Standard scores
     * Feature scaling - standardization and normalization
-* `Machine Learning` Basic Concepts
+* `Machine Learning` Basic Concepts [long]
     * Overview
     * Why Learn
     * Applications

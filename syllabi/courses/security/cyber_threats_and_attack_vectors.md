@@ -6,6 +6,8 @@ tags:
   - security:penetration-testing
 level: intermediate
 category: security
+duration_hours_short: 24
+duration_hours_long: 48
 audience:
   - audiences:security-professionals
   - audiences:developers
@@ -22,7 +24,8 @@ the following chapters and then goes into the various attack vectors. Each attac
 and demonstrated.
 
 ## Duration
-48 hours / 6 days
+* Short: 24 hours / 3 days
+* Long: 48 hours / 6 days
 
 ## Intended Audience
 * Anyone who wishes to understand the current security landscape of threats and attack vectors.
@@ -43,18 +46,18 @@ and demonstrated.
     * What are the hackers motivations?
     * What are the hackers goals?
     * What are the hackers targets?
-        * Data theft
-        * Password theft
-        * Credit card data
-        * `DNS`
-        * Client takeover
-        * CDN
-        * Firewall
-        * Load Balancer
-        * Application (regular and mobile)
-        * Web server
-        * Operating system
-        * Database
+        * Data theft [long]
+        * Password theft [long]
+        * Credit card data [long]
+        * `DNS` [long]
+        * Client takeover [long]
+        * CDN [long]
+        * Firewall [long]
+        * Load Balancer [long]
+        * Application (regular and mobile) [long]
+        * Web server [long]
+        * Operating system [long]
+        * Database [long]
     * Attack life-cycle
     * Forensics introduction
 * Basic OS security
@@ -63,7 +66,10 @@ and demonstrated.
     * Reverse hashing
     * `sudo` and other tools.
     * Containers and security (e.g. `docker`)
-* Networking background
+* Injections
+    * `SQL` Injection
+    * Shell injection
+* Networking background [long]
     * IP addresses
     * Geo IP, ISP, ASN, CIDR
     * Routers
@@ -72,7 +78,7 @@ and demonstrated.
     * URL encoding
     * NAT
     * `SSL` (symmetric and asymmetric encryption)
-* `DNS` background
+* `DNS` background [long]
     * The protocol and it's versions
     * The `DNS` network
     * Why is `DNS` important for security?
@@ -85,10 +91,10 @@ and demonstrated.
     * Zero-Day-Attack
     * Cache Poisoning
     * `DNS` Denial of Service
-    * `DNS` Distributes Denial of Service
+    * `DNS` Distributed Denial of Service
     * `DNS` Amplification
     * Fast-Flux `DNS`
-* Web/HTTP background
+* Web/HTTP background [long]
     * What is a webserver?
     * What is a webclient?
     * `HTTP` protocol and it's versions
@@ -114,12 +120,12 @@ and demonstrated.
     * X-Forward-For
     * Certificates for server and client (symmetric and non symmetric)
     * CORS
-* Web server security
+* Web server security [long]
     * `SSL`
     * `SSL` Certificates
     * Access control lists (ACLs)
     * X-Forwarded-For security
-* Web application authentication methods
+* Web application authentication methods [long]
     * Basic Auth
     * Cookies and cookie expiration
     * `HTTP` only cookies
@@ -140,30 +146,31 @@ and demonstrated.
     * What is denial of inventory?
     * Hacking New Gen Bots
     * Data scraping
-    * Hacking headless browsers
-* Web application security
+    * Hacking headless browsers [long]
+* Web application security [long]
     * What is an account takeover?
     * How to fight account takeovers?
 * Browser hacking
-    * Basic browser security
     * Man in the Middle
-    * Hacking other tabs in the browser
-        * Local storage events
-        * Broadcast channels
-        * Service worker `postMessage`
-        * Window `postMessage`
-    * Stealing data from browser local storage, session storage and SQLite databases
-    * Stealing browser auto-complete, browsing history, cookies and more
-    * Stealing browser stored usernames and passwords
-    * Breaking out of the browser to the operating system outside.
-    * Fake browser parts by using canvas
-    * Client side form-jacking
-* Search engines
+    * Local store attack
+    * Basic browser security [long]
+    * Hacking other tabs in the browser [long]
+        * Local storage events [long]
+        * Broadcast channels [long]
+        * Service worker `postMessage` [long]
+        * Window `postMessage` [long]
+    * Stealing data from browser local storage, session storage and SQLite databases [long]
+    * Stealing browser auto-complete, browsing history, cookies and more [long]
+    * Stealing browser stored usernames and passwords [long]
+    * Breaking out of the browser to the operating system outside. [long]
+    * Fake browser parts by using canvas [long]
+    * Client side form-jacking [long]
+* Search engines [long]
     * Robots.txt
     * How can search engines be used for hacking?
 * Tools
-    * F12
-    * Burp
+    * F12 [long]
+    * Burp [long]
     * NMAP
 * Web hacking
     * Google hacking
@@ -171,13 +178,13 @@ and demonstrated.
     * X-Forward-For L7 IP spoofing
 * Catching hackers
     * What are honey pots and how they are used
-    * Various honey pots:
-        * robots.txt as honeypot
-        * known hacking URLs
-        * `chroot` jails
-        * containers (`docker` etc)
-        * fake applications
-* Secure coding
+    * Various honey pots: [long]
+        * robots.txt as honeypot [long]
+        * known hacking URLs [long]
+        * `chroot` jails [long]
+        * containers (`docker` etc) [long]
+        * fake applications [long]
+* Secure coding [long]
     * code review as a tool for security
     * application logic
     * logic flow
@@ -189,7 +196,7 @@ and demonstrated.
     * The difference between different platforms and languages
     * Security oriented code scanning tools
     * Testing your codes security
-* Databases and hacking
+* Databases and hacking [long]
     * Basic database security
     * `SQL` injection
     * Stored procedure hacking.
@@ -201,23 +208,20 @@ and demonstrated.
         * Connection flood
         * SYN flood attack
     * L7
-        * Basic `HTTP` Floods
-        * Randomized `HTTP` Floods
-        * Get flood
-        * Post Flood
+        * Basic `HTTP` Floods (Get, POST, Randomized)
         * Slowloris Attacks
-            * Slow Header
-            * Slow Body
-            * Slow read
-        * WordPress `XML`-`RPC` Floods
-* Securing large scale web `APIs`
+            * Slow Header [long]
+            * Slow Body [long]
+            * Slow read [long]
+        * WordPress `XML`-`RPC` Floods [long]
+* Securing large scale web `APIs` [long]
     * Managed `APIs`
         * Swagger
         * `AWS` `API` gateway
         * `GCP` web functions
     * Serverless and applications and web security
     * Managed WAFs
-* CDN features
+* CDN features [long]
     * Caching
     * Application load balancing
     * Origin shield
@@ -232,12 +236,12 @@ and demonstrated.
     * `TCP` multiplexing
     * Anti-spoofing and X-Forwarded-For
 * CDN hacking
-    * Data Breach
-    * DDOS attacks
-    * Malware and Virus distribution
+    * Data Breach [long]
+    * DDOS attacks [long]
+    * Malware and Virus distribution [long]
     * Domain high-jacking
     * Insider threat
-* Standard attack vectors and OWASP
+* Standard attack vectors and OWASP [long]
     * OS injection / Shell injection
     * Filesystem attacks
         * Remote File Inclusion (RFI) and Local File Inclusion (LFI)
