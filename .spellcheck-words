@@ -593,3 +593,11 @@ fallthrough
 fallthrough
 packfiles
 packfiles
+bazel
+monorepos
+scons
+sconscript
+sconstruct
+scons
+sconscript
+sconstruct

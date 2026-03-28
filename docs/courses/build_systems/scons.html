@@ -1,0 +1,111 @@
+<h1 id="scons"><code>SCons</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>SCons</code> is a software construction tool that uses
+<code>Python</code> scripts as its configuration files, providing a
+powerful and flexible alternative to <code>Make</code> and
+<code>CMake</code>. This course covers <code>SCons</code> from the
+ground up, including its dependency analysis engine, builder and scanner
+system, and how to use it for multi-language and cross-platform
+builds.</p>
+<h2 id="duration">Duration</h2>
+<p>16 hours / 2 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Software developers managing build processes</li>
+<li><code>DevOps</code> engineers working with CI/CD pipelines</li>
+<li><code>Python</code> developers looking for a
+<code>Python</code>-native build system</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Software development experience</li>
+<li>Basic <code>Python</code> knowledge</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Understand <code>SCons</code>’s architecture and dependency analysis
+model</li>
+<li>Write SConstruct and SConscript files for multi-directory
+projects</li>
+<li>Create custom builders, scanners, and tools</li>
+<li>Configure <code>SCons</code> for cross-platform and multi-language
+builds</li>
+<li>Optimize build performance for large projects</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>SCons</code>
+<ul>
+<li>History and motivation</li>
+<li>Comparison with other build systems (<code>Make</code>,
+<code>CMake</code>, <code>Bazel</code>)</li>
+<li>Core concepts: environments, builders, nodes, targets</li>
+<li>Installing <code>SCons</code></li>
+<li>First build: “Hello, World!”</li>
+</ul></li>
+<li>SConstruct and SConscript Files
+<ul>
+<li>SConstruct as the top-level build file</li>
+<li>Hierarchical builds with SConscript</li>
+<li><code>Python</code> as the configuration language</li>
+<li>Returning values from subsidiary scripts</li>
+<li>Variable import and export between scripts</li>
+</ul></li>
+<li>Construction Environments
+<ul>
+<li>Default environment and customization</li>
+<li>Cloning and overriding environments</li>
+<li>Compiler and linker flag management</li>
+<li>Platform detection and cross-platform builds</li>
+<li>Tool specification and auto-detection</li>
+</ul></li>
+<li>Built-in Builders
+<ul>
+<li>Compiling <code>C</code>/<code>C++</code> programs and
+libraries</li>
+<li>Static and shared libraries</li>
+<li><code>Java</code> compilation</li>
+<li>LaTeX and PDF generation</li>
+<li>Archive and package builders</li>
+</ul></li>
+<li>Dependency Management
+<ul>
+<li>Implicit and explicit dependencies</li>
+<li>The MD5 signature mechanism</li>
+<li>Timestamp vs content-based rebuilds</li>
+<li>Source and target scanners</li>
+<li>Order-only dependencies</li>
+</ul></li>
+<li>Custom Builders and Scanners
+<ul>
+<li>Writing custom builders</li>
+<li>Writing custom scanners</li>
+<li>Emitters for generated files</li>
+<li>Integrating external tools</li>
+<li>Pseudo-builders and wrappers</li>
+</ul></li>
+<li>Advanced Features
+<ul>
+<li>Variant directories (build output separation)</li>
+<li>Caching compiled objects (CacheDir)</li>
+<li>Parallel builds</li>
+<li>Configuration checks (CheckLib, CheckHeader, custom checks)</li>
+<li>Command-line variables and ARGUMENTS</li>
+<li>AddOption for custom command-line flags</li>
+</ul></li>
+<li>Integration and Best Practices
+<ul>
+<li>Integrating <code>SCons</code> into CI/CD pipelines</li>
+<li>Combining <code>SCons</code> with other tools</li>
+<li>Managing large projects</li>
+<li>Performance tuning for large builds</li>
+<li>Migrating from <code>Make</code> or <code>CMake</code></li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

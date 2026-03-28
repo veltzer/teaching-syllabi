@@ -1,5 +1,7 @@
 android-studio
 ansible
+bazel
+buck2
 argo-cd
 bitbake
 boost
@@ -39,6 +41,7 @@ puppet
 qemu
 rabbitmq
 redis
+scons
 selenium
 solr
 spark

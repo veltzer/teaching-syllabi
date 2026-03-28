@@ -1,0 +1,102 @@
+<h1 id="bazel"><code>Bazel</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Bazel</code> is a fast, scalable, multi-language build system
+originally developed by Google. It is designed for large codebases and
+monorepos, providing hermetic builds, remote caching, and remote
+execution. This course covers <code>Bazel</code> from the ground up,
+including its build model, rule system, and integration into real-world
+development workflows.</p>
+<h2 id="duration">Duration</h2>
+<p>16 hours / 2 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Software developers working with large or multi-language
+codebases</li>
+<li><code>DevOps</code> engineers managing build infrastructure</li>
+<li>Teams considering a migration to <code>Bazel</code> or monorepo
+workflows</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Software development experience in at least one compiled
+language</li>
+<li>Basic familiarity with build systems concepts</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Understand <code>Bazel</code>’s build model and how it differs from
+traditional build systems</li>
+<li>Write BUILD files and configure <code>Bazel</code> workspaces</li>
+<li>Create and use custom rules with <code>Starlark</code></li>
+<li>Configure remote caching and remote execution</li>
+<li>Integrate <code>Bazel</code> into CI/CD pipelines</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>Bazel</code>
+<ul>
+<li>History and motivation (from Google’s Blaze to open-source
+<code>Bazel</code>)</li>
+<li>Comparison with other build systems (<code>Make</code>,
+<code>CMake</code>, <code>Gradle</code>, <code>Buck2</code>)</li>
+<li>Core concepts: targets, labels, packages, workspaces</li>
+<li>The hermetic build model</li>
+<li>Installing and configuring <code>Bazel</code></li>
+</ul></li>
+<li>BUILD Files and Workspaces
+<ul>
+<li>WORKSPACE and MODULE.bazel files</li>
+<li>Writing BUILD files</li>
+<li>Built-in rules for <code>C</code>/<code>C++</code>,
+<code>Java</code>, <code>Python</code>, <code>Go</code></li>
+<li>Filegroups and genrules</li>
+<li>Visibility and access control</li>
+<li>Managing third-party dependencies with Bzlmod</li>
+</ul></li>
+<li>The <code>Starlark</code> Language
+<ul>
+<li><code>Starlark</code> syntax and semantics</li>
+<li>Writing custom rules</li>
+<li>Providers and aspects</li>
+<li>Macros vs rules</li>
+<li>Testing custom rules</li>
+</ul></li>
+<li>Building Multi-Language Projects
+<ul>
+<li>Cross-language dependencies</li>
+<li>Protocol Buffers and gRPC with <code>Bazel</code></li>
+<li>Building containers with rules_oci</li>
+<li><code>Java</code>, <code>C++</code>, <code>Python</code>, and
+<code>Go</code> interoperability</li>
+</ul></li>
+<li>Testing with <code>Bazel</code>
+<ul>
+<li>Test rules and test suites</li>
+<li>Test sharding and parallelism</li>
+<li>Flaky test handling</li>
+<li>Code coverage</li>
+</ul></li>
+<li>Performance and Scalability
+<ul>
+<li>Incremental and cached builds</li>
+<li>Remote caching (HTTP, gRPC)</li>
+<li>Remote execution with <code>Bazel</code> Remote Execution API</li>
+<li>Build profiling and optimization</li>
+<li>Dealing with large monorepos</li>
+</ul></li>
+<li>Integration and Migration
+<ul>
+<li>Integrating <code>Bazel</code> into CI/CD pipelines</li>
+<li>Migrating from <code>Make</code>, <code>CMake</code>, or
+<code>Gradle</code></li>
+<li>IDE integration (IntelliJ, VS Code)</li>
+<li>Build event protocol and build observability</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

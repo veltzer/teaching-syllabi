@@ -16,6 +16,7 @@ log-management
 logging
 methodology
 mobile
+monorepo
 monitoring
 observability
 perf

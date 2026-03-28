@@ -1,0 +1,102 @@
+<h1 id="buck2"><code>Buck2</code></h1>
+<h2 id="credits">Credits</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a></p>
+<h2 id="description">Description</h2>
+<p><code>Buck2</code> is a high-performance, large-scale build system
+developed by Meta. It is a ground-up rewrite of the original Buck,
+written in <code>Rust</code>, and designed for speed, correctness, and
+scalability. This course covers <code>Buck2</code>’s architecture, its
+<code>Starlark</code>-based rule system, and how to use it effectively
+for multi-language monorepo development.</p>
+<h2 id="duration">Duration</h2>
+<p>16 hours / 2 days</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<ul>
+<li>Software developers working with large or multi-language
+codebases</li>
+<li><code>DevOps</code> engineers managing build infrastructure</li>
+<li>Teams considering a migration to <code>Buck2</code> or monorepo
+workflows</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Software development experience in at least one compiled
+language</li>
+<li>Basic familiarity with build systems concepts</li>
+</ul>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Understand <code>Buck2</code>’s architecture and how it differs from
+other build systems</li>
+<li>Write BUCK files and configure <code>Buck2</code> projects</li>
+<li>Create and use custom rules with <code>Starlark</code></li>
+<li>Configure remote execution</li>
+<li>Integrate <code>Buck2</code> into CI/CD pipelines</li>
+</ul>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Introduction to <code>Buck2</code>
+<ul>
+<li>History and motivation (from Buck to <code>Buck2</code>)</li>
+<li>Comparison with other build systems (<code>Make</code>,
+<code>CMake</code>, <code>Bazel</code>, <code>Gradle</code>)</li>
+<li>Core concepts: targets, cells, packages, configurations</li>
+<li>The <code>Buck2</code> daemon and incremental computation
+engine</li>
+<li>Installing and configuring <code>Buck2</code></li>
+</ul></li>
+<li>BUCK Files and Project Structure
+<ul>
+<li>Project layout and cell configuration</li>
+<li>Writing BUCK files</li>
+<li>Built-in rules for <code>C</code>/<code>C++</code>,
+<code>Java</code>, <code>Python</code>, <code>Rust</code>,
+<code>Go</code></li>
+<li>Target visibility and access control</li>
+<li>Managing third-party dependencies</li>
+</ul></li>
+<li>The <code>Starlark</code> Rule System
+<ul>
+<li><code>Starlark</code> syntax and semantics</li>
+<li>Writing custom rules</li>
+<li>Providers and artifacts</li>
+<li>Actions and command execution</li>
+<li>Transitions and platform configuration</li>
+<li>Testing custom rules</li>
+</ul></li>
+<li>Building Multi-Language Projects
+<ul>
+<li>Cross-language dependencies</li>
+<li>Protocol Buffers and gRPC with <code>Buck2</code></li>
+<li>Building containers</li>
+<li>Platform-specific builds and select()</li>
+</ul></li>
+<li>Testing with <code>Buck2</code>
+<ul>
+<li>Test rules and test runners</li>
+<li>Test parallelism</li>
+<li>Local and remote test execution</li>
+<li>Code coverage</li>
+</ul></li>
+<li>Performance and Scalability
+<ul>
+<li>Incremental builds and the DICE computation framework</li>
+<li>Remote execution</li>
+<li>Build profiling and critical path analysis</li>
+<li>Virtual filesystems and lazy materialization</li>
+<li>Dealing with large monorepos</li>
+</ul></li>
+<li>Integration and Migration
+<ul>
+<li>Integrating <code>Buck2</code> into CI/CD pipelines</li>
+<li>Migrating from Buck v1, <code>Bazel</code>, or other build
+systems</li>
+<li>IDE integration</li>
+<li>Build observability and logging</li>
+</ul></li>
+</ul>
+<h2 id="copyright">Copyright</h2>
+<p>Mark Veltzer <a
+href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, ©
+2026</p>

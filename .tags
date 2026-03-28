@@ -260,6 +260,7 @@ practices:logging
 practices:methodology
 practices:mobile
 practices:monitoring
+practices:monorepo
 practices:observability
 practices:perf
 practices:performance
@@ -294,8 +295,10 @@ security:web-security
 tools:android-studio
 tools:ansible
 tools:argo-cd
+tools:bazel
 tools:bitbake
 tools:boost
+tools:buck2
 tools:buildroot
 tools:cmake
 tools:docker
@@ -332,6 +335,7 @@ tools:puppet
 tools:qemu
 tools:rabbitmq
 tools:redis
+tools:scons
 tools:selenium
 tools:solr
 tools:spark
