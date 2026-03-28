@@ -180,6 +180,10 @@ a:hover {{ text-decoration: underline; }}
 </select>
 </div>
 <div class="filter-row">
+<label for="filter-duration">Duration:</label>
+<select id="filter-duration"></select>
+</div>
+<div class="filter-row">
 <label for="filter-audience">Audience:</label>
 <select id="filter-audience">
 <option value="">All audiences</option>
@@ -195,14 +199,19 @@ a:hover {{ text-decoration: underline; }}
 
 <script>
 const DATA = {json.dumps(entries, ensure_ascii=False)};
+DATA.forEach(e => {{ e.duration_days = e.duration_hours ? Math.round(e.duration_hours / 8) : 0; }});
+const ALL_DURATION_DAYS = [...new Set(DATA.map(e => e.duration_days).filter(d => d > 0))].sort((a, b) => a - b);
 
 const searchEl = document.getElementById("search");
 const levelEl = document.getElementById("filter-level");
 const categoryEl = document.getElementById("filter-category");
 const tagEl = document.getElementById("filter-tag");
 const audienceEl = document.getElementById("filter-audience");
+const durationEl = document.getElementById("filter-duration");
 const resultsEl = document.getElementById("results");
 const totalEl = document.getElementById("total-count");
+
+durationEl.innerHTML = '<option value="">All durations</option>' + ALL_DURATION_DAYS.map(d => '<option value="' + d + '">' + d + (d === 1 ? " day" : " days") + "</option>").join("");
 
 function render() {{
     const search = searchEl.value.toLowerCase();
@@ -210,6 +219,7 @@ function render() {{
     const category = categoryEl.value;
     const tag = tagEl.value;
     const audience = audienceEl.value;
+    const duration = durationEl.value;
 
     const filtered = DATA.filter(e => {{
         if (search && !e.title.toLowerCase().includes(search)) return false;
@@ -217,6 +227,7 @@ function render() {{
         if (category && e.category.replace(/-/g, " ").toLowerCase() !== category.replace(/-/g, " ").toLowerCase()) return false;
         if (tag && !e.tags.includes(tag)) return false;
         if (audience && !e.audience.some(a => a.replace(/-/g, " ").toLowerCase() === audience.replace(/-/g, " ").toLowerCase())) return false;
+        if (duration && e.duration_days !== parseInt(duration)) return false;
         return true;
     }});
 
@@ -239,7 +250,8 @@ function render() {{
         for (const item of items) {{
             const levelClass = item.level ? " level-" + item.level : "";
             const levelBadge = item.level ? '<span class="level' + levelClass + '">' + item.level + "</span>" : "";
-            const durationBadge = item.duration_hours ? '<span class="duration">' + item.duration_hours + "h</span>" : "";
+            const db = item.duration_hours ? item.duration_days + "d / " + item.duration_hours + "h" : "";
+            const durationBadge = db ? '<span class="duration">' + db + "</span>" : "";
             html += '<li><a href="' + item.path + '">' + item.title + "</a>" + levelBadge + durationBadge + "</li>";
         }}
         html += "</ul>";
@@ -252,6 +264,7 @@ levelEl.addEventListener("change", render);
 categoryEl.addEventListener("change", render);
 tagEl.addEventListener("change", render);
 audienceEl.addEventListener("change", render);
+durationEl.addEventListener("change", render);
 render();
 </script>
 </body>
