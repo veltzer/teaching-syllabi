@@ -8,7 +8,7 @@ tags:
   - hardware-and-embedded:toolchain
 level: intermediate
 category: operating-systems
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
 ---

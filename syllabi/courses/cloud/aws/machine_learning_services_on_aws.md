@@ -6,7 +6,7 @@ tags:
   - data-and-ai:nlp
 level: intermediate
 category: cloud
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:data-scientists
   - audiences:developers

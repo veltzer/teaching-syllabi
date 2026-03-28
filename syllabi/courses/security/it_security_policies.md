@@ -5,7 +5,7 @@ tags:
   - security:compliance
 level: beginner
 category: security
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:managers
   - audiences:developers

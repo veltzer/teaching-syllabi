@@ -6,7 +6,7 @@ tags:
   - practices:ci-cd
 level: beginner
 category: devops
-duration_days: 1
+duration_hours: 8
 audience:
   - practices:devops
 ---

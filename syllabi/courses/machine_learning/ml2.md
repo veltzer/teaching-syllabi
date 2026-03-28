@@ -4,7 +4,7 @@ tags:
   - data-and-ai:supervised-learning
 level: advanced
 category: machine-learning
-duration_days: 7
+duration_hours: 56
 audience:
   - audiences:data-scientists
 ---

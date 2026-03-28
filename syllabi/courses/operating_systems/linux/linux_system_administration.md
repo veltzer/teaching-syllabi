@@ -8,7 +8,7 @@ tags:
   - practices:monitoring
 level: intermediate
 category: operating-systems
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:sysadmins
   - practices:devops

@@ -8,7 +8,7 @@ tags:
   - security:aslr
 level: intermediate
 category: operating-systems
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
 ---

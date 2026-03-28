@@ -9,7 +9,7 @@ tags:
   - infrastructure:namespaces
 level: advanced
 category: operating-systems
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins

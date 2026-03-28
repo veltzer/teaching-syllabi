@@ -6,7 +6,7 @@ tags:
   - data-and-ai:data-modeling
 level: intermediate
 category: database
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
   - audiences:dbas

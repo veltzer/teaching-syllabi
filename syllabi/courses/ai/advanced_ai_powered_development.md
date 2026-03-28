@@ -10,7 +10,7 @@ tags:
   - audiences:productivity
 level: advanced
 category: ai
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:architects

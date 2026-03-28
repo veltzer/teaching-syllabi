@@ -6,7 +6,7 @@ tags:
   - networking:802.11
 level: intermediate
 category: networking
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - audiences:embedded-engineers

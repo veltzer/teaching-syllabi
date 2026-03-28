@@ -7,7 +7,7 @@ tags:
   - practices:monitoring
 level: intermediate
 category: database
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - practices:devops

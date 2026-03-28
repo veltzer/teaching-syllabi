@@ -8,7 +8,7 @@ tags:
   - practices:latency
 level: advanced
 category: operating-systems
-duration_days: 4
+duration_hours: 32
 audience:
   - audiences:developers
   - audiences:embedded-engineers

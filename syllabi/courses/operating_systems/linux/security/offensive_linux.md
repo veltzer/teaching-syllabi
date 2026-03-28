@@ -8,7 +8,7 @@ tags:
   - security:red-team
 level: advanced
 category: operating-systems
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:security-professionals
 ---

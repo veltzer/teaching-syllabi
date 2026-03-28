@@ -7,7 +7,7 @@ tags:
   - tools:sqlite
 level: beginner
 category: operating-systems
-duration_days: 6
+duration_hours: 48
 audience:
   - audiences:developers
 ---

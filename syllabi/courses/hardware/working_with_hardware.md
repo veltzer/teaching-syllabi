@@ -6,7 +6,7 @@ tags:
   - hardware-and-embedded:embedded
 level: advanced
 category: hardware
-duration_days: 12
+duration_hours: 96
 audience:
   - audiences:embedded-engineers
   - audiences:developers

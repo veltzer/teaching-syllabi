@@ -7,7 +7,7 @@ tags:
   - data-and-ai:databases
 level: advanced
 category: architecture
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:architects
   - audiences:developers

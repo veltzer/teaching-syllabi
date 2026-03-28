@@ -9,7 +9,7 @@ tags:
   - infrastructure:io
 level: advanced
 category: operating-systems
-duration_days: 8
+duration_hours: 64
 audience:
   - audiences:developers
 ---

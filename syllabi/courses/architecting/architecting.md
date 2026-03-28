@@ -7,7 +7,7 @@ tags:
   - concepts:design-patterns
 level: intermediate
 category: architecture
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:architects

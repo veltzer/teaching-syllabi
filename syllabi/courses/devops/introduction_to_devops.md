@@ -6,7 +6,7 @@ tags:
   - infrastructure:cloud
 level: beginner
 category: devops
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:sysadmins

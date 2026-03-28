@@ -7,7 +7,7 @@ tags:
   - audiences:ethics
 level: intermediate
 category: ai
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:data-scientists
 ---

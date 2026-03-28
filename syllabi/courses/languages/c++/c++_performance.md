@@ -5,7 +5,7 @@ tags:
   - concepts:optimization
 level: advanced
 category: language
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
 ---

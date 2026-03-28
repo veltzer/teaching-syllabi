@@ -7,7 +7,7 @@ tags:
   - practices:devops
 level: intermediate
 category: devops
-duration_days: 2
+duration_hours: 16
 audience:
   - practices:devops
   - audiences:developers

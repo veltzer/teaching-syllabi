@@ -5,7 +5,7 @@ tags:
   - networking:web
 level: advanced
 category: language
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
 ---

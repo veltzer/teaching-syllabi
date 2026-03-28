@@ -8,7 +8,7 @@ tags:
   - networking:networking
 level: intermediate
 category: operating-systems
-duration_days: 7
+duration_hours: 56
 audience:
   - audiences:developers
   - audiences:embedded-engineers

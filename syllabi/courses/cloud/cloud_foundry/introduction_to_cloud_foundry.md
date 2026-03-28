@@ -6,7 +6,7 @@ tags:
   - concepts:microservices
 level: beginner
 category: cloud
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
 ---

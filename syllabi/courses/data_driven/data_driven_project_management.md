@@ -5,7 +5,7 @@ tags:
   - audiences:project-management
 level: intermediate
 category: data-driven
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:managers
 ---

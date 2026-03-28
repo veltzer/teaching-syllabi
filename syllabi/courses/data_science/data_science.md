@@ -6,7 +6,7 @@ tags:
   - data-and-ai:statistics
 level: beginner
 category: data-science
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:data-scientists

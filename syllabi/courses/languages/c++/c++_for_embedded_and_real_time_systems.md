@@ -6,7 +6,7 @@ tags:
   - practices:performance
 level: advanced
 category: language
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:embedded-engineers
   - audiences:developers

@@ -6,7 +6,7 @@ tags:
   - tools:jvm
 level: beginner
 category: language
-duration_days: 10
+duration_hours: 80
 audience:
   - audiences:developers
 ---

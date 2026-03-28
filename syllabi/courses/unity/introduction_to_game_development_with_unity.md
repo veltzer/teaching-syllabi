@@ -6,7 +6,7 @@ tags:
   - practices:scripting
 level: beginner
 category: game-development
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
 ---

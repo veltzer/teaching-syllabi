@@ -76,7 +76,7 @@ def build_site() -> None:
         level = str(meta.get("level", ""))
         category = str(meta.get("category", ""))
         audience = [str(a) for a in meta.get("audience", []) if a is not None]
-        duration_days = meta.get("duration_days", 0)
+        duration_hours = meta.get("duration_hours", 0)
         folder = folder_label(rel)
 
         if isinstance(tags, list):
@@ -96,7 +96,7 @@ def build_site() -> None:
             "level": level if isinstance(level, str) else "",
             "category": category if isinstance(category, str) else "",
             "audience": audience if isinstance(audience, list) else [],
-            "duration_days": duration_days if isinstance(duration_days, int) else 0,
+            "duration_hours": duration_hours if isinstance(duration_hours, int) else 0,
         })
 
     index_html = generate_index(
@@ -239,7 +239,7 @@ function render() {{
         for (const item of items) {{
             const levelClass = item.level ? " level-" + item.level : "";
             const levelBadge = item.level ? '<span class="level' + levelClass + '">' + item.level + "</span>" : "";
-            const durationBadge = item.duration_days ? '<span class="duration">' + item.duration_days + "d</span>" : "";
+            const durationBadge = item.duration_hours ? '<span class="duration">' + item.duration_hours + "h</span>" : "";
             html += '<li><a href="' + item.path + '">' + item.title + "</a>" + levelBadge + durationBadge + "</li>";
         }}
         html += "</ul>";

@@ -5,7 +5,7 @@ tags:
   - languages:shell
 level: beginner
 category: language
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins

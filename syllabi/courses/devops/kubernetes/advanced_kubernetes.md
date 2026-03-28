@@ -7,7 +7,7 @@ tags:
   - concepts:service-mesh
 level: advanced
 category: devops
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - practices:devops

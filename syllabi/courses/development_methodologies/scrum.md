@@ -5,7 +5,7 @@ tags:
   - practices:methodology
 level: beginner
 category: methodology
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - audiences:managers

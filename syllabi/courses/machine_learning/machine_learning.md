@@ -6,7 +6,7 @@ tags:
   - concepts:algorithms
 level: intermediate
 category: machine-learning
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:data-scientists

@@ -7,7 +7,7 @@ tags:
   - data-and-ai:machine-learning
 level: advanced
 category: big-data
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - audiences:data-scientists

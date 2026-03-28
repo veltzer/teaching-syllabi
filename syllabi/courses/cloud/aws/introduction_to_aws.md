@@ -4,7 +4,7 @@ tags:
   - infrastructure:cloud
 level: beginner
 category: cloud
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins

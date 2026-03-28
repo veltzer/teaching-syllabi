@@ -5,7 +5,7 @@ tags:
   - data-and-ai:data-analysis
 level: beginner
 category: language
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:data-scientists
   - audiences:developers

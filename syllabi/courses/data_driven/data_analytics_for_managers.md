@@ -5,7 +5,7 @@ tags:
   - data-and-ai:business-intelligence
 level: beginner
 category: data-driven
-duration_days: 4
+duration_hours: 32
 audience:
   - audiences:managers
 ---

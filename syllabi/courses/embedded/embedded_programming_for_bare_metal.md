@@ -7,7 +7,7 @@ tags:
   - infrastructure:real-time
 level: intermediate
 category: embedded
-duration_days: 4
+duration_hours: 32
 audience:
   - audiences:embedded-engineers
   - audiences:developers

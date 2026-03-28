@@ -6,7 +6,7 @@ tags:
   - practices:ci-cd
 level: intermediate
 category: build-system
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
   - practices:devops

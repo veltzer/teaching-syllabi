@@ -7,7 +7,7 @@ tags:
   - concepts:oop
 level: beginner
 category: language
-duration_days: 5
+duration_hours: 40
 audience:
   - audiences:developers
   - audiences:sysadmins

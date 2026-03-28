@@ -4,7 +4,7 @@ tags:
   - concepts:version-control
 level: beginner
 category: version-control
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - practices:devops

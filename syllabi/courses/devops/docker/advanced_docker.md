@@ -6,7 +6,7 @@ tags:
   - networking:networking
 level: advanced
 category: devops
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:developers
   - practices:devops

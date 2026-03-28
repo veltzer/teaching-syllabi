@@ -5,7 +5,7 @@ tags:
   - concepts:best-practices
 level: intermediate
 category: methodology
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
   - audiences:managers

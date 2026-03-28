@@ -7,7 +7,7 @@ tags:
   - practices:performance
 level: advanced
 category: language
-duration_days: 4
+duration_hours: 32
 audience:
   - audiences:developers
 ---

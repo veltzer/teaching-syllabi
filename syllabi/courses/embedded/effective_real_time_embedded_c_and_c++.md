@@ -6,7 +6,7 @@ tags:
   - languages:c++
 level: advanced
 category: embedded
-duration_days: 4
+duration_hours: 32
 audience:
   - audiences:embedded-engineers
   - audiences:developers

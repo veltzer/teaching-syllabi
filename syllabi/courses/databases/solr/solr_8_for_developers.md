@@ -5,7 +5,7 @@ tags:
   - tools:lucene
 level: intermediate
 category: database
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
   - practices:devops

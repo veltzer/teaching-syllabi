@@ -4,7 +4,7 @@ tags:
   - concepts:design-patterns
 level: beginner
 category: architecture
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
   - audiences:architects

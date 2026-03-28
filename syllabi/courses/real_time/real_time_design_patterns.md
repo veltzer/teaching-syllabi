@@ -4,7 +4,7 @@ tags:
   - concepts:design-patterns
 level: advanced
 category: real-time
-duration_days: 2
+duration_hours: 16
 audience:
   - audiences:embedded-engineers
   - audiences:developers

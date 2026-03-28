@@ -7,7 +7,7 @@ tags:
   - practices:sre
 level: intermediate
 category: cloud
-duration_days: 3
+duration_hours: 24
 audience:
   - practices:devops
   - audiences:sysadmins

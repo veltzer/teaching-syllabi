@@ -5,7 +5,7 @@ tags:
   - security:secure-coding
 level: intermediate
 category: language
-duration_days: 3
+duration_hours: 24
 audience:
   - audiences:developers
 ---

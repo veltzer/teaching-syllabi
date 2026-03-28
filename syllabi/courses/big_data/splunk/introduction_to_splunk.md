@@ -6,7 +6,7 @@ tags:
   - practices:log-management
 level: beginner
 category: big-data
-duration_days: 2
+duration_hours: 16
 audience:
   - practices:devops
 ---

@@ -7,7 +7,7 @@ tags:
   - hardware-and-embedded:bsp
 level: intermediate
 category: operating-systems
-duration_days: 1
+duration_hours: 8
 audience:
   - audiences:developers
   - audiences:embedded-engineers
