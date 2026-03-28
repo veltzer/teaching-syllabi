@@ -80,6 +80,7 @@ concepts:synchronization
 concepts:systems-programming
 concepts:uml
 concepts:version-control
+concepts:web-development
 data-and-ai:agents
 data-and-ai:ai
 data-and-ai:big-data
@@ -219,6 +220,7 @@ languages:java
 languages:javascript
 languages:kotlin
 languages:opencl
+languages:php
 languages:plsql
 languages:python
 languages:r
@@ -227,6 +229,7 @@ languages:scala
 languages:shell
 languages:sql
 languages:stl
+languages:typescript
 level:advanced
 level:beginner
 level:intermediate

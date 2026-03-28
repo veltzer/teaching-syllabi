@@ -18,6 +18,7 @@ java
 javascript
 kotlin
 opencl
+php
 plsql
 python
 r
@@ -26,3 +27,4 @@ scala
 shell
 sql
 stl
+typescript
