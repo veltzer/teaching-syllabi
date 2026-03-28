@@ -106,9 +106,6 @@ data-and-ai:search
 data-and-ai:statistics
 data-and-ai:streaming
 data-and-ai:supervised-learning
-duration_hours:8
-duration_hours:80
-duration_hours:96
 duration_hours:16
 duration_hours:24
 duration_hours:32
@@ -116,6 +113,9 @@ duration_hours:40
 duration_hours:48
 duration_hours:56
 duration_hours:64
+duration_hours:8
+duration_hours:80
+duration_hours:96
 hardware-and-embedded:3d
 hardware-and-embedded:alsa
 hardware-and-embedded:arm
