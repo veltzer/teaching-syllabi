@@ -269,7 +269,12 @@ function render() {{
         html = '<p class="no-results">No courses match the current filters.</p>';
     }}
     for (const folder of folders) {{
-        const items = grouped[folder].sort((a, b) => a.title.localeCompare(b.title));
+        const lvlOrd = {{beginner: 0, intermediate: 1, advanced: 2}};
+        const items = grouped[folder].sort((a, b) => {{
+            const la = lvlOrd[a.level] ?? 3;
+            const lb = lvlOrd[b.level] ?? 3;
+            return la !== lb ? la - lb : a.title.localeCompare(b.title);
+        }});
         html += "<h2>" + folder + ' <span class="count">(' + items.length + ")</span></h2><ul>";
         for (const item of items) {{
             const levelClass = item.level ? " level-" + item.level : "";
