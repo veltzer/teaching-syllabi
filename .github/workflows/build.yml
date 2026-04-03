@@ -33,7 +33,7 @@ jobs:
         rsconstruct tools install --yes
         rsconstruct tools install-deps --yes
     - name: build
-      run: rsconstruct build --verbose -j0
+      run: rsconstruct build --verbose -j2
     - name: status
       run: rsconstruct status
     - uses: actions/upload-pages-artifact@v3
