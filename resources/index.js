@@ -293,6 +293,9 @@ sort2DirEl.addEventListener("change", render);
 // Handle initial load with hash
 if (location.hash && location.hash.startsWith("#syllabus=")) {
     showSyllabus(decodeURIComponent(location.hash.substring(10)));
+} else if (location.hash && location.hash.startsWith("#search=")) {
+    searchEl.value = decodeURIComponent(location.hash.substring(8));
+    render();
 } else {
     render();
 }
