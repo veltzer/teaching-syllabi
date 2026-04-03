@@ -14,15 +14,15 @@ required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_h
 scan_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
-args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/set_title.lua"]
-extra_inputs = ["resources/syllabus.css", "resources/set_title.lua"]
+args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
+extra_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.pandoc.generator]
 scan_dirs = ["out/generator"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
-args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/set_title.lua"]
-extra_inputs = ["resources/syllabus.css", "resources/set_title.lua"]
+args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
+extra_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.script]
 scan_dirs = ["syllabi", "out/generator"]
