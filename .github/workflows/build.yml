@@ -34,5 +34,7 @@ jobs:
         rsconstruct tools install-deps --yes
     - name: build
       run: rsconstruct build --verbose -j0
+    - name: status
+      run: rsconstruct status
     - uses: actions/upload-pages-artifact@v3
     - uses: actions/deploy-pages@v5
