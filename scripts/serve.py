@@ -23,12 +23,12 @@ def main() -> None:
 
     os.chdir(SITE_DIR)
 
-    threading.Timer(0.5, lambda: webbrowser.open(f"http://localhost:{PORT}")).start()
+    # threading.Timer(0.5, lambda: webbrowser.open(f"http://localhost:{PORT}")).start()
 
     try:
         server.serve_forever()
     except KeyboardInterrupt:
-        print("\nStopped.")
+        print("Stopped.")
         server.server_close()
 
 
