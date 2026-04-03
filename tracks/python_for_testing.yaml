@@ -1,0 +1,44 @@
+title: Python for Testing
+tags:
+  - languages:python
+  - practices:testing
+  - tools:selenium
+level: beginner
+category: testing
+duration_hours: 120
+audience:
+  - audiences:testers
+  - audiences:developers
+description: >
+  A focused track for testers who want to use Python as their primary testing tool.
+  Covers Python fundamentals, the Python testing ecosystem (pytest, unittest),
+  Selenium for web testing, Playwright for modern browser automation, and API testing.
+  Students will be able to write comprehensive automated test suites by the end.
+intended_audience:
+  - Manual testers transitioning to test automation.
+  - QA engineers who want to learn Python-based testing tools.
+  - Developers who want to improve their testing skills.
+prerequisites:
+  - Basic programming knowledge is helpful but not required.
+  - Familiarity with web browsers and web applications.
+required_knowledge:
+  - Basic computer literacy
+objectives:
+  - Write Python programs confidently
+  - Use pytest and unittest for test automation
+  - Automate web testing with Selenium and Playwright
+  - Test REST APIs programmatically
+  - Integrate tests into CI/CD pipelines
+chapters:
+  - course: languages/python/python_programming
+    hours: 32
+  - course: languages/python/python_and_testing
+    hours: 24
+  - course: testing/testing_theory
+    hours: 8
+  - course: testing/introduction_to_selenium
+    hours: 24
+  - course: testing/playwright
+    hours: 16
+  - course: testing/api_testing
+    hours: 16

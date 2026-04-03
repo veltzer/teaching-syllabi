@@ -1,0 +1,63 @@
+title: Cloud Architect Track
+tags:
+  - infrastructure:aws
+  - infrastructure:azure
+  - infrastructure:gcp
+  - infrastructure:cloud
+  - concepts:architecture
+level: intermediate
+category: cloud
+duration_hours: 240
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:devops
+description: >
+  A comprehensive track for becoming a cloud architect across the three major
+  cloud providers. Covers cloud fundamentals, then dives deep into AWS, Azure,
+  and GCP architectures, networking, security, containers, and serverless.
+  Finishes with multi-cloud strategy and FinOps.
+intended_audience:
+  - IT professionals aiming for cloud architect roles.
+  - Developers with cloud experience who want to design at the architecture level.
+  - DevOps engineers expanding into architecture.
+prerequisites:
+  - Experience with at least one cloud provider.
+  - Strong understanding of networking fundamentals.
+  - Programming experience.
+objectives:
+  - Design scalable, resilient architectures on AWS, Azure, and GCP
+  - Make informed decisions about compute, storage, networking, and database services
+  - Implement security best practices across cloud environments
+  - Design container and serverless architectures
+  - Understand multi-cloud and hybrid strategies
+  - Manage cloud costs effectively
+chapters:
+  - course: cloud/introduction_to_cloud_computing
+    hours: 8
+  - course: cloud/aws/aws_architecting
+    hours: 40
+  - course: cloud/aws/aws_networking
+    hours: 16
+  - course: cloud/aws/aws_security
+    hours: 16
+  - course: cloud/azure/introduction_to_the_azure_cloud
+    hours: 16
+  - course: cloud/azure/azure_architect
+    hours: 32
+  - course: cloud/azure/azure_networking
+    hours: 16
+  - course: cloud/gcp/gcp_fundamentals
+    hours: 16
+  - course: cloud/gcp/gcp_cloud_architect
+    hours: 32
+  - course: cloud/gcp/gcp_networking
+    hours: 16
+  - course: containers/docker_fundamentals
+    hours: 8
+  - course: containers/kubernetes
+    hours: 16
+  - course: cloud/multi_cloud_strategy
+    hours: 8
+  - course: cloud/finops
+    hours: 8

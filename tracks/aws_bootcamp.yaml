@@ -1,0 +1,59 @@
+title: AWS oriented DevOps bootcamp
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - practices:devops
+level: beginner
+category: cloud
+duration_hours: 456
+audience:
+  - audiences:devops
+  - audiences:developers
+description: >
+  This course is tuned for people with little experiences taking them from very basic skills
+  to DevOps skilled tuned for the AWS environment.
+intended_audience:
+  - Anyone coming into or transitioning into tech and wants to enter the industry as a DevOps person.
+prerequisites:
+  - Tech affinity.
+objectives:
+  - Understand the nature of the DevOps role
+  - Be familiar with some of the most common DevOps tools used in the industry
+  - Be able to perform their role as entry level DevOps
+  - Understand and command AWS cloud concepts and services.
+  - Acquire basic AWS architecting skills and understand the tradeoff between the various architectural decisions behind AWS apps.
+chapters:
+  - course: operating_systems/linux/linux_fundamentals
+    hours: 48
+  - course: languages/introduction_to_programming_concepts
+    hours: 8
+  - course: languages/bash/bash_scripting
+    hours: 24
+  - course: languages/python/python_programming
+    hours: 32
+  - course: databases/introduction_to_databases
+    hours: 32
+  - course: git/git
+    hours: 32
+  - course: devops/introduction_to_devops
+    hours: 8
+  - course: devops/welcome_to_the_world_of_devops
+    hours: 8
+  - course: devops/jenkins/jenkins_basics
+    hours: 32
+  - course: containers/docker_fundamentals
+    hours: 32
+  - course: architecting/web_architecture_and_scaling
+    hours: 16
+  - course: architecting/microservices_architecture
+    hours: 16
+  - course: cloud/introduction_to_cloud_computing
+    hours: 16
+  - course: containers/kubernetes
+    hours: 32
+  - course: databases/elasticsearch/elk
+    hours: 24
+  - course: practices/agile_and_scrum
+    hours: 24
+  - course: cloud/aws/aws_architecting
+    hours: 72

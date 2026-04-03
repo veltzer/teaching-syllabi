@@ -1,0 +1,44 @@
+title: Linux embedded bootcamp
+tags:
+  - infrastructure:linux
+  - hardware-and-embedded:embedded
+  - infrastructure:kernel
+level: intermediate
+category: embedded
+duration_hours: 500
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+description: >
+  This intensive bootcamp covers the full stack of embedded Linux development, from low-level
+  Assembly programming through C/C++ systems programming to Linux kernel development and device
+  drivers. Students will also learn real-time systems, hardware interfaces, and non-secure
+  embedded operating systems such as VxWorks.
+intended_audience:
+  - Embedded systems engineers and kernel developers
+  - System programmers working on low-level software
+prerequisites:
+  - Experience with C or C++ programming
+  - Basic understanding of computer architecture
+objectives:
+  - Understand low level programming in Assembly
+  - Gain practical knowledge of Linux systems programming
+  - Gain practical knowledge of C and C++ programming on Linux
+  - Understand Linux kernel development and device drivers
+  - Understand real-time systems programming
+chapters:
+  - course: languages/assembly/assembly_programming_using_gas
+  - course: operating_systems/linux/linux_fundamentals
+  - course: languages/bash/bash_scripting
+  - course: languages/c/c_programming
+  - course: operating_systems/linux/linux_systems_programming
+  - course: languages/c++/c++_basics
+  - course: design_patterns/design_patterns
+  - course: hardware/working_with_hardware
+  - course: operating_systems/linux/kernel/linux_kernel
+  - course: real_time/real_time_programming
+  - course: embedded/vxworks_and_non_secure_operating_systems
+notes:
+  - >
+    Any topic marked as "Theory" is only theory with no exercises or exercises
+    which are not programming ones. Anything else is practical and includes exercises.

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Teaching Syllabi - Mark Veltzer</title>
+<style>
+{{CSS}}
+</style>
+</head>
+<body>
+<div id="index-view">
+<h1>Teaching Syllabi</h1>
+<p id="total-count">{{TOTAL_COUNT}} courses</p>
+
+<div class="filters">
+<div class="filter-row">
+<label for="search">Search:</label>
+<div class="autocomplete-wrap">
+<input type="text" id="search" placeholder="Type to filter by title..." autocomplete="off">
+<div id="autocomplete-list" class="autocomplete-list"></div>
+</div>
+</div>
+<div class="filter-row">
+<label for="filter-level">Level:</label>
+<select id="filter-level">
+<option value="">All levels</option>
+{{LEVEL_OPTIONS}}
+</select>
+</div>
+<div class="filter-row">
+<label for="filter-category">Category:</label>
+<select id="filter-category">
+<option value="">All categories</option>
+{{CATEGORY_OPTIONS}}
+</select>
+</div>
+<div class="filter-row">
+<label for="filter-tag">Tag:</label>
+<select id="filter-tag">
+<option value="">All tags</option>
+{{TAG_OPTIONS}}
+</select>
+</div>
+<div class="filter-row">
+<label for="filter-duration">Duration:</label>
+<select id="filter-duration"></select>
+</div>
+<div class="filter-row">
+<label for="filter-audience">Audience:</label>
+<select id="filter-audience">
+<option value="">All audiences</option>
+{{AUDIENCE_OPTIONS}}
+</select>
+</div>
+<div class="filter-row">
+<label for="sort-primary">Sort by:</label>
+<select id="sort-primary">
+<option value="category" selected>Category</option>
+<option value="level">Level</option>
+<option value="title">Title</option>
+<option value="duration">Duration</option>
+</select>
+<select id="sort-primary-dir">
+<option value="asc" selected>Asc</option>
+<option value="desc">Desc</option>
+</select>
+<label for="sort-secondary">Then by:</label>
+<select id="sort-secondary">
+<option value="category">Category</option>
+<option value="level" selected>Level</option>
+<option value="title">Title</option>
+<option value="duration">Duration</option>
+</select>
+<select id="sort-secondary-dir">
+<option value="asc" selected>Asc</option>
+<option value="desc">Desc</option>
+</select>
+</div>
+</div>
+
+<div id="results"></div>
+
+<hr>
+<p>Mark Veltzer <a href="mailto:mark.veltzer@gmail.com">mark.veltzer@gmail.com</a>, &copy; 2026</p>
+</div>
+
+<div id="syllabus-view" style="display:none">
+<div id="syllabus-toolbar"></div>
+<div id="syllabus-content"></div>
+</div>
+
+<script>
+const DATA = {{DATA_JSON}};
+{{JS}}
+</script>
+</body>
+</html>

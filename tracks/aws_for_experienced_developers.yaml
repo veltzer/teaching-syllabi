@@ -1,0 +1,48 @@
+title: AWS for experienced developers
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+level: intermediate
+category: cloud
+duration_hours: 152
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+description: >
+  The Cloud is the most important advance in designing highly available, fault
+  tolerant and scalable web or data processing applications. AWS is the premiere
+  cloud provider today. This course teaches how to utilize the services offered
+  by AWS in order to design and implement the most efficient, cost effective,
+  easy to code and easy to maintain systems which will run on AWS infrastructure.
+  We will cover both IASS and PASS topics teaching both how to port on-prem
+  applications to the cloud and use AWS as a IASS provider but also how
+  to use AWS as a PASS provider which should cut costs and investment.
+intended_audience:
+  - People with experience in IT who wish to extend their capabilities to include the AWS cloud.
+prerequisites:
+  - Experience in IT in some field is required.
+exercises:
+  - url: https://amazon.qwiklabs.com
+    description: Real live exercises on Qwiklabs
+objectives:
+  - >
+    The participants will be able to receive requirements for applications and design the right architecture for this
+    application in the AWS cloud. This means they will be able to distinguish between
+    the different main services that AWS provides, decide which will be more effective
+    in which case and be able to monitor and change their decisions as conditions change.
+  - This course can also be used to prepare one for AWS associate architect certification exam.
+chapters:
+  - course: cloud/aws/introduction_to_aws
+    chapters: [introduction-to-cloud-computing-and-aws]
+  - course: cloud/aws/aws_architecting
+  - course: cloud/aws/aws_developer
+  - course: cloud/aws/aws_security
+    chapters: [identity-and-access-management-deep-dive, data-protection-and-encryption]
+  - course: cloud/aws/aws_networking
+    chapters: [vpc-deep-dive, vpc-endpoints-and-privatelink]
+  - course: cloud/aws/aws_containers
+    chapters: [amazon-ecr, amazon-ecs, amazon-eks]
+  - course: cloud/aws/aws_lambda_and_serverless
+    chapters: [introduction-to-serverless-computing, aws-lambda-core-concepts, api-gateway, step-functions]
+  - course: cloud/aws/machine_learning_services_on_aws

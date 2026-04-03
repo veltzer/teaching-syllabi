@@ -1,0 +1,6 @@
+- look at "syllabi/courses/operating_systems/linux/linux_fundamentals.md" to see how a syllabus looks like.
+- don't have a bullets in the syllabus for exercises
+- do not state how long each topics/subtopic takes.
+- ALL chapters MUST have a duration specified. Use the format: <!-- chapter: chapter-id, duration: Xh -->
+- The sum of all chapter durations must equal the duration_hours value in the YAML frontmatter.
+- Durations must be assigned manually by considering the actual material and complexity of each chapter. Never distribute durations evenly or mechanically — chapters are NOT uniform.

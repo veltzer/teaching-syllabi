@@ -1,0 +1,91 @@
+[processor.tera]
+extra_inputs = [
+    "config/project.lua",
+    "config/personal.lua",
+    "config/version.lua",
+]
+
+[processor.tags]
+scan_dirs = ["syllabi", "out/generator"]
+required_fields = ["tags", "level", "category", "audience"]
+required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
+
+[processor.pandoc.syllabi]
+scan_dirs = ["syllabi"]
+formats = ["pdf", "html", "docx"]
+output_dir = "_site"
+args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/set_title.lua"]
+extra_inputs = ["resources/syllabus.css", "resources/set_title.lua"]
+
+[processor.pandoc.generator]
+scan_dirs = ["out/generator"]
+formats = ["pdf", "html", "docx"]
+output_dir = "_site/tracks"
+args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/set_title.lua"]
+extra_inputs = ["resources/syllabus.css", "resources/set_title.lua"]
+
+[processor.script]
+scan_dirs = ["syllabi", "out/generator"]
+extensions = [".md"]
+linter = "scripts/check_md.py"
+batch = true
+
+[processor.aspell]
+scan_dirs = ["syllabi", "out/generator"]
+
+[processor.zspell]
+scan_dirs = ["syllabi", "out/generator"]
+
+[processor.terms]
+terms_dir = "terms"
+scan_dirs = ["syllabi", "out/generator"]
+
+[processor.stylelint]
+scan_dirs = ["resources"]
+
+[processor.htmlhint]
+scan_dirs = ["resources"]
+
+[processor.eslint]
+args = ["-c", "config/eslint.config.js"]
+scan_dirs = ["resources"]
+
+[processor.generator]
+scan_dirs = ["tracks"]
+extensions = [".yaml"]
+batch = true
+command = "scripts/build_tracks.py"
+output_extension = "md"
+
+[processor.explicit]
+command = "scripts/build_site.py"
+inputs = [
+    "resources/index.html",
+    "resources/index.css",
+    "resources/index.js",
+    "tags/level.txt",
+    "tags/category.txt",
+    "tags/audiences.txt",
+]
+input_globs = [
+    "_site/courses/**/*.html",
+    "_site/tracks/*.html",
+]
+outputs = [
+    "_site/index.html",
+]
+
+[dependencies]
+pip = ["types-PyYAML", "demjson3"]
+system = ["texlive-latex-recommended"]
+
+[processor.pylint]
+[processor.pyrefly]
+[processor.luacheck]
+[processor.taplo]
+[processor.yq]
+[processor.mypy]
+[processor.json_schema]
+[processor.ruff]
+[processor.yamllint]
+[processor.jq]

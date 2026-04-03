@@ -1,0 +1,72 @@
+title: DevOps bootcamp
+tags:
+  - practices:devops
+  - infrastructure:cloud
+level: beginner
+category: devops
+duration_hours: 440
+audience:
+  - audiences:devops
+  - audiences:developers
+description: >
+  DevOps is fast becoming one of the most wanted skills in the tech industry and requires well rounded
+  engineers who understand clouds, technical tools, programming and Agile methodologies. This course
+  is designed to take people new to the tech industry and turn them into entry level DevOps.
+intended_audience:
+  - Anyone coming into or transitioning into tech and wants to enter the industry as a DevOps person.
+prerequisites:
+  - Tech affinity.
+objectives:
+  - Understand the nature of the DevOps role
+  - Be familiar with some of the most common DevOps tools used in the industry
+  - Be able to perform their role as entry level DevOps
+chapters:
+  - course: operating_systems/linux/linux_fundamentals
+    hours: 40
+  - course: languages/introduction_to_programming_concepts
+    hours: 4
+  - course: languages/bash/bash_scripting
+    hours: 16
+  - course: languages/python/python_programming
+    hours: 24
+  - course: databases/introduction_to_databases
+    hours: 24
+  - course: git/git
+    hours: 24
+  - course: devops/introduction_to_devops
+    hours: 8
+  - course: devops/welcome_to_the_world_of_devops
+    hours: 8
+  - course: devops/ansible
+    hours: 24
+  - course: devops/jenkins/jenkins_basics
+    hours: 24
+  - course: containers/docker_fundamentals
+    hours: 24
+  - course: observability_and_monitoring/nagios
+    hours: 8
+  - course: architecting/web_architecture_and_scaling
+    hours: 16
+  - course: architecting/microservices_architecture
+    hours: 16
+  - course: cloud/introduction_to_cloud_computing
+    hours: 8
+  - course: cloud/aws/aws_architecting
+    hours: 36
+  - course: devops/terraform
+    hours: 16
+  - course: containers/kubernetes
+    hours: 24
+  - course: databases/elasticsearch/elk
+    hours: 16
+  - course: queues/kafka/introduction_to_apache_kafka
+    hours: 24
+  - course: practices/agile_and_scrum
+    hours: 24
+  - course: professional_skills/employability_and_career_skills
+    hours: 32
+notes:
+  - >
+    The course could be taught in reduced form by removing the following subjects:
+    Nagios, Terraform, Employability, Introduction to Kafka.
+    360 hour / 45 day course.

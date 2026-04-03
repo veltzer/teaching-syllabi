@@ -1,0 +1,34 @@
+title: Jenkins and Gradle
+tags:
+  - tools:jenkins
+  - tools:gradle
+  - practices:ci-cd
+level: intermediate
+category: devops
+duration_hours: 32
+audience:
+  - audiences:developers
+  - audiences:devops
+description: >
+  This course covers two essential build and continuous integration tools: Jenkins and Gradle.
+  Students will learn to set up and administer Jenkins for CI/CD pipelines and distributed builds,
+  as well as use Gradle for building Java and Groovy projects with tasks, plugins, and multi-project
+  configurations.
+intended_audience:
+  - DevOps engineers and system administrators
+  - Software engineers looking to adopt DevOps practices
+prerequisites:
+  - Familiarity with Linux command line
+  - Basic software development or system administration experience
+required_knowledge:
+  - Linux Fundamentals (or equivalent experience)
+objectives:
+  - Understand the core concepts and principles of Jenkins and Gradle
+  - Gain practical knowledge of Jenkins
+  - Gain practical knowledge of Gradle
+  - Apply Jenkins and Gradle techniques and best practices in real-world scenarios
+chapters:
+  - course: devops/jenkins/jenkins_basics
+    hours: 16
+  - course: build_systems/gradle
+    hours: 16

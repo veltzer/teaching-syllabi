@@ -1,0 +1,68 @@
+title: Data Engineering Bootcamp
+tags:
+  - concepts:big-data
+  - concepts:databases
+  - languages:python
+  - infrastructure:cloud
+level: intermediate
+category: data-engineering
+duration_hours: 320
+audience:
+  - audiences:data-engineers
+  - audiences:developers
+description: >
+  An intensive bootcamp covering the full data engineering stack. Students learn
+  Python for data processing, SQL and database design, data pipeline orchestration,
+  stream processing, cloud data platforms, and data governance. The course emphasizes
+  hands-on work with modern tools used in production data teams.
+intended_audience:
+  - Developers transitioning into data engineering roles.
+  - Data analysts who want to build production data pipelines.
+  - Backend engineers expanding into data infrastructure.
+prerequisites:
+  - Programming experience in at least one language.
+  - Basic understanding of SQL.
+objectives:
+  - Build and orchestrate data pipelines with Apache Airflow
+  - Process large datasets with PySpark and Apache Flink
+  - Design data warehouses and data lakes
+  - Implement stream processing with Kafka
+  - Use cloud data services on AWS
+  - Apply data governance and quality practices
+chapters:
+  - course: languages/python/python_programming
+    hours: 24
+  - course: languages/python/advanced_python
+    hours: 16
+  - course: languages/sql/sql
+    hours: 16
+  - course: languages/sql/advanced_sql
+    hours: 16
+  - course: databases/database_design
+    hours: 16
+  - course: databases/postgresql/postgresql_for_developers
+    hours: 16
+  - course: databases/mongodb/mongodb_for_developers
+    hours: 16
+  - course: databases/redis/redis_for_developers
+    hours: 8
+  - course: git/git
+    hours: 16
+  - course: data_engineering/apache_airflow
+    hours: 24
+  - course: big_data/spark/apache_spark_with_python
+    hours: 24
+  - course: big_data/flink/apache_flink
+    hours: 16
+  - course: queues/kafka/introduction_to_apache_kafka
+    hours: 24
+  - course: data_engineering/dbt
+    hours: 16
+  - course: cloud/aws/aws_data_analytics
+    hours: 24
+  - course: big_data/data_governance/data_governance_and_quality
+    hours: 16
+  - course: data_engineering/data_lakehouse
+    hours: 16
+  - course: containers/docker_fundamentals
+    hours: 16

@@ -1,0 +1,189 @@
+---
+tags:
+  - infrastructure:linux
+  - infrastructure:kernel
+  - practices:debugging
+  - practices:performance
+  - infrastructure:device-drivers
+  - concepts:locking
+level: advanced
+category: operating-systems
+duration_hours: 24
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+---
+<!-- course: advanced_linux_kernel_topics -->
+# Advanced `Linux` Kernel Topics
+
+## Description
+This course is intended for `Linux` kernel developers who wish to explore
+more advanced topics having to do with the `Linux` kernel like debugging
+and performance.
+Debugging and performance are related topics and that is also why a single course covers
+both.
+
+The course is divided into "large" subjects (debugging, performance and more) and
+each part consists of small sections where each section is not particularly long
+nor depends on other sections. Sometimes it is very hard to classify a specific
+topic into one and only one overall subject but I did it any way so this classification
+is not in any way "Holy" but does provide some overall arching structure to the course
+(that is the very least that I could do: If there were no big topics the course would
+have been an long list of miscellaneous topics).
+
+## Duration
+24 hours / 3 days
+
+## Intended Audience
+* embedded systems engineers and kernel developers
+* system programmers working on low-level software
+
+## Prerequisites
+* working experience with `linux` kernel topics
+* experience with `C` programming
+* familiarity with `Linux` system administration
+
+## Objectives
+* understand the core concepts and principles of Advanced `Linux` Kernel Topics
+* gain practical knowledge of at the compiling stage
+* gain practical knowledge of measuring and improving kernel boot time
+* gain practical knowledge of locking properly
+
+## Outline
+<!-- chapter: at-the-compiling-stage, duration: 2h -->
+* at the compiling stage
+    * passing flags to the compilation process (-Wall -Werror for instance).
+    * checking your coding standards (checkpatch.pl).
+    * running other checks on your code.
+    * verifying context to prevent crashes
+        interrupt context.
+        user context.
+        tasklet and kernel thread context.
+    * using BUG correctly.
+    * accessing module meta data at runtime.
+    * calling kernel functions by name (using the kernels dynamic
+        linker `API`).
+    * how to verify the existence of kernel features in your code
+        before using them.
+<!-- chapter: measuring-and-improving-kernel-boot-time, duration: 1h -->
+* measuring and improving kernel boot time
+    * how to measure (TSC and more).
+    * how to improve (here be dragons!).
+        * removing features (which ones?)
+        * avoiding measuring `CPU` speed.
+        * delaying stuff till after first program (init) run.
+<!-- chapter: locking-properly, duration: 3h -->
+* locking properly
+    * avoiding locking
+        per `CPU` structures
+        per client structures
+        per kernel thread structures
+    * atomics `API`
+    * lockless data structures.
+    * reader writer locks.
+    * RCU: deep black magick.
+    * correct locking (rusty Russel's guide).
+    * how long does it take to block interrupts, anyway ?
+        * a specific interrupt
+        * all interrupts.
+    * preemption disable and enable `API`.
+    * `cpu` relaxing.
+<!-- chapter: debugging, duration: 4h -->
+* debugging
+    * using `printk`
+        * `printk` format strings
+        * performance of `printk`.
+        * wrapping `printk`.
+    * using debugfs
+    * using `sysfs` attributes
+    * using /proc
+    * using kernel parameters
+    * using the kernel debugger.
+        * over serial.
+        * over `ethernet`.
+    * using `mutex`-debug.h
+    * using lockdep for runtime locking correctness validation.
+    * using kmemcheck.
+    * using kmemleak.
+    * using kmemtrace.
+    * using mmiotrace.
+    * writing your own out of bounds detector.
+    * finally: reading your own code.
+<!-- chapter: performance, duration: 7h -->
+* Performance
+    * using `ftrace`.
+    * selecting the right memory allocator for your kernel.
+    * some general timing ballpark figures.
+    * profiling code in the kernel and in your module.
+    * measuring time in the kernel
+        * TSC
+        * Jiffies
+        * getting the `CPU` speed, number of CPUs, `cpu` strength.
+        * `cpu` governors
+        * Best approach
+    * measuring time in user space (to improve kernel).
+        * TSC
+        * gettimeofday
+        * RTC interfaces
+    * using in kernel performance mechanisms:
+        * using latency `top`.
+        * using tracepoints.
+        * using kprobes.
+        * using jprobes.
+    * performance for high speed devices using polling instead of interrupts.
+    * From interrupt to user space.
+    * measuring latency of synchronization mechanisms:
+        * spinlocks
+        * mutexes
+        * waitqueues
+        * completions
+    * controlling the affinity of interrupt handlers.
+    * controlling performance in real time `Linux`.
+<!-- chapter: memory-and-resources, duration: 1h -->
+* Memory and resources
+    * understanding memory barriers.
+    * debugging the slab allocator.
+    * Using your own memory caches and debugging them.
+    * using devres to simplify resource handling.
+<!-- chapter: io-performance, duration: 1h -->
+* IO performance
+    * debugging `DMA`.
+    * iostats
+    * using /dev/mem for io debugging
+<!-- chapter: hardware, duration: 3h -->
+* Hardware
+    * `PCI`
+        * lspci
+    * `USB`
+        * lsusb
+        * debugging the bus.
+            * user space tools.
+            * kernel tools.
+            * listening to messages on the `USB` bus.
+        * timing from `USB` interrupt to kernel.
+        * timing from `USB` interrupt to user space.
+<!-- chapter: the-hard-bugs, duration: 1h -->
+* the hard bugs
+    * divide and conquer to `find` the hardest bugs.
+    * using sysrq.
+    * analyzing kernel core dumps.
+    * making sure that `printk` reaches a persistent destiny.
+    * how to analyze oops messages.
+<!-- chapter: miscellaneous, duration: 1h -->
+* miscellaneous
+    * overriding system calls for fun and profit.
+    * using gcov in the kernel to `find` dead code.
+    * debugging the hotplug system and `udev`.
+    * injecting faults using the built in fault injector.
+    * using kref to handle reference counting in your codes design.
+
+## Installations
+* A real, virtual or remote machine running `Ubuntu` >= 22.04
+* The machine should have *free* access to the internet to install software.
+* The students should have an account on the machines with `sudo` privileges.
+* In any case the student must have `sudo`/root on this virtual machine and the machines should be connected to the internet.
+* There is no need for special installations on the machine. The instructor will guide the students to install whatever is needed.
+* The machine should have at least 15GB free disk space.
+
+## Copyright
+Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

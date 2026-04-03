@@ -1,0 +1,67 @@
+title: Full Stack Developer Bootcamp
+tags:
+  - languages:javascript
+  - languages:python
+  - concepts:web-development
+  - practices:testing
+level: beginner
+category: language
+duration_hours: 400
+audience:
+  - audiences:developers
+description: >
+  A comprehensive bootcamp that takes beginners from zero programming experience to
+  full stack web development. Covers frontend (HTML, CSS, JavaScript, React), backend
+  (Python, Node.js, REST APIs), databases, version control, testing, DevOps basics,
+  and deployment. Students will build real-world applications throughout the course.
+intended_audience:
+  - Anyone entering the tech industry who wants to become a full stack developer.
+  - Career changers looking to transition into software development.
+prerequisites:
+  - Tech affinity.
+  - Basic computer literacy.
+objectives:
+  - Understand fundamental programming concepts
+  - Build responsive web frontends with HTML, CSS, JavaScript, and React
+  - Develop backend services with Python and Node.js
+  - Design and use relational and NoSQL databases
+  - Use Git for version control and collaboration
+  - Write automated tests for web applications
+  - Deploy applications using Docker and cloud services
+chapters:
+  - course: languages/introduction_to_programming_concepts
+    hours: 8
+  - course: languages/javascript/html_css_javascript_fundamentals
+    hours: 40
+  - course: languages/python/python_programming
+    hours: 40
+  - course: languages/sql/sql
+    hours: 16
+  - course: databases/introduction_to_databases
+    hours: 24
+  - course: git/git
+    hours: 24
+  - course: languages/javascript/react
+    hours: 40
+  - course: languages/javascript/nodejs_backend_development
+    hours: 40
+  - course: networking/restful_apis
+    hours: 16
+  - course: languages/typescript/typescript_programming
+    hours: 24
+  - course: languages/python/python_and_testing
+    hours: 24
+  - course: testing/introduction_to_selenium
+    hours: 24
+  - course: containers/docker_fundamentals
+    hours: 16
+  - course: devops/introduction_to_devops
+    hours: 16
+  - course: cloud/introduction_to_cloud_computing
+    hours: 8
+  - course: architecting/web_architecture_and_scaling
+    hours: 16
+  - course: practices/agile_and_scrum
+    hours: 24
+  - course: professional_skills/employability_and_career_skills
+    hours: 32

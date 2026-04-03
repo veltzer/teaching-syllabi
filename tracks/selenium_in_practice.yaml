@@ -1,0 +1,48 @@
+title: Selenium in Practice
+tags:
+  - tools:selenium
+  - practices:testing
+  - languages:python
+level: beginner
+category: testing
+duration_hours: 70
+audience:
+  - audiences:testers
+  - audiences:developers
+description: >
+  This course is a practical course and is intended for people just entering the IT industry
+  with no hands on experience with how testing and integration is done in the real world.
+  At first the course introduces the participants to the ideas of CI/CD and Git as one of
+  the most used tools for source code management. Then the course introduces the participants
+  to web architecture basics and to HTML, CSS and JavaScript. The main part of the course
+  comes next. After the first two introductory chapters the course delves into Python and
+  Selenium as a testing framework for professional web testing.
+intended_audience:
+  - IT Beginners who wish to better understand CI/CD and IT workflow and Selenium in particular.
+prerequisites:
+  - Tech affinity.
+  - Programming in some language is an advantage.
+  - Knowledge in web fundamentals is an advantage.
+  - Python is an advantage.
+required_knowledge:
+  - Python Programming (or equivalent experience)
+objectives:
+  - Understand basic CI/CD concepts
+  - Have a basic understanding of how Git works
+  - Be able to use Git basic commands
+  - Be able to describe the basics of the web architecture.
+  - Be able to write HTML, CSS, and JavaScript code at a basic level.
+  - Understand the basic concepts behind Selenium.
+  - Be able to write tests for web applications using Selenium.
+chapters:
+  - course: devops/introduction_to_devops
+    hours: 4
+    chapters: [what-is-devops, continuous-integration]
+  - course: git/introduction_to_git
+    hours: 4
+  - course: languages/javascript/html_css_javascript_fundamentals
+    hours: 4
+  - course: languages/python/python_programming
+    hours: 16
+  - course: testing/introduction_to_selenium
+    hours: 42

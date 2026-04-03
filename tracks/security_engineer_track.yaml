@@ -1,0 +1,62 @@
+title: Security Engineer Track
+tags:
+  - concepts:security
+  - infrastructure:cloud
+  - practices:devops
+level: intermediate
+category: security
+duration_hours: 240
+audience:
+  - audiences:security-professionals
+  - audiences:developers
+  - audiences:devops
+description: >
+  A comprehensive track for becoming a security engineer. Covers security
+  fundamentals, web application security, cloud security, container and
+  Kubernetes security, secure development lifecycle, cryptography,
+  threat modeling, and incident management. Includes hands-on offensive
+  and defensive security practices.
+intended_audience:
+  - Developers transitioning into security engineering roles.
+  - DevOps engineers adding security to their skill set (DevSecOps).
+  - IT professionals pursuing security certifications.
+prerequisites:
+  - Programming experience in at least one language.
+  - Basic understanding of networking (TCP/IP, HTTP, DNS).
+  - Familiarity with Linux command line.
+objectives:
+  - Understand common web application vulnerabilities and how to prevent them
+  - Implement secure development lifecycle practices
+  - Secure cloud infrastructure on AWS, Azure, and GCP
+  - Harden container and Kubernetes deployments
+  - Perform threat modeling and security testing
+  - Respond to security incidents
+chapters:
+  - course: networking/network_security
+    hours: 16
+  - course: security/cryptography_fundamentals
+    hours: 16
+  - course: security/application_security_owasp
+    hours: 16
+  - course: security/web_security
+    hours: 24
+  - course: security/web_application_penetration_testing
+    hours: 24
+  - course: security/secure_sdlc
+    hours: 16
+  - course: security/threat_modeling
+    hours: 16
+  - course: security/api_security
+    hours: 16
+  - course: cloud/aws/aws_security
+    hours: 24
+  - course: cloud/azure/azure_security
+    hours: 16
+  - course: cloud/gcp/gcp_security
+    hours: 16
+  - course: security/container_and_kubernetes_security
+    hours: 16
+  - course: testing/security_testing
+    hours: 16
+  - course: development_methodologies/incident_management
+    hours: 8

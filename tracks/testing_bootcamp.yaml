@@ -1,0 +1,65 @@
+title: Testing Bootcamp
+tags:
+  - practices:testing
+  - tools:selenium
+  - languages:python
+level: beginner
+category: testing
+duration_hours: 304
+audience:
+  - audiences:testers
+  - audiences:developers
+description: >
+  This course is a practical course and is intended for people just entering the IT industry
+  with no hands on experience with how testing and integration is done in the real world.
+  At first the course introduces the participants to theoretical ideas of testing.
+  Second the course moves on to larger systems and introduces Git the most used tool
+  in the industry for source code management. The course then goes on to introducing
+  Agile and CI/CD and Agile/Scrum as the most widely used method for managing code change
+  and application delivery. The course then introduces Python as an invaluable tool for
+  writing tests. The course then proceeds to web testing and introduces the participants
+  to web architecture basics and to HTML, CSS and JavaScript. The course then delves into
+  Python and Selenium as a testing framework for professional web testing. The course then
+  introduces Linux fundamentals and Linux programming for people doing testing on native platforms.
+intended_audience:
+  - IT Beginners who wish to better understand CI/CD and IT workflow and Selenium in particular.
+  - Non beginners who would like to better grasp testing fundamentals
+prerequisites:
+  - Tech affinity.
+  - Programming in some language is an advantage.
+  - Knowledge in web fundamentals is an advantage.
+  - Python is an advantage.
+required_knowledge:
+  - Python Programming (or equivalent experience)
+objectives:
+  - Understand the fundamentals of software testing.
+  - Understand basic CI/CD concepts.
+  - Understand Agile principles.
+  - Understand the Scrum cycle and methodology.
+  - Have a basic understanding of how Git works.
+  - Be able to use Git basic commands.
+  - Be able to describe the basics of the web architecture.
+  - Be able to write HTML, CSS, and JavaScript code at a basic level.
+  - Understand the basic concepts behind Selenium.
+  - Be able to write tests for web applications using Selenium.
+  - Be able to write basic Linux native code and test it.
+chapters:
+  - course: testing/testing_theory
+    hours: 20
+  - course: practices/agile_and_scrum
+    hours: 40
+  - course: devops/introduction_to_devops
+    hours: 20
+    chapters: [what-is-devops, continuous-integration, continuous-deployment, security-in-devops-devsecops]
+  - course: git/git
+    hours: 24
+  - course: languages/python/python_programming
+    hours: 40
+  - course: languages/javascript/html_css_javascript_fundamentals
+    hours: 40
+  - course: testing/introduction_to_selenium
+    hours: 40
+  - course: operating_systems/linux/linux_fundamentals
+    hours: 40
+  - course: languages/bash/bash_scripting
+    hours: 40

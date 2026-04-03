@@ -1,0 +1,3 @@
+## Number of syllabi
+
+Currently there are {{ git_count_files(pattern="syllabi/*.md") }} syllabi in this repo.
