@@ -48,8 +48,17 @@ def delete_deployment(repo, deployment_id):
     gh_api(f"repos/{repo}/deployments/{deployment_id}", method="DELETE")
 
 
+def get_repo():
+    """Get the current repo's owner/name from gh."""
+    result = subprocess.run(
+        ["gh", "repo", "view", "--json", "nameWithOwner", "--jq", ".nameWithOwner"],
+        capture_output=True, text=True, check=True,
+    )
+    return result.stdout.strip()
+
+
 def main():
-    repo = "veltzer/teaching-syllabi"
+    repo = get_repo()
     keep = 4
     if len(sys.argv) > 1:
         keep = int(sys.argv[1])
