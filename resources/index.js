@@ -4,6 +4,11 @@ const ICON_WORD = '<svg viewBox="0 0 24 24" fill="none" stroke="#1565c0" stroke-
 const ICON_HTML = '<svg viewBox="0 0 24 24" fill="none" stroke="#e65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><text x="12" y="17" text-anchor="middle" font-size="4.5" fill="#e65100" stroke="none" font-weight="bold">HTML</text></svg>';
 const ICON_PRINT = '<svg viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>';
 
+let currentFolder = "courses";
+
+const breadcrumbEl = document.getElementById("breadcrumb");
+const subfoldersEl = document.getElementById("subfolders");
+
 const indexView = document.getElementById("index-view");
 const syllabusView = document.getElementById("syllabus-view");
 const syllabusToolbar = document.getElementById("syllabus-toolbar");
@@ -105,7 +110,13 @@ window.addEventListener("popstate", function() {
     var hash = location.hash;
     if (hash && hash.startsWith("#syllabus=")) {
         showSyllabus(decodeURIComponent(hash.substring(10)));
+    } else if (hash && hash.startsWith("#folder=")) {
+        currentFolder = decodeURIComponent(hash.substring(8));
+        indexView.style.display = "";
+        syllabusView.style.display = "none";
+        render();
     } else {
+        currentFolder = "courses";
         showIndex();
     }
 });
@@ -113,6 +124,60 @@ window.addEventListener("popstate", function() {
 function openSyllabus(path) {
     history.pushState(null, "", "#syllabus=" + encodeURIComponent(path));
     showSyllabus(path);
+}
+
+function navigateFolder(folder) {
+    currentFolder = folder;
+    history.pushState(null, "", "#folder=" + encodeURIComponent(folder));
+    render();
+    window.scrollTo(0, 0);
+}
+
+function getSubfolders(folder, entries) {
+    const prefix = folder + "/";
+    const subs = new Map();
+    for (const e of entries) {
+        if (!e.path.startsWith(prefix)) continue;
+        const rest = e.path.substring(prefix.length);
+        const slash = rest.indexOf("/");
+        if (slash === -1) continue;
+        const sub = rest.substring(0, slash);
+        subs.set(sub, (subs.get(sub) || 0) + 1);
+    }
+    return [...subs.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+}
+
+function renderBreadcrumb() {
+    const parts = currentFolder.split("/");
+    let html = "";
+    for (let i = 0; i < parts.length; i++) {
+        const path = parts.slice(0, i + 1).join("/");
+        const label = parts[i].replace(/_/g, " ");
+        if (i > 0) html += '<span class="breadcrumb-sep">&gt;</span>';
+        if (i === parts.length - 1) {
+            html += '<span class="breadcrumb-current">' + label + '</span>';
+        } else {
+            html += '<a href="#" onclick="navigateFolder(\'' + path + '\'); return false;">' + label + '</a>';
+        }
+    }
+    breadcrumbEl.innerHTML = html;
+}
+
+function renderSubfolders(filtered) {
+    const subs = getSubfolders(currentFolder, filtered);
+    if (subs.length === 0) {
+        subfoldersEl.innerHTML = "";
+        return;
+    }
+    subfoldersEl.innerHTML = subs.map(function(s) {
+        var name = s[0];
+        var count = s[1];
+        var path = currentFolder + "/" + name;
+        var label = name.replace(/_/g, " ");
+        return '<a class="subfolder-card" href="#" onclick="navigateFolder(\'' +
+            path.replace(/'/g, "\\'") + '\'); return false;">' +
+            label + ' <span class="subfolder-count">(' + count + ')</span></a>';
+    }).join("");
 }
 
 function render() {
@@ -127,7 +192,10 @@ function render() {
     const sort2 = sort2El.value;
     const sort2Dir = sort2DirEl.value === "asc" ? 1 : -1;
 
+    renderBreadcrumb();
+    const folderPrefix = currentFolder + "/";
     const filtered = DATA.filter(e => {
+        if (!e.path.startsWith(folderPrefix)) return false;
         if (search && !e.title.toLowerCase().includes(search)) return false;
         if (level && e.level !== level) return false;
         if (category && e.category.replace(/-/g, " ").toLowerCase() !== category.replace(/-/g, " ").toLowerCase()) return false;
@@ -143,6 +211,7 @@ function render() {
     });
 
     totalEl.textContent = filtered.length + " of " + DATA.length + " courses";
+    renderSubfolders(filtered);
 
     const getVal = (e, key) => {
         if (key === "level") return {beginner: 0, intermediate: 1, advanced: 2}[e.level] ?? 3;
@@ -293,6 +362,9 @@ sort2DirEl.addEventListener("change", render);
 // Handle initial load with hash
 if (location.hash && location.hash.startsWith("#syllabus=")) {
     showSyllabus(decodeURIComponent(location.hash.substring(10)));
+} else if (location.hash && location.hash.startsWith("#folder=")) {
+    currentFolder = decodeURIComponent(location.hash.substring(8));
+    render();
 } else if (location.hash && location.hash.startsWith("#search=")) {
     searchEl.value = decodeURIComponent(location.hash.substring(8));
     render();
