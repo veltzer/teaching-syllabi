@@ -6,26 +6,10 @@ local function get_course_path()
     return path
 end
 
--- Count the directory depth from the input file to the _site root.
--- The full relative path includes "courses/" so we count all slashes in it.
-local function get_depth()
-    local input = PANDOC_STATE.input_files[1] or ""
-    local rel = input:match("syllabi/(courses/.+)$")
-        or input:match("out/generator/(.+)$")
-    if not rel then return 0 end
-    local depth = 0
-    for _ in rel:gmatch("/") do
-        depth = depth + 1
-    end
-    return depth
-end
-
 -- Build the category line: plain text for pdf/docx, linked breadcrumbs for html.
 local function build_category_block(course_path)
     local inlines = {pandoc.Strong({pandoc.Str("Category:")}), pandoc.Space()}
     if FORMAT:match("html") then
-        local depth = get_depth()
-        local prefix = string.rep("../", depth) .. "index.html"
         local segments = {}
         for seg in course_path:gmatch("[^/]+") do
             table.insert(segments, seg)
@@ -40,7 +24,9 @@ local function build_category_block(course_path)
                 table.insert(folder_parts, segments[j])
             end
             local folder = table.concat(folder_parts, "/")
-            local url = prefix .. "#folder=" .. folder
+            -- Use fragment-only URL since the syllabus is viewed inline
+            -- within the index page via fetch + innerHTML.
+            local url = "#folder=" .. folder
             table.insert(inlines, pandoc.Link({pandoc.Str(seg)}, url))
         end
     else
