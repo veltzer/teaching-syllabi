@@ -1,3 +1,3 @@
-name = "teaching-syllabi"
-description_short = "my teaching syllabi"
-keywords = {}
+NAME = "teaching-syllabi"
+DESCRIPTION_SHORT = "my teaching syllabi"
+KEYWORDS = { "syllabi", "teaching", "Mark Veltzer"}
