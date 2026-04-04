@@ -7,9 +7,10 @@ local function get_course_path()
 end
 
 -- Count the directory depth from the input file to the _site root.
+-- The full relative path includes "courses/" so we count all slashes in it.
 local function get_depth()
     local input = PANDOC_STATE.input_files[1] or ""
-    local rel = input:match("syllabi/courses/(.+)$")
+    local rel = input:match("syllabi/(courses/.+)$")
         or input:match("out/generator/(.+)$")
     if not rel then return 0 end
     local depth = 0
@@ -33,7 +34,13 @@ local function build_category_block(course_path)
             if i > 1 then
                 table.insert(inlines, pandoc.Str(" / "))
             end
-            local url = prefix .. "#search=" .. seg
+            -- Build the full folder path: courses/seg1/seg2/...
+            local folder_parts = {"courses"}
+            for j = 1, i do
+                table.insert(folder_parts, segments[j])
+            end
+            local folder = table.concat(folder_parts, "/")
+            local url = prefix .. "#folder=" .. folder
             table.insert(inlines, pandoc.Link({pandoc.Str(seg)}, url))
         end
     else
