@@ -55,7 +55,7 @@ document.querySelector('label[for="filter-audience"]').textContent =
 function showIndex() {
     syllabusView.style.display = "none";
     indexView.style.display = "";
-    document.title = "Syllabi Browser - Mark Veltzer";
+
     window.scrollTo(0, 0);
 }
 
@@ -75,7 +75,7 @@ function showSyllabus(path) {
         .then(function(html) {
             syllabusContent.innerHTML = html;
             var entry = DATA.find(function(e) { return e.path === path; });
-            if (entry) document.title = entry.title + " - Syllabi Browser";
+
             window.scrollTo(0, 0);
         })
         .catch(function() { syllabusContent.innerHTML = '<p>Failed to load syllabus.</p>'; });
