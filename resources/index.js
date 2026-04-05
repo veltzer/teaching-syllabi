@@ -4,7 +4,7 @@ const ICON_WORD = '<svg viewBox="0 0 24 24" fill="none" stroke="#1565c0" stroke-
 const ICON_HTML = '<svg viewBox="0 0 24 24" fill="none" stroke="#e65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><text x="12" y="17" text-anchor="middle" font-size="4.5" fill="#e65100" stroke="none" font-weight="bold">HTML</text></svg>';
 const ICON_PRINT = '<svg viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>';
 
-let currentFolder = "courses";
+let currentFolder = "";
 
 const breadcrumbEl = document.getElementById("breadcrumb");
 const subfoldersEl = document.getElementById("subfolders");
@@ -116,7 +116,7 @@ window.addEventListener("popstate", function() {
         syllabusView.style.display = "none";
         render();
     } else {
-        currentFolder = "courses";
+        currentFolder = "";
         showIndex();
     }
 });
@@ -134,26 +134,37 @@ function navigateFolder(folder) {
 }
 
 function getSubfolders(folder, entries) {
-    const prefix = folder + "/";
     const subs = new Map();
     for (const e of entries) {
-        if (!e.path.startsWith(prefix)) continue;
-        const rest = e.path.substring(prefix.length);
-        const slash = rest.indexOf("/");
-        if (slash === -1) continue;
-        const sub = rest.substring(0, slash);
-        subs.set(sub, (subs.get(sub) || 0) + 1);
+        if (folder === "") {
+            const slash = e.path.indexOf("/");
+            if (slash === -1) continue;
+            const sub = e.path.substring(0, slash);
+            subs.set(sub, (subs.get(sub) || 0) + 1);
+        } else {
+            const prefix = folder + "/";
+            if (!e.path.startsWith(prefix)) continue;
+            const rest = e.path.substring(prefix.length);
+            const slash = rest.indexOf("/");
+            if (slash === -1) continue;
+            const sub = rest.substring(0, slash);
+            subs.set(sub, (subs.get(sub) || 0) + 1);
+        }
     }
     return [...subs.entries()].sort((a, b) => a[0].localeCompare(b[0]));
 }
 
 function renderBreadcrumb() {
+    if (currentFolder === "") {
+        breadcrumbEl.innerHTML = '<span class="breadcrumb-current">home</span>';
+        return;
+    }
     const parts = currentFolder.split("/");
-    let html = "";
+    let html = '<a href="#" onclick="navigateFolder(\'\'); return false;">home</a>';
     for (let i = 0; i < parts.length; i++) {
         const path = parts.slice(0, i + 1).join("/");
         const label = parts[i].replace(/_/g, " ");
-        if (i > 0) html += '<span class="breadcrumb-sep">&gt;</span>';
+        html += '<span class="breadcrumb-sep">&gt;</span>';
         if (i === parts.length - 1) {
             html += '<span class="breadcrumb-current">' + label + '</span>';
         } else {
@@ -193,9 +204,9 @@ function render() {
     const sort2Dir = sort2DirEl.value === "asc" ? 1 : -1;
 
     renderBreadcrumb();
-    const folderPrefix = currentFolder + "/";
+    const folderPrefix = currentFolder ? currentFolder + "/" : "";
     const filtered = DATA.filter(e => {
-        if (!e.path.startsWith(folderPrefix)) return false;
+        if (folderPrefix && !e.path.startsWith(folderPrefix)) return false;
         if (search && !e.title.toLowerCase().includes(search)) return false;
         if (level && e.level !== level) return false;
         if (category && e.category.replace(/-/g, " ").toLowerCase() !== category.replace(/-/g, " ").toLowerCase()) return false;
@@ -210,7 +221,7 @@ function render() {
         return true;
     });
 
-    totalEl.textContent = filtered.length + " of " + DATA.length + " courses";
+    totalEl.textContent = filtered.length + " of " + DATA.length + " syllabi";
     renderSubfolders(filtered);
 
     const getVal = (e, key) => {
@@ -224,7 +235,7 @@ function render() {
         if (key === "level") return (e.level || "No Level").charAt(0).toUpperCase() + (e.level || "No Level").slice(1);
         if (key === "duration") return (e.dh ? Math.round(e.dh / 8) + " days" : "No Duration");
         if (key === "category") return e.folder;
-        if (key === "title") return "All Courses";
+        if (key === "title") return "All Syllabi";
         return "";
     };
 
@@ -257,7 +268,7 @@ function render() {
 
     let html = "";
     if (groups.length === 0) {
-        html = '<p class="no-results">No courses match the current filters.</p>';
+        html = '<p class="no-results">No syllabi match the current filters.</p>';
     }
     for (const group of groups) {
         html += "<h2>" + group.label + ' <span class="count">(' + group.items.length + ")</span></h2><ul>";

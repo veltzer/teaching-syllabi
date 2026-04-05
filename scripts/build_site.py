@@ -93,6 +93,18 @@ def clean_stale__site() -> None:
         print(f"Cleaned {removed} stale file(s) from _site/")
 
 
+def load_metadata(rel: Path) -> dict[str, Any]:
+    """Load metadata for a syllabus entry from its markdown frontmatter or track YAML."""
+    md_file = SYLLABI_DIR / rel.with_suffix(".md")
+    if md_file.exists():
+        return parse_frontmatter(md_file)
+    if rel.parts[0] == "tracks":
+        yaml_file = TRACKS_DIR / (rel.stem + ".yaml")
+        if yaml_file.exists():
+            return yaml.safe_load(yaml_file.read_text(encoding="utf-8")) or {}
+    return {}
+
+
 def build_site() -> None:
     if not DOCS_DIR.exists():
         print(f"Error: {DOCS_DIR} does not exist. Run 'rsconstruct build' first.")
@@ -111,8 +123,7 @@ def build_site() -> None:
             continue
         rel = html_file.relative_to(DOCS_DIR)
 
-        md_file = SYLLABI_DIR / rel.with_suffix(".md")
-        meta = parse_frontmatter(md_file) if md_file.exists() else {}
+        meta = load_metadata(rel)
 
         title = extract_title(html_file)
         tags = [str(t) for t in meta.get("tags", []) if t is not None]
