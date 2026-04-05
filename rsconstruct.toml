@@ -2,7 +2,6 @@
 extra_inputs = [
     "config/project.lua",
     "config/personal.lua",
-    "config/version.lua",
 ]
 
 [processor.tags]

@@ -1,7 +1,5 @@
 # teaching-syllabi
 
-version: 0.0.1
-
 description: my teaching syllabi
 
 website: [website](https://veltzer.github.io/teaching-syllabi)
