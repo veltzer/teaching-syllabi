@@ -183,7 +183,7 @@ function renderSubfolders(filtered) {
     subfoldersEl.innerHTML = subs.map(function(s) {
         var name = s[0];
         var count = s[1];
-        var path = currentFolder + "/" + name;
+        var path = currentFolder ? currentFolder + "/" + name : name;
         var label = name.replace(/_/g, " ");
         return '<a class="subfolder-card" href="#" onclick="navigateFolder(\'' +
             path.replace(/'/g, "\\'") + '\'); return false;">' +
