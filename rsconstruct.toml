@@ -1,3 +1,7 @@
+[dependencies]
+pip = ["types-PyYAML", "demjson3"]
+system = ["texlive-latex-recommended"]
+
 [processor.tera]
 extra_inputs = [
     "config/project.lua",
@@ -73,10 +77,6 @@ input_globs = [
 outputs = [
     "_site/index.html",
 ]
-
-[dependencies]
-pip = ["types-PyYAML", "demjson3"]
-system = ["texlive-latex-recommended"]
 
 [processor.pylint]
 [processor.pyrefly]
