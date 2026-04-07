@@ -79,12 +79,25 @@ outputs = [
 ]
 
 [processor.pylint]
+scan_dirs = ["scripts"]
+
 [processor.pyrefly]
+scan_dirs = ["scripts"]
+
 [processor.luacheck]
-[processor.taplo]
+scan_dirs = ["config", "resources"]
+
 [processor.yq]
+scan_dirs = ["tracks"]
+
 [processor.mypy]
-[processor.json_schema]
+scan_dirs = ["scripts"]
+
 [processor.ruff]
+scan_dirs = ["scripts"]
+
 [processor.yamllint]
+scan_dirs = ["tracks"]
+
 [processor.jq]
+scan_dirs = ["."]
