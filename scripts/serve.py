@@ -8,7 +8,7 @@ import threading
 import webbrowser
 from pathlib import Path
 
-SITE_DIR = Path(__file__).resolve().parent.parent / "_site"
+SITE_DIR = Path("_site")
 PORT = 8000
 
 
@@ -23,7 +23,7 @@ def main() -> None:
 
     os.chdir(SITE_DIR)
 
-    threading.Timer(0.5, lambda: webbrowser.open(f"http://localhost:{PORT}")).start()
+    threading.Timer(0.5, lambda: webbrowser.open(f"http://localhost:{PORT}/index.html")).start()
 
     try:
         server.serve_forever()

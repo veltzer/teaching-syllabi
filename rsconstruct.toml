@@ -33,9 +33,6 @@ extensions = [".md"]
 linter = "scripts/check_md.py"
 batch = true
 
-[processor.aspell]
-scan_dirs = ["syllabi", "out/generator"]
-
 [processor.zspell]
 scan_dirs = ["syllabi", "out/generator"]
 
@@ -61,6 +58,7 @@ command = "scripts/build_tracks.py"
 output_extension = "md"
 
 [processor.explicit]
+# name = "build_site.py"
 command = "scripts/build_site.py"
 inputs = [
     "resources/index.html",
@@ -78,17 +76,14 @@ outputs = [
     "_site/index.html",
 ]
 
+[processor.luacheck]
+scan_dirs = ["config", "resources"]
+
 [processor.pylint]
 scan_dirs = ["scripts"]
 
 [processor.pyrefly]
 scan_dirs = ["scripts"]
-
-[processor.luacheck]
-scan_dirs = ["config", "resources"]
-
-[processor.yq]
-scan_dirs = ["tracks"]
 
 [processor.mypy]
 scan_dirs = ["scripts"]
@@ -96,8 +91,8 @@ scan_dirs = ["scripts"]
 [processor.ruff]
 scan_dirs = ["scripts"]
 
-[processor.yamllint]
+[processor.iyamllint]
 scan_dirs = ["tracks"]
 
-[processor.jq]
+[processor.ijsonlint]
 scan_dirs = ["."]
