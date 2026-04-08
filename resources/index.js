@@ -382,3 +382,22 @@ if (location.hash && location.hash.startsWith("#syllabus=")) {
 } else {
     render();
 }
+
+// Theme switcher
+(function() {
+    const THEME_KEY = "syllabi-browser-theme";
+    const sel = document.getElementById("theme-select");
+    const saved = localStorage.getItem(THEME_KEY) || "midnight";
+
+    function applyTheme(name) {
+        document.documentElement.setAttribute("data-theme", name);
+        sel.value = name;
+        localStorage.setItem(THEME_KEY, name);
+    }
+
+    sel.addEventListener("change", function() {
+        applyTheme(sel.value);
+    });
+
+    applyTheme(saved);
+})();
