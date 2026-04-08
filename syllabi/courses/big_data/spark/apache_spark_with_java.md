@@ -86,8 +86,5 @@ The course will include exercises for all the major topics explained with best p
     * Overview of K-Means Clustering
     * `Spark` `Java` K-Means Clustering Example
 
-## References
-* [Similar course](`https`://www.jobreadyprogrammer.com/p/ultimate-`apache`-`spark`-with-`java`-course)
-
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026
