@@ -3,4 +3,7 @@
 - do not state how long each topics/subtopic takes.
 - ALL chapters MUST have a duration specified. Use the format: <!-- chapter: chapter-id, duration: Xh -->
 - The sum of all chapter durations must equal the duration_hours value in the YAML frontmatter.
-- Durations must be assigned manually by considering the actual material and complexity of each chapter. Never distribute durations evenly or mechanically — chapters are NOT uniform.
+- Durations must be assigned manually by considering the actual material and complexity of each chapter.
+- Never distribute durations evenly or mechanically — chapters are NOT uniform.
+- the syllsbus my have front matter with allowed tags.
+- use SVG for diagrams. Do not use ascii art or mermaid.
