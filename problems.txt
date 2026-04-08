@@ -1,3 +1,1 @@
-I want to have some kind of color theme for the html here.
-
-I want to have some kind of material design on this page.
+I want a button to see the pdf inline in the browser. Currenlty we have a button to print the pdf and to download the pdf but not to see it inline in the browser.

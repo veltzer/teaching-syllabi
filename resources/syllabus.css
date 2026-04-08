@@ -27,6 +27,7 @@ ul ul ul {
 
 #outline + ul > li {
     counter-increment: chapter;
+    margin-bottom: 0.5em;
 }
 
 #outline + ul > li::before {
