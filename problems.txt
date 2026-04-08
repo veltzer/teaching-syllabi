@@ -1,1 +1,4 @@
 I want a button to see the pdf inline in the browser. Currenlty we have a button to print the pdf and to download the pdf but not to see it inline in the browser.
+
+The colors that we are using are too diverse (for the icons, level lables etc)
+  Could we tone them dowen to some color pallette.
