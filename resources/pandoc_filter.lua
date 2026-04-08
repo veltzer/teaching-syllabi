@@ -35,6 +35,19 @@ local function build_category_block(course_path)
     return pandoc.Para(inlines)
 end
 
+-- Strip <!-- chapter: ..., duration: ... --> comments from output.
+function RawBlock(el)
+    if el.format == "html" and el.text:match("^%s*<!%-%-.*chapter:.*%-%->%s*$") then
+        return {}
+    end
+end
+
+function RawInline(el)
+    if el.format == "html" and el.text:match("<!%-%-.*chapter:.*%-%->") then
+        return {}
+    end
+end
+
 -- Set the document title from the first H1 heading if no title is set,
 -- remove that H1 to avoid duplication in standalone mode,
 -- and insert the course category path.
