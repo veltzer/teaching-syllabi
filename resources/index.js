@@ -285,11 +285,12 @@ function render() {
             }
             const durationBadge = db ? '<span class="duration">' + db + "</span>" : "";
             const base = item.path.replace(/\.html$/, "");
+            const viewPdfLink = '<a class="dl-icon" href="' + base + '.pdf" target="_blank" title="View PDF">' + ICON_VIEW + '</a>';
             const pdfLink = '<a class="dl-icon" href="' + base + '.pdf" download title="Download PDF">' + ICON_PDF + '</a>';
             const docxLink = '<a class="dl-icon" href="' + base + '.docx" download title="Download Word">' + ICON_WORD + '</a>';
             const htmlLink = '<a class="dl-icon" href="' + item.path + '" download title="Download HTML">' + ICON_HTML + '</a>';
             const printLink = '<a class="dl-icon" href="#" onclick="printCourse(\'' + item.path.replace(/'/g, "\\'") + '\'); return false;" title="Print">' + ICON_PRINT + '</a>';
-            html += '<li><a href="#" onclick="openSyllabus(\'' + item.path.replace(/'/g, "\\'") + '\'); return false;">' + item.title + "</a>" + levelBadge + durationBadge + " " + pdfLink + docxLink + htmlLink + printLink + "</li>";
+            html += '<li><a href="#" onclick="openSyllabus(\'' + item.path.replace(/'/g, "\\'") + '\'); return false;">' + item.title + "</a>" + levelBadge + durationBadge + " " + viewPdfLink + pdfLink + docxLink + htmlLink + printLink + "</li>";
         }
         html += "</ul>";
     }
