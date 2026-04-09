@@ -3,56 +3,56 @@ pip = ["types-PyYAML", "demjson3"]
 system = ["texlive-latex-recommended"]
 
 [processor.tera]
-extra_inputs = [
+dep_inputs = [
     "config/project.lua",
     "config/personal.lua",
 ]
 
 [processor.tags]
-scan_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/generator"]
 required_fields = ["tags", "level", "category", "audience"]
 required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
 
 [processor.pandoc.syllabi]
-scan_dirs = ["syllabi"]
+src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
 args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-extra_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
+dep_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.pandoc.generator]
-scan_dirs = ["out/generator"]
+src_dirs = ["out/generator"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
 args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-extra_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
+dep_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.script]
-scan_dirs = ["syllabi", "out/generator"]
-extensions = [".md"]
-linter = "scripts/check_md.py"
+src_dirs = ["syllabi", "out/generator"]
+src_extensions = [".md"]
+command = "scripts/check_md.py"
 batch = true
 
 [processor.zspell]
-scan_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/generator"]
 
 [processor.terms]
 terms_dir = "terms"
-scan_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/generator"]
 
 [processor.stylelint]
-scan_dirs = ["resources"]
+src_dirs = ["resources"]
 
 [processor.htmlhint]
-scan_dirs = ["resources"]
+src_dirs = ["resources"]
 
 [processor.eslint]
 args = ["-c", "config/eslint.config.js"]
-scan_dirs = ["resources"]
+src_dirs = ["resources"]
 
 [processor.generator]
-scan_dirs = ["tracks"]
-extensions = [".yaml"]
+src_dirs = ["tracks"]
+src_extensions = [".yaml"]
 batch = true
 command = "scripts/build_tracks.py"
 output_extension = "md"
@@ -77,22 +77,22 @@ outputs = [
 ]
 
 [processor.luacheck]
-scan_dirs = ["config", "resources"]
+src_dirs = ["config", "resources"]
 
 [processor.pylint]
-scan_dirs = ["scripts"]
+src_dirs = ["scripts"]
 
 [processor.pyrefly]
-scan_dirs = ["scripts"]
+src_dirs = ["scripts"]
 
 [processor.mypy]
-scan_dirs = ["scripts"]
+src_dirs = ["scripts"]
 
 [processor.ruff]
-scan_dirs = ["scripts"]
+src_dirs = ["scripts"]
 
 [processor.iyamllint]
-scan_dirs = ["tracks"]
+src_dirs = ["tracks"]
 
 [processor.ijsonlint]
-scan_dirs = ["."]
+src_dirs = ["."]
