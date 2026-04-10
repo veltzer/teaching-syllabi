@@ -79,12 +79,6 @@ outputs = [
 [processor.luacheck]
 src_dirs = ["config", "resources"]
 
-[processor.pylint]
-src_dirs = ["scripts"]
-
-[processor.pyrefly]
-src_dirs = ["scripts"]
-
 [processor.mypy]
 src_dirs = ["scripts"]
 
