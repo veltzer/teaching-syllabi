@@ -54,3 +54,9 @@ Mojo
 Nim
 OCaml
 Solidity
+Ada
+Dart
+Elixir
+Haskell
+Julia
+Lua

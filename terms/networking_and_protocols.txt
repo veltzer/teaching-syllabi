@@ -67,3 +67,21 @@ RESTful APIs
 STOMP
 TCP/IP
 TTL
+CIDR
+HATEOAS
+JSON-RPC
+LLMNR
+Modbus
+NBT-NS
+OSPF
+RADIUS
+SCTP
+Server-Sent Events
+SLAAC
+VLAN
+VXLAN
+Confluent Schema Registry
+Kafka Connect
+NATS JetStream
+Pulsar Functions
+Web3

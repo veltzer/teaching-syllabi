@@ -74,3 +74,15 @@ malloc(3)
 mmap(2)
 pipe(2)
 uring(2)
+bat
+chezmoi
+eza
+fd
+fzf
+jq
+ripgrep
+Oh My Zsh
+Netcat
+pgAdmin
+theHarvester
+truffleHog

@@ -44,3 +44,12 @@ check
 k6 Cloud
 mutmut
 pytest-mock
+Sinon
+BDD Mockito
+DataDriver
+QCheck
+Alcotest
+RSpec
+Testcontainers Cloud
+PactFlow
+WireMock

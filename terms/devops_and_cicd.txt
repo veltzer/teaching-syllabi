@@ -96,3 +96,40 @@ VictoriaMetrics
 Zabbix
 k6
 knife
+Alertmanager
+Argo Workflows
+Berkshelf
+Buildah
+Buildkit
+Buildkite
+Chef Habitat
+Chef Infra
+Clair
+CoreDNS
+Crossplane
+External Secrets Operator
+Falco
+Fluent Bit
+Flux CD
+Flux v2
+Harbor
+HelmChart
+HelmRelease
+HelmRepository
+Kaniko
+Karpenter
+Knative
+Kubeflow Pipelines
+Kustomization
+Notary v2
+Operator Lifecycle Manager
+Rekor
+Renovate
+Skopeo
+Spinnaker
+StatsD
+Wolfi
+Codecov
+Datadog Agent
+Copilot Workspace
+Claude Code

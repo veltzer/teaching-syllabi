@@ -103,3 +103,50 @@ Swagger UI
 TanStack Query
 Vue 3
 Vue Router
+Action Cable
+Active Job
+Apollo Client
+Apollo Router
+Apollo Server
+AssertJ
+Autofac
+Blazor Server
+Blazor WebAssembly
+Chai
+Create React App
+Durable Functions
+EF Core
+Expo Router
+Gorilla WebSocket
+GraphQL Code Generator
+Guice
+Hamcrest
+Jakarta EE
+Laravel Breeze
+Laravel Dusk
+Laravel Forge
+Laravel Fortify
+Laravel Horizon
+Material Design 3
+NUnit
+Polars
+R2DBC
+Re-frame
+React DevTools
+React Hook Form
+React Native CLI
+React Native Reanimated
+React Query
+React Suspense
+Reagent
+RTK Query
+Semantic Kernel
+Sequelize
+SQLAlchemy
+TypeORM
+Vue Test Utils
+CSS Grid
+Giraffe
+Ionide
+Expecto
+FsCheck

@@ -25,3 +25,6 @@ Chrome DevTools
 GitHub Copilot
 VS Code
 Wind River Workbench
+DBeaver
+HeidiSQL
+Neovim

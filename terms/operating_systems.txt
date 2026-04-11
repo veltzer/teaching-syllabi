@@ -19,3 +19,4 @@ macOS
 NixOS
 VxWorks
 Zephyr
+Rocky Linux

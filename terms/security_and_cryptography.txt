@@ -84,3 +84,100 @@ X.509
 XZ Utils
 YARA
 x64dbg
+ABAC
+ASN.1
+BSIMM
+CISA
+CompTIA Security+
+CVSS
+DKIM
+DMARC
+DORA
+ECDH
+ECDSA
+FedRAMP
+FIDO2
+HKDF
+HMAC
+HSTS
+IKEv1
+ISO 26262
+NIST SSDF
+OCSP
+OSCP
+OSINT
+OWASP Testing Guide
+OWASP Threat Dragon
+PASTA
+PBKDF2
+PTES
+STRIDE
+STIX 2.1
+TAXII
+TLS 1.2
+WPA2
+WPA2-Enterprise
+WPA3
+WebAuthn
+ZTNA
+Aircrack-ng
+Any.run
+Bettercap
+BloodHound
+Burp Suite Enterprise Edition
+CeWL
+Censys
+CrackMapExec
+Cuckoo Sandbox
+Cutter
+CycloneDX
+Defect Dojo
+Detect-It-Easy
+EternalBlue
+Ettercap
+FakeNet-NG
+FlareVM
+FLOSS
+Greenbone
+Hashcat
+Hunter.io
+Hybrid Analysis
+INetSim
+Kali Linux
+Ligolo-ng
+MalwareBazaar
+Meterpreter
+Mimikatz
+MISP
+Parrot OS
+ProcMon
+Process Explorer
+Process Hacker
+Process Monitor
+PsExec
+REMnux
+ResourceHacker
+Responder
+ScyllaHide
+SecLists
+SharpHound
+Shodan
+TrID
+UnpacMe
+VirusTotal
+VirusTotal Graph
+Wifite
+YARAify
+ALPHV
+AsyncRAT
+BlackCat
+Conti
+LockBit
+NjRAT
+Ryuk
+OpenCTI
+OpenSSF
+SPDX
+SPIFFE
+SPIRE
+Snyk

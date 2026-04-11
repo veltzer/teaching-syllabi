@@ -53,3 +53,23 @@ ScyllaDB
 Snowflake
 Unity Catalog
 Weaviate
+AlloyDB
+ChromaDB
+ClickHouse
+EventStoreDB
+Flyway
+Liquibase
+Milvus
+MinIO
+PgBouncer
+Pinot
+RocksDB
+TiDB
+YugabyteDB
+Percona XtraBackup
+MergeTree
+Databricks Runtime
+Databricks SQL
+Impala
+PrestoSQL
+Starburst

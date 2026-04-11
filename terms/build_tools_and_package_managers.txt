@@ -46,3 +46,5 @@ nix-shell
 opam
 pkg-config
 rebar3
+Earthly
+Pulumi

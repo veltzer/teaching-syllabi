@@ -58,5 +58,36 @@ Stable Diffusion
 Tecton
 TensorFlow Federated
 Weights & Biases
-deep learning
 sentence-transformers
+AI Fairness 360
+AudioLDM
+BERT
+CLIP
+DALL-E
+Diffusers
+DiffusionPipeline
+Explainable AI
+Fairlearn
+FastText
+Feature-engine
+Federated Averaging
+Federated Learning
+GloVe
+GradCAM
+Grad-CAM++
+GraphRNN
+Hugging Face Hub
+Hyperopt
+Imagen
+LM Studio
+ModelScope
+MusicGen
+ONNX
+Sora
+TensorFlow Serving
+U-Net
+VideoLDM
+Word2Vec
+Anthropic Agent SDK
+OpenAI Agents SDK
+Gemini API

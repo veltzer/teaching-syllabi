@@ -50,3 +50,20 @@ Spark SQL
 Spark Streaming
 dbt
 dbt Cloud
+Airbyte Cloud
+Data Factory
+Delta
+Druid Operator
+Flink SQL
+Glue DataBrew
+Glue Studio
+Hudi CLI
+Hudi Flink
+Meltano
+Spark Structured Streaming
+Structured Streaming
+Synapse
+Synapse Link
+HyperLogLog
+Fivetran
+Snowflake Scripting

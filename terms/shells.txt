@@ -3,3 +3,5 @@ csh
 ksh
 tcsh
 sh
+Fish
+Zsh

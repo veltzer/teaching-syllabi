@@ -12,3 +12,5 @@ git bisect
 git diff
 git log
 git rebase
+Gitea
+Forgejo
