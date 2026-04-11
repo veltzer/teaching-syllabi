@@ -81,11 +81,11 @@ This two day advanced course equips engineers with the skills to diagnose and re
     * Using tools like `tcpdump`, `curl`, and `nslookup` from debug containers
 <!-- chapter: dns-problems, duration: 2h -->
 * `DNS` Problems
-    * CoreDNS architecture and configuration
+    * `CoreDNS` architecture and configuration
     * Diagnosing `DNS` resolution failures
     * `DNS` caching and `TTL` issues
     * Custom `DNS` policies and stub domains
-    * CoreDNS performance and scaling
+    * `CoreDNS` performance and scaling
 <!-- chapter: resource-limits-and-scheduling-issues, duration: 2h -->
 * Resource Limits and Scheduling Issues
     * Understanding requests and limits

@@ -82,7 +82,7 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
     * `Virtual private cloud` (`VPC`) design and segmentation
     * Security groups and network access control lists (NACLs)
     * Private endpoints and service connectivity
-    * `VPN` and dedicated interconnect security
+    * `VPN` and `dedicated interconnect` security
     * `DNS` security and `DDoS` protection services
     * Web application firewalls (`WAF`) and `API` gateways
     * Network traffic inspection and flow logging

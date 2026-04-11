@@ -99,7 +99,7 @@ This course introduces Supabase, an open-source backend-as-a-service platform bu
 * Client Libraries:
     * `JavaScript`/`TypeScript` client (supabase-js)
     * `Python` client
-    * `Flutter`/Dart client
+    * `Flutter`/`Dart` client
     * Client configuration and best practices
 <!-- chapter: supabase-cli-and-local-development, duration: 1h -->
 * Supabase `CLI` and Local Development:
@@ -112,7 +112,7 @@ This course introduces Supabase, an open-source backend-as-a-service platform bu
     * Supabase hosting plans
     * Self-hosting Supabase
     * Scaling considerations
-    * Connection pooling with PgBouncer
+    * Connection pooling with `PgBouncer`
     * Monitoring and logging
 
 ## Copyright

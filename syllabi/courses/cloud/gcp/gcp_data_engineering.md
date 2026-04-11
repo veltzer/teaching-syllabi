@@ -93,8 +93,8 @@ Engineer certification path.
 <!-- chapter: data-storage, duration: 4h -->
 * Data Storage
     * `Cloud Storage`: classes, lifecycle rules, and organization
-    * Cloud `SQL` and AlloyDB for relational workloads
-    * Cloud Spanner for globally distributed data
+    * Cloud `SQL` and `AlloyDB` for relational workloads
+    * `Cloud Spanner` for globally distributed data
     * `Firestore` and Bigtable for `NoSQL` workloads
     * Memorystore for caching
     * Choosing the right storage service

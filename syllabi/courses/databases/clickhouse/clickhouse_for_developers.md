@@ -11,12 +11,12 @@ audience:
   - audiences:data-scientists
 ---
 <!-- course: clickhouse_for_developers -->
-# ClickHouse for Developers
+# `ClickHouse` for Developers
 
 ## Description
-This course provides comprehensive training in ClickHouse, a high-performance column-oriented database for online analytical processing (OLAP). Participants will learn how to design schemas, write efficient queries, optimize performance, and integrate ClickHouse into their data pipelines and analytics workflows.
+This course provides comprehensive training in `ClickHouse`, a high-performance column-oriented database for online analytical processing (OLAP). Participants will learn how to design schemas, write efficient queries, optimize performance, and integrate `ClickHouse` into their data pipelines and analytics workflows.
 
-The course emphasizes practical experience with real-world analytical scenarios, preparing developers and data scientists to leverage ClickHouse for large-scale data analysis and reporting.
+The course emphasizes practical experience with real-world analytical scenarios, preparing developers and data scientists to leverage `ClickHouse` for large-scale data analysis and reporting.
 
 ## Duration
 24 hours / 3 days
@@ -26,7 +26,7 @@ The course emphasizes practical experience with real-world analytical scenarios,
 * Data scientists working with large-scale analytical data
 * Data engineers designing data pipelines
 * Backend developers integrating OLAP capabilities
-* Analytics engineers transitioning to ClickHouse
+* Analytics engineers transitioning to `ClickHouse`
 
 ## Prerequisites
 * `Solid` understanding of `SQL` fundamentals
@@ -38,16 +38,16 @@ The course emphasizes practical experience with real-world analytical scenarios,
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand column-oriented database concepts and ClickHouse architecture
+* Understand column-oriented database concepts and `ClickHouse` architecture
 * Design efficient table schemas using appropriate engines
 * Write optimized `SQL` queries for analytical workloads
 * Implement materialized views and dictionaries
 * Configure partitioning, sharding, and replication
-* Monitor and optimize ClickHouse performance
-* Integrate ClickHouse with external tools and data sources
+* Monitor and optimize `ClickHouse` performance
+* Integrate `ClickHouse` with external tools and data sources
 
 ## Exercises
-Hands-on lab exercises covering schema design, data ingestion, query writing, materialized views, dictionaries, and performance optimization. Students will create tables with various MergeTree engine variants, load and transform large datasets, write complex analytical queries, build materialized views for real-time aggregation, configure dictionaries for data enrichment, and analyze query performance. Exercises use realistic analytical datasets and workloads.
+Hands-on lab exercises covering schema design, data ingestion, query writing, materialized views, dictionaries, and performance optimization. Students will create tables with various `MergeTree` engine variants, load and transform large datasets, write complex analytical queries, build materialized views for real-time aggregation, configure dictionaries for data enrichment, and analyze query performance. Exercises use realistic analytical datasets and workloads.
 
 ## Outline
 <!-- chapter: column-oriented-database-concepts, duration: 1h -->
@@ -55,13 +55,13 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
     * Row-oriented vs column-oriented storage
     * Advantages for analytical workloads
     * Compression benefits of columnar storage
-    * `When` to use ClickHouse vs row-oriented databases
+    * `When` to use `ClickHouse` vs row-oriented databases
     * Comparison with other OLAP systems: `Apache Druid`, `Apache Pinot`, Vertica
 
 <!-- chapter: clickhouse-architecture, duration: 2h -->
-* ClickHouse Architecture
+* `ClickHouse` Architecture
     * Server architecture overview
-    * MergeTree engine family fundamentals
+    * `MergeTree` engine family fundamentals
     * Data storage and merge process
     * Parts, partitions, and granules
     * Primary index and sparse indexing
@@ -70,7 +70,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 
 <!-- chapter: sql-dialect-and-data-types, duration: 2h -->
 * `SQL` Dialect and Data Types
-    * ClickHouse `SQL` syntax and extensions
+    * `ClickHouse` `SQL` syntax and extensions
     * Numeric types: UInt8 through UInt256, Float32, `Float64`, Decimal
     * String types: String, FixedString, LowCardinality
     * Date and time types: Date, DateTime, DateTime64
@@ -80,7 +80,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 
 <!-- chapter: table-engines, duration: 2h -->
 * Table Engines
-    * MergeTree engine and its variants
+    * `MergeTree` engine and its variants
     * ReplacingMergeTree for deduplication
     * SummingMergeTree for pre-aggregation
     * AggregatingMergeTree for incremental aggregation
@@ -120,7 +120,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 
 <!-- chapter: materialized-views, duration: 2h -->
 * Materialized Views
-    * Materialized view concepts in ClickHouse
+    * Materialized view concepts in `ClickHouse`
     * Creating materialized views
     * Source and target table relationships
     * Aggregating materialized views
@@ -140,7 +140,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 
 <!-- chapter: joins-and-subqueries, duration: 1h -->
 * Joins and Subqueries
-    * Join types in ClickHouse: JOIN, `GLOBAL JOIN`
+    * Join types in `ClickHouse`: JOIN, `GLOBAL JOIN`
     * Join algorithms: hash, partial_merge, direct
     * Join performance considerations
     * Subqueries and IN operators
@@ -173,7 +173,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
     * Memory usage optimization
     * Compression codecs and their impact
     * Settings for query performance tuning
-    * Benchmarking with clickhouse-benchmark
+    * Benchmarking with `clickhouse`-benchmark
 
 <!-- chapter: monitoring, duration: 2h -->
 * Monitoring
@@ -186,7 +186,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 
 <!-- chapter: integration-with-visualization-tools, duration: 2h -->
 * Integration with Visualization Tools
-    * Connecting `Grafana` to ClickHouse
+    * Connecting `Grafana` to `ClickHouse`
     * Superset integration
     * Metabase integration
     * `JDBC` and ODBC drivers

@@ -87,7 +87,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * `Cloud Run`: deploying from source and container images
     * `Cloud Run` functions (event-driven functions)
     * Eventarc for event routing
-    * Cloud Tasks and Cloud Scheduler
+    * `Cloud Tasks` and `Cloud Scheduler`
     * Choosing between compute options
 <!-- chapter: networking, duration: 4h -->
 * Networking
@@ -95,7 +95,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * Subnets, `IP` addressing, and `DNS` configuration
     * Cloud `NAT` and `Cloud Router`
     * `Firewall` rules and network tags
-    * Cloud `VPN` and Cloud Interconnect
+    * Cloud `VPN` and `Cloud Interconnect`
     * `VPC` Peering and `Private Service Connect`
     * Load balancers: `HTTP`(S), `TCP`/`SSL`, network
     * Network Service Tiers
@@ -104,10 +104,10 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * `Cloud Storage`: classes, lifecycle policies, and `IAM`
     * Filestore for managed `file` storage
     * Cloud `SQL`: `MySQL`, `PostgreSQL`, and `SQL Server`
-    * Cloud Spanner for globally distributed relational data
+    * `Cloud Spanner` for globally distributed relational data
     * `Firestore` for document databases
     * Bigtable for wide-column workloads
-    * AlloyDB for `PostgreSQL`-compatible analytics
+    * `AlloyDB` for `PostgreSQL`-compatible analytics
     * Memorystore for caching (`Redis`)
     * Choosing the right storage and database service
 <!-- chapter: infrastructure-as-code, duration: 3h -->

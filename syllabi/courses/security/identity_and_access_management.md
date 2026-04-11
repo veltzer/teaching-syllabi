@@ -38,7 +38,7 @@ This course provides a comprehensive exploration of identity and access manageme
 * Understand and compare authentication protocols including `SAML`, `OIDC`, `OAuth2`, `LDAP`, and `Kerberos`
 * Design and implement single sign-on and multi-factor authentication solutions
 * Configure and manage directory services such as `Active Directory` and `LDAP`
-* Apply authorization models including `RBAC`, ABAC, and ReBAC appropriately
+* Apply authorization models including `RBAC`, `ABAC`, and ReBAC appropriately
 * Secure APIs using `JWT`, `OAuth2` scopes, and `API` key management
 * Implement identity solutions across `AWS`, `Azure`, and `GCP` cloud platforms
 * Evaluate and integrate identity-as-a-service platforms like `Okta`, `Auth0`, and `Keycloak`
@@ -63,7 +63,7 @@ This course provides a comprehensive exploration of identity and access manageme
     * Desktop SSO and `Kerberos` integration
     * SSO session management and token lifecycle
     * Multi-factor authentication (MFA) methods and technologies
-    * TOTP, FIDO2/WebAuthn, and push notification-based MFA
+    * TOTP, `FIDO2`/`WebAuthn`, and push notification-based MFA
     * Adaptive and risk-based authentication
     * Passwordless authentication strategies
 <!-- chapter: directory-services-and-identity-federation, duration: 3h -->
@@ -79,7 +79,7 @@ This course provides a comprehensive exploration of identity and access manageme
 <!-- chapter: authorization-models, duration: 3h -->
 * Authorization Models
     * Role-based access control (`RBAC`): roles, permissions, and hierarchies
-    * Attribute-based access control (ABAC): policies, attributes, and evaluation
+    * Attribute-based access control (`ABAC`): policies, attributes, and evaluation
     * Relationship-based access control (ReBAC): graph-based authorization
     * Policy engines and policy-as-code
     * Fine-grained vs coarse-grained authorization

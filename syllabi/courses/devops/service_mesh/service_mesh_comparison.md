@@ -102,7 +102,7 @@ on selecting and migrating to a service mesh.
     * automatic vs manual mTLS
     * certificate rotation
     * external `CA` integration
-    * SPIFFE identity
+    * `SPIFFE` identity
 <!-- chapter: traffic-management-differences, duration: 2h -->
 * Traffic management differences
     * canary deployments

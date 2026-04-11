@@ -21,13 +21,13 @@ configuration management. `Puppet` makes it easier for developers, system admini
 for web scale.
 
 The Intermediate `Puppet` training course is designed to engage students in more of the features
-of `Puppet` such as the `Puppet` language, custom functions, facter, Hiera, rspec and
+of `Puppet` such as the `Puppet` language, custom functions, facter, Hiera, `rspec` and
 architecture beyond what they may have learned in introductory courses. The course begins
 with a deep understanding of `Puppet` language with hands-on labs addressing real world
 scenarios. Next, students will learn how to write their own custom functions to extend `Puppet` to
 automate processes that may be considered custom to their own infrastructure. Students will
 get more familiar with Facter and understand how to use it with `Puppet`. Finally, students will `dig`
-into Hiera and rspec ending with exercises to test their manifests.
+into Hiera and `rspec` ending with exercises to test their manifests.
 
 ## Duration
 24 hours / 3 days
@@ -48,7 +48,7 @@ improve your application delivery process.
 * Create your own custom functions to be used within `Puppet`
 * Learn how to use Facter
 * Use Hiera to define and use data sources.
-* Use rspec in order to test that their manifests are correct.
+* Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
 <!-- chapter: from-zero-to-puppet, duration: 2h -->
@@ -93,8 +93,8 @@ improve your application delivery process.
     * Modules
     * Using Bolt with `Puppet`
 <!-- chapter: rspec-puppet, duration: 8h -->
-* Rspec-`puppet`
-    * Installing rspec-`puppet`
+* `Rspec`-`puppet`
+    * Installing `rspec`-`puppet`
     * Setup
         * Manual vs automatic
     * Doing various tests

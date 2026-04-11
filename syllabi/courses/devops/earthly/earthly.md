@@ -12,14 +12,14 @@ audience:
   - audiences:devops
 ---
 <!-- course: earthly -->
-# Earthly
+# `Earthly`
 
 ## Description
-This course covers Earthly, a build automation tool that combines the best of `Dockerfile`
+This course covers `Earthly`, a build automation tool that combines the best of `Dockerfile`
 and `Makefile` syntax to create reproducible, containerized build pipelines. Participants will
 learn how to write Earthfiles, manage artifacts and images, leverage caching, handle
-multi-platform builds, and integrate Earthly with existing CI systems. The course also
-compares Earthly with alternative build tools and approaches.
+multi-platform builds, and integrate `Earthly` with existing CI systems. The course also
+compares `Earthly` with alternative build tools and approaches.
 
 ## Duration
 16 hours / 1 day
@@ -38,18 +38,18 @@ compares Earthly with alternative build tools and approaches.
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
-* understand Earthly concepts and how it differs from traditional build tools.
+* understand `Earthly` concepts and how it differs from traditional build tools.
 * write Earthfiles to define reproducible build pipelines.
 * leverage caching, secrets, and multi-platform builds.
-* integrate Earthly into existing CI systems.
+* integrate `Earthly` into existing CI systems.
 
 ## Outline
 <!-- chapter: earthly-overview, duration: 1h -->
-* Earthly overview
-    * what is Earthly
+* `Earthly` overview
+    * what is `Earthly`
     * `Dockerfile` + `Makefile` concept
     * reproducibility and containerized builds
-    * `when` to use Earthly
+    * `when` to use `Earthly`
 <!-- chapter: earthfile-syntax, duration: 2h -->
 * Earthfile syntax
     * targets and dependencies
@@ -118,9 +118,9 @@ compares Earthly with alternative build tools and approaches.
     * build orchestration
 <!-- chapter: comparison-with-other-tools, duration: 1h -->
 * Comparison with other tools
-    * Earthly vs `Docker` multi-stage builds
-    * Earthly vs `Bazel`
-    * Earthly vs traditional CI scripts
+    * `Earthly` vs `Docker` multi-stage builds
+    * `Earthly` vs `Bazel`
+    * `Earthly` vs traditional CI scripts
     * choosing the right tool
 <!-- chapter: debugging-builds, duration: 2h -->
 * Debugging builds

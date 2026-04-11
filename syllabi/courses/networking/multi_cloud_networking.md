@@ -54,7 +54,7 @@ and security considerations for multi-cloud network topologies.
 * Multi-Cloud Networking Fundamentals
     * Multi-cloud strategy and use cases
     * Networking model comparison across `AWS`, `Azure`, and `GCP`
-    * `IP` address planning and CIDR management
+    * `IP` address planning and `CIDR` management
     * Routing considerations across clouds
 <!-- chapter: cross-cloud-vpn, duration: 2h -->
 * Cross-Cloud `VPN`

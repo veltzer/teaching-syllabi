@@ -9,10 +9,10 @@ audience:
   - audiences:developers
 ---
 <!-- course: vim_and_neovim -->
-# `Vim` and Neovim
+# `Vim` and `Neovim`
 
 ## Description
-This course introduces `Vim` and Neovim as powerful, efficient text editors built around the philosophy of modal editing. Participants will learn core `Vim` navigation and editing commands, progress to advanced features such as macros and registers, and then explore Neovim-specific enhancements including Lua-based configuration, modern plugin management, and LSP integration. By the end of the course, participants will be able to use Neovim as a full-featured development environment.
+This course introduces `Vim` and `Neovim` as powerful, efficient text editors built around the philosophy of modal editing. Participants will learn core `Vim` navigation and editing commands, progress to advanced features such as macros and registers, and then explore `Neovim`-specific enhancements including `Lua`-based configuration, modern plugin management, and LSP integration. By the end of the course, participants will be able to use `Neovim` as a full-featured development environment.
 
 ## Duration
 16 hours / 2 day
@@ -20,7 +20,7 @@ This course introduces `Vim` and Neovim as powerful, efficient text editors buil
 ## Intended Audience
 * Developers looking to improve their text editing efficiency
 * Engineers who frequently work in terminal-based environments
-* Developers interested in using Neovim as their primary IDE
+* Developers interested in using `Neovim` as their primary IDE
 * Anyone who wants to leverage `Vim` motions in their existing editor
 
 ## Prerequisites
@@ -32,8 +32,8 @@ This course introduces `Vim` and Neovim as powerful, efficient text editors buil
 * Understand `Vim`'s modal editing philosophy and its benefits
 * Navigate and edit text efficiently using motions, text objects, and operators
 * Use registers, macros, and advanced editing techniques for repetitive tasks
-* Configure Neovim using init.lua and Lua-based configuration
-* Set up a modern Neovim environment with plugins for code completion, navigation, and debugging
+* Configure `Neovim` using init.`lua` and `Lua`-based configuration
+* Set up a modern `Neovim` environment with plugins for code completion, navigation, and debugging
 * Apply `Vim` motions in other editors such as `VS Code` and `JetBrains` `IDEs`
 
 ## Outline
@@ -101,19 +101,19 @@ This course introduces `Vim` and Neovim as powerful, efficient text editors buil
 <!-- chapter: configuration, duration: 1h -->
 * Configuration
     * .vimrc for `Vim`
-    * init.lua for Neovim
+    * init.`lua` for `Neovim`
     * Setting options
     * Key mappings (nnoremap, inoremap, etc.)
     * Autocommands
-    * Lua-based configuration patterns for Neovim
+    * `Lua`-based configuration patterns for `Neovim`
 <!-- chapter: neovim-differences-and-advantages, duration: 1h -->
-* Neovim Differences and Advantages
-    * Neovim vs `Vim`: architecture and goals
+* `Neovim` Differences and Advantages
+    * `Neovim` vs `Vim`: architecture and goals
     * Built-in LSP client
     * Built-in Treesitter support
-    * Lua as a first-class configuration language
+    * `Lua` as a first-class configuration language
     * `Async` job control and improved terminal integration
-    * Neovim ecosystem and community
+    * `Neovim` ecosystem and community
 <!-- chapter: plugin-management, duration: 1h -->
 * Plugin Management
     * lazy.nvim plugin manager
@@ -130,7 +130,7 @@ This course introduces `Vim` and Neovim as powerful, efficient text editors buil
     * `File` explorer plugins (neo-tree, oil.nvim)
     * Status line and UI enhancements
 <!-- chapter: neovim-as-ide, duration: 1h -->
-* Neovim as IDE
+* `Neovim` as IDE
     * Language Server Protocol setup and configuration
     * Code completion, diagnostics, and code actions
     * `Go`-to-definition, references, and hover documentation
@@ -145,17 +145,17 @@ This course introduces `Vim` and Neovim as powerful, efficient text editors buil
     * Common mapping patterns for productivity
 <!-- chapter: terminal-integration, duration: 1h -->
 * Terminal Integration
-    * Neovim built-in terminal
+    * `Neovim` built-in terminal
     * Terminal mode and key mappings
     * Toggling terminal `windows`
-    * Running build and test commands from Neovim
+    * Running build and test commands from `Neovim`
 <!-- chapter: vim-motions-in-other-editors, duration: 1h -->
 * `Vim` Motions in Other Editors
     * `Vim` extension for `VS Code`
     * IdeaVim for `JetBrains` `IDEs`
     * Capabilities and limitations of `Vim` emulation layers
     * Sharing configuration across editors
-    * `When` to use `Vim` motions vs a full Neovim setup
+    * `When` to use `Vim` motions vs a full `Neovim` setup
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

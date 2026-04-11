@@ -106,7 +106,7 @@ Network security is a critical discipline in today's interconnected world, where
     * Public Key Infrastructure components
     * Certificate Authorities: root, intermediate, and leaf certificates
     * Certificate lifecycle management
-    * Certificate revocation: CRL and OCSP
+    * Certificate revocation: CRL and `OCSP`
     * `Let's Encrypt` and automated certificate management (`ACME`)
     * Certificate pinning
     * Private `CA` deployment and management
@@ -133,7 +133,7 @@ Network security is a critical discipline in today's interconnected world, where
     * Identity-based access control
     * Device trust and posture assessment
     * Continuous verification and least privilege
-    * Zero trust network access (ZTNA)
+    * Zero trust network access (`ZTNA`)
     * Implementing zero trust with existing infrastructure
     * `BeyondCorp` and similar frameworks
 <!-- chapter: ddos-mitigation, duration: 2h -->
@@ -147,11 +147,11 @@ Network security is a critical discipline in today's interconnected world, where
     * Incident response for `DDoS` attacks
 <!-- chapter: wireless-security, duration: 1h -->
 * Wireless Security
-    * Wireless security standards: WEP, WPA, WPA2, WPA3
-    * WPA3 features: SAE, enhanced open, management frame protection
+    * Wireless security standards: WEP, WPA, `WPA2`, `WPA3`
+    * `WPA3` features: SAE, enhanced open, management frame protection
     * Rogue access point detection
     * Evil twin attacks and mitigation
-    * Enterprise wireless security (802.1X, RADIUS)
+    * Enterprise wireless security (802.1X, `RADIUS`)
     * Wireless intrusion detection
 <!-- chapter: network-monitoring-and-traffic-analysis, duration: 2h -->
 * Network Monitoring and Traffic Analysis

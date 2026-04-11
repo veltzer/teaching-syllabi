@@ -16,7 +16,7 @@ audience:
 # Threat Modeling
 
 ## Description
-Threat modeling is a structured approach to identifying, quantifying, and addressing security risks in software systems. This course covers the major threat modeling methodologies including STRIDE, DREAD, PASTA, and LINDDUN, along with practical techniques for creating data flow diagrams, identifying trust boundaries, and building attack trees. Participants will apply these techniques to real-world architectures including `microservices`, cloud, and APIs.
+Threat modeling is a structured approach to identifying, quantifying, and addressing security risks in software systems. This course covers the major threat modeling methodologies including `STRIDE`, DREAD, `PASTA`, and LINDDUN, along with practical techniques for creating data flow diagrams, identifying trust boundaries, and building attack trees. Participants will apply these techniques to real-world architectures including `microservices`, cloud, and APIs.
 
 ## Duration
 16 hours / 2 days
@@ -39,10 +39,10 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
 ## Objectives
 * Understand threat modeling fundamentals and `when` to apply them
 * Create data flow diagrams and identify trust boundaries
-* Apply the STRIDE methodology to systematically identify threats
+* Apply the `STRIDE` methodology to systematically identify threats
 * Use DREAD for risk rating and prioritization
 * Build attack trees to analyze complex threat scenarios
-* Apply PASTA for risk-centric threat analysis
+* Apply `PASTA` for risk-centric threat analysis
 * Use LINDDUN for privacy-specific threat modeling
 * Perform threat modeling for `microservices`, cloud, and `API` architectures
 * Integrate threat modeling into the software development lifecycle
@@ -72,14 +72,14 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
     * Cloud-specific trust boundaries
     * Documenting trust assumptions
 <!-- chapter: stride-methodology, duration: 1h -->
-* STRIDE Methodology
+* `STRIDE` Methodology
     * Spoofing identity threats and mitigations
     * Tampering with data threats and mitigations
     * Repudiation threats and mitigations
     * Information disclosure threats and mitigations
     * Denial of service threats and mitigations
     * Elevation of privilege threats and mitigations
-    * STRIDE-per-element and STRIDE-per-interaction approaches
+    * `STRIDE`-per-element and `STRIDE`-per-interaction approaches
 <!-- chapter: dread-risk-rating, duration: 1h -->
 * DREAD Risk Rating
     * Damage potential assessment
@@ -97,7 +97,7 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
     * Using attack trees for risk analysis
     * Combining attack trees with other methodologies
 <!-- chapter: pasta-process-for-attack-simulation-and-threat-analysis, duration: 1h -->
-* PASTA (Process for Attack Simulation and Threat Analysis)
+* `PASTA` (Process for Attack Simulation and Threat Analysis)
     * Stage 1: Define objectives
     * Stage 2: Define technical scope
     * Stage 3: Application decomposition

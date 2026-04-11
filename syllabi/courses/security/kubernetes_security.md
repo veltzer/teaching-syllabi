@@ -80,7 +80,7 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
     * `Kubernetes` networking model and security implications
     * Network policy specification: `ingress` and egress rules
     * Namespace isolation and default deny policies
-    * Label-based traffic selection and CIDR-based rules
+    * Label-based traffic selection and `CIDR`-based rules
     * Network policy providers: Calico, Cilium, Weave
     * Service mesh security with `Istio` and `Linkerd`
     * Mutual `TLS` (mTLS) for service-to-service communication
@@ -126,7 +126,7 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
     * Continuous monitoring for newly discovered vulnerabilities
 <!-- chapter: runtime-security, duration: 2h -->
 * Runtime Security
-    * Runtime threat detection with Falco and Tetragon
+    * Runtime threat detection with `Falco` and Tetragon
     * System call monitoring and anomaly detection
     * `File` integrity monitoring in containers
     * Process execution monitoring and whitelisting

@@ -94,7 +94,7 @@ This course provides a thorough grounding in `Jest`, the most widely used testin
     * Configuring coverage thresholds in `jest.config`
     * `HTML`, LCOV, and text coverage reports
     * Excluding files and directories from coverage
-    * Coverage in CI: integrating with Codecov or similar services
+    * Coverage in CI: integrating with `Codecov` or similar services
 <!-- chapter: snapshot-testing, duration: 2h -->
 * Snapshot Testing
     * What snapshot testing is and `when` to use it

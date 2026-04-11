@@ -71,8 +71,8 @@ practical multi-cloud strategies aligned with business goals.
 <!-- chapter: abstraction-layers-and-tooling, duration: 1h -->
 * Abstraction layers and tooling
     * `Terraform` for multi-cloud provisioning
-    * Pulumi and programmatic infrastructure
-    * Crossplane for `Kubernetes`-native infrastructure
+    * `Pulumi` and programmatic infrastructure
+    * `Crossplane` for `Kubernetes`-native infrastructure
     * abstraction trade-offs (lowest common denominator)
 <!-- chapter: kubernetes-as-cloud-abstraction, duration: 1h -->
 * `Kubernetes` as cloud abstraction

@@ -38,7 +38,7 @@ answering, and text generation.
 * **Preprocess and represent text data** using tokenization, stemming, lemmatization, and vectorization techniques
 * **Build text classification models** for sentiment analysis and document categorization using classical and `deep learning` methods
 * **Implement named entity recognition and part-of-speech tagging** pipelines using `spaCy` and custom models
-* **Understand and apply transformer architectures** including BERT and its variants for downstream NLP tasks
+* **Understand and apply transformer architectures** including `BERT` and its variants for downstream NLP tasks
 * **Leverage the `Hugging Face` ecosystem** for fine-tuning, inference, and model sharing
 * **Deploy NLP models** for production text processing applications
 
@@ -75,9 +75,9 @@ answering, and text generation.
         * TF-IDF vectorization
         * Applications and limitations
     * Word embeddings
-        * Word2Vec (Skip-gram and CBOW)
-        * GloVe (Global Vectors)
-        * FastText (subword embeddings)
+        * `Word2Vec` (Skip-gram and CBOW)
+        * `GloVe` (Global Vectors)
+        * `FastText` (subword embeddings)
         * Training custom embeddings
     * Working with embeddings
         * Word similarity and analogy
@@ -174,12 +174,12 @@ answering, and text generation.
         * Causal language modeling
         * Denoising objectives
 <!-- chapter: bert-and-transformer-models, duration: 2h -->
-* BERT and Transformer Models
-    * BERT
-        * BERT architecture and pre-training
-        * BERT tokenizer (WordPiece)
-        * Fine-tuning BERT for downstream tasks
-        * BERT variants (RoBERTa, ALBERT, DistilBERT)
+* `BERT` and Transformer Models
+    * `BERT`
+        * `BERT` architecture and pre-training
+        * `BERT` tokenizer (WordPiece)
+        * Fine-tuning `BERT` for downstream tasks
+        * `BERT` variants (RoBERTa, ALBERT, DistilBERT)
     * Other transformer models
         * `GPT` family overview
         * T5 (Text-to-Text Transfer Transformer)
@@ -273,7 +273,7 @@ answering, and text generation.
     * Model optimization
         * Model distillation
         * Quantization
-        * ONNX Runtime
+        * `ONNX` Runtime
         * Pruning
     * Serving infrastructure
         * `REST` `API` deployment (`FastAPI`, `Flask`)

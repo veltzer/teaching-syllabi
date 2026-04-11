@@ -43,7 +43,7 @@ Application security is essential for building resilient software that withstand
 
 ## Objectives
 * Identify and mitigate all `OWASP Top 10` vulnerabilities in real-world applications
-* Apply threat modeling techniques such as STRIDE and DREAD to assess application risks
+* Apply threat modeling techniques such as `STRIDE` and DREAD to assess application risks
 * Integrate `SAST` and `DAST` tools into the development workflow
 * Implement secure secrets management practices using tools like `HashiCorp Vault`
 * Design and adopt a secure `SDLC` framework across development teams
@@ -75,7 +75,7 @@ Application security is essential for building resilient software that withstand
 <!-- chapter: threat-modeling, duration: 2h -->
 * Threat Modeling
     * Introduction to threat modeling methodologies
-    * STRIDE model: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
+    * `STRIDE` model: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
     * DREAD risk assessment model
     * Creating data flow diagrams for threat analysis
     * Identifying trust boundaries and attack surfaces
@@ -106,7 +106,7 @@ Application security is essential for building resilient software that withstand
     * Secrets management solutions: `HashiCorp Vault`, `AWS Secrets Manager`, `Azure Key Vault`
     * Secret rotation policies and automation
     * Environment variable management and secure configuration
-    * Detecting leaked secrets with tools like GitLeaks and TruffleHog
+    * Detecting leaked secrets with tools like GitLeaks and `TruffleHog`
     * Secrets in containerized environments and `Kubernetes`
     * Encryption at `rest` and in transit for sensitive data
 <!-- chapter: secure-software-development-lifecycle-sdlc, duration: 2h -->
@@ -118,11 +118,11 @@ Application security is essential for building resilient software that withstand
     * Security testing strategies at each `SDLC` phase
     * Security sign-off and release management
     * Building a security champions program
-    * Maturity models: `OWASP SAMM` and BSIMM
+    * Maturity models: `OWASP SAMM` and `BSIMM`
 <!-- chapter: dependency-scanning-and-supply-chain-security, duration: 2h -->
 * Dependency Scanning and Supply Chain Security
     * Software composition analysis (`SCA`) principles
-    * Dependency scanning tools: Snyk, `Dependabot`, `OWASP Dependency-Check`
+    * Dependency scanning tools: `Snyk`, `Dependabot`, `OWASP Dependency-Check`
     * Managing vulnerability disclosures and CVE databases
     * Software Bill of Materials (`SBOM`) generation and management
     * Lock `file` integrity and dependency pinning

@@ -43,7 +43,7 @@ This course provides a comprehensive guide to building backend applications and 
 * Write asynchronous code using callbacks, promises, and `async`/`await`
 * Build `REST APIs` with `Express.js` including routing, middleware, and error handling
 * Implement authentication and authorization using `JWT`, `OAuth2`, and Passport
-* Integrate `PostgreSQL` (with Sequelize and Prisma) and `MongoDB` (with Mongoose)
+* Integrate `PostgreSQL` (with `Sequelize` and Prisma) and `MongoDB` (with Mongoose)
 * Validate input, handle `file` uploads, and implement `WebSocket` communication
 * Write tests with `Jest` and Supertest for reliable backend code
 * Configure logging with Winston and Pino
@@ -106,8 +106,8 @@ This course provides a comprehensive guide to building backend applications and 
     * Session management and token storage best practices
 <!-- chapter: database-integration, duration: 3h -->
 * Database Integration
-    * Connecting to `PostgreSQL` with Sequelize `ORM`
-    * Sequelize models, migrations, and associations
+    * Connecting to `PostgreSQL` with `Sequelize` `ORM`
+    * `Sequelize` models, migrations, and associations
     * Prisma `ORM`: schema, client, and migrations
     * Connecting to `MongoDB` with Mongoose
     * Mongoose schemas, models, and queries

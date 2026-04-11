@@ -59,7 +59,7 @@ Network penetration testing is the practice of systematically probing an organiz
     * Overview of the kill chain and `MITRE ATT&CK` framework for network attacks
 
 <!-- chapter: reconnaissance-and-osint, duration: 3h -->
-* Reconnaissance and OSINT
+* Reconnaissance and `OSINT`
     * Passive vs active reconnaissance: risks and use cases
     * `OSINT` framework: sources, tools, and structured intelligence gathering
     * `DNS` reconnaissance: `dig`, `nslookup`, `dnsrecon`, zone transfers
@@ -67,7 +67,7 @@ Network penetration testing is the practice of systematically probing an organiz
     * `Shodan`, `Censys`, and `Fofa` for internet-facing asset discovery
     * `Google` dorking and advanced search operators
     * Email harvesting with `theHarvester` and `Hunter.io`
-    * Social engineering target profiling and `LinkedIn` OSINT
+    * Social engineering target profiling and `LinkedIn` `OSINT`
     * Compiling a target profile and attack surface map
 
 <!-- chapter: network-scanning-and-enumeration, duration: 3h -->
@@ -164,7 +164,7 @@ Network penetration testing is the practice of systematically probing an organiz
     * Why a high-quality report is the core deliverable of a penetration test
     * Structure of a professional penetration testing report
     * Executive summary: communicating risk in business terms
-    * Technical findings format: description, evidence, impact, CVSS score, remediation
+    * Technical findings format: description, evidence, impact, `CVSS` score, remediation
     * Writing actionable remediation recommendations
     * Evidence capture best practices: screenshots, tool output, and reproduction steps
     * Walkthrough of sample reports and common writing pitfalls
@@ -175,7 +175,7 @@ Network penetration testing is the practice of systematically probing an organiz
     * The importance of written authorization and scope agreements
     * Handling discovered sensitive data: `PII`, credentials, and confidential documents
     * Responsible disclosure vs coordinated vulnerability disclosure
-    * Bug bounty programs: platforms, rules of engagement, and safe harbor provisions
+    * Bug bounty programs: platforms, rules of engagement, and safe `harbor` provisions
     * Ethical dilemmas in offensive security: dual-use tools and knowledge
     * Professional certifications and codes of conduct: `CREST`, `OSCP`, `CEH`
 

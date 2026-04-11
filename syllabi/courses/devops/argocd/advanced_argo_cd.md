@@ -95,7 +95,7 @@ running `Argo CD` at scale.
 <!-- chapter: custom-health-checks, duration: 1h -->
 * Custom Health Checks
     * Built-in health assessments
-    * Writing custom Lua health checks
+    * Writing custom `Lua` health checks
     * Health `check` for CRDs
     * Degraded vs progressing vs healthy states
 <!-- chapter: config-management-plugins, duration: 1h -->

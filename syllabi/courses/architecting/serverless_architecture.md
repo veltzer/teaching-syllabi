@@ -105,7 +105,7 @@ This course covers the principles and patterns of serverless architecture in a c
     * `AWS Lambda` and ecosystem
     * `Azure Functions` and ecosystem
     * `Google Cloud Functions` and `Cloud Run`
-    * Open-source alternatives (Knative, OpenFaaS)
+    * Open-source alternatives (`Knative`, OpenFaaS)
     * Portability considerations and abstraction layers
     * Multi-cloud serverless strategies
 <!-- chapter: security-and-operational-concerns, duration: 2h -->

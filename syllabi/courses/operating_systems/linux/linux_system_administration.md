@@ -211,7 +211,7 @@ This intensive course covers essential `Linux` system administration concepts an
     * Network boot (`PXE`) and Wake-on-LAN
     * ethtool for NIC diagnostics
     * Network performance testing (iperf3)
-    * VXLAN overlay networks
+    * `VXLAN` overlay networks
     * keepalived for high availability
     * Network configuration backup and restore
     * Legacy networking (/etc/network/interfaces)

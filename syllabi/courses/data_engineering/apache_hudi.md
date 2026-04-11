@@ -77,7 +77,7 @@ audience:
 * Table Types: Copy-on-Write vs Merge-on-Read
     * Copy-on-Write (`CoW`): how writes rewrite base `Parquet` files
     * `CoW` trade-offs: write amplification vs fast reads
-    * Merge-on-Read (`MoR`): writes `go` to delta log files, merged at read time
+    * Merge-on-Read (`MoR`): writes `go` to `delta` log files, merged at read time
     * `MoR` trade-offs: low write latency vs merge overhead at read time
     * Read query types on `MoR` tables: snapshot, read-optimised, and incremental
     * Choosing between `CoW` and `MoR` based on write and read SLAs

@@ -34,7 +34,7 @@ audience:
 * Build data models with ActiveRecord and migrations
 * Create RESTful routes, controllers, and views
 * Implement authentication and authorization
-* Write tests with RSpec and Capybara
+* Write tests with `RSpec` and Capybara
 * Deploy Rails applications to production
 
 ## Outline
@@ -106,8 +106,8 @@ audience:
     * OmniAuth integration
     * Authorization patterns
 <!-- chapter: testing-with-rspec-and-capybara, duration: 2h -->
-* Testing with RSpec and Capybara
-    * RSpec setup and configuration
+* Testing with `RSpec` and Capybara
+    * `RSpec` setup and configuration
     * Model specs
     * Request specs
     * System tests with Capybara

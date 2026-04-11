@@ -17,7 +17,7 @@ This course provides a comprehensive guide to computer vision using `Python`. Pa
 from digital image fundamentals and classical image processing with `OpenCV` to modern `deep learning`
 approaches for image classification, object detection, and segmentation. The course covers feature
 detection, transfer learning with architectures like ResNet and EfficientNet, object detection
-with YOLO and `Faster R-CNN`, image segmentation with U-Net and `Mask R-CNN`, face recognition,
+with YOLO and `Faster R-CNN`, image segmentation with `U-Net` and `Mask R-CNN`, face recognition,
 OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `TensorFlow`/`Keras`.
 
 ## Duration
@@ -38,7 +38,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
 * **Detect and describe features** using classical methods such as SIFT, ORB, and HOG
 * **Build image classification models** using CNNs and transfer learning with ResNet, VGG, and EfficientNet
 * **Implement object detection pipelines** using YOLO, `SSD`, and `Faster R-CNN`
-* **Perform image segmentation** using U-Net and `Mask R-CNN` for pixel-level predictions
+* **Perform image segmentation** using `U-Net` and `Mask R-CNN` for pixel-level predictions
 * **Deploy computer vision models** for production use with `PyTorch` and `TensorFlow`/`Keras`
 
 ## Outline
@@ -151,7 +151,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
     * Semantic segmentation
         * Pixel-level classification
         * Fully convolutional networks
-        * U-Net architecture
+        * `U-Net` architecture
         * Training with segmentation masks
     * Instance segmentation
         * `Mask R-CNN` architecture
@@ -234,7 +234,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
 <!-- chapter: model-deployment, duration: 3h -->
 * Model Deployment
     * Model export and optimization
-        * ONNX export
+        * `ONNX` export
         * TorchScript and tracing
         * Model quantization
         * TensorRT optimization

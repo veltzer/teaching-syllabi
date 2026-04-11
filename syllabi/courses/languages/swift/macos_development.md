@@ -64,7 +64,7 @@ and system integration.
     * `Windows` and window controllers
     * Views and view controllers
     * Auto Layout
-    * Responder chain
+    * `Responder` chain
     * Custom drawing
 <!-- chapter: swiftui-for-macos, duration: 2h -->
 * SwiftUI for `macOS`
@@ -144,11 +144,11 @@ and system integration.
     * Dynamic Type
     * Accessible custom controls
 <!-- chapter: keyboard-shortcuts-and-responder-chain, duration: 1h -->
-* Keyboard Shortcuts and Responder Chain
+* Keyboard Shortcuts and `Responder` Chain
     * Key equivalents for menu items
     * Custom keyboard shortcuts
-    * Responder chain in depth
-    * First responder management
+    * `Responder` chain in depth
+    * First `responder` management
 <!-- chapter: drag-and-drop, duration: 1h -->
 * Drag and Drop
     * Drag sources and destinations

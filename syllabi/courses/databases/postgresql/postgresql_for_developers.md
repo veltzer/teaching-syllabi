@@ -137,7 +137,7 @@ This course provides developers with a deep understanding of `PostgreSQL`, one o
     * Understanding query planner decisions
     * Statistics and ANALYZE
     * Common performance anti-patterns
-    * Connection pooling with PgBouncer
+    * Connection pooling with `PgBouncer`
     * Batch processing techniques
     * Materialized views
     * Performance monitoring tools

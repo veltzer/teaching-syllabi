@@ -40,7 +40,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 ## Objectives
 * Understand SDN architecture and the separation of control and data planes
 * Work with OpenFlow protocol and SDN controllers
-* Design and implement overlay networks using VXLAN, GRE, and Geneve
+* Design and implement overlay networks using `VXLAN`, GRE, and Geneve
 * Automate network operations using `Ansible`, NETCONF, and YANG
 * Understand cloud networking internals across `AWS`, `Azure`, and `GCP`
 * Implement container networking with CNI, Calico, and Cilium
@@ -86,7 +86,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 <!-- chapter: overlay-networks, duration: 2h -->
 * Overlay Networks
     * Overlay vs underlay networking
-    * VXLAN: encapsulation, VTEP, and flooding
+    * `VXLAN`: encapsulation, VTEP, and flooding
     * GRE tunneling: configuration and use cases
     * Geneve: flexible encapsulation protocol
     * Overlay control planes

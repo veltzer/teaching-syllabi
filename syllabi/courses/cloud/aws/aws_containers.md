@@ -90,7 +90,7 @@ auto-scaling, monitoring, and `CI/CD` pipelines for container workloads on `AWS`
 <!-- chapter: auto-scaling, duration: 3h -->
 * Auto-Scaling
     * `ECS` service auto-scaling
-    * `EKS` Cluster Autoscaler and Karpenter
+    * `EKS` Cluster Autoscaler and `Karpenter`
     * Scaling based on custom metrics
     * Capacity providers
 <!-- chapter: monitoring-and-logging, duration: 3h -->

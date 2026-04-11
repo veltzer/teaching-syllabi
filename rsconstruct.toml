@@ -57,8 +57,7 @@ batch = true
 command = "scripts/build_tracks.py"
 output_extension = "md"
 
-[processor.explicit]
-# name = "build_site.py"
+[processor.explicit.build_site]
 command = "scripts/build_site.py"
 inputs = [
     "resources/index.html",
@@ -72,10 +71,7 @@ input_globs = [
     "_site/courses/**/*.html",
     "_site/tracks/*.html",
 ]
-outputs = [
-    "_site/index.html",
-]
-
+output_dirs = [ "_site" ]
 [processor.luacheck]
 src_dirs = ["config", "resources"]
 

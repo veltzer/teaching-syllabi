@@ -40,7 +40,7 @@ Upon completion, delegates will be able to:
 * Implement robust error handling and debugging strategies in production scripts
 * Optimize script performance and avoid common pitfalls
 * Create modular, reusable code using functions and libraries
-* Master advanced text processing with `sed`, `awk`, jq, and yq
+* Master advanced text processing with `sed`, `awk`, `jq`, and yq
 * Automate complex workflows and integrate `Bash` with external tools and APIs
 * Develop enterprise-grade scripts suitable for production environments
 
@@ -90,9 +90,9 @@ Upon completion, delegates will be able to:
         * Multi-line editing
         * Complex pattern matching
         * `Awk` scripting (control structures, functions, arrays)
-    * jq for `JSON` parsing
+    * `jq` for `JSON` parsing
     * yq for `YAML` parsing
-    * Combining tools in pipelines (jq+`awk`+`sed`)
+    * Combining tools in pipelines (`jq`+`awk`+`sed`)
 <!-- chapter: bash-automation-patterns, duration: 4h -->
 * `Bash` Automation Patterns
     * Scheduling and automation (cron, at, `systemd` timers)
@@ -110,7 +110,7 @@ Upon completion, delegates will be able to:
 ## References
 * [`Bash` Manual](`https`://www.gnu.org/software/`bash`/manual/)
 * [Advanced `Bash`-Scripting Guide](`https`://tldp.org/LDP/abs/`html`/)
-* [jq Manual](`https`://stedolan.`github`.io/jq/manual/)
+* [`jq` Manual](`https`://stedolan.`github`.io/`jq`/manual/)
 * [Bats: `Bash` Automated Testing System](`https`://`github`.com/bats-core/bats-core)
 * [shunit2 Testing Framework](`https`://`github`.com/kward/shunit2)
 * [`systemd` Timers](`https`://www.freedesktop.org/software/`systemd`/man/`systemd`.timer.`html`)

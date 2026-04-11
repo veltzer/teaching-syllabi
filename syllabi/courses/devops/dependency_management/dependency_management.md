@@ -18,7 +18,7 @@ audience:
 This course covers the principles and practices of managing software dependencies effectively
 and securely. Participants will learn about versioning strategies, vulnerability scanning,
 automated dependency updates, supply chain security, and license compliance. The course
-provides practical guidance on configuring tools like `Dependabot`, Renovate, and Snyk,
+provides practical guidance on configuring tools like `Dependabot`, `Renovate`, and `Snyk`,
 and addresses the growing importance of software supply chain security.
 
 ## Duration
@@ -71,13 +71,13 @@ and addresses the growing importance of software supply chain security.
 <!-- chapter: vulnerability-scanning, duration: 1h -->
 * Vulnerability scanning
     * `Dependabot` security alerts
-    * Snyk vulnerability scanning
+    * `Snyk` vulnerability scanning
     * `npm audit`, `pip`-audit, and similar tools
     * interpreting vulnerability reports
     * prioritizing and remediating vulnerabilities
 <!-- chapter: automated-dependency-updates, duration: 1h -->
 * Automated dependency updates
-    * Renovate configuration and setup
+    * `Renovate` configuration and setup
     * `Dependabot` configuration and setup
     * custom update rules and schedules
     * auto-merge policies
@@ -97,7 +97,7 @@ and addresses the growing importance of software supply chain security.
 <!-- chapter: sbom-software-bill-of-materials, duration: 1h -->
 * `SBOM` (Software Bill of Materials)
     * what is an `SBOM`
-    * `SBOM` formats (SPDX, CycloneDX)
+    * `SBOM` formats (`SPDX`, `CycloneDX`)
     * generating SBOMs
     * `SBOM` in procurement and compliance
 <!-- chapter: license-compliance, duration: 1h -->

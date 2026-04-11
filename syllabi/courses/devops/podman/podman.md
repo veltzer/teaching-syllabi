@@ -15,7 +15,7 @@ audience:
 # Podman: Daemonless Container Engine
 
 ## Description
-This course covers Podman, a daemonless and rootless container engine for developing, managing, and running `OCI` containers. Participants will learn how to build images, run containers, work with pods, and integrate with `systemd`. The course also covers Buildah, Skopeo, and migration strategies from `Docker`.
+This course covers Podman, a daemonless and rootless container engine for developing, managing, and running `OCI` containers. Participants will learn how to build images, run containers, work with pods, and integrate with `systemd`. The course also covers `Buildah`, `Skopeo`, and migration strategies from `Docker`.
 
 ## Duration
 16 hours / 1 day
@@ -39,7 +39,7 @@ This course covers Podman, a daemonless and rootless container engine for develo
 * Build container images using Containerfile/`Dockerfile`.
 * Run and manage containers and pods with Podman.
 * Configure rootless containers for improved security.
-* Use Buildah for advanced image building and Skopeo for image management.
+* Use `Buildah` for advanced image building and `Skopeo` for image management.
 * Integrate containers with `systemd` for service management.
 * Generate `Kubernetes` `YAML` from Podman pods.
 
@@ -94,13 +94,13 @@ This course covers Podman, a daemonless and rootless container engine for develo
     * Auto-update and rollback
     * Quadlet for container definitions
 <!-- chapter: buildah-for-advanced-image-building, duration: 1h -->
-* Buildah for Advanced Image Building:
-    * Buildah command-line usage
+* `Buildah` for Advanced Image Building:
+    * `Buildah` command-line usage
     * Building images without a `Dockerfile`
     * Scripted image builds
     * Minimizing image size
 <!-- chapter: skopeo-for-image-management, duration: 1h -->
-* Skopeo for Image Management:
+* `Skopeo` for Image Management:
     * Inspecting remote images
     * Copying images between registries
     * Signing and verifying images

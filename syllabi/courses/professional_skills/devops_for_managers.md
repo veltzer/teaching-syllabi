@@ -38,7 +38,7 @@ The course equips managers to `make` informed decisions about `DevOps` investmen
 * Explain `CI/CD` concepts and their business benefits
 * Understand infrastructure as code at a conceptual level
 * Evaluate monitoring and observability strategies
-* Measure `DevOps` success using DORA metrics
+* Measure `DevOps` success using `DORA` metrics
 * Build a practical `DevOps` adoption roadmap
 
 ## Outline
@@ -108,7 +108,7 @@ The course equips managers to `make` informed decisions about `DevOps` investmen
 
 <!-- chapter: measuring-devops-success, duration: 2h -->
 * Measuring `DevOps` Success
-    * DORA metrics overview
+    * `DORA` metrics overview
     * Deployment frequency
     * Lead time for changes
     * Change failure rate

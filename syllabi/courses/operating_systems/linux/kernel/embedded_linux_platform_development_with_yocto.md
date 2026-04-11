@@ -441,7 +441,7 @@ Upon completion of this course, participants will be able to:
             * License manifest generation
             * License compatibility checking
             * Commercial license handling
-        * SPDX integration
+        * `SPDX` integration
             * `SBOM` generation
             * Dependency tracking
             * Vulnerability correlation

@@ -97,7 +97,7 @@ This course provides an in-depth exploration of networking in `Microsoft Azure`.
     * Redundancy and disaster recovery
 <!-- chapter: virtual-wan, duration: 2h -->
 * `Virtual WAN`
-    * Virtual WAN architecture and hubs
+    * `Virtual WAN` architecture and hubs
     * Branch connectivity and automation
     * Hub-to-hub communication
     * Integration with `VPN Gateway` and `ExpressRoute`

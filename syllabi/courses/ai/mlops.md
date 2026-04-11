@@ -158,7 +158,7 @@ and scalable `ML` pipelines.
         * Annotations and descriptions
     * Model packaging formats
         * `MLflow` model format
-        * ONNX
+        * `ONNX`
         * TorchScript
         * SavedModel
     * Model governance

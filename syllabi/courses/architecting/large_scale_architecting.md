@@ -69,7 +69,7 @@ Architects and senior developers responsible for designing and maintaining large
 * high availability and fault tolerance
     * SLA, SLO, and SLI definitions and targets
     * redundancy strategies (active-active, active-passive)
-    * failure domains and blast radius control
+    * failure domains and blast `radius` control
     * graceful degradation and partial availability
     * bulkhead and circuit breaker patterns
     * chaos engineering principles

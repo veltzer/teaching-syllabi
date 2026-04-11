@@ -64,12 +64,12 @@ This course covers the design and implementation of data solutions on `Microsoft
     * `CI/CD` for `Data Factory`
 <!-- chapter: azure-synapse-analytics, duration: 4h -->
 * `Azure Synapse Analytics`
-    * Synapse workspace architecture
+    * `Synapse` workspace architecture
     * Dedicated `SQL` pools (formerly `SQL DW`)
     * Serverless `SQL` pools
     * `Apache Spark` pools
-    * Synapse Pipelines and integration with `Data Factory`
-    * Synapse Link for operational analytics
+    * `Synapse` Pipelines and integration with `Data Factory`
+    * `Synapse Link` for operational analytics
     * Security and access control in `Synapse`
 <!-- chapter: azure-databricks, duration: 4h -->
 * `Azure Databricks`
@@ -77,7 +77,7 @@ This course covers the design and implementation of data solutions on `Microsoft
     * Notebooks and collaborative development
     * `Apache Spark` on `Databricks`
     * `Delta Lake` on `Azure`
-    * Delta Live Tables
+    * `Delta` Live Tables
     * `Unity` Catalog for data governance
     * `MLflow` integration
 <!-- chapter: real-time-data-processing, duration: 2h -->

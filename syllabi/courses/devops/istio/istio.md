@@ -88,7 +88,7 @@ and performance tuning.
     * PeerAuthentication policies
     * RequestAuthentication with `JWT`
     * AuthorizationPolicy configuration
-    * Workload identity with SPIFFE
+    * Workload identity with `SPIFFE`
     * Certificate management
     * Security best practices
 <!-- chapter: observability, duration: 3h -->

@@ -73,7 +73,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
     * Content negotiation and `JSON` serialization with Jackson
     * Request validation with `Bean Validation` (@Valid, @NotNull, @Size)
     * Custom validators and validation groups
-    * HATEOAS and hypermedia-driven APIs
+    * `HATEOAS` and hypermedia-driven APIs
     * `API` documentation with `SpringDoc OpenAPI`
 <!-- chapter: spring-data-jpa, duration: 4h -->
 * `Spring Data JPA`
@@ -84,7 +84,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
     * Pagination and sorting
     * Specifications and dynamic queries
     * Auditing and entity lifecycle callbacks
-    * Database migrations with Flyway and Liquibase
+    * Database migrations with `Flyway` and `Liquibase`
     * Transaction management and propagation
 <!-- chapter: spring-security, duration: 4h -->
 * `Spring Security`

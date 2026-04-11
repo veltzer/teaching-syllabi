@@ -55,7 +55,7 @@ This course takes developers from `Solidity` syntax through token standards, sec
 * `Solidity` Basics and Syntax
     * Contract structure and layout
     * Pragma and license identifiers
-    * SPDX license comments
+    * `SPDX` license comments
     * Compilation and deployment overview
     * ABI and bytecode
 

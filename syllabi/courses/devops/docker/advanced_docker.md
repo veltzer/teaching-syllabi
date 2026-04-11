@@ -53,7 +53,7 @@ order to improve the way they operate containerized workloads.
 * Advanced `Dockerfile` Techniques and Image Optimization
     * Multi-stage builds for optimized images
     * `Dockerfile` best practices for security and efficiency
-    * BuildKit and new `Dockerfile` features
+    * `BuildKit` and new `Dockerfile` features
     * Creating minimal base images
     * Optimizing layer caching
     * Image inspection and analysis

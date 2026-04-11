@@ -64,7 +64,7 @@ like RLHF and DPO, and practical deployment considerations.
     * Key model families
         * `GPT` series
         * LLaMA and open-source models
-        * BERT and encoder models
+        * `BERT` and encoder models
         * Multimodal models
     * Scaling laws and emergent abilities
         * Parameter count vs performance
@@ -235,7 +235,7 @@ like RLHF and DPO, and practical deployment considerations.
         * Quantization (GPTQ, AWQ, GGUF)
         * Knowledge distillation
         * Model pruning
-        * ONNX export
+        * `ONNX` export
     * Serving infrastructure
         * vLLM for inference
         * TGI (Text Generation Inference)

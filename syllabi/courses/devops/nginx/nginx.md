@@ -98,7 +98,7 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
 * `SSL`/`TLS` Termination
     * Certificate and key configuration
     * `SSL` protocols and cipher suites
-    * OCSP stapling
+    * `OCSP` stapling
     * `SSL` session caching
     * `HTTP` to `HTTPS` redirection
     * Client certificate authentication

@@ -142,7 +142,7 @@ more cloud specific offering.
 <!-- chapter: ingress-controllers, duration: 1h -->
 * `Ingress` Controllers
     * What is `Ingress`?
-    * Popular `Ingress` controllers (`NGINX`, Traefik)
+    * Popular `Ingress` controllers (`NGINX`, `Traefik`)
     * `TLS`/`SSL` termination
     * Path-based and host-based routing
 <!-- chapter: container-registries-and-image-management, duration: 1h -->

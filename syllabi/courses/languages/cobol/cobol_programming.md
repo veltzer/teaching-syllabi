@@ -82,7 +82,7 @@ The course includes hands on exercises.
 <!-- chapter: file-handling, duration: 3h -->
 * `File` Handling
     * `File` organization: sequential, indexed, relative
-    * SELECT, FD, and `file` description entries
+    * SELECT, `FD`, and `file` description entries
     * OPEN, READ, WRITE, REWRITE, CLOSE
     * Sequential `file` processing
     * Indexed `file` processing with READ / START / DELETE

@@ -107,8 +107,8 @@ covers integration with `Spring Data JPA` and database migration strategies.
 <!-- chapter: database-migrations, duration: 2h -->
 * Database Migrations
     * Schema generation strategies
-    * Flyway integration
-    * Liquibase integration
+    * `Flyway` integration
+    * `Liquibase` integration
     * Migration best practices
 <!-- chapter: spring-data-jpa-integration, duration: 2h -->
 * `Spring Data JPA` Integration

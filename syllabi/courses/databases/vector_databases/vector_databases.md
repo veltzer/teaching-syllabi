@@ -62,7 +62,7 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
 
 <!-- chapter: embeddings-and-vector-representations, duration: 2h -->
 * Embeddings and Vector Representations
-    * Word2Vec, GloVe, and early embedding models
+    * `Word2Vec`, `GloVe`, and early embedding models
     * Transformer-based embeddings: `BERT`, `sentence-transformers`, and `Ada`
     * Multimodal embeddings: text, images, and code
     * Embedding model selection: dimensionality, quality, and cost

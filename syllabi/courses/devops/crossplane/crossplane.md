@@ -16,11 +16,11 @@ audience:
   - audiences:devops
 ---
 <!-- course: crossplane -->
-# Crossplane
+# `Crossplane`
 
 ## Description
-This course provides a comprehensive introduction to Crossplane, a `Kubernetes`-native
-infrastructure as code framework. Participants will learn how to use Crossplane to provision
+This course provides a comprehensive introduction to `Crossplane`, a `Kubernetes`-native
+infrastructure as code framework. Participants will learn how to use `Crossplane` to provision
 and manage cloud infrastructure across `AWS`, `Azure`, and `GCP` using `Kubernetes` APIs. The
 course covers providers, managed resources, compositions, composite resource definitions,
 and production deployment patterns, along with a comparison to traditional tools like `Terraform`.
@@ -44,18 +44,18 @@ and production deployment patterns, along with a comparison to traditional tools
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
-* understand Crossplane architecture and its role in `Kubernetes`-native infrastructure management.
-* provision and manage cloud resources using Crossplane providers.
+* understand `Crossplane` architecture and its role in `Kubernetes`-native infrastructure management.
+* provision and manage cloud resources using `Crossplane` providers.
 * build reusable infrastructure abstractions with compositions and XRDs.
-* deploy and operate Crossplane in production environments.
+* deploy and operate `Crossplane` in production environments.
 
 ## Outline
 <!-- chapter: crossplane-overview, duration: 1h -->
-* Crossplane overview
-    * what is Crossplane
+* `Crossplane` overview
+    * what is `Crossplane`
     * `Kubernetes`-native infrastructure as code
     * control plane of control planes
-    * Crossplane vs traditional IaC tools
+    * `Crossplane` vs traditional IaC tools
 <!-- chapter: architecture, duration: 1h -->
 * Architecture
     * providers and provider configurations
@@ -64,11 +64,11 @@ and production deployment patterns, along with a comparison to traditional tools
     * claims
     * control plane architecture
 <!-- chapter: installing-crossplane, duration: 1h -->
-* Installing Crossplane
+* Installing `Crossplane`
     * installation with `Helm`
-    * Crossplane `CLI`
+    * `Crossplane` `CLI`
     * verifying the installation
-    * upgrading Crossplane
+    * upgrading `Crossplane`
 <!-- chapter: provider-configuration, duration: 1h -->
 * Provider configuration
     * `AWS` provider setup
@@ -102,7 +102,7 @@ and production deployment patterns, along with a comparison to traditional tools
     * usage policies for resource protection
     * policy enforcement
 <!-- chapter: crossplane-vs-terraform, duration: 2h -->
-* Crossplane vs `Terraform`
+* `Crossplane` vs `Terraform`
     * architectural differences
     * reconciliation vs plan-apply
     * state management comparison
@@ -110,19 +110,19 @@ and production deployment patterns, along with a comparison to traditional tools
     * migration considerations
 <!-- chapter: rbac-and-multi-tenancy, duration: 1h -->
 * `RBAC` and multi-tenancy
-    * `RBAC` for Crossplane resources
+    * `RBAC` for `Crossplane` resources
     * namespace isolation
     * multi-tenant patterns
     * claim-based access control
 <!-- chapter: testing-compositions, duration: 1h -->
 * Testing compositions
-    * unit testing with crossplane-`cli`
+    * unit testing with `crossplane`-`cli`
     * rendering and validating compositions
     * integration testing strategies
     * test automation
 <!-- chapter: ci-cd-integration, duration: 1h -->
 * `CI/CD` integration
-    * `GitOps` workflows with Crossplane
+    * `GitOps` workflows with `Crossplane`
     * integration with `ArgoCD` and `Flux`
     * pipeline `design patterns`
     * promotion across environments

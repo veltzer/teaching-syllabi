@@ -149,7 +149,7 @@ This course provides a deep dive into serverless computing on `Amazon Web Servic
     * Right-sizing memory and timeout
     * Choosing between on-demand and provisioned concurrency
     * Architectural patterns for cost efficiency
-    * `AWS` Cost Explorer and budgets for serverless
+    * `AWS` `Cost Explorer` and budgets for serverless
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

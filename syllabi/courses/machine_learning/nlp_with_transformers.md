@@ -17,11 +17,11 @@ audience:
 ## Description
 This course provides an in-depth exploration of modern Natural Language Processing using
 transformer-based architectures and the `Hugging Face` ecosystem. Participants will learn how
-BERT, `GPT`, and related models work under the hood, and gain practical experience with
+`BERT`, `GPT`, and related models work under the hood, and gain practical experience with
 tokenization, fine-tuning pre-trained models, and applying them to real-world tasks such as
 text classification, named entity recognition, summarization, and question answering. The
 course also covers transfer learning strategies, model evaluation techniques, and deployment
-using ONNX for production environments.
+using `ONNX` for production environments.
 
 ## Duration
 24 hours / 3 days
@@ -39,12 +39,12 @@ using ONNX for production environments.
 * `Deep Learning` Fundamentals (or equivalent experience)
 
 ## Objectives
-* **Understand transformer architectures** including BERT and `GPT` and their internal mechanisms
+* **Understand transformer architectures** including `BERT` and `GPT` and their internal mechanisms
 * **Apply tokenization strategies** appropriate for different transformer models and NLP tasks
 * **Fine-tune pre-trained models** from the `Hugging Face` model hub for downstream tasks
 * **Build NLP pipelines** for text classification, named entity recognition, summarization, and question answering
 * **Evaluate model performance** using appropriate metrics for each NLP task
-* **Deploy transformer models** to production using ONNX and optimization techniques
+* **Deploy transformer models** to production using `ONNX` and optimization techniques
 
 ## Outline
 <!-- chapter: introduction-to-transformers, duration: 2h -->
@@ -64,10 +64,10 @@ using ONNX for production environments.
     * Tokenizer configuration and vocabulary management
     * Handling special tokens and padding
 <!-- chapter: bert-architecture, duration: 2h -->
-* BERT Architecture
-    * BERT pre-training and architecture
+* `BERT` Architecture
+    * `BERT` pre-training and architecture
     * Masked language modeling and next sentence prediction
-    * BERT variants (RoBERTa, ALBERT, DistilBERT, ELECTRA)
+    * `BERT` variants (RoBERTa, ALBERT, DistilBERT, ELECTRA)
     * Input representation and embeddings
     * Contextual word representations
 <!-- chapter: gpt-architecture, duration: 2h -->
@@ -133,9 +133,9 @@ using ONNX for production environments.
     * Cross-validation strategies for NLP
     * Error analysis and model interpretability
 <!-- chapter: deployment-with-onnx, duration: 2h -->
-* Deployment with ONNX
-    * Exporting transformer models to ONNX format
-    * ONNX Runtime for inference optimization
+* Deployment with `ONNX`
+    * Exporting transformer models to `ONNX` format
+    * `ONNX` Runtime for inference optimization
     * Model quantization and pruning
     * Latency and throughput optimization
     * Serving models with `REST` APIs

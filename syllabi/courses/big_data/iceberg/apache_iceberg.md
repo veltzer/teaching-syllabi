@@ -92,7 +92,7 @@ audience:
     * Creating and managing `Iceberg` tables in `Spark`
     * Reading and writing data with `Spark SQL` and DataFrame `API`
     * Merge-on-read vs copy-on-write
-    * Structured Streaming with `Iceberg`
+    * `Structured Streaming` with `Iceberg`
 <!-- chapter: iceberg-with-trino-presto, duration: 1h -->
 * `Iceberg` with `Trino`/`Presto`
     * Configuring `Trino` and `Presto` connectors for `Iceberg`

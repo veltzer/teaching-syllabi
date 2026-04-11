@@ -69,7 +69,7 @@ management best practices on the `Databricks` platform.
 * `Delta Lake`
     * `Delta Lake` fundamentals
         * ACID transactions on data lakes
-        * Delta table format and transaction log
+        * `Delta` table format and transaction log
         * Schema enforcement
     * Time travel
         * Querying historical versions
@@ -96,7 +96,7 @@ management best practices on the `Databricks` platform.
         * Caching strategies
         * Broadcast joins
         * Partitioning strategies
-    * Structured streaming
+    * `Structured streaming`
         * Streaming concepts on `Databricks`
         * Stream processing with `Delta Lake`
         * Watermarking and late data handling
@@ -106,7 +106,7 @@ management best practices on the `Databricks` platform.
         * `SQL` warehouses
         * Query editor and history
         * `SQL` dashboards and visualizations
-    * Working with Delta tables via `SQL`
+    * Working with `Delta` tables via `SQL`
         * DDL and DML operations
         * Views and materialized views
         * Query optimization

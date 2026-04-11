@@ -203,7 +203,7 @@ patterns that are actively used in production environments.
     * `RAG` architecture for codebases
         * Document chunking strategies for code
         * Embedding models for source code
-        * Vector databases (`Pinecone`, `Weaviate`, ChromaDB, `Qdrant`)
+        * Vector databases (`Pinecone`, `Weaviate`, `ChromaDB`, `Qdrant`)
         * Hybrid search: vector + keyword
     * Indexing codebases
         * `File`-level vs function-level vs chunk-level indexing

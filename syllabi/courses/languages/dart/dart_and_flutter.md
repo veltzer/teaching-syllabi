@@ -10,12 +10,12 @@ audience:
   - audiences:developers
 ---
 <!-- course: dart_and_flutter -->
-# Dart and `Flutter`
+# `Dart` and `Flutter`
 
 ## Description
-Dart is a client-optimized programming language developed by Google for building fast applications on any platform. `Flutter` is Google's UI toolkit built with Dart for creating natively compiled applications for mobile, web, and desktop from a single codebase. Together, Dart and `Flutter` provide a productive and modern framework for cross-platform development.
+`Dart` is a client-optimized programming language developed by Google for building fast applications on any platform. `Flutter` is Google's UI toolkit built with `Dart` for creating natively compiled applications for mobile, web, and desktop from a single codebase. Together, `Dart` and `Flutter` provide a productive and modern framework for cross-platform development.
 
-This course covers the Dart language in depth, followed by comprehensive `Flutter` framework training. Students will learn to build responsive, beautiful applications with state management, networking, animations, and deployment to both `iOS` and `Android`.
+This course covers the `Dart` language in depth, followed by comprehensive `Flutter` framework training. Students will learn to build responsive, beautiful applications with state management, networking, animations, and deployment to both `iOS` and `Android`.
 
 ## Duration
 40 hours / 5 days
@@ -35,7 +35,7 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Write fluent Dart code with null safety and `async` patterns
+* Write fluent `Dart` code with null safety and `async` patterns
 * Build cross-platform mobile applications with `Flutter`
 * Implement state management using Provider, Riverpod, and Bloc
 * Connect applications to `REST` APIs and local storage
@@ -44,15 +44,15 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
 
 ## Outline
 <!-- chapter: dart-language-fundamentals, duration: 2h -->
-* Dart Language Fundamentals
-    * Introduction to Dart
+* `Dart` Language Fundamentals
+    * Introduction to `Dart`
     * Setting up the development environment
     * Variables, constants, and type system
     * Numbers, strings, and booleans
     * Type inference and dynamic types
     * Operators and expressions
 <!-- chapter: dart-control-flow-and-functions, duration: 3h -->
-* Dart Control Flow and Functions
+* `Dart` Control Flow and Functions
     * Conditional statements
     * Loops (`for-loop`, `for-in-loop`, `while-loop`, `do-while-loop`)
     * Switch and case
@@ -61,7 +61,7 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
     * Anonymous functions and closures
     * Higher-order functions
 <!-- chapter: dart-object-oriented-programming, duration: 3h -->
-* Dart Object-Oriented Programming
+* `Dart` Object-Oriented Programming
     * Classes and objects
     * Constructors (default, named, factory)
     * Getters and setters
@@ -70,14 +70,14 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
     * Enums
     * Extension methods
 <!-- chapter: dart-advanced-features, duration: 2h -->
-* Dart Advanced Features
+* `Dart` Advanced Features
     * Generics
     * Collections (List, Set, Map)
     * Null safety and nullable types
     * Late variables and lazy initialization
     * Typedefs and function types
 <!-- chapter: dart-async-programming, duration: 2h -->
-* Dart `Async` Programming
+* `Dart` `Async` Programming
     * Futures and Future `API`
     * `async` and `await`
     * Streams and StreamController

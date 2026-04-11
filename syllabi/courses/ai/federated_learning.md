@@ -13,7 +13,7 @@ audience:
   - audiences:architects
 ---
 <!-- course: federated_learning -->
-# Federated Learning
+# `Federated Learning`
 
 ## Description
 `Federated Learning` enables `machine learning` models to be trained across many decentralized devices
@@ -43,22 +43,22 @@ research challenges and practical limitations that practitioners encounter in pr
 * `Deep Learning` fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand the motivations and threat models behind federated learning.
+* Understand the motivations and threat models behind `federated learning`.
 * Implement the `Federated Averaging` algorithm from first principles.
 * Apply differential privacy techniques to protect individual training samples.
 * Understand and apply secure aggregation protocols.
 * Reduce communication overhead in federated training rounds.
 * Build and run federated experiments using `TensorFlow Federated` and `PySyft`.
-* Assess the practical challenges of deploying federated learning at scale.
+* Assess the practical challenges of deploying `federated learning` at scale.
 
 ## Outline
 <!-- chapter: introduction-to-federated-learning, duration: 2h -->
-* Introduction to Federated Learning
+* Introduction to `Federated Learning`
     * From centralized to federated `machine learning`
-    * Cross-device vs. cross-silo federated learning
+    * Cross-device vs. cross-silo `federated learning`
     * Key challenges: non-IID data, heterogeneous devices, partial participation
-    * Federated learning in the wild: Google Gboard, Apple, healthcare consortia
-    * Overview of the federated learning research landscape
+    * `Federated learning` in the wild: Google Gboard, Apple, healthcare consortia
+    * Overview of the `federated learning` research landscape
 <!-- chapter: privacy-threats-in-centralized-ml, duration: 1h -->
 * Privacy Threats in Centralized `ML`
     * Membership inference attacks
@@ -66,7 +66,7 @@ research challenges and practical limitations that practitioners encounter in pr
     * Data reconstruction from gradients
     * Why moving data to a central server is insufficient
 <!-- chapter: federated-averaging-algorithm, duration: 2h -->
-* Federated Averaging Algorithm
+* `Federated Averaging` Algorithm
     * FedSGD and FedAvg: derivation and convergence properties
     * Communication rounds and local epochs
     * Handling non-IID and unbalanced data distributions
@@ -76,7 +76,7 @@ research challenges and practical limitations that practitioners encounter in pr
 * Communication Efficiency
     * Gradient compression: sparsification and quantization
     * Structured updates and sketched updates
-    * Asynchronous federated learning
+    * Asynchronous `federated learning`
     * Bandwidth and latency constraints on edge devices
     * Measuring and optimizing communication costs
 <!-- chapter: differential-privacy, duration: 2h -->
@@ -94,7 +94,7 @@ research challenges and practical limitations that practitioners encounter in pr
     * Combining secure aggregation with differential privacy
     * Performance overheads and practical limitations
 <!-- chapter: federated-learning-frameworks, duration: 3h -->
-* Federated Learning Frameworks
+* `Federated Learning` Frameworks
     * `TensorFlow Federated`: architecture and tff.learning `API`
     * Simulating federated experiments with `TFF`
     * `PySyft` and the OpenMined ecosystem

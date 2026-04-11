@@ -91,7 +91,7 @@ This course provides an in-depth exploration of networking services and architec
 * `Cloud Interconnect`
     * `Dedicated Interconnect` setup and provisioning
     * `Partner Interconnect` configuration
-    * VLAN attachments and `BGP` sessions
+    * `VLAN` attachments and `BGP` sessions
     * Redundancy and high availability designs
     * Capacity planning and monitoring
 <!-- chapter: cloud-vpn, duration: 2h -->

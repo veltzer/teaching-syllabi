@@ -50,7 +50,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Implement admission controllers using `OPA Gatekeeper` and `Kyverno`
 * Deploy service mesh security with mutual `TLS` using `Istio`
 * Establish supply chain security with `SBOM` generation, `Sigstore`, and `cosign`
-* Set up runtime threat detection using Falco and Tetragon
+* Set up runtime threat detection using `Falco` and Tetragon
 * Perform container forensics and incident response
 * Apply CIS benchmarks and compliance scanning to container environments
 
@@ -67,7 +67,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Image Security
     * Container image layers and security implications
     * Choosing secure base images and Distroless images
-    * Image vulnerability scanning with `Trivy`, `Grype`, and Snyk
+    * Image vulnerability scanning with `Trivy`, `Grype`, and `Snyk`
     * Image signing and verification workflows
     * Private registry security and access control
     * Image provenance and attestation
@@ -154,7 +154,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Supply Chain Security
     * Software supply chain threats in the container ecosystem
     * Software bill of materials (`SBOM`) generation and consumption
-    * `Sigstore` ecosystem: `cosign`, Rekor, and `Fulcio`
+    * `Sigstore` ecosystem: `cosign`, `Rekor`, and `Fulcio`
     * Container image signing with `cosign`
     * Build provenance with `SLSA` framework
     * Verifying artifacts in admission controllers
@@ -162,7 +162,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 <!-- chapter: runtime-threat-detection, duration: 2h -->
 * Runtime Threat Detection
     * Runtime security monitoring architecture
-    * Falco rules engine and custom rule authoring
+    * `Falco` rules engine and custom rule authoring
     * Tetragon `eBPF`-based security observability
     * Detecting anomalous process execution and network activity
     * `File` integrity monitoring in containers

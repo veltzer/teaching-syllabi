@@ -70,7 +70,7 @@ considerations that practitioners must navigate `when` deploying generative syst
     * The variational lower bound and the ELBO objective
     * The reverse process: learning to denoise
     * The simplified training objective and noise prediction
-    * U-Net architecture for the denoising network
+    * `U-Net` architecture for the denoising network
     * `DDPM` vs. DDIM sampling and accelerated inference
 <!-- chapter: score-based-generative-models, duration: 2h -->
 * Score-Based Generative Models

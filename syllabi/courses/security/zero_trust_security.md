@@ -40,7 +40,7 @@ Zero Trust is a security model built on the principle of "never trust, always ve
 * Articulate the core principles and pillars of Zero Trust as defined by `NIST SP 800-207` and `BeyondCorp`
 * Design identity-centric access control strategies using `MFA`, conditional access, and `IAM` policies
 * Implement device trust evaluation using endpoint detection and posture assessment tools
-* Apply network micro-segmentation to limit lateral movement and blast radius
+* Apply network micro-segmentation to limit lateral movement and blast `radius`
 * Enforce least-privilege access policies at the application and `API` layer
 * Classify data and apply Zero Trust controls for data protection in transit and at `rest`
 * Develop a phased Zero Trust implementation roadmap aligned with organizational maturity

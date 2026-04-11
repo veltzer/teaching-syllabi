@@ -11,24 +11,24 @@ audience:
   - audiences:devops
 ---
 <!-- course: pulumi -->
-# Pulumi
+# `Pulumi`
 
 ## Description
-This course covers Pulumi, a modern infrastructure as code platform that allows
+This course covers `Pulumi`, a modern infrastructure as code platform that allows
 engineers to define and manage cloud infrastructure using general-purpose programming
 languages such as `TypeScript`, `Python`, and `Go`. The course begins with foundational
-IaC concepts and a comparison with `Terraform`, then progresses through Pulumi
+IaC concepts and a comparison with `Terraform`, then progresses through `Pulumi`
 architecture, writing infrastructure code, managing state and secrets, testing, and
 policy enforcement with CrossGuard. Students will gain hands-on experience provisioning
 resources across major cloud providers and `Kubernetes`, and learn how to integrate
-Pulumi into `CI/CD` workflows.
+`Pulumi` into `CI/CD` workflows.
 
 ## Duration
 16 hours / 2 days
 
 ## Intended Audience
 * Software developers and `DevOps` engineers looking to manage infrastructure using familiar programming languages.
-* Teams evaluating or migrating to Pulumi from `Terraform` or other IaC tools.
+* Teams evaluating or migrating to `Pulumi` from `Terraform` or other IaC tools.
 
 ## Prerequisites
 * Experience with at least one programming language (`TypeScript`, `Python`, or `Go`).
@@ -42,12 +42,12 @@ Pulumi into `CI/CD` workflows.
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
-* Understand infrastructure as code principles and how Pulumi implements them.
+* Understand infrastructure as code principles and how `Pulumi` implements them.
 * Write infrastructure definitions using `TypeScript`, `Python`, or `Go`.
-* Manage Pulumi stacks, state, and secrets effectively.
+* Manage `Pulumi` stacks, state, and secrets effectively.
 * Create reusable component resources and share them across stacks.
 * Test infrastructure code using unit and integration testing frameworks.
-* Enforce policies with CrossGuard and integrate Pulumi into `CI/CD` pipelines.
+* Enforce policies with CrossGuard and integrate `Pulumi` into `CI/CD` pipelines.
 
 ## Outline
 <!-- chapter: infrastructure-as-code-concepts, duration: 1h -->
@@ -57,19 +57,19 @@ Pulumi into `CI/CD` workflows.
     * Declarative vs imperative approaches
     * State management fundamentals
 <!-- chapter: pulumi-vs-terraform-comparison, duration: 1h -->
-* Pulumi vs `Terraform` Comparison
+* `Pulumi` vs `Terraform` Comparison
     * Architecture differences
     * Language support and flexibility
     * State management approaches
     * Ecosystem and community
-    * `When` to choose Pulumi over `Terraform`
+    * `When` to choose `Pulumi` over `Terraform`
 <!-- chapter: pulumi-architecture, duration: 1h -->
-* Pulumi Architecture
+* `Pulumi` Architecture
     * Projects and project structure
     * Stacks and stack configuration
-    * The Pulumi engine and resource providers
-    * State backends (local, Pulumi Cloud, `S3`, `Azure Blob`, `GCS`)
-    * The Pulumi `CLI`
+    * The `Pulumi` engine and resource providers
+    * State backends (local, `Pulumi` Cloud, `S3`, `Azure Blob`, `GCS`)
+    * The `Pulumi` `CLI`
 <!-- chapter: writing-infrastructure-in-typescript, duration: 1h -->
 * Writing Infrastructure in `TypeScript`
     * Setting up a `TypeScript` project
@@ -113,7 +113,7 @@ Pulumi into `CI/CD` workflows.
 <!-- chapter: secrets-management, duration: 1h -->
 * Secrets Management
     * Built-in secrets encryption
-    * Secrets providers (Pulumi Cloud, `AWS KMS`, `Azure Key Vault`, `GCP KMS`)
+    * Secrets providers (`Pulumi` Cloud, `AWS KMS`, `Azure Key Vault`, `GCP KMS`)
     * Handling sensitive configuration values
     * Secret outputs and their propagation
 <!-- chapter: testing-infrastructure-code, duration: 1h -->
@@ -132,15 +132,15 @@ Pulumi into `CI/CD` workflows.
     * Deploying and enforcing policies
 <!-- chapter: ci-cd-integration, duration: 1h -->
 * `CI/CD` Integration
-    * Pulumi in `GitHub Actions`
-    * Pulumi in `GitLab` CI
-    * Pulumi in `Jenkins`
+    * `Pulumi` in `GitHub Actions`
+    * `Pulumi` in `GitLab` CI
+    * `Pulumi` in `Jenkins`
     * Automating previews on pull requests
     * Automated deployments and stack updates
 <!-- chapter: migration-from-terraform, duration: 2h -->
 * Migration from `Terraform`
     * Importing existing resources
-    * Converting `Terraform` HCL to Pulumi
+    * Converting `Terraform` HCL to `Pulumi`
     * Using tf2pulumi
     * Coexistence strategies
     * Migration planning and execution

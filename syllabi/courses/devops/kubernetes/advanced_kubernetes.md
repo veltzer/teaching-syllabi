@@ -88,7 +88,7 @@ The course will be code heavy using GoLang to tap into the various APIs to build
     * Role-Based Authentication
 <!-- chapter: serverless, duration: 1h -->
 * Serverless
-    * Knative
+    * `Knative`
 
 ## References
 [advanced-`Kubernetes`](`https`://www.pluralsight.com/professional-services/it-ops/advanced-`Kubernetes`)

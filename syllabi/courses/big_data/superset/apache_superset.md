@@ -41,7 +41,7 @@ audience:
 
 ## Objectives
 * Install and configure `Apache Superset` for development and production
-* Connect Superset to various databases (`PostgreSQL`, `MySQL`, ClickHouse, `BigQuery`, `Snowflake`)
+* Connect Superset to various databases (`PostgreSQL`, `MySQL`, `ClickHouse`, `BigQuery`, `Snowflake`)
 * Write and execute queries in `SQL Lab`
 * Create a variety of chart types (line, bar, pie, scatter, heatmap, geo)
 * Build interactive dashboards with filters and cross-filtering
@@ -67,9 +67,9 @@ audience:
     * Feature flags and customization options
 <!-- chapter: connecting-to-databases, duration: 1h -->
 * Connecting to Databases
-    * Database connection setup via SQLAlchemy URIs
+    * Database connection setup via `SQLAlchemy` URIs
     * Connecting to `PostgreSQL` and `MySQL`
-    * Connecting to ClickHouse for analytics workloads
+    * Connecting to `ClickHouse` for analytics workloads
     * Connecting to `BigQuery` and `Snowflake`
     * Managing database credentials securely
     * Testing connections and troubleshooting

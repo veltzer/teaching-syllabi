@@ -104,7 +104,7 @@ exam.
 * Storage and mass data access services
     * `S3`
     * `Glacier`
-    * Storage Gateway
+    * `Storage Gateway`
     * Snow family
     * `EFS`
     * `FSx`
@@ -125,7 +125,7 @@ exam.
     * `RDS`
     * `DynamoDB`
     * Database Migration Service (DMS).
-    * Aurora
+    * `Aurora`
     * ElastiCache
     * `Redshift`
     * Other offerings

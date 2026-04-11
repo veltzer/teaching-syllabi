@@ -51,7 +51,7 @@ will include tasks such as:
 * Installing `Argo CD` on a `Kubernetes` cluster.
 * Configuring `Argo CD` applications to deploy sample applications.
 * Setting up `GitOps` workflows with `Argo CD`.
-* Creating and managing CD pipelines with Argo Workflows.
+* Creating and managing CD pipelines with `Argo Workflows`.
 
 ## Outline
 <!-- chapter: introduction-and-gitops-theory, duration: 1h -->

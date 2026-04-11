@@ -65,8 +65,8 @@ specifically 802.11b.
     * Wireless security protocols
         * WEP
         * WPA
-        * WPA2
-        * WPA3.
+        * `WPA2`
+        * `WPA3`.
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

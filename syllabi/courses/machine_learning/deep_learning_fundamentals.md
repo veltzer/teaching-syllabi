@@ -85,7 +85,7 @@ adversarial networks.
     * Self-attention and multi-head attention
     * The transformer architecture
     * Positional encoding
-    * BERT, `GPT`, and their variants
+    * `BERT`, `GPT`, and their variants
     * `Hugging Face` Transformers library
 <!-- chapter: transfer-learning, duration: 3h -->
 * Transfer Learning

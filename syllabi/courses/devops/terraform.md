@@ -58,7 +58,7 @@ attending.
 * Introduction to Infrastructure as Code
     * What is Infrastructure as Code and why it matters
     * Declarative vs imperative approaches
-    * Comparing IaC tools (`Terraform`, Pulumi, `CloudFormation`, Bicep)
+    * Comparing IaC tools (`Terraform`, `Pulumi`, `CloudFormation`, Bicep)
     * Immutable vs mutable infrastructure
     * `Terraform` architecture and how it works
 <!-- chapter: getting-started-with-terraform, duration: 1h -->

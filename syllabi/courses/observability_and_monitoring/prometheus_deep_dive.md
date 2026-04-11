@@ -15,7 +15,7 @@ audience:
 # `Prometheus` Deep Dive
 
 ## Description
-This course provides a comprehensive deep dive into `Prometheus`, the leading open-source monitoring and alerting toolkit. Participants will master PromQL, learn to instrument applications, configure service discovery, set up alerting with Alertmanager, and explore long-term storage solutions. The course prepares teams to build robust, scalable monitoring infrastructure with `Prometheus`.
+This course provides a comprehensive deep dive into `Prometheus`, the leading open-source monitoring and alerting toolkit. Participants will master PromQL, learn to instrument applications, configure service discovery, set up alerting with `Alertmanager`, and explore long-term storage solutions. The course prepares teams to build robust, scalable monitoring infrastructure with `Prometheus`.
 
 ## Duration
 16 hours / 2 days
@@ -39,7 +39,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
 * Write advanced PromQL queries for analysis and alerting.
 * Instrument applications using `Prometheus` client libraries.
 * Configure service discovery for dynamic environments.
-* Set up Alertmanager with routing, grouping, and silencing.
+* Set up `Alertmanager` with routing, grouping, and silencing.
 * Implement long-term storage with Thanos or Cortex.
 * Operate `Prometheus` in `Kubernetes` environments.
 
@@ -88,9 +88,9 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * `Consul` service discovery
     * Relabeling for target manipulation
 <!-- chapter: alerting-with-alertmanager, duration: 2h -->
-* Alerting with Alertmanager:
+* Alerting with `Alertmanager`:
     * Alerting rules in `Prometheus`
-    * Alertmanager architecture
+    * `Alertmanager` architecture
     * Routing tree configuration
     * Grouping and deduplication
     * Inhibition rules

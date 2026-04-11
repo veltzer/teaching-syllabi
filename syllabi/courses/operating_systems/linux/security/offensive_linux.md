@@ -93,7 +93,7 @@ This intensive course is designed for experienced penetration testers seeking to
     * Next steps and advanced learning recommendations
 
 ## References
-* [Penetration Testing Execution Standard (PTES)](`http`://www.pentest-standard.org/)
+* [Penetration Testing Execution Standard (`PTES`)](`http`://www.pentest-standard.org/)
 * [`OWASP` Testing Guide](`https`://`owasp`.org/www-project-web-security-testing-guide/)
 * [`Linux` Kernel Exploits](`https`://`github`.com/SecWiki/`linux`-kernel-exploits)
 * [GTFOBins](`https`://gtfobins.`github`.io/)

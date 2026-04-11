@@ -70,7 +70,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * `Delta Lake`
     * `Delta Lake` architecture and design principles
     * The transaction log (_delta_log)
-    * Creating and managing Delta tables
+    * Creating and managing `Delta` tables
     * ACID transactions and concurrency control
     * Schema enforcement and schema evolution
     * Time travel with versioning

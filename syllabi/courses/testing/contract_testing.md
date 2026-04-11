@@ -41,7 +41,7 @@ Contract testing ensures that services in a distributed system communicate corre
 * Understand the principles and value of contract testing
 * Implement consumer-driven contract tests using the Pact framework
 * Set up and use `Pact Broker` for contract management
-* Apply bi-directional contract testing with Pactflow
+* Apply bi-directional contract testing with `Pactflow`
 * Test contracts for `REST APIs`, `GraphQL`, and messaging systems
 * Validate contracts against `OpenAPI` and AsyncAPI specifications
 * Integrate contract testing into `CI/CD` pipelines
@@ -70,7 +70,7 @@ Contract testing ensures that services in a distributed system communicate corre
 <!-- chapter: pact-broker, duration: 2h -->
 * `Pact Broker`
     * What is `Pact Broker` and why it is needed
-    * Setting up `Pact Broker` (self-hosted and Pactflow `SaaS`)
+    * Setting up `Pact Broker` (self-hosted and `Pactflow` `SaaS`)
     * Publishing pacts from consumer builds
     * Retrieving pacts for provider verification
     * Version tagging and environment tracking
@@ -81,7 +81,7 @@ Contract testing ensures that services in a distributed system communicate corre
     * Bi-directional contract testing concepts
     * Provider-driven contracts with `OpenAPI` specifications
     * Comparing consumer pacts against provider `OpenAPI` specs
-    * Pactflow bi-directional contract testing workflow
+    * `Pactflow` bi-directional contract testing workflow
     * Benefits over traditional consumer-driven approach
     * `When` to use bi-directional vs consumer-driven contracts
 <!-- chapter: contract-testing-for-rest-apis, duration: 1h -->

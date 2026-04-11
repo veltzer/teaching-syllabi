@@ -59,7 +59,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
     * Grouped assertions and assertAll
     * Exception assertions with assertThrows
     * Timeout assertions
-    * Third-party assertion libraries: AssertJ and Hamcrest
+    * Third-party assertion libraries: `AssertJ` and `Hamcrest`
     * Writing custom matchers
 <!-- chapter: parameterized-tests, duration: 1h -->
 * Parameterized Tests

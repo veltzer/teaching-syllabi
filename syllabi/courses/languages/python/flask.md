@@ -14,7 +14,7 @@ audience:
 # `Flask` Web Development
 
 ## Description
-This course covers building web applications and `REST` APIs using `Flask`, the lightweight and flexible `Python` web micro-framework. Students will learn `Flask` fundamentals including routing, templates, blueprints, database integration with SQLAlchemy, form handling, authentication, and RESTful `API` development. The course emphasizes practical patterns for structuring scalable `Flask` applications and deploying them to production.
+This course covers building web applications and `REST` APIs using `Flask`, the lightweight and flexible `Python` web micro-framework. Students will learn `Flask` fundamentals including routing, templates, blueprints, database integration with `SQLAlchemy`, form handling, authentication, and RESTful `API` development. The course emphasizes practical patterns for structuring scalable `Flask` applications and deploying them to production.
 
 ## Duration
 16 hours / 2 days
@@ -41,7 +41,7 @@ This course covers building web applications and `REST` APIs using `Flask`, the 
 * Build web applications using the `Flask` application factory pattern
 * Create dynamic pages with Jinja2 templates and template inheritance
 * Organize large applications using blueprints and modular structure
-* Integrate databases with SQLAlchemy `ORM` and manage migrations with `Flask`-Migrate
+* Integrate databases with `SQLAlchemy` `ORM` and manage migrations with `Flask`-Migrate
 * Handle forms and validation using WTForms
 * Implement authentication and authorization with `Flask`-Login and `JWT`
 * Develop `RESTful APIs` using `Flask`-RESTful and Marshmallow
@@ -75,7 +75,7 @@ This course covers building web applications and `REST` APIs using `Flask`, the 
     * Application context and request context
 <!-- chapter: database-integration, duration: 2h -->
 * Database Integration
-    * Setting up SQLAlchemy with `Flask`-SQLAlchemy
+    * Setting up `SQLAlchemy` with `Flask`-`SQLAlchemy`
     * Defining models and relationships
     * Querying the database: filtering, ordering, and pagination
     * `CRUD` operations and session management

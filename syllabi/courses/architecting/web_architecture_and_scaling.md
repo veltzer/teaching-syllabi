@@ -57,7 +57,7 @@ This course provides a comprehensive exploration of web application architecture
     * `HTTP`/1.1 vs `HTTP`/2 vs `HTTP`/3
     * connection management and keep-alive
     * `HTTPS` and `TLS`
-    * WebSockets and server-sent events
+    * WebSockets and `server-sent events`
 <!-- chapter: web-servers, duration: 1h -->
 * web servers
     * `Nginx` architecture and configuration

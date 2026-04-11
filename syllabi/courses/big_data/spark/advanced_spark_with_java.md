@@ -69,7 +69,7 @@ This course is designed for data engineers and developers who have a basic under
     * Distributed model training and evaluation
     * Model persistence and deployment strategies
 <!-- chapter: spark-streaming-and-structured-streaming, duration: 4h -->
-* `Spark Streaming` and Structured Streaming
+* `Spark Streaming` and `Structured Streaming`
     * Advanced stream processing concepts
     * Windowed operations and stateful processing
     * Integration with `Kafka` and other streaming sources

@@ -10,19 +10,19 @@ audience:
   - audiences:developers
 ---
 <!-- course: lua_programming -->
-# Lua Programming
+# `Lua` Programming
 
 ## Description
-Lua is a lightweight, high-performance, embeddable scripting language. It is widely used in game development, embedded systems, and as a configuration and extension language in many applications. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics via metatables.
+`Lua` is a lightweight, high-performance, embeddable scripting language. It is widely used in game development, embedded systems, and as a configuration and extension language in many applications. `Lua` combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics via metatables.
 
-This course teaches Lua from the fundamentals through advanced topics including metatables, coroutines, the `C` `API`, and embedding Lua in applications. Students will also learn about LuaJIT and using Lua as a scripting language in game engines.
+This course teaches `Lua` from the fundamentals through advanced topics including metatables, coroutines, the `C` `API`, and embedding `Lua` in applications. Students will also learn about LuaJIT and using `Lua` as a scripting language in game engines.
 
 ## Duration
 16 hours / 2 days
 
 ## Intended Audience
 * Developers who want to embed a scripting language in their applications
-* Game developers looking to use Lua for game scripting
+* Game developers looking to use `Lua` for game scripting
 * Systems programmers who need a lightweight extension language
 * Anyone who wants to learn a fast and flexible scripting language
 
@@ -36,23 +36,23 @@ This course teaches Lua from the fundamentals through advanced topics including 
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Write Lua programs using tables, functions, and closures
+* Write `Lua` programs using tables, functions, and closures
 * Implement object-oriented patterns with metatables
 * Use coroutines for cooperative multitasking
-* Integrate Lua with `C` applications using the `C` `API`
+* Integrate `Lua` with `C` applications using the `C` `API`
 * Understand LuaJIT and its performance characteristics
-* Script game engines and applications with Lua
+* Script game engines and applications with `Lua`
 
 ## Outline
 <!-- chapter: getting-started-with-lua, duration: 1h -->
-* Getting Started with Lua
-    * What is Lua and why use it?
-    * Installing Lua and setting up the environment
-    * Running Lua scripts and the interactive interpreter
+* Getting Started with `Lua`
+    * What is `Lua` and why use it?
+    * Installing `Lua` and setting up the environment
+    * Running `Lua` scripts and the interactive interpreter
     * Hello, World!
-    * Lua ecosystem overview
+    * `Lua` ecosystem overview
 <!-- chapter: lua-basics, duration: 1h -->
-* Lua Basics
+* `Lua` Basics
     * Data types (nil, boolean, number, string, function, table, userdata, thread)
     * Variables and scope (local vs global)
     * Operators (arithmetic, relational, logical, concatenation)
@@ -123,21 +123,21 @@ This course teaches Lua from the fundamentals through advanced topics including 
     * Custom error objects
 <!-- chapter: c-api-integration, duration: 2h -->
 * `C` `API` Integration
-    * Overview of the Lua `C` `API`
-    * The Lua stack
-    * Calling Lua from `C`
-    * Calling `C` from Lua
-    * Creating `C` modules for Lua
+    * Overview of the `Lua` `C` `API`
+    * The `Lua` stack
+    * Calling `Lua` from `C`
+    * Calling `C` from `Lua`
+    * Creating `C` modules for `Lua`
     * Userdata and metatables in `C`
 <!-- chapter: embedding-lua, duration: 1h -->
-* Embedding Lua
-    * Embedding Lua in `C`/`C++` applications
-    * Configuration files with Lua
+* Embedding `Lua`
+    * Embedding `Lua` in `C`/`C++` applications
+    * Configuration files with `Lua`
     * Sandboxing and security considerations
     * Custom allocators
 <!-- chapter: scripting-in-game-engines, duration: 1h -->
 * Scripting in Game Engines
-    * Lua in game development
+    * `Lua` in game development
     * Common game engine integrations
     * Scripting game logic
     * Event systems and callbacks
@@ -148,7 +148,7 @@ This course teaches Lua from the fundamentals through advanced topics including 
     * Performance characteristics and benchmarks
     * FFI (Foreign Function Interface)
     * LuaJIT extensions and limitations
-    * `When` to use LuaJIT vs standard Lua
+    * `When` to use LuaJIT vs standard `Lua`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -51,7 +51,7 @@ audience:
 * Design resource-based URL structures and hierarchical relationships
 * Handle authentication and authorization in `REST APIs` (`JWT`, `OAuth2`, `API` keys)
 * Implement `API` versioning strategies and backward compatibility
-* Apply HATEOAS principles and hypermedia-driven `API` design
+* Apply `HATEOAS` principles and hypermedia-driven `API` design
 * Configure CORS, rate limiting, and security best practices for production APIs
 
 ## Outline
@@ -70,7 +70,7 @@ audience:
     * POST method: creating resources and non-idempotent operations
     * PUT method: updating/replacing resources and idempotency
     * DELETE method: removing resources and cleanup operations
-    * PATCH method: partial updates and delta modifications
+    * PATCH method: partial updates and `delta` modifications
     * HEAD method: metadata retrieval without body content
     * OPTIONS method: CORS preflight and capability discovery
     * Method safety and idempotency principles
@@ -121,7 +121,7 @@ audience:
     * `API` key management and rotation strategies
 <!-- chapter: advanced-rest-api-design-patterns, duration: 2h -->
 * Advanced `REST API` `Design Patterns`
-    * HATEOAS (Hypermedia as the Engine of Application State) principles
+    * `HATEOAS` (Hypermedia as the Engine of Application State) principles
     * Pagination strategies: offset-based, `cursor`-based, page-based
     * Filtering, sorting, and searching implementation patterns
     * Bulk operations and batch request handling

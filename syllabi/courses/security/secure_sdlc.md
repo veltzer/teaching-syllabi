@@ -46,7 +46,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Build `DevSecOps` pipelines with automated security testing
 * Establish a vulnerability management program
 * Launch and maintain a security champions program
-* Understand compliance frameworks (`PCI`-DSS, SOC2, `ISO 27001`) and maturity models (BSIMM, `OWASP SAMM`)
+* Understand compliance frameworks (`PCI`-DSS, SOC2, `ISO 27001`) and maturity models (`BSIMM`, `OWASP SAMM`)
 
 ## Outline
 <!-- chapter: secure-sdlc-overview, duration: 1h -->
@@ -68,7 +68,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Threat Modeling in Design
     * `When` and how to perform threat modeling
     * Data flow diagrams and trust boundaries
-    * STRIDE methodology for threat identification
+    * `STRIDE` methodology for threat identification
     * Risk rating and prioritization
     * Documenting and tracking threats
     * Lightweight threat modeling for `agile` teams
@@ -99,7 +99,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 <!-- chapter: software-composition-analysis-sca, duration: 1h -->
 * Software Composition Analysis (`SCA`)
     * Open-source risk and supply chain security
-    * Popular `SCA` tools (Snyk, `Dependabot`, Renovate, `OWASP Dependency-Check`)
+    * Popular `SCA` tools (`Snyk`, `Dependabot`, `Renovate`, `OWASP Dependency-Check`)
     * Vulnerability databases (CVE, NVD, OSV)
     * License compliance checking
     * `SBOM` (Software Bill of Materials) generation and management
@@ -107,7 +107,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 <!-- chapter: secrets-scanning, duration: 1h -->
 * Secrets Scanning
     * Common secret exposure patterns
-    * Secrets scanning tools (GitLeaks, TruffleHog, detect-secrets)
+    * Secrets scanning tools (GitLeaks, `TruffleHog`, detect-secrets)
     * Pre-commit hooks for secret prevention
     * Integrating secrets scanning into `CI/CD`
     * Remediating exposed secrets
@@ -146,7 +146,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 <!-- chapter: vulnerability-management, duration: 1h -->
 * Vulnerability Management
     * Vulnerability lifecycle (discovery, triage, remediation, verification)
-    * Severity scoring with CVSS
+    * Severity scoring with `CVSS`
     * Vulnerability tracking and SLA management
     * Risk acceptance and exception processes
     * Vulnerability metrics and reporting
@@ -168,7 +168,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
     * Audit preparation and evidence collection
 <!-- chapter: maturity-models, duration: 1h -->
 * Maturity Models
-    * BSIMM (Building Security In Maturity Model) framework
+    * `BSIMM` (Building Security In Maturity Model) framework
     * `OWASP SAMM` (Software Assurance Maturity Model)
     * Assessing current maturity level
     * Building a roadmap for improvement

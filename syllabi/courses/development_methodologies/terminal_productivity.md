@@ -30,9 +30,9 @@ This course teaches developers how to become highly productive in the terminal b
 * No advanced shell scripting experience required
 
 ## Objectives
-* Customize shell environments using `bash`, zsh, or fish with modern prompt frameworks
+* Customize shell environments using `bash`, `zsh`, or `fish` with modern prompt frameworks
 * Use tmux effectively for session management, window splitting, and persistent workflows
-* Replace traditional command-line tools with modern alternatives (fzf, ripgrep, fd, bat, eza)
+* Replace traditional command-line tools with modern alternatives (`fzf`, `ripgrep`, `fd`, `bat`, `eza`)
 * Manage dotfiles using version control and configuration management tools
 * Set up efficient `SSH` configurations for managing multiple remote systems
 * Build personal automation scripts and workflows for common development tasks
@@ -40,7 +40,7 @@ This course teaches developers how to become highly productive in the terminal b
 ## Outline
 <!-- chapter: shell-customization, duration: 1h -->
 * Shell Customization
-    * Comparing `bash`, zsh, and fish
+    * Comparing `bash`, `zsh`, and `fish`
     * Shell configuration files and load order
     * Prompt customization and information display
     * `Oh My Zsh` framework and plugins
@@ -68,31 +68,31 @@ This course teaches developers how to become highly productive in the terminal b
     * Creating and organizing aliases
     * Writing shell functions for complex operations
     * Conditional aliases and platform-specific configuration
-    * Abbreviations in fish and zsh
+    * Abbreviations in `fish` and `zsh`
 <!-- chapter: dotfiles-management, duration: 1h -->
 * Dotfiles Management
     * Why and how to version control dotfiles
-    * chezmoi for cross-machine dotfile management
+    * `chezmoi` for cross-machine dotfile management
     * `GNU Stow` for symlink-based management
     * Bootstrapping a new machine from dotfiles
     * Secrets management in dotfiles
 <!-- chapter: fzf-fuzzy-finder, duration: 1h -->
-* fzf (Fuzzy Finder)
+* `fzf` (Fuzzy Finder)
     * Interactive fuzzy searching
     * `File` and directory fuzzy finding
-    * History search with fzf
-    * fzf integration with `Vim`/Neovim
-    * Custom fzf commands and key bindings
+    * History search with `fzf`
+    * `fzf` integration with `Vim`/`Neovim`
+    * Custom `fzf` commands and key bindings
     * Preview `windows` and advanced configuration
 <!-- chapter: modern-cli-tools, duration: 2h -->
 * Modern `CLI` Tools
-    * ripgrep (rg): fast code searching
-    * fd: user-friendly `file` finding
-    * bat: syntax-highlighted `file` viewing
-    * eza (formerly exa): modern ls replacement
+    * `ripgrep` (rg): fast code searching
+    * `fd`: user-friendly `file` finding
+    * `bat`: syntax-highlighted `file` viewing
+    * `eza` (formerly exa): modern ls replacement
     * z/zoxide: intelligent directory jumping
-    * delta: improved `git diff` output
-    * jq and yq for structured data processing
+    * `delta`: improved `git diff` output
+    * `jq` and yq for structured data processing
     * httpie and curlie for `HTTP` requests
 <!-- chapter: shell-history, duration: 1h -->
 * Shell History
@@ -124,7 +124,7 @@ This course teaches developers how to become highly productive in the terminal b
 * Terminal Emulators
     * Alacritty: `GPU`-accelerated terminal
     * Kitty: feature-rich `GPU` terminal
-    * WezTerm: Lua-configurable terminal
+    * WezTerm: `Lua`-configurable terminal
     * Configuration and customization
     * Font selection and rendering
     * Choosing the right terminal emulator

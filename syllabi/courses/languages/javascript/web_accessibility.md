@@ -44,7 +44,7 @@ Web accessibility ensures that websites and web applications are usable by every
 * Build keyboard-navigable interfaces with proper focus management
 * Create accessible forms, tables, images, and media content
 * Test applications using automated tools and assistive technologies
-* Understand legal requirements including ADA, `Section 508`, and the EAA
+* Understand legal requirements including `ADA`, `Section 508`, and the EAA
 * Apply accessibility best practices in `React`, Vue, and `Angular` applications
 * Establish accessibility workflows and standards within development teams
 
@@ -118,7 +118,7 @@ Web accessibility ensures that websites and web applications are usable by every
     * Creating accessibility test plans and checklists
 <!-- chapter: legal-requirements-and-compliance, duration: 1h -->
 * Legal Requirements and Compliance
-    * `Americans with Disabilities Act` (ADA) and web accessibility
+    * `Americans with Disabilities Act` (`ADA`) and web accessibility
     * `Section 508` of the `Rehabilitation Act`
     * `European Accessibility Act` (EAA) and `EN 301 549`
     * VPAT (Voluntary Product Accessibility Template) documentation

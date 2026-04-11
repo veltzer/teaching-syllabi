@@ -39,7 +39,7 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
 * Write and maintain .`gitlab`-ci.yml configuration files with stages, jobs, variables, and rules.
 * Configure and manage `GitLab` Runners for different execution environments.
 * Implement advanced pipeline patterns including multi-project and parent-child pipelines.
-* Build and push container images using `Docker`-in-`Docker` and Kaniko.
+* Build and push container images using `Docker`-in-`Docker` and `Kaniko`.
 * Integrate security scanning (`SAST`, `DAST`, dependency scanning) into pipelines.
 
 ## Outline
@@ -116,7 +116,7 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
 <!-- chapter: container-building-strategies, duration: 1h -->
 * Container Building Strategies
     * `Docker`-in-`Docker` (DinD) setup and configuration
-    * Kaniko for building images without `Docker` daemon
+    * `Kaniko` for building images without `Docker` daemon
     * `GitLab` Container Registry
     * Pushing and pulling images from the registry
     * Image tagging strategies

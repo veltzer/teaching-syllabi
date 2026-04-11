@@ -74,7 +74,7 @@ This course covers the principles and practices of Test-Driven Development (`TDD
     * Testing interactions vs testing state
 <!-- chapter: mocking-strategies, duration: 2h -->
 * Mocking Strategies
-    * Mocking frameworks: `Mockito`, `unittest`.mock, Sinon, `Jest` mocks
+    * Mocking frameworks: `Mockito`, `unittest`.mock, `Sinon`, `Jest` mocks
     * Setting up expectations and `return-values`
     * Verifying interactions and call counts
     * Partial mocking and spy patterns

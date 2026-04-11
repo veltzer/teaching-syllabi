@@ -67,7 +67,7 @@ Hands-on lab exercises covering installation, configuration, backup and recovery
 * Authentication and Access Control
     * Authentication methods: trust, `md5`, scram-`sha`-256, peer, cert
     * pg_hba.conf rules and matching
-    * `LDAP` and RADIUS integration
+    * `LDAP` and `RADIUS` integration
     * Certificate-based authentication
     * Connection limits and timeouts
 
@@ -146,7 +146,7 @@ Hands-on lab exercises covering installation, configuration, backup and recovery
 <!-- chapter: connection-management, duration: 2h -->
 * Connection Management
     * max_connections and resource implications
-    * Connection pooling with PgBouncer
+    * Connection pooling with `PgBouncer`
     * pgpool-II for connection management
     * Idle session management
     * Connection timeout configuration

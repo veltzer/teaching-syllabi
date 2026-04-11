@@ -63,7 +63,7 @@ As current deployed applications and systems are becoming more complex with tool
 * Monitoring Fundamentals
     * What to monitor?
         * Node Exporter
-        * StatsD Exporter
+        * `StatsD` Exporter
         * Graphite Exporter
         * Other popular community exporters
     * Push and Pull data collection
@@ -95,7 +95,7 @@ As current deployed applications and systems are becoming more complex with tool
     * Defining Alerting rules
     * Templating
     * Alert notifications
-    * Setting up and configuring Alertmanager with `Prometheus`
+    * Setting up and configuring `Alertmanager` with `Prometheus`
     * Grouping
     * Inhibition
     * Silences

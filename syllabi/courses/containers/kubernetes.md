@@ -106,11 +106,11 @@ and manage production-grade `Kubernetes` environments.
     * The CNI (Container Network Interface) model
     * Network policies: `ingress` and egress rules
     * Restricting traffic between namespaces
-    * CoreDNS and `DNS` in `Kubernetes`
+    * `CoreDNS` and `DNS` in `Kubernetes`
 <!-- chapter: ingress, duration: 2h -->
 * `Ingress`
     * What is `Ingress`?
-    * `Ingress` controllers: `NGINX`, Traefik, and others
+    * `Ingress` controllers: `NGINX`, `Traefik`, and others
     * Defining `Ingress` resources
     * Path-based and host-based routing
     * `TLS` termination with `Ingress`

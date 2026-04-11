@@ -101,7 +101,7 @@ audience:
 <!-- chapter: spark-streaming, duration: 3h -->
 * `Spark Streaming`
     * DStreams overview
-    * Structured Streaming
+    * `Structured Streaming`
     * Window operations
     * Watermarking
     * Output modes and sinks

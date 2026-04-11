@@ -104,7 +104,7 @@ audience:
 * Server Configuration
     * Enabling `HTTP`/2 in `Nginx`
     * Enabling `HTTP`/2 in `Apache` (mod_http2)
-    * Caddy with automatic `HTTP`/2 and `HTTP`/3
+    * `Caddy` with automatic `HTTP`/2 and `HTTP`/3
     * Enabling `HTTP`/3 with `Nginx` (QUIC module)
     * LiteSpeed and `HTTP`/3 support
     * Load balancer configuration for `HTTP`/2 and `HTTP`/3

@@ -75,7 +75,7 @@ This advanced course covers networking on embedded `Linux` platforms, from the k
     * `NetworkManager` on embedded platforms
     * `systemd`-networkd configuration
     * Static and dynamic `IP` configuration
-    * VLAN and bridge configuration
+    * `VLAN` and bridge configuration
     * Network bonding and failover
 <!-- chapter: ethernet-and-wifi-drivers, duration: 2h -->
 * `Ethernet` and `WiFi` Drivers

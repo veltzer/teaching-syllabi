@@ -38,7 +38,7 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
 
 ## Objectives
 * Understand the principles and goals of chaos engineering
-* Design chaos experiments with a steady state `hypothesis` and controlled blast radius
+* Design chaos experiments with a steady state `hypothesis` and controlled blast `radius`
 * Use `Chaos Monkey`, `Litmus Chaos`, `Chaos Mesh`, and Gremlin to inject failures
 * Simulate network chaos with toxiproxy
 * Inject failures including pod kills, network latency, disk pressure, and `CPU` stress
@@ -58,7 +58,7 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
 <!-- chapter: designing-chaos-experiments, duration: 1h -->
 * Designing Chaos Experiments
     * Defining steady state `hypothesis`
-    * Identifying the blast radius
+    * Identifying the blast `radius`
     * Selecting experiment scope and target
     * Formulating hypotheses about system behavior
     * Planning rollback and safety nets

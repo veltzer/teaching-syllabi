@@ -114,7 +114,7 @@ audience:
     * Cluster upgrade strategies with zero downtime
 <!-- chapter: alerting-with-vmalert, duration: 2h -->
 * Alerting with `VMAlert`
-    * `VMAlert` architecture and how it differs from `Prometheus` Alertmanager
+    * `VMAlert` architecture and how it differs from `Prometheus` `Alertmanager`
     * Defining alerting rules and recording rules
     * Routing alerts to `Alertmanager` for notification
     * `VMAlert` high-availability configuration

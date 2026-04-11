@@ -82,7 +82,7 @@ This course prepares security professionals for roles in a Security Operations C
     * Mapping observed activity to ATT&CK techniques
     * Using `ATT&CK Navigator` for coverage analysis
     * Building and maintaining `IOC` databases
-    * Intelligence sharing standards: STIX and TAXII
+    * Intelligence sharing standards: STIX and `TAXII`
 <!-- chapter: incident-triage-and-analysis, duration: 6h -->
 * Incident Triage and Analysis
     * Incident triage methodology and prioritization

@@ -63,7 +63,7 @@ Relational database design is the foundation of effective data management and ap
     * Requirements gathering and business analysis
     * Conceptual vs logical vs physical design phases
     * Common `design patterns` and anti-patterns
-    * Introduction to design tools (`MySQL Workbench`, pgAdmin, Lucidchart)
+    * Introduction to design tools (`MySQL Workbench`, `pgAdmin`, Lucidchart)
     * Setting up the design environment
 <!-- chapter: entity-relationship-modeling, duration: 1h -->
 * Entity-Relationship Modeling

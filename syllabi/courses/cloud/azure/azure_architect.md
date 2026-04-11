@@ -63,7 +63,7 @@ This advanced course prepares participants to design comprehensive solutions on 
 * Compute Architecture
     * Virtual machines (sizing, availability, placement groups)
     * `Azure App Service` (plans, scaling, networking integration)
-    * `Azure Functions` (hosting plans, durable functions, triggers)
+    * `Azure Functions` (hosting plans, `durable functions`, triggers)
     * `Azure Container Apps` (`microservices`, Dapr, scaling rules)
     * `Azure Kubernetes Service` (cluster design, networking, storage)
     * Compute decision framework (`when` to use what)

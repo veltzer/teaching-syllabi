@@ -74,7 +74,7 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 <!-- chapter: redis-transactions-and-scripting, duration: 2h -->
 * `Redis` Transactions and Scripting:
     * Transactions: MULTI, EXEC, DISCARD, WATCH.
-    * Lua scripting in `Redis`.
+    * `Lua` scripting in `Redis`.
     * Atomic operations.
 <!-- chapter: redis-persistence, duration: 2h -->
 * `Redis` Persistence:

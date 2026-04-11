@@ -70,7 +70,7 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
     * Verifying and troubleshooting the `bootstrap` installation
 
 <!-- chapter: kustomization-controller, duration: 2h -->
-* Kustomization Controller
+* `Kustomization` Controller
     * The `Kustomization` custom resource and its fields
     * Health checks, timeout, and retry configuration
     * Dependency ordering between `Kustomizations`

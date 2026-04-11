@@ -185,7 +185,7 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
         * Shared parameters
     * PPO (Proximal Policy Optimization)
         * Clipped surrogate objective
-        * PPO-Clip and PPO-Penalty
+        * PPO-`Clip` and PPO-Penalty
         * Generalized Advantage Estimation
         * Practical PPO implementation
     * TRPO (Trust Region Policy Optimization)

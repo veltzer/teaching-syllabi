@@ -74,7 +74,7 @@ This course provides comprehensive coverage of `API` security principles, protoc
 <!-- chapter: jwt-best-practices, duration: 2h -->
 * `JWT` Best Practices
     * `JWT` structure: header, payload, and signature
-    * Signing algorithms: HMAC, `RSA`, and ECDSA
+    * Signing algorithms: `HMAC`, `RSA`, and `ECDSA`
     * JWE (`JSON` Web Encryption) for confidential claims
     * Claims best practices: iss, aud, exp, nbf, iat, and custom claims
     * Token size considerations and claim minimization

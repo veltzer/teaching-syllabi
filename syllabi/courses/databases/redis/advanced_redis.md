@@ -16,7 +16,7 @@ audience:
 # Advanced `Redis`
 
 ## Description
-This advanced course dives deep into `Redis` features and operational patterns for engineers who already have foundational `Redis` knowledge. Participants will master `Redis` clustering, `Redis Streams` for event-driven architectures, Lua scripting for atomic operations, and advanced pub/sub patterns. The course also covers persistence strategies, `Redis Sentinel` for high availability, custom modules, memory optimization techniques, and security hardening for production deployments.
+This advanced course dives deep into `Redis` features and operational patterns for engineers who already have foundational `Redis` knowledge. Participants will master `Redis` clustering, `Redis Streams` for event-driven architectures, `Lua` scripting for atomic operations, and advanced pub/sub patterns. The course also covers persistence strategies, `Redis Sentinel` for high availability, custom modules, memory optimization techniques, and security hardening for production deployments.
 
 ## Duration
 16 hours / 2 days
@@ -41,7 +41,7 @@ This advanced course dives deep into `Redis` features and operational patterns f
 ## Objectives
 * Design and manage `Redis` clusters for horizontal scalability
 * Implement event-driven architectures using `Redis Streams`
-* Write Lua scripts for complex atomic operations
+* Write `Lua` scripts for complex atomic operations
 * Build robust pub/sub messaging patterns
 * Select and configure appropriate persistence strategies
 * Deploy `Redis Sentinel` for high availability
@@ -74,13 +74,13 @@ This advanced course dives deep into `Redis` features and operational patterns f
     * `Event sourcing` patterns with Streams
 
 <!-- chapter: lua-scripting, duration: 2h -->
-* Lua Scripting
-    * Lua language basics for `Redis`
+* `Lua` Scripting
+    * `Lua` language basics for `Redis`
     * EVAL and EVALSHA commands
     * Accessing keys and arguments
     * Atomic operations with scripts
     * Script caching and management
-    * Debugging Lua scripts
+    * Debugging `Lua` scripts
     * Common scripting patterns
     * Performance considerations
     * `Redis` Functions (v7+)

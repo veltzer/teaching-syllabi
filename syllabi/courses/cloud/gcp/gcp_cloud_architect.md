@@ -70,7 +70,7 @@ Professional Cloud Architect certification path.
 <!-- chapter: network-design, duration: 5h -->
 * Network Design
     * `VPC` design: shared `VPC` and multi-project networking
-    * Hybrid networking: Cloud `VPN`, Cloud Interconnect, and Partner Interconnect
+    * Hybrid networking: Cloud `VPN`, `Cloud Interconnect`, and Partner Interconnect
     * `Private Service Connect` and `VPC` Service Controls
     * Global and regional load balancing
     * Cloud `CDN` and media `CDN`
@@ -82,7 +82,7 @@ Professional Cloud Architect certification path.
     * Storage selection by access pattern, volume, and performance
     * `Cloud Storage` for object storage and data lakes
     * Block and `file` storage: Persistent Disk, Filestore, NetApp Volumes
-    * Cloud `SQL`, AlloyDB, and Cloud Spanner for relational workloads
+    * Cloud `SQL`, `AlloyDB`, and `Cloud Spanner` for relational workloads
     * `Firestore` and Bigtable for `NoSQL` workloads
     * `BigQuery` for analytics and data warehousing
     * Data lifecycle management and retention policies
@@ -107,7 +107,7 @@ Professional Cloud Architect certification path.
     * Data security: Cloud `KMS`, encryption, and key management
     * `VPC` Service Controls and context-aware access
     * `Security Command Center`
-    * Identity-Aware Proxy
+    * `Identity-Aware Proxy`
     * `Binary Authorization` for container supply chain
     * Compliance frameworks: `SOC` 2, `GDPR`, `HIPAA`
     * Data residency and sovereignty

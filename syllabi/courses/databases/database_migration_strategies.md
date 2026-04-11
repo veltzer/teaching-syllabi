@@ -15,7 +15,7 @@ audience:
 # Database Migration Strategies
 
 ## Description
-This course covers modern strategies and tools for managing database schema changes in production environments. Participants will learn how to perform zero-downtime migrations, implement schema versioning with tools like Flyway and Liquibase, apply the expand-contract pattern for backward-compatible changes, and integrate database migrations into `CI/CD` pipelines. The course also addresses data migration techniques, blue-green database deployments, rollback strategies, and testing practices for migrations.
+This course covers modern strategies and tools for managing database schema changes in production environments. Participants will learn how to perform zero-downtime migrations, implement schema versioning with tools like `Flyway` and `Liquibase`, apply the expand-contract pattern for backward-compatible changes, and integrate database migrations into `CI/CD` pipelines. The course also addresses data migration techniques, blue-green database deployments, rollback strategies, and testing practices for migrations.
 
 ## Duration
 16 hours / 1 day
@@ -35,7 +35,7 @@ This course covers modern strategies and tools for managing database schema chan
 
 ## Objectives
 * Plan and execute zero-downtime database migrations
-* Implement schema versioning using Flyway and Liquibase
+* Implement schema versioning using `Flyway` and `Liquibase`
 * Apply the expand-contract pattern for backward-compatible schema changes
 * Design and execute safe data migrations
 * Set up blue-green database deployment strategies
@@ -59,18 +59,18 @@ This course covers modern strategies and tools for managing database schema chan
     * Managing constraint changes without locking
     * Table rebuild strategies for large tables
 <!-- chapter: schema-versioning-with-flyway, duration: 1h -->
-* Schema Versioning with Flyway
-    * Flyway architecture and concepts
+* Schema Versioning with `Flyway`
+    * `Flyway` architecture and concepts
     * Versioned migrations, undo migrations, and repeatable migrations
-    * Flyway configuration and environments
+    * `Flyway` configuration and environments
     * Baseline and repair operations
-    * Flyway callbacks and placeholders
+    * `Flyway` callbacks and placeholders
 <!-- chapter: schema-versioning-with-liquibase, duration: 2h -->
-* Schema Versioning with Liquibase
-    * Liquibase changelogs and changesets
+* Schema Versioning with `Liquibase`
+    * `Liquibase` changelogs and changesets
     * Supported formats: `XML`, `YAML`, `JSON`, and `SQL`
     * Contexts and labels for environment-specific changes
-    * Liquibase diff and snapshot capabilities
+    * `Liquibase` diff and snapshot capabilities
     * Generating changelogs from existing databases
 <!-- chapter: the-expand-contract-pattern, duration: 2h -->
 * The Expand-Contract Pattern

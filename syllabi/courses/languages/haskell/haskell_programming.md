@@ -10,18 +10,18 @@ audience:
   - audiences:developers
 ---
 <!-- course: haskell_programming -->
-# Haskell Programming
+# `Haskell` Programming
 
 ## Description
-Haskell is a purely functional, statically typed programming language known for its strong type system, lazy evaluation, and mathematical foundations. Named after the logician Haskell Curry, the language emphasizes correctness, conciseness, and abstraction. Haskell has profoundly influenced modern programming language design, and its concepts such as monads, type classes, and algebraic data types have been adopted by many other languages.
+`Haskell` is a purely functional, statically typed programming language known for its strong type system, lazy evaluation, and mathematical foundations. Named after the logician `Haskell` Curry, the language emphasizes correctness, conciseness, and abstraction. `Haskell` has profoundly influenced modern programming language design, and its concepts such as monads, type classes, and algebraic data types have been adopted by many other languages.
 
-This course teaches Haskell from foundational functional programming concepts through advanced topics such as monads, functors, and applicatives. Students will learn to think functionally, leverage Haskell's powerful type system, and build real-world applications using the Haskell ecosystem. The course includes hands on exercises.
+This course teaches `Haskell` from foundational functional programming concepts through advanced topics such as monads, functors, and applicatives. Students will learn to think functionally, leverage `Haskell`'s powerful type system, and build real-world applications using the `Haskell` ecosystem. The course includes hands on exercises.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Software developers who want to learn functional programming through Haskell.
+* Software developers who want to learn functional programming through `Haskell`.
 * Programmers experienced in imperative or object-oriented languages who want to expand their paradigm knowledge.
 * Developers interested in building correct, reliable software using strong type systems.
 
@@ -35,11 +35,11 @@ This course teaches Haskell from foundational functional programming concepts th
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand functional programming principles and how they apply in Haskell
-* Write Haskell programs using algebraic data types, pattern matching, and type classes
+* Understand functional programming principles and how they apply in `Haskell`
+* Write `Haskell` programs using algebraic data types, pattern matching, and type classes
 * Use higher-order functions and recursion effectively
 * Understand and apply monads, functors, and applicatives
-* Build and manage Haskell projects with Cabal and Stack
+* Build and manage `Haskell` projects with Cabal and Stack
 * Write property-based tests with QuickCheck
 
 ## Outline
@@ -48,11 +48,11 @@ This course teaches Haskell from foundational functional programming concepts th
     * What is functional programming?
     * Pure functions and referential transparency
     * Immutability and side effects
-    * Why Haskell?
+    * Why `Haskell`?
     * Installing GHC and development tools
     * GHCi interactive environment
 <!-- chapter: haskell-basics, duration: 3h -->
-* Haskell Basics
+* `Haskell` Basics
     * Basic types: `Int`, Integer, Float, Double, Char, `Bool`
     * Variables and bindings
     * Arithmetic and boolean operators
@@ -126,7 +126,7 @@ This course teaches Haskell from foundational functional programming concepts th
 <!-- chapter: error-handling, duration: 2h -->
 * Error Handling
     * Maybe and Either for error handling
-    * Exceptions in Haskell
+    * Exceptions in `Haskell`
     * MonadFail and safe patterns
     * Validating input
 <!-- chapter: testing-with-quickcheck, duration: 2h -->
@@ -137,12 +137,12 @@ This course teaches Haskell from foundational functional programming concepts th
     * Shrinking and test case minimization
     * Integrating QuickCheck into projects
 <!-- chapter: real-world-haskell-patterns, duration: 2h -->
-* Real-World Haskell Patterns
+* Real-World `Haskell` Patterns
     * Working with IO and files
     * Parsing with Parsec
     * `JSON` handling with Aeson
     * Command-line argument parsing
-    * Common `design patterns` in Haskell
+    * Common `design patterns` in `Haskell`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

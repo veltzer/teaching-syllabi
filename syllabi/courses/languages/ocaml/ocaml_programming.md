@@ -25,7 +25,7 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 ## Intended Audience
 * Developers seeking a rigorous type-safe functional programming language for production use
 * Engineers interested in compilers, formal verification, or language tooling
-* Developers coming from Haskell, `F#`, or `Rust` who want to explore `OCaml`
+* Developers coming from `Haskell`, `F#`, or `Rust` who want to explore `OCaml`
 
 ## Prerequisites
 * `Solid` experience in at least one programming language

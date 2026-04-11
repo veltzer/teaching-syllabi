@@ -17,7 +17,7 @@ audience:
 This course covers building and consuming `web services` in `Java` using both `REST` and
 `SOAP` approaches. Participants will learn to create `RESTful APIs` with JAX-RS, work with
 `SOAP` services using JAX-WS, handle `JSON` and `XML` data formats, and apply best
-practices for authentication, error handling, and `API` design including HATEOAS and
+practices for authentication, error handling, and `API` design including `HATEOAS` and
 `OpenAPI`/Swagger documentation.
 
 ## Duration
@@ -37,7 +37,7 @@ practices for authentication, error handling, and `API` design including HATEOAS
     * Create and consume `SOAP` services with JAX-WS.
     * Process `JSON` and `XML` data in `Java`.
     * Implement authentication and security for `web services`.
-    * Design well-structured APIs with versioning and HATEOAS.
+    * Design well-structured APIs with versioning and `HATEOAS`.
     * Document APIs using `OpenAPI`/Swagger.
 
 ## Outline
@@ -84,7 +84,7 @@ practices for authentication, error handling, and `API` design including HATEOAS
 <!-- chapter: api-design-best-practices, duration: 2h -->
 * `API` Design Best Practices
     * `API` versioning strategies
-    * HATEOAS — Hypermedia as the Engine of Application State
+    * `HATEOAS` — Hypermedia as the Engine of Application State
     * Pagination and filtering
     * Rate limiting
 <!-- chapter: api-documentation, duration: 2h -->

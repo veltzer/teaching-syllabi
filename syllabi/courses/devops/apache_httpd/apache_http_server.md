@@ -89,7 +89,7 @@ This course covers the installation, configuration, and administration of the `A
     * Obtaining and installing certificates
     * Configuring SSLCertificateFile and SSLCertificateKeyFile
     * Cipher suite selection and protocol versions
-    * HSTS and OCSP stapling
+    * `HSTS` and `OCSP` stapling
 <!-- chapter: reverse-proxy, duration: 2h -->
 * Reverse Proxy
     * ProxyPass and ProxyPassReverse directives

@@ -118,7 +118,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
     * Running `JUnit 4` tests on the `JUnit 5` platform with `junit-vintage-engine`
     * Annotation mapping: `@Before`→`@BeforeEach`, `@RunWith`→`@ExtendWith`
     * Migrating `@Rule` and `@ClassRule` to extensions
-    * Replacing Hamcrest and `@Test(expected=...)` patterns
+    * Replacing `Hamcrest` and `@Test(expected=...)` patterns
     * Incremental migration strategies for large codebases
     * Common pitfalls and how to avoid them
 

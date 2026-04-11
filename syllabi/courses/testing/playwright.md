@@ -156,7 +156,7 @@ audience:
 * `Playwright` for `Python`, `Java`, and `.NET`
     * `Playwright` for `Python`: installation and usage
     * `Playwright` for `Java`: integration with `JUnit` and `Maven`
-    * `Playwright` for `.NET`: usage with NUnit and MSTest
+    * `Playwright` for `.NET`: usage with `NUnit` and MSTest
     * Cross-language feature parity and differences
     * Choosing the right language binding for your team
 <!-- chapter: mobile-emulation-and-accessibility-testing, duration: 1h -->

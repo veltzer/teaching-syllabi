@@ -125,7 +125,7 @@ audience:
 <!-- chapter: integration-with-cloud-storage-and-databases, duration: 1h -->
 * Integration with `Cloud Storage` and Databases
     * Reading and writing to `S3`, `GCS`, and `Azure Blob`
-    * Database operations with SQLAlchemy and connection blocks
+    * Database operations with `SQLAlchemy` and connection blocks
     * Integration with `Snowflake`, `BigQuery`, and `Databricks`
     * Working with `Pandas` and Dask DataFrames
 <!-- chapter: comparison-with-airflow-and-dagster, duration: 1h -->

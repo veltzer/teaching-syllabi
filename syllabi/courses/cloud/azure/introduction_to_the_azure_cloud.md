@@ -79,7 +79,7 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
 <!-- chapter: azure-databases, duration: 2h -->
 * `Azure` Databases
     * `Azure` `SQL` Database (Introduction)
-    * `Azure` Cosmos DB (Introduction)
+    * `Azure` `Cosmos DB` (Introduction)
     * Other Database Options in `Azure`
 <!-- chapter: azure-security, duration: 2h -->
 * `Azure` Security

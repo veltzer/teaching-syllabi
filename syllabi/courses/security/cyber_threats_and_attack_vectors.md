@@ -74,7 +74,7 @@ and demonstrated.
 <!-- chapter: networking-background-long, duration: 2h -->
 * Networking background [long]
     * `IP` addresses
-    * Geo `IP`, ISP, ASN, CIDR
+    * Geo `IP`, ISP, ASN, `CIDR`
     * Routers
     * Firewalls
     * Base 64
@@ -116,7 +116,7 @@ and demonstrated.
     * Cookies
     * Server headers
     * CRLF
-    * HSTS
+    * `HSTS`
     * `HTTP` Error codes
     * Local Storage/Session storage
     * Robots.txt

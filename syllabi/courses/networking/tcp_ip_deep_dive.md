@@ -36,7 +36,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
 ## Objectives
 * Describe the layers of the OSI and `TCP`/`IP` reference models and map protocols to each layer.
 * Explain `Ethernet` framing, MAC addressing, and link-layer operations.
-* Calculate subnets, apply CIDR notation, and design addressing schemes.
+* Calculate subnets, apply `CIDR` notation, and design addressing schemes.
 * Analyze the `ARP` and `ICMP` protocols and their role in network operations.
 * Explain the `TCP` three-way handshake, flow control, and congestion control mechanisms.
 * Compare `TCP` and `UDP` and choose the appropriate transport protocol for a given scenario.
@@ -61,7 +61,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
     * VLANs
 <!-- chapter: ip-addressing-and-subnetting, duration: 2h -->
 * `IP` Addressing and Subnetting
-    * `IPv4` address classes and CIDR notation
+    * `IPv4` address classes and `CIDR` notation
     * Subnet mask calculation
     * Public vs. private address ranges
     * Introduction to `IPv6`
@@ -104,7 +104,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
 * Routing Protocols
     * Static vs. dynamic routing
     * Distance-vector protocols (RIP)
-    * Link-state protocols (OSPF)
+    * Link-state protocols (`OSPF`)
     * Path-vector protocols (`BGP`)
     * Routing tables and longest prefix match
 <!-- chapter: packet-analysis-with-wireshark-and-tcpdump, duration: 2h -->

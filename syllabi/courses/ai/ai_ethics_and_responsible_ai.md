@@ -37,7 +37,7 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
 ## Objectives
 * **Identify and mitigate bias** in data, algorithms, and `AI` system outputs using fairness metrics and techniques
 * **Apply explainability methods** including `LIME`, `SHAP`, and attention visualization to interpret model decisions
-* **Understand privacy-preserving techniques** such as differential privacy and federated learning
+* **Understand privacy-preserving techniques** such as differential privacy and `federated learning`
 * **Navigate `AI` regulations** including the `EU AI Act` and `NIST AI RMF` for compliance planning
 * **Create responsible `AI` documentation** including model cards, datasheets, and impact assessments
 * **Build organizational governance frameworks** for ethical `AI` development and deployment
@@ -95,7 +95,7 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
         * Choosing appropriate metrics
         * Context-dependent fairness
     * Fairness tools
-        * Fairlearn
+        * `Fairlearn`
         * `AI Fairness 360`
         * `What-If Tool`
 <!-- chapter: explainability-and-interpretability, duration: 2h -->
@@ -146,9 +146,9 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
         * Mechanisms (Laplace, Gaussian)
         * Local vs global differential privacy
         * Applications in `ML`
-    * Federated learning
+    * `Federated learning`
         * Distributed training without data sharing
-        * Federated averaging
+        * `Federated averaging`
         * Communication efficiency
         * Privacy guarantees and limitations
     * Other privacy techniques

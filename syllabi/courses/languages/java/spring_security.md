@@ -117,7 +117,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
     * Adding custom filters to the security chain
     * Filter ordering and registration
     * Custom AuthenticationEntryPoint and AccessDeniedHandler
-    * Security headers configuration (X-Frame-Options, CSP, HSTS)
+    * Security headers configuration (X-Frame-Options, CSP, `HSTS`)
     * Session management and concurrency control
     * Security best practices and common vulnerabilities
 

@@ -47,7 +47,7 @@ audience:
 * Implement automatic request/response validation using Pydantic models
 * Create interactive `API` documentation with `Swagger UI` and `ReDoc`
 * Handle authentication and authorization using `JWT` tokens and `OAuth2`
-* Integrate databases using SQLAlchemy `ORM` and Alembic migrations
+* Integrate databases using `SQLAlchemy` `ORM` and Alembic migrations
 * Implement dependency injection for `clean`, testable code architecture
 * Handle `file` uploads, downloads, and streaming responses
 * Apply error handling, logging, and middleware for production-ready applications
@@ -93,7 +93,7 @@ audience:
     * Handling `WebSocket` connections for real-time features
 <!-- chapter: database-integration-and-orm, duration: 1h -->
 * Database Integration and `ORM`
-    * Setting up database connections with SQLAlchemy
+    * Setting up database connections with `SQLAlchemy`
     * Creating database models and relationships
     * Database session management and connection pooling
     * `CRUD` operations (Create, Read, Update, Delete) implementation
@@ -118,7 +118,7 @@ audience:
     * Using dependencies for validation, logging, and cross-cutting concerns
     * Background tasks for asynchronous processing
     * `File` upload and download handling
-    * Streaming responses and server-sent events
+    * Streaming responses and `server-sent events`
     * Custom middleware creation and implementation
 <!-- chapter: testing-deployment-and-production-considerations, duration: 1h -->
 * Testing, Deployment, and Production Considerations

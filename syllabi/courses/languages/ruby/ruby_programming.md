@@ -39,7 +39,7 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
 * Write idiomatic `Ruby` code using blocks, procs, and lambdas
 * Build object-oriented programs with classes, modules, and mixins
 * Use `Ruby`'s powerful collection and iteration capabilities
-* Write tests with RSpec
+* Write tests with `RSpec`
 * Understand the basics of `Ruby on Rails` web development
 
 ## Outline
@@ -127,8 +127,8 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
     * send and public_send
     * Hooks and callbacks
 <!-- chapter: testing-with-rspec, duration: 2h -->
-* Testing with RSpec
-    * Introduction to RSpec
+* Testing with `RSpec`
+    * Introduction to `RSpec`
     * Writing specs with describe, context, and it
     * Matchers and expectations
     * Mocks and stubs

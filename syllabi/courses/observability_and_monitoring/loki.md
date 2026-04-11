@@ -111,7 +111,7 @@ This course covers `Grafana Loki`, a horizontally scalable, highly available log
     * Configuring the ruler component
     * Writing alerting rules with LogQL
     * Recording rules
-    * Integration with Alertmanager
+    * Integration with `Alertmanager`
 <!-- chapter: grafana-integration, duration: 1h -->
 * `Grafana` Integration:
     * Configuring Loki as a data source in `Grafana`

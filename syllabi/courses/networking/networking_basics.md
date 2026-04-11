@@ -76,7 +76,7 @@ Networking fundamentals are essential for understanding how computers communicat
 * `IP` Addressing and Subnetting
     * `IPv4` address structure and classes (A, B, `C`, D, E)
     * Public vs private `IP` addresses (`RFC 1918`)
-    * Subnet masks and CIDR notation
+    * Subnet masks and `CIDR` notation
     * Subnetting calculations and network design
     * `IPv6` addressing basics and transition mechanisms
     * `DHCP` for dynamic `IP` assignment

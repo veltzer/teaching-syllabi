@@ -55,7 +55,7 @@ This course covers the principles and best practices for designing robust, scala
     * Mapping resources to URLs
     * Proper use of `HTTP` methods (GET, POST, PUT, PATCH, DELETE)
     * `HTTP` status codes and their semantics
-    * HATEOAS and hypermedia-driven APIs
+    * `HATEOAS` and hypermedia-driven APIs
     * Content negotiation
 <!-- chapter: url-structure-and-naming, duration: 1h -->
 * URL Structure and Naming

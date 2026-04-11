@@ -16,7 +16,7 @@ audience:
 # Advanced `Nginx`
 
 ## Description
-This course covers advanced `Nginx` topics for experienced engineers who want to master `Nginx` as a high-performance reverse proxy, load balancer, and web server. Topics include reverse proxy configuration, load balancing algorithms, caching strategies, rate limiting, `SSL/TLS` termination, Lua scripting with OpenResty, performance tuning, and high availability setups. Students will gain the skills needed to architect and manage production-grade `Nginx` deployments.
+This course covers advanced `Nginx` topics for experienced engineers who want to master `Nginx` as a high-performance reverse proxy, load balancer, and web server. Topics include reverse proxy configuration, load balancing algorithms, caching strategies, rate limiting, `SSL/TLS` termination, `Lua` scripting with OpenResty, performance tuning, and high availability setups. Students will gain the skills needed to architect and manage production-grade `Nginx` deployments.
 
 ## Duration
 16 hours / 2 days
@@ -40,7 +40,7 @@ This course covers advanced `Nginx` topics for experienced engineers who want to
 * Design and deploy caching strategies to improve application performance.
 * Set up rate limiting and request throttling to protect backend services.
 * Configure `SSL/TLS` termination and hardened security settings.
-* Extend `Nginx` functionality using Lua scripting with OpenResty.
+* Extend `Nginx` functionality using `Lua` scripting with OpenResty.
 * Tune `Nginx` for high performance under heavy traffic loads.
 * Architect high availability `Nginx` deployments.
 
@@ -73,13 +73,13 @@ This course covers advanced `Nginx` topics for experienced engineers who want to
 * `SSL/TLS` Termination:
     * Certificate management and configuration.
     * `TLS` protocol and cipher suite selection.
-    * OCSP stapling and session resumption.
+    * `OCSP` stapling and session resumption.
     * `HTTP`/2 and `HTTP`/3 configuration.
 <!-- chapter: lua-scripting-with-openresty, duration: 2h -->
-* Lua Scripting with OpenResty:
-    * Introduction to OpenResty and the Lua module.
-    * Request and response manipulation with Lua.
-    * Accessing external services from Lua.
+* `Lua` Scripting with OpenResty:
+    * Introduction to OpenResty and the `Lua` module.
+    * Request and response manipulation with `Lua`.
+    * Accessing external services from `Lua`.
     * Authentication and authorization logic.
 <!-- chapter: performance-tuning, duration: 2h -->
 * Performance Tuning:

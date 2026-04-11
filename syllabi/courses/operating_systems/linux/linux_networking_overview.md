@@ -72,7 +72,7 @@ device driver itself. It also teaching about other technologies that have an int
     * Low level tools: ethtool, mii-tool, `arp`
     * Configuration tools: `ifconfig`, `ip`, `ifup`/`ifdown`, route, iwconfig, iwlist, iwpriv
     * performance tools: jnettop, netperf, lnstat rtmon rtstat nstat rtacct routef routel ctstat
-    * Tapping tools: nc, netcat, `tcpdump`, `wireshark`
+    * Tapping tools: nc, `netcat`, `tcpdump`, `wireshark`
     * Quality control: tc
     * Debugging tools: telnet, `ping`, `traceroute`, `nmap`
 <!-- chapter: linux-module-primer, duration: 2h -->

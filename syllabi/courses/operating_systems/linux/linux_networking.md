@@ -82,7 +82,7 @@ administration levels.
         * lnstat rtmon rtstat nstat rtacct routef routel ctstat
     * Tapping tools
         * nc
-        * netcat
+        * `netcat`
         * `tcpdump`
         * `wireshark`
     * Debugging tools:

@@ -105,7 +105,7 @@ dependency vulnerability scanning, and serialization security.
 * Dependency Vulnerability Scanning
     * Supply chain security risks
     * `OWASP` Dependency-`Check`
-    * Snyk and other scanning tools
+    * `Snyk` and other scanning tools
     * CVE databases and vulnerability tracking
     * Automated scanning in `CI/CD` pipelines
     * Dependency update strategies

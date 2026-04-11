@@ -78,7 +78,7 @@ Cryptography is the foundation of modern information security. This course provi
     * `RSA` algorithm, key generation, and key sizes
     * Elliptic Curve Cryptography (ECC) and curve selection
     * Diffie-Hellman key exchange protocol
-    * Elliptic Curve Diffie-Hellman (ECDH)
+    * Elliptic Curve Diffie-Hellman (`ECDH`)
     * Hybrid encryption (combining symmetric and asymmetric)
     * Performance comparison of asymmetric algorithms
 <!-- chapter: hash-functions, duration: 1h -->
@@ -90,9 +90,9 @@ Cryptography is the foundation of modern information security. This course provi
     * Hash function use cases (integrity, fingerprinting, commitments)
     * Birthday attacks and hash length considerations
 <!-- chapter: macs-and-hmac, duration: 1h -->
-* MACs and HMAC
+* MACs and `HMAC`
     * Message Authentication Codes concept
-    * HMAC construction and security properties
+    * `HMAC` construction and security properties
     * CMAC and GMAC alternatives
     * Authenticated encryption with associated data (AEAD)
     * `AES`-GCM and ChaCha20-Poly1305 as AEAD constructions
@@ -101,7 +101,7 @@ Cryptography is the foundation of modern information security. This course provi
 * Digital Signatures
     * Digital signature concepts and use cases
     * `RSA` signatures (`PKCS#1 v1.5`, PSS)
-    * ECDSA (Elliptic Curve Digital Signature Algorithm)
+    * `ECDSA` (Elliptic Curve Digital Signature Algorithm)
     * EdDSA and Ed25519 signatures
     * Signature verification and trust models
     * Code signing and document signing applications
@@ -111,7 +111,7 @@ Cryptography is the foundation of modern information security. This course provi
     * Diffie-Hellman key exchange in detail
     * Authenticated key exchange protocols
     * Forward secrecy and ephemeral keys
-    * Key derivation functions (HKDF, PBKDF2)
+    * Key derivation functions (`HKDF`, `PBKDF2`)
     * Key agreement vs key transport
 <!-- chapter: tls-ssl-protocol, duration: 2h -->
 * `TLS`/`SSL` Protocol
@@ -128,7 +128,7 @@ Cryptography is the foundation of modern information security. This course provi
     * `X.509` certificate structure and fields
     * Certificate Authorities (`CA`) and trust chains
     * Certificate signing requests (CSR)
-    * Certificate revocation (CRL, OCSP)
+    * Certificate revocation (CRL, `OCSP`)
     * `Let's Encrypt` and automated certificate management
     * Certificate pinning and its trade-offs
 <!-- chapter: key-management, duration: 2h -->

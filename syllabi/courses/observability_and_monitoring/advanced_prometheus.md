@@ -15,7 +15,7 @@ audience:
 # Advanced `Prometheus`
 
 ## Description
-This advanced course takes participants beyond the basics of `Prometheus` into production-grade monitoring and observability. The course covers PromQL in depth, recording and alerting rules with Alertmanager, federation, remote storage backends such as Thanos, Cortex, and Mimir, service discovery, relabeling, and high availability configurations. Participants will gain the skills needed to operate `Prometheus` at scale with confidence.
+This advanced course takes participants beyond the basics of `Prometheus` into production-grade monitoring and observability. The course covers PromQL in depth, recording and alerting rules with `Alertmanager`, federation, remote storage backends such as Thanos, Cortex, and Mimir, service discovery, relabeling, and high availability configurations. Participants will gain the skills needed to operate `Prometheus` at scale with confidence.
 
 ## Duration
 16 hours / 2 days
@@ -34,7 +34,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 ## Objectives
 * Write complex PromQL queries for advanced analysis and troubleshooting.
 * Design and implement recording rules for performance optimization.
-* Configure Alertmanager with routing, grouping, and notification pipelines.
+* Configure `Alertmanager` with routing, grouping, and notification pipelines.
 * Set up `Prometheus` federation for multi-cluster monitoring.
 * Integrate remote write/read for long-term storage solutions.
 * Implement high availability and capacity planning for `Prometheus` deployments.
@@ -57,14 +57,14 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
     * Rule group evaluation
     * Using recording rules for dashboards
 <!-- chapter: alerting-rules-and-alertmanager, duration: 2h -->
-* Alerting Rules and Alertmanager
+* Alerting Rules and `Alertmanager`
     * Alerting rule syntax and evaluation
     * Alert states and lifecycle
-    * Alertmanager architecture
+    * `Alertmanager` architecture
     * Routing tree configuration
     * Grouping, inhibition, and silencing
     * Notification receivers (email, `Slack`, `PagerDuty`, webhooks)
-    * Alertmanager high availability
+    * `Alertmanager` high availability
     * Alert template customization
 <!-- chapter: federation, duration: 1h -->
 * Federation
@@ -112,7 +112,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 * High Availability
     * `Prometheus` HA pair configurations
     * Deduplication strategies
-    * Alertmanager clustering
+    * `Alertmanager` clustering
     * Cross-region monitoring
     * Failover and recovery procedures
 <!-- chapter: capacity-planning, duration: 2h -->

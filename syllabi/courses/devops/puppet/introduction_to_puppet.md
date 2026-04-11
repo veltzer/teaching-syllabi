@@ -35,7 +35,7 @@ allows them to start working with it.
 * Create your own custom functions to be used within `Puppet`
 * Learn how to use Facter
 * Use Hiera to define and use data sources.
-* Use rspec in order to test that their manifests are correct.
+* Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
 <!-- chapter: from-zero-to-puppet, duration: 1h -->

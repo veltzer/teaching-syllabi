@@ -11,28 +11,28 @@ audience:
   - audiences:developers
 ---
 <!-- course: advanced_elixir -->
-# Advanced Elixir & `OTP`
+# Advanced `Elixir` & `OTP`
 
 ## Description
-This advanced course takes experienced Elixir developers deeper into `OTP` patterns, distributed systems, `Phoenix LiveView`, and advanced Ecto techniques. Participants will learn to design robust supervision trees, build distributed Elixir clusters, create real-time user interfaces with LiveView, optimize database interactions with advanced Ecto patterns, write comprehensive tests, and package applications as production releases. The course includes hands on exercises.
+This advanced course takes experienced `Elixir` developers deeper into `OTP` patterns, distributed systems, `Phoenix LiveView`, and advanced Ecto techniques. Participants will learn to design robust supervision trees, build distributed `Elixir` clusters, create real-time user interfaces with LiveView, optimize database interactions with advanced Ecto patterns, write comprehensive tests, and package applications as production releases. The course includes hands on exercises.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* Elixir developers who want to master `OTP` and build production-grade systems.
+* `Elixir` developers who want to master `OTP` and build production-grade systems.
 * Engineers building distributed, fault-tolerant applications on the BEAM VM.
 * Developers who want to leverage `Phoenix LiveView` and advanced Ecto for real-world applications.
 
 ## Prerequisites
-* `Solid` experience with Elixir programming and functional programming concepts.
+* `Solid` experience with `Elixir` programming and functional programming concepts.
 * Understanding of basic `OTP` patterns including GenServer and supervisors.
 * Familiarity with Phoenix and Ecto fundamentals.
 
 ## Objectives
 * Design and implement complex GenServer patterns for production systems
 * Build fault-tolerant supervision trees with advanced strategies
-* Develop distributed Elixir applications across multiple nodes
+* Develop distributed `Elixir` applications across multiple nodes
 * Create real-time interactive applications with `Phoenix LiveView`
 * Apply advanced Ecto techniques for complex data access patterns
 * Write comprehensive tests and build production releases
@@ -57,7 +57,7 @@ This advanced course takes experienced Elixir developers deeper into `OTP` patte
     * Restart intensity and backoff strategies
     * Graceful shutdown patterns
 <!-- chapter: distributed-elixir, duration: 3h -->
-* Distributed Elixir
+* Distributed `Elixir`
     * Connecting BEAM nodes and clustering
     * libcluster for automatic cluster formation
     * Distributed process registries with Horde
@@ -86,7 +86,7 @@ This advanced course takes experienced Elixir developers deeper into `OTP` patte
     * Database views and materialized views
     * Advisory locks and pessimistic locking
 <!-- chapter: testing-advanced-elixir, duration: 3h -->
-* Testing Advanced Elixir
+* Testing Advanced `Elixir`
     * Testing GenServer and `OTP` processes
     * Property-based testing with StreamData
     * Testing distributed systems
