@@ -26,14 +26,15 @@ jobs:
       run: |
         gh release download --repo veltzer/rsconstruct --pattern 'rsconstruct-linux-x86_64' --output /usr/local/bin/rsconstruct
         chmod +x /usr/local/bin/rsconstruct
+        rsconstruct version
       env:
         GH_TOKEN: ${{ github.token }}
     - name: install
       run: |
-        rsconstruct tools install --yes
         rsconstruct tools install-deps --yes
+        rsconstruct tools install --yes
     - name: build
-      run: rsconstruct build --verbose -j2
+      run: rsconstruct build
     - name: status
       run: rsconstruct status
     - uses: actions/upload-pages-artifact@v3
