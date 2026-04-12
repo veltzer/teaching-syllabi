@@ -71,7 +71,7 @@ input_globs = [
     "_site/courses/**/*.html",
     "_site/tracks/*.html",
 ]
-output_dirs = [ "_site" ]
+output_dirs = ["_site"]
 [processor.luacheck]
 src_dirs = ["config", "resources"]
 
