@@ -1,6 +1,10 @@
 name: build
 on: push
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   pages: write
   id-token: write
@@ -15,9 +19,13 @@ jobs:
     - uses: actions/setup-python@v6
       with:
         cache: pip
+        python-version: '3.x'
     - uses: actions/setup-node@v6
       with:
         cache: npm
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.3'
     - uses: actions/cache@v5
       with:
         path: .rsconstruct
@@ -37,5 +45,5 @@ jobs:
       run: rsconstruct build
     - name: status
       run: rsconstruct status
-    - uses: actions/upload-pages-artifact@v3
+    - uses: actions/upload-pages-artifact@v4
     - uses: actions/deploy-pages@v5
