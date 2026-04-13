@@ -148,7 +148,7 @@ Chapter IDs correspond to `<!-- chapter: chapter-id -->` comments in course mark
 It runs in batch mode:
 
 ```bash
-python3 scripts/build_tracks.py source1.yaml target1.md [source2.yaml target2.md ...]
+scripts/build_tracks.py source1.yaml target1.md [source2.yaml target2.md ...]
 ```
 
 The script:
