@@ -1,5 +1,5 @@
 [dependencies]
-pip = ["types-PyYAML", "demjson3"]
+pip = ["pyyaml", "types-PyYAML", "demjson3"]
 system = ["texlive-latex-recommended"]
 
 [processor.tera]
