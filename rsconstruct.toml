@@ -2,6 +2,8 @@
 pip = ["pyyaml", "types-PyYAML", "demjson3"]
 system = ["texlive-latex-recommended"]
 
+[analyzer.tera]
+
 [processor.tera]
 dep_inputs = [
     "config/project.lua",

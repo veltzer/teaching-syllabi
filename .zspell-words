@@ -44,11 +44,13 @@ asm
 aspnet
 ast
 async
+asynchrony
 asyncapi
 audioflinger
 audiopolicy
 auditability
 autocomplete
+autoscaling
 autosar
 autovacuum
 aws
@@ -201,6 +203,8 @@ declaratively
 decompilation
 decompile
 decompilers
+dedup
+deduplication
 denormalization
 dependabot
 deserializer
@@ -491,6 +495,7 @@ kvaser
 kyverno
 labelling
 lakehouse
+lakehouses
 laravel
 lcp
 ld
@@ -506,6 +511,7 @@ linuxvmimages
 lippman
 liquibase
 liskov
+livelocks
 liveview
 llamaindex
 lldb
@@ -747,6 +753,7 @@ rebase
 rebasing
 redis
 redoc
+refactorings
 reflog
 rehost
 replatform
@@ -816,6 +823,7 @@ sharded
 sharding
 sharedpreferences
 shellcodes
+showback
 shunit
 sidecarless
 sigfox
