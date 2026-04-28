@@ -61,6 +61,7 @@ backend
 backends
 backpropagation
 bazel
+bcc
 bcnf
 bcrypt
 bdd
@@ -615,6 +616,7 @@ nodetool
 nosql
 nrpe
 nullptr
+numa
 numpy
 nuxt
 oauth

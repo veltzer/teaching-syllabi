@@ -249,16 +249,15 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
     * Dynamic race detection
     * Lock-free debugging strategies
 
-<!-- chapter: timing-and-performance-bugs, duration: 2h -->
-* Timing and Performance Bugs
-    * Performance regression debugging
-    * Latency spike investigation
-    * `CPU` profiling with `perf`
-    * Cache miss analysis
-    * Lock contention analysis
-    * `I/O` bottleneck debugging
-    * Context switch debugging
-    * Interrupt and preemption issues
+<!-- chapter: timing-related-correctness-bugs, duration: 2h -->
+* Timing-related correctness bugs
+    * timeout and deadline drift
+    * monotonic vs wall-clock confusion
+    * signal delivery timing and reentrancy
+    * `select`/`poll`/`epoll` edge vs level surprises
+    * `time` jumps (`NTP`, suspend/resume) and their impact
+    * latency-induced bug classes vs true performance bottlenecks
+    * for systematic performance analysis see the `Linux` Performance Engineering course
 
 <!-- chapter: production-debugging-techniques, duration: 2h -->
 * Production Debugging Techniques
