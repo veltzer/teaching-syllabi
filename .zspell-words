@@ -21,6 +21,7 @@ amqp
 angularjs
 ansible
 anthos
+anycast
 aop
 api
 apis
@@ -118,6 +119,7 @@ cidr
 cim
 clfp
 clickhouse
+cloudflare
 cloudfoundry
 cloudnative
 cls
@@ -198,6 +200,7 @@ dbas
 dbt
 dbunit
 debois
+debuggable
 december
 declaratively
 decompilation
@@ -206,6 +209,7 @@ decompilers
 dedup
 deduplication
 denormalization
+denormalize
 dependabot
 deserializer
 destructors
@@ -266,6 +270,7 @@ esb
 etl
 eval
 evals
+ewma
 eventarc
 eventbridge
 explainability
@@ -307,6 +312,7 @@ fpgas
 freertos
 frida
 frontend
+frontrunning
 ftk
 ftrace
 fts
@@ -505,6 +511,7 @@ lemmatization
 libsodium
 lifecycle
 linddun
+linearizable
 linux
 linuxkernel
 linuxvmimages
@@ -751,10 +758,12 @@ rearchitect
 rebac
 rebase
 rebasing
+rebalancing
 redis
 redoc
 refactorings
 reflog
+reprocessable
 rehost
 replatform
 replicasets
@@ -771,6 +780,7 @@ rlhf
 rls
 rnns
 roadmap
+roadmaps
 roi
 rootfs
 rp
@@ -783,6 +793,7 @@ rto
 rtos
 rtt
 rtti
+runbook
 runbooks
 runtimes
 rvalue

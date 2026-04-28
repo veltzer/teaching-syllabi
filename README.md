@@ -12,6 +12,6 @@ website: [website](https://veltzer.github.io/teaching-syllabi)
 chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veltzer/mark.veltzer)
 ## Number of syllabi
 
-Currently there are 569 syllabi in this repo.
+Currently there are 589 syllabi in this repo.
 
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026
