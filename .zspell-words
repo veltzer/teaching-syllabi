@@ -215,6 +215,7 @@ deserializer
 destructors
 destructuring
 dev
+devex
 developintelligence
 devops
 devsecops
@@ -222,6 +223,7 @@ devstack
 diffie
 directrunner
 disassemblers
+discoverability
 django
 dma
 dmalloc
@@ -326,6 +328,7 @@ gatt
 gb
 gc
 gcc
+gcra
 gcloud
 gcp
 gcs
@@ -984,6 +987,8 @@ vue
 vxlan
 vxworks
 wal
+walkthrough
+walkthroughs
 wasi
 wasm
 watchos
@@ -1157,6 +1162,7 @@ uber
 untrusted
 upsert
 upserts
+upstreaming
 victoriametrics
 vpn
 weaviate
@@ -1169,3 +1175,9 @@ frontends
 pyspark
 unittest
 gru
+appsec
+gatekeeping
+genai
+appsec
+gatekeeping
+genai
