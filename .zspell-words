@@ -137,6 +137,7 @@ comptime
 config
 configmaps
 configs
+configurability
 const
 consteval
 constexpr
@@ -258,6 +259,8 @@ erlang
 errgroup
 esb
 etl
+eval
+evals
 eventarc
 eventbridge
 explainability
@@ -407,6 +410,7 @@ initializers
 inlining
 innodb
 installability
+instrumentations
 intellisense
 interop
 interpretability
@@ -622,6 +626,8 @@ oidc
 okta
 olap
 ollydbg
+offboard
+offboarding
 olm
 onboarding
 onnx
@@ -1105,6 +1111,7 @@ pytest
 qdrant
 reentrancy
 replayability
+rollout
 rollouts
 rollup
 saas
