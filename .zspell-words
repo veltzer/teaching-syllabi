@@ -48,6 +48,7 @@ argo
 argocd
 arima
 arp
+artefact
 artefacts
 asan
 asics
@@ -78,6 +79,7 @@ axum
 az
 backend
 backends
+backpressure
 backpropagation
 bazel
 bcc
@@ -105,6 +107,7 @@ bootloader
 bootloaders
 boto
 bpftrace
+breakpoint
 brin
 bruce
 bryla
@@ -164,6 +167,7 @@ codebase
 codebases
 codegen
 combinational
+comms
 completablefuture
 composable
 comptime
@@ -177,6 +181,7 @@ constexpr
 containerfile
 containerisation
 convolutional
+conway
 corosync
 coroutines
 cors
@@ -194,6 +199,7 @@ cron
 crossguard
 crossplane
 crtp
+crypto
 csharp
 css
 csv
@@ -204,6 +210,7 @@ ctor
 customisation
 customise
 customizable
+cutover
 cve
 cves
 cy
@@ -281,6 +288,7 @@ dotfiles
 dotnet
 douglass
 downsampling
+downstreams
 dpas
 dpdk
 dpo
@@ -330,6 +338,7 @@ eventbridge
 evm
 ewma
 executables
+exfiltration
 explainability
 exploitability
 extjs
@@ -432,6 +441,7 @@ gradle
 grafana
 graphql
 gre
+groundedness
 grpc
 gru
 gsis
@@ -597,6 +607,7 @@ lifecycles
 linddun
 linearizable
 linkedin
+linkerd
 linux
 linuxkernel
 linuxvmimages
@@ -687,6 +698,7 @@ msbuild
 mtls
 mtu
 mtv
+multicast
 multiindex
 multimodal
 multiplatform
@@ -728,11 +740,13 @@ nixos
 nlp
 nmap
 nodetool
+nonces
 normalisation
 normalise
 nosql
 npm
 nrpe
+nsg
 nullptr
 numa
 numpy
@@ -831,6 +845,7 @@ prague
 pre
 preauthorize
 preemptible
+prefill
 preload
 preprocess
 preprocessing
@@ -878,9 +893,11 @@ readmes
 realloc
 rearchitect
 rebac
+rebalance
 rebalancing
 rebase
 rebasing
+redeliveries
 redis
 redoc
 reentrancy
@@ -894,6 +911,7 @@ repo
 repos
 reprocessable
 reranking
+resharding
 resnet
 reusability
 ripgrep
@@ -947,6 +965,7 @@ sconstruct
 scott
 scriptableobjects
 scrypt
+scylla
 scylladb
 sdk
 sdks
@@ -1079,6 +1098,7 @@ trustzone
 tryhackme
 tsan
 ttl
+turso
 tvos
 typeof
 typer
@@ -1094,11 +1114,13 @@ uis
 ulimit
 uml
 umts
+unicast
 unittest
 unix
 untrusted
 upsert
 upserts
+upstash
 upstreaming
 uptime
 uring
@@ -1113,6 +1135,7 @@ usestate
 uvicorn
 ux
 valgrind
+validators
 valim
 ve
 veltzer
@@ -1131,6 +1154,7 @@ vlissides
 vm
 vms
 volte
+vpc
 vpcs
 vpn
 vpns
@@ -1146,6 +1170,7 @@ wasm
 watchos
 weaviate
 webassembly
+webauthn
 webhook
 webhooks
 websocket
