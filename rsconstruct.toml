@@ -39,7 +39,7 @@ batch = true
 src_dirs = ["syllabi", "out/generator"]
 
 [processor.terms]
-terms_dir = "terms"
+terms_dir = "terms.single_meaning"
 src_dirs = ["syllabi", "out/generator"]
 
 [processor.stylelint]
