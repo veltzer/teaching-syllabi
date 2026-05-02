@@ -115,7 +115,7 @@ audience:
     * Strict mode and compiler options
     * Migrating a `JavaScript` project to `TypeScript`
     * `TypeScript` with `Node.js`
-    * `TypeScript` with `React`
+    * `TypeScript` with React
     * Linting with ESLint and `TypeScript`
     * Testing `TypeScript` code
 

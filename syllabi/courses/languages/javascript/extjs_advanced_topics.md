@@ -13,7 +13,7 @@ audience:
 # Extjs Advanced Topics
 
 ## Description
-This course covers advanced ExtJS topics including WebWorkers, custom widget development with DOM construction, the new `async` APIs, and the MVVM pattern introduced in ExtJS 6.0.
+This course covers advanced ExtJS topics including WebWorkers, custom widget development with DOM construction, the new async APIs, and the MVVM pattern introduced in ExtJS 6.0.
 
 ## Duration
 8 hours / 1 day
@@ -33,7 +33,7 @@ This course covers advanced ExtJS topics including WebWorkers, custom widget dev
 * understand the core concepts and principles of Extjs Advanced Topics
 * gain practical knowledge of WebWorkers in Extjs context or not.
 * gain practical knowledge of Custom widgets with DOM construction in Extjs.
-* gain practical knowledge of new `async` APIs in Extjs.
+* gain practical knowledge of new async APIs in Extjs.
 
 ## Outline
 <!-- chapter: webworkers-in-extjs-context-or-not, duration: 2h -->
@@ -41,7 +41,7 @@ This course covers advanced ExtJS topics including WebWorkers, custom widget dev
 <!-- chapter: custom-widgets-with-dom-construction-in-extjs, duration: 2h -->
 * Custom widgets with DOM construction in Extjs.
 <!-- chapter: new-async-apis-in-extjs, duration: 2h -->
-* new `async` APIs in Extjs.
+* new async APIs in Extjs.
 <!-- chapter: update-slides-for-extjs-6-0-including-mvvm, duration: 2h -->
 * update slides for Extjs 6.0 (including MVVM).
 

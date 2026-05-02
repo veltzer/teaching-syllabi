@@ -57,7 +57,7 @@ This course provides a deep dive into serverless computing on `Amazon Web Servic
 <!-- chapter: aws-lambda-core-concepts, duration: 1h -->
 * `AWS Lambda` - Core Concepts
     * `Lambda` execution model and lifecycle
-    * Supported runtimes (`Python`, `Node.js`, `Java`, `Go`, `.NET`)
+    * Supported runtimes (`Python`, `Node.js`, `Java`, Go, `.NET`)
     * Writing and deploying `Lambda` functions
     * Memory, timeout, and concurrency configuration
     * Environment variables and configuration management

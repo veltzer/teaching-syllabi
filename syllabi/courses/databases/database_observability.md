@@ -27,11 +27,11 @@ administration (`Postgres`, `MySQL`, `MongoDB`, etc.) and the general observabil
 
 This two day course covers database observability as its own engineering practice. It covers the
 canonical signals (queries, plans, locks, replication, IO, cache, connections, transactions, vacuum/GC),
-the instrumentation approach (`auto_explain`, `pg_stat_statements`, `Performance Schema`,
+the instrumentation approach (`auto_explain`, pg_stat_statements, `Performance Schema`,
 `MySQL Performance Insights`, `MongoDB Profiler`, `RDS Performance Insights`), the dashboard that
 matters, the alerts that page (and the ones that should not), the workflow of the on-call `DBA` or
 on-call developer, the relationship to `APM`, the cost of observability itself, and the patterns that
-`make` observability survive a database upgrade. Examples cover `Postgres`, `MySQL`, and `MongoDB`.
+`make` observability survive a database upgrade. Examples cover Postgres, `MySQL`, and `MongoDB`.
 Participants leave able to `make` their database observable enough to debug a real incident.
 
 ## Duration
@@ -80,7 +80,7 @@ Participants leave able to `make` their database observable enough to debug a re
     * `pg_stat_activity` for live state
     * `auto_explain` for slow plans
     * `pg_stat_replication` for replicas
-    * `pgwatch2`, `pgexporter`, `Datadog` integration
+    * `pgwatch2`, pgexporter, `Datadog` integration
     * the "we forgot to enable `pg_stat_statements`" reality
 <!-- chapter: mysql-observability, duration: 2h -->
 * `MySQL` observability

@@ -27,7 +27,7 @@ audience:
 * Anyone working with relational databases in their daily tasks
 
 ## Prerequisites
-* Basic understanding of computer systems and `file` organization
+* Basic understanding of computer systems and file organization
 * Familiarity with basic mathematical and logical concepts
 * Understanding of data concepts (what is data, records, fields)
 * Basic computer literacy and ability to use command-line interfaces
@@ -52,7 +52,7 @@ audience:
     * History and evolution of `SQL`
     * `SQL` standards (`SQL`-86, `SQL`-92, `SQL`:1999, `SQL`:2003, `SQL`:2016)
     * Database concepts and relational model
-    * Database Management Systems (`MySQL`, `PostgreSQL`, `SQL Server`, `Oracle`)
+    * Database Management Systems (`MySQL`, `PostgreSQL`, `SQL Server`, Oracle)
     * Setting up the development environment
     * Database client tools and interfaces
     * First query: SELECT statement
@@ -130,7 +130,7 @@ audience:
     * Regular expressions in `SQL`
     * `JSON` data handling
     * `Array` and `XML` operations
-    * `Temporal` tables and versioning
+    * Temporal tables and versioning
 <!-- chapter: performance-and-optimization, duration: 2h -->
 * Performance and Optimization
     * Query execution plans

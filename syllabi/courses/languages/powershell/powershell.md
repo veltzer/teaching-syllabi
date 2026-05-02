@@ -33,12 +33,12 @@ The course includes hands on exercises.
 * Developers building automation scripts for `Windows` or cross-platform environments.
 
 ## Prerequisites
-* Basic familiarity with a command-line interface (`Windows` Command Prompt, `Bash`, or similar).
-* Understanding of fundamental IT concepts (`file` systems, processes, networking basics).
+* Basic familiarity with a command-line interface (`Windows` Command Prompt, Bash, or similar).
+* Understanding of fundamental IT concepts (file systems, processes, networking basics).
 * No prior scripting experience is required.
 
 ## Required Knowledge
-* `Bash` Scripting (or equivalent experience)
+* Bash Scripting (or equivalent experience)
 
 ## Objectives
 * Navigate and use the `PowerShell` console and ISE/`VS Code` effectively
@@ -118,7 +118,7 @@ The course includes hands on exercises.
     * Debugging with Set-PSBreakpoint and Write-Debug
 <!-- chapter: file-system-and-registry-operations, duration: 2h -->
 * `File` System and Registry Operations
-    * Navigating the `file` system with `PowerShell` providers
+    * Navigating the file system with `PowerShell` providers
     * Creating, reading, writing, and deleting files
     * Working with `CSV`, `XML`, and `JSON` files
     * `File` permissions and `ACLs`

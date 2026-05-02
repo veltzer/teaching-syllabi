@@ -29,7 +29,7 @@ This five day course covers `TBD` end to end. It covers the idea (small, frequen
 shared trunk), the practices that `make` it work (feature flags, branch by abstraction, expand-and-contract,
 automated tests at every change), the `CI` pipeline architecture that supports it, the migration story from
 `GitFlow` or release-branch workflows, and the cultural and organizational implications. Examples are drawn
-from `Google`, `Facebook`, `Etsy`, `Stripe` and `LinkedIn`. Participants leave able to introduce or stabilize
+from `Google`, Facebook, Etsy, Stripe and `LinkedIn`. Participants leave able to introduce or stabilize
 trunk-based development on their own teams and to design the `CI` discipline that backs it.
 
 ## Duration
@@ -37,7 +37,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
 
 ## Intended Audience
 * developers and tech leads adopting or stabilizing trunk-based development
-* `DevOps` engineers building the `CI` pipeline that `TBD` requires
+* `DevOps` engineers building the CI pipeline that `TBD` requires
 * engineering managers driving a workflow change
 * architects whose system design enables or blocks `TBD`
 * engineers stuck in `GitFlow` and wondering why everything is hard
@@ -71,7 +71,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
     * release branches and the merge nightmare
     * code review delay and stale review
     * `GitHub Flow`, `GitLab Flow`, `OneFlow` as middle grounds
-    * recognizing `when` `GitFlow` is actually right
+    * recognizing when `GitFlow` is actually right
 <!-- chapter: short-lived-branches-and-direct-to-trunk, duration: 3h -->
 * Short-lived branches and direct-to-trunk
     * the under-a-day branch lifetime
@@ -107,7 +107,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
     * cross-reference to the `API` Evolution course
 <!-- chapter: continuous-integration-the-discipline, duration: 3h -->
 * Continuous integration: the discipline
-    * the original `XP` definition (`Beck`, `Fowler`)
+    * the original `XP` definition (Beck, `Fowler`)
     * commit at least daily
     * green trunk as a non-negotiable
     * fixing the build before anything else
@@ -126,7 +126,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
     * recognizing build-time creep
     * test selection and impact analysis
     * flaky tests as a build-speed problem
-    * `bazel`, `nx`, `turborepo` for incremental builds
+    * `bazel`, nx, `turborepo` for incremental builds
     * test parallelization at scale
     * caching artifacts across `CI` runs
 <!-- chapter: handling-flaky-tests, duration: 2h -->
@@ -169,7 +169,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
     * common reasons migrations fail
 <!-- chapter: case-studies-and-anti-patterns, duration: 2h -->
 * Case studies and anti-patterns
-    * `Google`, `Facebook` and `Etsy` `TBD` rollouts
+    * `Google`, Facebook and Etsy `TBD` rollouts
     * "trunk-based development" by name only
     * the perpetually red trunk
     * the team that flagged everything but never cleaned up

@@ -57,7 +57,7 @@ Hands-on lab exercises covering installation, configuration, backup and recovery
     * Installing `PostgreSQL` on `Linux` and other platforms
     * Package managers vs source compilation
     * initdb and cluster initialization
-    * Directory structure and `file` layout
+    * Directory structure and file layout
     * `postgresql`.conf key parameters
     * pg_hba.conf configuration
     * pg_ctl and `systemd` integration

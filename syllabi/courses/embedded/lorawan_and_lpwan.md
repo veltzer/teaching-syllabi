@@ -28,7 +28,7 @@ This course provides a comprehensive exploration of Low-Power Wide-Area Network 
 ## Prerequisites
 * Basic understanding of wireless communication concepts
 * Familiarity with embedded development (microcontrollers, `GPIO`, serial interfaces)
-* Experience with at least one programming language (`C`, `C++`, `Python`, or Arduino)
+* Experience with at least one programming language (C, `C++`, `Python`, or Arduino)
 * General awareness of IoT concepts and use cases
 
 ## Required Knowledge
@@ -76,7 +76,7 @@ This course provides a comprehensive exploration of Low-Power Wide-Area Network 
 * Device Classes
     * Class A: baseline, lowest power
     * Class B: beacon-synchronized receive `windows`
-    * Class `C`: continuous receive, lowest latency
+    * Class C: continuous receive, lowest latency
     * Choosing the right class for your application
     * Power consumption implications of each class
 <!-- chapter: activation-methods, duration: 1h -->

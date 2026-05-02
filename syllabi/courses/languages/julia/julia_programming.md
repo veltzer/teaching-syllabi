@@ -11,15 +11,15 @@ audience:
   - audiences:data-scientists
 ---
 <!-- course: julia_programming -->
-# `Julia` Programming
+# Julia Programming
 
 ## Description
-`Julia` is a high-level, high-performance programming language designed for technical computing.
-It combines the ease of use of `Python` with the speed of `C`, making it ideal for scientific
-computing, data science, and `machine learning`. This course covers `Julia` from its fundamentals
+Julia is a high-level, high-performance programming language designed for technical computing.
+It combines the ease of use of `Python` with the speed of C, making it ideal for scientific
+computing, data science, and `machine learning`. This course covers Julia from its fundamentals
 through advanced topics including its powerful type system, multiple dispatch, metaprogramming,
 parallel and `GPU` computing, and the rich ecosystem of packages for data analysis and machine
-learning. Students will learn to write performant, idiomatic `Julia` code and leverage the
+learning. Students will learn to write performant, idiomatic Julia code and leverage the
 language's unique strengths.
 The course includes hands on exercises.
 
@@ -28,11 +28,11 @@ The course includes hands on exercises.
 
 ## Intended Audience
 * Developers looking to adopt a high-performance language for technical computing.
-* Data scientists seeking a faster alternative to `Python` or `R`.
+* Data scientists seeking a faster alternative to `Python` or R.
 * Researchers and engineers working on numerical simulation, optimization, or `machine learning`.
 
 ## Prerequisites
-* Programming experience in at least one language such as `Python`, `MATLAB`, `R`, or `C`.
+* Programming experience in at least one language such as `Python`, `MATLAB`, R, or C.
 * Basic understanding of linear algebra and statistics is helpful.
 * Familiarity with command-line interfaces.
 
@@ -40,20 +40,20 @@ The course includes hands on exercises.
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
-* Write idiomatic and performant `Julia` code
+* Write idiomatic and performant Julia code
 * Leverage multiple dispatch and the type system effectively
 * Use metaprogramming to generate efficient code
-* Perform parallel and `GPU` computing in `Julia`
+* Perform parallel and `GPU` computing in Julia
 * Work with data using DataFrames.jl and visualization libraries
 * Build `machine learning` models with `Flux`.jl
-* Create and publish `Julia` packages
+* Create and publish Julia packages
 
 ## Outline
 <!-- chapter: getting-started-with-julia, duration: 2h -->
-* Getting Started with `Julia`
-    * What is `Julia` and why use it?
+* Getting Started with Julia
+    * What is Julia and why use it?
     * Installation and environment setup
-    * The `Julia` REPL and workflow
+    * The Julia REPL and workflow
     * Variables, expressions, and basic types
     * Strings and string interpolation
     * Control flow: if/else, for, while
@@ -91,7 +91,7 @@ The course includes hands on exercises.
     * Macros: definition and usage
     * Generated functions
     * Code introspection (@code_lowered, @code_native)
-    * Common macros and `when` to use metaprogramming
+    * Common macros and when to use metaprogramming
 <!-- chapter: modules-and-packages, duration: 2h -->
 * Modules and Packages
     * Modules: definition, export, and import
@@ -105,7 +105,7 @@ The course includes hands on exercises.
     * `File` `I/O` (text and binary)
     * `CSV`.jl for tabular data
     * `JSON`.jl and `YAML`.jl
-    * JLD2.jl for `Julia`-native serialization
+    * JLD2.jl for Julia-native serialization
     * Working with databases
     * `HTTP` and web requests
 <!-- chapter: performance-tips-and-optimization, duration: 2h -->
@@ -115,7 +115,7 @@ The course includes hands on exercises.
     * Profiling and identifying bottlenecks
     * Memory allocation and avoiding allocations
     * Performance annotations (@inbounds, @simd, @fastmath)
-    * Writing `C`-speed `Julia` code
+    * Writing C-speed Julia code
 <!-- chapter: parallel-and-distributed-computing, duration: 2h -->
 * Parallel and Distributed Computing
     * Multithreading with Threads.@threads
@@ -132,7 +132,7 @@ The course includes hands on exercises.
     * `Array` operations on the `GPU`
     * Performance considerations for `GPU` code
 <!-- chapter: data-science-with-julia, duration: 2h -->
-* Data Science with `Julia`
+* Data Science with Julia
     * DataFrames.jl: creating and manipulating data frames
     * Data transformation and aggregation
     * Split-apply-combine operations
@@ -154,15 +154,15 @@ The course includes hands on exercises.
     * Common architectures (dense, convolutional, recurrent)
 <!-- chapter: interoperability, duration: 2h -->
 * Interoperability
-    * Calling `C` and `Fortran` from `Julia`
-    * PyCall.jl: calling `Python` from `Julia`
-    * RCall.jl: calling `R` from `Julia`
+    * Calling C and `Fortran` from Julia
+    * PyCall.jl: calling `Python` from Julia
+    * RCall.jl: calling R from Julia
     * Wrapping external libraries
 <!-- chapter: testing-and-package-development, duration: 2h -->
 * Testing and Package Development
     * Unit testing with Test standard library
     * Test sets and test organization
-    * Continuous integration for `Julia` packages
+    * Continuous integration for Julia packages
     * Documentation with Documenter.jl
     * Package development workflow
     * Publishing to the General registry

@@ -21,7 +21,7 @@ patch-based approach. This one-day course teaches participants how to structure 
 bases and overlays to manage environment-specific configuration (development, staging,
 production) from a single source of truth. Participants will learn how to apply strategic
 merge patches and `JSON6902` patches, generate `ConfigMaps` and `Secrets` from files and
-literals, and compose `Helm` charts with `Kustomize` post-rendering. The course ends with
+literals, and compose Helm charts with `Kustomize` post-rendering. The course ends with
 practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOps` workflows.
 
 ## Duration
@@ -33,32 +33,32 @@ practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOp
 * Teams adopting `GitOps` tooling such as `Flux` or `ArgoCD`.
 
 ## Prerequisites
-* Working knowledge of `Kubernetes` resources: `Deployment`, `Service`, `ConfigMap`, `Secret`.
+* Working knowledge of `Kubernetes` resources: Deployment, Service, ConfigMap, `Secret`.
 * Comfortable writing and editing `YAML` files.
 * Basic familiarity with `Git` and pull-request workflows.
 * `kubectl` installed and configured against a `Kubernetes` cluster.
 
 ## Objectives
-* Understand the `Kustomize` philosophy and how it differs from `Helm` templating.
+* Understand the `Kustomize` philosophy and how it differs from Helm templating.
 * Build reusable base configurations and environment-specific overlays.
 * Apply strategic merge patches and `JSON6902` patches to customize resources.
 * Generate `ConfigMaps` and `Secrets` dynamically with built-in generators.
-* Combine `Helm` chart rendering with `Kustomize` post-render hooks.
+* Combine Helm chart rendering with `Kustomize` post-render hooks.
 * Integrate `Kustomize` into automated deployment pipelines and `GitOps` tools.
 
 ## Outline
 <!-- chapter: introduction-to-kustomize, duration: 1h -->
 * Introduction to `Kustomize`
     * Why configuration management matters for `Kubernetes`
-    * `Kustomize` vs. `Helm`: templating vs. patching philosophies
+    * `Kustomize` vs. Helm: templating vs. patching philosophies
     * `kustomize` `CLI` and `kubectl` built-in integration
-    * The `kustomization.yaml` `file`: structure and required fields
+    * The `kustomization.yaml` file: structure and required fields
 
 <!-- chapter: kustomize-structure-and-bases, duration: 2h -->
 * `Kustomize` Structure and Bases
     * Designing a base directory with shared `Kubernetes` manifests
     * Referencing remote bases from `Git` URLs
-    * Common field transformers: `namePrefix`, `nameSuffix`, `namespace`, `labels`
+    * Common field transformers: `namePrefix`, nameSuffix, namespace, `labels`
     * Image transformers for managing container image tags across environments
 
 <!-- chapter: patches-and-overlays, duration: 2h -->
@@ -76,11 +76,11 @@ practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOp
     * Managing sensitive values without committing them to `Git`
 
 <!-- chapter: helm-charts-with-kustomize, duration: 1h -->
-* `Helm` Charts with `Kustomize`
-    * `helmCharts` field: rendering `Helm` charts as `Kustomize` bases
-    * Post-render patching of `Helm`-generated manifests
+* Helm Charts with `Kustomize`
+    * `helmCharts` field: rendering Helm charts as `Kustomize` bases
+    * Post-render patching of Helm-generated manifests
     * Inflating charts locally vs. using remote chart repositories
-    * Tradeoffs of combining `Helm` and `Kustomize`
+    * Tradeoffs of combining Helm and `Kustomize`
 
 <!-- chapter: kustomize-in-ci-cd-pipelines, duration: 1h -->
 * `Kustomize` in `CI/CD` Pipelines

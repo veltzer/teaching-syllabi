@@ -14,20 +14,20 @@ audience:
 # Next.js Development
 
 ## Description
-This course provides a thorough guide to building modern web applications with Next.js and the App Router architecture. Students will learn `React` Server Components, advanced routing patterns, data fetching strategies, rendering techniques (SSR, SSG, ISR, streaming), authentication, styling, and deployment. The course emphasizes building production-grade applications with optimal performance and developer experience.
+This course provides a thorough guide to building modern web applications with Next.js and the App Router architecture. Students will learn React Server Components, advanced routing patterns, data fetching strategies, rendering techniques (SSR, SSG, ISR, streaming), authentication, styling, and deployment. The course emphasizes building production-grade applications with optimal performance and developer experience.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* `React` developers looking to build full-stack, production-grade applications
+* React developers looking to build full-stack, production-grade applications
 * Frontend developers who want to leverage server-side rendering and static generation
 * Full-stack `JavaScript` or `TypeScript` developers building modern web platforms
-* Software engineers transitioning from client-side `React` to server-rendered architectures
+* Software engineers transitioning from client-side React to server-rendered architectures
 * Backend developers looking to understand modern frontend deployment patterns
 
 ## Prerequisites
-* `Solid` understanding of `React` fundamentals (components, hooks, state, props)
+* `Solid` understanding of React fundamentals (components, hooks, state, props)
 * Proficiency in `JavaScript` (`ES6`+) and basic `TypeScript` knowledge
 * Familiarity with `npm` or `yarn` package managers
 * Understanding of `HTTP` protocol, `REST APIs`, and web fundamentals
@@ -36,12 +36,12 @@ This course provides a thorough guide to building modern web applications with N
 
 ## Required Knowledge
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
-* `React` (or equivalent experience)
+* React (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
-* Understand the Next.js App Router architecture and `React` Server Components
-* Implement `file`-based, dynamic, parallel, and intercepting routes
+* Understand the Next.js App Router architecture and React Server Components
+* Implement file-based, dynamic, parallel, and intercepting routes
 * Apply rendering strategies including SSR, SSG, ISR, and streaming
 * Fetch data using server actions, the fetch `API`, caching, and revalidation
 * Distinguish between server and client components and use each appropriately
@@ -57,7 +57,7 @@ This course provides a thorough guide to building modern web applications with N
     * Overview of Next.js and its evolution
     * The App Router architecture and directory conventions
     * Creating a Next.js project and project structure
-    * `React` Server Components vs client components
+    * React Server Components vs client components
     * The `"use client"` and `"use server"` directives
     * Development server, hot reloading, and Turbopack
     * `TypeScript` configuration and support
@@ -120,7 +120,7 @@ This course provides a thorough guide to building modern web applications with N
 <!-- chapter: testing-and-internationalization, duration: 3h -->
 * Testing and Internationalization
     * Testing strategies for Next.js applications
-    * Unit testing components with `Jest` and `React Testing Library`
+    * Unit testing components with Jest and `React Testing Library`
     * Testing server components and server actions
     * End-to-end testing with `Playwright`
     * Internationalization and locale routing

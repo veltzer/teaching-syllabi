@@ -35,14 +35,14 @@ Key topics:
 * Experienced embedded/real time engineers who wish to gain a deeper understanding of the field.
 
 ## Prerequisites
-* Working knowledge of `C`/`C++`
+* Working knowledge of C/`C++`
 * Some knowledge of Embedded/Real Time programming
 
 ## Objectives
 * understand the core concepts and principles of `Design Patterns` for Embedded and Real Time Systems
 * gain practical knowledge of Overview
 * gain practical knowledge of Languages
-* gain practical knowledge of Implementing Object Oriented Concepts with `C`
+* gain practical knowledge of Implementing Object Oriented Concepts with C
 
 ## Outline
 <!-- chapter: overview, duration: 2h -->
@@ -52,11 +52,11 @@ Key topics:
     * Patterns examples
 <!-- chapter: languages, duration: 2h -->
 * Languages
-    * `C` pitfalls
+    * C pitfalls
     * `C++` in embedded and real time systems
     * Embedded `C++` specifications
 <!-- chapter: implementing-object-oriented-concepts-with-c, duration: 2h -->
-* Implementing Object Oriented Concepts with `C`
+* Implementing Object Oriented Concepts with C
     * Classes
     * Inheritance
     * Polymorphism

@@ -26,7 +26,7 @@ This course teaches developers how to build, deploy, and manage applications on 
 * `DevOps` engineers who want to understand `GCP` developer services and `CI/CD` tooling.
 
 ## Prerequisites
-* Experience in at least one programming language (`Python`, `Go`, or `Node.js` recommended).
+* Experience in at least one programming language (`Python`, Go, or `Node.js` recommended).
 * Basic understanding of cloud concepts and containerization.
 * Familiarity with command-line tools.
 

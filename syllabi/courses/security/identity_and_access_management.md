@@ -29,7 +29,7 @@ This course provides a comprehensive exploration of identity and access manageme
 
 ## Prerequisites
 * Basic understanding of web technologies (`HTTP`/`HTTPS`, `REST APIs`)
-* Familiarity with networking concepts (`DNS`, `TCP`/`IP`, `TLS`)
+* Familiarity with networking concepts (`DNS`, ```TCP``/``IP```, `TLS`)
 * Basic knowledge of security principles (authentication vs authorization)
 * Experience with at least one cloud platform is helpful but not required
 * Understanding of `JSON` and `XML` data formats

@@ -22,7 +22,7 @@ This course provides a comprehensive guide to building modern web applications w
 * Frontend developers looking to master `Vue.js` for building modern web applications
 * Full-stack developers who want to add `Vue.js` to their frontend toolkit
 * `JavaScript` or `TypeScript` developers transitioning to component-based UI development
-* `React` or `Angular` developers exploring `Vue.js` as an alternative framework
+* React or Angular developers exploring `Vue.js` as an alternative framework
 * Software engineers building single-page applications and progressive web apps
 
 ## Prerequisites
@@ -54,7 +54,7 @@ This course provides a comprehensive guide to building modern web applications w
     * Introduction to `Vue.js` and the `Vue 3` ecosystem
     * Creating a Vue application with Vite
     * Template syntax: interpolation, directives, and event handling
-    * The Composition `API`: setup, `ref`, reactive
+    * The Composition `API`: setup, ref, reactive
     * Computed properties and watchers
     * Conditional rendering and list rendering
     * Class and style bindings
@@ -66,7 +66,7 @@ This course provides a comprehensive guide to building modern web applications w
     * Custom events and the emit pattern
     * Slots: default, named, and scoped slots
     * Provide and inject for dependency passing
-    * Dynamic and `async` components
+    * Dynamic and async components
     * Component `design patterns` and composition
 <!-- chapter: directives-and-lifecycle-hooks, duration: 3h -->
 * Directives and Lifecycle Hooks
@@ -112,7 +112,7 @@ This course provides a comprehensive guide to building modern web applications w
 * `TypeScript` with Vue
     * Setting up `TypeScript` in a Vue project
     * Typing component props, emits, and refs
-    * Typing the Composition `API`: `ref`, reactive, computed
+    * Typing the Composition `API`: ref, reactive, computed
     * Type-safe stores with Pinia
     * Using `TypeScript` with `Vue Router`
     * Generics and utility types in Vue components

@@ -31,7 +31,7 @@ compares `Earthly` with alternative build tools and approaches.
 
 ## Prerequisites
 * familiarity with `Docker` and `Dockerfile` syntax.
-* experience with build tools (`Make`, `npm`, `Maven`, etc.).
+* experience with build tools (Make, `npm`, `Maven`, etc.).
 * basic understanding of `CI/CD` concepts.
 
 ## Required Knowledge
@@ -49,12 +49,12 @@ compares `Earthly` with alternative build tools and approaches.
     * what is `Earthly`
     * `Dockerfile` + `Makefile` concept
     * reproducibility and containerized builds
-    * `when` to use `Earthly`
+    * when to use `Earthly`
 <!-- chapter: earthfile-syntax, duration: 2h -->
 * Earthfile syntax
     * targets and dependencies
     * FROM and base images
-    * COPY and `file` operations
+    * COPY and file operations
     * RUN commands
     * `SAVE IMAGE` and `SAVE ARTIFACT`
     * target references and dependencies

@@ -20,8 +20,8 @@ audience:
 The catalog has `Code Review`, `Code Review Best Practices`, `Engineering Metrics and DORA`,
 `Technical Leadership`, and `Engineering Onboarding at Scale`. None of those is the focused course on
 the discipline of code ownership in a large repository: who owns which directory, how the
-`CODEOWNERS` `file` is structured, how reviews are routed, how ownership transitions work, what happens
-`when` an owner leaves, and how ownership relates to the Conway's-law shape of the organization. In a
+`CODEOWNERS` file is structured, how reviews are routed, how ownership transitions work, what happens
+when an owner leaves, and how ownership relates to the Conway's-law shape of the organization. In a
 small repository ownership is implicit. In a large repository — especially a monorepo — ownership has
 to be engineered or every `PR` becomes a coordination problem.
 
@@ -30,10 +30,10 @@ ownership models (per-team, per-domain, per-component, hybrid), the `GitHub` and
 `CODEOWNERS` mechanics, the `Bitbucket` and `Gerrit` equivalents, the per-directory granularity
 question, the relationship to `RFCs`, design docs, and `ADRs`, the review-routing strategy (eager
 vs lazy, blocking vs advisory), the no-owner pile (the directory that nobody owns), the
-ownership-handoff workflow `when` teams reorganize, the ownership-and-on-call relationship, the
+ownership-handoff workflow when teams reorganize, the ownership-and-on-call relationship, the
 relationship to the codebase's directory structure (Conway's law), the metrics (review latency by
 owner, ownership coverage), and the patterns that `make` ownership hold up at scale. Examples are
-drawn from public engineering writing of `Shopify`, `Stripe`, `Square`, and the `Google` and `Facebook`
+drawn from public engineering writing of `Shopify`, Stripe, Square, and the Google and `Facebook`
 monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a real repository.
 
 ## Duration
@@ -52,7 +52,7 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
 
 ## Objectives
 * explain the trade-offs of the canonical ownership models
-* design a `CODEOWNERS` `file` for a real repository
+* design a `CODEOWNERS` file for a real repository
 * route reviews efficiently
 * manage ownership transitions and reorganizations
 * connect ownership to on-call and to incident response
@@ -77,7 +77,7 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
     * picking
 <!-- chapter: codeowners-mechanics-github, duration: 2h -->
 * `CODEOWNERS` mechanics (`GitHub`)
-    * the `file` format
+    * the file format
     * the per-directory and glob rules
     * the `*` catch-all
     * required reviews from owners
@@ -92,11 +92,11 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
     * picking the platform feature
 <!-- chapter: granularity, duration: 2h -->
 * Granularity
-    * per-directory vs per-`file`
+    * per-directory vs per-file
     * the deeply-nested-directory cost
     * the catch-all-on-the-root question
     * the "we had 1000 lines of `CODEOWNERS`" reality
-    * the audit-the-`file` workflow
+    * the audit-the-file workflow
 <!-- chapter: review-routing-strategy, duration: 2h -->
 * Review-routing strategy
     * eager: every owner is requested
@@ -107,7 +107,7 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
 <!-- chapter: the-no-owner-pile, duration: 1h -->
 * The no-owner pile
     * the unowned directory
-    * the no-owner-found `CI` `check`
+    * the no-owner-found `CI` check
     * the orphan-after-reorg case
     * the "we ignored it for a year" reality
     * the periodic ownership-audit workflow
@@ -142,7 +142,7 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
 <!-- chapter: case-studies, duration: 1h -->
 * Case studies
     * `Shopify`'s monorepo ownership
-    * `Stripe`'s ownership program
+    * Stripe's ownership program
     * `Google`'s `OWNERS` system
     * `Meta`'s ownership at scale
     * recommended reading: `Software Engineering at Google`

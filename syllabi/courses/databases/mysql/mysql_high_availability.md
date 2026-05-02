@@ -68,7 +68,7 @@ The course provides hands-on experience with modern `MySQL` HA technologies incl
     * Global Transaction Identifiers overview
     * Configuring GTID replication
     * GTID auto-positioning
-    * Migrating from `file`-position to GTID replication
+    * Migrating from file-position to GTID replication
     * GTID lifecycle and purging
 <!-- chapter: group-replication, duration: 1h -->
 * `Group Replication`

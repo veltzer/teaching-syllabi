@@ -25,10 +25,10 @@ and produce better code. Done poorly, they exhaust everyone, surface interperson
 as much for half the result.
 
 This five day course is a practical, hands-on treatment of pairing and mob programming. It covers the styles
-(driver/navigator, `ping`-pong, strong-style, mob), the mechanics (rotation, breaks, environment), the social
+(driver/navigator, ping-pong, strong-style, mob), the mechanics (rotation, breaks, environment), the social
 skills (active listening, deferring opinions, recovering from conflict), the integration with `TDD`, code review
 and `CI`, the remote and hybrid variants, and the ways teams adopt or fail to adopt these practices over time.
-Participants leave able to pair and mob effectively, coach others, and judge `when` these practices are right
+Participants leave able to pair and mob effectively, coach others, and judge when these practices are right
 for the work in front of them.
 
 ## Duration
@@ -61,11 +61,11 @@ for the work in front of them.
     * the four returns: defect rate, learning, focus, code quality
     * what pairing is not (peer pressure, surveillance, code review)
     * the economic argument and the bookkeeping mistake
-    * `when` pairing is wrong for the work
+    * when pairing is wrong for the work
 <!-- chapter: pairing-styles, duration: 3h -->
 * Pairing styles
     * driver/navigator
-    * `ping`-pong (driver and navigator alternate per `TDD` cycle)
+    * ping-pong (driver and navigator alternate per `TDD` cycle)
     * strong-style pairing (Llewellyn `Falco`)
     * unstructured pairing
     * the right style for the right person
@@ -82,7 +82,7 @@ for the work in front of them.
 <!-- chapter: the-mechanics-of-a-session, duration: 3h -->
 * The mechanics of a session
     * the workspace: monitor, keyboard, chairs, room
-    * rotation timers and tools (`mobster`, `cuckoo`, `Mob.sh`)
+    * rotation timers and tools (`mobster`, cuckoo, `Mob.sh`)
     * breaks and the energy curve
     * starting a session with intent
     * ending a session deliberately
@@ -100,13 +100,13 @@ for the work in front of them.
 * Handling skill and experience gaps
     * pairing across seniority levels
     * the senior-as-teacher trap
-    * the "`let` me drive" anti-pattern
+    * the "let me drive" anti-pattern
     * pacing for the less experienced person
     * the value of beginner-driven pairing
     * cross-functional pairing: dev with `QA`, `SRE`, designer
 <!-- chapter: pairing-with-tdd, duration: 3h -->
 * Pairing with `TDD`
-    * `ping`-pong as a pairing technique
+    * ping-pong as a pairing technique
     * the test-as-conversation pattern
     * pair-programming the red-green-refactor cycle
     * keeping discipline at red and refactor
@@ -116,11 +116,11 @@ for the work in front of them.
     * paired code as already-reviewed code
     * the trust contract with reviewers
     * second-pair review as a different lens
-    * the question of `PR` size `when` paired
-    * what to do `when` a paired change still gets review-rejected
+    * the question of `PR` size when paired
+    * what to do when a paired change still gets review-rejected
 <!-- chapter: remote-and-hybrid-pairing, duration: 3h -->
 * Remote and hybrid pairing
-    * tools: `VS Code` `Live Share`, `JetBrains` `Code With Me`, `tmate`, `tmux`
+    * tools: `VS Code` `Live Share`, `JetBrains` `Code With Me`, tmate, `tmux`
     * audio and video setup that does not exhaust people
     * latency and its effect on rotation
     * managing time zones for cross-region pairs
@@ -128,7 +128,7 @@ for the work in front of them.
     * hybrid pairing with one person remote
 <!-- chapter: mobbing-remote-and-hybrid, duration: 2h -->
 * Mobbing remote and hybrid
-    * `Tuple`, `Pop`, `Mob.sh`, simple screen share
+    * `Tuple`, Pop, `Mob.sh`, simple screen share
     * remote rotation mechanics
     * keeping the silent majority engaged
     * energy management in long remote mobs
@@ -147,7 +147,7 @@ for the work in front of them.
     * proving value with one task
     * letting people opt out gracefully
     * the manager-mandated pairing failure mode
-    * recovering `when` a team rejects pairing
+    * recovering when a team rejects pairing
     * keeping the practice alive after the initial enthusiasm
 <!-- chapter: anti-patterns-and-failure-modes, duration: 2h -->
 * Anti-patterns and failure modes
@@ -156,7 +156,7 @@ for the work in front of them.
     * the marathon (no breaks)
     * the broken pair (interpersonal friction)
     * the always-the-same-pair pattern
-    * pairing only `when` the senior wants to teach
+    * pairing only when the senior wants to teach
     * how to recognize each and what to do
 <!-- chapter: pairing-for-managers, duration: 2h -->
 * Pairing for managers

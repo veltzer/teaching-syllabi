@@ -88,7 +88,7 @@ workflows that survive every retry `storm`, network partition and replay scenari
     * storage and lookup of keys
     * `TTL` and key retention
     * concurrent retries with the same key
-    * `Stripe`-style idempotency `API` design
+    * Stripe-style idempotency `API` design
 <!-- chapter: deduplication-and-replay-windows, duration: 3h -->
 * Deduplication and replay `windows`
     * server-side deduplication tables
@@ -126,7 +126,7 @@ workflows that survive every retry `storm`, network partition and replay scenari
     * idempotency requirements for `saga` steps
     * retries and partial completion
     * `saga` state stores
-    * `Temporal`, `Cadence`, `Camunda`, custom orchestrators
+    * Temporal, `Cadence`, `Camunda`, custom orchestrators
     * the cost of compensation logic
 <!-- chapter: deterministic-replay, duration: 3h -->
 * Deterministic replay
@@ -135,10 +135,10 @@ workflows that survive every retry `storm`, network partition and replay scenari
     * external side effects during replay
     * versioning event handlers and replay
     * using replay for backfill and migration
-    * deterministic replay in `Temporal` workflows
+    * deterministic replay in Temporal workflows
 <!-- chapter: idempotent-api-design, duration: 3h -->
 * Idempotent `API` design
-    * choosing `PUT` vs `POST` vs `POST` with idempotency key
+    * choosing `PUT` vs POST vs `POST` with idempotency key
     * naming and modeling resources idempotently
     * idempotency in batch endpoints
     * `webhooks` that retry forever

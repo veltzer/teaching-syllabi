@@ -21,7 +21,7 @@ audience:
 * Front-end developers looking to accelerate their `CSS` workflow
 * Web designers transitioning to utility-first styling approaches
 * Full-stack developers building modern web interfaces
-* `React`, Vue, or Svelte developers wanting consistent styling solutions
+* React, Vue, or Svelte developers wanting consistent styling solutions
 * Developers maintaining large-scale `CSS` codebases seeking better maintainability
 
 ## Prerequisites
@@ -42,14 +42,14 @@ audience:
 * Customize the design system through tailwind.config.js
 * Implement dark mode and interactive states with variant utilities
 * Extract reusable component patterns using @apply and component composition
-* Integrate `Tailwind CSS` with `React`, Vue, and Svelte frameworks
+* Integrate `Tailwind CSS` with React, Vue, and Svelte frameworks
 * Optimize production builds by purging unused `CSS`
 
 ## Outline
 <!-- chapter: introduction-to-utility-first-css, duration: 2h -->
 * Introduction to Utility-First `CSS`
     * The utility-first philosophy and how it differs from traditional `CSS`
-    * Comparison with `Bootstrap`, Bulma, and other `CSS` frameworks
+    * Comparison with Bootstrap, Bulma, and other `CSS` frameworks
     * Benefits and trade-offs of utility-first styling
     * Understanding the `Tailwind CSS` class naming conventions
     * Installation using `npm`, PostCSS, and `CLI`
@@ -101,7 +101,7 @@ audience:
     * Arbitrary values and JIT mode features
 <!-- chapter: animation-forms-and-plugins, duration: 2h -->
 * Animation, Forms, and Plugins
-    * Built-in animation utilities: spin, `ping`, pulse, bounce
+    * Built-in animation utilities: spin, ping, pulse, bounce
     * Custom keyframe animations in configuration
     * Transition property, duration, timing, and delay utilities
     * The @tailwindcss/forms plugin for form element styling
@@ -110,12 +110,12 @@ audience:
     * Third-party plugins and community extensions
 <!-- chapter: integration-and-production-optimization, duration: 2h -->
 * Integration and Production Optimization
-    * Integrating `Tailwind CSS` with `React` and JSX
-    * Integrating `Tailwind CSS` with Vue single-`file` components
+    * Integrating `Tailwind CSS` with React and JSX
+    * Integrating `Tailwind CSS` with Vue single-file components
     * Integrating `Tailwind CSS` with Svelte
     * Component extraction strategies and `design patterns`
     * Content configuration for purging unused `CSS`
-    * Production build optimization and `file` size reduction
+    * Production build optimization and file size reduction
     * Analyzing and minimizing the final `CSS` bundle
 
 ## Copyright

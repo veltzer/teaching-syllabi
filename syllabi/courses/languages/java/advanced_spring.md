@@ -11,28 +11,28 @@ audience:
   - audiences:developers
 ---
 <!-- course: advanced_spring -->
-# Advanced `Spring`
+# Advanced Spring
 
 ## Description
-`SOLID`, `Spring` Reactive, `gRPC`
+`SOLID`, Spring Reactive, `gRPC`
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Experienced `Spring` developers that wants to learn MVC Alternatives: `gRPC`, Reactive `Spring` and `HTTP`/2
-* `Spring` developers that wants to use reactive platform for BigData streaming and in-memory manipulations
+* Experienced Spring developers that wants to learn MVC Alternatives: `gRPC`, Reactive Spring and `HTTP`/2
+* Spring developers that wants to use reactive platform for BigData streaming and in-memory manipulations
 
 ## Prerequisites
-* Experience with `Spring` framework
+* Experience with Spring framework
 * Experience with SpringBoot
 * Familiarity with `Microservices` (`spring`.cloud)
 
 ## Objectives
 * Gain knowledge about `SOLID` engineering principles
 * Understand `Async` even driven principles
-* Understand how Reactive programming in `Spring` works.
-* Gain understanding of `gRPC` and it's implementation in `Spring`.
+* Understand how Reactive programming in Spring works.
+* Gain understanding of `gRPC` and it's implementation in Spring.
 
 ## Outline
 <!-- chapter: solid-software, duration: 4h -->
@@ -46,10 +46,10 @@ audience:
         * Design by Contract
         * Inversion of Control and Dependency Injection
         * Composition over Inheritance
-    * `Spring` Common `Design Patterns`
+    * Spring Common `Design Patterns`
 <!-- chapter: graphql, duration: 4h -->
 * `GraphQL` (4 hours)
-    * `Spring` `GraphQL`
+    * Spring `GraphQL`
         * Introduction to `GraphQL`
         * Setting dependencies
         * Creating entities/data objects
@@ -58,7 +58,7 @@ audience:
         * Coding `GraphQL` resolver
         * Testing with `GraphQL` Web UI
 <!-- chapter: spring-reactive, duration: 21h -->
-* `Spring` Reactive (16 hours)
+* Spring Reactive (16 hours)
     * `Java` Functional programming - Java8
         * Understanding invoke dynamic
         * @FunctionalInterface
@@ -80,7 +80,7 @@ audience:
         * Publisher
         * Subscriber
         * Processors
-    * `Spring` Reactive Programming
+    * Spring Reactive Programming
         * Supported implementations
         * Installing / setting environment
         * Mono `API`
@@ -89,7 +89,7 @@ audience:
         * From `Flux` to Mono
         * Parallel `Flux`
         * Connectable `Flux`
-    * `Spring` WebFlux
+    * Spring WebFlux
         * Introduction
         * SpringBoot2 configuration
         * Relevance to HTTP2
@@ -100,7 +100,7 @@ audience:
         * Introduction
         * SpringBoot2 configuration
         * Reactive `MongoDB`
-        * Reactive `Spring` Repositories
+        * Reactive Spring Repositories
         * Creating reactive services
     * Reactive MQ
         * Introduction
@@ -109,7 +109,7 @@ audience:
         * Publishing and Consuming
 <!-- chapter: grpc, duration: 3h -->
 * `gRPC` (6 hours)
-    * `Spring` `gRPC`
+    * Spring `gRPC`
         * What is `gRPC`?
         * `Protocol Buffers`
         * `HTTP` 2.0

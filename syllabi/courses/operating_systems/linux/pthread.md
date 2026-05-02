@@ -47,8 +47,8 @@ An in depth course looking at working with the `Linux` pthread library.
 * your very first thread.
 <!-- chapter: seeing-thread-information-on-the-command-line, duration: 1h -->
 * seeing thread information on the command line.
-    * using `ps`
-    * using `top`
+    * using ps
+    * using top
     * using /proc
 <!-- chapter: thread-ids, duration: 1h -->
 * thread `ids`
@@ -78,7 +78,7 @@ An in depth course looking at working with the `Linux` pthread library.
 <!-- chapter: threads-and-signals, duration: 1h -->
 * threads and signals.
     * sending signals to threads.
-    * what happens `when` a signal arrives at a thread?
+    * what happens when a signal arrives at a thread?
     * signal queues for real time signals.
     * masking signals.
 <!-- chapter: threads-synchronization-mechanisms, duration: 2h -->
@@ -115,7 +115,7 @@ An in depth course looking at working with the `Linux` pthread library.
     * `ASLR` and how it effects threads.
     * thread_at_fork hooks
     * pthread_once
-    * what happens `when` a thread does execve? answer: all threads die automatically
+    * what happens when a thread does execve? answer: all threads die automatically
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

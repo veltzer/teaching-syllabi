@@ -11,10 +11,10 @@ audience:
   - audiences:testers
 ---
 <!-- course: cypress -->
-# `Cypress` End-to-End Testing
+# Cypress End-to-End Testing
 
 ## Description
-`Cypress` is a modern, developer-friendly end-to-end testing framework that runs directly in the browser alongside your application. This course covers everything from basic test authoring to advanced topics like network interception, custom commands, and `CI/CD` integration. Participants will learn how to write reliable, fast, and maintainable tests for web applications using `Cypress`, and understand how it compares to other tools like `Playwright` and `Selenium`.
+Cypress is a modern, developer-friendly end-to-end testing framework that runs directly in the browser alongside your application. This course covers everything from basic test authoring to advanced topics like network interception, custom commands, and `CI/CD` integration. Participants will learn how to write reliable, fast, and maintainable tests for web applications using Cypress, and understand how it compares to other tools like `Playwright` and `Selenium`.
 
 ## Duration
 16 hours / 2 days
@@ -37,48 +37,48 @@ audience:
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
-* Understand `Cypress` architecture and how it differs from traditional testing frameworks
-* Install and configure `Cypress` for a web project
+* Understand Cypress architecture and how it differs from traditional testing frameworks
+* Install and configure Cypress for a web project
 * Write end-to-end tests using selectors, assertions, and commands
 * Interact with DOM elements and handle complex user interactions
 * Test APIs directly using cy.request
 * Create custom commands and implement the page object model
 * Intercept and mock network requests with cy.intercept
-* Integrate `Cypress` tests into `CI/CD` pipelines
+* Integrate Cypress tests into `CI/CD` pipelines
 * Use `Cypress Cloud` for dashboard analytics and parallelization
-* Perform component testing and visual testing with `Cypress`
+* Perform component testing and visual testing with Cypress
 
 ## Outline
 <!-- chapter: cypress-overview-and-architecture, duration: 1h -->
-* `Cypress` Overview and Architecture
-    * What is `Cypress` and why it was created
-    * `Cypress` architecture: running in the browser alongside the application
-    * How `Cypress` differs from `Selenium`-based tools
-    * `Cypress` test runner and command log
+* Cypress Overview and Architecture
+    * What is Cypress and why it was created
+    * Cypress architecture: running in the browser alongside the application
+    * How Cypress differs from `Selenium`-based tools
+    * Cypress test runner and command log
     * Supported browsers and limitations
-    * The `Cypress` ecosystem: plugins, community, and documentation
+    * The Cypress ecosystem: plugins, community, and documentation
 <!-- chapter: installation-and-setup, duration: 1h -->
 * Installation and Setup
-    * Installing `Cypress` via `npm` or `yarn`
+    * Installing Cypress via `npm` or `yarn`
     * Project structure and configuration files (`cypress`.config.js)
     * Configuring base URL, viewports, and timeouts
     * Setting up `TypeScript` support
     * Environment variables and configuration overrides
-    * Opening the `Cypress` test runner and running first tests
+    * Opening the Cypress test runner and running first tests
 <!-- chapter: writing-tests-selectors-assertions-and-commands, duration: 1h -->
 * Writing Tests: Selectors, Assertions, and Commands
-    * Test `file` structure and organization
-    * Selecting elements: cy.get, cy.contains, cy.`find`
+    * Test file structure and organization
+    * Selecting elements: cy.get, cy.contains, cy.find
     * Best practices for selectors: data-cy attributes
     * Assertions with should, expect, and assert
     * Chaining commands and understanding the command queue
-    * `Cypress` automatic retry and timeout behavior
+    * Cypress automatic retry and timeout behavior
     * Using describe, it, before, beforeEach, after, afterEach
 <!-- chapter: interacting-with-elements, duration: 1h -->
 * Interacting with Elements
     * Clicking, typing, and clearing inputs
     * Working with dropdowns, checkboxes, and radio buttons
-    * Handling `file` uploads
+    * Handling file uploads
     * Drag and drop interactions
     * Scrolling and viewport manipulation
     * Working with iframes and shadow DOM
@@ -99,10 +99,10 @@ audience:
     * Data cleanup strategies
 <!-- chapter: custom-commands-and-the-page-object-model, duration: 1h -->
 * Custom Commands and the Page Object Model
-    * Creating custom commands with `Cypress`.Commands.add
+    * Creating custom commands with Cypress.Commands.add
     * Overwriting existing commands
     * Organizing custom commands in support files
-    * Implementing the page object model in `Cypress`
+    * Implementing the page object model in Cypress
     * Encapsulating page interactions and selectors
     * Reusable test helpers and utilities
 <!-- chapter: intercepting-network-requests, duration: 1h -->
@@ -116,11 +116,11 @@ audience:
     * Intercepting `GraphQL` requests
 <!-- chapter: waiting-retries-and-debugging, duration: 1h -->
 * Waiting, Retries, and Debugging
-    * Understanding `Cypress` automatic waiting
+    * Understanding Cypress automatic waiting
     * Configuring retry behavior and timeouts
     * Using cy.wait for explicit waits
     * Debugging with cy.debug and cy.pause
-    * Using the browser developer tools with `Cypress`
+    * Using the browser developer tools with Cypress
     * Reading the command log for troubleshooting
     * Common pitfalls and flaky test prevention
 <!-- chapter: screenshots-video-and-reporting, duration: 1h -->
@@ -133,11 +133,11 @@ audience:
     * Generating `HTML` test reports
 <!-- chapter: ci-cd-integration, duration: 2h -->
 * `CI/CD` Integration
-    * Running `Cypress` in headless mode
+    * Running Cypress in headless mode
     * Integration with `GitHub Actions`
     * Integration with `GitLab CI`
     * Integration with `Jenkins`
-    * `Docker` images for `Cypress`
+    * `Docker` images for Cypress
     * Caching dependencies for faster builds
     * Parallel test execution in CI
     * Handling test artifacts (screenshots, videos) in pipelines
@@ -151,8 +151,8 @@ audience:
     * Integration with source control and CI providers
 <!-- chapter: component-testing, duration: 1h -->
 * Component Testing
-    * `Cypress` component testing overview
-    * Setting up component testing for `React`, Vue, and `Angular`
+    * Cypress component testing overview
+    * Setting up component testing for React, Vue, and Angular
     * Mounting components in isolation
     * Testing component props, events, and slots
     * Stubbing dependencies in component tests
@@ -160,18 +160,18 @@ audience:
 <!-- chapter: visual-testing, duration: 1h -->
 * Visual Testing
     * Visual regression testing concepts
-    * `Cypress` plugins for visual testing
+    * Cypress plugins for visual testing
     * Snapshot comparison and diff detection
     * Handling dynamic content in visual tests
     * Visual testing in `CI/CD` pipelines
 <!-- chapter: best-practices-and-comparison, duration: 1h -->
 * Best Practices and Comparison
     * Test organization and naming conventions
-    * Avoiding anti-patterns in `Cypress` tests
+    * Avoiding anti-patterns in Cypress tests
     * Performance optimization for large test suites
     * Cross-browser testing strategies
-    * `Cypress` vs `Playwright`: strengths and trade-offs
-    * `Cypress` vs `Selenium`: architectural differences and use cases
+    * Cypress vs `Playwright`: strengths and trade-offs
+    * Cypress vs `Selenium`: architectural differences and use cases
     * Choosing the right tool for your project
 
 ## Copyright

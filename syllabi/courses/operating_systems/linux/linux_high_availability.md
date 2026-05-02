@@ -33,7 +33,7 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
 ## Prerequisites
 * Strong `Linux` system administration skills
 * Experience with `Linux` networking configuration
-* Familiarity with storage concepts (block devices, `file` systems)
+* Familiarity with storage concepts (block devices, file systems)
 * Basic understanding of clustering concepts
 * Command line proficiency
 
@@ -43,7 +43,7 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
 * Implement fencing and STONITH for data protection
 * Configure resource agents for various services
 * Design active/passive and active/active cluster topologies
-* Integrate cluster `file` systems (GFS2, OCFS2)
+* Integrate cluster file systems (GFS2, OCFS2)
 * Integrate `HAProxy` for load-balanced services
 * Monitor and troubleshoot cluster health and split-brain scenarios
 
@@ -113,17 +113,17 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
     * Choosing between active/passive and active/active
 <!-- chapter: gfs2-and-ocfs2, duration: 2h -->
 * GFS2 and OCFS2
-    * Shared storage cluster `file` systems overview
+    * Shared storage cluster file systems overview
     * GFS2 architecture and configuration
     * OCFS2 architecture and configuration
     * Distributed lock management
-    * Fencing requirements for cluster `file` systems
+    * Fencing requirements for cluster file systems
     * Performance considerations
 <!-- chapter: haproxy-integration, duration: 1h -->
 * `HAProxy` Integration
     * `HAProxy` as a cluster-managed resource
     * Configuring `HAProxy` with Pacemaker
-    * Health `check` configuration
+    * Health check configuration
     * Load balancing algorithms
     * Failover of `HAProxy` instances
 <!-- chapter: monitoring-cluster-health, duration: 2h -->

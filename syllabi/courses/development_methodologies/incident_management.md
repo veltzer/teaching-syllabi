@@ -82,7 +82,7 @@ a culture of reliability using SRE principles.
 * Incident Response Tools
     * `PagerDuty`
     * OpsGenie
-    * `Slack` and ChatOps for incidents
+    * Slack and ChatOps for incidents
     * Incident tracking systems
     * War rooms (virtual and physical)
 <!-- chapter: runbooks-and-playbooks, duration: 1h -->

@@ -17,16 +17,16 @@ audience:
 # Fuzz Testing in Practice
 
 ## Description
-Fuzz testing is the practice of feeding programs malformed, random, or generated input to `find` bugs that
+Fuzz testing is the practice of feeding programs malformed, random, or generated input to find bugs that
 reviewers, unit tests, and even property-based tests miss. The catalog has a `Property Based Testing`
 course; fuzzing is the related but distinct discipline that has graduated from a security tool into a
 mainstream engineering practice. Modern fuzzers are coverage-guided, run continuously in `CI`, and
 catch crashes, hangs, memory errors, and logic bugs in services that were considered well-tested.
 
 This three day course covers fuzzing as practiced today. It covers the theory of coverage-guided
-fuzzing (`AFL`, `libFuzzer`, `honggfuzz`), structure-aware fuzzing for protocols and parsers, fuzzing
-language `runtimes` (`go-fuzz`, `cargo-fuzz`, native `Go` 1.18+ fuzzing, native `Rust` fuzzing,
-`Atheris` for `Python`, `Jazzer` for `JVM`), continuous fuzzing in `CI` (`OSS-Fuzz`, `ClusterFuzz`,
+fuzzing (`AFL`, libFuzzer, `honggfuzz`), structure-aware fuzzing for protocols and parsers, fuzzing
+language `runtimes` (`go-fuzz`, `cargo-fuzz`, native Go 1.18+ fuzzing, native Rust fuzzing,
+`Atheris` for `Python`, Jazzer for `JVM`), continuous fuzzing in CI (`OSS-Fuzz`, `ClusterFuzz`,
 `ClusterFuzzLite`), differential fuzzing, the corpus management problem, the deduplication problem, the
 triage workflow, the harness as the most important code in the project, and the relationship between
 fuzzing and security. Participants leave able to add a fuzz target to a project and keep it running.
@@ -41,7 +41,7 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
 * developers maintaining libraries that are fuzzed downstream
 
 ## Prerequisites
-* working experience in at least one of `C/C++`, `Go`, `Rust`, `Python`, or `Java`
+* working experience in at least one of `C/C++`, Go, Rust, `Python`, or `Java`
 * exposure to the `Property Based Testing` course is helpful
 * basic familiarity with `CI` pipelines
 
@@ -51,7 +51,7 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
 * run fuzzing locally and continuously in `CI`
 * manage corpora and seeds
 * triage and deduplicate crashes
-* recognize `when` fuzzing is the right tool and `when` it is not
+* recognize when fuzzing is the right tool and when it is not
 * connect fuzzing to the security review
 
 ## Outline
@@ -78,8 +78,8 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
     * harness for stateful protocols
 <!-- chapter: native-language-fuzzers, duration: 3h -->
 * Native language fuzzers
-    * `Go` 1.18+ native fuzzing
-    * `cargo-fuzz` and `Rust`
+    * Go 1.18+ native fuzzing
+    * `cargo-fuzz` and Rust
     * `Atheris` and `Python`
     * `Jazzer` and the `JVM`
     * `libFuzzer` and `C/C++`
@@ -121,7 +121,7 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
     * worked example
 <!-- chapter: sanitizers-and-bug-detection, duration: 2h -->
 * Sanitizers and bug detection
-    * `ASAN`, `UBSAN`, `MSAN`, `TSAN`
+    * `ASAN`, UBSAN, MSAN, `TSAN`
     * the performance cost
     * the "fuzzer found nothing because no sanitizer was on" failure
     * detecting logic bugs without sanitizers

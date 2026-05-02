@@ -14,7 +14,7 @@ audience:
 # TimescaleDB: Time-Series Database on `PostgreSQL`
 
 ## Description
-This course covers TimescaleDB, a time-series database built as an extension on `top` of `PostgreSQL`. Participants will learn how to model, store, and query time-series data efficiently using hypertables, continuous aggregates, compression, and specialized time functions. The course also covers integration with visualization tools, performance tuning, and comparison with other time-series solutions.
+This course covers TimescaleDB, a time-series database built as an extension on top of `PostgreSQL`. Participants will learn how to model, store, and query time-series data efficiently using hypertables, continuous aggregates, compression, and specialized time functions. The course also covers integration with visualization tools, performance tuning, and comparison with other time-series solutions.
 
 ## Duration
 16 hours / 2 days

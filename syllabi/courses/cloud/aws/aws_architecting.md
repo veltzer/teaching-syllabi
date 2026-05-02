@@ -103,7 +103,7 @@ exam.
 <!-- chapter: storage-and-mass-data-access-services, duration: 5h -->
 * Storage and mass data access services
     * `S3`
-    * `Glacier`
+    * Glacier
     * `Storage Gateway`
     * Snow family
     * `EFS`
@@ -125,7 +125,7 @@ exam.
     * `RDS`
     * `DynamoDB`
     * Database Migration Service (DMS).
-    * `Aurora`
+    * Aurora
     * ElastiCache
     * `Redshift`
     * Other offerings

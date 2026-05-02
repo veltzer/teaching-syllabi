@@ -13,10 +13,10 @@ audience:
   - audiences:developers
 ---
 <!-- course: apache_http_server -->
-# `Apache` `HTTP` Server
+# Apache `HTTP` Server
 
 ## Description
-This course covers the installation, configuration, and administration of the `Apache` `HTTP` Server, one of the most widely deployed web servers in the world. Participants will learn how to configure virtual hosts, manage modules, set up `SSL/TLS`, implement reverse proxying, and tune performance. The course also addresses security hardening and operational best practices for running `Apache` in production environments.
+This course covers the installation, configuration, and administration of the Apache `HTTP` Server, one of the most widely deployed web servers in the world. Participants will learn how to configure virtual hosts, manage modules, set up `SSL/TLS`, implement reverse proxying, and tune performance. The course also addresses security hardening and operational best practices for running Apache in production environments.
 
 ## Duration
 16 hours / 1 day
@@ -24,7 +24,7 @@ This course covers the installation, configuration, and administration of the `A
 ## Intended Audience
 * System administrators managing web server infrastructure.
 * `DevOps` engineers deploying and maintaining web applications.
-* Developers who need to configure and troubleshoot `Apache` for their applications.
+* Developers who need to configure and troubleshoot Apache for their applications.
 
 ## Prerequisites
 * Basic `Linux` system administration skills.
@@ -35,22 +35,22 @@ This course covers the installation, configuration, and administration of the `A
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Install and configure `Apache` `HTTP` Server on `Linux`.
+* Install and configure Apache `HTTP` Server on `Linux`.
 * Understand the structure of httpd.conf and related configuration files.
 * Configure name-based and `IP`-based virtual hosts.
 * Enable and configure commonly used modules (mod_rewrite, mod_ssl, mod_proxy, mod_security).
 * Use .htaccess files for directory-level configuration.
 * Write URL rewriting rules with mod_rewrite.
 * Set up `SSL/TLS` certificates for secure connections.
-* Configure `Apache` as a reverse proxy.
-* Tune `Apache` performance using MPM workers and caching strategies.
+* Configure Apache as a reverse proxy.
+* Tune Apache performance using MPM workers and caching strategies.
 * Implement security hardening measures.
-* Configure and analyze `Apache` access and error logs.
+* Configure and analyze Apache access and error logs.
 
 ## Outline
 <!-- chapter: installation-and-basic-configuration, duration: 1h -->
 * Installation and Basic Configuration
-    * Installing `Apache` on major `Linux` distributions
+    * Installing Apache on major `Linux` distributions
     * Starting, stopping, and restarting the service
     * Directory layout and default configuration
 <!-- chapter: httpd-conf-structure, duration: 1h -->
@@ -66,7 +66,7 @@ This course covers the installation, configuration, and administration of the `A
     * Default virtual host and catch-all configuration
     * Managing multiple sites
 <!-- chapter: apache-modules, duration: 2h -->
-* `Apache` Modules
+* Apache Modules
     * Module architecture and loading modules
     * mod_rewrite for URL manipulation
     * mod_ssl for `TLS` termination

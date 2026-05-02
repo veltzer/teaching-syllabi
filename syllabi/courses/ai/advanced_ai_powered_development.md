@@ -46,9 +46,9 @@ patterns that are actively used in production environments.
 * Developers working with large codebases or monoliths who need effective `AI` strategies
 
 ## Prerequisites
-* `Solid` experience in at least one modern programming language (`Python`, `JavaScript`/`TypeScript`, `Java`, `Go`, or similar)
+* `Solid` experience in at least one modern programming language (`Python`, `JavaScript`/`TypeScript`, `Java`, Go, or similar)
 * Working knowledge of `Git`, `CI/CD`, and modern development workflows
-* Basic experience using `AI` coding assistants (e.g., `GitHub Copilot`, `ChatGPT`, `Claude`)
+* Basic experience using `AI` coding assistants (e.g., `GitHub Copilot`, `ChatGPT`, Claude)
 * Familiarity with APIs, `REST`, and `JSON`
 * Understanding of software architecture concepts (`microservices`, monoliths, APIs)
 
@@ -77,7 +77,7 @@ patterns that are actively used in production environments.
         * IDE-integrated agents
         * Autonomous coding agents
     * Key concepts: context `windows`, token limits, and their practical implications
-    * The role of models: `Claude`, `GPT`, `Gemini`, open-source models
+    * The role of models: Claude, `GPT`, Gemini, open-source models
     * Cloud-hosted vs local models for development
     * Cost, latency, and quality tradeoffs
     * Privacy and intellectual property considerations
@@ -87,7 +87,7 @@ patterns that are actively used in production environments.
     * Agent architectures: plan-execute, `ReAct`, tool-use loops
     * Popular agent-based tools
         * `Claude Code` (`CLI` agent)
-        * `Cursor` (agent mode)
+        * Cursor (agent mode)
         * `Windsurf`
         * `Aider`
         * `Cline`
@@ -164,7 +164,7 @@ patterns that are actively used in production environments.
         * Filesystem server
         * `GitHub` server
         * Database servers (`PostgreSQL`, `SQLite`)
-        * `Slack`, `Jira`, Linear servers
+        * Slack, `Jira`, Linear servers
         * Browser automation servers (`Puppeteer`, `Playwright`)
     * Building custom `MCP` servers
         * Server implementation in `Python` and `TypeScript`
@@ -203,17 +203,17 @@ patterns that are actively used in production environments.
     * `RAG` architecture for codebases
         * Document chunking strategies for code
         * Embedding models for source code
-        * Vector databases (`Pinecone`, `Weaviate`, `ChromaDB`, `Qdrant`)
+        * Vector databases (Pinecone, `Weaviate`, `ChromaDB`, `Qdrant`)
         * Hybrid search: vector + keyword
     * Indexing codebases
         * `File`-level vs function-level vs chunk-level indexing
-        * Handling multiple languages and `file` types
+        * Handling multiple languages and file types
         * Incremental indexing and keeping indexes fresh
         * Metadata extraction and enrichment
     * `RAG` for documentation
         * Indexing internal wikis, READMEs, design docs
         * Indexing `API` documentation
-        * Indexing `Slack`/Teams conversations and decision logs
+        * Indexing Slack/Teams conversations and decision logs
     * Building a `RAG` pipeline
         * Ingestion pipeline design
         * Query construction and rewriting

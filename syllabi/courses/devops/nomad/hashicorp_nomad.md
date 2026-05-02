@@ -15,13 +15,13 @@ audience:
 # `HashiCorp Nomad`: Workload Orchestrator
 
 ## Description
-This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible workload orchestrator that deploys and manages containers, legacy applications, and batch jobs. Participants will learn `Nomad` architecture, job specifications, scheduling strategies, networking, service discovery, secrets management, and multi-region federation. The course includes comparisons with `Kubernetes` and practical migration strategies.
+This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible workload orchestrator that deploys and manages containers, legacy applications, and batch jobs. Participants will learn Nomad architecture, job specifications, scheduling strategies, networking, service discovery, secrets management, and multi-region federation. The course includes comparisons with `Kubernetes` and practical migration strategies.
 
 ## Duration
 16 hours / 2 days
 
 ## Intended Audience
-* `DevOps` engineers evaluating or adopting `Nomad` for workload orchestration
+* `DevOps` engineers evaluating or adopting Nomad for workload orchestration
 * Infrastructure engineers managing distributed systems
 * Platform teams looking for a simpler alternative to `Kubernetes`
 
@@ -35,23 +35,23 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand the `Nomad` architecture including servers, clients, regions, and datacenters.
+* Understand the Nomad architecture including servers, clients, regions, and datacenters.
 * Write and deploy job specifications using HCL.
 * Configure task drivers for containers, binaries, and batch jobs.
-* Implement service discovery with `Consul` and secrets management with `Vault`.
+* Implement service discovery with Consul and secrets management with Vault.
 * Set up networking, `ACLs`, and namespaces for multi-team environments.
 * Deploy applications using rolling, canary, and blue-green strategies.
-* Operate multi-region federated `Nomad` clusters.
+* Operate multi-region federated Nomad clusters.
 
 ## Outline
 <!-- chapter: introduction-to-nomad, duration: 1h -->
-* Introduction to `Nomad`:
-    * What is `Nomad` and why use it
+* Introduction to Nomad:
+    * What is Nomad and why use it
     * Comparison with `Kubernetes`
-    * `Nomad` in the HashiCorp ecosystem
+    * Nomad in the HashiCorp ecosystem
     * Use cases and deployment scenarios
 <!-- chapter: nomad-architecture, duration: 1h -->
-* `Nomad` Architecture:
+* Nomad Architecture:
     * Servers and clients
     * Regions and datacenters
     * Consensus protocol (Raft)
@@ -89,17 +89,17 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
     * Service ports and dynamic ports
     * `Consul Connect` for service mesh
 <!-- chapter: service-discovery-with-consul, duration: 1h -->
-* Service Discovery with `Consul`:
-    * `Consul` integration overview
+* Service Discovery with Consul:
+    * Consul integration overview
     * Service registration and health checks
     * `DNS` and `API`-based discovery
-    * `Consul` template for dynamic configuration
+    * Consul template for dynamic configuration
 <!-- chapter: secrets-management-with-vault, duration: 1h -->
-* Secrets Management with `Vault`:
-    * `Vault` integration overview
+* Secrets Management with Vault:
+    * Vault integration overview
     * Accessing secrets in jobs
     * Dynamic secrets and leases
-    * `Vault` token management
+    * Vault token management
 <!-- chapter: acl-system, duration: 1h -->
 * ACL System:
     * ACL architecture
@@ -126,7 +126,7 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
     * Health checks during deployments
 <!-- chapter: monitoring-and-logging, duration: 1h -->
 * Monitoring and Logging:
-    * `Nomad` metrics and telemetry
+    * Nomad metrics and telemetry
     * Log collection and aggregation
     * Integration with `Prometheus` and `Grafana`
     * Audit logging
@@ -138,7 +138,7 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
     * Global and regional jobs
 <!-- chapter: migration-strategies, duration: 1h -->
 * Migration Strategies:
-    * Migrating from `Kubernetes` to `Nomad`
+    * Migrating from `Kubernetes` to Nomad
     * Migrating from traditional deployments
     * Hybrid deployment approaches
     * Gradual adoption patterns

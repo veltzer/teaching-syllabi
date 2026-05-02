@@ -42,8 +42,8 @@ and Safety. Generative `AI` applications
 <!-- chapter: an-overview-of-generative-ai, duration: 4h -->
 * An overview of Generative `AI`
     * An overview of Generative `AI`.
-    * Language modeling with GPT and ChatGPT.
-    * An overview of ChatGPT training stages.
+    * Language modeling with `GPT` and `ChatGPT`.
+    * An overview of `ChatGPT` training stages.
 <!-- chapter: apis-of-generative-models, duration: 12h -->
 * APIs of generative models
     * Getting the most from an `API`
@@ -52,15 +52,15 @@ and Safety. Generative `AI` applications
         * Chain-of-thought reasoning
         * Fine Tuning etc.
     * Agents and memory.
-    * LangChain.
+    * `LangChain`.
     * Making a customized database interface.
 <!-- chapter: open-source-models-for-text-generation, duration: 12h -->
 * Open source models for text generation
     * Working with open source models
-    * Using `Hugging Face` infrastructure and LangChain.
+    * Using `Hugging Face` infrastructure and `LangChain`.
     * Parameter Efficient Fine Tuning.
     * Prompt Tuning.
-    * LoRA.
+    * `LoRA`.
     * QLoRA.
 <!-- chapter: brief-overview-of-image-generation-approaches, duration: 6h -->
 * Brief overview of image generation approaches
@@ -74,7 +74,7 @@ and Safety. Generative `AI` applications
     * Deep Fakes.
 
 ## References
-[syllabus](`https`://`ai`-dt.school/generative-`ai`/#curriculum)
+[syllabus](`https`://ai-dt.school/generative-`ai`/#curriculum)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

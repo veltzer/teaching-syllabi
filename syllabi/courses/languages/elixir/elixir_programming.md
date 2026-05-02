@@ -11,23 +11,23 @@ audience:
   - audiences:developers
 ---
 <!-- course: elixir_programming -->
-# `Elixir` Programming
+# Elixir Programming
 
 ## Description
-`Elixir` is a dynamic, functional programming language built on the `Erlang` VM (BEAM), designed for building scalable and maintainable applications. Created by Jose Valim, `Elixir` leverages the battle-tested `Erlang` ecosystem while providing a modern, approachable syntax and powerful metaprogramming capabilities. `Elixir` excels at building distributed, fault-tolerant systems and real-time applications.
+Elixir is a dynamic, functional programming language built on the `Erlang` VM (BEAM), designed for building scalable and maintainable applications. Created by Jose Valim, Elixir leverages the battle-tested `Erlang` ecosystem while providing a modern, approachable syntax and powerful metaprogramming capabilities. Elixir excels at building distributed, fault-tolerant systems and real-time applications.
 
-This course covers `Elixir` from the fundamentals through advanced topics including `OTP`, concurrency patterns, and the Phoenix web framework. Students will learn functional programming with `Elixir`, build concurrent applications using lightweight processes, and understand the fault tolerance patterns that `make` BEAM-based systems highly reliable. The course includes hands on exercises.
+This course covers Elixir from the fundamentals through advanced topics including `OTP`, concurrency patterns, and the Phoenix web framework. Students will learn functional programming with Elixir, build concurrent applications using lightweight processes, and understand the fault tolerance patterns that `make` BEAM-based systems highly reliable. The course includes hands on exercises.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Software developers who want to learn `Elixir` for building concurrent and distributed systems.
+* Software developers who want to learn Elixir for building concurrent and distributed systems.
 * Programmers interested in functional programming with practical, real-world applications.
 * Developers who need to build fault-tolerant, scalable web applications and services.
 
 ## Prerequisites
-* Prior programming experience in another language such as `Python`, `Ruby`, `Java`, or `JavaScript`.
+* Prior programming experience in another language such as `Python`, Ruby, `Java`, or `JavaScript`.
 * Understanding of basic computer science concepts.
 * Familiarity with command-line interfaces.
 
@@ -36,23 +36,23 @@ This course covers `Elixir` from the fundamentals through advanced topics includ
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand `Elixir` syntax, pattern matching, and functional programming concepts
-* Build concurrent applications using `Elixir` processes and message passing
+* Understand Elixir syntax, pattern matching, and functional programming concepts
+* Build concurrent applications using Elixir processes and message passing
 * Design fault-tolerant systems using `OTP` patterns
-* Work with Mix, ExUnit, and the `Elixir` toolchain
+* Work with Mix, ExUnit, and the Elixir toolchain
 * Use Ecto for database interactions
 * Understand the basics of the Phoenix framework and LiveView
 
 ## Outline
 <!-- chapter: getting-started-with-elixir, duration: 2h -->
-* Getting Started with `Elixir`
-    * What is `Elixir` and the BEAM VM?
-    * Installing `Elixir` and development tools
+* Getting Started with Elixir
+    * What is Elixir and the BEAM VM?
+    * Installing Elixir and development tools
     * IEx interactive shell
     * First program: Hello, World!
     * Basic syntax and conventions
 <!-- chapter: elixir-fundamentals, duration: 2h -->
-* `Elixir` Fundamentals
+* Elixir Fundamentals
     * Basic types: integers, floats, atoms, strings, booleans
     * Tuples, lists, and keyword lists
     * Maps and structs
@@ -105,7 +105,7 @@ This course covers `Elixir` from the fundamentals through advanced topics includ
     * ETS and in-memory storage
 <!-- chapter: error-handling-and-fault-tolerance, duration: 2h -->
 * Error Handling and Fault Tolerance
-    * The "`let` it crash" philosophy
+    * The "let it crash" philosophy
     * try/rescue/after
     * throw and catch
     * Supervisor restart strategies
@@ -148,7 +148,7 @@ This course covers `Elixir` from the fundamentals through advanced topics includ
     * Live navigation
     * Form handling with LiveView
 <!-- chapter: distributed-elixir, duration: 2h -->
-* Distributed `Elixir`
+* Distributed Elixir
     * Connecting BEAM nodes
     * Distributed processes and message passing
     * Global process registration

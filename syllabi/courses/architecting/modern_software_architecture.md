@@ -74,7 +74,7 @@ and architect systems for resiliency, observability, and `continuous delivery`.
         * `API` Gateway and Backend for Frontends (BFF)
         * Service Discovery and Load Balancing
         * Data Management strategies including Database per Service and Shared Database
-        * `Saga` Pattern for distributed transactions
+        * `Saga Pattern` for distributed transactions
         * `CQRS` and `Event Sourcing`
 <!-- chapter: cloud-native-architecture-and-container-recap, duration: 10h -->
 * Cloud Native Architecture and Container Recap
@@ -100,7 +100,7 @@ and architect systems for resiliency, observability, and `continuous delivery`.
         * Role of Observability in modern architecture
         * The Three Pillars including Metrics, Logging, and Tracing
         * Distributed Tracing with `OpenTelemetry`
-        * Monitoring tools and health `check` strategies
+        * Monitoring tools and health check strategies
     * `DevOps` and `CI/CD` for Architects
         * Infrastructure as Code (IaC) principles
         * Deployment strategies including Blue/Green, Canary, and Rolling updates

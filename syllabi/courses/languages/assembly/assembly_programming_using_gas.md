@@ -16,7 +16,7 @@ audience:
 
 ## Description
 This comprehensive course on `Assembly` Programming on `Linux` using GAS (GNU Assembler) offers a deep dive into the world of low-level programming. Designed for both beginners and those with some programming experience,
-the course takes students on a journey from the fundamentals of `assembly` language to advanced topics in system-level programming. Starting with an introduction to `assembly` concepts and the `x86`/`x86`-64 architectures, learners will quickly progress to writing and debugging their first `assembly` programs. The curriculum covers crucial areas such as data manipulation, arithmetic operations, control flow, and memory management, all within the context of the `Linux` operating system. Students will have gained practical experience in writing efficient `assembly` code, interfacing with `C` programs, and leveraging advanced features like SIMD instructions. With a strong emphasis on hands-on projects and real-world applications, this course equips participants with the skills needed to optimize performance-critical code, understand system internals, and even venture into areas like reverse engineering and low-level security analysis.
+the course takes students on a journey from the fundamentals of `assembly` language to advanced topics in system-level programming. Starting with an introduction to `assembly` concepts and the `x86`/`x86`-64 architectures, learners will quickly progress to writing and debugging their first `assembly` programs. The curriculum covers crucial areas such as data manipulation, arithmetic operations, control flow, and memory management, all within the context of the `Linux` operating system. Students will have gained practical experience in writing efficient `assembly` code, interfacing with C programs, and leveraging advanced features like SIMD instructions. With a strong emphasis on hands-on projects and real-world applications, this course equips participants with the skills needed to optimize performance-critical code, understand system internals, and even venture into areas like reverse engineering and low-level security analysis.
 
 ## Duration
 32 hours / 4 days
@@ -26,7 +26,7 @@ the course takes students on a journey from the fundamentals of `assembly` langu
 * developers who need to understand low-level code execution
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * basic understanding of computer architecture
 
 ## Objectives
@@ -100,8 +100,8 @@ the course takes students on a journey from the fundamentals of `assembly` langu
     * Instruction pipelining and branch prediction
     * Profiling and benchmarking
 <!-- chapter: inline-assembly-in-c, duration: 2h -->
-* Inline `Assembly` in `C`
-    * Embedding `assembly` in `C` programs
+* Inline `Assembly` in C
+    * Embedding `assembly` in C programs
     * Extended ASM syntax
     * Constraints and clobbers
 <!-- chapter: advanced-topics, duration: 2h -->

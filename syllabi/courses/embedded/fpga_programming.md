@@ -26,7 +26,7 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
 
 ## Prerequisites
 * `Solid` understanding of digital logic fundamentals (gates, flip-flops, combinational and sequential circuits)
-* Experience with at least one programming language (`C`, `C++`, or `Python`)
+* Experience with at least one programming language (C, `C++`, or `Python`)
 * Basic understanding of computer architecture (registers, memory, buses)
 * Familiarity with binary and hexadecimal number systems
 
@@ -40,7 +40,7 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
 * Apply timing constraints and resolve timing closure issues
 * Implement communication interfaces (`UART`, `SPI`, `I2C`, AXI) on FPGAs
 * Use Xilinx Vivado and Intel Quartus toolchains for synthesis, implementation, and debugging
-* Apply HLS techniques to accelerate development from `C`/`C++` code
+* Apply HLS techniques to accelerate development from C/`C++` code
 
 ## Outline
 <!-- chapter: fpga-architecture, duration: 3h -->
@@ -166,7 +166,7 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
 <!-- chapter: hls-high-level-synthesis, duration: 3h -->
 * HLS (High-Level Synthesis)
     * HLS concepts and workflow
-    * Writing `C`/`C++` for synthesis
+    * Writing C/`C++` for synthesis
     * Pragmas and directives for optimization
     * Pipeline and loop optimization
     * Interface synthesis

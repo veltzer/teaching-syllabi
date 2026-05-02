@@ -29,7 +29,7 @@ This course covers the principles and patterns of serverless architecture in a c
 ## Prerequisites
 * Experience with at least one cloud platform (`AWS`, `Azure`, or `GCP`).
 * Familiarity with distributed systems concepts.
-* Programming experience in a modern language such as `Python`, `JavaScript`, or `Go`.
+* Programming experience in a modern language such as `Python`, `JavaScript`, or Go.
 
 ## Required Knowledge
 * `Python` Programming (or equivalent experience)
@@ -59,7 +59,7 @@ This course covers the principles and patterns of serverless architecture in a c
     * Fan-out and fan-in patterns
     * Choreography vs orchestration
     * `API` composition pattern
-    * `Saga` pattern for distributed transactions
+    * Saga pattern for distributed transactions
     * `CQRS` and `event sourcing` in serverless
 <!-- chapter: cold-starts-and-performance, duration: 1h -->
 * Cold Starts and Performance

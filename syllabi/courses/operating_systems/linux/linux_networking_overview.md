@@ -38,7 +38,7 @@ device driver itself. It also teaching about other technologies that have an int
 * understand the core concepts and principles of `Linux`` networking overview
 * gain practical knowledge of `TCP``/``IP`` essentials
 * gain practical knowledge of The `Linux` networking stack
-* gain practical knowledge of Network `C` Programming essentials
+* gain practical knowledge of Network C Programming essentials
 
 ## Outline
 <!-- chapter: tcp-ip-essentials, duration: 2h -->
@@ -57,11 +57,11 @@ device driver itself. It also teaching about other technologies that have an int
     * The link layer
     * The user space `API`
 <!-- chapter: network-c-programming-essentials, duration: 3h -->
-* Network `C` Programming essentials
+* Network C Programming essentials
     * Stream socket server and client coding
         * socket, `bind`, connect, listen, accept
         * read, write, recv, send
-    * `C` library utility functions: gethostbyname, getservbyname
+    * C library utility functions: gethostbyname, getservbyname
     * Datagram coding: socket, `bind`, connect, recvfrom, sendto
     * Socket options, especially DSCP/TOS using IP_TOS
     * Out of band data
@@ -74,7 +74,7 @@ device driver itself. It also teaching about other technologies that have an int
     * performance tools: jnettop, netperf, lnstat rtmon rtstat nstat rtacct routef routel ctstat
     * Tapping tools: nc, `netcat`, `tcpdump`, `wireshark`
     * Quality control: tc
-    * Debugging tools: telnet, `ping`, `traceroute`, `nmap`
+    * Debugging tools: telnet, ping, `traceroute`, `nmap`
 <!-- chapter: linux-module-primer, duration: 2h -->
 * `Linux` module primer
     * Module initialization

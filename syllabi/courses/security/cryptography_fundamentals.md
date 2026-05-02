@@ -27,7 +27,7 @@ Cryptography is the foundation of modern information security. This course provi
 * Anyone who needs to understand cryptography for their technical role
 
 ## Prerequisites
-* Proficiency in at least one programming language (`Python`, `C`, `Java`, or similar)
+* Proficiency in at least one programming language (`Python`, C, `Java`, or similar)
 * Basic understanding of computer science fundamentals (binary, data structures)
 * Familiarity with networking concepts (`TCP`/`IP`, `HTTP`/`HTTPS`)
 * Basic knowledge of security concepts (confidentiality, integrity, authentication)
@@ -178,7 +178,7 @@ Cryptography is the foundation of modern information security. This course provi
     * `OpenSSL` command-line and library usage
     * libsodium high-level `API` and best practices
     * NaCl (Networking and Cryptography Library) design philosophy
-    * Language-specific libraries (`Python` cryptography, `Java` JCA/JCE, `Go` crypto)
+    * Language-specific libraries (`Python` cryptography, `Java` JCA/JCE, Go crypto)
     * Choosing the right library for your project
     * Keeping libraries updated and monitoring advisories
 

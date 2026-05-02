@@ -25,7 +25,7 @@ This course provides a thorough exploration of the CAN bus protocol and related 
 * Developers integrating CAN-based devices into larger systems
 
 ## Prerequisites
-* Experience with embedded `C` or `C++` programming
+* Experience with embedded C or `C++` programming
 * Basic understanding of serial communication concepts
 * Familiarity with binary and hexadecimal data representation
 * General knowledge of microcontroller peripherals

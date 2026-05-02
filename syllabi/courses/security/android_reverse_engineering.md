@@ -49,9 +49,9 @@ assessment, and malware analysis purposes.
 ## Outline
 <!-- chapter: apk-structure, duration: 2h -->
 * APK Structure
-    * APK `file` format and contents
+    * APK file format and contents
     * AndroidManifest.`xml` analysis
-    * DEX `file` format and `Dalvik` bytecode
+    * DEX file format and `Dalvik` bytecode
     * Resource files and asset extraction
     * Native libraries and JNI interface
     * Multidex applications
@@ -101,7 +101,7 @@ assessment, and malware analysis purposes.
 * Anti-Tampering Bypass
     * Root detection bypass techniques
     * Emulator detection bypass
-    * Integrity `check` circumvention
+    * Integrity check circumvention
     * SafetyNet and `Play Integrity` bypass
     * Debugger detection evasion
 <!-- chapter: certificate-pinning-bypass, duration: 2h -->

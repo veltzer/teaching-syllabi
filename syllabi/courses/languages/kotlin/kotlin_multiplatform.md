@@ -97,7 +97,7 @@ audience:
     * kotlinx.coroutines common and platform-specific dispatchers
     * Structured concurrency in shared code
     * Flow for reactive data streams across platforms
-    * Bridging coroutines with `iOS` concurrency (`Swift` `async`/`await`)
+    * Bridging coroutines with `iOS` concurrency (Swift async/await)
     * Error handling and cancellation in multiplatform coroutines
     * Testing asynchronous shared code
 <!-- chapter: dependency-injection-and-local-storage, duration: 3h -->

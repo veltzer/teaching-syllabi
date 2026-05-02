@@ -18,12 +18,12 @@ audience:
 # `Linux` systems programming
 
 ## Description
-This course is about user space programming in `Linux` in `C`.
+This course is about user space programming in `Linux` in C.
 It covers all major areas of programming (processes, threads, IO,
 networking, synchronization and more).
 It includes exercises (usually one exercise for every major chapter).
 
-`C++` is not covered as it is yet another thin layer on `top` of `C` and does not
+`C++` is not covered as it is yet another thin layer on top of C and does not
 change the system `API` in any way nor change any of the best practices learned
 in this course.
 
@@ -39,7 +39,7 @@ examples instead.
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
-* Experience in `C` programming is a must.
+* Experience in C programming is a must.
 
 ## Objectives
 * understand the core concepts and principles of `Linux`` systems programming
@@ -65,7 +65,7 @@ examples instead.
     * Some `make` syntax.
     * Compiling apps.
     * Compiling libraries.
-    * Making the apps `find` the libraries.
+    * Making the apps find the libraries.
     * Best practices.
     * Comparing build tools: `make`, `cmake`, `ninja`, ...
 <!-- chapter: processes, duration: 10h -->
@@ -123,7 +123,7 @@ examples instead.
 * Signal Handling
     * Why signals?
     * The problems created by asynchronous delivery.
-    * Overcoming the `async` problem of signals.
+    * Overcoming the async problem of signals.
         * routing back to main context.
         * `sigprocmask(2)/rt_sigprocmask(2)`
         * signal safe functions
@@ -159,10 +159,10 @@ examples instead.
     * cleanup facilities
     * cancellation facilities
     * thread affinities.
-    * threads are not `file` descriptors and what can you do about it.
+    * threads are not file descriptors and what can you do about it.
 <!-- chapter: file-api, duration: 5h -->
 * `File` `API`
-    * The per process `file` descriptor table.
+    * The per process file descriptor table.
     * open/read/write/close
     * Explanation of the semantics of read/write.
     * Overcoming the read/write issues
@@ -174,8 +174,8 @@ examples instead.
     * No locking in `UNIX`.
     * Directories.
     * Symbolic links.
-    * Other `file` types.
-    * Passing `file` descriptors between unrelated processes.
+    * Other file types.
+    * Passing file descriptors between unrelated processes.
     * `inotify` and its pitfalls
 <!-- chapter: the-io-subsystem, duration: 2h -->
 * The IO subsystem
@@ -215,7 +215,7 @@ examples instead.
     * The various clocks under the operating system
     * Sleeping precisely.
     * Working with the right clock.
-    * `timerfd(2)` - a `file` descriptor for a clock.
+    * `timerfd(2)` - a file descriptor for a clock.
     * Measuring very short functions accurately.
 <!-- chapter: multiple-io-apis, duration: 1h -->
 * Multiple IO APIs
@@ -223,8 +223,8 @@ examples instead.
     * `io_uring(7)`
 <!-- chapter: async-io, duration: 2h -->
 * `Async` IO
-    * What is `async` io?
-    * Comparing `async` io with zero copy and multiplexing
+    * What is async io?
+    * Comparing async io with zero copy and multiplexing
     * Using the `aio(2)` functions
     * Using the `uring(2)` functions
 <!-- chapter: multiplexing-io, duration: 5h -->
@@ -239,8 +239,8 @@ examples instead.
         * `aio(2)`
     * Doing classical multiplexing
         * How to do multiplexing correctly?
-        * `Design patterns` on `top` of multiplexing (Reactor/Proactor).
-        * Libraries built on `top` of multiplexing (`libuv`)
+        * `Design patterns` on top of multiplexing (Reactor/Proactor).
+        * Libraries built on top of multiplexing (`libuv`)
 <!-- chapter: zero-copy, duration: 5h -->
 * Zero copy
     * What is the problem to solve?
@@ -257,7 +257,7 @@ examples instead.
         * other solutions
 <!-- chapter: working-with-device-drivers, duration: 2h -->
 * Working with device drivers
-    * Everything is a `file` in `UNIX` - what does this mean?
+    * Everything is a file in `UNIX` - what does this mean?
     * The /dev folder and it's content.
     * Working with a simple serial port.
     * `ioctl(2)` and it's uses.
@@ -271,7 +271,7 @@ examples instead.
     * Network server design
 <!-- chapter: framework-issues, duration: 1h -->
 * Framework issues
-    * Namespaces and `cgroups` (what it is? `when` to use it?)
+    * Namespaces and `cgroups` (what it is? when to use it?)
     * Capabilities and how to use them properly
 <!-- chapter: secure-development, duration: 2h -->
 * Secure development

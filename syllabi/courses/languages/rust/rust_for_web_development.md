@@ -12,45 +12,45 @@ audience:
   - audiences:developers
 ---
 <!-- course: rust_for_web_development -->
-# `Rust` for Web Development
+# Rust for Web Development
 
 ## Description
-This course teaches web development using the `Rust` programming language. Participants will learn how to build production-ready web applications and `REST` APIs using the leading `Rust` web frameworks `Actix Web` and Axum. The course covers asynchronous programming with `Tokio`, database integration using SQLx and Diesel, authentication, middleware, testing strategies, and deployment considerations.
+This course teaches web development using the Rust programming language. Participants will learn how to build production-ready web applications and `REST` APIs using the leading Rust web frameworks `Actix Web` and Axum. The course covers asynchronous programming with `Tokio`, database integration using SQLx and Diesel, authentication, middleware, testing strategies, and deployment considerations.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-`Rust` developers who want to build web applications and `REST` APIs using modern `Rust` web frameworks and the `async` ecosystem.
+Rust developers who want to build web applications and `REST` APIs using modern Rust web frameworks and the async ecosystem.
 
 ## Prerequisites
-* `Solid` understanding of `Rust` fundamentals (ownership, borrowing, traits, generics)
+* `Solid` understanding of Rust fundamentals (ownership, borrowing, traits, generics)
 * Basic knowledge of `HTTP` and `REST` concepts
 * Familiarity with `SQL` and relational databases
 
 ## Objectives
 * Build `REST` APIs using `Actix Web` and Axum
-* Write asynchronous `Rust` code using `Tokio` and `async`/`await`
+* Write asynchronous Rust code using `Tokio` and async/await
 * Integrate databases using SQLx and Diesel
-* Implement authentication and authorization in `Rust` web applications
+* Implement authentication and authorization in Rust web applications
 * Write middleware for cross-cutting concerns
 * Test web applications at unit, integration, and end-to-end levels
-* Deploy `Rust` `web services` to production environments
+* Deploy Rust `web services` to production environments
 
 ## Outline
 <!-- chapter: introduction-to-web-development-in-rust, duration: 2h -->
-* Introduction to Web Development in `Rust`
-    * The `Rust` web ecosystem overview
-    * Why `Rust` for web development
-    * Comparison of `Rust` web frameworks
+* Introduction to Web Development in Rust
+    * The Rust web ecosystem overview
+    * Why Rust for web development
+    * Comparison of Rust web frameworks
     * Project structure and tooling
 <!-- chapter: asynchronous-rust-with-tokio, duration: 2h -->
-* Asynchronous `Rust` with `Tokio`
-    * Understanding `async`/`await` in `Rust`
+* Asynchronous Rust with `Tokio`
+    * Understanding async/await in Rust
     * The `Tokio` runtime and task scheduling
     * Futures, streams, and combinators
     * Spawning tasks and managing concurrency
-    * Error handling in `async` code
+    * Error handling in async code
 <!-- chapter: building-apis-with-actix-web, duration: 3h -->
 * Building APIs with `Actix Web`
     * Setting up an `Actix Web` project
@@ -105,7 +105,7 @@ This course teaches web development using the `Rust` programming language. Parti
 <!-- chapter: deployment-and-production-readiness, duration: 3h -->
 * Deployment and Production Readiness
     * Building optimized release binaries
-    * Containerizing `Rust` web applications with `Docker`
+    * Containerizing Rust web applications with `Docker`
     * Health checks and graceful shutdown
     * Configuration management
     * Monitoring and observability

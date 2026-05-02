@@ -87,7 +87,7 @@ Cloud architects, `DevOps` engineers, engineering managers, and finance stakehol
     * Reporting and dashboards
 <!-- chapter: cost-optimization-tools, duration: 1h -->
 * Cost Optimization Tools
-    * Cloud-native tools (`AWS` `Cost Explorer`, `Azure` Cost Management, `GCP` Billing)
+    * Cloud-native tools (`AWS` `Cost Explorer`, ```Azure`` Cost Management`, `GCP` Billing)
     * Third-party FinOps platforms
     * Infrastructure as Code for cost control
     * Automated scheduling and scaling policies

@@ -29,7 +29,7 @@ tools and patterns over the past two years.
 This three day course covers `LLM` observability as practiced today. It covers the unit of observation
 (the trace, not the request), the canonical signals (`token` counts, latency, cost, tool calls,
 retrieval results, model identity, prompt template version, evaluation scores), the platforms
-(`LangSmith`, `Langfuse`, `Helicone`, `Phoenix`, `Braintrust`, `Honeycomb` for `LLM`s, `OpenTelemetry`
+(`LangSmith`, Langfuse, Helicone, Phoenix, Braintrust, Honeycomb for `LLMs`, `OpenTelemetry`
 `gen_ai` semantic conventions), the local-vs-cloud question, the privacy-and-`PII` story, the prompt
 versioning, the evaluation-in-production loop, the agent trajectory observability, the cost-monitoring
 discipline, and the patterns that `make` production `LLM` systems debuggable. Examples cover real
@@ -98,7 +98,7 @@ observable enough to debug.
     * the data model
     * scoring and prompt management
     * the cost story
-    * `when` `Langfuse` is the right answer
+    * when `Langfuse` is the right answer
 <!-- chapter: helicone-and-proxy-based-observability, duration: 1h -->
 * `Helicone` and proxy-based observability
     * the proxy approach
@@ -125,7 +125,7 @@ observable enough to debug.
     * the cost dashboard
     * the quality dashboard
     * the cost-per-quality-unit metric
-    * the alert `when` cost spikes without quality gain
+    * the alert when cost spikes without quality gain
     * cross-reference to the `LLM Application Engineering` cost chapter
 <!-- chapter: production-evaluation-loop, duration: 2h -->
 * Production evaluation loop
@@ -161,7 +161,7 @@ observable enough to debug.
     * the dashboards everyone reads
     * the on-call story
     * the postmortem of a real `LLM` incident
-    * recommended reading: `OpenTelemetry GenAI` SIG, `LangSmith`/`Langfuse` docs
+    * recommended reading: `OpenTelemetry GenAI` SIG, LangSmith/`Langfuse` docs
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -57,7 +57,7 @@ Hands-on labs using local `CockroachDB` clusters provisioned with `Docker Compos
     * Horizontal scaling vs vertical scaling for OLTP
     * Strong consistency vs eventual consistency trade-offs
     * How `CockroachDB` achieves global ACID transactions
-    * Comparison with `Spanner`, `YugabyteDB`, and `TiDB`
+    * Comparison with Spanner, `YugabyteDB`, and `TiDB`
 
 <!-- chapter: cockroachdb-architecture, duration: 2h -->
 * `CockroachDB` Architecture
@@ -86,7 +86,7 @@ Hands-on labs using local `CockroachDB` clusters provisioned with `Docker Compos
     * Serial types and unique `IDs`: UUID, sequences, and `gen_random_uuid()`
     * Arrays, JSONB, and spatial types
     * `CockroachDB` `SQL` shell (`cockroach sql`) usage
-    * Connecting with `psql`, `pgAdmin`, and `Hibernate`
+    * Connecting with `psql`, `pgAdmin`, and Hibernate
 
 <!-- chapter: data-types-and-schemas, duration: 2h -->
 * Data Types and Schemas
@@ -106,7 +106,7 @@ Hands-on labs using local `CockroachDB` clusters provisioned with `Docker Compos
     * Savepoints for nested transaction simulation
     * Transaction contention and the contention metrics
     * Follower reads and AS OF SYSTEM TIME
-    * Read committed isolation (`when` to use it)
+    * Read committed isolation (when to use it)
     * Debugging transaction conflicts with the DB Console
 
 <!-- chapter: indexing-strategies, duration: 2h -->

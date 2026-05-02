@@ -31,7 +31,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 
 ## Prerequisites
 * Experience with software development in at least one programming language
-* Basic understanding of software development lifecycle models (`Agile`, Waterfall)
+* Basic understanding of software development lifecycle models (Agile, Waterfall)
 * Familiarity with version control (`Git`) and `CI/CD` concepts
 * Basic knowledge of common security vulnerabilities (`OWASP Top 10`)
 * Understanding of web application architecture
@@ -68,7 +68,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Threat Modeling in Design
     * `When` and how to perform threat modeling
     * Data flow diagrams and trust boundaries
-    * `STRIDE` methodology for threat identification
+    * STRIDE methodology for threat identification
     * Risk rating and prioritization
     * Documenting and tracking threats
     * Lightweight threat modeling for `agile` teams
@@ -99,7 +99,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 <!-- chapter: software-composition-analysis-sca, duration: 1h -->
 * Software Composition Analysis (`SCA`)
     * Open-source risk and supply chain security
-    * Popular `SCA` tools (`Snyk`, `Dependabot`, `Renovate`, `OWASP Dependency-Check`)
+    * Popular `SCA` tools (`Snyk`, `Dependabot`, Renovate, `OWASP Dependency-Check`)
     * Vulnerability databases (CVE, NVD, OSV)
     * License compliance checking
     * `SBOM` (Software Bill of Materials) generation and management

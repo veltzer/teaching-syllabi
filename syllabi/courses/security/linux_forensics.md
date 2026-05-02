@@ -123,7 +123,7 @@ The course helps prepare for the certification exam CLFP (7Safe).
     Participants will study different forensics reports
     prepared by investigators following past incidents
     and learn how to write a professional summary,
-    including which points to consider `when` addressing
+    including which points to consider when addressing
     the documentation of findings of an event.
     * Introduction to Report Writing
         * Device Identification
@@ -140,9 +140,9 @@ The course helps prepare for the certification exam CLFP (7Safe).
 ## References
 * [FTK Imager Documentation](`https`://www.exterro.com/ftk-imager)
 * [Autopsy Digital Forensics Platform](`https`://www.autopsy.com/)
-* [`Linux` Memory Extractor (`LiME`)](`https`://`github`.com/504ensicsLabs/`LiME`)
+* [`Linux` Memory Extractor (LiME)](https://github.com/504ensicsLabs/`LiME`)
 * [7Safe CLFP Certification](`https`://www.7safe.com/)
-* [`GDB`: The GNU Project Debugger](`https`://www.gnu.org/software/`gdb`/)
+* [`GDB`: The GNU Project Debugger](https://www.gnu.org/software/`gdb`/)
 * [Dradis Framework](`https`://dradisframework.com/)
 
 ## Copyright

@@ -69,7 +69,7 @@ own organizations, model unfamiliar domains effectively, and turn the output int
 <!-- chapter: workshop-mechanics, duration: 3h -->
 * Workshop mechanics
     * physical materials: sticky notes, color conventions, paper roll
-    * digital tools: `Miro`, `Mural`, `EventStorming.com`, `Whimsical`
+    * digital tools: `Miro`, Mural, `EventStorming.com`, `Whimsical`
     * room setup, group size and composition
     * the role of the facilitator
     * pacing, breaks and energy management
@@ -90,7 +90,7 @@ own organizations, model unfamiliar domains effectively, and turn the output int
     * external systems and integration boundaries
     * triggering events vs reaction events
     * spotting missing process steps
-    * walking the timeline backwards as a sanity `check`
+    * walking the timeline backwards as a sanity check
 <!-- chapter: software-design-event-storming, duration: 3h -->
 * Software design event storming
     * aggregates and consistency boundaries
@@ -142,12 +142,12 @@ own organizations, model unfamiliar domains effectively, and turn the output int
     * starting the workshop without losing the room
     * dealing with dominant voices and silent participants
     * keeping arguments productive
-    * recognizing `when` to slow down or speed up
+    * recognizing when to slow down or speed up
     * closing the workshop with concrete outputs
 <!-- chapter: remote-and-hybrid-event-storming, duration: 2h -->
 * Remote and hybrid event storming
     * choosing a digital canvas tool
-    * adapting workshop mechanics to `async` work
+    * adapting workshop mechanics to async work
     * managing time zones
     * splitting big workshops into smaller sessions
     * pitfalls unique to remote facilitation

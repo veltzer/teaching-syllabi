@@ -69,7 +69,7 @@ inherit a legacy codebase and get it under control.
 * Diagnosing what you inherited
     * the first-week reading-the-code plan
     * `git log`, `git blame` archaeology
-    * complexity and churn analysis: `CodeScene`, `tokei`, `lizard`
+    * complexity and churn analysis: `CodeScene`, tokei, `lizard`
     * cross-reference to the Technical Debt and Refactoring course's measurement chapter
     * runbooks and tribal-knowledge interviews
     * the "what could `go` wrong" list
@@ -87,10 +87,10 @@ inherit a legacy codebase and get it under control.
     * cross-reference to the Technical Debt course's testing chapter
     * the `Feathers` characterization-test technique
     * approval testing and golden-master tests
-    * `ApprovalTests`, `Touca`, `pytest-snapshot`, `Verify.NET`
+    * `ApprovalTests`, Touca, `pytest-snapshot`, `Verify.NET`
     * snapshot tests for `HTTP`, `IO`, side effects
     * trusting the snapshot enough to refactor against it
-    * the "is the snapshot wrong" `check`
+    * the "is the snapshot wrong" check
 <!-- chapter: feathers-seam-techniques, duration: 4h -->
 * `Feathers` seam techniques
     * the seam concept revisited
@@ -115,7 +115,7 @@ inherit a legacy codebase and get it under control.
     * the `Java 8` to `Java 21` jump
     * `Python 2` to `Python 3` (the historical lesson)
     * `Python 3.x` to current
-    * `Spring` and `Spring Boot` major-version migrations
+    * Spring and `Spring Boot` major-version migrations
     * `Node.js` `LTS` migrations
     * `.NET Framework` to `.NET` Core/`.NET`
     * codemods, automated migration tools
@@ -124,7 +124,7 @@ inherit a legacy codebase and get it under control.
 * Dependency modernization
     * the dependency that has not been updated in five years
     * the abandoned-library problem
-    * `Renovate`, `Dependabot` for ongoing maintenance
+    * Renovate, `Dependabot` for ongoing maintenance
     * the major-version-bump strategy
     * cross-reference to the `SAST`/`DAST` course's `SCA` chapter
     * deprecation cascades
@@ -162,8 +162,8 @@ inherit a legacy codebase and get it under control.
     * onboarding the next person
 <!-- chapter: dealing-with-the-original-authors, duration: 1h -->
 * Dealing with the original authors
-    * `when` the original authors are still around
-    * `when` they are not
+    * when the original authors are still around
+    * when they are not
     * the politics of "we are modernizing"
     * preserving the genuinely good decisions
     * recognizing where the legacy choice was actually correct
@@ -174,7 +174,7 @@ inherit a legacy codebase and get it under control.
     * the architecture-fitness-function pattern
     * cross-reference to the Trunk-Based Development course
     * the documentation-debt prevention
-    * the "do not `let` it `go` legacy again" team practice
+    * the "do not let it `go` legacy again" team practice
 <!-- chapter: case-studies, duration: 1h -->
 * Case studies
     * a successful `Java` 8 to 21 migration
@@ -186,7 +186,7 @@ inherit a legacy codebase and get it under control.
 * Workshop and wrap up
     * group review of a real legacy codebase
     * design walkthrough of a modernization plan
-    * recommended reading: `Feathers`, `Fowler`, `Hunt/Thomas`
+    * recommended reading: `Feathers`, Fowler, `Hunt/Thomas`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

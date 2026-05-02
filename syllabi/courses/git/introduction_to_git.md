@@ -11,7 +11,7 @@ audience:
   - audiences:managers
 ---
 <!-- course: introduction_to_git -->
-<!-- Track gaps: core `Git` internals (SHA1, object store), renaming/moving/removing files, stashing, rewriting history -->
+<!-- Track gaps: core Git internals (SHA1, object store), renaming/moving/removing files, stashing, rewriting history -->
 # Introduction to `Git`
 
 ## Description
@@ -36,7 +36,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 ## Objectives
 * Setup and use `git`
 * Understand and use `Git`'s branching features correctly and effectively
-* Decide on which workflows to use `when` using `Git`
+* Decide on which workflows to use when using `Git`
 
 ## Outline
 <!-- chapter: introduction-to-git, duration: 1h -->
@@ -122,10 +122,10 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 <!-- chapter: under-the-hood, duration: 2h -->
 * Under the hood
     * The `Git` object store and how it works
-    * What happens `when` you add
-    * What happens `when` you commit?
-    * What happens `when` you create an annotated tag?
-    * What happens `when` you branch?
+    * What happens when you add
+    * What happens when you commit?
+    * What happens when you create an annotated tag?
+    * What happens when you branch?
 <!-- chapter: worktrees, duration: 1h -->
 * Worktrees
     * Why are they needed?
@@ -157,7 +157,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
     * `GitHub` and `BitBucket`
     * `Gitlab`
     * `Git` and `IDEs`
-    * `Git` and `Jenkins`, `Bamboo` etc
+    * `Git` and `Jenkins`, Bamboo etc
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

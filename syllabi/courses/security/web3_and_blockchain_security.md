@@ -26,11 +26,11 @@ specialized, learnable, and in short supply.
 
 This five day course covers `Web3` security as a focused engineering discipline. It covers the threat model
 unique to smart contracts, the major vulnerability classes (reentrancy, `oracle` manipulation, access control,
-arithmetic, signature replay, `MEV`), the auditing process end to end, the tooling (`Slither`, `Mythril`,
-`Echidna`, `Foundry` invariants, `Halmos`), `DeFi`-specific risks, bridge and `L2` risks, the post-deployment
+arithmetic, signature replay, `MEV`), the auditing process end to end, the tooling (Slither, `Mythril`,
+`Echidna`, Foundry invariants, Halmos), DeFi-specific risks, bridge and `L2` risks, the post-deployment
 operational story (monitoring, incident response, upgrades), and the bug-bounty ecosystem. Examples are drawn
 from public audit reports, post-mortem analyses of major exploits, and the audit content from `Trail of Bits`,
-`OpenZeppelin`, `ConsenSys Diligence` and `Code4rena`. The course is `Ethereum`-centric but covers
+`OpenZeppelin`, `ConsenSys Diligence` and Code4rena. The course is `Ethereum`-centric but covers
 non-`EVM` systems where it matters.
 
 ## Duration
@@ -43,7 +43,7 @@ non-`EVM` systems where it matters.
 * engineers preparing for `Code4rena` or similar audit contests
 
 ## Prerequisites
-* working knowledge of `Solidity` or another smart-contract language
+* working knowledge of Solidity or another smart-contract language
 * basic familiarity with `Ethereum` and the `EVM`
 * basic understanding of cryptographic primitives (hashes, signatures)
 * exposure to at least one general-purpose security course is helpful
@@ -103,10 +103,10 @@ non-`EVM` systems where it matters.
     * the integer-division-then-multiply trap
     * unit confusion: wei vs ether vs tokens
 <!-- chapter: oracle-manipulation, duration: 3h -->
-* `Oracle` manipulation
+* Oracle manipulation
     * the `oracle` problem
     * spot-price vs `TWAP` oracles
-    * `Uniswap` `V2`/`V3` as an `oracle`, safely and unsafely
+    * `Uniswap` V2/V3 as an `oracle`, safely and unsafely
     * `Chainlink` push oracles
     * flash-loan-driven `oracle` manipulation
     * cross-chain `oracle` risks
@@ -141,7 +141,7 @@ non-`EVM` systems where it matters.
 * Bridges and cross-chain risks
     * the bridge as the highest-value target
     * lock-and-mint vs liquidity-pool bridges
-    * the `Wormhole`, `Ronin`, `Nomad` exploits
+    * the `Wormhole`, `Ronin`, Nomad exploits
     * cross-chain message verification
     * bridge custody patterns
     * the case for and against bridges
@@ -181,14 +181,14 @@ non-`EVM` systems where it matters.
     * the multi-sig and `MPC` admin pattern
 <!-- chapter: monitoring-and-incident-response, duration: 2h -->
 * Monitoring and incident response
-    * on-chain monitoring: `Tenderly`, `Forta`, `OpenZeppelin Defender`
+    * on-chain monitoring: `Tenderly`, Forta, `OpenZeppelin Defender`
     * incident-time pause and rescue patterns
     * working with white-hat hackers
     * cross-reference to the Security Incident Response course
     * post-incident comms and `MEV`-driven recovery
 <!-- chapter: bug-bounty-and-audit-contests, duration: 1h -->
 * Bug bounty and audit contests
-    * `Immunefi`, `Code4rena`, `Sherlock`, `Cantina`
+    * `Immunefi`, Code4rena, Sherlock, `Cantina`
     * scope and rules of engagement
     * responsible disclosure on-chain
     * career path: solo auditor, contest judge, audit firm

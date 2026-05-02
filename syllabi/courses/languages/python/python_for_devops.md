@@ -88,22 +88,22 @@ This two day course teaches `DevOps` engineers how to leverage `Python` for infr
 * Log Parsing and Analysis
     * Reading and parsing structured log files
     * Regular expressions for log extraction
-    * Parsing common log formats (`syslog`, `JSON`, `Apache`)
+    * Parsing common log formats (`syslog`, `JSON`, Apache)
     * Aggregating and summarizing log data
     * Building log monitoring scripts
 <!-- chapter: monitoring-scripts, duration: 2h -->
 * Monitoring Scripts
-    * Health `check` scripts and service monitoring
+    * Health check scripts and service monitoring
     * System resource monitoring (`CPU`, memory, disk)
     * Custom metric collection and reporting
-    * Alerting integrations (`Slack`, `PagerDuty`, email)
+    * Alerting integrations (Slack, `PagerDuty`, email)
     * Scheduling scripts with cron and APScheduler
 <!-- chapter: api-integration, duration: 2h -->
 * `API` Integration
     * Working with `REST` APIs using requests and httpx
     * Authentication patterns (tokens, `OAuth`, `API` keys)
     * Integrating with `GitHub`, `Jira`, and `CI/CD` APIs
-    * Webhook handlers with `Flask` and `FastAPI`
+    * Webhook handlers with Flask and `FastAPI`
     * Rate limiting and retry strategies
     * Error handling and resilience patterns
 

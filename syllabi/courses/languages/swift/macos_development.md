@@ -10,12 +10,12 @@ audience:
   - audiences:developers
 ---
 <!-- course: macos_development -->
-# `macOS` Development with `Swift`
+# `macOS` Development with Swift
 
 ## Description
-This course teaches developers how to build native `macOS` applications using `Swift`. Students
+This course teaches developers how to build native `macOS` applications using Swift. Students
 will learn both AppKit and SwiftUI approaches to `macOS` development, covering everything
-from window management and menus to `file` system access, networking, and distribution.
+from window management and menus to file system access, networking, and distribution.
 The course emphasizes modern `macOS` development practices including sandboxing, notarization,
 and system integration.
 
@@ -25,10 +25,10 @@ and system integration.
 ## Intended Audience
 * Developers who want to build native `macOS` applications.
 * `iOS` developers expanding to `macOS` development.
-* Developers interested in Apple platform development with `Swift`.
+* Developers interested in Apple platform development with Swift.
 
 ## Prerequisites
-* Working knowledge of `Swift` programming.
+* Working knowledge of Swift programming.
 * Basic understanding of object-oriented programming concepts.
 * Access to a Mac with `Xcode` installed.
 
@@ -54,9 +54,9 @@ and system integration.
     * Build settings and schemes
     * Instruments and profiling
 <!-- chapter: swift-for-macos, duration: 1h -->
-* `Swift` for `macOS`
-    * `Swift` features relevant to `macOS`
-    * Concurrency with `async`/`await`
+* Swift for `macOS`
+    * Swift features relevant to `macOS`
+    * Concurrency with async/await
     * Memory management (ARC)
     * Interoperability with `Objective-C`
 <!-- chapter: appkit-fundamentals, duration: 2h -->
@@ -64,7 +64,7 @@ and system integration.
     * `Windows` and window controllers
     * Views and view controllers
     * Auto Layout
-    * `Responder` chain
+    * Responder chain
     * Custom drawing
 <!-- chapter: swiftui-for-macos, duration: 2h -->
 * SwiftUI for `macOS`
@@ -144,10 +144,10 @@ and system integration.
     * Dynamic Type
     * Accessible custom controls
 <!-- chapter: keyboard-shortcuts-and-responder-chain, duration: 1h -->
-* Keyboard Shortcuts and `Responder` Chain
+* Keyboard Shortcuts and Responder Chain
     * Key equivalents for menu items
     * Custom keyboard shortcuts
-    * `Responder` chain in depth
+    * Responder chain in depth
     * First `responder` management
 <!-- chapter: drag-and-drop, duration: 1h -->
 * Drag and Drop

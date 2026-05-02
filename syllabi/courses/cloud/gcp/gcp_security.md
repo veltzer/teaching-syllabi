@@ -62,7 +62,7 @@ for audit logging, compliance, and incident response.
     * Service perimeters and access levels
     * Protecting sensitive APIs and data
     * Dry-run mode and troubleshooting
-    * `Ingress` and egress policies
+    * Ingress and egress policies
 <!-- chapter: security-command-center, duration: 2h -->
 * `Security Command Center`
     * Security Health Analytics

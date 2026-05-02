@@ -59,7 +59,7 @@ and performance tuning.
 <!-- chapter: istio-architecture, duration: 2h -->
 * `Istio` Architecture
     * `Istio` components overview
-    * The `Envoy` proxy and its role
+    * The Envoy proxy and its role
     * istiod and the control plane
     * Data plane vs control plane
     * `Istio` resource model
@@ -110,7 +110,7 @@ and performance tuning.
 <!-- chapter: performance-tuning, duration: 3h -->
 * Performance Tuning
     * Understanding `Istio` overhead
-    * Resource configuration for `Envoy` sidecars
+    * Resource configuration for Envoy sidecars
     * Sidecar resource scoping
     * Protocol selection and optimization
     * Profiling and benchmarking the mesh

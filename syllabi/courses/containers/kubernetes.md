@@ -22,7 +22,7 @@ This course provides a thorough introduction to `Kubernetes`, the industry-stand
 container orchestration platform. Students will learn how to deploy, manage, and scale
 containerized applications on a `Kubernetes` cluster. The course covers core concepts
 such as pods, services, and deployments, as well as more advanced topics including
-`Helm` charts, `RBAC`, networking, `ingress`, configuration management, and observability.
+Helm charts, `RBAC`, networking, `ingress`, configuration management, and observability.
 By the end of the course, students will have the practical skills needed to operate
 and manage production-grade `Kubernetes` environments.
 
@@ -52,7 +52,7 @@ and manage production-grade `Kubernetes` environments.
 * Manage application configuration using `ConfigMaps` and Secrets
 * Set up `ingress` controllers and networking policies
 * Implement role-based access control (`RBAC`)
-* Use `Helm` to package and deploy applications
+* Use Helm to package and deploy applications
 * Monitor and observe `Kubernetes` workloads
 
 ## Outline
@@ -108,13 +108,13 @@ and manage production-grade `Kubernetes` environments.
     * Restricting traffic between namespaces
     * `CoreDNS` and `DNS` in `Kubernetes`
 <!-- chapter: ingress, duration: 2h -->
-* `Ingress`
-    * What is `Ingress`?
-    * `Ingress` controllers: `NGINX`, `Traefik`, and others
-    * Defining `Ingress` resources
+* Ingress
+    * What is Ingress?
+    * Ingress controllers: `NGINX`, `Traefik`, and others
+    * Defining Ingress resources
     * Path-based and host-based routing
-    * `TLS` termination with `Ingress`
-    * `Ingress` annotations and customization
+    * `TLS` termination with Ingress
+    * Ingress annotations and customization
 <!-- chapter: role-based-access-control-rbac, duration: 2h -->
 * Role-Based Access Control (`RBAC`)
     * Authentication and authorization in `Kubernetes`
@@ -124,13 +124,13 @@ and manage production-grade `Kubernetes` environments.
     * Least privilege principles
     * Auditing access and permissions
 <!-- chapter: helm, duration: 3h -->
-* `Helm`
-    * What is `Helm` and why use it?
-    * `Helm` charts: structure and components
-    * Installing and managing applications with `Helm`
+* Helm
+    * What is Helm and why use it?
+    * Helm charts: structure and components
+    * Installing and managing applications with Helm
     * Chart repositories
     * Customizing deployments with values files
-    * Creating your own `Helm` charts
+    * Creating your own Helm charts
     * Chart versioning and dependency management
 <!-- chapter: observability, duration: 3h -->
 * Observability

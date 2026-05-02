@@ -75,7 +75,7 @@ resource consumption and application load. And, finally, we will define uptime c
 liveliness and latency.
 <!-- chapter: configuring-google-cloud-services-for-observability, duration: 2h -->
 * Configuring `Google Cloud` Services for Observability
-In the next part of our Metrics discussion, `let`'s take a little time to examine the art of Configuring
+In the next part of our Metrics discussion, let's take a little time to examine the art of Configuring
 `Google Cloud` Services for Observability. In this module, we're going to spend a little time learning
 how to integrate logging and monitoring agents into `Compute Engine` VMs and images using
 Agents, enable and utilize `Kubernetes` Monitoring, extend and clarify `Kubernetes` monitoring with
@@ -92,7 +92,7 @@ application errors to Logging and other operation tools using Error Reporting, a
 In this module, we will examine two key topics: Monitoring as it relates to the `VPC` network, and
 how to use Google's Cloud Audit logs. You will learn to collect and analyze `VPC` Flow, `Firewall`
 Rule, and Cloud `NAT` logs, enable Packet Mirroring, explain the capabilities of the Network
-Intelligence Center, and use Cloud Audit logs to answer the question, "Who, did what, and `when`?"
+Intelligence Center, and use Cloud Audit logs to answer the question, "Who, did what, and when?"
 We will also cover best practices for Audit Logging.
 <!-- chapter: managing-incidents, duration: 3h -->
 * Managing Incidents

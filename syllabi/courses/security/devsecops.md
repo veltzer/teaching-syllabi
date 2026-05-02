@@ -29,7 +29,7 @@ audience:
 * Development leads and architects designing secure-by-default systems
 
 ## Prerequisites
-* Proficiency in at least one programming language (`Python`, `Java`, `Go`, `JavaScript`, or similar)
+* Proficiency in at least one programming language (`Python`, `Java`, Go, `JavaScript`, or similar)
 * Hands-on experience with `CI/CD` tools such as `GitHub Actions`, `GitLab CI`, or `Jenkins`
 * Familiarity with `Docker` and container-based deployments
 * Basic understanding of common web vulnerabilities (`OWASP Top 10`)
@@ -72,8 +72,8 @@ audience:
 <!-- chapter: threat-modeling-in-the-sdlc, duration: 2h -->
 * Threat Modeling in the `SDLC`
     * What is threat modeling and why it matters at design time
-    * `STRIDE` methodology: Spoofing, Tampering, Repudiation, Information Disclosure, DoS, Elevation
-    * `PASTA` and attack tree methodologies
+    * STRIDE methodology: Spoofing, Tampering, Repudiation, Information Disclosure, DoS, Elevation
+    * PASTA and attack tree methodologies
     * Data Flow Diagrams (`DFD`) as the foundation for threat analysis
     * Identifying trust boundaries and attack surfaces
     * Threat modeling tools: `OWASP Threat Dragon`, `Microsoft Threat Modeling Tool`
@@ -103,7 +103,7 @@ audience:
 * Software Composition Analysis (`SCA`)
     * The open-source dependency risk landscape (`Log4Shell`, `event-stream`, `XZ Utils`)
     * How `SCA` tools detect vulnerable and malicious dependencies
-    * Tools: `Dependabot`, `Snyk`, `OWASP Dependency-Check`, `Renovate`
+    * Tools: `Dependabot`, `Snyk`, `OWASP Dependency-Check`, Renovate
     * License compliance scanning alongside vulnerability detection
     * Establishing dependency update policies and automated PR workflows
     * Responding to zero-day vulnerabilities in production dependencies
@@ -112,7 +112,7 @@ audience:
 <!-- chapter: secrets-management-in-ci-cd, duration: 2h -->
 * Secrets Management in `CI/CD`
     * The problem of secrets sprawl: hardcoded credentials, leaked `.env` files
-    * Scanning for secrets with `truffleHog`, `gitleaks`, and `git-secrets`
+    * Scanning for secrets with `truffleHog`, gitleaks, and `git-secrets`
     * Pre-commit and pre-push hooks for secrets detection
     * `HashiCorp Vault`: dynamic secrets, secret leasing, and `CI/CD` integration
     * Cloud-native secrets stores: `AWS Secrets Manager`, `Azure Key Vault`, `GCP Secret Manager`
@@ -126,7 +126,7 @@ audience:
     * Scanning images at build time, registry ingestion, and runtime
     * `Dockerfile` best practices: minimal base images, non-root users, multi-stage builds
     * Image signing and attestation with `Cosign` and `Notary v2`
-    * Registry policy enforcement with `Harbor` and cloud registry security features
+    * Registry policy enforcement with Harbor and cloud registry security features
     * Runtime container security monitoring with `Falco`
 
 <!-- chapter: security-gates-in-ci-cd-pipelines, duration: 3h -->

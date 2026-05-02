@@ -29,12 +29,12 @@ principles. Approximately 40% of the course is practical work.
 
 ## Intended Audience
 The course is designed for Real Time engineers who are embarking on a project using `C++`
-for the first time. It is also targeted at developers currently reluctant to move to `C++` from `C`
+for the first time. It is also targeted at developers currently reluctant to move to `C++` from C
 as they believe it poses too great an overhead. This course will clearly demonstrate both the
-strengths and weaknesses of `C++` versus `C`.
+strengths and weaknesses of `C++` versus C.
 
 ## Prerequisites
-* Delegates should have a working knowledge of `C` and `C++` basics, and some knowledge of
+* Delegates should have a working knowledge of C and `C++` basics, and some knowledge of
 Embedded/Real Time programming.
 
 ## Objectives
@@ -64,7 +64,7 @@ Embedded/Real Time programming.
         * Constructor , destructor, rule of 3
         * Using const
         * Overloading
-    * `C++` as a better and safer `C`
+    * `C++` as a better and safer C
 <!-- chapter: efficiency-integrity-and-performance-issues, duration: 4h -->
 * Efficiency, Integrity and Performance Issues
     * Enumerations

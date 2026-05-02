@@ -18,11 +18,11 @@ audience:
 # Serverless Databases in Practice
 
 ## Description
-Serverless databases — `Aurora Serverless v2`, `DynamoDB`, `Neon`, `PlanetScale`, ```Cloud SQL`` with
-serverless`, `Upstash `Redis``, ``Cloudflare` D1`, `Turso` — promise no-capacity-planning, pay-per-use,
+Serverless databases — `Aurora Serverless v2`, `DynamoDB`, Neon, PlanetScale, ```Cloud SQL`` with
+serverless`, `Upstash `Redis``, `Cloudflare D1`, `Turso` — promise no-capacity-planning, pay-per-use,
 scale-to-zero relational and key-value storage. The catalog has individual database courses
 (`Postgres`, `MySQL`, `DynamoDB`) and a general `Serverless in Practice` course, but does not address
-the specific engineering question: `when` does a serverless database `make` sense, and what changes `when`
+the specific engineering question: when does a serverless database `make` sense, and what changes when
 you adopt one? The cost model, the cold-start behavior, the connection-management approach, and the
 operational story all differ from a provisioned database, and several common application patterns
 break against a serverless backend.
@@ -33,7 +33,7 @@ shapes (request-priced, capacity-unit-priced, scaled-up-and-down-priced), the co
 the connection-management story (which is the headline gotcha for relational serverless), the
 write-vs-read scaling, the multi-region story, the `IO`-cost subtlety, the patterns that work well
 (spiky traffic, low-baseline workloads) and the patterns that do not (steady high-throughput, very
-low-latency tail), and the migration story `when` the workload outgrows serverless. Examples cover
+low-latency tail), and the migration story when the workload outgrows serverless. Examples cover
 several real cost scenarios. Participants leave able to `make` the serverless-database decision
 deliberately.
 
@@ -95,7 +95,7 @@ deliberately.
 * Cost shape of serverless relational
     * the `ACU` (`Aurora Capacity Unit`) model
     * the per-`GB`-month storage
-    * the `IO` cost in `Aurora`
+    * the `IO` cost in Aurora
     * `Neon`'s compute-and-storage split
     * the "the bill spiked because of `IO`" surprise
 <!-- chapter: cost-shape-of-dynamodb, duration: 2h -->

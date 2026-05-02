@@ -10,23 +10,23 @@ audience:
   - audiences:developers
 ---
 <!-- course: ruby_programming -->
-# `Ruby` Programming
+# Ruby Programming
 
 ## Description
-`Ruby` is a dynamic, open-source programming language with a focus on simplicity and productivity. Created by Yukihiro "Matz" Matsumoto, `Ruby` features an elegant syntax that is natural to read and easy to write. It is a pure object-oriented language where everything is an object, and it supports multiple programming paradigms including procedural and functional programming.
+Ruby is a dynamic, open-source programming language with a focus on simplicity and productivity. Created by Yukihiro "Matz" Matsumoto, Ruby features an elegant syntax that is natural to read and easy to write. It is a pure object-oriented language where everything is an object, and it supports multiple programming paradigms including procedural and functional programming.
 
-This course covers `Ruby` from the fundamentals through advanced topics such as metaprogramming and the `Ruby on Rails` framework. Students will learn to write idiomatic `Ruby` code, work with blocks and iterators, build well-structured object-oriented programs, and leverage the `Ruby` ecosystem for testing and web development. The course includes hands on exercises.
+This course covers Ruby from the fundamentals through advanced topics such as metaprogramming and the `Ruby on Rails` framework. Students will learn to write idiomatic Ruby code, work with blocks and iterators, build well-structured object-oriented programs, and leverage the Ruby ecosystem for testing and web development. The course includes hands on exercises.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Software developers who want to learn `Ruby` for web development or scripting.
-* Programmers experienced in other languages who want to explore `Ruby`'s expressive syntax and object model.
+* Software developers who want to learn Ruby for web development or scripting.
+* Programmers experienced in other languages who want to explore Ruby's expressive syntax and object model.
 * Developers interested in building web applications with `Ruby on Rails`.
 
 ## Prerequisites
-* Prior programming experience in another language such as `Python`, `Java`, `JavaScript`, or `C`.
+* Prior programming experience in another language such as `Python`, `Java`, `JavaScript`, or C.
 * Understanding of basic computer science concepts.
 * Familiarity with command-line interfaces.
 
@@ -35,23 +35,23 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand `Ruby` syntax, type system, and core language features
-* Write idiomatic `Ruby` code using blocks, procs, and lambdas
+* Understand Ruby syntax, type system, and core language features
+* Write idiomatic Ruby code using blocks, procs, and lambdas
 * Build object-oriented programs with classes, modules, and mixins
-* Use `Ruby`'s powerful collection and iteration capabilities
+* Use Ruby's powerful collection and iteration capabilities
 * Write tests with `RSpec`
 * Understand the basics of `Ruby on Rails` web development
 
 ## Outline
 <!-- chapter: getting-started-with-ruby, duration: 2h -->
-* Getting Started with `Ruby`
-    * What is `Ruby` and why use it?
-    * Installing `Ruby` and development tools
+* Getting Started with Ruby
+    * What is Ruby and why use it?
+    * Installing Ruby and development tools
     * IRB and the interactive console
     * First program: Hello, World!
     * Basic syntax and conventions
 <!-- chapter: ruby-fundamentals, duration: 2h -->
-* `Ruby` Fundamentals
+* Ruby Fundamentals
     * Objects and basic types (numbers, strings, symbols)
     * Variables (local, instance, class, global)
     * Operators and expressions
@@ -61,7 +61,7 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
 * Control Flow
     * Conditional statements (if, elsif, else, unless)
     * Ternary operator and inline conditionals
-    * case/`when` expressions
+    * case/when expressions
     * Loops (`while-loop`, `until-loop`, `for-loop`)
     * Loop control (break, next, redo)
 <!-- chapter: collections, duration: 2h -->
@@ -118,7 +118,7 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
     * The RubyGems ecosystem
     * Installing and managing gems
     * Bundler and the Gemfile
-    * Creating your own `gem`
+    * Creating your own gem
 <!-- chapter: metaprogramming, duration: 2h -->
 * Metaprogramming
     * method_missing and respond_to_missing?
@@ -141,8 +141,8 @@ This course covers `Ruby` from the fundamentals through advanced topics such as 
     * Routing, controllers, and views
     * ActiveRecord basics and database integration
 <!-- chapter: ruby-best-practices, duration: 2h -->
-* `Ruby` Best Practices
-    * `Ruby` style guide and conventions
+* Ruby Best Practices
+    * Ruby style guide and conventions
     * Code organization and project structure
     * Performance considerations
     * Common idioms and patterns

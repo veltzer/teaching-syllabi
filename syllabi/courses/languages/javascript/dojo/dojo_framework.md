@@ -66,7 +66,7 @@ Ajax-enabled applications and more.
 <!-- chapter: infrastructure, duration: 3h -->
 * Infrastructure
     * support for themes
-    * support for `require`
+    * support for require
     * custom build.
     * dojo.addOnLoad.
     * support for debug.
@@ -109,7 +109,7 @@ Ajax-enabled applications and more.
     * how does Dojo fit in with Open Ajax
 
 ## Installations
-* `Apache` `tomcat` version 5 installed on students machines
+* Apache `tomcat` version 5 installed on students machines
     Mind you - `tomcat` is important and not just a web server since some applets
     will be supplied as part of the exercises so that students could practice
     interaction with the server

@@ -28,7 +28,7 @@ As microservice architectures grow in complexity, understanding the flow of a si
 
 ## Prerequisites
 * Familiarity with `microservices` and container-based deployments (`Docker`, `Kubernetes`).
-* Basic experience with at least one programming language (`Go`, `Python`, `Java`, or `JavaScript`).
+* Basic experience with at least one programming language (Go, `Python`, `Java`, or `JavaScript`).
 * Understanding of `HTTP` and basic networking concepts.
 * Some exposure to observability concepts (metrics, logs) is helpful but not required.
 
@@ -73,14 +73,14 @@ As microservice architectures grow in complexity, understanding the flow of a si
     * Context propagation with W3C Trace Context headers
     * Baggage propagation across service boundaries
     * Correlating traces with logs using trace and span `IDs`
-    * Language-specific examples: `Go`, `Python`, `Java`
+    * Language-specific examples: Go, `Python`, `Java`
 <!-- chapter: deploying-jaeger, duration: 2h -->
 * Deploying `Jaeger`
     * Running `Jaeger` all-in-one with `Docker`
     * Deploying `Jaeger` on `Kubernetes` with the `Jaeger` Operator
     * Configuring the collector for high availability
     * Securing `Jaeger` with `TLS` and authentication
-    * `Helm` chart deployment and configuration options
+    * Helm chart deployment and configuration options
     * Resource sizing and capacity planning
 <!-- chapter: analyzing-traces-in-jaeger-ui, duration: 2h -->
 * Analyzing Traces in the `Jaeger` UI

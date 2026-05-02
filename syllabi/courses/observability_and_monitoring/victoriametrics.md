@@ -52,7 +52,7 @@ audience:
     * Limitations of `Prometheus` at scale
     * What `VictoriaMetrics` offers: performance, compression, and compatibility
     * Single-node vs cluster architecture overview
-    * `VictoriaMetrics` ecosystem: `VMAgent`, `VMAlert`, `VMAuth`, `VMOperator`
+    * `VictoriaMetrics` ecosystem: VMAgent, `VMAlert`, VMAuth, `VMOperator`
     * Comparison with Thanos, Cortex, and Mimir
     * Use cases and deployment scenarios
 <!-- chapter: architecture-and-storage-engine, duration: 2h -->
@@ -63,7 +63,7 @@ audience:
     * Index structure and label cardinality management
     * Memory and disk layout
     * Single-node component overview
-    * Cluster components: `vminsert`, `vmstorage`, `vmselect`
+    * Cluster components: `vminsert`, vmstorage, `vmselect`
     * Data replication and consistency guarantees
 <!-- chapter: installation-and-configuration, duration: 1h -->
 * Installation and Configuration
@@ -89,7 +89,7 @@ audience:
     * Instant queries and range queries
     * Label filtering and matching operators
     * Aggregation functions: sum, avg, max, count, and more
-    * `MetricsQL`-specific functions: `rollup`, `aggr_over_time`, `topk_last`
+    * `MetricsQL`-specific functions: rollup, aggr_over_time, `topk_last`
     * Subqueries and nested aggregations
     * Handling staleness and gaps in data
     * Query optimization tips and pitfalls
@@ -105,7 +105,7 @@ audience:
     * Monitoring disk usage and storage health
 <!-- chapter: clustering-mode, duration: 2h -->
 * Clustering Mode
-    * Cluster architecture: `vminsert`, `vmstorage`, `vmselect` in depth
+    * Cluster architecture: `vminsert`, vmstorage, `vmselect` in depth
     * Deploying a `VictoriaMetrics` cluster on `Kubernetes`
     * Replication factor and data redundancy
     * Horizontal scaling of each cluster component independently

@@ -11,7 +11,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: introduction_to_apache_kafka -->
-<!-- Track gap: `ZooKeeper` as a dedicated topic with detailed coverage -->
+<!-- Track gap: ZooKeeper as a dedicated topic with detailed coverage -->
 # Introduction to `Apache Kafka`
 
 ## Description
@@ -30,7 +30,7 @@ The Introduction to `Apache Kafka` training course will provide the path for how
 * Learn the fundamentals of `Kafka`
 * Gain understanding on how `Kafka` fits into the `Hadoop` ecosystem as well as the enterprise
 * Build consumers and producers and integrate with other ecosystem products
-* `Make` `Kafka` scale
+* Make `Kafka` scale
 
 ## Outline
 <!-- chapter: overview, duration: 2h -->

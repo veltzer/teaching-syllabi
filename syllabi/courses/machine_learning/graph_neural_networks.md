@@ -106,12 +106,12 @@ link prediction, graph classification, fraud detection, and recommendation.
 * Knowledge Graphs and Link Prediction
     * Knowledge graph structure: entities, relations, and triples
     * Embedding models: TransE, RotatE, and DistMult
-    * `R`-GCN for multi-relational graphs
+    * R-GCN for multi-relational graphs
     * Link prediction tasks and evaluation metrics
     * Knowledge graph completion and question answering
 <!-- chapter: pytorch-geometric-in-practice, duration: 3h -->
 * `PyTorch Geometric` in Practice
-    * The `PyG` data model: `Data`, `HeteroData`, and `DataLoader`
+    * The `PyG` data model: Data, HeteroData, and `DataLoader`
     * Built-in datasets and transforms
     * Implementing custom GNN layers with `MessagePassing`
     * Mini-batch training with `NeighborLoader` and `ClusterLoader`

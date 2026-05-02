@@ -190,7 +190,7 @@ Hands-on coding exercises using popular `MongoDB` drivers in the student's prefe
     * ODM/`ORM` usage
     * Mongoose for `Node.js`
     * Motor for `Python`
-    * `Spring` Data `MongoDB`
+    * `Spring Data` `MongoDB`
     * Testing strategies
     * Migration patterns
 
@@ -226,12 +226,12 @@ Each student should have:
 * Modern IDE or code editor (`VS Code` recommended with `MongoDB` extension)
 * Programming language environment:
     * `Node.js` 18+ with `npm` for `JavaScript` developers
-    * `Python` 3.9+ with `pip` for `Python` developers
+    * `Python` 3.9+ with pip for `Python` developers
     * JDK 11+ with `Maven`/`Gradle` for `Java` developers
     * `.NET` 6+ `SDK` for `C#` developers
 * `Git` for version control
 * `Docker Desktop` (optional but recommended)
-* `Postman` or similar tool for `API` testing
+* Postman or similar tool for `API` testing
 * Free internet access for package installation and `MongoDB Atlas` access
 * Sample datasets will be provided during the course
 

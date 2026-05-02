@@ -58,7 +58,7 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
 * Describe `design patterns` and provide examples of problems and their pattern solutions
 * Cover the most important GOF patterns in depth, and provide an overview of the `rest`
 * Recognize and understand patterns in existing code
-* Learn `when`, how and which pattern to use, if appropriate for a new problem
+* Learn when, how and which pattern to use, if appropriate for a new problem
 
 ## Outline
 <!-- chapter: advanced-object-oriented-design-guideline, duration: 7h -->
@@ -173,12 +173,12 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
     * Multi processing
     * OSGi
         * `Java`-based OSGi frameworks
-            * `Apache` Felix
-            * `Eclipse` Equinox
+            * Apache Felix
+            * Eclipse Equinox
             * Knopflerfish
             * ProSyst mBS
         * `.NET`-based OSGi frameworks
-            * `Eclipse` Concierge OSGi
+            * Eclipse Concierge OSGi
             * nOSGi
         * `JavaScript`-based OSGi frameworks:
             * OSGi.js

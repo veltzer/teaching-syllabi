@@ -17,7 +17,7 @@ audience:
 ## Description
 `SaltStack` (now `Salt Project`) is a high-speed, scalable infrastructure automation and
 configuration management platform built around a remote execution engine. This course covers
-the full breadth of the `Salt` ecosystem, from the master-minion architecture and state
+the full breadth of the Salt ecosystem, from the master-minion architecture and state
 management through advanced topics such as orchestration, event-driven automation, and
 agentless execution with `Salt SSH`. Participants will learn how to express infrastructure
 intent with `SLS` state files, separate data from logic using grains and pillars, and build
@@ -39,7 +39,7 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 * Experience with version control (`Git`).
 
 ## Objectives
-* Understand the `Salt` master-minion architecture and communication model.
+* Understand the Salt master-minion architecture and communication model.
 * Write `SLS` state files that configure systems idempotently.
 * Use grains and pillars to separate node data from configuration logic.
 * Build orchestrated workflows using `Salt Orchestrate`.
@@ -50,43 +50,43 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 <!-- chapter: introduction-to-saltstack, duration: 2h -->
 * Introduction to `SaltStack`
     * What is `SaltStack` and where it fits in the `DevOps` landscape
-    * Comparing `Salt` with `Ansible`, `Chef`, and `Puppet`
+    * Comparing Salt with `Ansible`, Chef, and Puppet
     * Core concepts: masters, minions, execution modules, states, pillars
-    * The `Salt` communication model: `ZeroMQ` and `RAET` transports
+    * The Salt communication model: `ZeroMQ` and `RAET` transports
 
 <!-- chapter: architecture-master-and-minions, duration: 2h -->
 * Architecture — Master and Minions
-    * `Salt` master configuration and tuning
+    * Salt master configuration and tuning
     * Minion authentication and key management
     * The targeting system: glob, grain, compound, and nodegroup targets
-    * Masterless `Salt` (`salt`-call) for local execution
+    * Masterless Salt (`salt`-call) for local execution
 
 <!-- chapter: installation-and-bootstrap, duration: 2h -->
-* Installation and `Bootstrap`
-    * Installing the `Salt` master and minion packages
+* Installation and Bootstrap
+    * Installing the Salt master and minion packages
     * Using the `bootstrap` script for rapid deployment
     * Configuring `firewall` rules and accepted minion keys
     * Verifying connectivity with `test.ping`
 
 <!-- chapter: states-and-sls-files, duration: 2h -->
 * States and `SLS` Files
-    * State `file` syntax and `YAML`/`Jinja2` rendering
-    * Core state modules: `pkg`, `service`, `file`, `user`, `cmd`
-    * State ordering with `require`, `watch`, and `onchanges`
-    * The `top.sls` `file` and environment targeting
+    * State file syntax and `YAML`/`Jinja2` rendering
+    * Core state modules: `pkg`, service, file, user, `cmd`
+    * State ordering with require, `watch`, and `onchanges`
+    * The `top.sls` file and environment targeting
     * Highstate execution and idempotent convergence
 
 <!-- chapter: grains-and-pillars, duration: 2h -->
 * Grains and Pillars
     * Built-in grains and custom grain definitions
     * Using grains for dynamic targeting and templating
-    * Pillar data: structure, `top` `file`, and environment separation
+    * Pillar data: structure, top file, and environment separation
     * Encrypting sensitive pillar data with `GPG`
 
 <!-- chapter: execution-modules-and-functions, duration: 2h -->
 * Execution Modules and Functions
     * Running remote commands with `salt '*' module.function`
-    * Commonly used modules: `cmd`, `network`, `disk`, `process`, `git`
+    * Commonly used modules: `cmd`, network, disk, process, `git`
     * Returning data with returners (`MySQL`, `Redis`, `Elasticsearch`)
     * Writing custom execution modules in `Python`
 
@@ -106,7 +106,7 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 
 <!-- chapter: events-and-reactors, duration: 2h -->
 * Events and Reactors
-    * The `Salt` event bus and event tags
+    * The Salt event bus and event tags
     * Listening to events with `salt-run state.event`
     * Writing reactor `SLS` files to respond to events
     * Beacons: monitoring system state and firing events
@@ -114,7 +114,7 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 <!-- chapter: salt-ssh-and-agentless-mode, duration: 2h -->
 * `Salt SSH` and Agentless Mode
     * `When` to use `Salt SSH` vs. the minion-based approach
-    * Configuring the roster `file`
+    * Configuring the roster file
     * Running states and execution modules over `SSH`
     * Limitations and performance considerations
 

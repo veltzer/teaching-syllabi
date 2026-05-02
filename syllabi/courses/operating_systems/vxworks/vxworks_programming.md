@@ -32,7 +32,7 @@ system, networking, and debugging using `Wind River Workbench`.
 * Firmware developers working with `VxWorks` for hardware-level programming and `BSP` development.
 
 ## Prerequisites
-* Strong programming skills in `C`.
+* Strong programming skills in C.
 * Basic understanding of operating system concepts (processes, memory, scheduling).
 * Familiarity with embedded systems and hardware concepts.
 * Experience with cross-compilation toolchains is an advantage.
@@ -108,13 +108,13 @@ system, networking, and debugging using `Wind River Workbench`.
     * `VxWorks` `I/O` system architecture
     * Device drivers and driver installation
     * Block and character devices
-    * `I/O` system calls and `file` descriptors
+    * `I/O` system calls and file descriptors
     * select and asynchronous `I/O`
 <!-- chapter: file-systems, duration: 2h -->
 * `File` Systems
-    * Supported `file` systems (dosFs, HRFS, `NFS`)
+    * Supported file systems (dosFs, HRFS, `NFS`)
     * `File` system configuration and mounting
-    * Flash `file` systems and wear leveling
+    * Flash file systems and wear leveling
     * `RAM` disk and TFFS
     * `File` system reliability and journaling
 <!-- chapter: networking-stack, duration: 2h -->

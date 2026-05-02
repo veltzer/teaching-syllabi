@@ -44,7 +44,7 @@ across language ecosystems, and the migration story from legacy observability st
 ## Prerequisites
 * practical experience with `OpenTelemetry` `SDK` in at least one language
 * working knowledge of `Kubernetes` and containerized deployments
-* familiarity with at least one observability backend (`Prometheus`, `Jaeger`, `Tempo`, `Datadog`, etc.)
+* familiarity with at least one observability backend (`Prometheus`, `Jaeger`, Tempo, `Datadog`, etc.)
 * basic understanding of distributed systems and `microservices`
 
 ## Objectives
@@ -68,7 +68,7 @@ across language ecosystems, and the migration story from legacy observability st
 <!-- chapter: the-data-model-in-depth, duration: 3h -->
 * The data model in depth
     * resources, scopes and signals
-    * trace context: `traceparent`, `tracestate`, `baggage`
+    * trace context: `traceparent`, tracestate, `baggage`
     * span kinds, status, attributes and events
     * metric instruments: counter, up-down counter, histogram, gauge, observable variants
     * exemplars
@@ -87,7 +87,7 @@ across language ecosystems, and the migration story from legacy observability st
     * batch vs simple span processors
     * buffering, back-pressure and dropped data
     * resource detection and attribute enrichment
-    * context propagation across threads, `async` tasks and processes
+    * context propagation across threads, async tasks and processes
     * shutdown semantics and the lost-spans problem
 <!-- chapter: the-collector-as-a-production-system, duration: 4h -->
 * The `Collector` as a production system
@@ -118,7 +118,7 @@ across language ecosystems, and the migration story from legacy observability st
 * Traces deep dive
     * span linking and span events vs separate spans
     * cross-process and cross-thread propagation
-    * `async` and `concurrency` patterns
+    * async and `concurrency` patterns
     * tracing message brokers and event-driven flows
     * `RPC`, database and queue semantic conventions
     * common tracing pitfalls
@@ -146,7 +146,7 @@ across language ecosystems, and the migration story from legacy observability st
     * current state and stability
 <!-- chapter: language-ecosystem-tour, duration: 3h -->
 * Language ecosystem tour
-    * `Java`, `Python`, `Go`, `Node.js`, `.NET`, `Ruby`, `PHP`
+    * `Java`, `Python`, Go, `Node.js`, `.NET`, Ruby, `PHP`
     * differences in maturity and idioms
     * automatic `instrumentation` across languages
     * common cross-language pitfalls
@@ -161,8 +161,8 @@ across language ecosystems, and the migration story from legacy observability st
     * keeping custom code maintainable across `SDK` upgrades
 <!-- chapter: vendor-integration-and-portability, duration: 2h -->
 * Vendor integration and portability
-    * exporting to `Datadog`, `New Relic`, `Honeycomb`, `Dynatrace`
-    * exporting to open-source backends: `Tempo`, `Mimir`, `Loki`, `Jaeger`
+    * exporting to `Datadog`, New Relic, Honeycomb, `Dynatrace`
+    * exporting to open-source backends: `Tempo`, Mimir, Loki, `Jaeger`
     * dual-export and migration patterns
     * vendor lock-in and how to avoid it
     * cost considerations of `OTLP` ingest pricing
@@ -176,7 +176,7 @@ across language ecosystems, and the migration story from legacy observability st
 <!-- chapter: governance-rollout-and-migration, duration: 1h -->
 * Governance, rollout and migration
     * organizational rollout strategy
-    * migration from `Zipkin`, `Jaeger client`, `OpenCensus`, `OpenTracing`
+    * migration from `Zipkin`, `Jaeger client`, OpenCensus, `OpenTracing`
     * convention enforcement at scale
     * `instrumentation` ownership across teams
     * deprecating legacy observability stacks

@@ -16,7 +16,7 @@ audience:
 # Network Troubleshooting
 
 ## Description
-This course teaches a systematic approach to diagnosing and resolving network issues. Participants will work through the OSI model layer by layer, learning to use industry-standard tools such as `Wireshark`, `tcpdump`, `dig`, and `openssl` to identify and fix connectivity, performance, and security-related network problems. The course also covers network monitoring solutions for proactive issue detection.
+This course teaches a systematic approach to diagnosing and resolving network issues. Participants will work through the OSI model layer by layer, learning to use industry-standard tools such as `Wireshark`, `tcpdump`, dig, and `openssl` to identify and fix connectivity, performance, and security-related network problems. The course also covers network monitoring solutions for proactive issue detection.
 
 ## Duration
 16 hours / 2 days
@@ -37,7 +37,7 @@ This course teaches a systematic approach to diagnosing and resolving network is
 * Apply a systematic troubleshooting methodology to network problems.
 * Diagnose issues at each layer of the OSI model.
 * Capture and analyze network traffic with `Wireshark` and `tcpdump`.
-* Troubleshoot `DNS`, routing, `firewall`, and `TLS`/`SSL` issues.
+* Troubleshoot `DNS`, routing, firewall, and `TLS`/`SSL` issues.
 * Identify and resolve network performance problems.
 * Configure network monitoring tools for proactive detection.
 
@@ -74,7 +74,7 @@ This course teaches a systematic approach to diagnosing and resolving network is
     * Combining `tcpdump` with `Wireshark`
 <!-- chapter: dns-troubleshooting, duration: 1h -->
 * `DNS` Troubleshooting
-    * `dig` command and query types
+    * dig command and query types
     * `nslookup` usage
     * `DNS` resolution chain analysis
     * Common `DNS` issues (propagation, caching, SERVFAIL)
@@ -99,7 +99,7 @@ This course teaches a systematic approach to diagnosing and resolving network is
     * Fragmentation issues
     * MTU mismatch detection
     * Tunnel and `VPN` MTU considerations
-    * `ping` with size and DF bit testing
+    * ping with size and DF bit testing
 <!-- chapter: tls-ssl-debugging, duration: 2h -->
 * `TLS`/`SSL` Debugging
     * `openssl s_client` for connection testing

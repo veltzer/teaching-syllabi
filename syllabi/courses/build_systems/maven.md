@@ -34,7 +34,7 @@ tooling decisions.
 
 ## Prerequisites
 * `Solid` working knowledge of `Java` programming.
-* Basic familiarity with the command line and `file` system navigation.
+* Basic familiarity with the command line and file system navigation.
 * Some prior exposure to compiling and running `Java` applications is assumed.
 
 ## Objectives
@@ -60,8 +60,8 @@ tooling decisions.
 <!-- chapter: project-structure-and-pom, duration: 2h -->
 * Project Structure and `POM`:
     * Standard directory layout.
-    * Anatomy of the `pom.xml` `file`.
-    * Coordinates: `groupId`, `artifactId`, `version`.
+    * Anatomy of the `pom.xml` file.
+    * Coordinates: `groupId`, artifactId, `version`.
     * Parent `POM` and inheritance.
 <!-- chapter: build-lifecycle-and-phases, duration: 2h -->
 * Build Lifecycle and Phases:
@@ -105,7 +105,7 @@ tooling decisions.
 <!-- chapter: custom-plugins, duration: 2h -->
 * Custom Plugins:
     * Plugin development lifecycle.
-    * Writing a `Mojo` in `Java`.
+    * Writing a Mojo in `Java`.
     * Accessing project metadata from a plugin.
     * Testing and distributing custom plugins.
 <!-- chapter: integration-with-ci-cd, duration: 2h -->

@@ -14,13 +14,13 @@ audience:
   - audiences:ml-engineers
 ---
 <!-- course: mojo_programming -->
-# `Mojo` Programming
+# Mojo Programming
 
 ## Description
-`Mojo` is a new programming language designed by Modular to bridge the gap between `Python`'s productivity and the performance of systems languages like `C++` and `Rust`.
-It is a strict superset of `Python`, meaning all valid `Python` code is valid `Mojo`, while adding `def`/`fn` distinctions, ownership semantics, SIMD intrinsics, and zero-cost abstractions for hardware acceleration.
-`Mojo` is purpose-built for `AI` and high-performance computing workloads, enabling developers to write kernels, neural network layers, and numerical algorithms that run at full hardware speed without leaving the `Python` ecosystem.
-This course takes `Python` developers through `Mojo`'s type system, memory ownership model, SIMD programming, and practical patterns for accelerating `ML` workloads.
+Mojo is a new programming language designed by Modular to bridge the gap between `Python`'s productivity and the performance of systems languages like `C++` and Rust.
+It is a strict superset of `Python`, meaning all valid `Python` code is valid Mojo, while adding def/fn distinctions, ownership semantics, SIMD intrinsics, and zero-cost abstractions for hardware acceleration.
+Mojo is purpose-built for `AI` and high-performance computing workloads, enabling developers to write kernels, neural network layers, and numerical algorithms that run at full hardware speed without leaving the `Python` ecosystem.
+This course takes `Python` developers through Mojo's type system, memory ownership model, SIMD programming, and practical patterns for accelerating `ML` workloads.
 
 ## Duration
 24 hours / 3 days
@@ -36,30 +36,30 @@ This course takes `Python` developers through `Mojo`'s type system, memory owner
 * Basic understanding of `CPU` architecture and memory hierarchy is helpful
 
 ## Objectives
-* Understand how `Mojo` extends `Python` for performance-critical code
-* Use `fn` functions, `struct` types, and the type system for zero-overhead abstractions
-* Apply `Mojo`'s ownership and borrow checker to manage memory safely
-* Write SIMD-accelerated code using `Mojo`'s hardware intrinsics
-* Implement parallel algorithms using `Mojo`'s parallelism primitives
-* Interoperate seamlessly between `Python` and `Mojo` in the same codebase
-* Benchmark and optimise `Mojo` code for `ML` inference tasks
+* Understand how Mojo extends `Python` for performance-critical code
+* Use fn functions, `struct` types, and the type system for zero-overhead abstractions
+* Apply Mojo's ownership and borrow checker to manage memory safely
+* Write SIMD-accelerated code using Mojo's hardware intrinsics
+* Implement parallel algorithms using Mojo's parallelism primitives
+* Interoperate seamlessly between `Python` and Mojo in the same codebase
+* Benchmark and optimise Mojo code for `ML` inference tasks
 
 ## Outline
 <!-- chapter: introduction-to-mojo, duration: 2h -->
-* Introduction to `Mojo`
+* Introduction to Mojo
     * Design goals — why `Python` is not enough for `AI` infrastructure
-    * `Mojo` vs `Python` vs `C++` vs `Rust` positioning
+    * Mojo vs `Python` vs `C++` vs Rust positioning
     * The Modular ecosystem and `MAX` platform
-    * Installing `Mojo` and the toolchain
-    * Running `Mojo` programs and notebooks
+    * Installing Mojo and the toolchain
+    * Running Mojo programs and notebooks
 
 <!-- chapter: mojo-basics-and-python-compatibility, duration: 2h -->
-* `Mojo` Basics and `Python` Compatibility
-    * `def` functions — full `Python` compatibility mode
-    * `fn` functions — strict mode with `type-annotations`
-    * Running existing `Python` code in `Mojo`
-    * Importing `Python` modules from `Mojo`
-    * `let` and `var` declarations
+* Mojo Basics and `Python` Compatibility
+    * def functions — full `Python` compatibility mode
+    * fn functions — strict mode with `type-annotations`
+    * Running existing `Python` code in Mojo
+    * Importing `Python` modules from Mojo
+    * let and `var` declarations
 
 <!-- chapter: types-and-variables, duration: 2h -->
 * Types and Variables
@@ -115,8 +115,8 @@ This course takes `Python` developers through `Mojo`'s type system, memory owner
 
 <!-- chapter: python-interoperability, duration: 2h -->
 * `Python` Interoperability
-    * Calling `Python` libraries from `Mojo`
-    * Passing data between `Python` and `Mojo`
+    * Calling `Python` libraries from Mojo
+    * Passing data between `Python` and Mojo
     * Wrapping `Python` objects
     * Performance implications of the boundary
     * Gradual migration strategies
@@ -126,8 +126,8 @@ This course takes `Python` developers through `Mojo`'s type system, memory owner
     * Writing a matrix multiplication kernel from scratch
     * Tiling and cache-friendly algorithms
     * Optimising transformer attention layers
-    * Profiling `Mojo` programs
-    * Integrating `Mojo` kernels into `PyTorch` workflows
+    * Profiling Mojo programs
+    * Integrating Mojo kernels into `PyTorch` workflows
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

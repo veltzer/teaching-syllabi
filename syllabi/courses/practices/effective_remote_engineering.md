@@ -21,11 +21,11 @@ operate as if everyone is still in the office and a few people happen to be else
 inefficiency: meetings that exclude time zones, decisions made in side channels, written records that never
 get written, and engineers who are technically present and effectively absent.
 
-This five day course covers remote engineering as its own discipline. It covers `async`-first communication,
+This five day course covers remote engineering as its own discipline. It covers async-first communication,
 the written-doc culture that holds remote teams together, time-zone discipline, the manager and `IC` rituals
 that work without a shared office, the home-office and tooling story, and the patterns that actually keep
 distributed teams productive over years rather than months. The course is grounded in the public material
-from `GitLab`, `Zapier`, `Automattic`, `Basecamp` and other remote-first organizations. Participants leave
+from `GitLab`, Zapier, Automattic, `Basecamp` and other remote-first organizations. Participants leave
 able to operate effectively as a remote engineer, lead remote teams, and influence their organization's
 remote practices.
 
@@ -44,7 +44,7 @@ remote practices.
 * willingness to write more than you currently do
 
 ## Objectives
-* operate `async`-first as a default rather than an exception
+* operate async-first as a default rather than an exception
 * run meetings that respect distributed audiences
 * write the docs that hold a distributed team together
 * lead a team across multiple time zones
@@ -55,7 +55,7 @@ remote practices.
 <!-- chapter: why-remote-needs-a-different-discipline, duration: 2h -->
 * Why remote needs a different discipline
     * the silent failures of "office-by-default with some remote"
-    * what `async`-first actually means
+    * what async-first actually means
     * the public-record default
     * the cost of the shadow side-channel
     * the cases where remote does not fit
@@ -64,9 +64,9 @@ remote practices.
     * the four-tier model: chat, doc, ticket, meeting
     * decisions in writing as the default
     * what belongs in chat vs in a doc
-    * `threading` discipline in `Slack`/`Teams`
+    * `threading` discipline in Slack/`Teams`
     * response-time expectations across roles
-    * the "no meeting unless `async` failed" rule
+    * the "no meeting unless async failed" rule
 <!-- chapter: writing-as-the-leverage-tool, duration: 3h -->
 * Writing as the leverage tool
     * cross-reference to the Writing Design Documents course
@@ -82,7 +82,7 @@ remote practices.
     * agendas, notes, decisions, action items
     * the camera-on debate, honestly
     * facilitating across multiple time zones
-    * the "everyone leaves with the same understanding" `check`
+    * the "everyone leaves with the same understanding" check
 <!-- chapter: time-zone-discipline, duration: 3h -->
 * Time-zone discipline
     * mapping team coverage and gaps
@@ -94,15 +94,15 @@ remote practices.
 <!-- chapter: pair-and-mob-programming-remote, duration: 2h -->
 * Pair and mob programming remote
     * cross-reference to the Pair and Mob Programming course
-    * tools: `VS Code Live Share`, `Code With Me`, `tmate`, `Tuple`
+    * tools: `VS Code Live Share`, `Code With Me`, tmate, `Tuple`
     * audio and latency considerations
     * remote rotation mechanics
     * the "always-on" pairing channel pattern
 <!-- chapter: code-review-when-remote, duration: 2h -->
-* Code review `when` remote
+* Code review when remote
     * cross-reference to the Code Review course
     * review as the primary remote collaboration surface
-    * synchronous review `when` it is and is not worth it
+    * synchronous review when it is and is not worth it
     * timezone-friendly review queues
     * the "review within X hours" `SLA`
     * recovering from a backlog
@@ -155,7 +155,7 @@ remote practices.
     * the in-office majority and the remote minority
     * the meeting where some people are in a room
     * decisions made in hallways
-    * the "remote-first even `when` together" rule
+    * the "remote-first even when together" rule
     * which hybrid configurations actually work
 <!-- chapter: anti-patterns-and-failure-modes, duration: 2h -->
 * Anti-patterns and failure modes
@@ -169,7 +169,7 @@ remote practices.
 * Workshop and wrap up
     * audit a sample team's remote operating model
     * draft a remote operating playbook for your team
-    * recommended reading: `GitLab` handbook, `Basecamp` `Shape Up`, `Doist`, `Automattic`
+    * recommended reading: `GitLab` handbook, Basecamp `Shape Up`, Doist, `Automattic`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

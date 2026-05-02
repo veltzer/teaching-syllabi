@@ -66,7 +66,7 @@ Engineer certification path.
     * Data integration with Cloud Data Fusion
 <!-- chapter: batch-processing, duration: 3h -->
 * Batch Processing
-    * Dataflow for batch pipelines (`Apache` Beam)
+    * Dataflow for batch pipelines (`Apache Beam`)
     * Dataproc for `Hadoop` and `Spark` workloads
     * Dataproc Serverless
     * `BigQuery` for `SQL`-based batch processing

@@ -17,7 +17,7 @@ audience:
 # End-to-End Testing Strategy
 
 ## Description
-The catalog has tool-focused courses on `Playwright`, `Cypress`, `Selenium`, `Robot Framework`, plus
+The catalog has tool-focused courses on `Playwright`, Cypress, `Selenium`, `Robot Framework`, plus
 the broader `Testing Theory` course. None of those is the focused course on the strategy question that
 every team has to answer: how much end-to-end testing do we do, where in the pyramid, what flows do we
 cover, who maintains them, and how do we keep them from becoming the most-flaky and most-hated part
@@ -31,8 +31,8 @@ flake and the canonical fixes), the ownership-and-maintenance question (test own
 engineering concern), the parallelization-and-speed story, the data-management story (the test users,
 the test data, the cleanup), the environment story (production-like vs minimum-viable), the visual-
 and-non-visual interaction, the relationship to monitoring and synthetic checks (which can replace
-some `E2E` tests), the cost shape, and the patterns that `make` `E2E` tests survive. Examples are
-drawn from public engineering writing of `Spotify`, `Slack`, `Atlassian`, and the `Google Testing
+some `E2E` tests), the cost shape, and the patterns that make `E2E` tests survive. Examples are
+drawn from public engineering writing of `Spotify`, Slack, Atlassian, and the `Google Testing
 Blog`. Participants leave able to write a coherent `E2E` testing strategy for their team.
 
 ## Duration
@@ -47,7 +47,7 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
 ## Prerequisites
 * working experience writing tests in at least one framework
 * exposure to the Testing Theory course
-* familiarity with `Playwright`, `Cypress`, or `Selenium`
+* familiarity with `Playwright`, Cypress, or `Selenium`
 * basic `CI/CD` knowledge
 
 ## Objectives
@@ -57,7 +57,7 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
 * assign clear ownership of `E2E` tests
 * speed up the suite without losing coverage
 * compare `E2E` tests with synthetic monitoring
-* recognize `when` an `E2E` test is the wrong tool
+* recognize when an `E2E` test is the wrong tool
 
 ## Outline
 <!-- chapter: the-testing-pyramid-revisited, duration: 1h -->
@@ -87,7 +87,7 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
 * Eliminating flake
     * deterministic-by-construction
     * `Playwright`'s auto-wait model
-    * `Cypress`'s retry-ability model
+    * Cypress's retry-ability model
     * the test-data-isolation pattern
     * the "we retried until it passed" anti-pattern
 <!-- chapter: ownership-and-maintenance, duration: 1h -->
@@ -127,8 +127,8 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
     * the "we have abstractions on abstractions" failure
 <!-- chapter: synthetic-monitoring-as-an-alternative, duration: 1h -->
 * Synthetic monitoring as an alternative
-    * the always-on user-flow `check`
-    * `Datadog Synthetics`, `Checkly`, `Pingdom`
+    * the always-on user-flow check
+    * `Datadog Synthetics`, Checkly, `Pingdom`
     * the production-vs-staging question
     * cross-reference to the `SLOs` and Error Budgets course
     * the "we replaced `E2E` with synthetics for the critical flow" pattern

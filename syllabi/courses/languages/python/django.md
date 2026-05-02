@@ -32,7 +32,7 @@ This course provides a comprehensive guide to building full-featured web applica
 * Familiarity with `HTML`, `CSS`, and basic `JavaScript`
 * Experience with relational databases and `SQL` fundamentals
 * Command-line interface usage and basic terminal operations
-* Experience with `Python` package management (`pip`, virtual environments)
+* Experience with `Python` package management (pip, virtual environments)
 
 ## Required Knowledge
 * `Python` Programming (or equivalent experience)
@@ -47,14 +47,14 @@ This course provides a comprehensive guide to building full-featured web applica
 * Customize the `Django` admin interface for content management
 * Implement authentication, authorization, and user management
 * Build `REST` APIs using `Django REST Framework`
-* Apply middleware, static `file` handling, and security best practices
+* Apply middleware, static file handling, and security best practices
 * Deploy `Django` applications using WSGI, Gunicorn, and `Nginx`
 
 ## Outline
 <!-- chapter: introduction-to-django-and-project-setup, duration: 3h -->
 * Introduction to `Django` and Project Setup
     * Overview of `Django` architecture and the MTV pattern
-    * Comparison with other `Python` web frameworks (`Flask`, `FastAPI`)
+    * Comparison with other `Python` web frameworks (Flask, `FastAPI`)
     * Installing `Django` and creating a new project
     * Understanding project structure and configuration files
     * The `Django` development server and management commands
@@ -129,7 +129,7 @@ This course provides a comprehensive guide to building full-featured web applica
     * Understanding middleware and the request/response pipeline
     * Writing custom middleware
     * Static files configuration and collection
-    * Media `file` handling and storage backends
+    * Media file handling and storage backends
     * Caching strategies and cache middleware
     * Content delivery network integration
 <!-- chapter: testing-and-security, duration: 3h -->

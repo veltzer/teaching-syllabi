@@ -20,15 +20,15 @@ audience:
 
 ## Description
 The data engineering landscape has fundamentally inverted. The classic `ETL` (extract, transform, load) workflow,
-designed `when` storage was expensive and compute was cheap on-prem, has been largely replaced by `ELT` (extract,
-load, transform) on `top` of warehouses and lakehouses where the economics are reversed. Most teams' pipelines
+designed when storage was expensive and compute was cheap on-prem, has been largely replaced by `ELT` (extract,
+load, transform) on top of warehouses and lakehouses where the economics are reversed. Most teams' pipelines
 are now a mix of both, often without anyone having made an explicit choice between them.
 
 This five day course covers the modern data-pipeline landscape end to end. It covers the architectural choice
-between `ETL` and `ELT`, the orchestration patterns and tools (`Airflow`, `Dagster`, `Prefect`, `Temporal`),
+between `ETL` and `ELT`, the orchestration patterns and tools (`Airflow`, `Dagster`, `Prefect`, Temporal),
 the integration with `dbt` and the analytics-engineering workflow, idempotent and reprocessable pipelines,
 backfill strategy, lineage and observability, the relationship to streaming and `CDC`, and the operational
-practices that `make` pipelines maintainable. Examples are drawn from `Snowflake`, `BigQuery`, `Databricks`,
+practices that `make` pipelines maintainable. Examples are drawn from Snowflake, `BigQuery`, `Databricks`,
 `Redshift` and lakehouse engines. Participants leave able to design new data pipelines correctly and to fix
 the ones they inherited.
 
@@ -69,9 +69,9 @@ the ones they inherited.
 <!-- chapter: extract-and-ingestion, duration: 3h -->
 * Extract and ingestion
     * full extract vs incremental extract
-    * `CDC`-based ingestion: `Debezium`, `Fivetran`, `Airbyte`, `Stitch`
+    * `CDC`-based ingestion: Debezium, `Fivetran`, `Airbyte`, `Stitch`
     * `API`-based ingestion patterns
-    * `file`-based ingestion and the staging area
+    * file-based ingestion and the staging area
     * the connectors-vs-build dilemma
     * cross-reference to the Streaming Data Systems course
 <!-- chapter: load-patterns-into-the-warehouse, duration: 3h -->
@@ -105,7 +105,7 @@ the ones they inherited.
     * operators, sensors, hooks, providers
     * the `XCom` data flow and its limits
     * `TaskFlow API` and modern idioms
-    * `Airflow` deployment options: managed, `Helm`, custom
+    * `Airflow` deployment options: managed, Helm, custom
     * `Airflow` for `ELT` and `dbt` orchestration
     * `Airflow` anti-patterns
 <!-- chapter: dagster-and-the-asset-model, duration: 3h -->
@@ -117,11 +117,11 @@ the ones they inherited.
     * `dbt` integration in `Dagster`
     * comparing `Dagster` to `Airflow`
 <!-- chapter: prefect-and-temporal, duration: 2h -->
-* `Prefect` and `Temporal`
+* `Prefect` and Temporal
     * `Prefect`'s flow-and-task model
     * `Prefect` deployments and work pools
-    * `Temporal` workflows and activities
-    * the case for `Temporal` in data pipelines
+    * Temporal workflows and activities
+    * the case for Temporal in data pipelines
     * comparing the four orchestrators on real workloads
 <!-- chapter: idempotent-and-reprocessable-pipelines, duration: 3h -->
 * Idempotent and reprocessable pipelines
@@ -157,7 +157,7 @@ the ones they inherited.
 <!-- chapter: streaming-and-batch-side-by-side, duration: 2h -->
 * Streaming and batch side by side
     * the `lambda` vs kappa debate revisited
-    * `Iceberg`, `Delta Lake`, `Hudi` for unified storage
+    * Iceberg, `Delta Lake`, `Hudi` for unified storage
     * micro-batch as a middle ground
     * choosing between batch, streaming and micro-batch
     * cross-reference to the Streaming Data Systems course

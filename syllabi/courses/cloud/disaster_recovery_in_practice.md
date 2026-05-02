@@ -39,7 +39,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
 * `DevOps` and `SRE` engineers responsible for backup and recovery
 * senior developers whose teams own production data
 * architects designing resilient systems
-* `DBAs` operating databases with `RTO`/`RPO` requirements
+* `DBAs` operating databases with RTO/`RPO` requirements
 * engineers tasked with a `DR` audit or compliance review
 
 ## Prerequisites
@@ -53,7 +53,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
 * measure `RTO` and `RPO` from real drills, not from documentation
 * build multi-region failover for the main workload classes
 * write runbooks that work at 3 AM under stress
-* run game days that `find` gaps before incidents do
+* run game days that find gaps before incidents do
 * respond to a real disaster with confidence
 * meet the regulatory and audit dimension without ceremony
 
@@ -116,7 +116,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
     * active-active
     * the cost-vs-`RTO` curve
     * data replication options across regions
-    * the regional dependency map (`IAM`, `Route53`, `KMS`)
+    * the regional dependency map (`IAM`, Route53, `KMS`)
 <!-- chapter: failover-mechanics, duration: 3h -->
 * Failover mechanics
     * `DNS`-based failover and `TTL` realities
@@ -125,7 +125,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
     * client-side failover patterns
     * cross-reference to the Load Balancing course
     * preventing split-brain on failover
-    * the rollback plan `when` failover fails
+    * the rollback plan when failover fails
 <!-- chapter: runbooks-for-disaster-scenarios, duration: 3h -->
 * Runbooks for disaster scenarios
     * the runbook that works at 3 AM

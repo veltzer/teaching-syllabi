@@ -14,7 +14,7 @@ audience:
 # `Ruby on Rails`
 
 ## Description
-`Ruby on Rails` is a full-stack web application framework built on the `Ruby` programming language, following convention over configuration and the MVC architectural pattern. This course covers the essential components of Rails development from routing and controllers through ActiveRecord `ORM`, views, testing, and deployment. Students will learn to build robust, maintainable web applications using modern Rails practices.
+`Ruby on Rails` is a full-stack web application framework built on the Ruby programming language, following convention over configuration and the MVC architectural pattern. This course covers the essential components of Rails development from routing and controllers through ActiveRecord `ORM`, views, testing, and deployment. Students will learn to build robust, maintainable web applications using modern Rails practices.
 
 ## Duration
 24 hours / 3 days
@@ -25,7 +25,7 @@ audience:
 * Developers migrating from other web frameworks to Rails
 
 ## Prerequisites
-* Basic `Ruby` programming knowledge
+* Basic Ruby programming knowledge
 * Familiarity with `HTML`, `CSS`, and `HTTP`
 * Basic understanding of relational databases and `SQL`
 
@@ -42,7 +42,7 @@ audience:
 * Introduction to `Ruby on Rails`
     * Rails philosophy (convention over configuration, DRY)
     * MVC architecture overview
-    * Installing `Ruby` and Rails
+    * Installing Ruby and Rails
     * Project structure and directory layout
     * Rails generators
     * The Rails console

@@ -17,7 +17,7 @@ audience:
 ## Description
 `Apache Spark` is a fast and general engine for large-scale data processing, and arguably the first
 open source software that makes distributed programming truly accessible to data scientists.
-Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and `R`.
+Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and R.
 
 `Python` is a dynamic object-oriented programming language. Due to its powerful and flexible
 syntax, `Python` is an excellent platform for scientific computing. Versatility, simplicity of use, high
@@ -45,7 +45,7 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 * Develop skills in writing and optimizing `Spark` applications using `Python`
 * Explore `Spark`'s ecosystem components, including `Spark Streaming`, `Spark SQL`, and `MLlib`
 * Acquire hands-on experience with real-world use cases and applications of `Spark`
-* Learn how to integrate `Spark` with various data sources and `Hive`
+* Learn how to integrate `Spark` with various data sources and Hive
 * Understand the basics of distributed programming and data processing
 * Gain introductory knowledge of `machine learning` concepts and their implementation using `Spark`'s `MLlib`
 
@@ -86,7 +86,7 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 * `Spark SQL`
     * Introduction to `Spark SQL` & DataFrames
     * Integration with Different Data Sources
-    * Integration with `Hive`
+    * Integration with Hive
 <!-- chapter: spark-mllib, duration: 2h -->
 * `Spark MLlib`
     * Introduction to `Machine Learning`

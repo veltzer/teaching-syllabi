@@ -27,7 +27,7 @@ applications with a focus on power efficiency and interoperability.
 * IoT engineers designing wireless sensor networks.
 
 ## Prerequisites
-* `C` programming experience.
+* C programming experience.
 * Basic understanding of wireless communication concepts.
 * Familiarity with embedded development is an advantage.
 
@@ -101,11 +101,11 @@ applications with a focus on power efficiency and interoperability.
     * nRF52 series (`nRF Connect SDK`, SoftDevice)
     * ESP32 (NimBLE, Bluedroid)
     * STM32WB series
-    * `Zephyr` RTOS BLE stack
+    * Zephyr RTOS BLE stack
     * Peripheral and central role implementation
 <!-- chapter: ble-on-mobile, duration: 1h -->
 * BLE on Mobile
-    * BLE on `Android` (`android`.`bluetooth`.le)
+    * BLE on `Android` (android.`bluetooth`.le)
     * BLE on `iOS` (CoreBluetooth)
     * Platform-specific limitations and quirks
     * Background BLE operations
@@ -115,7 +115,7 @@ applications with a focus on power efficiency and interoperability.
     * BlueZ stack overview
     * bluetoothctl and gatttool
     * `D-Bus` `API` for BLE
-    * Programming with BlueZ in `C` and `Python`
+    * Programming with BlueZ in C and `Python`
     * `Linux` as a BLE peripheral
 <!-- chapter: ble-mesh, duration: 1h -->
 * BLE Mesh

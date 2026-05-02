@@ -16,7 +16,7 @@ audience:
 # Architectural Decisions in `DevOps`
 
 ## Description
-This course explores the key architectural decisions that `DevOps` teams face `when` designing and
+This course explores the key architectural decisions that `DevOps` teams face when designing and
 evolving their software delivery pipelines, infrastructure, and operational practices. Rather than
 prescribing a single "right" approach, this course examines the tradeoffs, constraints, and
 organizational implications of each decision. Participants will learn to evaluate options such as
@@ -78,7 +78,7 @@ organizational context, scale, and maturity.
         * Platform teams vs embedded `DevOps`
         * Balancing standardization with team autonomy
     * Build vs buy for `CI/CD` tooling
-        * Self-hosted vs SaaS `CI/CD` systems
+        * Self-hosted vs `SaaS` `CI/CD` systems
         * Vendor lock-in considerations
         * Migration cost and portability
     * Pipeline `design patterns`
@@ -89,10 +89,10 @@ organizational context, scale, and maturity.
         * Remote build caches
         * Dependency vendoring vs dynamic resolution
         * Reproducible builds
-    * GitOps vs traditional push-based `CI/CD`
+    * `GitOps` vs traditional push-based `CI/CD`
         * Pull-based reconciliation model
         * Drift detection and self-healing
-        * When GitOps is appropriate and when it is not
+        * When `GitOps` is appropriate and when it is not
 <!-- chapter: artifact-management-and-promotion, duration: 1h -->
 * Artifact Management and Promotion
     * Artifact repository strategies
@@ -109,7 +109,7 @@ organizational context, scale, and maturity.
 * Infrastructure as Code Decisions
     * Declarative vs imperative approaches
         * `Terraform` and its state model
-        * Pulumi and general-purpose languages
+        * `Pulumi` and general-purpose languages
         * `CloudFormation` and cloud-native IaC
     * State management tradeoffs
         * Remote state backends
@@ -127,7 +127,7 @@ organizational context, scale, and maturity.
         * Suitability for different workload types
         * Overhead and complexity costs
     * Container runtime choices
-        * `Docker` vs containerd vs other runtimes
+        * `Docker` vs `containerd` vs other runtimes
         * Rootless containers and security implications
     * Base image strategies
         * Distroless vs `alpine` vs full OS images
@@ -182,7 +182,7 @@ organizational context, scale, and maturity.
         * Dynamic configuration and feature toggles
         * Restart vs hot-reload tradeoffs
     * Secrets management approaches
-        * `Vault` and secrets managers vs encrypted config
+        * Vault and secrets managers vs encrypted config
         * Secret rotation strategies
         * Secrets in `CI/CD` pipelines
     * Configuration as code vs configuration services

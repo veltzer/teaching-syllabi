@@ -32,7 +32,7 @@ The course begins with covering configurations, allowing students to discover br
 * Understand the `Kafka` architecture and describe the roles and responsibilities of various Daemons
 * Use producers, consumers, and brokers within `Kafka`
 * Construct a streaming `ETL` pipeline using `Kafka` Connect
-* Explain how and `when` to use `Kafka` developer APIs
+* Explain how and when to use `Kafka` developer APIs
 * Perform real-time analytics using KSQL
 
 ## Outline

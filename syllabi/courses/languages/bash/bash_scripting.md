@@ -13,10 +13,10 @@ audience:
   - audiences:devops
 ---
 <!-- course: bash_scripting -->
-# `Bash` scripting
+# Bash scripting
 
 ## Description
-`Bash` is the de-facto standard for scripting in the `Linux` world and is used by many and understood by few.
+Bash is the de-facto standard for scripting in the `Linux` world and is used by many and understood by few.
 This course intends to change this by explaining how `bash` works in detail and how to overcome many of the
 flaws in `bash` design to create well written, easy to maintain, reliable and deterministic scripts.
 
@@ -34,7 +34,7 @@ flaws in `bash` design to create well written, easy to maintain, reliable and de
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* understand the core concepts and principles of `Bash`` scripting
+* understand the core concepts and principles of Bash` scripting
 * gain practical knowledge of Theory
 * gain practical knowledge of How does the shell run things?
 * gain practical knowledge of Basic shell features
@@ -118,8 +118,8 @@ flaws in `bash` design to create well written, easy to maintain, reliable and de
     * Handling pools
 <!-- chapter: io, duration: 1h -->
 * IO
-    * reading from a `file`
-    * writing to a `file`
+    * reading from a file
+    * writing to a file
     * writing data to process
     * reading data from process
 <!-- chapter: redirection-in-scripts, duration: 1h -->

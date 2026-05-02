@@ -45,7 +45,7 @@ The weight is 2/3 `git` and 1/3 `Gerrit`.
     * understand SHA1 in `git`, treeish and more.
 <!-- chapter: gerrit, duration: 12h -->
 * `Gerrit`
-    * understand the options that you have `when` you commit to `Gerrit`
+    * understand the options that you have when you commit to `Gerrit`
         * commit and squash
         * create a brand new commit with the fix.
 

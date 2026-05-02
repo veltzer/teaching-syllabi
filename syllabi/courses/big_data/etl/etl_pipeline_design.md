@@ -30,7 +30,7 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
 ## Prerequisites
 * Proficiency in `Python` or `SQL`
 * Basic understanding of databases and data warehouses
-* Familiarity with `REST` APIs and `file` formats (`CSV`, `JSON`, `Parquet`)
+* Familiarity with `REST` APIs and file formats (`CSV`, `JSON`, `Parquet`)
 * Experience with version control (`Git`)
 
 ## Required Knowledge
@@ -96,8 +96,8 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
     * `File` extraction
         * `File` format handling (`CSV`, `JSON`, `Parquet`, `Avro`)
         * `File` system scanning
-        * Compressed `file` handling
-        * Large `file` processing
+        * Compressed file handling
+        * Large file processing
     * Change data capture
         * Log-based CDC
         * Trigger-based CDC

@@ -16,7 +16,7 @@ audience:
 # `RESTful APIs` Development
 
 ## Description
-`RESTful APIs` are the backbone of modern web applications and `microservices` architecture. This course covers comprehensive `REST` principles, `HTTP` verbs, status codes, and practical `API` development techniques. Participants will learn to design, implement, test, and document robust APIs using industry-standard tools like `Postman` and best practices for scalable `web services`.
+`RESTful APIs` are the backbone of modern web applications and microservices architecture. This course covers comprehensive `REST` principles, `HTTP` verbs, status codes, and practical `API` development techniques. Participants will learn to design, implement, test, and document robust APIs using industry-standard tools like Postman and best practices for scalable `web services`.
 
 ## Duration
 16 hours / 1 day
@@ -46,7 +46,7 @@ audience:
 * Design and implement `RESTful APIs` following architectural principles and constraints
 * Utilize appropriate `HTTP` verbs (GET, POST, PUT, DELETE, PATCH) for different operations
 * Apply correct `HTTP` status codes (`200`, 201, 400, `404`, `500`) for various scenarios
-* Use `Postman` for `API` testing, automation, and documentation
+* Use Postman for `API` testing, automation, and documentation
 * Implement proper `JSON` request/response structures and data validation
 * Design resource-based URL structures and hierarchical relationships
 * Handle authentication and authorization in `REST APIs` (`JWT`, `OAuth2`, `API` keys)
@@ -101,15 +101,15 @@ audience:
     * Handling `null-values` and optional fields
     * `JSON` vs `XML` considerations and content types
 <!-- chapter: postman-for-api-development-and-testing, duration: 2h -->
-* `Postman` for `API` Development and Testing
-    * `Postman` interface overview and workspace organization
+* Postman for `API` Development and Testing
+    * Postman interface overview and workspace organization
     * Creating and organizing requests in collections
     * Environment variables and `global-variables` management
     * Writing pre-request scripts and test scripts
-    * Automated testing with `Postman` assertions
+    * Automated testing with Postman assertions
     * `API` documentation generation and sharing
     * Team collaboration and workspace sharing
-    * `Newman` for command-line `API` testing and `CI/CD` integration
+    * Newman for command-line `API` testing and `CI/CD` integration
 <!-- chapter: authentication-and-authorization-in-rest-apis, duration: 2h -->
 * Authentication and Authorization in `REST APIs`
     * Authentication strategies: `Basic Auth`, `Bearer Token`, `API` Keys

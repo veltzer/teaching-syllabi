@@ -111,7 +111,7 @@ abstract `CI/CD` theory.
             * Tradeoffs between cache granularity and cache proliferation
             * Letting the tool manage its own staleness with a fixed cache key
         * Cache scopes and fallback behavior
-        * `restore-keys` for partial cache matching and `when` it adds unnecessary complexity
+        * `restore-keys` for partial cache matching and when it adds unnecessary complexity
     * Installing binaries from `GitHub` releases
         * Using `gh release download` with `GITHUB_TOKEN`
         * Why authentication is needed even for public repos (rate limiting)
@@ -131,7 +131,7 @@ abstract `CI/CD` theory.
         * `When` environment URLs add value vs unnecessary noise
         * Keeping workflow files minimal and maintainable
     * `Jekyll` processing and `.nojekyll`
-        * `When` `.nojekyll` is needed vs `when` `deploy-pages` bypasses `Jekyll` entirely
+        * `When` `.nojekyll` is needed vs when `deploy-pages` bypasses `Jekyll` entirely
         * Avoiding unnecessary workarounds in modern deployment workflows
     * Review environments and dynamic environments
 <!-- chapter: secrets-and-variables-management, duration: 1h -->
@@ -167,7 +167,7 @@ abstract `CI/CD` theory.
     * Status checks and branch protection integration
     * Job consolidation
         * Runner spin-up overhead and artifact transfer costs
-        * `When` to merge jobs vs `when` to keep them separate
+        * `When` to merge jobs vs when to keep them separate
         * Eliminating unnecessary job dependencies
 <!-- chapter: security-and-compliance-in-pipelines, duration: 1h -->
 * Security and Compliance in Pipelines

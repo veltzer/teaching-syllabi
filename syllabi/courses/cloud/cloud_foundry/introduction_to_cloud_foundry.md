@@ -29,11 +29,11 @@ practice will follow.
 
 ## Intended Audience
 Web and enterprise developers with understanding of web application
-design and implementation on any platform (`.NET`, JEE, `Ruby`-On-Rails, `Django`-`Python`, ...).
+design and implementation on any platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 
 ## Prerequisites
 * Experience in developing web and enterprise applications in any
-platform (`.NET`, JEE, `Ruby`-On-Rails, `Django`-`Python`, ...).
+platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * Basic knowledge of the programming language to be chosen (`Python`).
 * Some `cloud computing` concepts knowledge is recommended but not required.
 

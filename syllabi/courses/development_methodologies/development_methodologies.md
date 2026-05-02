@@ -48,7 +48,7 @@ developer and your development environment more productive.
     * Avoid "it's working so don't touch it" attitude
     * Allow developers to rebuild everything, fast!
     * Reward developers who manage to redesign your code - they are the true heroes.
-    * `Agile` works, rewriting doesn't.
+    * Agile works, rewriting doesn't.
     * Keep it simple, Stupid! (your codes architecture that is).
     * Use simple text or MD drawings to document your systems, avoid GUI tools.
     * Have good taste.
@@ -75,7 +75,7 @@ developer and your development environment more productive.
     * Not scriptable
     * Always changing
     * GUI pull you to manual instead of automatic work
-    * Don't `let` fancy GUI tempt you to the dark side, the fancier the worst it is
+    * Don't let fancy GUI tempt you to the dark side, the fancier the worst it is
     * Disable GUI whenever you can
 <!-- chapter: do-not-write-code-which-is-not-your-main-business, duration: 1h -->
 * Do not write code which is not your main business
@@ -96,7 +96,7 @@ developer and your development environment more productive.
 * Configuring software that you use:
     * Why keeping the default configuration is the best
     * If you can't use the default, change the configuration as little as possible.
-    * `Make` sure your entire team uses the same configuration
+    * Make sure your entire team uses the same configuration
     * Keep it simple, Stupid! (your configuration that is)
 <!-- chapter: allowing-to-run-your-software-in-many-ways, duration: 1h -->
 * Allowing to run your software in many ways
@@ -123,7 +123,7 @@ developer and your development environment more productive.
 * Proper logging
     * Every tool you run should be run quietly, and if the tool does not know how to be quiet, teach it.
     * Long log files in the command line or from `CI/CD` are from the devil.
-    * `Make` it easy to see more info `when` you need to.
+    * Make it easy to see more info when you need to.
     * Warnings should not be shown either because every warning should be treated as error.
 <!-- chapter: test-test-test, duration: 1h -->
 * Test, test, test
@@ -143,7 +143,7 @@ developer and your development environment more productive.
     * Don't remember all the details, you'll never remember them anyway.
     * Being able to explain why you are using every tool you are using
     * `When` studying tools, learn their philosophy
-    * `When` using each tool `check` if you are using it according to it's philosophy
+    * `When` using each tool check if you are using it according to it's philosophy
     * Avoid abusing tools - meaning stop using them against their philosophy or not in line with it.
 <!-- chapter: when-to-use-outside-help-or-consultants, duration: 1h -->
 * `When` to use outside help or consultants

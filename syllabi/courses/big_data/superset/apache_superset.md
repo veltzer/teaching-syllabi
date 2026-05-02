@@ -13,7 +13,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: apache_superset -->
-# `Apache` Superset
+# `Apache Superset`
 
 ## Description
 `Apache Superset` is a modern, open-source data exploration and visualization platform. This course covers installation, configuration, connecting to various databases, building charts and dashboards, using `SQL Lab`, configuring security, and deploying Superset at scale. Participants will learn to create compelling data visualizations and share insights across their organization.
@@ -41,7 +41,7 @@ audience:
 
 ## Objectives
 * Install and configure `Apache Superset` for development and production
-* Connect Superset to various databases (`PostgreSQL`, `MySQL`, `ClickHouse`, `BigQuery`, `Snowflake`)
+* Connect Superset to various databases (`PostgreSQL`, `MySQL`, `ClickHouse`, `BigQuery`, Snowflake)
 * Write and execute queries in `SQL Lab`
 * Create a variety of chart types (line, bar, pie, scatter, heatmap, geo)
 * Build interactive dashboards with filters and cross-filtering
@@ -60,8 +60,8 @@ audience:
     * Community and ecosystem
 <!-- chapter: installation-and-configuration, duration: 1h -->
 * Installation and Configuration
-    * Installing Superset with `pip` and `Docker`
-    * Configuration `file` (superset_config.py) essentials
+    * Installing Superset with pip and `Docker`
+    * Configuration file (superset_config.py) essentials
     * Setting up metadata database (`PostgreSQL` recommended)
     * Cache configuration (`Redis`, Memcached)
     * Feature flags and customization options
@@ -70,7 +70,7 @@ audience:
     * Database connection setup via `SQLAlchemy` URIs
     * Connecting to `PostgreSQL` and `MySQL`
     * Connecting to `ClickHouse` for analytics workloads
-    * Connecting to `BigQuery` and `Snowflake`
+    * Connecting to `BigQuery` and Snowflake
     * Managing database credentials securely
     * Testing connections and troubleshooting
 <!-- chapter: sql-lab, duration: 1h -->
@@ -108,10 +108,10 @@ audience:
     * Pre-filtering datasets
 <!-- chapter: alerts-and-reports, duration: 1h -->
 * Alerts and Reports
-    * Setting up email and `Slack` notifications
+    * Setting up email and Slack notifications
     * Configuring alert conditions on queries
     * Scheduled report delivery (`PDF`, PNG, `CSV`)
-    * Celery worker configuration for `async` tasks
+    * Celery worker configuration for async tasks
 <!-- chapter: rbac-and-row-level-security, duration: 1h -->
 * `RBAC` and Row-Level Security
     * Role-based access control model
@@ -129,7 +129,7 @@ audience:
 * Custom Visualizations
     * Visualization plugin architecture
     * Installing community plugins
-    * Building custom visualization plugins with `React`
+    * Building custom visualization plugins with React
     * Registering and deploying custom plugins
 <!-- chapter: embedding-dashboards, duration: 1h -->
 * Embedding Dashboards
@@ -140,7 +140,7 @@ audience:
 <!-- chapter: deployment, duration: 1h -->
 * Deployment
     * `Docker Compose` deployment for small teams
-    * `Kubernetes` deployment with `Helm` charts
+    * `Kubernetes` deployment with Helm charts
     * Scaling Superset components (web, worker, scheduler)
     * Load balancer and reverse proxy configuration
     * Backup and disaster recovery

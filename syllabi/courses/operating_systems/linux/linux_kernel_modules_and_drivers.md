@@ -38,10 +38,10 @@ drivers.
 * developers writing or maintaining kernel modules and drivers
 * systems programmers crossing into kernel work
 * embedded engineers working at the `Linux`-driver layer
-* engineers debugging kernel-level issues that `require` module-level changes
+* engineers debugging kernel-level issues that require module-level changes
 
 ## Prerequisites
-* `solid` `C` programming experience
+* `solid` C programming experience
 * working knowledge of `Linux` user-space programming
 * basic familiarity with computer architecture (interrupts, `MMU`, caches)
 * exposure to a `Linux` kernel build is helpful

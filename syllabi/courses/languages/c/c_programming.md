@@ -10,35 +10,35 @@ audience:
   - audiences:developers
 ---
 <!-- course: c_programming -->
-<!-- Track gaps: the standard `C` library in depth, object-oriented programming techniques using `C` -->
-# `C` Programming
+<!-- Track gaps: the standard C library in depth, object-oriented programming techniques using C -->
+# C Programming
 
 ## Description
-`C` is and has been for years the world's best language for low level, systems and embedded programming. This course covers this language and teaches how to program in it.
+C is and has been for years the world's best language for low level, systems and embedded programming. This course covers this language and teaches how to program in it.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* `C` programmers
+* C programmers
 * embedded and systems software developers
 
 ## Prerequisites
 * basic programming experience in any language
 
 ## Objectives
-* understand the core concepts and principles of `C` Programming
-* gain practical knowledge of Introduction to `C`
+* understand the core concepts and principles of C Programming
+* gain practical knowledge of Introduction to C
 * gain practical knowledge of Basic Syntax and Data Types
 * gain practical knowledge of Control Flow
 
 ## Outline
 <!-- chapter: introduction-to-c, duration: 2h -->
-* Introduction to `C`
-    * History and importance of `C`
-    * `C` language standards (ANSI `C`, `C99`, C11, `C17`)
+* Introduction to C
+    * History and importance of C
+    * C language standards (ANSI C, `C99`, C11, `C17`)
     * Setting up the development environment
-    * Structure of a `C` program
+    * Structure of a C program
     * Compilation process
     * First program: Hello World
 <!-- chapter: basic-syntax-and-data-types, duration: 2h -->
@@ -102,7 +102,7 @@ audience:
     * `File` handling concepts
     * Text and binary files
     * `File` operations (open, close, read, write)
-    * Error handling in `file` operations
+    * Error handling in file operations
     * Random access to files
     * Command line arguments
 <!-- chapter: module-10-preprocessor-directives, duration: 2h -->
@@ -119,7 +119,7 @@ audience:
     * Variable arguments functions
     * Bit manipulation
     * Signals and error handling
-    * Multi-`file` programming
+    * Multi-file programming
     * Header files and their organization
     * Creating and using libraries
 <!-- chapter: standard-library, duration: 2h -->
@@ -131,11 +131,11 @@ audience:
     * Time and date functions (time.h)
 <!-- chapter: best-practices-and-design, duration: 2h -->
 * Best Practices and Design
-    * Writing efficient `C` code
+    * Writing efficient C code
     * Debugging techniques
     * Code organization and style
     * Documentation practices
-    * Common `C` programming pitfalls
+    * Common C programming pitfalls
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -32,7 +32,7 @@ audience:
 * Working knowledge of `SQL`
 * Basic understanding of `Apache Spark` and distributed computing concepts
 * Familiarity with data lake storage (`S3`, `ADLS`, `GCS`)
-* Understanding of `file` formats such as `Parquet`
+* Understanding of file formats such as `Parquet`
 * Basic command-line interface usage
 
 ## Objectives
@@ -44,7 +44,7 @@ audience:
 * Optimize table performance with VACUUM, OPTIMIZE, Z-ordering, and liquid clustering
 * Configure and use `Delta Sharing` for secure data sharing
 * Integrate `Delta Lake` with `Spark`, `Databricks`, and `delta`-rs
-* Compare `Delta Lake` with `Iceberg` and `Hudi`
+* Compare `Delta Lake` with Iceberg and `Hudi`
 
 ## Outline
 <!-- chapter: delta-lake-overview-and-architecture, duration: 2h -->
@@ -81,16 +81,16 @@ audience:
     * Streaming reads from change data feed
 <!-- chapter: table-maintenance-and-optimization, duration: 2h -->
 * Table Maintenance and Optimization
-    * VACUUM command and `file` cleanup
-    * OPTIMIZE command for `file` compaction
+    * VACUUM command and file cleanup
+    * OPTIMIZE command for file compaction
     * Z-ordering for data skipping and query acceleration
     * Liquid clustering as next-generation data layout
     * Auto-optimization settings and best practices
 <!-- chapter: uniform-universal-format, duration: 1h -->
 * UniForm (Universal Format)
-    * Cross-format compatibility with `Iceberg` and `Hudi`
-    * Enabling UniForm on `Delta` tables
-    * Reading `Delta` tables from `Iceberg`-compatible engines
+    * Cross-format compatibility with Iceberg and `Hudi`
+    * Enabling UniForm on Delta tables
+    * Reading Delta tables from Iceberg-compatible engines
     * Use cases and limitations
 <!-- chapter: delta-sharing, duration: 1h -->
 * `Delta Sharing`
@@ -101,23 +101,23 @@ audience:
 <!-- chapter: delta-lake-with-spark, duration: 1h -->
 * `Delta Lake` with `Spark`
     * Configuring `Spark` with `Delta Lake` support
-    * Creating and managing `Delta` tables
+    * Creating and managing Delta tables
     * Batch and streaming operations
     * Performance tuning for `Spark` workloads
 <!-- chapter: delta-lake-standalone-delta-rs, duration: 1h -->
 * `Delta Lake` Standalone (`delta`-rs)
-    * `delta`-rs `Rust`-based engine overview
+    * `delta`-rs Rust-based engine overview
     * `Python` bindings (deltalake package)
-    * Reading and writing `Delta` tables without `Spark`
-    * Integration with `Pandas`, `Polars`, and `DuckDB`
+    * Reading and writing Delta tables without `Spark`
+    * Integration with Pandas, `Polars`, and `DuckDB`
 <!-- chapter: integration-with-databricks-and-other-engines, duration: 1h -->
 * Integration with `Databricks` and Other Engines
-    * `Databricks` runtime and `Delta` optimizations
+    * `Databricks` runtime and Delta optimizations
     * `Unity` Catalog and governance features
-    * Integration with `Trino`, `Presto`, and `Athena`
+    * Integration with `Trino`, Presto, and Athena
     * Integration with `Flink` and other streaming engines
 <!-- chapter: comparison-with-iceberg-and-hudi, duration: 1h -->
-* Comparison with `Iceberg` and `Hudi`
+* Comparison with Iceberg and `Hudi`
     * Feature comparison across open table formats
     * Performance characteristics and trade-offs
     * Community adoption and ecosystem support
@@ -126,7 +126,7 @@ audience:
 * Best Practices
     * Table design and partitioning strategies
     * Pipeline architecture patterns
-    * Monitoring and alerting on `Delta` tables
+    * Monitoring and alerting on Delta tables
     * Cost management and storage optimization
 
 ## Copyright

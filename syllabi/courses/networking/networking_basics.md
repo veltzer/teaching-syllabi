@@ -47,7 +47,7 @@ Networking fundamentals are essential for understanding how computers communicat
 * Work with `HTTP` headers, cookies, and session management mechanisms
 * Understand `DNS` resolution process and domain name system architecture
 * Implement and troubleshoot common network protocols (`TCP`, `UDP`, `FTP`, `SMTP`)
-* Use network diagnostic tools (`ping`, `traceroute`, `netstat`, `Wireshark`)
+* Use network diagnostic tools (ping, `traceroute`, `netstat`, `Wireshark`)
 * Apply basic network security concepts including firewalls and VPNs
 * Understand routing, switching, and network topology concepts
 * Configure basic network services and analyze network traffic patterns
@@ -74,7 +74,7 @@ Networking fundamentals are essential for understanding how computers communicat
     * Encapsulation and de-encapsulation process
 <!-- chapter: ip-addressing-and-subnetting, duration: 1h -->
 * `IP` Addressing and Subnetting
-    * `IPv4` address structure and classes (A, B, `C`, D, E)
+    * `IPv4` address structure and classes (A, B, C, D, E)
     * Public vs private `IP` addresses (`RFC 1918`)
     * Subnet masks and `CIDR` notation
     * Subnetting calculations and network design
@@ -122,13 +122,13 @@ Networking fundamentals are essential for understanding how computers communicat
     * `DNS` hierarchy: root servers, TLD servers, authoritative servers
     * `DNS` record types: A, AAAA, CNAME, MX, TXT, NS
     * `DNS` resolution process and caching mechanisms
-    * `DNS` configuration and troubleshooting tools (`nslookup`, `dig`)
+    * `DNS` configuration and troubleshooting tools (`nslookup`, dig)
     * Reverse `DNS` lookups and PTR records
     * `DNS` security: `DNSSEC` and `DNS` over `HTTPS` (`DoH`)
     * Content Delivery Networks (CDN) and `DNS` optimization
 <!-- chapter: network-diagnostic-tools-and-troubleshooting, duration: 2h -->
 * Network Diagnostic Tools and Troubleshooting
-    * `ping` for connectivity testing and latency measurement
+    * ping for connectivity testing and latency measurement
     * `traceroute`/tracert for path discovery and hop analysis
     * `netstat` for connection and port monitoring
     * `nmap` for network scanning and service discovery

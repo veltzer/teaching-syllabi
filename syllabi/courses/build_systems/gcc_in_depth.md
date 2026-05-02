@@ -29,13 +29,13 @@ with the knowledge to get the most out of their toolchain.
 16 hours / 2 days
 
 ## Intended Audience
-* `C` and `C++` developers who want to master the `GCC` toolchain for better code quality and performance.
+* C and `C++` developers who want to master the `GCC` toolchain for better code quality and performance.
 * Embedded engineers who need to cross-compile and fine-tune binaries for target hardware.
 * Firmware developers working with `GCC`-based toolchains for embedded platforms.
 * Performance engineers seeking to optimize application performance through compiler techniques.
 
 ## Prerequisites
-* `Solid` experience programming in `C` or `C++`.
+* `Solid` experience programming in C or `C++`.
 * Familiarity with the `Linux` command line and build tools such as `make`.
 * Basic understanding of how compilers and linkers work.
 
@@ -81,7 +81,7 @@ with the knowledge to get the most out of their toolchain.
     * Treating warnings as errors with -Werror
     * Selective warning suppression
     * Custom warning policies for projects
-    * Warning flags for `C` vs `C++`
+    * Warning flags for C vs `C++`
 <!-- chapter: sanitizers, duration: 1h -->
 * Sanitizers
     * AddressSanitizer (ASan): memory error detection

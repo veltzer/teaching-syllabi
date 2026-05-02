@@ -37,7 +37,7 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
 * Write `clean`, idiomatic `F#` code using functions, pipelines, and algebraic types
 * Model complex domains using discriminated unions, records, and option types
 * Handle errors explicitly using the `Result` type without exceptions
-* Write asynchronous workflows using `async` and `task` computation expressions
+* Write asynchronous workflows using async and `task` computation expressions
 * Interoperate with existing `C#` libraries and `.NET` APIs
 * Test `F#` code with `xUnit` or `NUnit`
 
@@ -47,13 +47,13 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
     * History and motivation: functional programming on `.NET`
     * Installing `F#` with the `.NET SDK` and `Visual Studio Code`
     * The `F#` interactive (`dotnet fsi`) REPL
-    * First expressions and the `let` binding
+    * First expressions and the let binding
     * Type inference and the compiler
-    * Tooling: `Ionide`, `Rider`, `Visual Studio`
+    * Tooling: `Ionide`, Rider, `Visual Studio`
 <!-- chapter: basic-types-and-expressions, duration: 3h -->
 * Basic Types and Expressions
     * Primitive types: `int`, `float`, `bool`, `string`, `char`
-    * Immutable bindings with `let`
+    * Immutable bindings with let
     * Mutable values with `mutable`
     * Tuples
     * `unit` type
@@ -96,21 +96,21 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
     * Defining and opening modules
     * Nested modules
     * Namespaces vs modules
-    * `File` order and the `F#` compiler's `top`-down rule
-    * Organizing a multi-`file` `F#` project
+    * `File` order and the `F#` compiler's top-down rule
+    * Organizing a multi-file `F#` project
 <!-- chapter: asynchronous-programming, duration: 3h -->
 * Asynchronous Programming
-    * `async` computation expressions
+    * async computation expressions
     * `Async.Start`, `Async.RunSynchronously`, `Async.Parallel`
     * The `task {}` computation expression for `.NET` Task interop
     * Cancellation tokens
-    * Combining `async` workflows
-    * Comparison of `async` vs `task`
+    * Combining async workflows
+    * Comparison of async vs `task`
 <!-- chapter: computation-expressions, duration: 2h -->
 * Computation Expressions
     * What computation expressions are
     * The `builder` pattern
-    * Understanding `async`, `seq`, and `result` as computation expressions
+    * Understanding async, `seq`, and `result` as computation expressions
     * Writing a custom computation expression
     * Using `CE` libraries from the ecosystem
 <!-- chapter: interoperability-with-csharp-and-dotnet, duration: 2h -->
@@ -129,7 +129,7 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
     * Snapshot testing overview
 <!-- chapter: building-real-world-applications, duration: 2h -->
 * Building Real-World Applications
-    * Building a web `API` with `Giraffe` or `Falco`
+    * Building a web `API` with Giraffe or `Falco`
     * Domain modelling with discriminated unions
     * Parsing and validating input with the `Result` type
     * Structuring an `F#` solution with multiple projects

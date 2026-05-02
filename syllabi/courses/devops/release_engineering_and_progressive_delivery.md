@@ -29,7 +29,7 @@ blue-green and rolling deploys and the cases for each, the rollback story, the d
 problem (the deploy that cannot be rolled back), the release-on-Friday question, the release-readiness
 checklist, the metrics that decide whether a release succeeded, and the relationship between release
 engineering and incident response. Examples are drawn from the public engineering writing of `LinkedIn`,
-`Facebook`, `Google`, `Netflix`, and the `Accelerate` book's claims about release frequency and
+`Facebook`, Google, Netflix, and the `Accelerate` book's claims about release frequency and
 reliability. Participants leave able to design a release process that the team will actually follow.
 
 ## Duration
@@ -81,7 +81,7 @@ reliability. Participants leave able to design a release process that the team w
 * Canary deployment
     * the canary as a verification mechanism
     * automatic vs manual canary analysis
-    * `Argo Rollouts`, `Flagger`, `Spinnaker`
+    * `Argo Rollouts`, `Flagger`, Spinnaker
     * cross-reference to the `ArgoCD` and `GitOps` course
     * the "we always promoted the canary regardless" failure
 <!-- chapter: feature-flags-and-decoupling-deploy-from-release, duration: 2h -->
@@ -130,13 +130,13 @@ reliability. Participants leave able to design a release process that the team w
     * the central release team vs federated
     * release manager vs everyone-deploys
     * the release notes pipeline
-    * the change advisory board and `when` it helps
+    * the change advisory board and when it helps
     * the release-on-Friday debate
 <!-- chapter: tooling-survey, duration: 1h -->
 * Tooling survey
-    * `ArgoCD`, `Flux`, `Spinnaker`, `Harness`, `Octopus Deploy`
+    * `ArgoCD`, `Flux`, Spinnaker, Harness, `Octopus Deploy`
     * `Argo Rollouts` and `Flagger`
-    * `LaunchDarkly`, `Unleash`, `Statsig`, `GrowthBook` for flags
+    * `LaunchDarkly`, Unleash, Statsig, `GrowthBook` for flags
     * picking the toolchain for the team
 <!-- chapter: a-release-engineering-walkthrough, duration: 1h -->
 * A release engineering walkthrough

@@ -78,7 +78,7 @@ concepts of the language.
 <!-- chapter: c-file-and-string-streams, duration: 1h -->
 * `C++` `File` and String Streams
 <!-- chapter: combining-c-and-c, duration: 1h -->
-* Combining `C` and `C++`
+* Combining C and `C++`
 <!-- chapter: stl-standard-template-library-brief-339, duration: 1h -->
 * `STL` (Standard Template Library - brief) 339
     * Introduction

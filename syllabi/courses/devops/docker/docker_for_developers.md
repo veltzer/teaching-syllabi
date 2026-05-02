@@ -43,13 +43,13 @@ but not mandatory.
 Participants will gain an understanding of what container technology is and in what
 circumstances they need it.
 Participants will be able to create `Docker` images containing their applications, run their
-`Docker` images locally or remotely, debug their applications even `when` they running within
+`Docker` images locally or remotely, debug their applications even when they running within
 `Docker` containers and handle their application logs.
 
 ## Exercises
 The coding examples in this course will be presented in `Python`. The examples are short
 and should not present any problems for the developers. If you would like the examples
-to be tailored to the language of your choosing please `let` me know at <mark.veltzer@gmail.com>.
+to be tailored to the language of your choosing please let me know at <mark.veltzer@gmail.com>.
 The training platform is `Linux` so prior to class arrangements should be made to `make`
 sure that the participants have an access to `Linux` boxes.
 
@@ -139,7 +139,7 @@ sure that the participants have an access to `Linux` boxes.
 
 ## Installations
 * A real `Ubuntu` >= 22.04 running on a laptop.
-* A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on `top`. This could be done using `Hyper-V` or `Oracle` `VirtualBox`.
+* A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on top. This could be done using `Hyper-V` or Oracle `VirtualBox`.
 * Access to a remote `Ubuntu` >= 22.04 machine via `ssh` (command line, putty, MobaXterm, ...). The machine could be in a company private cloud or a public cloud.
 * In any case the student must have `sudo`/root on this virtual machine.
 * In all cases the installations are not a must and the instructor will guide the students how to do the installations on the first day of the course.

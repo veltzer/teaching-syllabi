@@ -16,7 +16,7 @@ audience:
 ## Description
 `Apache Spark` is a fast and general engine for large-scale data processing, and arguably the first
 open source software that makes distributed programming truly accessible to data scientists.
-Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and `R`.
+Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and R.
 
 `Java` is a venerable server side programming language in use for many years, and one of the main languages
 use to write `Apache Spark` itself. As such the `Java` apis of `Spark` are considered the *core* APIs.
@@ -41,7 +41,7 @@ The course will include exercises for all the major topics explained with best p
 * Learn how to use the Dataset `API` correctly.
 * Learn and understand the MR `API`.
 * Learn how to use transformations correctly.
-* Learn `when` and how to use the streaming features of `Spark`.
+* Learn when and how to use the streaming features of `Spark`.
 * Learn how to do `machine learning` tasks using `Spark`.
 
 ## Outline
@@ -50,7 +50,7 @@ The course will include exercises for all the major topics explained with best p
     * Why `Spark`
     * `Spark` Components
     * Creating a `Spark` `Maven` Project
-    * Source Code into `Eclipse`
+    * Source Code into Eclipse
     * First `Spark` Application
     * `Spark` Applications on a Cluster
     * Ingesting `CSV` and `JSON` files

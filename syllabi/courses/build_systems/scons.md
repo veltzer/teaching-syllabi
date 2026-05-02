@@ -14,7 +14,7 @@ audience:
 # SCons
 
 ## Description
-SCons is a software construction tool that uses `Python` scripts as its configuration files, providing a powerful and flexible alternative to `Make` and `CMake`. This course covers SCons from the ground up, including its dependency analysis engine, builder and scanner system, and how to use it for multi-language and cross-platform builds.
+SCons is a software construction tool that uses `Python` scripts as its configuration files, providing a powerful and flexible alternative to Make and `CMake`. This course covers SCons from the ground up, including its dependency analysis engine, builder and scanner system, and how to use it for multi-language and cross-platform builds.
 
 ## Duration
 16 hours / 2 days
@@ -42,13 +42,13 @@ SCons is a software construction tool that uses `Python` scripts as its configur
 <!-- chapter: introduction-to-scons, duration: 2h -->
 * Introduction to SCons
     * History and motivation
-    * Comparison with other build systems (`Make`, `CMake`, `Bazel`)
+    * Comparison with other build systems (Make, `CMake`, `Bazel`)
     * Core concepts: environments, builders, nodes, targets
     * Installing SCons
     * First build: "Hello, World!"
 <!-- chapter: sconstruct-and-sconscript-files, duration: 2h -->
 * SConstruct and SConscript Files
-    * SConstruct as the `top`-level build `file`
+    * SConstruct as the top-level build file
     * Hierarchical builds with SConscript
     * `Python` as the configuration language
     * Returning values from subsidiary scripts
@@ -62,7 +62,7 @@ SCons is a software construction tool that uses `Python` scripts as its configur
     * Tool specification and auto-detection
 <!-- chapter: built-in-builders, duration: 2h -->
 * Built-in Builders
-    * Compiling `C`/`C++` programs and libraries
+    * Compiling C/`C++` programs and libraries
     * Static and shared libraries
     * `Java` compilation
     * `LaTeX` and `PDF` generation
@@ -95,7 +95,7 @@ SCons is a software construction tool that uses `Python` scripts as its configur
     * Combining SCons with other tools
     * Managing large projects
     * Performance tuning for large builds
-    * Migrating from `Make` or `CMake`
+    * Migrating from Make or `CMake`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -70,7 +70,7 @@ big-data tools. By the end of the course, participants will be equipped to estab
     * Organising large numbers of experiments at scale
 <!-- chapter: projects-and-reproducibility, duration: 2h -->
 * Projects and Reproducibility
-    * The `MLproject` `file` format
+    * The `MLproject` file format
     * Defining entry points and parameter schemas
     * `Conda` and `Docker` environments for reproducible runs
     * Running projects locally, remotely, and on `Kubernetes`

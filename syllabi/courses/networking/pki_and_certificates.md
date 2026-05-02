@@ -18,7 +18,7 @@ audience:
 # `PKI` and Certificates
 
 ## Description
-Public Key Infrastructure (`PKI`) underpins the security of virtually every encrypted communication on the internet, from `HTTPS` websites to mutual `TLS` in `microservices` and `VPN` authentication. Despite its foundational role, `PKI` is frequently misunderstood, leading to misconfigured certificates, broken trust chains, and serious security vulnerabilities. This course provides a rigorous, practical understanding of `PKI` from first principles — covering asymmetric cryptography, `X.509` certificate structure, certificate authority hierarchies, the `TLS` handshake, and the full certificate lifecycle. Participants will gain hands-on experience with `OpenSSL`, `Let's Encrypt`/`ACME`, and internal `CA` solutions including `CFSSL` and `HashiCorp Vault`, enabling them to design and operate `PKI` infrastructure confidently.
+Public Key Infrastructure (`PKI`) underpins the security of virtually every encrypted communication on the internet, from `HTTPS` websites to mutual `TLS` in microservices and `VPN` authentication. Despite its foundational role, `PKI` is frequently misunderstood, leading to misconfigured certificates, broken trust chains, and serious security vulnerabilities. This course provides a rigorous, practical understanding of `PKI` from first principles — covering asymmetric cryptography, `X.509` certificate structure, certificate authority hierarchies, the `TLS` handshake, and the full certificate lifecycle. Participants will gain hands-on experience with `OpenSSL`, `Let's Encrypt`/`ACME`, and internal `CA` solutions including `CFSSL` and `HashiCorp Vault`, enabling them to design and operate `PKI` infrastructure confidently.
 
 ## Duration
 16 hours / 2 days
@@ -68,10 +68,10 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
     * Trust stores: browser, OS, and `JVM` trust anchors
     * Certificate policies and Certificate Practice Statements (CPS)
     * Cross-certification and bridge CAs
-    * Public `PKI` vs private `PKI`: `when` to use each
+    * Public `PKI` vs private `PKI`: when to use each
 <!-- chapter: x509-certificates-deep-dive, duration: 2h -->
 * `X.509` Certificates Deep Dive
-    * `ASN.1` encoding and `DER`/`PEM` formats
+    * `ASN.1` encoding and DER/`PEM` formats
     * Certificate fields: version, serial number, validity period, subject, issuer
     * Subject Alternative Names (`SAN`) and wildcard certificates
     * Key Usage and Extended Key Usage extensions
@@ -97,10 +97,10 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
     * Cipher suites: AEAD ciphers, forward secrecy, and deprecated algorithms
     * Certificate validation during the handshake: chain building and revocation checking
     * Mutual `TLS` (mTLS): client certificate authentication
-    * Configuring `TLS` in `Nginx`, `Apache`, and application servers
+    * Configuring `TLS` in `Nginx`, Apache, and application servers
     * `TLS` configuration best practices and the Mozilla `SSL` Configuration Generator
     * Testing `TLS` configuration with `testssl.sh` and Qualys `SSL` Labs
-    * Common `TLS` vulnerabilities: `BEAST`, `POODLE`, `Heartbleed`, and `ROBOT`
+    * Common `TLS` vulnerabilities: BEAST, POODLE, Heartbleed, and `ROBOT`
 <!-- chapter: certificate-lifecycle-management, duration: 2h -->
 * Certificate Lifecycle Management
     * Certificate validity periods and best practices
@@ -110,25 +110,25 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
     * Certificate revocation and key compromise response procedures
     * Certificate rotation for zero-downtime deployments
     * Managing certificates in `Kubernetes` with `cert-manager`
-    * Secrets management integration: storing certificates in `Vault` and `AWS Secrets Manager`
+    * Secrets management integration: storing certificates in Vault and `AWS Secrets Manager`
 <!-- chapter: lets-encrypt-and-acme, duration: 1h -->
 * `Let's Encrypt` and the `ACME` Protocol
     * `Let's Encrypt` history and mission: free, automated, and open
     * `ACME` protocol (`RFC 8555`): account creation, order, challenge, and finalization
     * `HTTP-01`, `DNS-01`, and `TLS-ALPN-01` challenge types
     * Using `Certbot` for `ACME` certificate issuance and renewal
-    * `ACME` client libraries: `acme.sh`, `Lego`, `Caddy` built-in
+    * `ACME` client libraries: `acme.sh`, `Lego`, Caddy built-in
     * `DNS-01` challenge for wildcard certificates and internal services
     * `ACME` in enterprise environments with `step-ca` and private `ACME` servers
 <!-- chapter: internal-pki-with-cfssl-and-vault, duration: 2h -->
-* Internal `PKI` with `CFSSL` and `Vault`
+* Internal `PKI` with `CFSSL` and Vault
     * `When` to run an internal `CA`: air-gapped systems, mTLS meshes, short-lived certificates
     * `CFSSL` architecture: `CA` server, `API`, and `CLI`
     * Setting up a `CFSSL`-based two-tier `CA` hierarchy
     * Issuing and signing certificates with `CFSSL` `API`
     * `HashiCorp Vault PKI` secrets engine overview
-    * Configuring root and intermediate CAs in `Vault`
-    * Issuing short-lived certificates with `Vault` for service-to-service mTLS
+    * Configuring root and intermediate CAs in Vault
+    * Issuing short-lived certificates with Vault for service-to-service mTLS
     * Integrating `Vault PKI` with `cert-manager` in `Kubernetes`
     * Certificate lifecycle automation with short TTLs and high-frequency renewal
 

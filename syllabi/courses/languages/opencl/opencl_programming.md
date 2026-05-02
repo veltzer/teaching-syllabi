@@ -29,7 +29,7 @@ suit an algorithm to `GPU` and optimization guidelines.
 the development of an `OpenCL` project.
 
 ## Prerequisites
-* Knowledge of lower level programming is required: `Assembly`, `C` or `C++`.
+* Knowledge of lower level programming is required: `Assembly`, C or `C++`.
 
 ## Objectives
 * Understand the main idioms for `OpenCL`.
@@ -58,7 +58,7 @@ the development of an `OpenCL` project.
         * Creating a context
         * Creating command-queues
         * Creating `OpenCL` programs and kernels
-            * Writing `OpenCL`-`C` code
+            * Writing `OpenCL`-C code
             * Building the code
         * Creating memory objects
         * Data transfers between host processor and `OpenCL` device
@@ -81,7 +81,7 @@ the development of an `OpenCL` project.
         * Context creation and information retrieval
         * Command-queue types
         * Types of commands
-        * The `OpenCL`-`C` compiler
+        * The `OpenCL`-C compiler
             * Compiler flags
             * Resolving compilation issues
             * Retrieving compiled binaries
@@ -105,7 +105,7 @@ the development of an `OpenCL` project.
         * Event callbacks
     * Profiling commands using events
 <!-- chapter: the-opencl-c-language, duration: 3h -->
-* The `OpenCL`-`C` language
+* The `OpenCL`-C language
     * Restriction and extensions over `C99`
     * Data-types
     * Working with vector literals and elements

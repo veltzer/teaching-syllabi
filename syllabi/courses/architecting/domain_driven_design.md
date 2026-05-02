@@ -40,7 +40,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 * Facilitate event storming workshops to discover domain knowledge collaboratively
 * Design systems using `CQRS` and `event sourcing` patterns
 * Apply the `saga` pattern for managing distributed business processes
-* Integrate `DDD` with `microservices` and `hexagonal architecture`
+* Integrate `DDD` with microservices and `hexagonal architecture`
 * Refactor existing codebases toward deeper domain insight
 
 ## Outline
@@ -84,11 +84,11 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
     * Projections: building read models from event streams
     * Snapshotting for performance optimization
     * Eventual consistency and its implications for user experience
-    * `When` to use and `when` to avoid `CQRS` and `event sourcing`
+    * `When` to use and when to avoid `CQRS` and `event sourcing`
 <!-- chapter: saga-pattern-and-distributed-processes, duration: 3h -->
-* `Saga` Pattern and Distributed Processes
+* `Saga Pattern` and Distributed Processes
     * Managing distributed transactions without two-phase commit
-    * `Saga` pattern: orchestration vs choreography
+    * Saga pattern: orchestration vs choreography
     * Designing compensating actions for failure recovery
     * Implementing orchestration-based sagas with a `saga` coordinator
     * Implementing choreography-based sagas with domain events
@@ -99,7 +99,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 * `DDD` with `Microservices` and `Hexagonal Architecture`
     * Aligning microservice boundaries with bounded contexts
     * Anti-corruption layer for integrating with legacy systems
-    * Shared kernel: `when` and how to share domain concepts
+    * Shared kernel: when and how to share domain concepts
     * `Hexagonal architecture` (ports and adapters) as a foundation for `DDD`
     * Application services and the role of the application layer
     * Infrastructure layer: adapters for persistence, messaging, and external services

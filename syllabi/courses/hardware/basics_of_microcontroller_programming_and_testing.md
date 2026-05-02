@@ -27,7 +27,7 @@ This course provides a comprehensive introduction to programming and testing mic
 * Engineers working on IoT devices
 
 ## Prerequisites
-* `C` programming (mandatory)
+* C programming (mandatory)
 * Basic understanding of digital logic
 * Familiarity with binary and hexadecimal number systems
 * `C++` is an advantage
@@ -37,7 +37,7 @@ This course provides a comprehensive introduction to programming and testing mic
 * understand the core concepts and principles of Basics of Micro-controller Programming and Testing
 * gain practical knowledge of Introduction to Microcontrollers
 * gain practical knowledge of Development Environment Setup
-* gain practical knowledge of Embedded `C` Programming Fundamentals
+* gain practical knowledge of Embedded C Programming Fundamentals
 
 ## Outline
 <!-- chapter: introduction-to-microcontrollers, duration: 2h -->
@@ -53,10 +53,10 @@ This course provides a comprehensive introduction to programming and testing mic
     * Toolchains and compilers (`GCC`, Keil, IAR)
     * `IDEs` and development boards
     * Programming and debugging interfaces (JTAG, SWD, `UART`)
-    * Build systems (`Make`, `CMake`)
+    * Build systems (Make, `CMake`)
     * Flash programming tools
 <!-- chapter: embedded-c-programming-fundamentals, duration: 3h -->
-* Embedded `C` Programming Fundamentals
+* Embedded C Programming Fundamentals
     * Differences from desktop programming
     * Memory constraints and optimization
     * Volatile keyword and its importance
@@ -64,7 +64,7 @@ This course provides a comprehensive introduction to programming and testing mic
     * Direct hardware register manipulation
     * Memory-mapped `I/O`
     * Startup code and linker scripts
-    * Inline `assembly` `when` needed
+    * Inline `assembly` when needed
 <!-- chapter: gpio-programming, duration: 2h -->
 * `GPIO` Programming
     * Digital `I/O` basics
@@ -93,7 +93,7 @@ This course provides a comprehensive introduction to programming and testing mic
     * ADC (Analog to Digital Converter)
     * ADC resolution and sampling rates
     * Reading analog sensors
-    * DAC (Digital to Analog Converter) `when` available
+    * DAC (Digital to Analog Converter) when available
 <!-- chapter: interrupts-in-microcontrollers, duration: 3h -->
 * Interrupts in Microcontrollers
     * Interrupt basics and vector tables
@@ -131,7 +131,7 @@ This course provides a comprehensive introduction to programming and testing mic
     * Printf debugging via `UART`
     * LED-based debugging
     * Watchdog timers
-    * Common bugs and how to `find` them
+    * Common bugs and how to find them
     * Memory corruption detection
     * Stack overflow detection
 <!-- chapter: best-practices-and-common-pitfalls, duration: 3h -->

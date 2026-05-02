@@ -44,7 +44,7 @@ can accelerate development cycles, improve code quality, and transform tradition
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* **Configure and effectively utilize** `AI` coding assistants (`Copilot`, `Cursor`, `Codeium`) and chat-based tools (`ChatGPT`/`Claude`) in daily development workflows
+* **Configure and effectively utilize** `AI` coding assistants (Copilot, Cursor, `Codeium`) and chat-based tools (`ChatGPT`/Claude) in daily development workflows
 * **Apply prompt engineering techniques** to generate high-quality code, tests, documentation, and solve complex programming problems
 * **Implement `AI`-enhanced development practices** including `TDD`, refactoring, debugging, and code review to improve code quality and productivity
 * **Measure and optimize** the ROI of `AI` tool adoption while avoiding over-reliance and maintaining core programming skills
@@ -80,14 +80,14 @@ can accelerate development cycles, improve code quality, and transform tradition
 * `AI`-Powered Coding Assistants
     * Popular `AI` coding tools
         * `GitHub Copilot` setup and features
-        * `Cursor` IDE and its capabilities
+        * Cursor IDE and its capabilities
         * `Codeium` configuration
         * `Amazon CodeWhisperer` [long]
         * `Tabnine` customization [long]
         * `JetBrains` `AI` Assistant [long]
     * Effective usage patterns
         * Context window optimization
-        * Multi-`file` context management
+        * Multi-file context management
         * Project-specific patterns [long]
         * Language-specific techniques
         * Framework-aware completions [long]
@@ -112,7 +112,7 @@ can accelerate development cycles, improve code quality, and transform tradition
         * Pattern learning
 <!-- chapter: chat-based-development-workflows-long, duration: 2h -->
 * Chat-Based Development Workflows [long]
-    * Using `ChatGPT`/`Claude`/`Gemini` for development
+    * Using `ChatGPT`/Claude/Gemini for development
         * Effective conversation strategies
         * Context management
         * Session organization
@@ -211,7 +211,7 @@ can accelerate development cycles, improve code quality, and transform tradition
         * Error message interpretation
         * Stack trace analysis
         * Log analysis
-        * `Hypothesis` generation
+        * Hypothesis generation
         * Solution exploration
         * Fix validation
 <!-- chapter: learning-and-skill-development-long, duration: 1h -->

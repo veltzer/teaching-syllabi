@@ -17,7 +17,7 @@ audience:
 # `Meson`
 
 ## Description
-`Meson` is a modern, fast, and user-friendly build system designed for `C`, `C++`, and a growing number of other
+`Meson` is a modern, fast, and user-friendly build system designed for C, `C++`, and a growing number of other
 languages, with a focus on speed and developer experience. This course teaches participants to configure and
 maintain `Meson`-based projects from small libraries to large multi-target codebases, covering dependency
 management through `pkg-config` and `WrapDB`, and advanced cross-compilation scenarios common in embedded
@@ -28,36 +28,36 @@ existing projects or start new ones confidently.
 16 hours / 2 days
 
 ## Intended Audience
-* `C` and `C++` developers who want a faster, more readable alternative to `CMake` or `Autotools`.
+* C and `C++` developers who want a faster, more readable alternative to `CMake` or `Autotools`.
 * Embedded and systems engineers who need reliable cross-compilation support.
 * Build engineers responsible for configuring and optimising native code build pipelines.
 
 ## Prerequisites
-* Working knowledge of `C` or `C++` programming.
+* Working knowledge of C or `C++` programming.
 * Familiarity with the command line on `Linux` or `macOS`.
 * Basic understanding of compilers and linkers is assumed.
 
 ## Objectives
 * Understand `Meson`'s design philosophy and advantages over traditional build systems.
-* Write and maintain `meson.build` files using `Meson`'s `Python`-like syntax.
+* Write and maintain `meson.build` files using Meson's `Python`-like syntax.
 * Configure build options and handle multiple build types.
 * Build static and shared libraries as well as executables.
 * Manage external dependencies with `pkg-config` and the `WrapDB` package manager.
 * Set up and perform cross-compilation for embedded targets.
 * Write and run unit tests within the `Meson` framework.
-* Integrate `Meson` projects with popular `IDE`s and `CI/CD` pipelines.
+* Integrate `Meson` projects with popular `IDEs` and `CI/CD` pipelines.
 * Evaluate `Meson` vs `CMake` for new and existing projects.
 
 ## Outline
 <!-- chapter: introduction-to-meson, duration: 1h -->
 * Introduction to `Meson`:
-    * Why `Meson`? Problems with `Autotools`, `Make`, and `CMake`.
+    * Why `Meson`? Problems with Autotools, Make, and `CMake`.
     * `Meson` design goals: speed, readability, correctness.
     * Installing `Meson` and `Ninja`.
     * First build: hello world project.
 <!-- chapter: meson-syntax-and-build-files, duration: 2h -->
 * `Meson` Syntax and Build Files:
-    * The `meson.build` `file` structure.
+    * The `meson.build` file structure.
     * Variables, strings, arrays, and dictionaries.
     * Control flow: conditionals and loops.
     * Functions and keyword arguments.
@@ -86,7 +86,7 @@ existing projects or start new ones confidently.
 <!-- chapter: cross-compilation, duration: 2h -->
 * Cross-Compilation:
     * Cross-compilation concepts and toolchain files.
-    * Writing a `Meson` cross-`file`.
+    * Writing a `Meson` cross-file.
     * Host vs. build vs. target machine.
     * Handling platform-specific code and feature detection.
     * Practical example: `ARM` embedded target.

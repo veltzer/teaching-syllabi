@@ -16,7 +16,7 @@ audience:
 # `API` Security
 
 ## Description
-This course provides comprehensive coverage of `API` security principles, protocols, and best practices. Participants will gain deep understanding of `OAuth 2.0` grant types, `OpenID Connect`, and `JWT` security considerations. The course also addresses `API` key management, rate limiting, the `OWASP` `API` Security `Top` 10, input validation, CORS, `CSRF` protection for APIs, `API gateway` security, and mutual `TLS` authentication.
+This course provides comprehensive coverage of `API` security principles, protocols, and best practices. Participants will gain deep understanding of `OAuth 2.0` grant types, `OpenID Connect`, and `JWT` security considerations. The course also addresses `API` key management, rate limiting, the `OWASP` `API` Security Top 10, input validation, CORS, `CSRF` protection for APIs, `API gateway` security, and mutual `TLS` authentication.
 
 ## Duration
 16 hours / 2 days

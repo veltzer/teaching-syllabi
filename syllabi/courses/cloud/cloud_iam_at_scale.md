@@ -26,12 +26,12 @@ or multi-subscription topologies, the human-and-workload identity-pipeline quest
 This three day course covers cloud `IAM` as practiced at organizational scale. It covers the
 multi-account topology (`AWS Organizations`, `Azure Management Groups`, `GCP Organizations`), the
 identity-source question (`Okta`, `Entra ID`, `Google Workspace` as the source of truth), the
-federation pattern (`SAML`, `OIDC`, `SCIM`), the per-cloud `IAM` model (`AWS IAM`, `Azure RBAC` plus
+federation pattern (`SAML`, `OIDC`, SCIM), the per-cloud `IAM` model (`AWS IAM`, `Azure RBAC` plus
 `Entra`, `GCP IAM` plus the resource hierarchy), the workload-identity story (no long-lived keys), the
 permission-boundaries / `SCPs` / org-policies tier, the access-review and certification workflow, the
 emergency-access pattern, the just-in-time access pattern, the privileged-access management tier, and
 the migration of an organization that grew up with sprawled `IAM` to a managed program. Examples are
-drawn from public engineering writing of `Square`, `Netflix`, `Airbnb`, and the `AWS` Well-Architected
+drawn from public engineering writing of `Square`, Netflix, Airbnb, and the `AWS` Well-Architected
 Security Pillar. Participants leave able to design and run `IAM` for an organization that is bigger
 than one team.
 
@@ -113,12 +113,12 @@ than one team.
 <!-- chapter: workload-identity, duration: 2h -->
 * Workload identity
     * the no-long-lived-keys rule
-    * `IAM Roles for Service Accounts` (`IRSA`) for `EKS`
+    * `IAM Roles for Service Accounts` (IRSA) for `EKS`
     * `EKS Pod Identity`
     * `Workload Identity` for `GKE`
     * `Managed Identities` for `Azure`
     * the `OIDC` from `GitHub Actions`
-    * the "the secret was in `Slack`" disaster
+    * the "the secret was in Slack" disaster
 <!-- chapter: access-review-and-certification, duration: 2h -->
 * Access review and certification
     * the periodic access review
@@ -129,15 +129,15 @@ than one team.
 <!-- chapter: emergency-access, duration: 1h -->
 * Emergency access
     * the break-glass account
-    * the alarm-`when`-used policy
+    * the alarm-when-used policy
     * the "we never tested break-glass" reality
     * the post-incident review
     * the rotation of break-glass credentials
 <!-- chapter: just-in-time-access, duration: 2h -->
 * Just-in-time access
     * the request-and-approve flow
-    * `AWS IAM Identity Center` `JIT`, `Azure PIM`, `GCP` `IAM` Conditions with time
-    * `ConductorOne`, `Sym`, `Indent`, `Opal` as third-party tools
+    * `AWS IAM Identity Center` JIT, `Azure PIM`, `GCP` `IAM` Conditions with time
+    * `ConductorOne`, Sym, Indent, `Opal` as third-party tools
     * the "we made `JIT` so painful nobody used it" failure
     * the developer-velocity trade-off
 <!-- chapter: migrating-from-sprawl-to-program, duration: 2h -->

@@ -37,7 +37,7 @@ reporting, using industry-standard tools including `SQL`, `Python`, Excel, and T
 ## Objectives
 * Understand the end-to-end data analysis workflow
 * Write `SQL` queries to extract and manipulate data
-* `Clean` and prepare data for analysis
+* Clean and prepare data for analysis
 * Perform exploratory data analysis and apply statistical fundamentals
 * Create effective visualizations using `Matplotlib`, `Seaborn`, and Tableau
 * Build dashboards and reports that communicate insights clearly
@@ -75,14 +75,14 @@ reporting, using industry-standard tools including `SQL`, `Python`, Excel, and T
     * Univariate and bivariate analysis
     * Correlation analysis
     * Pattern recognition and trend identification
-    * Using `Python` and `pandas` for `EDA`
+    * Using `Python` and pandas for `EDA`
     * Documenting findings and hypotheses
 <!-- chapter: statistical-fundamentals, duration: 2h -->
 * Statistical Fundamentals
     * Descriptive statistics: mean, median, mode, variance
     * Probability basics
     * Distributions and sampling
-    * `Hypothesis` testing concepts
+    * Hypothesis testing concepts
     * Confidence intervals
     * Common statistical pitfalls
 <!-- chapter: data-visualization-with-matplotlib-and-seaborn, duration: 2h -->

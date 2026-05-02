@@ -58,7 +58,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
     * Exception handling with try/catch/finally
     * Collections: List, Dictionary, arrays, and IEnumerable
     * `LINQ` queries and extension methods
-    * Asynchronous programming with `async`/`await` and Task
+    * Asynchronous programming with async/await and Task
     * Nullable reference types and null safety
     * Records, structs, and value types
 <!-- chapter: asp-net-core-fundamentals, duration: 4h -->
@@ -113,7 +113,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
     * CORS middleware configuration
 <!-- chapter: minimal-apis, duration: 3h -->
 * `Minimal APIs`
-    * Introduction to `Minimal APIs` and `when` to use them
+    * Introduction to `Minimal APIs` and when to use them
     * Defining endpoints with app.MapGet, app.MapPost, and related methods
     * Route parameters and query string binding
     * Request body binding and validation

@@ -14,7 +14,7 @@ audience:
 # `PostgreSQL` Internals
 
 ## Description
-This course provides a deep dive into the internal architecture and mechanisms of `PostgreSQL`. Participants will explore the process model, shared memory architecture, buffer management, write-ahead logging (WAL), and the multi-version concurrency control (MVCC) implementation. The course also covers the query planner and optimizer, index internals across multiple index types, the TOAST mechanism, vacuum and autovacuum processes, and how to extend `PostgreSQL` through custom `C` extensions, types, and operators.
+This course provides a deep dive into the internal architecture and mechanisms of `PostgreSQL`. Participants will explore the process model, shared memory architecture, buffer management, write-ahead logging (WAL), and the multi-version concurrency control (MVCC) implementation. The course also covers the query planner and optimizer, index internals across multiple index types, the TOAST mechanism, vacuum and autovacuum processes, and how to extend `PostgreSQL` through custom C extensions, types, and operators.
 
 ## Duration
 24 hours / 3 days
@@ -28,7 +28,7 @@ This course provides a deep dive into the internal architecture and mechanisms o
 ## Prerequisites
 * `Solid` understanding of relational database concepts
 * Experience with `SQL` query writing and optimization
-* Familiarity with `C` programming (for the extension development module)
+* Familiarity with C programming (for the extension development module)
 
 ## Required Knowledge
 * `PostgreSQL` for Developers (or equivalent `PostgreSQL` experience)
@@ -42,7 +42,7 @@ This course provides a deep dive into the internal architecture and mechanisms o
 * Compare and select appropriate index types (B-tree, GiST, GIN, BRIN) for various workloads
 * Understand buffer management and the shared buffer cache
 * Explain the TOAST mechanism for large value storage
-* Develop custom `PostgreSQL` extensions, types, and operators in `C`
+* Develop custom `PostgreSQL` extensions, types, and operators in C
 
 ## Outline
 <!-- chapter: process-architecture, duration: 2h -->
@@ -119,7 +119,7 @@ This course provides a deep dive into the internal architecture and mechanisms o
 <!-- chapter: extension-development, duration: 3h -->
 * Extension Development
     * `PostgreSQL` extension architecture and the extension framework
-    * Writing `C` extensions: `SPI`, memory contexts, and error handling
+    * Writing C extensions: `SPI`, memory contexts, and error handling
     * Creating custom data types
     * Implementing custom operators and operator classes
     * Custom index access methods

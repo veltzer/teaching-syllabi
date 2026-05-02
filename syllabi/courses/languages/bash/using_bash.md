@@ -12,10 +12,10 @@ audience:
   - audiences:devops
 ---
 <!-- course: using_bash -->
-# Using `Bash`
+# Using Bash
 
 ## Description
-`Bash` is the de-facto shell for `Linux` and by extension of the modern cloud.
+Bash is the de-facto shell for `Linux` and by extension of the modern cloud.
 This course teaches how to use that shell effectively and explains topics such
 as environment variables, configuration files, filesystem layout and many more.
 
@@ -33,7 +33,7 @@ as environment variables, configuration files, filesystem layout and many more.
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* understand the core concepts and principles of Using ```Bash``
+* understand the core concepts and principles of Using ``Bash`
 * gain practical knowledge of What is a shell?
 * gain practical knowledge of Why do we need a shell?
 * gain practical knowledge of How is a shell better than a GUI?
@@ -50,7 +50,7 @@ as environment variables, configuration files, filesystem layout and many more.
 <!-- chapter: shell-families, duration: 1h -->
 * Shell families.
 <!-- chapter: the-history-of-ksh-and-bash, duration: 1h -->
-* The history of ksh and `bash`.
+* The history of `ksh` and `bash`.
 <!-- chapter: shell-basics, duration: 1h -->
 * Shell basics
     * Single command and arguments
@@ -68,7 +68,7 @@ as environment variables, configuration files, filesystem layout and many more.
 * Streaming data in the shell.
 <!-- chapter: powertools, duration: 2h -->
 * Powertools
-    * `find`
+    * find
     * `grep`
     * ls
     * wc

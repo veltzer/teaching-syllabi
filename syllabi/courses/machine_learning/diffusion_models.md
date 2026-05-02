@@ -17,14 +17,14 @@ audience:
 
 ## Description
 Diffusion models have rapidly become the dominant paradigm in generative `AI`, powering breakthrough
-systems such as `Stable Diffusion`, `DALL-E`, and `Sora`. This course provides a thorough treatment
+systems such as `Stable Diffusion`, `DALL-E`, and Sora. This course provides a thorough treatment
 of the mathematics, architectures, and practical engineering of diffusion models, from the original
 `DDPM` formulation through score-based methods and latent diffusion to state-of-the-art
 text-conditional image generation. Participants will develop a deep understanding of how these models
 learn to reverse a noise process, and will gain hands-on experience implementing and fine-tuning
 models using the `Hugging Face Diffusers` library. The course also covers emerging applications in
 video and audio generation, and addresses the important ethical, safety, and intellectual property
-considerations that practitioners must navigate `when` deploying generative systems.
+considerations that practitioners must navigate when deploying generative systems.
 
 ## Duration
 24 hours / 3 days
@@ -63,7 +63,7 @@ considerations that practitioners must navigate `when` deploying generative syst
     * Likelihood-based vs. implicit generative models
     * What makes diffusion models special: quality, diversity, and controllability
     * Overview of landmark diffusion systems: `DDPM`, `DALL-E 2`, `Stable Diffusion`, `Imagen`
-    * Setting up the development environment with `PyTorch` and `Diffusers`
+    * Setting up the development environment with `PyTorch` and Diffusers
 <!-- chapter: denoising-diffusion-probabilistic-models, duration: 3h -->
 * Denoising Diffusion Probabilistic Models
     * The forward diffusion process: gradually adding Gaussian noise
@@ -90,7 +90,7 @@ considerations that practitioners must navigate `when` deploying generative syst
 <!-- chapter: stable-diffusion-architecture, duration: 2h -->
 * `Stable Diffusion` Architecture
     * The three components: `VAE`, `U-Net`, and text encoder
-    * `CLIP` text encoder and text-to-image alignment
+    * CLIP text encoder and text-to-image alignment
     * The `U-Net` with time embeddings and cross-attention
     * Classifier-free guidance (CFG) and the guidance scale
     * Noise schedulers: DDIM, PNDM, and DPM-Solver
@@ -114,7 +114,7 @@ considerations that practitioners must navigate `when` deploying generative syst
 * Video and Audio Diffusion
     * Extending diffusion to the `temporal` domain
     * Video diffusion models: `VideoLDM` and `ModelScope`
-    * `Sora` architecture overview and world-model capabilities
+    * Sora architecture overview and world-model capabilities
     * Audio generation with `AudioLDM` and `MusicGen`
     * Challenges: consistency, memory, and computational cost at scale
 <!-- chapter: hugging-face-diffusers-library, duration: 3h -->
@@ -124,7 +124,7 @@ considerations that practitioners must navigate `when` deploying generative syst
     * Running inference on `CPU` and `GPU` efficiently
     * Training with `Accelerate` and distributed setups
     * The `AutoPipeline` `API` and model hub integration
-    * Building custom pipelines and extending `Diffusers`
+    * Building custom pipelines and extending Diffusers
 <!-- chapter: safety-ethics-and-copyright, duration: 2h -->
 * Safety, Ethics, and Copyright
     * Harmful content generation and safety filters

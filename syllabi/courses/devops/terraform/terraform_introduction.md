@@ -51,7 +51,7 @@ and how it compares with competing or other tools in the `DevOps` space.
 ## Exercises
 The course includes exercises on `AWS` for every chapter. [long]
 The exercises could be modified to work on other cloud providers (`GCP`, `Azure`)
-but this will `require` some work.
+but this will require some work.
 
 ## Outline
 <!-- chapter: introduction-to-terraform, duration: 3h -->
@@ -63,7 +63,7 @@ but this will `require` some work.
 <!-- chapter: language-components, duration: 3h -->
 * Language Components
     * Resources
-    * `Terraform` Providers: `AWS`, Microsoft `Azure`, `Google Cloud`, On-premise
+    * `Terraform` Providers: `AWS`, `Microsoft ``Azure```, `Google Cloud`, On-premise
     * Modules
     * Data providers
     * Patterns for structuring projects
@@ -74,7 +74,7 @@ but this will `require` some work.
     * Creating Configuration Files
     * Setting up a simple two-tier `AWS` architecture
     * Using `Packer` to pre-configure `Amazon Machine Images` (`AMIs`)
-    * Using `Consul` for Service Discovery
+    * Using Consul for Service Discovery
     * Terminating infrastructure with Destroy
 <!-- chapter: state-management, duration: 3h -->
 * State Management

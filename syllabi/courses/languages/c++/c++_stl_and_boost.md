@@ -11,10 +11,10 @@ audience:
   - audiences:developers
 ---
 <!-- course: c++_stl_and_boost -->
-# `C++` `STL` and `Boost`
+# `C++` `STL` and Boost
 
 ## Description
-This course various topics related to `STL` and `Boost` which are commonly used in the industry and their pitfalls.
+This course various topics related to `STL` and Boost which are commonly used in the industry and their pitfalls.
 
 ## Duration
 24 hours / 3 days
@@ -27,9 +27,9 @@ This course various topics related to `STL` and `Boost` which are commonly used 
 * experience with `C++` programming
 
 ## Objectives
-* understand the core concepts and principles of `C++` `STL` and ```Boost``
+* understand the core concepts and principles of `C++` `STL` and ``Boost`
 * gain practical knowledge of `STL`
-* gain practical knowledge of `Boost`
+* gain practical knowledge of Boost
 * gain practical knowledge of Exercises
 
 ## Outline
@@ -41,7 +41,7 @@ This course various topics related to `STL` and `Boost` which are commonly used 
     * `STL` allocators.
     * Complex keys for maps, sets...
 <!-- chapter: boost, duration: 11h -->
-* `Boost`
+* Boost
     * Bind.
     * Flyweight.
     * Tuple.

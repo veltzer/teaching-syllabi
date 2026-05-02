@@ -86,7 +86,7 @@ audience:
     * ExternalTaskSensor for cross-DAG dependencies
     * Sensor modes: poke vs reschedule
     * Sensor timeouts and configuration
-    * Deferrable operators and `async` sensors
+    * Deferrable operators and async sensors
     * Smart sensors and resource optimization
 <!-- chapter: scheduling-and-execution, duration: 2h -->
 * Scheduling and Execution
@@ -102,7 +102,7 @@ audience:
     * What are XComs (cross-communications)
     * Pushing and pulling XComs
     * XCom backends for large data
-    * Limitations of XComs and `when` to use external storage
+    * Limitations of XComs and when to use external storage
     * `TaskFlow API` for implicit XCom passing
     * Custom XCom backends
 <!-- chapter: connections-variables-and-security, duration: 2h -->
@@ -118,7 +118,7 @@ audience:
     * Task logs and log management
     * `Airflow` metrics and health checks
     * Integration with `Prometheus` and `Grafana`
-    * Email and `Slack` alerting on task failures
+    * Email and Slack alerting on task failures
     * Debugging failed tasks and common issues
     * Performance tuning and scaling strategies
 <!-- chapter: best-practices-and-production-patterns, duration: 2h -->

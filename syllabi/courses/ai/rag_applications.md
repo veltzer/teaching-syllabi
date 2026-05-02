@@ -88,7 +88,7 @@ deployment best practices including monitoring, observability, and hallucination
     * Handling diverse data sources
         * Databases and APIs
         * Confluence and wikis
-        * `Slack` and communication tools
+        * Slack and communication tools
         * Code repositories
 <!-- chapter: text-chunking-strategies, duration: 2h -->
 * Text Chunking Strategies
@@ -117,7 +117,7 @@ deployment best practices including monitoring, observability, and hallucination
         * text-embedding-3-small and text-embedding-3-large
         * Dimensionality reduction
         * Cost considerations
-    * `Sentence Transformers`
+    * Sentence Transformers
         * Open-source embedding models
         * Model selection criteria
         * Fine-tuning embeddings for domain-specific tasks
@@ -133,7 +133,7 @@ deployment best practices including monitoring, observability, and hallucination
         * Caching strategies
 <!-- chapter: vector-databases, duration: 2h -->
 * Vector Databases
-    * `Pinecone`
+    * Pinecone
         * Index management
         * Metadata filtering
         * Namespaces
@@ -331,7 +331,7 @@ deployment best practices including monitoring, observability, and hallucination
         * Semantic entailment checks
     * Mitigation techniques
         * Forced citation generation
-        * Abstention `when` uncertain
+        * Abstention when uncertain
         * Human-in-the-loop verification
         * Fallback responses
 

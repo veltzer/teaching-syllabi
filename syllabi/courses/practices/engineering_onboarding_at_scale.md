@@ -27,9 +27,9 @@ This two day course covers onboarding as an engineering problem with measurable 
 first-day, first-week, first-month, and first-quarter targets, the role of the buddy and the manager,
 the developer-environment problem (and the day-one repository clone that takes four days), the
 documentation strategy that survives, the starter-task pipeline, the feedback-loop measurements, the
-onboarding cohort question, the remote and `async` onboarding model, the senior-hire onboarding problem
+onboarding cohort question, the remote and async onboarding model, the senior-hire onboarding problem
 where a junior playbook is the wrong fit, and the relationship between onboarding quality and retention. Examples are drawn from
-the public engineering writing of `Stripe`, `GitLab`, `Shopify`, `Atlassian`, and `Microsoft`.
+the public engineering writing of Stripe, `GitLab`, Shopify, Atlassian, and `Microsoft`.
 Participants leave with the framework to build or rebuild their team's onboarding program.
 
 ## Duration
@@ -52,7 +52,7 @@ Participants leave with the framework to build or rebuild their team's onboardin
 * build a starter-task pipeline that survives team turnover
 * fix the "day-one environment takes a week" problem
 * run remote and hybrid onboarding well
-* run cohort onboarding `when` the team is hiring at scale
+* run cohort onboarding when the team is hiring at scale
 * measure the onboarding feedback loop and act on it
 
 ## Outline
@@ -89,7 +89,7 @@ Participants leave with the framework to build or rebuild their team's onboardin
     * the first independent feature
     * the first on-call rotation
     * the first design proposal
-    * the manager `check`-in
+    * the manager check-in
     * the "are they ramped" decision
 <!-- chapter: the-buddy-system, duration: 2h -->
 * The buddy system
@@ -101,7 +101,7 @@ Participants leave with the framework to build or rebuild their team's onboardin
 <!-- chapter: developer-environment-as-a-product, duration: 2h -->
 * Developer environment as a product
     * the day-one environment that boots in an hour
-    * `Devcontainers`, `Codespaces`, `Gitpod`, `Nix`
+    * `Devcontainers`, Codespaces, Gitpod, `Nix`
     * the README that is actually current
     * the "the senior who maintains the env left" failure
     * cross-reference to the `Internal Documentation and DevEx` course
@@ -120,7 +120,7 @@ Participants leave with the framework to build or rebuild their team's onboardin
     * the docs-as-code workflow
     * cross-reference to the Technical Writing course
 <!-- chapter: remote-and-async-onboarding, duration: 1h -->
-* Remote and `async` onboarding
+* Remote and async onboarding
     * the timezone-asymmetric onboarding
     * the recorded onboarding video pack
     * the synchronous moments that still matter
@@ -128,8 +128,8 @@ Participants leave with the framework to build or rebuild their team's onboardin
     * cross-reference to the Asynchronous Collaboration course
 <!-- chapter: cohort-and-individual-onboarding, duration: 1h -->
 * Cohort and individual onboarding
-    * the cohort model and `when` it works
-    * the individual model and `when` it works
+    * the cohort model and when it works
+    * the individual model and when it works
     * mixing the two
     * the senior-hire onboarding question
     * the "we onboarded a senior like a junior" failure

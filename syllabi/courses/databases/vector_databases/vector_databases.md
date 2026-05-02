@@ -19,7 +19,7 @@ audience:
 # Vector Databases
 
 ## Description
-Vector databases are purpose-built data stores that index and retrieve high-dimensional vector embeddings using approximate nearest-neighbor algorithms, enabling fast semantic search, recommendation, and retrieval-augmented generation (`RAG`) at scale. As `AI` and large language model applications become mainstream, vector databases have emerged as a critical infrastructure component for storing and querying the numerical representations of text, images, audio, and code. This course provides a thorough grounding in the theory of embeddings and similarity search, followed by hands-on coverage of leading platforms including `Pinecone`, `Weaviate`, and `Qdrant`. Participants will learn how to architect and deploy vector search solutions and integrate them with `LLM` frameworks such as `LangChain` and `LlamaIndex`.
+Vector databases are purpose-built data stores that index and retrieve high-dimensional vector embeddings using approximate nearest-neighbor algorithms, enabling fast semantic search, recommendation, and retrieval-augmented generation (`RAG`) at scale. As `AI` and large language model applications become mainstream, vector databases have emerged as a critical infrastructure component for storing and querying the numerical representations of text, images, audio, and code. This course provides a thorough grounding in the theory of embeddings and similarity search, followed by hands-on coverage of leading platforms including Pinecone, `Weaviate`, and `Qdrant`. Participants will learn how to architect and deploy vector search solutions and integrate them with `LLM` frameworks such as `LangChain` and `LlamaIndex`.
 
 ## Duration
 16 hours / 2 days
@@ -40,7 +40,7 @@ Vector databases are purpose-built data stores that index and retrieve high-dime
 ## Objectives
 * Understand what vector embeddings are and how they encode semantic meaning
 * Explain and compare approximate nearest-neighbor (ANN) algorithms
-* Set up and operate `Pinecone`, `Weaviate`, and `Qdrant` for development and production
+* Set up and operate Pinecone, `Weaviate`, and `Qdrant` for development and production
 * Design effective indexing and filtering strategies for hybrid search
 * Integrate vector databases with embedding models from `OpenAI`, `Hugging Face`, and `Cohere`
 * Build end-to-end `RAG` pipelines using `LangChain` and `LlamaIndex`
@@ -48,7 +48,7 @@ Vector databases are purpose-built data stores that index and retrieve high-dime
 * Scale and monitor vector database deployments in production
 
 ## Exercises
-Hands-on labs using `Python` notebooks and local/cloud deployments of vector databases. Students will generate embeddings using `OpenAI` and `sentence-transformers`, index document collections in `Pinecone`, `Weaviate`, and `Qdrant`, perform semantic similarity searches and hybrid searches, build a complete `RAG` chatbot with `LangChain`, apply metadata filtering for multi-tenant scenarios, and benchmark query latency and recall across platforms. Scenarios cover document search, image similarity, and `LLM`-powered Q&A.
+Hands-on labs using `Python` notebooks and local/cloud deployments of vector databases. Students will generate embeddings using `OpenAI` and `sentence-transformers`, index document collections in Pinecone, `Weaviate`, and `Qdrant`, perform semantic similarity searches and hybrid searches, build a complete `RAG` chatbot with `LangChain`, apply metadata filtering for multi-tenant scenarios, and benchmark query latency and recall across platforms. Scenarios cover document search, image similarity, and `LLM`-powered Q&A.
 
 ## Outline
 <!-- chapter: introduction-to-vector-databases, duration: 2h -->
@@ -63,7 +63,7 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
 <!-- chapter: embeddings-and-vector-representations, duration: 2h -->
 * Embeddings and Vector Representations
     * `Word2Vec`, `GloVe`, and early embedding models
-    * Transformer-based embeddings: `BERT`, `sentence-transformers`, and `Ada`
+    * Transformer-based embeddings: `BERT`, `sentence-transformers`, and Ada
     * Multimodal embeddings: text, images, and code
     * Embedding model selection: dimensionality, quality, and cost
     * Generating embeddings with `OpenAI` `text-embedding-ada-002` and `text-embedding-3`
@@ -82,14 +82,14 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
     * Hybrid search: combining vector similarity `with-keyword` or structured filters
 
 <!-- chapter: pinecone-deep-dive, duration: 2h -->
-* `Pinecone` Deep Dive
-    * `Pinecone` architecture: serverless and pod-based indexes
+* Pinecone Deep Dive
+    * Pinecone architecture: serverless and pod-based indexes
     * Creating indexes and choosing pod types
     * Upserting, querying, and deleting vectors via the `Python` `SDK`
     * Namespaces for multi-tenancy
     * Metadata filtering with structured attributes
     * Sparse-dense hybrid search with BM25
-    * `Pinecone` Assistant and inference endpoints
+    * Pinecone Assistant and inference endpoints
     * Monitoring usage and managing costs
 
 <!-- chapter: weaviate-deep-dive, duration: 2h -->
@@ -105,7 +105,7 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
 
 <!-- chapter: qdrant-and-other-alternatives, duration: 2h -->
 * `Qdrant` and Other Alternatives
-    * `Qdrant` architecture: `Rust`-based, on-premise and cloud
+    * `Qdrant` architecture: Rust-based, on-premise and cloud
     * Collections, payloads, and named vectors
     * `Qdrant` `Python` client: upsert, search, and filter
     * Payload filtering and geo-filtering
@@ -119,7 +119,7 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
 * Integrating Vector DBs with `LLMs`
     * Retrieval-Augmented Generation (`RAG`) architecture
     * Document chunking strategies: fixed size, sentence, and semantic
-    * Building a `RAG` pipeline with `LangChain` and `Pinecone`
+    * Building a `RAG` pipeline with `LangChain` and Pinecone
     * Building a `RAG` pipeline with `LlamaIndex` and `Weaviate`
     * Re-ranking retrieved results with cross-encoders
     * Agentic `RAG`: tools, multi-hop reasoning, and memory

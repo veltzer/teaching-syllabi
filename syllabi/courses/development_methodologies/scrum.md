@@ -11,10 +11,10 @@ audience:
   - audiences:managers
 ---
 <!-- course: scrum -->
-# `Scrum`
+# Scrum
 
 ## Description
-This course provides a thorough introduction to the `Scrum` framework for `agile` software development. Students will learn `Scrum` roles, ceremonies, and artifacts, as well as practical skills in estimation, sprint planning, release planning, and scaling `Scrum` across teams and organizations.
+This course provides a thorough introduction to the Scrum framework for `agile` software development. Students will learn Scrum roles, ceremonies, and artifacts, as well as practical skills in estimation, sprint planning, release planning, and scaling Scrum across teams and organizations.
 
 ## Duration
 24 hours / 3 days
@@ -27,20 +27,20 @@ This course provides a thorough introduction to the `Scrum` framework for `agile
 * experience working in software development teams
 
 ## Objectives
-* understand the core concepts and principles of `Scrum`
-* gain practical knowledge of `Agile` Principles & `Scrum` Overview
+* understand the core concepts and principles of Scrum
+* gain practical knowledge of Agile Principles & Scrum Overview
 * gain practical knowledge of The Team
 * gain practical knowledge of Product Backlog and User Stories
 
 ## Outline
 <!-- chapter: agile-principles-scrum-overview, duration: 3h -->
-* `Agile` Principles & `Scrum` Overview
-    * `Agile` Principles
-    * `Lean` Principles
+* Agile Principles & Scrum Overview
+    * Agile Principles
+    * Lean Principles
     * Process control models
     * Incremental and Iterative product development
     * Shifting the focus on product management
-    * Overview of the `Scrum` process
+    * Overview of the Scrum process
 <!-- chapter: the-team, duration: 2h -->
 * The Team
     * Dedicated cross functional teams
@@ -72,14 +72,14 @@ This course provides a thorough introduction to the `Scrum` framework for `agile
     * Tools for the ScrumMaster
     * Sustainable Pace
 <!-- chapter: scrum-roles-and-responsibilities, duration: 3h -->
-* `Scrum` Roles and Responsibilities
+* Scrum Roles and Responsibilities
     * The Team and building effective teams
-    * `Scrum` Master Responsibilities
+    * Scrum Master Responsibilities
     * Product Owner Responsibilities
-    * The `Scrum` Project Community
-    * What happens to traditional roles in `Scrum`?
+    * The Scrum Project Community
+    * What happens to traditional roles in Scrum?
 <!-- chapter: scrum-meetings, duration: 2h -->
-* `Scrum` Meetings
+* Scrum Meetings
     * Reviews
     * Retrospectives
 <!-- chapter: release-planning, duration: 2h -->
@@ -88,8 +88,8 @@ This course provides a thorough introduction to the `Scrum` framework for `agile
     * Release Planning
     * Tracking release progress
 <!-- chapter: scaling-scrum, duration: 2h -->
-* Scaling `Scrum`
-    * `Scrum` of Scrums
+* Scaling Scrum
+    * Scrum of Scrums
     * Scaling the product backlog
     * Scaling across a program and business areas
     * Distributed Teams

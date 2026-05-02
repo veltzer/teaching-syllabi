@@ -26,7 +26,7 @@ in chat. Secrets are everywhere, and most organizations manage them poorly.
 
 This five day course is dedicated entirely to the engineering and operational discipline of secrets management.
 It covers the threat model around secrets, the cryptographic primitives that `make` modern secret stores work, the
-architecture and operation of `Vault`, cloud `KMS` services, sealed and external secrets in `Kubernetes`, secret
+architecture and operation of Vault, cloud `KMS` services, sealed and external secrets in `Kubernetes`, secret
 rotation, runtime secret injection, and the full lifecycle of credentials from issuance to retirement.
 The course is implementation-focused but vendor-neutral: the same patterns apply whether you run `HashiCorp Vault`,
 `AWS KMS`/`Secrets Manager`, `Google Cloud KMS`, `Azure Key Vault`, or a combination.
@@ -50,7 +50,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 ## Objectives
 * enumerate the kinds of secrets a typical organization holds and the threats against them
 * design systems with the smallest possible secret surface area
-* operate `Vault` and equivalent secret stores
+* operate Vault and equivalent secret stores
 * use cloud `KMS` services correctly: envelope encryption, key policies, audit
 * manage secrets in `Kubernetes` without committing them to `git`
 * implement short-lived credentials and dynamic secrets
@@ -94,14 +94,14 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
     * detection and remediation of each anti-pattern
 <!-- chapter: hashicorp-vault-fundamentals, duration: 3h -->
 * `HashiCorp Vault` fundamentals
-    * `Vault` architecture and the storage backend
+    * Vault architecture and the storage backend
     * seal and unseal: `Shamir`, auto-unseal with `KMS`
     * authentication methods: `AppRole`, `Kubernetes`, cloud, `OIDC`
     * policies and path-based authorization
     * audit devices
     * high-availability deployment
 <!-- chapter: vault-secret-engines-and-dynamic-secrets, duration: 3h -->
-* `Vault` secret engines and dynamic secrets
+* Vault secret engines and dynamic secrets
     * the `KV` v1 vs `KV` v2 secret engine
     * database dynamic secrets
     * cloud dynamic secrets (`AWS`, `GCP`, `Azure`)
@@ -116,7 +116,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
     * envelope encryption in practice
     * key rotation and key versioning
     * key policies and grants
-    * `KMS` audit and `CloudTrail`/`Cloud Audit Logs`
+    * `KMS` audit and CloudTrail/`Cloud Audit Logs`
     * `KMS` cost models
 <!-- chapter: cloud-secrets-managers, duration: 2h -->
 * Cloud secrets managers
@@ -137,13 +137,13 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 * Secrets in `GitOps` and `Kubernetes`
     * `Sealed Secrets` (Bitnami)
     * `External Secrets Operator`
-    * `Vault` agent injector and `CSI` driver
+    * Vault agent injector and `CSI` driver
     * `SOPS` with `KMS` backends
     * `age` and `git-crypt`
     * comparing approaches: trust model, operations, ergonomics
 <!-- chapter: secret-rotation, duration: 3h -->
 * Secret rotation
-    * why rotation matters and `when` it does not
+    * why rotation matters and when it does not
     * automated rotation patterns
     * rotating database passwords without downtime
     * rotating `API keys` with grace periods
@@ -166,7 +166,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
     * preventing secrets from appearing in logs and artifacts
 <!-- chapter: detecting-leaks-and-secret-scanning, duration: 2h -->
 * Detecting leaks and secret scanning
-    * `gitleaks`, `trufflehog`, `detect-secrets`, `Gitguardian`
+    * `gitleaks`, trufflehog, `detect-secrets`, `Gitguardian`
     * pre-commit hooks for secret detection
     * server-side push protection
     * scanning historical `git` history

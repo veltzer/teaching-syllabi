@@ -22,14 +22,14 @@ The catalog has `Cryptography Fundamentals`, `Cryptographic Engineering`, `PKI a
 transition: what `NIST` standardized in 2024, what the harvest-now-decrypt-later threat actually
 implies for a deployed system, what the migration plan looks like for a real organization, and what
 the cost of getting it wrong (or doing nothing) is. This is now an active engineering topic, not a
-research one. `Cloudflare`, `Google`, and `Apple` have shipped `PQ` `TLS`. `AWS KMS` has hybrid
+research one. `Cloudflare`, Google, and Apple have shipped PQ `TLS`. `AWS KMS` has hybrid
 `PQ` key-exchange. `OpenSSH` 9.0+ has hybrid post-quantum key exchange by default. The migration is
 real and the timeline is short.
 
 This two day course covers post-quantum cryptography from a practical engineering perspective. It
 covers the threat (a sufficiently large quantum computer breaks `RSA`, `Diffie-Hellman`, `ECDSA`,
 `ECDH`), the harvest-now-decrypt-later attack model, the `NIST` standards (`ML-KEM` formerly `Kyber`,
-`ML-DSA` formerly `Dilithium`, `SLH-DSA` formerly `SPHINCS+`, the deprecated `FALCON` waiting
+`ML-DSA` formerly Dilithium, `SLH-DSA` formerly `SPHINCS+`, the deprecated `FALCON` waiting
 standardization), the hybrid mode as the migration approach, the per-use-case migration (transport
 encryption, signatures, long-term-confidential data, code signing, certificate hierarchies), the
 performance and size implications, the deployment landscape today, the timeline pressure (`NSA`'s
@@ -72,7 +72,7 @@ systems.
 <!-- chapter: harvest-now-decrypt-later, duration: 1h -->
 * Harvest-now-decrypt-later
     * the attacker records ciphertext today
-    * the attacker decrypts `when` a quantum computer arrives
+    * the attacker decrypts when a quantum computer arrives
     * which data this matters for
     * the "we have nothing confidential for 20 years" comfort and its limits
     * who is collecting today
@@ -88,7 +88,7 @@ systems.
 * Hybrid as the migration approach
     * the principle: classical plus `PQ` together
     * the per-handshake combination
-    * `Cloudflare` and `Google`'s hybrid `TLS` deployment
+    * `Cloudflare` and Google's hybrid `TLS` deployment
     * `AWS KMS` hybrid `KEM`
     * the no-regression-if-one-breaks property
 <!-- chapter: pq-tls-deployment, duration: 2h -->
@@ -138,7 +138,7 @@ systems.
     * the cryptographic-inventory step
     * the per-system priority
     * the hybrid-first rollout
-    * the libraries-and-vendors `check`
+    * the libraries-and-vendors check
     * the multi-year roadmap
 <!-- chapter: testing-and-validation, duration: 1h -->
 * Testing and validation

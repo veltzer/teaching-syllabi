@@ -13,13 +13,13 @@ audience:
   - audiences:blockchain-developers
 ---
 <!-- course: solidity_programming -->
-# `Solidity` Programming
+# Solidity Programming
 
 ## Description
-`Solidity` is the primary smart contract programming language for the `Ethereum` blockchain and EVM-compatible networks.
+Solidity is the primary smart contract programming language for the `Ethereum` blockchain and EVM-compatible networks.
 It enables developers to write self-executing contracts that manage digital assets, implement decentralised protocols, and encode business logic directly on-chain.
-Writing secure `Solidity` requires deep understanding of the EVM execution model, gas economics, and common vulnerability patterns such as reentrancy and integer overflow.
-This course takes developers from `Solidity` syntax through token standards, security patterns, and deployment workflows with `Hardhat`.
+Writing secure Solidity requires deep understanding of the EVM execution model, gas economics, and common vulnerability patterns such as reentrancy and integer overflow.
+This course takes developers from Solidity syntax through token standards, security patterns, and deployment workflows with Hardhat.
 
 ## Duration
 24 hours / 3 days
@@ -35,11 +35,11 @@ This course takes developers from `Solidity` syntax through token standards, sec
 * Familiarity with how blockchains work at a conceptual level
 
 ## Objectives
-* Write and deploy `Solidity` smart contracts to EVM-compatible networks
+* Write and deploy Solidity smart contracts to EVM-compatible networks
 * Understand the EVM execution model and gas mechanics
 * Implement the most common token standards — ERC-20, ERC-721, ERC-1155
 * Apply security patterns to prevent reentrancy, overflow, and access-control vulnerabilities
-* Test contracts with `Hardhat` and `ethers.js`
+* Test contracts with Hardhat and `ethers.js`
 * Use `OpenZeppelin` libraries for production-grade contract development
 
 ## Outline
@@ -52,7 +52,7 @@ This course takes developers from `Solidity` syntax through token standards, sec
     * `Ethereum` development networks — mainnet, testnets, local
 
 <!-- chapter: solidity-basics-and-syntax, duration: 2h -->
-* `Solidity` Basics and Syntax
+* Solidity Basics and Syntax
     * Contract structure and layout
     * Pragma and license identifiers
     * `SPDX` license comments
@@ -79,7 +79,7 @@ This course takes developers from `Solidity` syntax through token standards, sec
 <!-- chapter: events-and-error-handling, duration: 2h -->
 * Events and Error Handling
     * Emitting and indexing events
-    * Using `require`, `revert`, and `assert`
+    * Using require, `revert`, and `assert`
     * Custom errors
     * `try/catch` for external call failures
     * Error propagation patterns
@@ -110,16 +110,16 @@ This course takes developers from `Solidity` syntax through token standards, sec
     * Token extensions — burnable, pausable, mintable
 
 <!-- chapter: testing-with-hardhat, duration: 2h -->
-* Testing with `Hardhat`
-    * `Hardhat` project setup
-    * Writing tests with `Mocha` and `Chai`
+* Testing with Hardhat
+    * Hardhat project setup
+    * Writing tests with Mocha and `Chai`
     * Using `ethers.js` in tests
     * Forking mainnet for integration tests
     * Gas reporting
 
 <!-- chapter: deploying-smart-contracts, duration: 2h -->
 * Deploying Smart Contracts
-    * Deployment scripts with `Hardhat`
+    * Deployment scripts with Hardhat
     * Verifying contracts on `Etherscan`
     * Upgradeable contracts with proxies
     * Deployment to testnets and mainnet

@@ -75,7 +75,7 @@ The course also covers security-aware review, performance-aware review, and the 
     * the principle of charitable interpretation
     * separating preference from defect
     * "would I be comfortable maintaining this in two years"
-    * recognizing `when` you are not the right reviewer
+    * recognizing when you are not the right reviewer
     * managing your own bias and fatigue
 <!-- chapter: writing-comments-that-land, duration: 3h -->
 * Writing comments that land
@@ -85,7 +85,7 @@ The course also covers security-aware review, performance-aware review, and the 
     * showing instead of telling: code suggestions
     * comments that mentor vs comments that police
     * tone, register and avoiding the loaded word
-    * length: `when` one line is enough and `when` it is not
+    * length: when one line is enough and when it is not
 <!-- chapter: technical-review-correctness, duration: 3h -->
 * Technical review: correctness
     * boundary conditions, null/empty/zero
@@ -114,9 +114,9 @@ The course also covers security-aware review, performance-aware review, and the 
 * Technical review: readability
     * cognitive load of a piece of code
     * naming and what makes a name good
-    * comments: `when` they help and `when` they lie
+    * comments: when they help and when they lie
     * function shape and length
-    * `file` and module organization
+    * file and module organization
     * dead code and incidental complexity
 <!-- chapter: security-aware-review, duration: 4h -->
 * Security-aware review
@@ -125,7 +125,7 @@ The course also covers security-aware review, performance-aware review, and the 
     * injection: `SQL`, command, template, log
     * cryptographic mistakes and what to spot
     * secrets and credentials in code
-    * the `OWASP` `top` 10 through a reviewer's lens
+    * the `OWASP` top 10 through a reviewer's lens
     * dependency and supply-chain red flags
 <!-- chapter: performance-aware-review, duration: 2h -->
 * Performance-aware review
@@ -134,11 +134,11 @@ The course also covers security-aware review, performance-aware review, and the 
     * unnecessary allocations and copies
     * the cost of synchronous remote calls in a hot path
     * lazy vs eager evaluation
-    * `when` not to optimize during review
+    * when not to optimize during review
 <!-- chapter: reviewing-tests-infrastructure-and-config, duration: 1h -->
 * Reviewing tests, infrastructure and config
     * `IaC` and `Terraform` review
-    * `Kubernetes` manifests and `Helm` charts
+    * `Kubernetes` manifests and Helm charts
     * `CI` pipeline changes
     * configuration changes that look small but are not
     * database migrations and the rollback plan
@@ -153,7 +153,7 @@ The course also covers security-aware review, performance-aware review, and the 
 <!-- chapter: large-pull-requests, duration: 2h -->
 * Large pull requests
     * why large PRs are a smell
-    * how to review one `when` you cannot avoid it
+    * how to review one when you cannot avoid it
     * asking for a `PR` to be split, productively
     * stacked `PRs` and review-friendly decomposition
     * reviewing rebases and force-pushes safely
@@ -162,9 +162,9 @@ The course also covers security-aware review, performance-aware review, and the 
     * separating self from code
     * reading comments charitably
     * disagreeing productively
-    * `when` to push back and `when` to defer
+    * when to push back and when to defer
     * negotiating "we can do this in a follow-up"
-    * what to do `when` reviews keep blocking you
+    * what to do when reviews keep blocking you
 <!-- chapter: review-as-mentoring, duration: 2h -->
 * Review as mentoring
     * teaching through review without lecturing

@@ -26,9 +26,9 @@ new green-field systems, `SOA` remains the backbone of countless enterprise syst
 and pitfalls are directly applicable to today's distributed architectures.
 
 The course covers the principles of service orientation, service modeling and contract design, the classical `SOA` technology
-stack (`SOAP`, `WSDL`, `WS-*`, `ESB`, `BPEL`), the more modern `RESTful` and event-driven approaches, governance and security,
+stack (`SOAP`, WSDL, `WS-*`, ESB, BPEL), the more modern `RESTful` and event-driven approaches, governance and security,
 and the relationship between `SOA` and `microservices`. Participants will leave able to design, govern and evolve
-service-oriented systems, integrate them with legacy assets, and `make` informed decisions about `when` `SOA`, `microservices`
+service-oriented systems, integrate them with legacy assets, and `make` informed decisions about when `SOA`, `microservices`
 or a hybrid is the appropriate choice.
 
 ## Duration
@@ -50,7 +50,7 @@ or a hybrid is the appropriate choice.
 ## Objectives
 * understand the principles, motivations and history of `Service-Oriented Architecture`
 * model business capabilities as well-bounded, reusable services
-* design service contracts using both `SOAP`/`WSDL` and `RESTful` styles
+* design service contracts using both `SOAP`/WSDL and `RESTful` styles
 * apply the classical `SOA` integration patterns and understand the role of an `ESB`
 * orchestrate and choreograph services to implement business processes
 * secure services using `WS-Security`, `OAuth2`, `OIDC` and transport-level mechanisms
@@ -63,9 +63,9 @@ or a hybrid is the appropriate choice.
 * Introduction to `SOA`
     * what is a service
     * the business case for service orientation
-    * brief history: from `RPC` and `CORBA` to `SOA` and beyond
-    * `SOA` vs `monolith` vs `microservices`
-    * `when` `SOA` is the right choice and `when` it is not
+    * brief history: from `RPC` and CORBA to `SOA` and beyond
+    * `SOA` vs monolith vs `microservices`
+    * when `SOA` is the right choice and when it is not
     * common myths and misconceptions about `SOA`
 <!-- chapter: principles-of-service-orientation, duration: 3h -->
 * Principles of service orientation
@@ -80,7 +80,7 @@ or a hybrid is the appropriate choice.
     * how the principles interact and trade off against each other
 <!-- chapter: service-modeling-and-identification, duration: 3h -->
 * Service modeling and identification
-    * `top`-down, bottom-up and meet-in-the-middle approaches
+    * top-down, bottom-up and meet-in-the-middle approaches
     * decomposition by business capability
     * decomposition by subdomain and bounded context
     * service taxonomy: entity, task, utility and process services
@@ -95,7 +95,7 @@ or a hybrid is the appropriate choice.
     * documenting and publishing contracts
     * contract-driven development workflows
 <!-- chapter: soap-wsdl-and-the-ws-stack, duration: 4h -->
-* `SOAP`, `WSDL` and the `WS-*` stack
+* `SOAP`, WSDL and the `WS-*` stack
     * the `SOAP` envelope, headers and body
     * `WSDL` structure: types, messages, port types, bindings, services
     * `XML Schema` for service contracts
@@ -117,7 +117,7 @@ or a hybrid is the appropriate choice.
     * messaging vs `RPC` style integration
     * channels, endpoints, routers, translators and transformers
     * content-based routing and message filtering
-    * message enrichment and claim `check`
+    * message enrichment and claim check
     * scatter-gather and aggregation
     * dead letter channels and guaranteed delivery
     * idempotent receivers and deduplication
@@ -128,7 +128,7 @@ or a hybrid is the appropriate choice.
     * adapters and protocol bridging
     * canonical message formats
     * `ESB` topologies: hub-and-spoke, federated, distributed
-    * representative products: `Mule`, `WSO2`, `IBM Integration Bus`, `Apache Camel`
+    * representative products: `Mule`, WSO2, `IBM Integration Bus`, `Apache Camel`
     * the "smart pipes, dumb endpoints" critique and lessons learned
 <!-- chapter: orchestration-and-choreography, duration: 3h -->
 * Orchestration and choreography
@@ -167,7 +167,7 @@ or a hybrid is the appropriate choice.
     * organizational structures that support `SOA`
 <!-- chapter: quality-of-service-and-observability, duration: 2h -->
 * Quality of service and observability
-    * defining `SLI`, `SLO` and `SLA` for services
+    * defining `SLI`, SLO and `SLA` for services
     * monitoring services and the bus
     * distributed tracing across service boundaries
     * centralized logging and correlation `IDs`

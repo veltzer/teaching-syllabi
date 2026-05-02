@@ -25,11 +25,11 @@ without losing the rare failure, how to exploit traces in incidents and in stead
 keep the tracing bill from exceeding the infrastructure bill.
 
 This three day course covers distributed tracing as a focused practice. It covers the canonical span
-model, the propagation standards (`W3C Trace Context`, `B3`), the per-language `SDKs` (auto and
-manual instrumentation in `Python`, `Java`, `Go`, `Node.js`, `.NET`), the cross-boundary cases (the
-`async` message-queue trace, the cron-job trace, the frontend `RUM` trace, the worker-pool trace), the
+model, the propagation standards (`W3C Trace Context`, B3), the per-language `SDKs` (auto and
+manual instrumentation in `Python`, `Java`, Go, `Node.js`, `.NET`), the cross-boundary cases (the
+async message-queue trace, the cron-job trace, the frontend `RUM` trace, the worker-pool trace), the
 sampling decisions (head, tail, probabilistic, parent-based, dynamic), the backend choices (`Jaeger`,
-`Tempo`, `Honeycomb`, `Datadog APM`, `New Relic`, `AWS X-Ray`, `Google Cloud Trace`), the
+`Tempo`, Honeycomb, `Datadog APM`, New Relic, `AWS X-Ray`, `Google Cloud Trace`), the
 trace-as-a-debugging-tool workflow (the slow-trace investigation, the error-attribution), the
 trace-as-a-design-tool insight (the service-dependency map, the request flow), the cost discipline
 (cross-reference to cardinality), the cardinality-of-attributes problem, the propagation through
@@ -84,7 +84,7 @@ production debugging walkthroughs. Participants leave able to deploy and exploit
     * the "auto-instrumentation produced 1000 spans per request" failure
 <!-- chapter: cross-language-and-cross-runtime, duration: 2h -->
 * Cross-language and cross-runtime
-    * the `Python`-to-`Go` `gRPC` call
+    * the `Python`-to-Go `gRPC` call
     * the `Java`-to-`Node.js` `HTTP` call
     * the consistent semantic conventions
     * the `OpenTelemetry` `Collector` as the bridge
@@ -116,7 +116,7 @@ production debugging walkthroughs. Participants leave able to deploy and exploit
     * `Jaeger`
     * `Grafana Tempo`
     * `Honeycomb`
-    * `Datadog APM`, `New Relic`, `AWS X-Ray`, `Google Cloud Trace`
+    * `Datadog APM`, New Relic, `AWS X-Ray`, `Google Cloud Trace`
     * the cost shape of each
     * picking
 <!-- chapter: opentelemetry-collector-pipelines, duration: 2h -->

@@ -58,7 +58,7 @@ on selecting and migrating to a service mesh.
     * operational complexity trade-offs
 <!-- chapter: istio, duration: 1h -->
 * `Istio`
-    * architecture and `Envoy` proxy
+    * architecture and Envoy proxy
     * traffic management (virtual services, destination rules)
     * security (mTLS, authorization policies)
     * observability (metrics, tracing, logging)
@@ -66,7 +66,7 @@ on selecting and migrating to a service mesh.
     * `Istio` installation and configuration
 <!-- chapter: linkerd, duration: 1h -->
 * `Linkerd`
-    * architecture and `Rust`-based proxy (linkerd2-proxy)
+    * architecture and Rust-based proxy (linkerd2-proxy)
     * simplicity and minimal configuration
     * traffic management (traffic splits, retries)
     * security (automatic mTLS)
@@ -82,8 +82,8 @@ on selecting and migrating to a service mesh.
     * performance advantages
 <!-- chapter: consul-connect, duration: 2h -->
 * `Consul Connect`
-    * architecture and `Envoy` integration
-    * multi-platform support (VMs, `Kubernetes`, `Nomad`)
+    * architecture and Envoy integration
+    * multi-platform support (VMs, `Kubernetes`, Nomad)
     * service discovery and health checking
     * intentions-based security
     * traffic management

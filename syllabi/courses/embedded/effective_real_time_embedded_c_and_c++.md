@@ -12,16 +12,16 @@ audience:
   - audiences:developers
 ---
 <!-- course: effective_real_time_embedded_c_and_c++ -->
-# Effective Real Time Embedded `C` and `C++`
+# Effective Real Time Embedded C and `C++`
 
 ## Description
-Many software engineers work with `C` and `C++` programming languages for real time and embedded
+Many software engineers work with C and `C++` programming languages for real time and embedded
 development. This course aims to give them a fuller appreciation of the more advanced aspects of the
 languages in the real time and embedded environments.
 Programming real time embedded systems `make` many special demands on the software engineer.
 These include understanding compile, link and run-time issues, which are included in the course. It also
-covers real time programming issues that are specific to the `C` and `C++` languages.
-Most of the course is relevant to both `C` and `C++` software engineers, though some special points
+covers real time programming issues that are specific to the C and `C++` languages.
+Most of the course is relevant to both C and `C++` software engineers, though some special points
 relevant to `C++` and object oriented are also presented.
 The course is specifically aimed at issues relevant to real-time embedded software engineers.
 
@@ -29,29 +29,29 @@ The course is specifically aimed at issues relevant to real-time embedded softwa
 4 days / 32 hours
 
 ## Intended Audience
-The course is designed for software engineers who want to improve their use of the `C` and / or `C++`
+The course is designed for software engineers who want to improve their use of the C and / or `C++`
 programming languages in a real time, embedded environment.
 
 ## Prerequisites
-* A good grasp of the fundamentals of `C` and/or `C++`
+* A good grasp of the fundamentals of C and/or `C++`
 * A good grasp of real time and embedded is an advantage.
 
 ## Objectives
-* understand the core concepts and principles of Effective Real Time Embedded `C` and `C++`
+* understand the core concepts and principles of Effective Real Time Embedded C and `C++`
 * gain practical knowledge of Introduction
-* gain practical knowledge of Embedded `C`
-* gain practical knowledge of Elements of `C`/```C++``
+* gain practical knowledge of Embedded C
+* gain practical knowledge of Elements of C/```C++``
 
 ## Outline
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: embedded-c, duration: 1h -->
-* Embedded `C`
-    * Real time `C`
-    * Embedded `C`
+* Embedded C
+    * Real time C
+    * Embedded C
     * Writing code in Kernel Space
 <!-- chapter: elements-of-c-c, duration: 3h -->
-* Elements of `C`/`C++`
+* Elements of C/`C++`
     * Type Specifiers and Qualifiers
     * Type coercion and conversion
     * Struct layout
@@ -101,10 +101,10 @@ programming languages in a real time, embedded environment.
     * Estimation of stack requirements
 <!-- chapter: optimizations, duration: 1h -->
 * Optimizations
-    * Tips for optimizing embedded `C`/`C++` code
+    * Tips for optimizing embedded C/`C++` code
 <!-- chapter: writing-safer-c, duration: 1h -->
-* Writing Safer `C`
-    * MISRA-`C` and CWE
+* Writing Safer C
+    * `MISRA`-C and `CWE`
     * Compiler warnings
     * Hard learned pitfalls
     * Coding style and banned `API`
@@ -121,16 +121,16 @@ programming languages in a real time, embedded environment.
     * Watchdog timer
     * Real time debug vs. time
 <!-- chapter: object-oriented-c, duration: 1h -->
-* Object oriented `C`
-    * Implementing OOP with `C` (OOC)
-    * Mixing `C` and `C++`
+* Object oriented C
+    * Implementing `OOP` with C (OOC)
+    * Mixing C and `C++`
 <!-- chapter: inheritance-and-oo-design, duration: 1h -->
 * Inheritance and `OO` Design
     * Inheritance models
-    * The use of virtual-functions
+    * The use of `virtual-functions`
 <!-- chapter: embedded-cpp, duration: 1h -->
 * Embedded `C++`
-    * `C` vs. `C++`
+    * C vs. `C++`
     * Benefits of embedded `C++` (EC++)
     * Restrictions for EC++
 <!-- chapter: c-resource-management, duration: 2h -->
@@ -159,7 +159,7 @@ programming languages in a real time, embedded environment.
     * Extending the `STL`
 <!-- chapter: input-output-using-stream-classes, duration: 4h -->
 * Input/Output Using Stream Classes
-    * Common Background of I/O Streams
+    * Common Background of `I/O` Streams
     * Fundamental Stream Classes and Objects
     * Standard Stream Operators << and >>
     * Standard Input/Output Functions
@@ -174,12 +174,12 @@ programming languages in a real time, embedded environment.
     * Performance Issues
 <!-- chapter: peripherals-extra, duration: 3h -->
 * Peripherals (extra)
-    * General Purpose Input/Output (GPIO)
-    * Universal Asynchronous Receiver-Transmitter (UART)
+    * General Purpose Input/Output (`GPIO`)
+    * Universal Asynchronous Receiver-Transmitter (`UART`)
     * Analog-to-Digital Converter (ADC)
-    * Serial Peripheral Interface (SPI)
-    * Inter-Integrated Circuit (I2C)
-    * Direct Memory Access (DMA)
+    * Serial Peripheral Interface (`SPI`)
+    * Inter-Integrated Circuit (`I2C`)
+    * Direct Memory Access (`DMA`)
     * Nested Vector Interrupt Controller (NVIC)
     * General Purpose Timers (TIM)
     * System Tick Timer (SysTick)

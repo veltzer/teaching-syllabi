@@ -12,10 +12,10 @@ audience:
   - audiences:devops
 ---
 <!-- course: introduction_to_puppet -->
-# Introduction to `Puppet`
+# Introduction to Puppet
 
 ## Description
-`Puppet` is a commonly used `DevOps` tool for configuration management and deployment of complex
+Puppet is a commonly used `DevOps` tool for configuration management and deployment of complex
 applications. This course introduces the participants to `puppet` and it's main concepts and
 allows them to start working with it.
 
@@ -23,7 +23,7 @@ allows them to start working with it.
 16 hours / 1 day
 
 ## Intended Audience
-* System administrators and `Devops` engineers looking to adopt `Puppet`.
+* System administrators and `Devops` engineers looking to adopt Puppet.
 
 ## Prerequisites
 * Experience in technology environments
@@ -31,55 +31,55 @@ allows them to start working with it.
 * System administration experience is a plus
 
 ## Objectives
-* Understand and use the `Puppet` development language
-* Create your own custom functions to be used within `Puppet`
+* Understand and use the Puppet development language
+* Create your own custom functions to be used within Puppet
 * Learn how to use Facter
 * Use Hiera to define and use data sources.
 * Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
 <!-- chapter: from-zero-to-puppet, duration: 1h -->
-* From zero to `Puppet`
+* From zero to Puppet
     * Configuration Management
-    * Installing the `Puppet` `CLI`
+    * Installing the Puppet `CLI`
     * Basic operations
 <!-- chapter: give-examples-of-how-to-use-puppet-in-student-s-current-environment, duration: 1h -->
-* Give examples of how to use `Puppet` in student's current environment.
+* Give examples of how to use Puppet in student's current environment.
 <!-- chapter: demonstrate-how-to-install-puppet, duration: 1h -->
-* Demonstrate how to install `Puppet`.
+* Demonstrate how to install Puppet.
 <!-- chapter: evaluate-and-apply-resources, duration: 1h -->
 * Evaluate and apply resources.
 <!-- chapter: test-puppet-parser-validation-before-committing, duration: 1h -->
-* Test `Puppet` parser validation before committing.
+* Test Puppet parser validation before committing.
 <!-- chapter: use-the-trifecta-package-file-service, duration: 1h -->
-* Use the Trifecta (package/`file`/service).
+* Use the Trifecta (package/file/service).
 <!-- chapter: convert-a-program-into-a-module, duration: 1h -->
 * Convert a program into a module.
 <!-- chapter: experiment-with-external-modules, duration: 1h -->
 * Experiment with external modules.
 <!-- chapter: what-is-puppet, duration: 2h -->
-* What is `Puppet`?
+* What is Puppet?
     * Overview of IT Automation concepts and motivations
     * Common IT Automation tools
-    * Overview of `Puppet`
+    * Overview of Puppet
     * Installing and configuring `puppet`
 <!-- chapter: core-puppet-resources, duration: 1h -->
-* Core `Puppet` resources
+* Core Puppet resources
     * What is a resource?
     * Defining resources
 <!-- chapter: the-puppet-trifecta, duration: 1h -->
-* The `Puppet` Trifecta
+* The Puppet Trifecta
     * Packages
     * Services
     * Files
 <!-- chapter: puppet-modules, duration: 1h -->
-* `Puppet` Modules
+* Puppet Modules
     * What is a module
     * Converting a program into a module
     * Working with External Modules
 <!-- chapter: working-with-puppet, duration: 2h -->
-* Working with `Puppet`
-    * Understanding the `Puppet` Master and Agents
+* Working with Puppet
+    * Understanding the Puppet Master and Agents
     * Site manifests
     * Environments
     * Parameterized classes

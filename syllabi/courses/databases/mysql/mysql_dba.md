@@ -110,7 +110,7 @@ The course emphasizes real-world administration scenarios, including backup stra
     * Connection and thread configuration
     * Memory allocation settings
     * Temporary table and sort buffer sizing
-    * Configuration `file` best practices
+    * Configuration file best practices
     * Dynamic vs `static-variables`
 
 <!-- chapter: binary-logging-and-replication-foundations, duration: 2h -->

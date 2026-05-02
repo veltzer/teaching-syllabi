@@ -31,7 +31,7 @@ the lack thereof and others.
 * system programmers working on low-level software
 
 ## Prerequisites
-* experience with `C` or `C++` programming
+* experience with C or `C++` programming
 * basic understanding of computer architecture
 
 ## Objectives

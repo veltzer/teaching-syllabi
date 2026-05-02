@@ -31,7 +31,7 @@ This course provides a comprehensive guide to designing, building, and operating
 * `Solid` understanding of software development fundamentals
 * Familiarity with `REST APIs` and web service architecture
 * Basic knowledge of distributed systems concepts
-* Experience with at least one programming language (e.g., `Java`, `Python`, `C#`, `Go`)
+* Experience with at least one programming language (e.g., `Java`, `Python`, `C#`, Go)
 * Basic understanding of databases and data persistence
 
 ## Required Knowledge
@@ -77,7 +77,7 @@ This course provides a comprehensive guide to designing, building, and operating
     * Command Query Responsibility Segregation (`CQRS`): separating reads and writes
     * Building projections and read models from event streams
     * Eventual consistency: implications and user experience strategies
-    * `When` `event sourcing` and `CQRS` are appropriate and `when` they are not
+    * `When` `event sourcing` and `CQRS` are appropriate and when they are not
 <!-- chapter: reliability-and-delivery-guarantees, duration: 3h -->
 * Reliability and Delivery Guarantees
     * At-most-once, at-least-once, and exactly-once delivery semantics
@@ -89,9 +89,9 @@ This course provides a comprehensive guide to designing, building, and operating
     * Circuit breakers and backpressure in event processing
     * Ensuring data consistency across services
 <!-- chapter: saga-and-choreography-patterns, duration: 4h -->
-* `Saga` and Choreography Patterns
+* Saga and Choreography Patterns
     * Distributed transactions and the two-phase commit problem
-    * `Saga` pattern: orchestration approach with a central coordinator
+    * Saga pattern: orchestration approach with a central coordinator
     * Choreography pattern: decentralized coordination through events
     * Designing compensating transactions for failure recovery
     * Long-running processes and timeout management

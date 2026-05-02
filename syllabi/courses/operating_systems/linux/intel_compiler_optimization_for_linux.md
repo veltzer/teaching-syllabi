@@ -57,13 +57,13 @@ Attendees will be equipped to significantly enhance the performance of their `Li
     * Inline expansion and function inlining
 <!-- chapter: vectorization, duration: 2h -->
 * Vectorization
-    * SIMD concepts and Intel instruction sets (SSE, AVX, AVX-512)
+    * SIMD concepts and Intel instruction sets (`SSE`, AVX, AVX-512)
     * Auto-vectorization techniques
     * Guided auto-vectorization
     * Vector intrinsics
 <!-- chapter: parallelization, duration: 3h -->
 * Parallelization
-    * OpenMP basics
+    * `OpenMP` basics
     * Auto-parallelization
     * Guided auto-parallelism
     * Thread affinity and load balancing
@@ -91,13 +91,13 @@ Attendees will be equipped to significantly enhance the performance of their `Li
         * `Threading` design and prototyping
 <!-- chapter: advanced-topics, duration: 2h -->
 * Advanced Topics
-    * Offloading computations to Intel GPUs using OpenMP
+    * Offloading computations to Intel GPUs using `OpenMP`
     * Optimizing for specific Intel `CPU` architectures
     * Low-level optimizations and `assembly` integration
 <!-- chapter: intel-compiler-and-gcc, duration: 3h -->
-* Intel compiler and GCC
+* Intel compiler and `GCC`
     * performance examples.
-    * compatibility of the intel compiler to the GCC compiler
+    * compatibility of the intel compiler to the `GCC` compiler
     * `C++` compatibility for the intel compiler.
 
 ## References

@@ -63,7 +63,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
     * `Alertmanager` architecture
     * Routing tree configuration
     * Grouping, inhibition, and silencing
-    * Notification receivers (email, `Slack`, `PagerDuty`, webhooks)
+    * Notification receivers (email, Slack, `PagerDuty`, webhooks)
     * `Alertmanager` high availability
     * Alert template customization
 <!-- chapter: federation, duration: 1h -->
@@ -93,7 +93,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
     * Static vs dynamic service discovery
     * Supported service discovery mechanisms
     * `Kubernetes` service discovery
-    * `Consul`, `DNS`, and `file`-based discovery
+    * Consul, `DNS`, and file-based discovery
     * Custom service discovery with `HTTP` SD
 <!-- chapter: relabeling, duration: 1h -->
 * Relabeling

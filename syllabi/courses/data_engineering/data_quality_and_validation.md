@@ -27,8 +27,8 @@ that disciplined validation would have imposed up front.
 
 This five day course covers data quality and validation as engineering disciplines. It covers the dimensions
 of data quality (accuracy, completeness, freshness, validity, uniqueness, consistency), the data-contract
-pattern, schema and value-level validation, the major tools (`Great Expectations`, `Soda`, `dbt tests`,
-`Monte Carlo`, `Datafold`, `Elementary`), `SLOs` for data, and the operational practices that turn data quality
+pattern, schema and value-level validation, the major tools (`Great Expectations`, Soda, `dbt tests`,
+`Monte Carlo`, Datafold, Elementary), `SLOs` for data, and the operational practices that turn data quality
 from "we should do that someday" into a continuous, observable property of the data platform. Examples are
 drawn from analytical, operational and `ML` data systems.
 
@@ -81,7 +81,7 @@ drawn from analytical, operational and `ML` data systems.
 * Data contracts
     * the contract between producer and consumer
     * schema, semantics, freshness, ownership
-    * `Avro`, `Protobuf`, `JSON Schema` for contracts
+    * `Avro`, Protobuf, `JSON Schema` for contracts
     * versioning and breaking-change discipline
     * who owns the contract: producer, consumer, or platform
     * `Confluent`/`Apache Schema Registry`, `Buf`, custom registries
@@ -107,16 +107,16 @@ drawn from analytical, operational and `ML` data systems.
     * row count anomalies
     * null-rate anomalies
     * cardinality anomalies
-    * distributional drift: `KS` test, `PSI`, `Wasserstein`
+    * distributional drift: `KS` test, PSI, `Wasserstein`
     * time-series-aware checks
-    * managed anomaly detection: `Monte Carlo`, `Bigeye`, `Anomalo`
+    * managed anomaly detection: `Monte Carlo`, Bigeye, `Anomalo`
 <!-- chapter: great-expectations-deep-dive, duration: 3h -->
 * `Great Expectations` deep dive
     * expectations as the unit of test
     * expectation suites and validation runs
     * data context, datasources, batch requests
     * data docs as a living artifact
-    * `Great Expectations` `V3` `API` and the `V1` revisions
+    * `Great Expectations` V3 `API` and the `V1` revisions
     * integration with `Airflow`, `Dagster`, `Prefect`, `dbt`
 <!-- chapter: dbt-tests-and-elementary, duration: 3h -->
 * `dbt` tests and `Elementary`

@@ -12,7 +12,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: technical_design_patterns_for_c++_programmers -->
-# Technical `design patterns` for `C`/`C++` programmers
+# Technical `design patterns` for C/`C++` programmers
 
 ## Description
 This course deals with `design patterns` which solve technical issues.
@@ -34,14 +34,14 @@ used throughout the industry.
 Three years experience in `C++`
 
 ## Objectives
-Understand the different technical `design patterns` in the realm of `C`/`C++` programming
+Understand the different technical `design patterns` in the realm of C/`C++` programming
 and which are used in different types of systems (hard real time, soft
 real time, fast time, embedded and server).
 
 ## Exercises
 This course is for expert `C++` programmers. Some exercises will be presented but
 a lot of the material will not be exercised due to time constraints and the
-nature of the `C`/`C++` languages where exercises take a long time to complete.
+nature of the C/`C++` languages where exercises take a long time to complete.
 Code examples will be shown and given to the students for many of the patterns.
 
 ## Outline
@@ -52,7 +52,7 @@ Code examples will be shown and given to the students for many of the patterns.
     * what is `fast time` programming
     * why are special patterns required?
     * are these patterns applicable only for `real time` or `fast time` ?
-    * `C` vs `C++` in the application of these patterns
+    * C vs `C++` in the application of these patterns
     * the compilers role
 <!-- chapter: memory-patterns, duration: 5h -->
 * Memory patterns
@@ -93,7 +93,7 @@ Code examples will be shown and given to the students for many of the patterns.
 * Distribution patterns
     * why are they needed?
     * reactor pattern
-    * `async` completion (future) pattern
+    * async completion (future) pattern
     * proactor pattern
     * object monitor
 

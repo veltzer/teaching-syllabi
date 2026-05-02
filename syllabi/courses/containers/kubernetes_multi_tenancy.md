@@ -23,17 +23,17 @@ operational concern. The catalog has `Kubernetes`, `Kubernetes for Developers`, 
 Troubleshooting`, ``Kubernetes` Security`, and the `Container and `Kubernetes` Security` course. None of
 those is the focused course on operating a multi-tenant cluster: how to isolate tenants from each
 other, how to give them autonomy without giving them everything, how to charge them, how to keep one
-tenant from starving another, and how to know `when` single-cluster multi-tenancy is the wrong answer
+tenant from starving another, and how to know when single-cluster multi-tenancy is the wrong answer
 and you should give each tenant their own cluster.
 
 This three day course covers `Kubernetes` multi-tenancy as a focused engineering topic. It covers the
 canonical tenancy models (soft, hard, virtual cluster), the namespace-as-tenant pattern and its
 limits, the network-policy story, the pod-security-standards story, the resource-quota and
 limit-range story, the noisy-neighbor problem, the per-tenant observability and cost-allocation, the
-`vCluster` and `Kamaji`-style virtual clusters, the `Capsule` and `kiosk` operator approaches, the
-deciding-`when`-to-give-each-tenant-a-cluster question, and the operational reality of running
-multi-tenant clusters at scale. Examples are drawn from public engineering writing of `Slack`,
-`Spotify`, `Datadog`, and the `CNCF` multi-tenancy `WG`. Participants leave able to design and operate
+`vCluster` and Kamaji-style virtual clusters, the Capsule and `kiosk` operator approaches, the
+deciding-when-to-give-each-tenant-a-cluster question, and the operational reality of running
+multi-tenant clusters at scale. Examples are drawn from public engineering writing of Slack,
+`Spotify`, Datadog, and the `CNCF` multi-tenancy `WG`. Participants leave able to design and operate
 a `Kubernetes` multi-tenancy strategy.
 
 ## Duration
@@ -56,9 +56,9 @@ a `Kubernetes` multi-tenancy strategy.
 * design namespace-as-tenant correctly
 * enforce network and pod-security boundaries
 * manage resource quotas and noisy neighbors
-* run virtual clusters `when` the soft model is not enough
+* run virtual clusters when the soft model is not enough
 * allocate cost per tenant
-* recognize `when` multi-cluster is the right answer
+* recognize when multi-cluster is the right answer
 
 ## Outline
 <!-- chapter: tenancy-models, duration: 2h -->
@@ -86,17 +86,17 @@ a `Kubernetes` multi-tenancy strategy.
 <!-- chapter: network-isolation, duration: 2h -->
 * Network isolation
     * `NetworkPolicy` as the default-deny baseline
-    * `Calico`, `Cilium`, `Kuma` enforcement
+    * `Calico`, Cilium, `Kuma` enforcement
     * the egress-policy story
     * service-mesh-based isolation
     * cross-reference to the Service Mesh Comparison course
     * the "all pods could talk to all pods" reality
 <!-- chapter: pod-security-standards, duration: 2h -->
 * Pod-security standards
-    * `restricted`, `baseline`, `privileged`
+    * `restricted`, baseline, `privileged`
     * the per-namespace enforcement
     * the migration from `PodSecurityPolicy`
-    * `OPA` `Gatekeeper` and `Kyverno` for policy
+    * `OPA` Gatekeeper and `Kyverno` for policy
     * the "we shipped privileged pods to a tenant namespace" failure
 <!-- chapter: resource-quotas-and-limits, duration: 2h -->
 * Resource quotas and limits
@@ -151,7 +151,7 @@ a `Kubernetes` multi-tenancy strategy.
     * the platform `SLO` per tenant
 <!-- chapter: case-studies, duration: 1h -->
 * Case studies
-    * `Slack`'s multi-tenancy story
+    * Slack's multi-tenancy story
     * `Datadog`'s internal platform
     * `Spotify`'s `Backstage`-driven model
     * the lessons learned

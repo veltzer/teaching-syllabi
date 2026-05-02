@@ -17,7 +17,7 @@ audience:
 # `Azure` `Kubernetes` Service (AKS)
 
 ## Description
-This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kubernetes` offering. Participants will learn how to provision and manage AKS clusters, integrate with `Azure` `Active Directory`, configure advanced networking with `Azure` CNI, and leverage `Azure`-native services such as `Azure` Monitor, `Azure` Policy, and `Azure` Key `Vault` to build secure, scalable, and cost-effective `Kubernetes` environments.
+This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kubernetes` offering. Participants will learn how to provision and manage AKS clusters, integrate with `Azure` `Active Directory`, configure advanced networking with `Azure` CNI, and leverage `Azure`-native services such as `Azure` Monitor, `Azure` Policy, and `Azure` Key Vault to build secure, scalable, and cost-effective `Kubernetes` environments.
 
 ## Duration
 16 hours / 2 days
@@ -41,7 +41,7 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
 * Integrate AKS with `Azure` `Active Directory` for authentication and authorization.
 * Configure advanced networking using `Azure` CNI and virtual nodes.
 * Monitor AKS workloads with `Azure` Monitor for containers.
-* Implement security and compliance using `Azure` Policy and `Azure` Key `Vault`.
+* Implement security and compliance using `Azure` Policy and `Azure` Key Vault.
 * Scale workloads with KEDA and manage costs effectively.
 
 ## Outline
@@ -70,7 +70,7 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
     * Kubenet vs `Azure` CNI
     * `Azure` CNI overlay
     * Network policies with `Azure` Network Policy Manager and Calico
-    * `Ingress` controllers and `Azure` Application Gateway
+    * Ingress controllers and `Azure` Application Gateway
     * Private clusters and `private link`
 <!-- chapter: virtual-nodes, duration: 1h -->
 * Virtual Nodes
@@ -93,7 +93,7 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
     * `Azure` Policy for `Kubernetes` (Gatekeeper)
     * Compliance reporting
 <!-- chapter: azure-key-vault-integration, duration: 1h -->
-* `Azure` Key `Vault` Integration
+* `Azure` Key Vault Integration
     * Secrets Store CSI Driver
     * Mounting secrets and certificates
     * Key rotation and lifecycle management

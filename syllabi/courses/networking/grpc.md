@@ -26,7 +26,7 @@ audience:
 * Full-stack developers working with `API` layers
 
 ## Prerequisites
-* Proficiency in at least one programming language (`Go`, `Python`, `Java`, `C++`, or `C#`)
+* Proficiency in at least one programming language (Go, `Python`, `Java`, `C++`, or `C#`)
 * Understanding of client-server architecture and networking fundamentals
 * Familiarity with `REST APIs` and `HTTP` protocol
 * Basic understanding of serialization formats (`JSON`, `XML`)
@@ -71,7 +71,7 @@ audience:
     * Defining RPC services in .proto files
     * The four RPC types: unary, server streaming, client streaming, bidirectional
     * Code generation with protoc compiler
-    * Language-specific plugins: `Go`, `Python`, `Java`, `C++`
+    * Language-specific plugins: Go, `Python`, `Java`, `C++`
     * Generated code structure and usage patterns
     * Managing .proto files across teams and repositories
 <!-- chapter: unary-rpcs, duration: 1h -->
@@ -93,7 +93,7 @@ audience:
     * Client streaming service definition
     * Implementing client-side streaming
     * Server-side handling of streaming requests
-    * Use cases: `file` uploads, batch processing, telemetry
+    * Use cases: file uploads, batch processing, telemetry
     * Completing and receiving the response
 <!-- chapter: bidirectional-streaming-rpcs, duration: 1h -->
 * Bidirectional Streaming RPCs
@@ -143,21 +143,21 @@ audience:
 * Load Balancing and Service Discovery
     * Client-side load balancing strategies
     * Round-robin, pick-first, and custom policies
-    * Proxy-based load balancing with `Envoy`
+    * Proxy-based load balancing with Envoy
     * `DNS`-based service discovery
     * Integration with service meshes
     * Connection management and keepalive
 <!-- chapter: health-checking-and-reflection, duration: 1h -->
 * Health Checking and Reflection
     * The `gRPC` health checking protocol
-    * Implementing health `check` services
+    * Implementing health check services
     * Load balancer and `Kubernetes` health probe integration
     * `gRPC` server reflection for dynamic discovery
     * Tools: grpcurl, grpc_cli, Evans
 <!-- chapter: grpc-web, duration: 1h -->
 * `gRPC`-Web
     * `gRPC`-Web overview and browser limitations
-    * `gRPC`-Web proxy with `Envoy`
+    * `gRPC`-Web proxy with Envoy
     * Client-side `gRPC`-Web usage in `JavaScript` and `TypeScript`
     * Supported RPC types in `gRPC`-Web
     * Deployment architectures

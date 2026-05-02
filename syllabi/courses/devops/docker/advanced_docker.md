@@ -32,7 +32,7 @@ order to improve the way they operate containerized workloads.
 * Basic experience building and running `Docker` containers.
 * Basic `Docker` `CLI` knowledge.
 * Prior experience in developing web applications will be helpful but is not required.
-* Basic knowledge of `Linux` `file` system and network stack.
+* Basic knowledge of `Linux` file system and network stack.
 
 ## Required Knowledge
 * `Linux` Fundamentals (or equivalent experience)
@@ -76,7 +76,7 @@ order to improve the way they operate containerized workloads.
     * Persistent storage patterns for stateful applications
     * Copy-on-write (`CoW`) filesystem internals
     * `Tmpfs` mounts for non-persistent state
-    * `Bind` mounts vs volumes: `when` to use each
+    * `Bind` mounts vs volumes: when to use each
     * Managing data in multi-container applications
 <!-- chapter: docker-security-and-compliance, duration: 3h -->
 * `Docker` Security and Compliance
@@ -103,7 +103,7 @@ order to improve the way they operate containerized workloads.
 
 ## Installations
 * A real `Ubuntu` >= 22.04 running on a laptop.
-* A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on `top`. This could be done using `Hyper-V` or `Oracle` `VirtualBox`.
+* A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on top. This could be done using `Hyper-V` or Oracle `VirtualBox`.
 * Access to a remote `Ubuntu` >= 22.04 machine via `ssh` (command line, putty, MobaXterm, ...). The machine could be in a company private cloud or a public cloud.
 * In any case the student must have `sudo`/root on this virtual machine.
 * In all cases the installations are not a must and the instructor will guide the students how to do the installations on the first day of the course.

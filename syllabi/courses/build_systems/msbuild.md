@@ -17,7 +17,7 @@ audience:
 
 ## Description
 `MSBuild` is the foundational build engine for the entire `.NET` ecosystem, powering `Visual Studio`, the
-`dotnet` `CLI`, and enterprise-scale `C#` and `F#` projects. This course demystifies the `MSBuild` project `file`
+`dotnet` `CLI`, and enterprise-scale `C#` and `F#` projects. This course demystifies the `MSBuild` project file
 format, teaching participants to read, write, and extend `SDK`-style project files, create custom tasks, and
 build complex multi-targeted solutions. Participants will learn to leverage `NuGet` integration, implement
 multi-platform targeting, and run `MSBuild`-driven pipelines in modern `CI/CD` systems including `Azure DevOps`
@@ -71,8 +71,8 @@ and `GitHub Actions`.
 <!-- chapter: targets-and-tasks, duration: 2h -->
 * Targets and Tasks:
     * Anatomy of a `Target`: inputs, outputs, and dependencies.
-    * Built-in tasks: `Copy`, `Exec`, `Message`, `Delete`, `MakeDir`.
-    * Target ordering: `BeforeTargets`, `AfterTargets`, `DependsOnTargets`.
+    * Built-in tasks: `Copy`, Exec, Message, Delete, `MakeDir`.
+    * Target ordering: `BeforeTargets`, AfterTargets, `DependsOnTargets`.
     * Incremental builds with input/output tracking.
     * Importing shared `.targets` and `.props` files.
 <!-- chapter: custom-tasks, duration: 2h -->

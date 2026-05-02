@@ -103,7 +103,7 @@ This course provides a thorough exploration of `GraphQL` as a query language and
 <!-- chapter: pagination-filtering-and-sorting, duration: 1h -->
 * Pagination, Filtering, and Sorting
     * Offset-based pagination
-    * `Cursor`-based pagination and the Relay connection specification
+    * Cursor-based pagination and the Relay connection specification
     * Edges, nodes, and pageInfo in connection types
     * Implementing filtering arguments and dynamic query building
     * Sorting and ordering patterns

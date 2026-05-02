@@ -19,7 +19,7 @@ audience:
 ## Description
 Visual regression testing — taking a screenshot of a page or component and comparing it to a stored
 baseline — has matured from a brittle hobby into a reliable engineering practice. The catalog has
-`Playwright`, `Advanced Playwright`, `Cypress`, `Selenium`, `Jest`, and `End-to-End Testing Strategy`,
+`Playwright`, `Advanced Playwright`, Cypress, `Selenium`, Jest, and `End-to-End Testing Strategy`,
 but does not have a focused course on the visual-regression specialty. Visual tests catch what unit
 tests and end-to-end tests cannot: a `CSS` change that broke the header, a font swap that shifted
 layout, a third-party widget that started rendering differently, a dark-mode regression, an
@@ -27,11 +27,11 @@ accessibility-contrast regression, and a responsive-breakpoint failure.
 
 This two day course covers visual regression testing as practiced today. It covers what visual tests
 catch (and what they do not), the screenshot-comparison technologies (`pixel-diff`, `perceptual-diff`,
-`AI`-based comparators), the canonical tools (`Percy`, `Chromatic`, `Applitools`, `Loki`,
-`Playwright`'s `toHaveScreenshot`, `BackstopJS`), the integration with `Storybook` for component-level
-visual tests, the integration with `Playwright` and `Cypress` for end-to-end visual tests, the
+`AI`-based comparators), the canonical tools (Percy, Chromatic, Applitools, `Loki`,
+`Playwright`'s toHaveScreenshot, BackstopJS), the integration with `Storybook` for component-level
+visual tests, the integration with `Playwright` and Cypress for end-to-end visual tests, the
 flakiness sources (fonts, animations, dates, network), the baseline-management workflow, the review
-flow (`Percy` and `Chromatic`'s `PR`-based flow), the cost shape, the visual-test pyramid (component,
+flow (`Percy` and Chromatic's `PR`-based flow), the cost shape, the visual-test pyramid (component,
 page, full-flow), and the patterns that `make` visual tests succeed. Examples include real production
 visual-test setups. Participants leave able to introduce visual regression testing into a project
 without making the test suite hostile.
@@ -46,7 +46,7 @@ without making the test suite hostile.
 * developers adopting `Storybook` or component-driven development
 
 ## Prerequisites
-* working experience with at least one of `Playwright`, `Cypress`, or `Selenium`
+* working experience with at least one of `Playwright`, Cypress, or `Selenium`
 * familiarity with frontend development
 * exposure to `Storybook` is helpful but not required
 * basic `CI/CD` knowledge
@@ -58,7 +58,7 @@ without making the test suite hostile.
 * manage baselines and the review flow
 * eliminate the canonical sources of flakiness
 * design the visual-test pyramid
-* recognize `when` visual tests are the wrong tool
+* recognize when visual tests are the wrong tool
 
 ## Outline
 <!-- chapter: what-visual-tests-catch, duration: 1h -->
@@ -96,13 +96,13 @@ without making the test suite hostile.
     * the layout-aware comparison
     * the cross-browser story
     * the cost shape
-    * `when` `Applitools` wins
+    * when `Applitools` wins
 <!-- chapter: open-source-tools, duration: 1h -->
 * Open-source tools
     * `BackstopJS`
     * `Loki` for `Storybook`
     * `Playwright`'s `toHaveScreenshot`
-    * `Cypress` plugins
+    * Cypress plugins
     * picking
 <!-- chapter: storybook-component-tests, duration: 2h -->
 * `Storybook` component tests
@@ -142,7 +142,7 @@ without making the test suite hostile.
     * the integration with required reviews
 <!-- chapter: cross-browser-and-cross-device, duration: 1h -->
 * Cross-browser and cross-device
-    * `Chrome`, `Firefox`, `Safari`
+    * `Chrome`, Firefox, `Safari`
     * mobile viewports
     * the per-browser baseline cost
     * the "we tested only `Chrome`" gap

@@ -21,7 +21,7 @@ audience:
 
 ## Description
 A security incident is not the same as a production outage. The clock is different, the stakeholders are
-different, and the wrong move in the first hour (rebooting a host, deleting a suspicious `file`, locking out an
+different, and the wrong move in the first hour (rebooting a host, deleting a suspicious file, locking out an
 attacker who is being watched) can destroy the evidence you need to understand what happened. This five day
 course covers the discipline of responding to a security incident from detection through containment,
 eradication, recovery and lessons-learned, with a parallel focus on the forensic skills that `make` any of it
@@ -64,8 +64,8 @@ defensible rigor.
 * A security incident is different
     * outage vs security incident: clock, scope, evidence
     * confidentiality, integrity, availability and which is at stake
-    * the cost of "`let`'s just reboot"
-    * the cost of "`let`'s wait and watch"
+    * the cost of "let's just reboot"
+    * the cost of "let's wait and watch"
     * how `IR` connects to threat hunting and detection engineering
 <!-- chapter: the-ir-lifecycle, duration: 3h -->
 * The `IR` lifecycle
@@ -85,7 +85,7 @@ defensible rigor.
 <!-- chapter: legal-and-regulatory-context, duration: 2h -->
 * Legal and regulatory context
     * chain of custody and evidence admissibility
-    * `GDPR`, `HIPAA`, `PCI-DSS`, `SOX`, `SEC` disclosure
+    * `GDPR`, `HIPAA`, `PCI-DSS`, SOX, `SEC` disclosure
     * regulator notification timelines
     * working with law enforcement
     * the role of outside counsel
@@ -116,7 +116,7 @@ defensible rigor.
     * preserving across reboots and snapshot deletions
 <!-- chapter: linux-host-forensics, duration: 2h -->
 * `Linux` host forensics
-    * triage scripts: `Velociraptor`, `GRR`, `osquery`
+    * triage scripts: `Velociraptor`, GRR, `osquery`
     * `auditd` and `eBPF` artifacts
     * shell history and `.bash_history` caveats
     * `systemd` journal
@@ -127,7 +127,7 @@ defensible rigor.
 * `Windows` host forensics
     * `Sysmon` and event logs
     * registry hives and `RegRipper`
-    * `MFT`, `USN journal`, `Prefetch`, `ShimCache`, `AmCache`
+    * `MFT`, `USN journal`, Prefetch, ShimCache, `AmCache`
     * `KAPE` for triage collection
     * `Velociraptor` on `Windows`
     * memory analysis with `Volatility`
@@ -163,7 +163,7 @@ defensible rigor.
     * dynamic analysis safety
     * `YARA` rules for hunting
     * unpacking and obfuscation overview
-    * deciding `when` to escalate to a malware analyst
+    * deciding when to escalate to a malware analyst
 <!-- chapter: identity-attack-investigation, duration: 2h -->
 * Identity attack investigation
     * credential theft and reuse
@@ -198,7 +198,7 @@ defensible rigor.
     * the long-term hardening project
 <!-- chapter: program-and-tooling, duration: 1h -->
 * Program and tooling
-    * `IR` platforms: `IBM Resilient`, `Demisto`/`Cortex XSOAR`, custom
+    * `IR` platforms: `IBM Resilient`, Demisto/`Cortex XSOAR`, custom
     * runbooks and playbooks for common incident types
     * tabletop exercises and red-team-driven drills
     * retainers, retainers, retainers

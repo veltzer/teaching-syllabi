@@ -65,7 +65,7 @@ and production deployment patterns, along with a comparison to traditional tools
     * control plane architecture
 <!-- chapter: installing-crossplane, duration: 1h -->
 * Installing `Crossplane`
-    * installation with `Helm`
+    * installation with Helm
     * `Crossplane` `CLI`
     * verifying the installation
     * upgrading `Crossplane`

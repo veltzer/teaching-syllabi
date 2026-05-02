@@ -39,7 +39,7 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
 * Supervised learning
     * Introduction to `Machine Learning`
     * Formal supervised learning setup, Linear regression, Normal equations,
-    * Gradient descent, `Hypothesis` classes, Over-fitting and regularization
+    * Gradient descent, Hypothesis classes, Over-fitting and regularization
     * Logistic regression, K nearest neighbors
     * Probability reminder, Naive Bayes classifier
     * Cross-validation, Bootstrapping
@@ -77,7 +77,7 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
 <!-- chapter: convolutional-neural-networks, duration: 8h -->
 * Convolutional neural networks
     * Intro to CNNs, Convolution, Correlation, Filtering.
-    * `CNN` architectures
+    * CNN architectures
     * Detection and Segmentation
     * Visualizing and Understanding
     * Generative Adversarial Networks (GANs)

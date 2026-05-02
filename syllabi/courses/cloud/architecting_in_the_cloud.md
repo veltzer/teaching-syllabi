@@ -44,7 +44,7 @@ frugal and efficient application in the cloud.
 * Create designs of scalable, fault tolerant, frugal and efficient cloud apps.
 * Be able to weigh designs one against another.
 * Describe various `design patterns` of cloud apps.
-* Describe the benefits of various PAAS systems and decide `when` to use them and `when` to build their own.
+* Describe the benefits of various PAAS systems and decide when to use them and when to build their own.
 
 ## Outline
 <!-- chapter: introduction, duration: 2h -->

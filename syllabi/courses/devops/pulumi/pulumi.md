@@ -16,7 +16,7 @@ audience:
 ## Description
 This course covers `Pulumi`, a modern infrastructure as code platform that allows
 engineers to define and manage cloud infrastructure using general-purpose programming
-languages such as `TypeScript`, `Python`, and `Go`. The course begins with foundational
+languages such as `TypeScript`, `Python`, and Go. The course begins with foundational
 IaC concepts and a comparison with `Terraform`, then progresses through `Pulumi`
 architecture, writing infrastructure code, managing state and secrets, testing, and
 policy enforcement with CrossGuard. Students will gain hands-on experience provisioning
@@ -31,7 +31,7 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
 * Teams evaluating or migrating to `Pulumi` from `Terraform` or other IaC tools.
 
 ## Prerequisites
-* Experience with at least one programming language (`TypeScript`, `Python`, or `Go`).
+* Experience with at least one programming language (`TypeScript`, `Python`, or Go).
 * Basic understanding of `cloud computing` concepts (`AWS`, `Azure`, or `GCP`).
 * Familiarity with command-line tools.
 
@@ -43,7 +43,7 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
 
 ## Objectives
 * Understand infrastructure as code principles and how `Pulumi` implements them.
-* Write infrastructure definitions using `TypeScript`, `Python`, or `Go`.
+* Write infrastructure definitions using `TypeScript`, `Python`, or Go.
 * Manage `Pulumi` stacks, state, and secrets effectively.
 * Create reusable component resources and share them across stacks.
 * Test infrastructure code using unit and integration testing frameworks.
@@ -84,9 +84,9 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
     * Working with outputs and apply
     * Virtual environments and dependency management
 <!-- chapter: writing-infrastructure-in-go, duration: 1h -->
-* Writing Infrastructure in `Go`
-    * Setting up a `Go` project
-    * Resource definitions in `Go`
+* Writing Infrastructure in Go
+    * Setting up a Go project
+    * Resource definitions in Go
     * Error handling patterns
     * Module organization
 <!-- chapter: resource-providers, duration: 2h -->

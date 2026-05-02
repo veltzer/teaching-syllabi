@@ -32,7 +32,7 @@ expand their knowledge about the tools and techniques for debugging code
 in the `Linux` kernel.
 
 ## Prerequisites
-* `C` language
+* C language
 * `Linux` command line
 * `Linux` kernel programming
 
@@ -119,7 +119,7 @@ in the `Linux` kernel.
     * `perf` record
     * `perf` report
     * `perf` annotate
-    * `perf` `top`
+    * `perf` top
 <!-- chapter: crash, duration: 1h -->
 * Crash
     * Crash

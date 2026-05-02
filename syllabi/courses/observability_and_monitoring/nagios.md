@@ -98,7 +98,7 @@ visibility into their infrastructure.
 * Distributed Monitoring
     * Distributed monitoring architecture
     * Parent-child host relationships
-    * NSCA and passive `check` forwarding
+    * NSCA and passive check forwarding
     * Scaling `Nagios` for large environments
     * High availability considerations
 

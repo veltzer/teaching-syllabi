@@ -81,7 +81,7 @@ pick the right tradeoff for your case.
         * `API` Gateway
         * Service Discovery
         * Load Balancer
-        * `Saga`
+        * Saga
         * `Event Sourcing`
         * Command Query Responsibility Segregation
         * Bulkhead
@@ -162,7 +162,7 @@ pick the right tradeoff for your case.
         * `SQL` query language and data manipulation
         * Database indexing and optimization
         * Transaction isolation levels and concurrency control
-        * Common `SQL` database systems (e.g., `MySQL`, `PostgreSQL`, `Oracle`)
+        * Common `SQL` database systems (e.g., `MySQL`, `PostgreSQL`, Oracle)
     * `NoSQL` Databases
         * Key-value stores
         * Document databases

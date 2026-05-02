@@ -27,8 +27,8 @@ This course provides an in-depth exploration of reverse engineering and binary a
 * Embedded systems engineers concerned with firmware security
 
 ## Prerequisites
-* `Solid` understanding of operating system concepts (processes, memory management, `file` systems)
-* Basic knowledge of `C` and `C++` programming
+* `Solid` understanding of operating system concepts (processes, memory management, file systems)
+* Basic knowledge of C and `C++` programming
 * Familiarity with command-line tools on `Linux` and `Windows`
 * Understanding of computer architecture fundamentals (registers, stack, heap)
 * Basic networking knowledge
@@ -73,7 +73,7 @@ This course provides an in-depth exploration of reverse engineering and binary a
     * Debugging with `GDB`: breakpoints, watchpoints, and scripting with `Python`
     * Tracing system calls with `strace` and library calls with `ltrace`
     * Runtime memory inspection and modification
-    * Analyzing network behavior and `file` system interactions
+    * Analyzing network behavior and file system interactions
     * Snapshot and diff analysis techniques
     * Using `QEMU` for cross-architecture analysis
     * Combining static and dynamic analysis for comprehensive understanding
@@ -110,7 +110,7 @@ This course provides an in-depth exploration of reverse engineering and binary a
 <!-- chapter: firmware-analysis-and-ctf-challenges, duration: 5h -->
 * Firmware Analysis and CTF Challenges
     * Firmware acquisition: dumping and extraction techniques
-    * Firmware `file` system extraction and analysis
+    * Firmware file system extraction and analysis
     * Identifying embedded OS components and custom code
     * Hardware interface analysis basics
     * Emulating firmware for dynamic analysis

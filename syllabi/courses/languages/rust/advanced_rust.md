@@ -9,28 +9,28 @@ audience:
   - audiences:developers
 ---
 <!-- course: advanced_rust -->
-# Advanced `Rust`
+# Advanced Rust
 
 ## Description
-This course dwells on the more advanced aspects of `Rust` and is suitable for programmers who have at least a year of experience with `Rust`.
+This course dwells on the more advanced aspects of Rust and is suitable for programmers who have at least a year of experience with Rust.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-Experienced `Rust` developers looking to deepen their knowledge of advanced language features and patterns.
+Experienced Rust developers looking to deepen their knowledge of advanced language features and patterns.
 
 ## Prerequisites
-* Proficiency in `Rust` Fundamentals or equivalent experience
+* Proficiency in Rust Fundamentals or equivalent experience
 * Experience with systems-level programming
 * Intermediate-level programming experience
 
 ## Objectives
 * Master advanced ownership patterns, lifetimes, and smart pointers
-* Write asynchronous code using `async`/`await` and the `Rust` `async` ecosystem
+* Write asynchronous code using async/await and the Rust async ecosystem
 * Apply advanced trait and generic programming techniques
-* Optimize `Rust` code performance through profiling and benchmarking
-* Safely use unsafe blocks and FFI to interface with `C`/`C++` code
+* Optimize Rust code performance through profiling and benchmarking
+* Safely use unsafe blocks and FFI to interface with C/`C++` code
 
 ## Outline
 <!-- chapter: advanced-ownership, duration: 2h -->
@@ -41,10 +41,10 @@ Experienced `Rust` developers looking to deepen their knowledge of advanced lang
     * Advanced ownership patterns and techniques
 <!-- chapter: asynchronous-programming-with-async-await, duration: 2h -->
 * Asynchronous Programming with `Async`/`Await`
-    * Introduction to asynchronous programming in `Rust`
-    * Working with `async`/`await` syntax
-    * Composing futures and working with `async` libraries
-    * Exploring the `async` ecosystem and libraries
+    * Introduction to asynchronous programming in Rust
+    * Working with async/await syntax
+    * Composing futures and working with async libraries
+    * Exploring the async ecosystem and libraries
 <!-- chapter: traits-and-generics, duration: 2h -->
 * Traits and Generics
     * Advanced trait usage and associated types
@@ -63,17 +63,17 @@ Experienced `Rust` developers looking to deepen their knowledge of advanced lang
     * Advanced macro usage and metaprogramming
 <!-- chapter: performance-optimization, duration: 2h -->
 * Performance Optimization
-    * Profiling and benchmarking `Rust` code
+    * Profiling and benchmarking Rust code
     * Identifying performance bottlenecks
     * Optimization techniques: data structures, algorithms, and compiler flags
-    * Writing high-performance `Rust` code
+    * Writing high-performance Rust code
 <!-- chapter: ffi-foreign-function-interface, duration: 2h -->
 * FFI (Foreign Function Interface)
-    * Interfacing `Rust` with `C`/`C++` code
-    * Exposing `Rust` APIs to other languages
+    * Interfacing Rust with C/`C++` code
+    * Exposing Rust APIs to other languages
     * Handling data types and memory management in FFI
 <!-- chapter: unsafe-rust, duration: 2h -->
-* Unsafe `Rust`
+* Unsafe Rust
     * Understanding unsafe blocks and unsafe functions
     * Working with raw pointers and mutable aliasing
     * Safe abstractions around unsafe code
@@ -84,14 +84,14 @@ Experienced `Rust` developers looking to deepen their knowledge of advanced lang
     * Channels and message passing
     * Exploring advanced concurrency patterns
 <!-- chapter: web-development-with-rust, duration: 3h -->
-* Web Development with `Rust`
-    * Overview of web development in `Rust`
-    * Exploring `Rust` web frameworks: Rocket, Actix, Warp, etc.
+* Web Development with Rust
+    * Overview of web development in Rust
+    * Exploring Rust web frameworks: Rocket, Actix, Warp, etc.
     * Interacting with databases
     * Deployment options and considerations
 <!-- chapter: advanced-troubleshooting, duration: 2h -->
 * Advanced Troubleshooting
-    * Advanced techniques for debugging and resolving complex issues in `Rust` programs
+    * Advanced techniques for debugging and resolving complex issues in Rust programs
     * Profiling and optimizing performance in real-world scenarios
     * Strategies for handling edge cases and unusual behavior
 

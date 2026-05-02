@@ -29,7 +29,7 @@ This course introduces mutation testing, a powerful technique for evaluating the
 ## Prerequisites
 * `Solid` experience writing unit tests in `Java` or `Python` (or both)
 * Familiarity with code coverage metrics and their limitations
-* Experience with `Maven`/`Gradle` (for `Java` sections) or `pip`/`pytest` (for `Python` sections)
+* Experience with `Maven`/`Gradle` (for `Java` sections) or pip/`pytest` (for `Python` sections)
 
 ## Objectives
 * Explain what mutation testing is and why line coverage alone is insufficient

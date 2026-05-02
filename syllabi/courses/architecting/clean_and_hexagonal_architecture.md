@@ -15,7 +15,7 @@ audience:
 # `Clean Architecture` and `Hexagonal Architecture`
 
 ## Description
-`Clean Architecture` and `Hexagonal Architecture` (also known as `Ports and Adapters`) are two closely related architectural patterns that promote the design of software systems where business logic is independent of frameworks, databases, user interfaces, and external services. This course explores the foundational principles behind both patterns, including the dependency rule, layer separation, ports and adapters, and the role of dependency injection in keeping the core domain decoupled from infrastructure concerns. Participants will learn to apply `SOLID` principles in the context of these architectures, implement each layer in a real application, and write highly testable code. The course also examines how `Clean` and `Hexagonal Architecture` compare with layered, onion, and other common patterns.
+`Clean Architecture` and `Hexagonal Architecture` (also known as `Ports and Adapters`) are two closely related architectural patterns that promote the design of software systems where business logic is independent of frameworks, databases, user interfaces, and external services. This course explores the foundational principles behind both patterns, including the dependency rule, layer separation, ports and adapters, and the role of dependency injection in keeping the core domain decoupled from infrastructure concerns. Participants will learn to apply `SOLID` principles in the context of these architectures, implement each layer in a real application, and write highly testable code. The course also examines how Clean and `Hexagonal Architecture` compare with layered, onion, and other common patterns.
 
 ## Duration
 16 hours / 2 days
@@ -45,13 +45,13 @@ audience:
 * Implement ports and adapters to decouple business logic from external systems
 * Use dependency injection to wire application layers without coupling
 * Write comprehensive unit and integration tests for each architectural layer
-* Evaluate the trade-offs of `Clean` and `Hexagonal Architecture` vs alternative patterns
+* Evaluate the trade-offs of Clean and `Hexagonal Architecture` vs alternative patterns
 * Refactor existing code toward a cleaner, more maintainable architectural structure
 
 ## Outline
 <!-- chapter: introduction-to-clean-architecture, duration: 2h -->
 * Introduction to `Clean Architecture`
-    * The origins and goals of `Clean Architecture` (Robert `C`. Martin)
+    * The origins and goals of `Clean Architecture` (Robert C. Martin)
     * Problems that `Clean Architecture` solves: framework lock-in, untestability, rigidity
     * The concentric circles model: entities, use cases, interface adapters, frameworks
     * The dependency rule: source code dependencies must point inward
@@ -103,7 +103,7 @@ audience:
 * Dependency Injection in Practice
     * Dependency injection as the mechanism for wiring layers together
     * Constructor injection vs property injection vs method injection
-    * `DI` containers and frameworks: `Spring`, `Guice`, `Autofac`, `FastAPI Depends`
+    * `DI` containers and frameworks: Spring, `Guice`, `Autofac`, `FastAPI Depends`
     * Composition root: where to wire the application together
     * Managing object lifecycles: singleton, scoped, transient
     * Avoiding the service locator anti-pattern
@@ -120,13 +120,13 @@ audience:
     * Contract testing for ports: ensuring adapters honor port contracts
     * Refactoring toward testability using the dependency rule
 <!-- chapter: comparing-clean-and-hexagonal-with-other-patterns, duration: 2h -->
-* Comparing `Clean` and `Hexagonal` with Other Patterns
+* Comparing Clean and `Hexagonal` with Other Patterns
     * Revisiting layered (N-tier) architecture: strengths and weaknesses
     * Onion architecture: similarities and differences with `Clean Architecture`
     * `CQRS` and `Event Sourcing` alongside `Clean Architecture`
     * `Domain-Driven Design` and its relationship to `Clean Architecture`
     * `Microservices` architecture and applying `Clean Architecture` within services
-    * `When` `Clean` or `Hexagonal Architecture` is the right choice
+    * `When` Clean or `Hexagonal Architecture` is the right choice
     * Incremental migration strategies for existing codebases
     * Governance and team adoption: enforcing architectural boundaries at scale
 

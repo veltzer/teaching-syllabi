@@ -28,7 +28,7 @@ the focused complement to the broader `LLM` Application Engineering course. It c
 (reference-based, reference-free, pairwise, rubric-driven, agent-trajectory), the construction of golden
 datasets and adversarial sets, `LLM`-as-judge methodology and its calibration, the major public benchmarks
 and their limits, regression detection in production, eval-driven development for prompts and models, and
-the eval frameworks (`OpenAI Evals`, `Promptfoo`, `Langfuse`, `Braintrust`, `Inspect`, custom). Participants
+the eval frameworks (`OpenAI Evals`, Promptfoo, Langfuse, Braintrust, `Inspect`, custom). Participants
 leave able to design eval suites that catch regressions, defend prompt and model changes with data, and avoid
 the eval traps that have produced misleading public benchmark results.
 
@@ -112,7 +112,7 @@ the eval traps that have produced misleading public benchmark results.
     * the cost of judging at scale
 <!-- chapter: human-evaluation, duration: 2h -->
 * Human evaluation
-    * `when` human eval is non-negotiable
+    * when human eval is non-negotiable
     * inter-annotator agreement
     * the rubric as the unit of human eval
     * crowd-sourced vs in-house raters
@@ -137,7 +137,7 @@ the eval traps that have produced misleading public benchmark results.
 <!-- chapter: public-benchmarks-and-their-limits, duration: 3h -->
 * Public benchmarks and their limits
     * `MMLU`, `MMLU-Pro`, `GPQA`
-    * `HumanEval`, `MBPP`, `LiveCodeBench`
+    * `HumanEval`, MBPP, `LiveCodeBench`
     * `MT-Bench`, `Arena-Hard`, `Chatbot Arena`
     * `IFEval` and instruction-following
     * `BIG-Bench`, `BBH`
@@ -147,7 +147,7 @@ the eval traps that have produced misleading public benchmark results.
 <!-- chapter: building-an-eval-harness, duration: 3h -->
 * Building an eval harness
     * the harness as a first-class engineering artifact
-    * eval frameworks: `OpenAI Evals`, `Promptfoo`, `Langfuse`, `Braintrust`, `Inspect`
+    * eval frameworks: `OpenAI Evals`, Promptfoo, Langfuse, Braintrust, `Inspect`
     * custom harnesses with `pytest` and similar
     * deterministic seeding and reproducibility
     * cost control in the harness

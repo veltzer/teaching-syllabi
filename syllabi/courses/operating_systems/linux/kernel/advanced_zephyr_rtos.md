@@ -12,38 +12,38 @@ audience:
   - audiences:firmware-developers
 ---
 <!-- course: advanced_zephyr_rtos -->
-# Advanced `Zephyr` RTOS
+# Advanced Zephyr RTOS
 
 ## Description
-This advanced course takes participants beyond the basics of `Zephyr` RTOS into its more sophisticated subsystems and workflows. Topics include the device driver model, power management, `Bluetooth` stack (BLE and Mesh), sensor subsystem, networking protocols (`LwM2M`, `CoAP`, `MQTT`), custom board porting, and establishing `CI/CD` pipelines for `Zephyr` projects. The course is designed for engineers who already have introductory `Zephyr` experience and want to build production-grade firmware.
+This advanced course takes participants beyond the basics of Zephyr RTOS into its more sophisticated subsystems and workflows. Topics include the device driver model, power management, `Bluetooth` stack (BLE and Mesh), sensor subsystem, networking protocols (`LwM2M`, `CoAP`, `MQTT`), custom board porting, and establishing `CI/CD` pipelines for Zephyr projects. The course is designed for engineers who already have introductory Zephyr experience and want to build production-grade firmware.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* Embedded engineers developing production firmware on `Zephyr`.
-* Firmware developers extending `Zephyr` with custom drivers and board support packages.
+* Embedded engineers developing production firmware on Zephyr.
+* Firmware developers extending Zephyr with custom drivers and board support packages.
 
 ## Prerequisites
 * Experience with real-time and embedded systems concepts.
 * Familiarity with build systems and version control.
 
 ## Required Knowledge
-* `Zephyr` RTOS (intro)
-* `C` Programming
+* Zephyr RTOS (intro)
+* C Programming
 
 ## Objectives
-* Develop custom device drivers using the `Zephyr` driver model.
-* Configure and optimize `Zephyr` power management for battery-powered devices.
+* Develop custom device drivers using the Zephyr driver model.
+* Configure and optimize Zephyr power management for battery-powered devices.
 * Implement `Bluetooth` Low Energy and `Bluetooth` Mesh applications.
-* Integrate sensors using the `Zephyr` sensor subsystem.
-* Port `Zephyr` to custom hardware boards.
+* Integrate sensors using the Zephyr sensor subsystem.
+* Port Zephyr to custom hardware boards.
 * Build networked IoT applications using `LwM2M`, `CoAP`, and `MQTT`.
-* Set up `CI/CD` pipelines for `Zephyr` firmware projects.
+* Set up `CI/CD` pipelines for Zephyr firmware projects.
 
 ## Outline
 <!-- chapter: zephyr-device-driver-model, duration: 2h -->
-* `Zephyr` Device Driver Model
+* Zephyr Device Driver Model
     * Driver architecture and lifecycle
     * Writing custom drivers
     * Devicetree bindings and overlays
@@ -58,7 +58,7 @@ This advanced course takes participants beyond the basics of `Zephyr` RTOS into 
     * Battery life optimization strategies
 <!-- chapter: bluetooth-stack, duration: 3h -->
 * `Bluetooth` Stack
-    * `Bluetooth` Low Energy (BLE) architecture in `Zephyr`
+    * `Bluetooth` Low Energy (BLE) architecture in Zephyr
     * GATT services and characteristics
     * BLE advertising and scanning
     * `Bluetooth` Mesh networking
@@ -74,7 +74,7 @@ This advanced course takes participants beyond the basics of `Zephyr` RTOS into 
 * Flash Storage
     * Flash area `API`
     * NVS (Non-Volatile Storage)
-    * LittleFS and FAT `file` systems
+    * LittleFS and FAT file systems
     * Flash partitioning and management
     * Firmware update storage strategies
 <!-- chapter: custom-board-porting, duration: 2h -->
@@ -85,7 +85,7 @@ This advanced course takes participants beyond the basics of `Zephyr` RTOS into 
     * Pin multiplexing and configuration
     * Validation and testing of custom ports
 <!-- chapter: zephyr-networking, duration: 3h -->
-* `Zephyr` Networking
+* Zephyr Networking
     * Network stack architecture
     * `LwM2M` client implementation
     * `CoAP` server and client
@@ -94,8 +94,8 @@ This advanced course takes participants beyond the basics of `Zephyr` RTOS into 
     * Socket `API` and BSD sockets
 <!-- chapter: posix-compatibility-layer, duration: 2h -->
 * `POSIX` Compatibility Layer
-    * `POSIX` `API` support in `Zephyr`
-    * Porting `POSIX` applications to `Zephyr`
+    * `POSIX` `API` support in Zephyr
+    * Porting `POSIX` applications to Zephyr
     * Limitations and differences
     * pthreads and synchronization primitives
 <!-- chapter: testing-framework, duration: 3h -->
@@ -106,7 +106,7 @@ This advanced course takes participants beyond the basics of `Zephyr` RTOS into 
     * Test suites and test automation
     * Twister test runner
 <!-- chapter: ci-cd-for-zephyr-projects, duration: 3h -->
-* `CI/CD` for `Zephyr` Projects
+* `CI/CD` for Zephyr Projects
     * Build system integration (west, `CMake`)
     * Automated builds with `GitHub Actions` and `GitLab CI`
     * Hardware-in-the-loop testing

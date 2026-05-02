@@ -14,7 +14,7 @@ audience:
 # Network Penetration Testing
 
 ## Description
-Network penetration testing is the practice of systematically probing an organization's network infrastructure to discover and exploit vulnerabilities before malicious actors do. This intensive course covers the full penetration testing lifecycle from scoping and reconnaissance through exploitation, post-exploitation, and professional report writing, using the same tools and techniques employed by professional red teams. Participants will gain practical skills with industry-standard tools including `Metasploit`, `Nmap`, `Nessus`, `Wireshark`, and `Aircrack-ng`, working through realistic lab scenarios that mirror real-world network environments. The course places equal emphasis on technical execution and the legal, ethical, and methodological rigor required of professional penetration testers.
+Network penetration testing is the practice of systematically probing an organization's network infrastructure to discover and exploit vulnerabilities before malicious actors do. This intensive course covers the full penetration testing lifecycle from scoping and reconnaissance through exploitation, post-exploitation, and professional report writing, using the same tools and techniques employed by professional red teams. Participants will gain practical skills with industry-standard tools including `Metasploit`, Nmap, `Nessus`, Wireshark, and `Aircrack-ng`, working through realistic lab scenarios that mirror real-world network environments. The course places equal emphasis on technical execution and the legal, ethical, and methodological rigor required of professional penetration testers.
 
 ## Duration
 32 hours / 4 days
@@ -25,10 +25,10 @@ Network penetration testing is the practice of systematically probing an organiz
 * Red team members expanding their network exploitation skill set
 
 ## Prerequisites
-* Strong `Linux` command-line proficiency (`file` system, networking, process management)
-* `Solid` understanding of networking protocols (`TCP`/`IP`, `UDP`, `ICMP`, `ARP`, `DNS`, `HTTP`, `SMB`)
+* Strong `Linux` command-line proficiency (file system, networking, process management)
+* `Solid` understanding of networking protocols (```TCP``/``IP```, `UDP`, `ICMP`, `ARP`, `DNS`, `HTTP`, `SMB`)
 * Familiarity with `Windows` `Active Directory` concepts (domains, users, group policy)
-* Basic scripting skills (`Bash`, `Python`, or `PowerShell`)
+* Basic scripting skills (Bash, `Python`, or `PowerShell`)
 * Understanding of common network services and their ports
 * Prior exposure to security concepts (e.g., `CompTIA Security+` level knowledge)
 * Access to a dedicated lab environment (provided or self-built with virtual machines)
@@ -62,7 +62,7 @@ Network penetration testing is the practice of systematically probing an organiz
 * Reconnaissance and `OSINT`
     * Passive vs active reconnaissance: risks and use cases
     * `OSINT` framework: sources, tools, and structured intelligence gathering
-    * `DNS` reconnaissance: `dig`, `nslookup`, `dnsrecon`, zone transfers
+    * `DNS` reconnaissance: dig, `nslookup`, `dnsrecon`, zone transfers
     * `WHOIS`, `ARIN`, and network ownership investigation
     * `Shodan`, `Censys`, and `Fofa` for internet-facing asset discovery
     * `Google` dorking and advanced search operators
@@ -72,14 +72,14 @@ Network penetration testing is the practice of systematically probing an organiz
 
 <!-- chapter: network-scanning-and-enumeration, duration: 3h -->
 * Network Scanning and Enumeration
-    * Host discovery: `ARP` scanning, `ICMP` probing, and `TCP`/`UDP` `ping` sweeps with `Nmap`
-    * `Nmap` port scanning techniques: `SYN`, `TCP`, `UDP`, `FIN`, `XMAS`, and `NULL` scans
+    * Host discovery: `ARP` scanning, `ICMP` probing, and `TCP`/`UDP` ping sweeps with `Nmap`
+    * `Nmap` port scanning techniques: SYN, `TCP`, `UDP`, FIN, XMAS, and `NULL` scans
     * Service version detection and `OS` fingerprinting with `Nmap`
     * `NSE` (`Nmap` Scripting Engine): enumeration and vulnerability detection scripts
-    * `SMB` enumeration: `enum4linux`, `smbclient`, `CrackMapExec`
+    * `SMB` enumeration: enum4linux, smbclient, `CrackMapExec`
     * `SNMP` enumeration and community string exploitation
-    * `LDAP` and `Active Directory` enumeration with `ldapsearch` and `BloodHound`
-    * `NFS`, `FTP`, `SSH`, `RDP`, and `VNC` service enumeration
+    * `LDAP` and `Active Directory` enumeration with ldapsearch and `BloodHound`
+    * `NFS`, `FTP`, `SSH`, RDP, and `VNC` service enumeration
     * Building a network topology map from scan results
 
 <!-- chapter: vulnerability-scanning-with-nessus-and-openvas, duration: 2h -->
@@ -96,34 +96,34 @@ Network penetration testing is the practice of systematically probing an organiz
 * Exploitation Frameworks — `Metasploit`
     * `Metasploit Framework` architecture: exploits, payloads, encoders, and auxiliaries
     * `Metasploit` console (`msfconsole`) navigation and workflow
-    * Selecting and configuring exploits: `RHOSTS`, `LHOST`, `LPORT`, and payload options
+    * Selecting and configuring exploits: `RHOSTS`, LHOST, `LPORT`, and payload options
     * Staged vs stageless payloads: `meterpreter` and shell payloads
     * Exploiting `Windows` vulnerabilities: `EternalBlue` (`MS17-010`), `PrintNightmare`
     * Exploiting `Linux` services: vulnerable `SSH`, `Samba`, web application exploits
-    * `Meterpreter` post-exploitation commands: `file` system, process, network
+    * `Meterpreter` post-exploitation commands: file system, process, network
     * `MSFvenom` for custom payload generation and encoding
     * Automating exploitation workflows with `resource scripts`
 
 <!-- chapter: password-attacks-and-credential-theft, duration: 3h -->
 * Password Attacks and Credential Theft
     * Password attack taxonomy: online vs offline, brute force, dictionary, rule-based
-    * Wordlist generation with `CeWL`, `crunch`, and `SecLists`
+    * Wordlist generation with `CeWL`, crunch, and `SecLists`
     * `Hashcat` `GPU`-accelerated cracking: hash identification, attack modes, rules
     * `John the Ripper` for diverse hash formats and rule application
     * Credential stuffing and password spraying to avoid account lockout
-    * `Windows` credential extraction: `Mimikatz`, `secretsdump`, `lsass` dumping
+    * `Windows` credential extraction: `Mimikatz`, secretsdump, `lsass` dumping
     * Pass-the-hash and pass-the-ticket attacks in `Windows` environments
-    * `Responder` for `LLMNR`/`NBT-NS` poisoning and `NTLMv2` hash capture
+    * Responder for `LLMNR`/`NBT-NS` poisoning and `NTLMv2` hash capture
 
 <!-- chapter: man-in-the-middle-attacks, duration: 2h -->
 * Man-in-the-Middle Attacks
-    * `ARP` cache poisoning fundamentals and `ARP` spoofing with `arpspoof` and `Ettercap`
-    * `Bettercap` for modern `MITM` attacks, `HTTP`/`HTTPS` interception
+    * `ARP` cache poisoning fundamentals and `ARP` spoofing with arpspoof and `Ettercap`
+    * `Bettercap` for modern MITM attacks, `HTTP`/`HTTPS` interception
     * `SSL` stripping attacks against `HSTS`-unprotected sites
     * `DNS` spoofing and `DNS` cache poisoning
     * Capturing and analyzing intercepted traffic with `Wireshark`
     * Attacking `IPv6` networks: `SLAAC` abuse and `Router Advertisement` spoofing
-    * Mitigations: `DNSSEC`, `HSTS`, `DAI` (Dynamic `ARP` Inspection), port security
+    * Mitigations: `DNSSEC`, `HSTS`, DAI (Dynamic `ARP` Inspection), port security
 
 <!-- chapter: wireless-network-attacks, duration: 3h -->
 * Wireless Network Attacks
@@ -142,16 +142,16 @@ Network penetration testing is the practice of systematically probing an organiz
     * Why pivoting matters: reaching segmented internal networks
     * `SSH` tunneling: local, remote, and dynamic port forwarding
     * `Metasploit` route pivoting and the `autoroute` module
-    * `SOCKS` proxies with `proxychains` and `chisel`
+    * `SOCKS` proxies with proxychains and `chisel`
     * `Ligolo-ng` for advanced tunnel management
-    * Lateral movement techniques: `PsExec`, `WMI`, `RDP`, `SMB` shares
+    * Lateral movement techniques: `PsExec`, WMI, RDP, `SMB` shares
     * `BloodHound` and `SharpHound` for `Active Directory` attack path analysis
     * Kerberoasting and `AS-REP` roasting for service account credential theft
 
 <!-- chapter: post-exploitation-and-persistence, duration: 3h -->
 * Post-Exploitation and Persistence
     * Post-exploitation goals: data exfiltration, persistence, privilege escalation
-    * Local privilege escalation on `Linux`: `SUID`/`SGID` binaries, `sudo` misconfigurations, kernel exploits
+    * Local privilege escalation on `Linux`: SUID/SGID binaries, `sudo` misconfigurations, kernel exploits
     * Local privilege escalation on `Windows`: token impersonation, unquoted service paths
     * Establishing persistence: registry run keys, scheduled tasks, `cron` jobs, `systemd` services
     * `Meterpreter` persistence modules and encrypted staging

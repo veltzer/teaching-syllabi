@@ -14,7 +14,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: aws_security -->
-<!-- Track gaps: `AWS` Organization and Landing Zone, interfacing other identity systems, `AWS` SSO (Identity Center) deep dive -->
+<!-- Track gaps: AWS Organization and Landing Zone, interfacing other identity systems, AWS SSO (Identity Center) deep dive -->
 # `AWS` Security
 
 ## Description
@@ -56,7 +56,7 @@ This course provides a comprehensive deep dive into securing workloads on `AWS`.
     * Configuring CloudTrail for multi-region and multi-account
     * Log integrity validation
     * Integration with `CloudWatch Logs`
-    * Querying trails with `Athena`
+    * Querying trails with Athena
     * `VPC` Flow Logs and `S3` access logs
 <!-- chapter: threat-detection-with-amazon-guardduty, duration: 3h -->
 * Threat Detection with `Amazon GuardDuty`

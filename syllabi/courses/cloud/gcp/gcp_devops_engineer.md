@@ -81,7 +81,7 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
     * Config Connector for `Kubernetes`-native `GCP` resources
     * Cloud Foundation Toolkit and blueprints
     * `GitOps` patterns for infrastructure
-    * `Helm` and `Kustomize` for `Kubernetes` configuration
+    * Helm and `Kustomize` for `Kubernetes` configuration
 <!-- chapter: container-operations, duration: 3h -->
 * Container Operations
     * `GKE` cluster management: Autopilot and Standard
@@ -112,7 +112,7 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
     * Alert policies: threshold, absence, and SLO-based
     * Notification channels and escalation
     * Playbooks and incident documentation
-    * `Gemini` Cloud Assist for log analysis
+    * Gemini Cloud Assist for log analysis
     * Integration with `PagerDuty` and third-party tools
 <!-- chapter: security-in-devops, duration: 3h -->
 * Security in `DevOps`

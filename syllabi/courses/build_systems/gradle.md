@@ -12,7 +12,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: gradle -->
-<!-- Track gaps: `Groovy` basics introduction, IDE integration, `Gradle` Wrapper details, multi-project builds detail -->
+<!-- Track gaps: Groovy basics introduction, IDE integration, Gradle Wrapper details, multi-project builds detail -->
 # `Gradle`
 
 ## Description
@@ -25,7 +25,7 @@ languages, testing them and deploying.
 ## Intended Audience
 * `DevOps` people who wish to install, configure and control the building and testing of software.
 * Developers who wish to build complex pieces of software and to customize the build and test phases.
-* `Scrum` masters who would like to integrate new features into their production pipelines.
+* Scrum masters who would like to integrate new features into their production pipelines.
 * Anyone with some programming experience in the software industry.
 
 ## Prerequisites
@@ -33,7 +33,7 @@ This course will involve hands on programming and fiddling so participants eithe
 or one who are capable of programming at a non advanced level at a minimum.
 
 ## Objectives
-* Learn the basics of `Groovy` programming
+* Learn the basics of Groovy programming
 * Understand the challenges of build processes
 * Use `Gradle` with the standard conventions
 * Map to alternative project layouts
@@ -49,7 +49,7 @@ or one who are capable of programming at a non advanced level at a minimum.
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: groovy-basics, duration: 1h -->
-* `Groovy` basics
+* Groovy basics
 <!-- chapter: installing, duration: 1h -->
 * Installing
 <!-- chapter: tour, duration: 1h -->
@@ -57,7 +57,7 @@ or one who are capable of programming at a non advanced level at a minimum.
 <!-- chapter: gradle-and-java, duration: 1h -->
 * `Gradle` and `Java`
 <!-- chapter: gradle-and-groovy, duration: 1h -->
-* `Gradle` and `Groovy`
+* `Gradle` and Groovy
 <!-- chapter: writing-tasks, duration: 1h -->
 * Writing Tasks
 <!-- chapter: incremental-builds, duration: 1h -->

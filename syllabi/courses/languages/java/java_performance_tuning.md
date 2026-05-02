@@ -79,7 +79,7 @@ JIT compilation internals, and rigorous benchmarking methodologies.
 <!-- chapter: profiling-tools, duration: 2h -->
 * Profiling Tools
     * `Java` Flight Recorder (JFR)
-    * `async`-profiler
+    * async-profiler
     * VisualVM
     * JDK Mission Control
     * Sampling vs instrumentation profiling

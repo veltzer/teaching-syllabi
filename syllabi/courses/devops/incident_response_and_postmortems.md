@@ -26,7 +26,7 @@ deep treatment of incident response as a learnable engineering discipline.
 The course covers the full incident lifecycle: detection, declaration, command structure, mitigation, communication
 to internal and external stakeholders, postmortem authorship and review, and the action-item discipline that turns
 incidents into lasting improvements. It is grounded in the practices of organizations that operate at scale
-(`Google` `SRE`, `PagerDuty`, `Atlassian`, `Honeycomb`) but is applicable to teams of any size. Participants leave
+(`Google` SRE, `PagerDuty`, Atlassian, `Honeycomb`) but is applicable to teams of any size. Participants leave
 able to be on-call effectively, run an incident as commander, write a postmortem worth reading, and build the
 program-level practices that prevent the same incident from happening again.
 
@@ -42,7 +42,7 @@ program-level practices that prevent the same incident from happening again.
 
 ## Prerequisites
 * on-call experience in production, or imminent on-call rotation
-* basic familiarity with at least one observability stack (`Prometheus`, `Datadog`, `New Relic`)
+* basic familiarity with at least one observability stack (`Prometheus`, `Datadog`, New Relic)
 * working knowledge of at least one production system you operate
 
 ## Objectives
@@ -93,11 +93,11 @@ program-level practices that prevent the same incident from happening again.
     * external updates: status page, customer comms, regulator notification
     * tone and content of incident messages
     * the cadence of updates
-    * what to say `when` you do not know what is happening
+    * what to say when you do not know what is happening
     * the language of "we are investigating"
 <!-- chapter: tools-of-the-incident-room, duration: 2h -->
 * Tools of the incident room
-    * `PagerDuty`, `OpsGenie`, `Splunk On-Call`, `incident.io`, `FireHydrant`
+    * `PagerDuty`, OpsGenie, `Splunk On-Call`, `incident.io`, `FireHydrant`
     * dedicated incident channels and bots
     * runbook tooling
     * status page systems
@@ -149,18 +149,18 @@ program-level practices that prevent the same incident from happening again.
     * sizing and prioritizing action items
     * tracking completion across teams
     * detecting recurrent themes across postmortems
-    * `when` an action item should become a project
+    * when an action item should become a project
 <!-- chapter: psychological-safety-and-blameless-culture, duration: 2h -->
 * Psychological safety and blameless culture
     * blame as the enemy of learning
     * the new view vs the old view of human error
     * how to talk about an engineer's mistake without naming them
     * leaders' role in modeling blamelessness
-    * detecting `when` blame is creeping back in
+    * detecting when blame is creeping back in
 <!-- chapter: severity-slos-and-error-budgets, duration: 2h -->
 * Severity, `SLOs` and error budgets
     * defining severity levels operationally
-    * `SLI`/`SLO`/`SLA` distinctions
+    * `SLI`/SLO/`SLA` distinctions
     * error budgets as a tool for tradeoffs
     * burn-rate alerting
     * communicating budget exhaustion to product
@@ -176,7 +176,7 @@ program-level practices that prevent the same incident from happening again.
 * Workshop and wrap up
     * tabletop exercise: simulated incident from declaration to postmortem
     * group review of a real postmortem
-    * recommended reading: `Google` `SRE` books, `Kepner-Tregoe`, `STELLA Report`
+    * recommended reading: `Google` SRE books, `Kepner-Tregoe`, `STELLA Report`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

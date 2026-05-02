@@ -17,7 +17,7 @@ audience:
 
 ## Description
 This course provides a comprehensive overview of multi-cloud strategies, helping architects
-and managers `make` informed decisions about `when` and how to operate across multiple cloud
+and managers `make` informed decisions about when and how to operate across multiple cloud
 providers. The course covers service mapping across `AWS`, `Azure`, and `GCP`, abstraction
 layers and tooling, networking, identity federation, compliance, cost management, and
 organizational considerations. Participants will learn to evaluate trade-offs and develop

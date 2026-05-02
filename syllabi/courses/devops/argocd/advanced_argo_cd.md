@@ -35,13 +35,13 @@ running `Argo CD` at scale.
 ## Prerequisites
 * Working experience with `Argo CD` (basic application creation and sync).
 * Strong understanding of `Kubernetes` (deployments, services, `RBAC`, CRDs).
-* Familiarity with `Helm` and/or `Kustomize`.
+* Familiarity with Helm and/or `Kustomize`.
 * Understanding of `Git` workflows and branching strategies.
 
 ## Required Knowledge
 * Introduction to `Kubernetes` (or equivalent experience)
 * Introduction to `Git` (or equivalent experience)
-* `Helm` (or equivalent experience)
+* Helm (or equivalent experience)
 
 ## Objectives
 * Design and implement advanced `Argo CD` deployment patterns.
@@ -81,7 +81,7 @@ running `Argo CD` at scale.
 <!-- chapter: app-of-apps-pattern, duration: 1h -->
 * App of Apps Pattern
     * Pattern overview and use cases
-    * `Bootstrap` application structure
+    * Bootstrap application structure
     * Managing application lifecycle
     * Dependency management between apps
     * Organizing repositories for App of Apps
@@ -96,7 +96,7 @@ running `Argo CD` at scale.
 * Custom Health Checks
     * Built-in health assessments
     * Writing custom `Lua` health checks
-    * Health `check` for CRDs
+    * Health check for CRDs
     * Degraded vs progressing vs healthy states
 <!-- chapter: config-management-plugins, duration: 1h -->
 * Config Management Plugins
@@ -105,12 +105,12 @@ running `Argo CD` at scale.
     * Plugin discovery and configuration
     * Use cases for custom plugins
 <!-- chapter: argo-cd-with-helm-and-kustomize, duration: 1h -->
-* `Argo CD` with `Helm` and `Kustomize`
-    * `Helm` value files and overrides
-    * `Helm` hooks vs `Argo CD` hooks
+* `Argo CD` with Helm and `Kustomize`
+    * Helm value files and overrides
+    * Helm hooks vs `Argo CD` hooks
     * `Kustomize` overlays and patches
-    * Combining `Helm` with `Kustomize`
-    * Managing `Helm` chart repositories
+    * Combining Helm with `Kustomize`
+    * Managing Helm chart repositories
 <!-- chapter: image-updater, duration: 1h -->
 * Image Updater
     * `Argo CD` Image Updater architecture
@@ -122,7 +122,7 @@ running `Argo CD` at scale.
 * Notifications Engine
     * Notification architecture
     * Configuring triggers and templates
-    * `Slack`, email, and webhook integrations
+    * Slack, email, and webhook integrations
     * Custom notification templates
     * Subscription management
 <!-- chapter: rbac-and-sso-integration, duration: 1h -->

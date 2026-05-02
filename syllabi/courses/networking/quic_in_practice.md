@@ -18,20 +18,20 @@ audience:
 
 ## Description
 The catalog has an `HTTP/2 and HTTP/3` course and a `TCP/IP Deep Dive` course. `QUIC` is the transport
-that `HTTP/3` runs on, and it is now the dominant transport for `Google`, `Meta`, `Cloudflare`, and a
+that `HTTP/3` runs on, and it is now the dominant transport for Google, Meta, `Cloudflare`, and a
 growing share of mobile and `CDN` traffic. It deserves its own course because the `HTTP/3` material does
 not cover `QUIC`'s engineering reality: the multiplexing model that fixes head-of-line blocking, the
 connection migration story, the `0-RTT` security trade-off, the operational implications of `UDP` as
 the substrate, the middlebox problem, the load balancer problem, and the things that actually `go` wrong
-`when` you turn `QUIC` on.
+when you turn `QUIC` on.
 
 This two day course covers `QUIC` from the wire up to the operations team. It covers `RFC 9000` and the
 related `RFCs`, the connection establishment dance, the cryptography integration, the loss recovery
 algorithm, the congestion control choices, the streams model, connection migration, `0-RTT`, the
-unreliable-datagram extension, the implementations (`quiche`, `msquic`, `lsquic`, `quic-go`, `Quinn`),
+unreliable-datagram extension, the implementations (`quiche`, msquic, lsquic, `quic-go`, `Quinn`),
 the operational gotchas (`UDP` rate limits, packet inspection middleboxes, `MTU` issues, load
 balancing), and the cases where `QUIC` is the wrong choice. Participants leave able to deploy `QUIC` in
-production and debug it `when` it misbehaves.
+production and debug it when it misbehaves.
 
 ## Duration
 16 hours / 2 days
@@ -53,7 +53,7 @@ production and debug it `when` it misbehaves.
 * operate `QUIC` traffic in production
 * debug `QUIC` performance and connectivity issues
 * reason about the `0-RTT` security trade-off
-* recognize `when` to use `QUIC` and `when` not to
+* recognize when to use `QUIC` and when not to
 
 ## Outline
 <!-- chapter: why-quic-exists, duration: 1h -->
@@ -80,7 +80,7 @@ production and debug it `when` it misbehaves.
 <!-- chapter: loss-recovery-and-congestion-control, duration: 2h -->
 * Loss recovery and congestion control
     * `QUIC`'s ack-based loss detection
-    * `Reno`, `CUBIC`, `BBR` over `QUIC`
+    * `Reno`, CUBIC, BBR over `QUIC`
     * the no-ambiguous-retransmit advantage over `TCP`
     * tail-loss probes
     * the "congestion control kicked in too aggressively" failure
@@ -103,7 +103,7 @@ production and debug it `when` it misbehaves.
     * `quiche` (`Cloudflare`)
     * `msquic` (`Microsoft`)
     * `lsquic` (`LiteSpeed`)
-    * `quic-go`, `Quinn` (`Rust`)
+    * `quic-go`, `Quinn` (Rust)
     * `ngtcp2`
     * picking an implementation
 <!-- chapter: operating-quic, duration: 2h -->

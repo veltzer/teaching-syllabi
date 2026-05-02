@@ -105,7 +105,7 @@ This course provides a comprehensive overview of artificial intelligence and `ma
 * `Azure Bot Service`
     * Bot Framework `Composer`
     * Power Virtual Agents integration
-    * Channel integration (Teams, web chat, `Slack`)
+    * Channel integration (Teams, web chat, Slack)
     * Conversational `AI` `design patterns`
 <!-- chapter: azure-ai-document-intelligence, duration: 1h -->
 * `Azure AI Document Intelligence`

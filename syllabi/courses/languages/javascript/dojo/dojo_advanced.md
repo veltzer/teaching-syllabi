@@ -44,7 +44,7 @@ Web developers with basic Dojo experience who need to build advanced widget-base
     * custom widget - exercise
 <!-- chapter: data-handling-dojo-data-dojo-io, duration: 5h -->
 * data handling, dojo.data, dojo.io
-    * data stores- store types and `when` to use
+    * data stores- store types and when to use
     * `JSON` input to store, objects etc...
     * trees
     * tables
@@ -52,7 +52,7 @@ Web developers with basic Dojo experience who need to build advanced widget-base
 <!-- chapter: advanced-topics, duration: 14h -->
 * advanced topics
     * layouts - overview
-    * `require`, on
+    * require, on
     * wire
     * i18n in dojo
     * data binding

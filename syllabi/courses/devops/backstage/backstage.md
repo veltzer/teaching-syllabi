@@ -29,13 +29,13 @@ includes building custom plugins and deploying Backstage in production environme
 * platform engineers designing self-service developer platforms.
 
 ## Prerequisites
-* experience with `TypeScript` and `React`.
+* experience with `TypeScript` and React.
 * familiarity with `Node.js` and `npm`/`yarn`.
 * basic understanding of `Kubernetes` and `CI/CD` concepts.
 
 ## Required Knowledge
 * Introduction to `Kubernetes` (or equivalent experience)
-* `React` (or equivalent experience)
+* React (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
@@ -95,7 +95,7 @@ includes building custom plugins and deploying Backstage in production environme
 <!-- chapter: creating-custom-plugins, duration: 2h -->
 * Creating custom plugins
     * plugin development setup
-    * frontend plugins with `React`
+    * frontend plugins with React
     * backend plugins
     * plugin APIs and services
     * publishing and sharing plugins

@@ -23,7 +23,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 ## Intended Audience
 * `Java` developers building data-driven backend applications
 * `Spring Boot` developers who need to implement efficient data access layers
-* Software engineers working with relational databases in the `Spring` ecosystem
+* Software engineers working with relational databases in the Spring ecosystem
 * Backend developers looking to move beyond basic `JDBC` and manual `SQL`
 * Developers maintaining applications with complex query and data requirements
 
@@ -33,7 +33,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 * `Solid` understanding of relational databases and `SQL`
 * Basic familiarity with `JPA` and `ORM` concepts
 * Experience with build tools (`Maven` or `Gradle`)
-* Experience with an IDE such as `IntelliJ IDEA` or `Eclipse`
+* Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
 * Understand the `Spring Data` repository abstraction and its layered architecture
@@ -48,11 +48,11 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 <!-- chapter: introduction-to-spring-data-jpa, duration: 1h -->
 * Introduction to `Spring Data JPA`
     * Overview of the `Spring Data` project and module ecosystem
-    * `JPA` and `Hibernate` foundations in `Spring Boot`
+    * `JPA` and Hibernate foundations in `Spring Boot`
     * Entity mapping: annotations, relationships, and inheritance strategies
     * Auto-configuration and data source setup
     * Schema generation and initialization strategies
-    * `Spring Data JPA` vs. plain `JPA` and `Hibernate`
+    * `Spring Data JPA` vs. plain `JPA` and Hibernate
 <!-- chapter: repository-interfaces-and-query-methods, duration: 2h -->
 * Repository Interfaces and Query Methods
     * CrudRepository, JpaRepository, and PagingAndSortingRepository

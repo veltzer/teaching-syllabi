@@ -23,7 +23,7 @@ tune it, compile it, reduce it's size, provide board support for it, develop pla
 understand it's real time support and much more.
 
 This course is all about the `Linux` kernel but is focused on writing device drivers for the kernel as
-this is the first typical thing one learns `when` becoming a kernel developer.
+this is the first typical thing one learns when becoming a kernel developer.
 
 No kernel prior knowledge is required but knowledge of `Linux` user space `API` and programming tools is
 required.
@@ -36,7 +36,7 @@ required.
 * system programmers working on low-level software
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` system administration
 
 ## Objectives
@@ -67,7 +67,7 @@ required.
     * Useful settings for embedded systems
     * Compiling
     * Generated files
-    * `Make` commands for configuring, compiling or installing a kernel
+    * Make commands for configuring, compiling or installing a kernel
 <!-- chapter: booting, duration: 3h -->
 * Booting
     * `Linux` system booting overview
@@ -164,8 +164,8 @@ required.
     * Comparing with RT preempt patches
     * Real-time offerings from commercial `Linux` vendors: MontaVista, TimeSys, Wind River, LynuxWorks etc.
 <!-- chapter: c-library-and-cross-compiling-tool-chain, duration: 2h -->
-* `C` library and cross-compiling tool-chain
-    * Choosing the target `C` library
+* C library and cross-compiling tool-chain
+    * Choosing the target C library
     * Ready to use cross-compiling tool-chains
     * Building a cross-compiling tool-chain with automated tools
     * Installing cross-compiled libraries in the root filesystem
@@ -173,7 +173,7 @@ required.
 * Embedded system development tools
     * Commercial toolsets and distributions
     * Community toolsets (focus on `Buildroot` & `Scratchbox`)
-    * How to `find` existing Free Software for a particular need
+    * How to find existing Free Software for a particular need
 <!-- chapter: busybox, duration: 1h -->
 * `BusyBox`
     * Detailed Overview and features
@@ -187,11 +187,11 @@ required.
     * Text editors
     * Precompiled packages and distributions
 <!-- chapter: choosing-file-systems, duration: 2h -->
-* Choosing `file`-systems
+* Choosing file-systems
     * `File`-systems for block devices
     * Usefulness of journaled filesystems
-    * Read-only block `file`-systems
-    * `RAM` `file`-systems
+    * Read-only block file-systems
+    * `RAM` file-systems
     * `File`-systems for Memory Technology Devices (MTD)
     * Suggestions for embedded systems
 <!-- chapter: udev-and-hot-plugging, duration: 1h -->

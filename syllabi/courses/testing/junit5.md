@@ -36,7 +36,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 * Write clear tests using `JUnit Jupiter` annotations and lifecycle hooks
 * Use assertion and assumption APIs for precise, readable test conditions
 * Create parameterized tests from a variety of data sources
-* Extend `JUnit 5` behaviour with the `Extension` `API`
+* Extend `JUnit 5` behaviour with the Extension `API`
 * Control test execution order and enable conditional test execution
 * Mock dependencies with `Mockito` alongside `JUnit 5`
 * Design integration tests using common `Java` persistence and web patterns
@@ -48,7 +48,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
     * The three sub-projects: `JUnit Platform`, `JUnit Jupiter`, `JUnit Vintage`
     * Test engine and launcher concepts
     * Integrating `JUnit 5` with `Maven` and `Gradle`
-    * IDE support in `IntelliJ IDEA` and `Eclipse`
+    * IDE support in `IntelliJ IDEA` and Eclipse
     * Running tests from the command line with the `ConsoleLauncher`
     * Key differences from `JUnit 4`
 <!-- chapter: writing-tests-with-junit-jupiter, duration: 2h -->
@@ -66,7 +66,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
     * Exception testing with `assertThrows` and `assertDoesNotThrow`
     * Timeout assertions with `assertTimeout` and `assertTimeoutPreemptively`
     * Using third-party assertion libraries: `AssertJ` and `Hamcrest`
-    * Assumptions: `assumeTrue`, `assumeFalse`, `assumingThat`
+    * Assumptions: `assumeTrue`, assumeFalse, `assumingThat`
 <!-- chapter: parameterized-tests, duration: 2h -->
 * Parameterized Tests
     * Introduction to `@ParameterizedTest`
@@ -98,7 +98,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 * Mocking with `Mockito`
     * `Mockito` in the `JUnit 5` ecosystem: `MockitoExtension`
     * `@Mock`, `@InjectMocks`, and `@Spy` annotations
-    * Stubbing with `when`/`thenReturn` and `doReturn`/`when`
+    * Stubbing with when/`thenReturn` and `doReturn`/when
     * Argument matchers: `any()`, `eq()`, `argThat()`
     * Verifying interactions with `verify` and `verifyNoMoreInteractions`
     * Capturing arguments with `ArgumentCaptor`
@@ -109,7 +109,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
     * Distinguishing unit tests from integration tests
     * Testing persistence layers with `@DataJpaTest` and `Spring Boot Test`
     * In-memory databases vs containerised databases in tests
-    * Testing `REST` APIs with `MockMvc` and `WebTestClient`
+    * Testing `REST` APIs with MockMvc and `WebTestClient`
     * Transaction management in integration tests
     * Test slices and context caching in `Spring Boot`
     * Organising integration tests separately from unit tests

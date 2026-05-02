@@ -95,7 +95,7 @@ Hands-on labs using a local `MariaDB` server. Students will design and implement
     * Date and time types: DATE, DATETIME, TIMESTAMP, TIME
     * The `JSON` data type and `JSON` functions
     * Dynamic columns with BLOB-based storage
-    * `Temporal` tables for historical data tracking
+    * Temporal tables for historical data tracking
     * Spatial data types and functions
 
 <!-- chapter: stored-procedures-and-triggers, duration: 3h -->

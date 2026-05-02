@@ -40,12 +40,12 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
 * Basic knowledge of `Linux` security concepts and command-line usage
 * Understanding of networking fundamentals (`TCP`/`IP`, `DNS`, load balancing)
 * Experience with `YAML` and `Kubernetes` manifest files
-* Familiarity with `kubectl` and `Helm`
+* Familiarity with `kubectl` and Helm
 
 ## Required Knowledge
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
-* `Helm` (or equivalent experience)
+* Helm (or equivalent experience)
 
 ## Objectives
 * Implement and enforce `Pod Security Standards` across namespaces

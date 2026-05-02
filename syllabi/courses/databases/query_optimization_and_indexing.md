@@ -27,7 +27,7 @@ This five day course is a hands-on, engineer-facing treatment of query optimizat
 engines. It covers reading and reasoning about execution plans, the optimizer's cost model and statistics,
 indexing strategy from access patterns, query rewriting, partitioning, parameter sniffing and plan stability,
 and the operational discipline of finding and fixing slow queries in production. The course uses `PostgreSQL`,
-`MySQL` and `SQL Server` as worked examples and notes where `Oracle`, `MariaDB` and `CockroachDB` differ.
+`MySQL` and `SQL Server` as worked examples and notes where Oracle, `MariaDB` and `CockroachDB` differ.
 Participants leave able to diagnose and fix slow queries, design indexes that earn their cost, and build the
 discipline that keeps query performance predictable.
 
@@ -68,10 +68,10 @@ discipline that keeps query performance predictable.
     * `EXPLAIN` and `EXPLAIN ANALYZE` in `PostgreSQL`
     * `EXPLAIN` and `EXPLAIN FORMAT=JSON` in `MySQL`
     * `SET STATISTICS` and the actual plan in `SQL Server`
-    * plan visualizers: `explain.dalibo`, `pev`, `Plan Explorer`
+    * plan visualizers: `explain.dalibo`, pev, `Plan Explorer`
     * estimated vs actual rows and the divergence problem
     * common plan shapes: nested loop, hash join, sort merge
-    * reading the plan `top`-down and bottom-up
+    * reading the plan top-down and bottom-up
 <!-- chapter: indexes-the-foundation, duration: 4h -->
 * Indexes: the foundation
     * `B-tree` indexes in depth
@@ -85,7 +85,7 @@ discipline that keeps query performance predictable.
 <!-- chapter: index-types-beyond-b-tree, duration: 3h -->
 * Index types beyond `B-tree`
     * hash indexes
-    * `GIN` and `GiST` in `PostgreSQL`
+    * `GIN` and GiST in `PostgreSQL`
     * `BRIN` for time-series and append-only tables
     * full-text indexes
     * spatial indexes (`R-tree`, `R*`-tree)
@@ -114,7 +114,7 @@ discipline that keeps query performance predictable.
 * Query rewriting techniques
     * pushing predicates closer to scans
     * eliminating subqueries and `IN` lists
-    * `EXISTS` vs `IN` vs `JOIN`
+    * `EXISTS` vs IN vs `JOIN`
     * `UNION` vs `UNION ALL`
     * window functions vs self-joins
     * `CTE` materialization differences across engines
@@ -147,7 +147,7 @@ discipline that keeps query performance predictable.
     * plan caching strategies across engines
     * `OPTIMIZE FOR` hints
     * forced plans and plan baselines
-    * plan-management tools: `Query Store`, `pg_stat_statements`, `MySQL` `Performance Schema`
+    * plan-management tools: `Query Store`, pg_stat_statements, `MySQL` `Performance Schema`
 <!-- chapter: indexing-strategy-from-workloads, duration: 3h -->
 * Indexing strategy from workloads
     * starting from access patterns, not columns
@@ -159,14 +159,14 @@ discipline that keeps query performance predictable.
 <!-- chapter: locking-blocking-and-mvcc-effects-on-queries, duration: 2h -->
 * Locking, blocking and `MVCC` effects on queries
     * row-level vs page-level vs table-level locks
-    * `MVCC` bloat and `VACUUM` in `PostgreSQL`
+    * `MVCC` bloat and VACUUM in `PostgreSQL`
     * undo log growth in `MySQL`
     * blocking and chain-of-blocking queries
     * lock-wait timeouts and isolation-level surprises
 <!-- chapter: olap-vs-oltp-tuning, duration: 2h -->
 * `OLAP` vs `OLTP` tuning
     * the very different optimizer goals
-    * column stores: `ClickHouse`, `DuckDB`, `BigQuery`, `Snowflake`
+    * column stores: `ClickHouse`, `DuckDB`, `BigQuery`, Snowflake
     * partition pruning and clustering
     * vectorized execution
     * cross-reference to the Database Internals course
@@ -179,7 +179,7 @@ discipline that keeps query performance predictable.
     * post-incident permanent fixes
     * cross-reference to the Incident Response courses
     * group review of an `EXPLAIN ANALYZE` plan from a real query
-    * recommended reading: `Greene`, `Winand`, `PostgreSQL` and `MySQL` docs
+    * recommended reading: `Greene`, Winand, `PostgreSQL` and `MySQL` docs
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

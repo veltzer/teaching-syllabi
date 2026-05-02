@@ -32,7 +32,7 @@ The course will be code heavy using GoLang to tap into the various APIs to build
 * Some knowledge of `go` is required
 
 ## Required Knowledge
-* `Go` Programming (or equivalent experience)
+* Go Programming (or equivalent experience)
 
 ## Objectives
 * Design and deploy resilient applications.
@@ -91,7 +91,7 @@ The course will be code heavy using GoLang to tap into the various APIs to build
     * `Knative`
 
 ## References
-[advanced-`Kubernetes`](`https`://www.pluralsight.com/professional-services/it-ops/advanced-`Kubernetes`)
+[advanced-`Kubernetes`](https://www.pluralsight.com/professional-services/it-ops/advanced-`Kubernetes`)
 
 ## Installations
 Each student should have:
@@ -99,7 +99,7 @@ Each student should have:
 * 8 GB `RAM` for each machine because we are going to practice `Kubernetes` with `Minikube`. This requires some `RAM`.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software.
 * Username and password of a user that has `sudo` privileges on the machine.
-* [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
+* [`https`://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/`ubuntu`-2204/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

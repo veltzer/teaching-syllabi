@@ -105,7 +105,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
         * Convolution layers
         * Pooling layers
         * Activation functions
-        * Building a `CNN` from scratch
+        * Building a CNN from scratch
     * Transfer learning
         * Pre-trained model concepts
         * VGG architecture
@@ -229,7 +229,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
         * Object tracking algorithms (SORT, DeepSORT)
     * Video understanding
         * Action recognition
-        * `Temporal` modeling
+        * Temporal modeling
         * Video classification
 <!-- chapter: model-deployment, duration: 3h -->
 * Model Deployment
@@ -239,7 +239,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
         * Model quantization
         * TensorRT optimization
     * Serving infrastructure
-        * `REST` `API` serving (`Flask`, `FastAPI`)
+        * `REST` `API` serving (Flask, `FastAPI`)
         * Batch inference pipelines
         * Edge deployment considerations
     * Working with `PyTorch`

@@ -58,7 +58,7 @@ Professional Cloud Architect certification path.
     * Technical requirements: availability, scalability, latency, and compliance
     * `GCP` Well-Architected Framework
     * Cost optimization strategies: CapEx vs OpEx
-    * `Gemini` Cloud Assist for architecture guidance
+    * Gemini Cloud Assist for architecture guidance
 <!-- chapter: compute-architecture, duration: 4h -->
 * Compute Architecture
     * `Compute Engine`: machine types, Spot VMs, sole-tenant nodes
@@ -81,7 +81,7 @@ Professional Cloud Architect certification path.
 * Storage and Database Design
     * Storage selection by access pattern, volume, and performance
     * `Cloud Storage` for object storage and data lakes
-    * Block and `file` storage: Persistent Disk, Filestore, NetApp Volumes
+    * Block and file storage: Persistent Disk, Filestore, NetApp Volumes
     * Cloud `SQL`, `AlloyDB`, and `Cloud Spanner` for relational workloads
     * `Firestore` and Bigtable for `NoSQL` workloads
     * `BigQuery` for analytics and data warehousing
@@ -99,7 +99,7 @@ Professional Cloud Architect certification path.
     * Vertex `AI` for model training and serving
     * Pre-built `AI` `API`s: Vision, Language, Translation, Speech
     * `BigQuery` `ML` for in-database `machine learning`
-    * `Gemini` models and `AI` agents
+    * Gemini models and `AI` agents
     * `AI` Hypercomputer for large-scale training
 <!-- chapter: security-and-compliance, duration: 5h -->
 * Security and Compliance

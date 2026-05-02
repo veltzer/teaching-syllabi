@@ -20,15 +20,15 @@ audience:
 The Model Context Protocol (`MCP`), introduced by `Anthropic` in late 2024 and rapidly adopted, is the
 emerging standard for how `LLM` applications expose tools, resources, and prompts to model clients in a
 language-and-vendor-neutral way. Around it, a small ecosystem of related interop standards has grown
-(`OpenAI`'s tool-call and `Responses` `API`, `Google`'s `Agent2Agent` protocol, the `LangChain` and
+(`OpenAI`'s tool-call and Responses `API`, Google's Agent2Agent protocol, the `LangChain` and
 `LlamaIndex` adapters). The catalog covers `LLM Application Engineering`, `Agentic Systems
 Engineering`, and ``AI` Agents Development`. None of those is the focused course on the protocols that
-`let` agents and tools interoperate across vendors.
+let agents and tools interoperate across vendors.
 
 This two day course covers `MCP` and the broader agent-interop landscape from a developer's perspective.
 It covers the `MCP` architecture (host, client, server, transport), the resource/tool/prompt primitives,
-the security model, the canonical server implementations (`filesystem`, `Postgres`, `GitHub`, `Slack`),
-the canonical clients (`Claude` Desktop, `Claude` Code, `Cursor`, `VS Code`), the relationship to
+the security model, the canonical server implementations (`filesystem`, Postgres, `GitHub`, Slack),
+the canonical clients (Claude Desktop, `Claude Code`, Cursor, `VS Code`), the relationship to
 `OpenAI` `function-calling` and the `Responses API`, the `Agent2Agent` protocol for agent-to-agent
 communication, the practical question of building an `MCP` server, the practical question of building
 an `MCP` host, the security considerations (the `MCP` server has the trust of the client), and the
@@ -64,7 +64,7 @@ agent-interop choices.
 * What `MCP` actually is
     * the open-protocol idea
     * client, host, server, transport
-    * `JSON-RPC` over `stdio` or `HTTP`
+    * `JSON-RPC` over stdio or `HTTP`
     * cross-reference to the `LLM Application Engineering` course
     * who is using it and why
 <!-- chapter: the-mcp-primitives, duration: 2h -->
@@ -80,7 +80,7 @@ agent-interop choices.
     * the `mcp` `Python` `SDK`
     * declaring tools and resources
     * `stdio` vs `HTTP` transport
-    * testing the server with `Claude` Desktop
+    * testing the server with Claude Desktop
     * publishing the server
 <!-- chapter: building-an-mcp-server-typescript, duration: 2h -->
 * Building an `MCP` server in `TypeScript`
@@ -94,7 +94,7 @@ agent-interop choices.
     * the `filesystem` server
     * the `Postgres` server
     * the `GitHub` server
-    * the `Slack` server
+    * the Slack server
     * the open-source server registry
 <!-- chapter: integrating-mcp-into-a-host, duration: 2h -->
 * Integrating `MCP` into a host

@@ -24,7 +24,7 @@ audience:
 
 ## Intended Audience
 * `Python` developers building web APIs and `microservices`
-* Backend developers transitioning from `Flask`, `Django`, or other frameworks
+* Backend developers transitioning from Flask, `Django`, or other frameworks
 * Full-stack developers needing modern `API` development skills
 * `DevOps` engineers deploying `Python` web applications
 * Data scientists and `machine learning` engineers exposing models via APIs
@@ -35,7 +35,7 @@ audience:
 * Understanding of `HTTP` protocol and `REST API` concepts
 * Basic knowledge of `JSON` data format and web requests
 * Familiarity with `Python` `type-hints` and annotations
-* Experience with `Python` package management (`pip`, virtual environments)
+* Experience with `Python` package management (pip, virtual environments)
 * Basic understanding of databases and `SQL` queries
 * Command-line interface usage and basic terminal operations
 
@@ -49,7 +49,7 @@ audience:
 * Handle authentication and authorization using `JWT` tokens and `OAuth2`
 * Integrate databases using `SQLAlchemy` `ORM` and Alembic migrations
 * Implement dependency injection for `clean`, testable code architecture
-* Handle `file` uploads, downloads, and streaming responses
+* Handle file uploads, downloads, and streaming responses
 * Apply error handling, logging, and middleware for production-ready applications
 * Write comprehensive tests using `pytest` and `FastAPI` testing utilities
 * Deploy `FastAPI` applications using `Docker`, Uvicorn, and cloud platforms
@@ -58,7 +58,7 @@ audience:
 <!-- chapter: introduction-to-fastapi-and-modern-api-development, duration: 1h -->
 * Introduction to `FastAPI` and Modern `API` Development
     * Overview of `FastAPI` architecture and philosophy
-    * Comparison with `Flask`, `Django REST Framework`, and other `Python` frameworks
+    * Comparison with Flask, `Django REST Framework`, and other `Python` frameworks
     * Understanding ASGI vs WSGI and asynchronous programming benefits
     * Setting up development environment with `Python` virtual environments
     * Installing `FastAPI`, Uvicorn, and essential dependencies
@@ -128,7 +128,7 @@ audience:
     * Environment configuration and settings management
     * Logging configuration and structured logging
     * Error handling, exception handling, and custom error responses
-    * Performance monitoring and health `check` endpoints
+    * Performance monitoring and health check endpoints
     * `Docker` containerization and deployment strategies
     * Production deployment with Gunicorn, Uvicorn, and cloud platforms
 

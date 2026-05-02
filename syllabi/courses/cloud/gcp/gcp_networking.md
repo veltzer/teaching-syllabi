@@ -125,7 +125,7 @@ This course provides an in-depth exploration of networking services and architec
 * `Cloud Armor`
     * Web Application `Firewall` (`WAF`) rules
     * `DDoS` protection and adaptive protection
-    * Pre-configured `WAF` rules and `OWASP` `top` 10
+    * Pre-configured `WAF` rules and `OWASP` top 10
     * Rate limiting and bot management
     * Security policy configuration and tuning
 <!-- chapter: network-service-tiers, duration: 1h -->
@@ -137,7 +137,7 @@ This course provides an in-depth exploration of networking services and architec
 <!-- chapter: traffic-director-and-service-mesh, duration: 2h -->
 * `Traffic Director` and Service Mesh
     * `Traffic Director` architecture and concepts
-    * `Envoy` proxy integration
+    * Envoy proxy integration
     * Traffic management policies
     * Health checking and outlier detection
     * Service mesh with `Anthos Service Mesh`

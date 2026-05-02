@@ -93,7 +93,7 @@ Any of the following:
         * Amplitude
     * `Power BI` tools
         * Tableau
-        * `Oracle` BI
+        * Oracle BI
     * Power search/big data tools
         * Elastic search + `Kibana`
         * `Splunk`
@@ -113,7 +113,7 @@ Any of the following:
         * `Spark`
         * Data buckets
         * Data lakes
-        * Big data analytics (`Athena`)
+        * Big data analytics (Athena)
 <!-- chapter: extra-topics-for-ncr, duration: 2h -->
 * Extra topics for NCR
     * `GCP` tools for data analytics

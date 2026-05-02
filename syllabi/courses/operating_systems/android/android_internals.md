@@ -19,10 +19,10 @@ audience:
 
 ## Description
 `Android` provides a rich application framework that allows you to build innovative apps and games
-for mobile devices in a `Java` and native languages. We can also `find` `Android` OS on many embedded
+for mobile devices in a `Java` and native languages. We can also find `Android` OS on many embedded
 systems as a good replacement to Embedded `Linux`. Using `android` as an "improved `Linux`" saves time
 because you get all you need out of the box (libraries, packages, data services, etc.) This course covers
-the internal side of `android` from `top` to bottom. You will learn how to use `android` in an embedded
+the internal side of `android` from top to bottom. You will learn how to use `android` in an embedded
 environment, how to access hardware and handling interrupts all over the `android` stack, and how
 data flows from the `java` application down to the kernel driver and the hardware.
 
@@ -31,12 +31,12 @@ data flows from the `java` application down to the kernel driver and the hardwar
 
 ## Intended Audience
 * `Android` application developers (advanced or beginners) who want to learn about how their operating system works.
-* Advanced `C` and `C++` developers who would like to tinker with `Android` internals and possibly change them radically.
+* Advanced C and `C++` developers who would like to tinker with `Android` internals and possibly change them radically.
 * Security researches who want to learn more about how `Android` is built.
 * Embedded `Linux` developers who want to migrate to an embedded system on `Android`.
 
 ## Prerequisites
-* Delegates should have a working knowledge in `C`/`C++`/`Java`/`C#`. (At least one)
+* Delegates should have a working knowledge in C/`C++`/`Java`/`C#`. (At least one)
 
 ## Objectives
 * Understand the `android` stack
@@ -56,7 +56,7 @@ data flows from the `java` application down to the kernel driver and the hardwar
     * Intents
     * Broadcast receivers
     * Content Providers
-    * GUI basics, resources manifest `file`
+    * GUI basics, resources manifest file
     * Processes and threads
     * Examples
 <!-- chapter: android-stack-android-linux-kernel-layer, duration: 7h -->

@@ -7,7 +7,6 @@ Helm
 Ingress
 knife
 Nomad
-Prometheus
 Puppet
 Renovate
 Salt

@@ -25,8 +25,8 @@ the freshness vs cost trade-off, the registry, the lineage, and the operational 
 features at low latency under load.
 
 This three day course covers the feature store as its own system. It covers the architecture (offline
-store, online store, registry, transformation pipeline), the canonical implementations (`Feast`,
-`Tecton`, `Hopsworks`, `Vertex AI` Feature Store, `SageMaker` Feature Store, `Databricks` Feature
+store, online store, registry, transformation pipeline), the canonical implementations (Feast,
+`Tecton`, Hopsworks, `Vertex AI` Feature Store, SageMaker Feature Store, `Databricks` Feature
 Store), the point-in-time correctness problem, the training-serving skew problem, the data freshness
 question, the on-demand-feature pattern, the embedding-feature pattern, the governance story, and the
 team-ownership question. Participants leave able to choose between buy and build, design the offline
@@ -53,7 +53,7 @@ and online sides correctly, and operate a feature store at production scale.
 * prevent training-serving skew
 * operate a feature store at low latency under load
 * govern features as first-class artifacts
-* choose between `Feast`, `Tecton`, and a managed offering
+* choose between Feast, `Tecton`, and a managed offering
 
 ## Outline
 <!-- chapter: what-a-feature-store-actually-is, duration: 2h -->
@@ -79,7 +79,7 @@ and online sides correctly, and operate a feature store at production scale.
 <!-- chapter: offline-store-design, duration: 2h -->
 * Offline store design
     * the warehouse as the offline store
-    * `Snowflake`, `BigQuery`, `Redshift`, `Databricks`, `Iceberg`
+    * Snowflake, `BigQuery`, `Redshift`, `Databricks`, Iceberg
     * the data model: feature view, entity, timestamp
     * partitioning for the as-of join
     * cross-reference to the Data Lakehouse course
@@ -98,8 +98,8 @@ and online sides correctly, and operate a feature store at production scale.
     * the single-pipeline argument
     * cross-reference to the Streaming Data Systems course
 <!-- chapter: feast-deep-dive, duration: 2h -->
-* `Feast` deep dive
-    * the `Feast` architecture
+* Feast deep dive
+    * the Feast architecture
     * `feature_store.yaml` and the registry
     * `materialize` and `materialize-incremental`
     * the offline store and the online store providers
@@ -138,7 +138,7 @@ and online sides correctly, and operate a feature store at production scale.
     * monitoring skew
     * monitoring drift
     * the on-call story
-    * the migration story `when` you replace the feature store
+    * the migration story when you replace the feature store
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

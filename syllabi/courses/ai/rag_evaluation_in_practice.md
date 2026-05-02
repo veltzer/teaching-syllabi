@@ -25,9 +25,9 @@ the model still hallucinated) or in the seam between them, and the team has to k
 ship `RAG` and never measure either side until users complain.
 
 This two day course covers `RAG` evaluation as practiced today. It covers the two-axis decomposition
-(retrieval and generation), the metrics for each axis (`recall@k`, `MRR`, `nDCG` for retrieval;
-`groundedness`, `faithfulness`, `answer relevance`, `context relevance` for generation), the canonical
-frameworks (`Ragas`, `TruLens`, `DeepEval`, `Phoenix`, `LangSmith`), the dataset construction (golden
+(retrieval and generation), the metrics for each axis (`recall@k`, MRR, `nDCG` for retrieval;
+`groundedness`, faithfulness, `answer relevance`, `context relevance` for generation), the canonical
+frameworks (`Ragas`, TruLens, DeepEval, Phoenix, `LangSmith`), the dataset construction (golden
 sets, synthetic evaluation sets, the labelling effort), the offline-vs-online evaluation, the
 production sampling approach, the regression-detection workflow, the cost shape of evaluation, and the
 patterns that `make` `RAG` evaluation succeed. Examples include real production `RAG` systems and the
@@ -51,7 +51,7 @@ that catches regressions before users do.
 
 ## Objectives
 * decompose `RAG` failure into retrieval vs generation
-* compute retrieval metrics (`recall@k`, `MRR`, `nDCG`)
+* compute retrieval metrics (`recall@k`, MRR, `nDCG`)
 * compute generation metrics (groundedness, faithfulness)
 * construct a golden set the team can maintain
 * run online evaluation in production
@@ -96,7 +96,7 @@ that catches regressions before users do.
     * the gotchas at scale
     * the cost story
 <!-- chapter: trulens-deepeval-and-phoenix, duration: 1h -->
-* `TruLens`, `DeepEval`, and `Phoenix`
+* `TruLens`, DeepEval, and `Phoenix`
     * `TruLens` overview
     * `DeepEval` overview
     * `Arize Phoenix` evals
@@ -135,7 +135,7 @@ that catches regressions before users do.
     * the per-axis trend
     * the per-segment trend (this customer, this question type)
     * the alert
-    * the on-call workflow `when` the alert fires
+    * the on-call workflow when the alert fires
     * the postmortem of a `RAG` regression
 <!-- chapter: when-rag-evaluation-cannot-help, duration: 1h -->
 * `When` `RAG` evaluation cannot help

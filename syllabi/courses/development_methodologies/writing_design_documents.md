@@ -26,7 +26,7 @@ This five day course is dedicated to design documents as a discipline. It covers
 design doc, `RFC`, `ADR`, post-implementation review), the structure that makes a doc readable, the tradeoff and
 alternatives sections that `make` it useful, the review process around it, the lifecycle from draft to archive,
 and the writing skills that turn good ideas into convincing prose. The course is grounded in the publicly
-documented practices of `Google`, `Stripe`, `Amazon`, `Square`, `Spotify` and the engineering blogs of similar
+documented practices of `Google`, Stripe, Amazon, Square, `Spotify` and the engineering blogs of similar
 organizations. Participants leave able to write a design doc that gets read, reviewed and remembered, and to
 build the design-doc culture on a team that does not have one.
 
@@ -92,7 +92,7 @@ build the design-doc culture on a team that does not have one.
     * the right level of detail for a given audience
     * sequence diagrams and architecture diagrams
     * data model and `API` contract sketches
-    * how to use code in a design doc, and `when` not to
+    * how to use code in a design doc, and when not to
     * boundaries between docs and reference docs
     * the "is this enough to start coding" test
 <!-- chapter: the-alternatives-and-tradeoffs-section, duration: 3h -->
@@ -116,7 +116,7 @@ build the design-doc culture on a team that does not have one.
 * Diagrams that help, not distract
     * the principle: a diagram should add information, not decoration
     * sequence, architecture, state, dataflow
-    * tools: `Excalidraw`, `draw.io`, `PlantUML`, `Mermaid`, `tldraw`
+    * tools: `Excalidraw`, `draw.io`, PlantUML, Mermaid, `tldraw`
     * the diagram that should be a table
     * keeping diagrams maintainable over time
     * the limit: prose still has to carry the doc
@@ -130,7 +130,7 @@ build the design-doc culture on a team that does not have one.
     * archiving vs continuing the conversation
 <!-- chapter: rfcs-and-the-public-comment-period, duration: 2h -->
 * `RFCs` and the public comment period
-    * the `RFC` model: `Rust`, `Python`, `IETF`
+    * the `RFC` model: Rust, `Python`, `IETF`
     * scoping an `RFC` so it can actually finish
     * driving an `RFC` through controversy
     * the rejected-`RFC` archive as a feature
@@ -170,14 +170,14 @@ build the design-doc culture on a team that does not have one.
 <!-- chapter: case-studies, duration: 2h -->
 * Case studies
     * walkthrough of a public `Google` design doc
-    * walkthrough of a public `Stripe` `RFC`
-    * walkthrough of a public `Rust` `RFC`
+    * walkthrough of a public Stripe `RFC`
+    * walkthrough of a public Rust `RFC`
     * a real production failure traced to a missing design doc
     * before-and-after revision of a real internal doc
 <!-- chapter: workshop-and-wrap-up, duration: 1h -->
 * Workshop and wrap up
     * group review of a participant's draft design doc
-    * recommended reading: `Williams`, `McMurrey`, `Gallo`, `Strunk and White`
+    * recommended reading: `Williams`, McMurrey, Gallo, `Strunk and White`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

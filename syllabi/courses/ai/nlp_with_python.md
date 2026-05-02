@@ -215,7 +215,7 @@ answering, and text generation.
     * Language modeling
         * Autoregressive generation
         * Decoding strategies (greedy, beam search, sampling)
-        * Temperature and `top`-k/`top`-p sampling
+        * Temperature and top-k/top-p sampling
     * Controlled generation
         * Prompt engineering
         * Constrained decoding
@@ -276,7 +276,7 @@ answering, and text generation.
         * `ONNX` Runtime
         * Pruning
     * Serving infrastructure
-        * `REST` `API` deployment (`FastAPI`, `Flask`)
+        * `REST` `API` deployment (`FastAPI`, Flask)
         * Batch processing pipelines
         * `GPU` vs `CPU` inference
     * Production considerations

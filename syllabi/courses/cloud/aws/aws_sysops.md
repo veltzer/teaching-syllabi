@@ -49,9 +49,9 @@ This course covers the essential skills for operating and managing workloads on 
 <!-- chapter: aws-cloudtrail-and-auditing, duration: 2h -->
 * `AWS CloudTrail` and Auditing
     * Configuring multi-region trails
-    * Log `file` integrity validation
+    * Log file integrity validation
     * Integration with `CloudWatch Logs` and `S3`
-    * Querying `CloudTrail` events with `Athena`
+    * Querying `CloudTrail` events with Athena
     * Organizational trails
 <!-- chapter: aws-config, duration: 2h -->
 * `AWS Config`
@@ -110,7 +110,7 @@ This course covers the essential skills for operating and managing workloads on 
     * Cross-zone load balancing
 <!-- chapter: route-53-health-checks-and-dns-operations, duration: 2h -->
 * `Route 53` Health Checks and `DNS` Operations
-    * Health `check` types and configuration
+    * Health check types and configuration
     * Calculated health checks
     * `DNS` failover routing
     * `Route 53 Resolver` for hybrid environments

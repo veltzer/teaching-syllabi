@@ -29,7 +29,7 @@ This five day course covers agentic systems as their own engineering discipline.
 and its variants, planning and decomposition, tool design from an agent's perspective, error recovery and
 retry semantics, sub-agent orchestration, the cost-and-budget story, observability and debugging, evaluation
 specifically for agents, the security model for agentic systems, and the deployment patterns. Examples are
-drawn from public work on `Claude` agents, `OpenAI` Assistants, `LangGraph`, `CrewAI`, `AutoGen`, `Semantic
+drawn from public work on Claude agents, `OpenAI` Assistants, `LangGraph`, `CrewAI`, `AutoGen`, `Semantic
 Kernel`, and the engineering blogs of organizations shipping production agents. Participants leave able to
 ship agentic systems that are debuggable, bounded, observable, and safe.
 
@@ -130,7 +130,7 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
     * the trajectory as the unit of observation
     * structured logging of plans, tool calls, results
     * distributed tracing across agent steps
-    * `LangSmith`, `Langfuse`, `Helicone`, `Phoenix`, `Braintrust` for agents
+    * `LangSmith`, Langfuse, Helicone, Phoenix, `Braintrust` for agents
     * the "what was it doing before it broke" requirement
     * cross-reference to the `LLM` Application Engineering course's observability chapter
 <!-- chapter: evaluating-agents, duration: 3h -->
@@ -141,14 +141,14 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
     * cost-bounded evaluation
     * adversarial scenarios
     * cross-reference to the `LLM` Evaluation and Benchmarking course
-    * the public benchmarks: `SWE-bench`, `WebArena`, `AgentBench`, `GAIA`
+    * the public benchmarks: `SWE-bench`, WebArena, AgentBench, `GAIA`
 <!-- chapter: deployment-patterns, duration: 3h -->
 * Deployment patterns
     * synchronous vs asynchronous agent invocation
     * agents as background workers
     * agents as part of a request handler
     * long-running agents and durable execution
-    * `Temporal` and `Cadence` for agent durability
+    * Temporal and `Cadence` for agent durability
     * cross-reference to the Workflow course material
 <!-- chapter: human-in-the-loop, duration: 2h -->
 * Human-in-the-loop
@@ -175,7 +175,7 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
     * the cost runaway
     * the silent regression on model upgrade
     * design walkthrough of a production agent
-    * recommended reading: `ReAct`, `Reflexion`, `Voyager`, `SWE-agent` papers
+    * recommended reading: `ReAct`, Reflexion, Voyager, `SWE-agent` papers
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

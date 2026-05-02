@@ -18,7 +18,7 @@ audience:
 # Performance Testing
 
 ## Description
-This course provides a focused introduction to performance testing, covering load testing, profiling, benchmarking, and capacity planning. Students will gain hands-on experience with industry tools such as `k6`, `Locust`, and `Gatling`, and learn how to define and validate SLAs, identify bottlenecks, and ensure applications meet performance requirements under realistic conditions.
+This course provides a focused introduction to performance testing, covering load testing, profiling, benchmarking, and capacity planning. Students will gain hands-on experience with industry tools such as `k6`, Locust, and `Gatling`, and learn how to define and validate SLAs, identify bottlenecks, and ensure applications meet performance requirements under realistic conditions.
 
 ## Duration
 16 hours / 2 days
@@ -38,7 +38,7 @@ This course provides a focused introduction to performance testing, covering loa
 ## Objectives
 * Understand performance testing types: load, stress, endurance, spike, and scalability
 * Design performance test plans with meaningful metrics and acceptance criteria
-* Write and execute load tests using `k6`, `Locust`, and `Gatling`
+* Write and execute load tests using `k6`, Locust, and `Gatling`
 * Profile applications to identify performance bottlenecks
 * Establish benchmarks and track performance over time
 * Apply capacity planning techniques based on test results
@@ -70,8 +70,8 @@ This course provides a focused introduction to performance testing, covering loa
     * Executors: constant VUs, ramping VUs, constant arrival rate
     * Custom metrics and data parameterization
 <!-- chapter: load-testing-with-locust, duration: 1h -->
-* Load Testing with `Locust`
-    * `Locust` architecture and distributed mode
+* Load Testing with Locust
+    * Locust architecture and distributed mode
     * Writing test scripts in `Python`
     * User classes and task sets
     * Weight distribution and wait times

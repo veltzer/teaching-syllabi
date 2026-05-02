@@ -26,13 +26,13 @@ This course teaches developers how to become highly productive in the terminal b
 
 ## Prerequisites
 * Basic familiarity with the command line and shell usage
-* Experience navigating the `file` system and running commands in a terminal
+* Experience navigating the file system and running commands in a terminal
 * No advanced shell scripting experience required
 
 ## Objectives
-* Customize shell environments using `bash`, `zsh`, or `fish` with modern prompt frameworks
+* Customize shell environments using `bash`, zsh, or `fish` with modern prompt frameworks
 * Use tmux effectively for session management, window splitting, and persistent workflows
-* Replace traditional command-line tools with modern alternatives (`fzf`, `ripgrep`, `fd`, `bat`, `eza`)
+* Replace traditional command-line tools with modern alternatives (`fzf`, `ripgrep`, fd, bat, `eza`)
 * Manage dotfiles using version control and configuration management tools
 * Set up efficient `SSH` configurations for managing multiple remote systems
 * Build personal automation scripts and workflows for common development tasks
@@ -40,7 +40,7 @@ This course teaches developers how to become highly productive in the terminal b
 ## Outline
 <!-- chapter: shell-customization, duration: 1h -->
 * Shell Customization
-    * Comparing `bash`, `zsh`, and `fish`
+    * Comparing `bash`, zsh, and `fish`
     * Shell configuration files and load order
     * Prompt customization and information display
     * `Oh My Zsh` framework and plugins
@@ -81,14 +81,14 @@ This course teaches developers how to become highly productive in the terminal b
     * Interactive fuzzy searching
     * `File` and directory fuzzy finding
     * History search with `fzf`
-    * `fzf` integration with `Vim`/`Neovim`
+    * `fzf` integration with Vim/`Neovim`
     * Custom `fzf` commands and key bindings
     * Preview `windows` and advanced configuration
 <!-- chapter: modern-cli-tools, duration: 2h -->
 * Modern `CLI` Tools
     * `ripgrep` (rg): fast code searching
-    * `fd`: user-friendly `file` finding
-    * `bat`: syntax-highlighted `file` viewing
+    * fd: user-friendly file finding
+    * bat: syntax-highlighted file viewing
     * `eza` (formerly exa): modern ls replacement
     * z/zoxide: intelligent directory jumping
     * `delta`: improved `git diff` output
@@ -109,7 +109,7 @@ This course teaches developers how to become highly productive in the terminal b
     * `git` log visualization in the terminal
 <!-- chapter: ssh-configuration-and-management, duration: 1h -->
 * `SSH` Configuration and Management
-    * `SSH` config `file` and host aliases
+    * `SSH` config file and host aliases
     * Key management and `ssh`-agent
     * ProxyJump and bastion host configuration
     * Multiplexing `SSH` connections

@@ -16,7 +16,7 @@ audience:
 # `API` Testing
 
 ## Description
-This course covers the essentials of `API` testing, from manual exploration with `Postman` to automated testing and CI integration. Students will learn how to test `REST` and `gRPC` APIs, apply consumer-driven contract testing with Pact, build test automation frameworks, and integrate `API` tests into continuous integration pipelines for reliable and repeatable quality assurance.
+This course covers the essentials of `API` testing, from manual exploration with Postman to automated testing and CI integration. Students will learn how to test `REST` and `gRPC` APIs, apply consumer-driven contract testing with Pact, build test automation frameworks, and integrate `API` tests into continuous integration pipelines for reliable and repeatable quality assurance.
 
 ## Duration
 8 hours / 1 day
@@ -34,7 +34,7 @@ This course covers the essentials of `API` testing, from manual exploration with
 
 ## Objectives
 * Test `REST` and `gRPC` APIs effectively
-* Use `Postman` for `API` exploration, testing, and automation
+* Use Postman for `API` exploration, testing, and automation
 * Apply consumer-driven contract testing with Pact
 * Build automated `API` test suites
 * Integrate `API` tests into `CI/CD` pipelines
@@ -59,18 +59,18 @@ This course covers the essentials of `API` testing, from manual exploration with
 * Testing `gRPC` APIs
     * `gRPC` concepts: `protocol buffers`, services, and methods
     * Unary, server streaming, client streaming, and bidirectional calls
-    * `gRPC` testing tools: grpcurl, BloomRPC, `Postman`
+    * `gRPC` testing tools: grpcurl, BloomRPC, Postman
     * Request and response validation for `protobuf` messages
     * Error codes and status handling
     * Performance characteristics of `gRPC`
 <!-- chapter: postman, duration: 1h -->
-* `Postman`
+* Postman
     * Workspaces, collections, and environments
     * Building and organizing requests
     * Variables: global, collection, and environment
-    * Writing tests with the `Postman` assertion library
+    * Writing tests with the Postman assertion library
     * Collection runner and data-driven testing
-    * `Newman` `CLI` for command-line execution
+    * Newman `CLI` for command-line execution
 <!-- chapter: contract-testing-with-pact, duration: 1h -->
 * Contract Testing with Pact
     * Consumer-driven contract testing concepts
@@ -90,7 +90,7 @@ This course covers the essentials of `API` testing, from manual exploration with
 <!-- chapter: ci-integration, duration: 2h -->
 * CI Integration
     * Running `API` tests in `CI/CD` pipelines
-    * `Newman` integration with `Jenkins`, `GitLab CI`, `GitHub Actions`
+    * Newman integration with `Jenkins`, `GitLab CI`, `GitHub Actions`
     * Test reporting and artifact publishing
     * Environment management for `API` tests
     * Parallel test execution

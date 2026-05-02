@@ -16,25 +16,25 @@ audience:
 # `Linux` security for application developers
 
 ## Description
-This course is intended to introduce the participants to `Linux` security issues, explain the various security threats that `C`/`C++` programs are subject to on the `Linux` platform and introduce the host of ways to combat these issues.
+This course is intended to introduce the participants to `Linux` security issues, explain the various security threats that C/`C++` programs are subject to on the `Linux` platform and introduce the host of ways to combat these issues.
 
 ## Duration
 8 hours / 1 day
 
 ## Intended Audience
-* Experienced `C` application developers.
+* Experienced C application developers.
 * `Linux` programming experience is recommended by not a must.
 
 ## Prerequisites
-* `C` programming
+* C programming
 * `UNIX` `API` familiarity is a plus
 * If no such knowledge exists then the course could be made longer to accommodate with an intro about `UNIX`/`Linux` philosophy, command line usage, boot process and more.
 
 ## Objectives
 * understand the core concepts and principles of `Linux`` security for application developers
 * gain practical knowledge of Basic `Linux` security
-* gain practical knowledge of `C` level security
-* gain practical knowledge of How to combat `C` level vulnerabilities
+* gain practical knowledge of C level security
+* gain practical knowledge of How to combat C level vulnerabilities
 
 ## Exercises
 This course is an instructor led course, with demos by the instructor and no exercises.
@@ -54,8 +54,8 @@ This course is an instructor led course, with demos by the instructor and no exe
     * the boot on a full fledged system
     * the boot on an embedded system
 <!-- chapter: c-level-security, duration: 2h -->
-* `C` level security
-    * `C` level vulnerabilities
+* C level security
+    * C level vulnerabilities
         * Buffer overflows
         * Format string vulnerabilities
         * Integer overflows
@@ -66,9 +66,9 @@ This course is an instructor led course, with demos by the instructor and no exe
         * Memory and resource leaks
         * Double free bugs
         * Use after free bugs
-    * How to avoid `C` level vulnerabilities
+    * How to avoid C level vulnerabilities
 <!-- chapter: how-to-combat-c-level-vulnerabilities, duration: 4h -->
-* How to combat `C` level vulnerabilities
+* How to combat C level vulnerabilities
     * Using bounds checkers
     * Input validation
     * Overflow safe math libraries

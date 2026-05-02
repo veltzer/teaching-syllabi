@@ -35,7 +35,7 @@ to building correct, deterministic, multi-threaded firmware.
 * Engineers developing high-throughput or safety-critical embedded systems
 
 ## Prerequisites
-* `C` programming (mandatory)
+* C programming (mandatory)
 * Basic microcontroller programming (peripherals, interrupts, registers)
 * Familiarity with at least one RTOS is an advantage
 * Understanding of computer architecture (caches, buses) is helpful
@@ -72,7 +72,7 @@ to building correct, deterministic, multi-threaded firmware.
     * Compiler barriers and the volatile keyword
     * Write-through vs write-back caching strategies
     * Cache maintenance operations (`clean`, invalidate, flush)
-    * `When` caches matter and `when` they do not (cache-less Cortex-M0+)
+    * `When` caches matter and when they do not (cache-less Cortex-M0+)
 <!-- chapter: atomic-operations-and-lock-free-programming, duration: 1h -->
 * Atomic Operations and Lock-Free Programming
     * Why atomics matter on multi-core MCUs
@@ -84,7 +84,7 @@ to building correct, deterministic, multi-threaded firmware.
     * Hardware semaphores (HSEM) on STM32 dual-core parts
 <!-- chapter: mutual-exclusion-and-synchronization-primitives, duration: 2h -->
 * Mutual Exclusion and Synchronization Primitives
-    * Spinlocks: `when` they `make` sense on microcontrollers
+    * Spinlocks: when they `make` sense on microcontrollers
     * Priority inversion and priority inheritance
     * Disabling interrupts as a synchronization mechanism (single-core vs multi-core)
     * Critical sections that span multiple cores
@@ -151,7 +151,7 @@ to building correct, deterministic, multi-threaded firmware.
     * Functional safety standards (`IEC 61508`, `ISO 26262`) and multi-core
     * Core-to-core latency measurement
     * Watchdog strategies for multi-core (per-core vs global watchdog)
-    * Graceful degradation `when` one core fails
+    * Graceful degradation when one core fails
 <!-- chapter: practical-patterns-and-anti-patterns, duration: 1h -->
 * Practical Patterns and Anti-Patterns
     * Producer-consumer between cores

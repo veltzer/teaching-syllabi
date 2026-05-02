@@ -11,11 +11,11 @@ audience:
   - audiences:devops
 ---
 <!-- course: helm -->
-# `Helm`
+# Helm
 
 ## Description
-This course provides a thorough introduction to `Helm`, the package manager for `Kubernetes`.
-Students will learn how to create, manage, and deploy `Helm` charts, use template functions
+This course provides a thorough introduction to Helm, the package manager for `Kubernetes`.
+Students will learn how to create, manage, and deploy Helm charts, use template functions
 and pipelines, manage chart dependencies, and work with chart repositories. The course also
 covers release management, hooks, chart testing, Helmfile for managing multiple releases,
 `OCI` registry support, and security best practices including chart signing and provenance
@@ -25,7 +25,7 @@ verification.
 16 hours / 1 day
 
 ## Intended Audience
-* Software developers and `DevOps` engineers who work with `Kubernetes` and want to manage application deployments using `Helm`.
+* Software developers and `DevOps` engineers who work with `Kubernetes` and want to manage application deployments using Helm.
 * Teams looking to standardize their `Kubernetes` deployment workflows.
 
 ## Prerequisites
@@ -37,20 +37,20 @@ verification.
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
-* Understand `Helm` architecture and how it interacts with `Kubernetes`.
-* Create, customize, and package `Helm` charts.
+* Understand Helm architecture and how it interacts with `Kubernetes`.
+* Create, customize, and package Helm charts.
 * Use template functions, pipelines, named templates, and partials effectively.
 * Manage releases with install, upgrade, and rollback operations.
-* Use Helmfile to manage multiple `Helm` releases declaratively.
+* Use Helmfile to manage multiple Helm releases declaratively.
 * Apply security best practices including chart signing and provenance verification.
 
 ## Outline
 <!-- chapter: helm-overview-and-architecture, duration: 1h -->
-* `Helm` Overview and Architecture
-    * What is `Helm`?
-    * `Helm` 3 architecture (no Tiller)
-    * How `Helm` interacts with the `Kubernetes` `API`
-    * `Helm` `CLI` basics
+* Helm Overview and Architecture
+    * What is Helm?
+    * Helm 3 architecture (no Tiller)
+    * How Helm interacts with the `Kubernetes` `API`
+    * Helm `CLI` basics
     * Release concept and revision history
 <!-- chapter: charts, duration: 1h -->
 * Charts
@@ -76,7 +76,7 @@ verification.
 * Named Templates and Partials
     * Defining named templates with define
     * Using include and template
-    * The _helpers.tpl `file`
+    * The _helpers.tpl file
     * Template composition patterns
 <!-- chapter: chart-dependencies, duration: 1h -->
 * Chart Dependencies
@@ -93,7 +93,7 @@ verification.
     * ChartMuseum and alternatives
     * Searching for charts
 <!-- chapter: helm-install-upgrade-and-rollback, duration: 1h -->
-* `Helm` Install, Upgrade, and Rollback
+* Helm Install, Upgrade, and Rollback
     * `helm install` options and flags
     * `helm upgrade` and the --set / -f flags
     * `helm rollback` and revision selection
@@ -108,7 +108,7 @@ verification.
     * Namespace management
 <!-- chapter: hooks, duration: 1h -->
 * Hooks
-    * What are `Helm` hooks?
+    * What are Helm hooks?
     * Hook types: pre-install, post-install, pre-upgrade, post-upgrade, pre-delete, post-delete, pre-rollback, post-rollback
     * Hook weights and ordering
     * Hook deletion policies
@@ -128,7 +128,7 @@ verification.
     * `helmfile sync`, `helmfile diff`, and `helmfile apply`
 <!-- chapter: oci-registry-support, duration: 1h -->
 * `OCI` Registry Support
-    * `OCI` artifacts and `Helm` charts
+    * `OCI` artifacts and Helm charts
     * Pushing charts to `OCI` registries
     * Pulling and installing from `OCI` registries
     * Using `Docker Hub`, `ECR`, ACR, and GCR as chart registries

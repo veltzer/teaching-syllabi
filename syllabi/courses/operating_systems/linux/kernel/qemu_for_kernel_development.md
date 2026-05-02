@@ -27,7 +27,7 @@ This course is designed for experienced kernel developers who want to leverage `
 * system programmers working on low-level software
 
 ## Prerequisites
-* Proficiency in `C` programming
+* Proficiency in C programming
 * Familiarity with operating system concepts and kernel development
 * Basic understanding of computer architecture
 
@@ -65,7 +65,7 @@ This course is designed for experienced kernel developers who want to leverage `
     * Analyzing kernel crashes and hangs
 <!-- chapter: qemu-and-virtualization, duration: 3h -->
 * `QEMU` and Virtualization
-    * KVM integration
+    * `KVM` integration
     * Performance optimization for virtualized environments
     * Testing hypervisor functionality
 <!-- chapter: qemu-device-models, duration: 3h -->

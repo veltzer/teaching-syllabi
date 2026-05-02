@@ -18,7 +18,7 @@ audience:
 
 ## Description
 The catalog has `Cryptography Fundamentals` (the theory course), `PKI and Certificates`, `Secrets
-Management`, and the per-vendor ``Vault`` course. None of those is the focused course on the
+Management`, and the per-vendor `Vault` course. None of those is the focused course on the
 engineering of cryptography in production systems: not "what is `AES`" but "we need to encrypt
 customer data at `rest`, what library, what key, what mode, and how do we rotate it without
 re-encrypting everything." Cryptography in production fails not because the algorithms are weak but
@@ -30,10 +30,10 @@ is unforgiving.
 This four day course covers cryptographic engineering as practiced today. It covers the canonical
 primitives and their misuse cases (`AES-GCM` with reused nonces, `RSA` with `PKCS1v15` padding,
 `HMAC` with timing-leaking comparison, the random-source mistake), the modern primitives
-(`ChaCha20-Poly1305`, `Ed25519`, `X25519`, `Argon2`, `HKDF`), the libraries (`libsodium`, `Tink`,
+(`ChaCha20-Poly1305`, Ed25519, X25519, Argon2, `HKDF`), the libraries (libsodium, `Tink`,
 `AWS KMS Encryption SDK`, `Tink for Go`, `cryptography.io`), the key-management infrastructure (`KMS`
 across major clouds, `HashiCorp Vault`, `Hardware Security Modules`), the envelope-encryption pattern,
-the rotation story, the at-`rest` vs in-transit story, the application-level encryption (`when`, where,
+the rotation story, the at-`rest` vs in-transit story, the application-level encryption (when, where,
 how), the end-to-end encryption design, the post-quantum migration plan, and the patterns that `make`
 cryptographic systems survive contact with reality. Examples include real production deployments and
 real production failures. Participants leave able to `make` the cryptographic engineering decisions
@@ -134,7 +134,7 @@ without reaching for a Stack Overflow snippet.
     * the "we ran `TLS` 1.0" embarrassment
 <!-- chapter: application-level-encryption, duration: 2h -->
 * Application-level encryption
-    * `when` in-transit-and-at-`rest` is not enough
+    * when in-transit-and-at-`rest` is not enough
     * the searchable-encryption problem
     * `format-preserving encryption`
     * `tokenization` as the pragmatic alternative
@@ -181,7 +181,7 @@ without reaching for a Stack Overflow snippet.
     * the `WhatsApp` `E2EE` design
     * the `iCloud` `Advanced Data Protection` design
     * the `Zoom` `E2EE` rollout
-    * recommended reading: `Cryptography Engineering` (`Ferguson` et al.), `latacora/blog`
+    * recommended reading: `Cryptography Engineering` (Ferguson et al.), `latacora/blog`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

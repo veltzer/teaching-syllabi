@@ -16,7 +16,7 @@ audience:
 # `Datadog`
 
 ## Description
-`Datadog` is a comprehensive cloud-based monitoring and analytics platform that provides full-stack observability for modern applications and infrastructure. This course covers the complete `Datadog` platform, from agent installation and infrastructure monitoring through APM, log management, synthetics, and Real User Monitoring. Students will learn how to build effective dashboards, set up alerting strategies, and leverage `Datadog` to gain deep visibility into their systems.
+`Datadog` is a comprehensive cloud-based monitoring and analytics platform that provides full-stack observability for modern applications and infrastructure. This course covers the complete Datadog platform, from agent installation and infrastructure monitoring through APM, log management, synthetics, and Real User Monitoring. Students will learn how to build effective dashboards, set up alerting strategies, and leverage `Datadog` to gain deep visibility into their systems.
 
 ## Duration
 16 hours / 2 days
@@ -85,7 +85,7 @@ audience:
 <!-- chapter: apm-and-distributed-tracing, duration: 2h -->
 * APM and Distributed Tracing
     * APM architecture and concepts
-    * Instrumenting applications (`Python`, `Java`, `Go`, `Node.js`, `.NET`)
+    * Instrumenting applications (`Python`, `Java`, Go, `Node.js`, `.NET`)
     * Automatic vs manual instrumentation
     * Service maps and service catalog
     * Trace search and analytics
@@ -97,7 +97,7 @@ audience:
     * Log collection and agent configuration
     * Log sources: files, `Docker`, `Kubernetes`, cloud services
     * Log processing pipelines
-    * Parsing rules: `Grok`, `JSON`, and custom parsers
+    * Parsing rules: Grok, `JSON`, and custom parsers
     * Log indexes and retention policies
     * Log analytics and patterns
     * Log archives and rehydration
@@ -105,7 +105,7 @@ audience:
 <!-- chapter: dashboards-and-widgets, duration: 1h -->
 * Dashboards and Widgets
     * Dashboard types: timeboards and screenboards
-    * Widget types: timeseries, `top` list, heatmap, distribution, query value
+    * Widget types: timeseries, top list, heatmap, distribution, query value
     * Template variables and dynamic dashboards
     * Dashboard sharing and permissions
     * Embedding dashboards
@@ -117,7 +117,7 @@ audience:
     * Downtime scheduling and maintenance `windows`
     * Service Level Objectives (SLOs)
     * SLO alerts and error budgets
-    * Notification channels: email, `Slack`, `PagerDuty`, webhooks
+    * Notification channels: email, Slack, `PagerDuty`, webhooks
     * Alert fatigue reduction and best practices
 <!-- chapter: synthetics, duration: 1h -->
 * Synthetics

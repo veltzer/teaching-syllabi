@@ -31,7 +31,7 @@ but still be fully interoperable with `Java` code.
 * Anyone who want's to expand his computer language knowledge by yet another language.
 
 ## Prerequisites
-* Prior programming experience in another language such as `Go`, `Java`, `C#` or `C`/`C++` is an advantage.
+* Prior programming experience in another language such as Go, `Java`, `C#` or C/`C++` is an advantage.
 
 ## Objectives
 * Understand `Kotlin` syntax, type system, and core language features
@@ -60,7 +60,7 @@ but still be fully interoperable with `Java` code.
     * `while-loop`
     * `do-while-loop`
     * `for-loop`
-    * `when` expression
+    * when expression
     * Unlabeled break
     * labeled break
     * unlabeled continue

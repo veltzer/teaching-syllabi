@@ -10,7 +10,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: c_secure_coding -->
-# Coding securely in `C`
+# Coding securely in C
 
 ## Description
 This course was designed for users of the `clang` tool-chain.
@@ -20,16 +20,16 @@ For `GCC` modifications need to be made.
 24 hours / 3 days
 
 ## Intended Audience
-* `C` programmers
+* C programmers
 * embedded and systems software developers
 
 ## Prerequisites
-* `solid` experience with `C` programming
+* `solid` experience with C programming
 
 ## Objectives
-* understand the core concepts and principles of Coding securely in `C`
+* understand the core concepts and principles of Coding securely in C
 * gain practical knowledge of Motivation for Secure Programming
-* gain practical knowledge of Machine-Level Representation of `C` programs
+* gain practical knowledge of Machine-Level Representation of C programs
 * gain practical knowledge of Integer security
 
 ## Outline
@@ -38,7 +38,7 @@ For `GCC` modifications need to be made.
     * In User Space/Kernel Space systems
     * In Monolithic systems
 <!-- chapter: machine-level-representation-of-c-programs, duration: 1h -->
-* Machine-Level Representation of `C` programs
+* Machine-Level Representation of C programs
     * Tour of `Assembly` Language
 <!-- chapter: integer-security, duration: 2h -->
 * Integer security
@@ -124,7 +124,7 @@ For `GCC` modifications need to be made.
     * Directory Traversal attacks
     * `File` canonicalization attacks
     * Creating files with correct `ACLs`
-    * Ensure files are closed `when` no longer needed
+    * Ensure files are closed when no longer needed
     * Insecure usage of shared directories
 
 ## Copyright

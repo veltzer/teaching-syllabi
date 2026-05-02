@@ -10,12 +10,12 @@ audience:
   - audiences:developers
 ---
 <!-- course: swift_programming -->
-# `Swift` Programming
+# Swift Programming
 
 ## Description
-`Swift` is a powerful and intuitive programming language developed by Apple for building apps across `iOS`, `macOS`, watchOS, and tvOS. It combines modern language features with safety-first design, making it accessible to beginners while remaining powerful enough for experienced developers. `Swift` emphasizes clarity, performance, and safety through features like optionals, type inference, and automatic memory management via ARC.
+Swift is a powerful and intuitive programming language developed by Apple for building apps across `iOS`, `macOS`, watchOS, and tvOS. It combines modern language features with safety-first design, making it accessible to beginners while remaining powerful enough for experienced developers. Swift emphasizes clarity, performance, and safety through features like optionals, type inference, and automatic memory management via ARC.
 
-This course covers the `Swift` language from the ground up, including its type system, object-oriented and protocol-oriented programming paradigms, modern concurrency model, and an introduction to building user interfaces with SwiftUI.
+This course covers the Swift language from the ground up, including its type system, object-oriented and protocol-oriented programming paradigms, modern concurrency model, and an introduction to building user interfaces with SwiftUI.
 
 ## Duration
 32 hours / 4 days
@@ -35,24 +35,24 @@ This course covers the `Swift` language from the ground up, including its type s
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand `Swift` syntax, type system, and core language features
+* Understand Swift syntax, type system, and core language features
 * Write safe and expressive code using optionals and error handling
 * Apply object-oriented and protocol-oriented programming techniques
-* Use modern concurrency with `async`/`await` and actors
+* Use modern concurrency with async/await and actors
 * Build basic user interfaces with SwiftUI
 * Write unit tests with XCTest
 
 ## Outline
 <!-- chapter: getting-started-with-swift, duration: 2h -->
-* Getting Started with `Swift`
-    * What is `Swift` and why use it?
+* Getting Started with Swift
+    * What is Swift and why use it?
     * Setting up the development environment with `Xcode`
     * Playgrounds and the REPL
     * Hello, World!
     * Basic program structure
 <!-- chapter: swift-basics, duration: 2h -->
-* `Swift` Basics
-    * Variables and constants (var and `let`)
+* Swift Basics
+    * Variables and constants (var and let)
     * Basic data types (`Int`, Double, String, `Bool`)
     * Type inference and `type-annotations`
     * String interpolation
@@ -65,7 +65,7 @@ This course covers the `Swift` language from the ground up, including its type s
     * Nil coalescing operator
     * Optional chaining
     * Implicitly unwrapped optionals
-    * Force unwrapping and `when` to avoid it
+    * Force unwrapping and when to avoid it
 <!-- chapter: control-flow, duration: 2h -->
 * Control Flow
     * Conditional statements (if, else, switch)
@@ -132,8 +132,8 @@ This course covers the `Swift` language from the ground up, including its type s
     * Opaque types
 <!-- chapter: concurrency, duration: 2h -->
 * Concurrency
-    * Introduction to `Swift` concurrency model
-    * `async`/`await` basics
+    * Introduction to Swift concurrency model
+    * async/await basics
     * Structured concurrency with Task and TaskGroup
     * Actors and data isolation
     * Sendable protocol

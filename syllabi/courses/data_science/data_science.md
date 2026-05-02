@@ -37,7 +37,7 @@ it's basic tools and have the students solve exercises in the field with real pr
 This course does not deal with neural networks or `deep learning` in depth.
 
 ## Exercises
-Using `Python`, `numpy`, scipy, `pandas`, `SQL`.
+Using `Python`, numpy, scipy, pandas, `SQL`.
 
 ## Outline
 <!-- chapter: introduction, duration: 2h -->

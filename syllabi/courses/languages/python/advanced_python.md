@@ -44,7 +44,7 @@ and for that there is a time marking on each chapter.
 * Learn to handle large scale `Python` projects.
 * Write more efficient `Python` code.
 * Package and deliver your `Python` code to your users.
-* Integrate `Python` with `C` code.
+* Integrate `Python` with C code.
 
 ## Outline
 <!-- chapter: python-refresher, duration: 1h -->
@@ -69,7 +69,7 @@ and for that there is a time marking on each chapter.
         * Using specialized libraries
         * Copy on write
         * Flyweight design pattern
-        * Using `C` extensions
+        * Using C extensions
 <!-- chapter: advanced-error-handling-in-python, duration: 2h -->
 * Advanced error handling in `Python` (2 hours)
     * Correct exception handling
@@ -102,12 +102,12 @@ and for that there is a time marking on each chapter.
     * Iterators and generators
 <!-- chapter: python-environments, duration: 8h -->
 * `Python` environments (4 hours)
-    * Using `pip`
+    * Using pip
     * Virtual environments
         * What are they?
     * The basic issues of dependency managements
         * using "requirements.txt" files
-        * using more than one requirements `file`
+        * using more than one requirements file
         * locking dependencies
         * dividing your project dependencies
     * Various tools for environment creation and dependency management
@@ -115,10 +115,10 @@ and for that there is a time marking on each chapter.
         * `venv`
         * `virtualenv`
         * `pipenv`
-        * `poetry`
-        * `pip`-tools
+        * poetry
+        * pip-tools
         * `Hatch`
-    * Setting version numbers, should you do it and `when`?
+    * Setting version numbers, should you do it and when?
 <!-- chapter: packaging-and-delivering-your-python-modules, duration: 4h -->
 * Packaging and delivering your `Python` modules (4 hours)
     * `distutils`
@@ -167,7 +167,7 @@ and for that there is a time marking on each chapter.
     * redirecting logs to `syslogd`
     * Writing your own formatters and log routers
     * collecting logs
-    * flushing `when` logging on your own
+    * flushing when logging on your own
 <!-- chapter: python-function-decorators, duration: 2h -->
 * `Python` function decorators (2 hours)
     * What are function decorators?
@@ -176,9 +176,9 @@ and for that there is a time marking on each chapter.
     * Closures and decorators
     * Some notes on efficient caching with decorators
 <!-- chapter: c-and-python-integration-only-for-c-programmers, duration: 1h -->
-* `C` and `Python` integration (only for `C` programmers) (2 hours)
-    * Basic `C`/`Python` integration
-    * Modules for `C`/`Python` integration
+* C and `Python` integration (only for C programmers) (2 hours)
+    * Basic C/`Python` integration
+    * Modules for C/`Python` integration
 <!-- chapter: memory-mappings-and-large-data-structures-in-python, duration: 1h -->
 * Memory mappings and large data structures in `Python` (2 hours)
     * the `Python` `mmap` function
@@ -199,7 +199,7 @@ and for that there is a time marking on each chapter.
     * Further issues (using from instance, class, super)
 <!-- chapter: python-and-the-web, duration: 4h -->
 * `Python` and the web (4 hours)
-    * Web servers in `Python` with `Flask`
+    * Web servers in `Python` with Flask
     * Web clients using the requests module
     * Scraping using various libraries:
         * `BeautifulSoup`
@@ -224,7 +224,7 @@ Each student should have:
 
 * An `Ubuntu` 24:04 machine, real or virtual
 * 4 GB `RAM` for each machine is enough. This is not much.
-* Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via `pip`.
+* Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via pip.
 * Username and password of a user that has `sudo` privileges on the machine.
 * [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
 * Users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them to fix issues but a minority of the more advanced exercises may not work on those machine.

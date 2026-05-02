@@ -41,7 +41,7 @@ audience:
     * Gradient descent- theory
     * Gradient descent- methods
     * Supervised learning theory and formalization
-    * `Hypothesis` classes
+    * Hypothesis classes
     * Over-fitting and regularization
     * Regularized linear regression
     * Logistic regression

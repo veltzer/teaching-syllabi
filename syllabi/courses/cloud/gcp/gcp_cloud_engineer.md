@@ -78,7 +78,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
 * `Google Kubernetes Engine`
     * `GKE` Autopilot and Standard clusters
     * Deploying containerized applications with `kubectl`
-    * Services, `Ingress`, and networking
+    * Services, Ingress, and networking
     * Node pools and cluster autoscaling
     * Private clusters and regional clusters
     * `GKE` security best practices
@@ -102,7 +102,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
 <!-- chapter: storage-and-databases, duration: 5h -->
 * Storage and Databases
     * `Cloud Storage`: classes, lifecycle policies, and `IAM`
-    * Filestore for managed `file` storage
+    * Filestore for managed file storage
     * Cloud `SQL`: `MySQL`, `PostgreSQL`, and `SQL Server`
     * `Cloud Spanner` for globally distributed relational data
     * `Firestore` for document databases
@@ -115,7 +115,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * `Terraform` on `GCP`
     * Config Connector for `Kubernetes`-native resource management
     * Deployment Manager
-    * `Helm` for `GKE` application deployment
+    * Helm for `GKE` application deployment
 <!-- chapter: monitoring-and-operations, duration: 4h -->
 * Monitoring and Operations
     * `Cloud Monitoring`: metrics, dashboards, and alerts
@@ -124,7 +124,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * Error Reporting
     * Ops Agent and custom metrics
     * Managed Service for `Prometheus`
-    * Active Assist and `Gemini` Cloud Assist
+    * Active Assist and Gemini Cloud Assist
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

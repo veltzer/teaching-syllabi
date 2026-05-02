@@ -29,7 +29,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
 
 ## Prerequisites
 * `Solid` understanding of `TCP/IP` networking: `IP` addressing, routing, and `UDP`/`TCP`.
-* Familiarity with `Linux` command-line tools: `dig`, `nslookup`, `ping`, `netstat`.
+* Familiarity with `Linux` command-line tools: dig, `nslookup`, ping, `netstat`.
 * Basic knowledge of networking services and how internet infrastructure is organized.
 
 ## Required Knowledge
@@ -38,7 +38,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
 
 ## Objectives
 * Trace the full `DNS` resolution process from recursive query to authoritative answer
-* Understand every major `DNS` record type and `when` to use each
+* Understand every major `DNS` record type and when to use each
 * Configure and operate authoritative `DNS` servers and manage zones
 * Explain how recursive resolvers work and how caching affects resolution
 * Implement `DNSSEC` to cryptographically authenticate `DNS` responses
@@ -56,21 +56,21 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
     * `DNS` resolution: recursive queries, iterative queries, and referrals
     * The role of the root servers, TLD nameservers, and authoritative nameservers
     * Resolvers: stub resolvers, recursive resolvers, and forwarders
-    * `UDP` vs `TCP` in `DNS` and `when` `TCP` is used
+    * `UDP` vs `TCP` in `DNS` and when `TCP` is used
     * The `DNS` wire format: message structure, flags, and sections
     * `TTL` and how caching affects resolution behavior
 <!-- chapter: dns-record-types, duration: 2h -->
 * `DNS` Record Types
-    * `A` and `AAAA` records for `IPv4` and `IPv6` address mapping
-    * `CNAME` records: canonical names, limitations, and `ALIAS`/`ANAME` alternatives
+    * `A` and AAAA records for `IPv4` and `IPv6` address mapping
+    * `CNAME` records: canonical names, limitations, and ALIAS/`ANAME` alternatives
     * `MX` records and email routing priorities
     * `NS` records and zone delegation
-    * `TXT` records: `SPF`, `DKIM`, `DMARC`, and domain verification
+    * `TXT` records: SPF, `DKIM`, `DMARC`, and domain verification
     * `SRV` records for service discovery
     * `PTR` records and reverse `DNS` lookups
     * `SOA` record: zone authority, serial numbers, and refresh parameters
     * `CAA` records for certificate authority authorization
-    * Newer record types: `HTTPS`, `SVCB`, `TLSA`
+    * Newer record types: `HTTPS`, SVCB, `TLSA`
 <!-- chapter: authoritative-dns-and-zones, duration: 2h -->
 * Authoritative `DNS` and Zones
     * Zone files: structure, syntax, and best practices
@@ -78,15 +78,15 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
     * Zone delegation and `glue` records
     * Setting up authoritative `DNS` with `BIND` and `NSD`
     * `NOTIFY` and `TSIG`-secured zone transfers
-    * `Dynamic DNS` (`RFC 2136`) for programmatic record updates
+    * Dynamic `DNS` (`RFC 2136`) for programmatic record updates
     * Hosting zones in cloud providers: `Route 53`, `Cloud DNS`, `Azure DNS`
-    * Zone `file` management and change control practices
+    * Zone file management and change control practices
 <!-- chapter: recursive-resolvers, duration: 2h -->
 * Recursive Resolvers
     * How resolvers navigate the `DNS` hierarchy
     * Caching behavior: positive caching, negative caching (`NXDOMAIN`)
     * Cache poisoning and the importance of random source ports
-    * Configuring `Unbound` as a validating, caching resolver
+    * Configuring Unbound as a validating, caching resolver
     * `BIND` as a recursive resolver with forwarding and views
     * Public resolvers: `8.8.8.8`, `1.1.1.1`, `9.9.9.9` — differences and trade-offs
     * Resolver selection strategies for latency optimization
@@ -94,7 +94,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
 <!-- chapter: dnssec, duration: 2h -->
 * `DNSSEC`
     * Why `DNSSEC` is needed: the Kaminsky attack and its lessons
-    * `DNSSEC` records: `RRSIG`, `DNSKEY`, `DS`, `NSEC`, `NSEC3`
+    * `DNSSEC` records: RRSIG, DNSKEY, DS, NSEC, `NSEC3`
     * Zone signing and key types: KSK and ZSK
     * The chain of trust from root to authoritative zone
     * Enabling `DNSSEC` validation on resolvers
@@ -106,7 +106,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
     * Privacy problems with traditional `DNS`: eavesdropping and manipulation
     * `DNS` over `TLS` (`DoT`): protocol mechanics and port 853
     * `DNS` over `HTTPS` (`DoH`): embedding `DNS` in `HTTPS` traffic
-    * Configuring `DoT` and `DoH` in `Unbound` and `BIND`
+    * Configuring `DoT` and `DoH` in Unbound and `BIND`
     * Client-side `DoH`/`DoT` configuration in browsers and operating systems
     * `Oblivious DoH` (`ODoH`) for enhanced privacy
     * Deployment trade-offs: security, privacy, and enterprise inspection
@@ -137,7 +137,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
     * Monitoring `DNS` traffic for anomalies with query logging
 <!-- chapter: troubleshooting-dns, duration: 1h -->
 * Troubleshooting `DNS`
-    * `dig` in depth: query types, trace mode, and output interpretation
+    * dig in depth: query types, trace mode, and output interpretation
     * `nslookup` and `host` for quick lookups
     * `drill` for `DNSSEC`-aware queries
     * Checking delegation and zone propagation

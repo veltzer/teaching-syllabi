@@ -34,7 +34,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * Understanding of data warehousing and data lake concepts
 * Familiarity with `SQL` and distributed query engines
 * Basic knowledge of `Apache Spark` and `PySpark`
-* Understanding of `file` formats (`Parquet`, ORC, `Avro`)
+* Understanding of file formats (`Parquet`, ORC, `Avro`)
 * Familiarity with `cloud storage` (`S3`, `GCS`, `ADLS`)
 * Basic understanding of distributed systems concepts
 
@@ -70,7 +70,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * `Delta Lake`
     * `Delta Lake` architecture and design principles
     * The transaction log (_delta_log)
-    * Creating and managing `Delta` tables
+    * Creating and managing Delta tables
     * ACID transactions and concurrency control
     * Schema enforcement and schema evolution
     * Time travel with versioning
@@ -80,15 +80,15 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
     * `Delta Sharing` for secure data sharing
 <!-- chapter: apache-iceberg, duration: 2h -->
 * `Apache Iceberg`
-    * `Iceberg` architecture and table specification
+    * Iceberg architecture and table specification
     * Metadata tree: snapshots, manifests, and manifest lists
-    * Creating and managing `Iceberg` tables
+    * Creating and managing Iceberg tables
     * ACID transactions and snapshot isolation
     * Schema evolution: adding, dropping, renaming, and reordering columns
     * Partition evolution without rewriting data
     * Time travel and snapshot management
     * Hidden partitioning and partition transforms
-    * `Iceberg` with `Spark`, `Trino`, `Flink`, and other engines
+    * Iceberg with `Spark`, `Trino`, `Flink`, and other engines
     * Catalog integration (`Hive Metastore`, `AWS Glue`, Nessie)
 <!-- chapter: acid-transactions-on-data-lakes, duration: 2h -->
 * ACID Transactions on Data Lakes
@@ -120,7 +120,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 <!-- chapter: query-optimization-and-performance-tuning, duration: 2h -->
 * Query Optimization and Performance Tuning
     * Data layout optimization: Z-ordering, clustering, sorting
-    * `File` compaction and small `file` problem
+    * `File` compaction and small file problem
     * Data skipping with column statistics
     * Partition pruning strategies
     * Predicate pushdown and filter optimization

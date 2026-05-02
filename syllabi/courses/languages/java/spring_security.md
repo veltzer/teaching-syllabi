@@ -31,11 +31,11 @@ This course provides an in-depth exploration of `Spring Security` for building s
 
 ## Prerequisites
 * Intermediate proficiency in `Java` programming (classes, interfaces, annotations)
-* Working knowledge of `Spring Boot` and the `Spring` ecosystem
+* Working knowledge of `Spring Boot` and the Spring ecosystem
 * Understanding of `HTTP` protocol, `REST API` concepts, and web application architecture
 * Basic familiarity with relational databases and `SQL`
 * Awareness of common web security concepts (authentication vs. authorization)
-* Experience with an IDE such as `IntelliJ IDEA` or `Eclipse`
+* Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
 * Understand the `Spring Security` architecture, filter chain, and request processing pipeline
@@ -50,7 +50,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
 ## Outline
 <!-- chapter: spring-security-architecture, duration: 2h -->
 * `Spring Security` Architecture
-    * Overview of `Spring Security` and its role in the `Spring` ecosystem
+    * Overview of `Spring Security` and its role in the Spring ecosystem
     * The security filter chain and how requests are processed
     * SecurityContext and the Authentication object
     * SecurityFilterChain bean configuration
@@ -82,7 +82,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
     * @Secured and @RolesAllowed annotations
     * @PreFilter and @PostFilter for collection filtering
     * Custom security expressions
-    * Method security with SpEL (`Spring` Expression Language)
+    * Method security with SpEL (Spring Expression Language)
 <!-- chapter: oauth2-and-openid-connect, duration: 2h -->
 * `OAuth2` and `OpenID Connect`
     * Introduction to `OAuth2` flows and grant types

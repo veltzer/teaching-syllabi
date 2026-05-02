@@ -27,7 +27,7 @@ audience:
 * Data scientists and analysts querying large-scale datasets interactively
 * Platform engineers deploying and operating `Trino` clusters
 * Architects evaluating distributed `SQL` engines for analytical workloads
-* Engineers migrating from `Hive`, `Presto`, or `Spark SQL` to `Trino`
+* Engineers migrating from Hive, Presto, or `Spark SQL` to `Trino`
 
 ## Prerequisites
 * Strong proficiency in `SQL`: joins, aggregations, window functions, and CTEs
@@ -43,7 +43,7 @@ audience:
 ## Objectives
 * Understand `Trino`'s architecture and how it executes distributed queries
 * Install and configure a `Trino` cluster with coordinators and workers
-* Configure and use connectors for `Hive`, `Iceberg`, `Delta Lake`, `JDBC`, and more
+* Configure and use connectors for Hive, Iceberg, `Delta Lake`, `JDBC`, and more
 * Write advanced `Trino SQL` using built-in functions, `lambda` expressions, and window functions
 * Analyse and optimise query plans for improved performance
 * Implement security with authentication, authorisation, and column-level masking
@@ -57,7 +57,7 @@ audience:
     * What is `Trino` and the problem it solves
     * History: `Facebook Presto`, `PrestoSQL`, and the `Trino` rename
     * Key characteristics: ANSI `SQL`, federated queries, pluggable connectors
-    * `Trino` vs `Hive`, `Impala`, `Spark SQL`, and `BigQuery`
+    * `Trino` vs Hive, Impala, `Spark SQL`, and `BigQuery`
     * Typical use cases: interactive analytics, data lake queries, data federation
     * `Trino` in the modern data stack
     * Overview of the `Trino` community and ecosystem
@@ -82,10 +82,10 @@ audience:
     * `Trino CLI` and `JDBC` driver setup
     * Health checks and readiness probes for production deployments
 <!-- chapter: connectors-hive-iceberg-delta-lake-jdbc, duration: 3h -->
-* Connectors: `Hive`, `Iceberg`, `Delta Lake`, `JDBC`
-    * `Hive` connector: configuring the `Hive Metastore`, reading `ORC` and `Parquet`
-    * `Iceberg` connector: table formats, schema evolution, and time travel
-    * `Delta Lake` connector: reading `Delta` tables from `S3` and `ADLS`
+* Connectors: Hive, Iceberg, `Delta Lake`, `JDBC`
+    * Hive connector: configuring the `Hive Metastore`, reading ORC and `Parquet`
+    * Iceberg connector: table formats, schema evolution, and time travel
+    * `Delta Lake` connector: reading Delta tables from `S3` and `ADLS`
     * `JDBC` connectors: `PostgreSQL`, `MySQL`, `SQL Server` — configuration and limitations
     * `Kafka` connector for querying streaming data
     * `MongoDB` and `Elasticsearch` connectors for `NoSQL` federation
@@ -94,11 +94,11 @@ audience:
 <!-- chapter: trino-sql-and-functions, duration: 3h -->
 * `Trino SQL` and Functions
     * ANSI `SQL` compliance and `Trino` extensions
-    * Data types: primitive, complex (`ARRAY`, `MAP`, `ROW`), and `JSON`
+    * Data types: primitive, complex (`ARRAY`, MAP, ROW), and `JSON`
     * String, date/time, and mathematical functions
-    * `Array` and map functions: `transform`, `filter`, `reduce`, `map_filter`
+    * `Array` and map functions: transform, filter, reduce, `map_filter`
     * `Lambda` expressions and higher-order functions
-    * Window functions: `ROW_NUMBER`, `RANK`, `LAG`, `LEAD`, `NTILE`
+    * Window functions: `ROW_NUMBER`, RANK, LAG, LEAD, `NTILE`
     * Approximate aggregations: `approx_distinct`, `approx_percentile`
     * `UNNEST` for flattening arrays and maps
     * Regular expression functions and `LIKE` patterns
@@ -109,8 +109,8 @@ audience:
     * Cost-based optimiser: statistics collection and table statistics
     * Partition pruning and predicate pushdown
     * Join strategies: broadcast join, partitioned join, dynamic filtering
-    * Optimising `file` formats: `Parquet` vs `ORC`, column statistics, and row groups
-    * `Iceberg` table optimisation: compaction, sorting, and Z-ordering
+    * Optimising file formats: `Parquet` vs `ORC`, column statistics, and row groups
+    * Iceberg table optimisation: compaction, sorting, and Z-ordering
     * Query resource groups and workload management
     * Identifying and resolving slow queries with the `Trino UI`
     * Memory spilling configuration for large aggregations
@@ -118,7 +118,7 @@ audience:
 * Security and Access Control
     * Authentication options: `Kerberos`, `LDAP`, `JWT`, `OAuth2`, certificates
     * Internal cluster communication security with `TLS`
-    * Authorisation with `file`-based rules and `Apache Ranger`
+    * Authorisation with file-based rules and `Apache Ranger`
     * Column-level security: column masking and row filtering
     * System access control and connector-level permissions
     * User impersonation and service account patterns
@@ -127,7 +127,7 @@ audience:
 <!-- chapter: federation-joining-data-across-sources, duration: 2h -->
 * Federation: Joining Data Across Sources
     * What is query federation and why it is powerful
-    * Cross-connector `JOIN` queries: `Hive` + `PostgreSQL` + `Kafka`
+    * Cross-connector `JOIN` queries: Hive + `PostgreSQL` + `Kafka`
     * Federated query planning and optimisation challenges
     * Push-down capabilities and their impact on federated query performance
     * Data virtualisation patterns with `Trino`
@@ -153,15 +153,15 @@ audience:
     * Resource management and multi-tenancy
     * Operational complexity and cluster management
     * Community, commercial support, and long-term trajectory
-    * Decision framework: `when` to use `Trino`, `when` to use `Spark SQL`
+    * Decision framework: when to use `Trino`, when to use `Spark SQL`
 <!-- chapter: trino-in-the-modern-data-stack, duration: 1h -->
 * `Trino` in the Modern Data Stack
     * `Trino` as the query layer in a data lakehouse
     * Integration with `Apache Iceberg` for open table format analytics
     * Connecting `Trino` to `dbt` for transformation workflows
-    * `Trino` with `Apache Superset`, `Metabase`, and `Tableau` for BI
-    * Managed `Trino` offerings: `Starburst`, `AWS Athena`, `Lyft Presto`
-    * Migration paths from legacy `Hive` workloads to `Trino`
+    * `Trino` with `Apache Superset`, `Metabase`, and Tableau for BI
+    * Managed `Trino` offerings: Starburst, `AWS Athena`, `Lyft Presto`
+    * Migration paths from legacy Hive workloads to `Trino`
     * Future directions: `Trino` native execution engine and `Velox` integration
 
 ## Copyright

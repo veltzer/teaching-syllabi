@@ -29,7 +29,7 @@ in code, the platform that makes data products viable for non-platform teams, co
 governance, the realistic migration story from a centralized data team to a mesh, the operational
 discipline (`SLOs` for data, lineage, discovery, deprecation), the org and team-topology implications, and
 the failure modes. The course is grounded in the original `Zhamak Dehghani` writing and the public
-case studies from `Zalando`, `Netflix`, `Intuit`, `JPMorgan` and similar organizations.
+case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizations.
 
 ## Duration
 40 hours / 5 days
@@ -85,7 +85,7 @@ case studies from `Zalando`, `Netflix`, `Intuit`, `JPMorgan` and similar organiz
 * Data product contracts
     * schema, semantics, freshness, ownership
     * cross-reference to the Data Quality and Validation course
-    * `Avro`, `Protobuf`, `JSON Schema` as contracts for data
+    * `Avro`, Protobuf, `JSON Schema` as contracts for data
     * versioning and breaking-change discipline
     * the "consumer-driven data contract" pattern
     * automated contract enforcement in `CI`
@@ -116,7 +116,7 @@ case studies from `Zalando`, `Netflix`, `Intuit`, `JPMorgan` and similar organiz
 <!-- chapter: discovery-and-the-data-catalog, duration: 3h -->
 * Discovery and the data catalog
     * the catalog as the front door
-    * `DataHub`, `OpenMetadata`, `Atlan`, `Collibra`, `Amundsen`
+    * `DataHub`, OpenMetadata, Atlan, Collibra, `Amundsen`
     * the catalog and the platform `IDP`
     * search, lineage, ownership in the catalog
     * the catalog that is and is not maintained
@@ -130,7 +130,7 @@ case studies from `Zalando`, `Netflix`, `Intuit`, `JPMorgan` and similar organiz
     * `SLOs` for data products
 <!-- chapter: data-mesh-on-modern-warehouses-and-lakehouses, duration: 3h -->
 * Data mesh on modern warehouses and lakehouses
-    * `Snowflake`, `BigQuery`, `Databricks` for mesh
+    * Snowflake, `BigQuery`, `Databricks` for mesh
     * `Apache Iceberg` and `Delta Lake` as mesh substrates
     * cross-account / cross-project access patterns
     * data sharing primitives
@@ -166,7 +166,7 @@ case studies from `Zalando`, `Netflix`, `Intuit`, `JPMorgan` and similar organiz
     * the data product that nobody owns
     * the unfunded mandate
     * walkthrough of a public mesh case study
-    * recommended reading: `Dehghani`, `Zalando` and `Netflix` blog posts
+    * recommended reading: `Dehghani`, Zalando and `Netflix` blog posts
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

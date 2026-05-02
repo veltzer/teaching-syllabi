@@ -66,7 +66,7 @@ This course provides a comprehensive guide to measuring, analyzing, and improvin
 <!-- chapter: lazy-loading, duration: 1h -->
 * Lazy Loading
     * Native lazy loading for images and iframes
-    * Component-level lazy loading in `React`, Vue, and `Angular`
+    * Component-level lazy loading in React, Vue, and Angular
     * Intersection Observer `API`
     * Loading priorities and strategies
 <!-- chapter: code-splitting-and-tree-shaking, duration: 2h -->

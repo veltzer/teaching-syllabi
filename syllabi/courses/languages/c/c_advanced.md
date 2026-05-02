@@ -9,24 +9,24 @@ audience:
   - audiences:developers
 ---
 <!-- course: c_advanced -->
-# `C` Advanced
+# C Advanced
 
 ## Description
-This course covers advanced `C` programming topics for experienced developers working on `Linux`. Topics include advanced debugging with `gdb`, memory allocation strategies and leak detection, dynamic shared objects, performance measurement and optimization, multi-`threading` with pthreads, and managing large `C` projects. The course also covers `C99` features and the `C` pre-processor in depth.
+This course covers advanced C programming topics for experienced developers working on `Linux`. Topics include advanced debugging with `gdb`, memory allocation strategies and leak detection, dynamic shared objects, performance measurement and optimization, multi-`threading` with pthreads, and managing large C projects. The course also covers `C99` features and the C pre-processor in depth.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* `C` programmers
+* C programmers
 * embedded and systems software developers
 
 ## Prerequisites
 * working experience with `c`
-* `solid` experience with `C` programming
+* `solid` experience with C programming
 
 ## Objectives
-* understand the core concepts and principles of `C` Advanced
+* understand the core concepts and principles of C Advanced
 * gain practical knowledge of Debugging using `gdb` and friends
 * gain practical knowledge of Various ways of allocation memory
 * gain practical knowledge of Memory leaks and memory corruption
@@ -56,12 +56,12 @@ This course covers advanced `C` programming topics for experienced developers wo
 <!-- chapter: memory-leaks-and-memory-corruption, duration: 1h -->
 * Memory leaks and memory corruption
     * mprotect and friends.
-    * shaking things up to `find` bugs.
+    * shaking things up to find bugs.
     * padding to detect memory corruption.
     * `malloc` debugging in the standard library (`mcheck(3)`)
     * `dmalloc`
 <!-- chapter: c-pre-processor, duration: 1h -->
-* `C`-Pre processor
+* C-Pre processor
     * var args macros
     * quoting in macros
     * writing type independent functions using the pre-processor.
@@ -73,15 +73,15 @@ This course covers advanced `C` programming topics for experienced developers wo
     * Versions and dependencies of DSOs.
     * DSO and rpath.
     * GOT, PLT and DSO performance vs static library performance.
-    * Weak symbols in `C`.
+    * Weak symbols in C.
     * Resolver functions.
     * LD_LIBRARY_PATH, LD_PRELOAD, LD_RUN_PATH, ldconfig
     * `dlopen(3)`, `dlsym(3)` and their performance.
 <!-- chapter: c-technical-issues, duration: 1h -->
-* `C` technical issues
-    * 32<->64 bit issues and `C` programming.
+* C technical issues
+    * 32<->64 bit issues and C programming.
 <!-- chapter: performance-in-c, duration: 2h -->
-* Performance in `C`
+* Performance in C
     * inline.
     * compiler attributes for functions.
     * restricted pointers.
@@ -89,19 +89,19 @@ This course covers advanced `C` programming topics for experienced developers wo
     * using `CPU` specific libraries.
     * `CPU` cache lines and performance.
 <!-- chapter: advanced-topics-in-make, duration: 1h -->
-* Advanced topics in `Make`
+* Advanced topics in Make
     * Non recursive `make` approach.
     * Handling dependencies automatically for source files.
     * Managing a large project.
 <!-- chapter: issues-with-large-c-projects, duration: 2h -->
-* Issues with large `C` projects
-    * h `file` organization in large projects.
+* Issues with large C projects
+    * h file organization in large projects.
     * private vs public h files.
-    * helping the debugger `find` all your source code for debugging.
+    * helping the debugger find all your source code for debugging.
     * versioning object files, libraries and executables.
     * building large projects.
 <!-- chapter: measuring-performance-in-c, duration: 1h -->
-* Measuring performance in `C`
+* Measuring performance in C
     * tools: callgrind, `perf`, oprofile, gperf
     * measuring it yourself: `gettimeofday()`, RDTSC
 <!-- chapter: c99-issues, duration: 5h -->
@@ -123,7 +123,7 @@ This course covers advanced `C` programming topics for experienced developers wo
     * universal character names
     * static in `array` indices
 <!-- chapter: multi-threading-and-synchronization-in-c-on-linux, duration: 2h -->
-* Multi-`threading` and Synchronization in `C` on `Linux`
+* Multi-`threading` and Synchronization in C on `Linux`
     * pthreads
     * compiler barriers and machine barriers
     * review of all synchronization mechanisms

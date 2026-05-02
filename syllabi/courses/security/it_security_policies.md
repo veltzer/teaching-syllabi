@@ -67,7 +67,7 @@ This intensive one-day training program covers essential IT security policies an
 * Data Protection and Privacy
     * Data classification
     * Encryption basics
-    * Secure `file` sharing
+    * Secure file sharing
     * Privacy regulations overview (`GDPR`, `CCPA`)
     * Mobile device security
     * Practical Exercise: `File` encryption
@@ -89,7 +89,7 @@ This intensive one-day training program covers essential IT security policies an
     * Emergency contact procedures
 <!-- chapter: security-best-practices, duration: 1h -->
 * Security Best Practices
-    * `Clean` desk policy
+    * Clean desk policy
     * Social media security
     * Physical security awareness
     * Third-party vendor security

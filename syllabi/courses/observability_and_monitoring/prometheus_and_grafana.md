@@ -21,7 +21,7 @@ As current deployed applications and systems are becoming more complex with tool
 
 `Prometheus` is a widely used time series database for storing online performance data of running systems and allow to create alerts in cases of issues. `Prometheus` is used in conjunction with other visualization solution in order to visualize on line and historic data to system engineers.
 
-`Grafana` is a widely used visualization solution used to create dashboards and panels that `let` engineers penetrate the complexity of today's deployments. It is fairly easy to use and flexible and allow end user, even those without programming experience, to modify panels and dashboards and get at the information that they need.
+`Grafana` is a widely used visualization solution used to create dashboards and panels that let engineers penetrate the complexity of today's deployments. It is fairly easy to use and flexible and allow end user, even those without programming experience, to modify panels and dashboards and get at the information that they need.
 
 ## Duration
 16 hours / 2 days

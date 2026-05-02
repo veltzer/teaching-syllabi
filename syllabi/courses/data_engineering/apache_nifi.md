@@ -63,10 +63,10 @@ audience:
     * Overview of the `NiFi` ecosystem: `NiFi Registry`, `MiNiFi`, `NiFi Stateless`
 <!-- chapter: nifi-architecture-and-components, duration: 2h -->
 * `NiFi` Architecture and Components
-    * `NiFi` `JVM` architecture: `FlowController`, `ProcessScheduler`, `ContentRepository`
+    * `NiFi` `JVM` architecture: FlowController, ProcessScheduler, `ContentRepository`
     * Repository types: `FlowFile` repository, content repository, provenance repository
     * The `FlowFile`: attributes, content, and lineage
-    * Processors: lifecycle (`RUNNING`, `STOPPED`, `INVALID`), scheduling strategies
+    * Processors: lifecycle (`RUNNING`, STOPPED, `INVALID`), scheduling strategies
     * Connections: queues, prioritisation, and back-pressure thresholds
     * Process groups and remote process groups for flow organisation
     * Controller services and reporting tasks
@@ -75,7 +75,7 @@ audience:
 * `NiFi` Flow Design
     * Design principles for maintainable and reusable flows
     * Input/output ports and process group composition
-    * Routing `FlowFiles` with `RouteOnAttribute` and `RouteOnContent`
+    * Routing `FlowFiles` with RouteOnAttribute and `RouteOnContent`
     * Handling `FlowFile` failures and the failure relationship
     * Using funnels, labels, and comments for readable flows
     * Template-based flow reuse (legacy) vs `NiFi Registry`-based reuse
@@ -83,12 +83,12 @@ audience:
     * Designing for idempotency and exactly-once semantics
 <!-- chapter: processors-and-connections, duration: 3h -->
 * Processors and Connections
-    * Ingestion processors: `GetFile`, `GetHTTP`, `ConsumeKafka`, `ListS3`, `QueryDatabaseTable`
-    * Transformation processors: `UpdateAttribute`, `ReplaceText`, `JoltTransformJSON`, `ExecuteScript`
-    * Routing and control flow: `RouteOnAttribute`, `RouteOnContent`, `ControlRate`
-    * Output processors: `PutFile`, `PutKafka`, `PutS3Object`, `PutDatabaseRecord`
+    * Ingestion processors: `GetFile`, GetHTTP, ConsumeKafka, ListS3, `QueryDatabaseTable`
+    * Transformation processors: `UpdateAttribute`, ReplaceText, JoltTransformJSON, `ExecuteScript`
+    * Routing and control flow: `RouteOnAttribute`, RouteOnContent, `ControlRate`
+    * Output processors: `PutFile`, PutKafka, PutS3Object, `PutDatabaseRecord`
     * Expression Language for dynamic attribute evaluation
-    * Record-based processors: `QueryRecord`, `ConvertRecord`, `LookupRecord`
+    * Record-based processors: `QueryRecord`, ConvertRecord, `LookupRecord`
     * Connection prioritisation and `FlowFile` expiration policies
     * Monitoring processor performance metrics
 <!-- chapter: controller-services, duration: 2h -->
@@ -156,7 +156,7 @@ audience:
     * Ingesting data from relational databases with CDC and `QueryDatabaseTable`
     * Building `Kafka`-to-data-lake pipelines with schema registry integration
     * `REST` `API` polling and enrichment pipelines
-    * `S3` event-driven ingestion with `ListS3` and `FetchS3Object`
+    * `S3` event-driven ingestion with ListS3 and `FetchS3Object`
     * Data quality validation and routing pipelines
     * Error handling patterns: retry queues, dead letter flows, and alerting
     * Performance tuning: back-pressure, concurrent tasks, and repository sizing

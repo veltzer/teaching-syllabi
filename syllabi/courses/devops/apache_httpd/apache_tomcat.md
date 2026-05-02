@@ -15,15 +15,15 @@ audience:
 # `Apache Tomcat`
 
 ## Description
-`Apache Tomcat` is the most widely used open-source `Java` servlet container and web server, powering countless enterprise applications. This course covers `Tomcat` architecture, configuration, deployment, security, and performance tuning. Students will learn to install and manage `Tomcat` instances, deploy web applications, configure connection pools, set up clustering, and monitor production environments.
+`Apache Tomcat` is the most widely used open-source `Java` servlet container and web server, powering countless enterprise applications. This course covers Tomcat architecture, configuration, deployment, security, and performance tuning. Students will learn to install and manage Tomcat instances, deploy web applications, configure connection pools, set up clustering, and monitor production environments.
 
 ## Duration
 16 hours / 1 day
 
 ## Intended Audience
-* `Java` developers deploying web applications on `Tomcat`
-* System administrators managing `Tomcat` server infrastructure
-* `DevOps` engineers responsible for `Tomcat` deployment and operations
+* `Java` developers deploying web applications on Tomcat
+* System administrators managing Tomcat server infrastructure
+* `DevOps` engineers responsible for Tomcat deployment and operations
 
 ## Prerequisites
 * Basic `Java` and web application concepts
@@ -37,14 +37,14 @@ audience:
 * Install and configure `Apache Tomcat`
 * Deploy and manage web applications
 * Configure JNDI resources and `JDBC` connection pools
-* Secure `Tomcat` with `SSL/TLS` and access controls
-* Monitor `Tomcat` with `JMX` and logging
-* Tune `Tomcat` for optimal performance
+* Secure Tomcat with `SSL/TLS` and access controls
+* Monitor Tomcat with `JMX` and logging
+* Tune Tomcat for optimal performance
 
 ## Outline
 <!-- chapter: tomcat-architecture, duration: 1h -->
-* `Tomcat` Architecture
-    * `Tomcat` components overview
+* Tomcat Architecture
+    * Tomcat components overview
     * Catalina (servlet container)
     * Coyote (`HTTP` connector)
     * Jasper (JSP engine)
@@ -77,7 +77,7 @@ audience:
     * Host-specific logging
 <!-- chapter: web-application-deployment, duration: 1h -->
 * Web Application Deployment
-    * WAR `file` structure
+    * WAR file structure
     * Deploying via the Manager application
     * Hot deployment and autoDeploy
     * Context configuration
@@ -92,7 +92,7 @@ audience:
     * Custom resource factories
 <!-- chapter: jdbc-connection-pools, duration: 1h -->
 * `JDBC` Connection Pools
-    * `Tomcat` `JDBC` connection pool
+    * Tomcat `JDBC` connection pool
     * Configuration parameters (maxActive, maxIdle, maxWait)
     * Validation queries
     * Connection leak detection
@@ -132,7 +132,7 @@ audience:
     * Running as non-root user
 <!-- chapter: logging, duration: 1h -->
 * Logging
-    * `Tomcat` logging architecture (JULI)
+    * Tomcat logging architecture (JULI)
     * Access log valve configuration
     * Application logging
     * Log rotation
@@ -143,11 +143,11 @@ audience:
     * MBeans overview
     * Monitoring with JConsole and VisualVM
     * Key metrics to monitor
-    * Health `check` endpoints
+    * Health check endpoints
     * Integration with monitoring tools
 <!-- chapter: performance-tuning, duration: 2h -->
 * Performance Tuning
-    * `JVM` tuning for `Tomcat` (heap size, garbage collection)
+    * `JVM` tuning for Tomcat (heap size, garbage collection)
     * Connector thread pool optimization
     * Compression and caching
     * Static content serving

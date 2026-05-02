@@ -14,7 +14,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: terraform -->
-<!-- Track gap: `Packer` integration for machine image building -->
+<!-- Track gap: Packer integration for machine image building -->
 # `Terraform` / Infrastructure as Code
 
 ## Description
@@ -67,7 +67,7 @@ attending.
     * HCL syntax fundamentals
     * The `Terraform` workflow (init, plan, apply, destroy)
     * `Terraform` `CLI` commands and options
-    * Configuration `file` structure and organization
+    * Configuration file structure and organization
 <!-- chapter: providers, duration: 2h -->
 * Providers
     * What are providers and how they work
@@ -82,7 +82,7 @@ attending.
     * Resource dependencies (implicit and explicit)
     * Data sources for reading existing infrastructure
     * Resource meta-arguments (count, for_each, depends_on, lifecycle)
-    * Provisioners and `when` to use them
+    * Provisioners and when to use them
     * Import of existing resources
 <!-- chapter: variables-and-outputs, duration: 2h -->
 * Variables and Outputs
@@ -104,7 +104,7 @@ attending.
 * State Management
     * Understanding `Terraform` state
     * Local vs remote state
-    * State `file` structure and contents
+    * State file structure and contents
     * State locking and concurrency
     * State manipulation commands (`state mv`, `state rm`, taint, untaint)
     * Handling state drift
@@ -134,7 +134,7 @@ attending.
     * Limitations and alternatives to workspaces
 <!-- chapter: terragrunt, duration: 2h -->
 * Terragrunt
-    * What is Terragrunt and `when` to use it
+    * What is Terragrunt and when to use it
     * DRY configuration with Terragrunt
     * Managing multiple environments
     * Dependency management between modules

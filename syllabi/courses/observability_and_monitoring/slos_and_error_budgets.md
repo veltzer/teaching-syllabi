@@ -26,10 +26,10 @@ contract between engineering and the business. It is the difference between "we 
 
 This two day course covers `SLOs` as a working engineering practice. It covers the `SLI` design
 problem (request-driven, pipeline-driven, capacity-driven), the multi-window multi-burn-rate alerting
-algorithm, the error budget as the cross-functional currency, the freeze-`when`-budget-exhausted policy
+algorithm, the error budget as the cross-functional currency, the freeze-when-budget-exhausted policy
 and its alternatives, the `SLO` review meeting, the relationship of `SLOs` to release engineering, the
 shape of an `SLO` for a streaming pipeline vs a request-response service, the customer-facing `SLA` vs
-the internal `SLO`, and the patterns that `make` `SLOs` succeed or fail in a real organization.
+the internal `SLO`, and the patterns that make `SLOs` succeed or fail in a real organization.
 Examples are drawn from the `Google SRE` books and the public engineering writing of organizations
 that ship `SLO` programs that actually work. Participants leave able to set up `SLOs` that the team
 will respect and the business will trust.
@@ -60,7 +60,7 @@ will respect and the business will trust.
 ## Outline
 <!-- chapter: what-an-slo-actually-is, duration: 1h -->
 * What an `SLO` actually is
-    * `SLI`, `SLO`, `SLA` — the three layers
+    * `SLI`, SLO, `SLA` — the three layers
     * the `SLO` as a contract with users
     * the error budget as the consequence
     * cross-reference to the Site Reliability Engineering course
@@ -126,7 +126,7 @@ will respect and the business will trust.
 * `SLOs` and release engineering
     * the budget-driven release decision
     * the canary success criterion as `SLO`-bound
-    * the "ship-Friday-`when`-budget-is-healthy" rule
+    * the "ship-Friday-when-budget-is-healthy" rule
     * cross-reference to the Release Engineering course
     * cross-reference to the Feature Flags course
 <!-- chapter: organizational-patterns, duration: 1h -->

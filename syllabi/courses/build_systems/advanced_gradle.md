@@ -85,7 +85,7 @@ This advanced course dives deep into `Gradle`'s most powerful features for build
     * Composite builds vs multi-project builds
 <!-- chapter: gradle-kotlin-dsl, duration: 1h -->
 * `Gradle` `Kotlin` DSL
-    * Migrating from `Groovy` DSL to `Kotlin` DSL
+    * Migrating from Groovy DSL to `Kotlin` DSL
     * Type-safe accessors
     * IDE support and code completion
     * Common patterns and idioms

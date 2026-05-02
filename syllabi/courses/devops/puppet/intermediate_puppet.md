@@ -12,21 +12,21 @@ audience:
   - audiences:devops
 ---
 <!-- course: intermediate_puppet -->
-# Intermediate `Puppet`
+# Intermediate Puppet
 
 ## Description
-`Puppet` is a leading open source infrastructure automation and delivery tool used for
-configuration management. `Puppet` makes it easier for developers, system administrators and
+Puppet is a leading open source infrastructure automation and delivery tool used for
+configuration management. Puppet makes it easier for developers, system administrators and
 `Devops` engineers to manage large server deployments as they scale their products/services
 for web scale.
 
-The Intermediate `Puppet` training course is designed to engage students in more of the features
-of `Puppet` such as the `Puppet` language, custom functions, facter, Hiera, `rspec` and
+The Intermediate Puppet training course is designed to engage students in more of the features
+of Puppet such as the Puppet language, custom functions, facter, Hiera, `rspec` and
 architecture beyond what they may have learned in introductory courses. The course begins
-with a deep understanding of `Puppet` language with hands-on labs addressing real world
-scenarios. Next, students will learn how to write their own custom functions to extend `Puppet` to
+with a deep understanding of Puppet language with hands-on labs addressing real world
+scenarios. Next, students will learn how to write their own custom functions to extend Puppet to
 automate processes that may be considered custom to their own infrastructure. Students will
-get more familiar with Facter and understand how to use it with `Puppet`. Finally, students will `dig`
+get more familiar with Facter and understand how to use it with Puppet. Finally, students will dig
 into Hiera and `rspec` ending with exercises to test their manifests.
 
 ## Duration
@@ -34,39 +34,39 @@ into Hiera and `rspec` ending with exercises to test their manifests.
 
 ## Intended Audience
 * Software developers, system administrators, quality assurance engineers and `Devops`
-engineers who want to understand how to do more with `Puppet`.
-* Generalists who wish to understand `Puppet` and it's scope.
+engineers who want to understand how to do more with Puppet.
+* Generalists who wish to understand Puppet and it's scope.
 
 ## Prerequisites
-* Students should have working knowledge of `Puppet` prior to the course and/or have taken the
-"Introduction to `Puppet`" course.
+* Students should have working knowledge of Puppet prior to the course and/or have taken the
+"Introduction to Puppet" course.
 
 ## Objectives
-* Learn more advanced features of `Puppet` for managing your technical infrastructure and
+* Learn more advanced features of Puppet for managing your technical infrastructure and
 improve your application delivery process.
-* Understand and use the `Puppet` development language
-* Create your own custom functions to be used within `Puppet`
+* Understand and use the Puppet development language
+* Create your own custom functions to be used within Puppet
 * Learn how to use Facter
 * Use Hiera to define and use data sources.
 * Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
 <!-- chapter: from-zero-to-puppet, duration: 2h -->
-* From zero to `Puppet`
+* From zero to Puppet
     * Configuration Management
-    * Installing the `Puppet` `CLI`
+    * Installing the Puppet `CLI`
     * Basic operations
 <!-- chapter: puppet-language-primer, duration: 2h -->
-* `Puppet` Language Primer
-    * Working with `Puppet` Apply and Manifests
-    * Working with `Puppet` Resources
-    * Exposing the `Puppet` Language
+* Puppet Language Primer
+    * Working with Puppet Apply and Manifests
+    * Working with Puppet Resources
+    * Exposing the Puppet Language
     * Managing Resource Relationships
 <!-- chapter: writing-custom-functions, duration: 2h -->
 * Writing Custom Functions
     * What are functions?
     * Create your own functions
-    * Using `Ruby` to create functions instead of `Puppet` language
+    * Using Ruby to create functions instead of Puppet language
 <!-- chapter: deep-dive-into-facter, duration: 3h -->
 * Deep dive into Facter
     * What is Facter?
@@ -91,7 +91,7 @@ improve your application delivery process.
     * Plans
     * Tasks
     * Modules
-    * Using Bolt with `Puppet`
+    * Using Bolt with Puppet
 <!-- chapter: rspec-puppet, duration: 8h -->
 * `Rspec`-`puppet`
     * Installing `rspec`-`puppet`

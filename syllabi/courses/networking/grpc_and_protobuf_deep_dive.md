@@ -24,7 +24,7 @@ basics of "define a service, call a method" into the parts of `gRPC` that matter
 streaming patterns, deadlines and cancellation, interceptors, error handling, schema evolution, performance tuning and
 operational concerns.
 
-The course is implementation-language-agnostic but uses `Go` and `Python` examples throughout. Participants leave
+The course is implementation-language-agnostic but uses Go and `Python` examples throughout. Participants leave
 able to design `gRPC` APIs that survive long-term schema evolution, build resilient clients and servers, debug `gRPC`
 in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and message-based alternatives.
 
@@ -38,7 +38,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * engineers migrating from `REST` to `gRPC` or running both side by side
 
 ## Prerequisites
-* working knowledge of at least one mainstream programming language (`Go`, `Python`, `Java`, `C++`, `C#`, `TypeScript`)
+* working knowledge of at least one mainstream programming language (Go, `Python`, `Java`, `C++`, `C#`, `TypeScript`)
 * basic networking knowledge: `TCP`, `HTTP`, `TLS`
 * familiarity with at least one `RPC` or `REST API` style
 
@@ -50,14 +50,14 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * implement and compose interceptors for cross-cutting concerns
 * operate `gRPC` services through gateways, load balancers and `service mesh`
 * tune `gRPC` performance and diagnose latency issues
-* choose between `gRPC`, `gRPC-Web`, `Connect`, `REST` and `GraphQL`
+* choose between `gRPC`, `gRPC-Web`, Connect, `REST` and `GraphQL`
 
 ## Outline
 <!-- chapter: rpc-history-and-where-grpc-fits, duration: 1h -->
 * `RPC` history and where `gRPC` fits
-    * brief history: `Sun RPC`, `CORBA`, `Thrift`, `gRPC`
+    * brief history: `Sun RPC`, CORBA, Thrift, `gRPC`
     * `gRPC` design goals
-    * `gRPC` vs `REST`, `GraphQL`, `Thrift`, `JSON-RPC`
+    * `gRPC` vs `REST`, `GraphQL`, Thrift, `JSON-RPC`
     * the `gRPC` ecosystem
 <!-- chapter: protobuf-language-and-encoding, duration: 4h -->
 * `Protobuf` language and encoding
@@ -67,7 +67,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
     * varints and zig-zag encoding
     * default values and field presence
     * unknown fields and forward compatibility
-    * well-known types (`Timestamp`, `Duration`, `Any`, `Struct`)
+    * well-known types (`Timestamp`, Duration, Any, `Struct`)
 <!-- chapter: schema-design-and-evolution, duration: 3h -->
 * Schema design and evolution
     * field numbers as the durable contract
@@ -81,7 +81,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * Code generation and toolchain
     * `protoc` and the plugin model
     * the `Buf` build system
-    * generating `Go`, `Python`, `Java`, `TypeScript` code
+    * generating Go, `Python`, `Java`, `TypeScript` code
     * managing generated code in monorepos vs polyrepos
     * schema registries for `Protobuf`
 <!-- chapter: the-four-call-patterns, duration: 3h -->
@@ -140,7 +140,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * `gRPC-Web` and the browser
     * why browsers cannot speak native `gRPC`
     * the `gRPC-Web` protocol
-    * `Envoy` `gRPC-Web` filter
+    * Envoy `gRPC-Web` filter
     * `Connect` as a modern alternative
     * client tooling for `TypeScript`
 <!-- chapter: grpc-gateway-and-coexistence-with-rest, duration: 2h -->
@@ -161,7 +161,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * Performance tuning
     * latency budgets and the `gRPC` overhead
     * message size limits and chunking
-    * compression options and `when` to use them
+    * compression options and when to use them
     * connection pooling and keep-alive
     * server resource tuning
     * benchmarking with `ghz` and similar tools
@@ -180,11 +180,11 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
     * mutual `TLS` from the mesh
     * retries and circuit breaking at the mesh layer
     * observability at the mesh layer
-    * `when` to push concerns into the mesh and `when` not to
+    * when to push concerns into the mesh and when not to
 <!-- chapter: case-studies-and-wrap-up, duration: 1h -->
 * Case studies and wrap up
     * real-world `gRPC` rollouts and lessons learned
-    * comparing `gRPC`, `Connect` and `REST` for several scenarios
+    * comparing `gRPC`, Connect and `REST` for several scenarios
     * recommended reading and tooling
 
 ## Copyright

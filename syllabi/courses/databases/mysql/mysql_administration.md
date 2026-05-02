@@ -68,8 +68,8 @@ Hands-on lab exercises covering installation, configuration, user management, ba
     * Installing `MySQL` on `Linux` and other platforms
     * Package managers vs binary distributions
     * mysqld initialization and data directory setup
-    * Directory structure and `file` layout
-    * my.cnf configuration `file` structure
+    * Directory structure and file layout
+    * my.cnf configuration file structure
     * Key server parameters and system variables
     * `systemd` integration and service management
     * Startup and shutdown procedures

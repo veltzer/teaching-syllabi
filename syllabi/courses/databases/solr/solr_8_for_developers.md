@@ -42,7 +42,7 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
 
 ## Outline
 <!-- chapter: introduction-to-apache-lucene, duration: 4h -->
-* Introduction to `Apache` `Lucene`
+* Introduction to Apache `Lucene`
     * What is Search
     * `Lucene` Architecture
     * `Lucene` use cases
@@ -54,7 +54,7 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
     * `Lucene` Searcher
     * Different `Lucene` Queries
 <!-- chapter: exploring-apache-lucene, duration: 4h -->
-* Exploring `Apache` `Lucene`
+* Exploring Apache `Lucene`
     * Analyzers
     * Querying
     * Scoring
@@ -64,9 +64,9 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
     * Grouping
     * Joins
     * Spatial Search
-    * `Apache` Tika
+    * Apache Tika
 <!-- chapter: introduction-to-apache-solr, duration: 3h -->
-* Introduction to `Apache` Solr
+* Introduction to Apache Solr
     * Introduced to Solr
     * Key Features
     * Solr Vs Relational Databases

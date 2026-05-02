@@ -38,7 +38,7 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
 * Basic understanding of data warehousing concepts.
 
 ## Objectives
-* Understand the main components of the `Hadoop` ecosystem including `HDFS`, `MapReduce`, `Hive`, `Pig`, and `HBase`
+* Understand the main components of the `Hadoop` ecosystem including `HDFS`, `MapReduce`, Hive, Pig, and `HBase`
 * Explain how `HDFS` stores and replicates data across a cluster
 * Implement common `MapReduce` patterns and understand their execution flow
 * Compare `Hadoop` with traditional large-scale data storage and processing approaches
@@ -52,7 +52,7 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
 <!-- chapter: introduction-to-hadoop, duration: 3h -->
 * Introduction to `Hadoop`
     * `Hadoop` vs. Traditional Large-Scale Data Storage and Processing
-    * Introduction to `Hadoop` Ecosystem: `HDFS`, Map-Reduce, `Pig`, `Hive`, `HBase`
+    * Introduction to `Hadoop` Ecosystem: `HDFS`, Map-Reduce, Pig, Hive, `HBase`
     * `Hadoop` Distributors: Cloudera, Horton-works, MapR
     * Available `Java` run time Environments for `Hadoop`
 <!-- chapter: mapreduce, duration: 3h -->
@@ -69,8 +69,8 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
     * `Hadoop` Cluster Architecture overview
 <!-- chapter: hadoop-related-projects, duration: 4h -->
 * `Hadoop` Related Projects
-    * Data Warehousing with `Hive`
-    * Parallel Processing with `Pig`
+    * Data Warehousing with Hive
+    * Parallel Processing with Pig
     * Data Storage with `HBase`
     * Common Utilities: `Sqoop`, `Flume`, `Zookeeper`, etc.
 

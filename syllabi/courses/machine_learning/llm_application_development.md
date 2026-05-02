@@ -66,7 +66,7 @@ applications are reliable and effective.
 * Embeddings and Vector Databases
     * Text embeddings and semantic similarity
     * Embedding models and their tradeoffs
-    * Vector database fundamentals: `Pinecone`, `ChromaDB`, `Weaviate`
+    * Vector database fundamentals: Pinecone, `ChromaDB`, `Weaviate`
     * Indexing strategies and search optimization
     * Hybrid search: combining vector and keyword search
 <!-- chapter: retrieval-augmented-generation-rag, duration: 2h -->

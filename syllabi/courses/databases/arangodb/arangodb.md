@@ -35,7 +35,7 @@ audience:
 * Prior experience with any document or graph database is beneficial but not required
 
 ## Objectives
-* Understand `ArangoDB`'s multi-model architecture and `when` to use it
+* Understand `ArangoDB`'s multi-model architecture and when to use it
 * Perform `CRUD` operations on document collections via the `ArangoDB` web UI and `API`
 * Write complex queries using `AQL` across documents, edges, and graphs
 * Design effective graph data models for relationship-heavy workloads
@@ -46,7 +46,7 @@ audience:
 * Monitor cluster health and tune performance
 
 ## Exercises
-Hands-on labs using a local `ArangoDB` instance and the `arangosh` shell. Students will create databases and collections, import and query document datasets, build a social graph with vertex and edge collections, execute traversal queries to `find` relationships, implement shortest-path and k-nearest-neighbors queries, create persistent and `TTL` indexes, run multi-collection transactions, use `Foxx` `microservices` for server-side logic, and deploy a two-shard cluster with `Docker Compose`. Scenarios include social network analysis, product recommendation graphs, and supply chain tracking.
+Hands-on labs using a local `ArangoDB` instance and the `arangosh` shell. Students will create databases and collections, import and query document datasets, build a social graph with vertex and edge collections, execute traversal queries to find relationships, implement shortest-path and k-nearest-neighbors queries, create persistent and `TTL` indexes, run multi-collection transactions, use `Foxx` `microservices` for server-side logic, and deploy a two-shard cluster with `Docker Compose`. Scenarios include social network analysis, product recommendation graphs, and supply chain tracking.
 
 ## Outline
 <!-- chapter: introduction-to-multi-model-databases, duration: 2h -->

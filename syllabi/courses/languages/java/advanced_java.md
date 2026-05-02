@@ -26,7 +26,7 @@ memory leaks, garbage collection issues, using `Java` in scenarios where it is n
 
 ## Intended Audience
 * Experiences `Java` programmers who would like become experts in the `Java` landscape.
-* `Java` operations people who would like to know how to tune the `JVM` or `find` issues
+* `Java` operations people who would like to know how to tune the `JVM` or find issues
 production `Java` systems.
 
 ## Prerequisites
@@ -38,7 +38,7 @@ production `Java` systems.
     * how to use containers better.
     * how garbage collection works
     * the range of tools at their disposal
-    `when` programming `Java` in order to protect themselves against multi-threaded race conditions.
+    when programming `Java` in order to protect themselves against multi-threaded race conditions.
     * the `Java` memory model
     * the `Java` compile time and run time optimizer
 
@@ -125,7 +125,7 @@ production `Java` systems.
     * Specifications and algorithms
     * Debugging garbage collection events
     * How to abuse the `JVM` and detect it.
-    * What is a `Java` memory leak and how to `find` it?
+    * What is a `Java` memory leak and how to find it?
     * Tuning the garbage collector.
     * Using object pools effectively to avoid mm issues.
     * Using native object containers to avoid mm issues.

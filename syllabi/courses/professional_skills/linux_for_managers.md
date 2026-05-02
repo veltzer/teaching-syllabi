@@ -14,7 +14,7 @@ audience:
 # `Linux` for Managers
 
 ## Description
-This course provides managers and technical leaders with a `solid` understanding of `Linux`, its role in modern enterprise IT, and how to `make` informed decisions about `Linux` adoption and strategy. Participants will learn about the open source ecosystem, distribution landscape, licensing implications, and how `Linux` compares to alternative platforms. The course requires no prior `Linux` experience and focuses on strategic and business perspectives rather than hands-on administration.
+This course provides managers and technical leaders with a `solid` understanding of `Linux`, its role in modern enterprise IT, and how to make informed decisions about `Linux` adoption and strategy. Participants will learn about the open source ecosystem, distribution landscape, licensing implications, and how `Linux` compares to alternative platforms. The course requires no prior `Linux` experience and focuses on strategic and business perspectives rather than hands-on administration.
 
 The course covers the broader context of `Linux` in `cloud computing`, containers, and the modern technology stack, enabling managers to engage meaningfully with technical teams and `make` sound technology decisions.
 
@@ -38,7 +38,7 @@ The course covers the broader context of `Linux` in `cloud computing`, container
 * Understand open source licensing implications
 * Compare `Linux` and `Windows` for various use cases
 * Assess total cost of ownership for `Linux` deployments
-* `Make` informed technology decisions regarding `Linux` adoption
+* Make informed technology decisions regarding `Linux` adoption
 
 ## Outline
 <!-- chapter: what-is-linux, duration: 1h -->
@@ -57,7 +57,7 @@ The course covers the broader context of `Linux` in `cloud computing`, container
     * Major open source organizations
     * Contributing to open source
     * Open source business models
-    * The role of foundations (`Linux Foundation`, `Apache`, `CNCF`)
+    * The role of foundations (`Linux Foundation`, Apache, `CNCF`)
 
 <!-- chapter: linux-in-the-enterprise, duration: 1h -->
 * `Linux` in the Enterprise
@@ -81,7 +81,7 @@ The course covers the broader context of `Linux` in `cloud computing`, container
 <!-- chapter: licensing, duration: 1h -->
 * Licensing
     * GPL license family
-    * `Apache` License
+    * Apache License
     * MIT License
     * Permissive vs copyleft licenses
     * License compliance obligations

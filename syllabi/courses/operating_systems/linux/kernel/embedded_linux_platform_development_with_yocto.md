@@ -65,7 +65,7 @@ Upon completion of this course, participants will be able to:
 * Debug complex build and runtime issues using `Yocto`'s comprehensive toolset
 * Deploy OTA update mechanisms for field-deployed devices
 * Integrate `Yocto` builds into modern containerized `DevOps` workflows
-* `Make` informed decisions about `when` to use `Yocto` versus alternatives
+* Make informed decisions about when to use `Yocto` versus alternatives
 
 ## Exercises
 * Lab 1: First Build Experience
@@ -266,8 +266,8 @@ Upon completion of this course, participants will be able to:
         * Modern build system integration
             * `CMake` recipe patterns
             * `Meson` build system
-            * `Cargo` for `Rust` projects
-            * `Go` module support
+            * Cargo for Rust projects
+            * Go module support
         * Language-specific recipes
             * `Python` applications with `setuptools`
             * `Node.js` and `npm` packages
@@ -341,7 +341,7 @@ Upon completion of this course, participants will be able to:
             * Standard `SDK` vs Extensible `SDK`
             * Cross-compilation environment
             * Sysroot management
-            * IDE integration (`VS Code`, `Eclipse`, `CLion`)
+            * IDE integration (`VS Code`, Eclipse, `CLion`)
     * Image Creation Tools
         * WIC (`OpenEmbedded` Image Creator)
             * Partition layout definition

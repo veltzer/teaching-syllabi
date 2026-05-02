@@ -16,7 +16,7 @@ audience:
 `Fortran` remains the dominant language in high-performance computing, scientific simulation,
 and numerical analysis. Modern `Fortran` (2008/2018/2023) has evolved significantly from its
 origins, offering features such as object-oriented programming, coarrays for parallel computing,
-and interoperability with `C`. This course covers modern `Fortran` from fundamentals through
+and interoperability with C. This course covers modern `Fortran` from fundamentals through
 advanced topics including parallel programming, performance optimization, and integration with
 scientific computing libraries. Students will gain practical skills for writing efficient,
 maintainable `Fortran` code for computational science and engineering.
@@ -31,7 +31,7 @@ The course includes hands on exercises.
 * HPC practitioners looking to leverage modern `Fortran` features.
 
 ## Prerequisites
-* Prior programming experience in another language such as `C`, `Python`, or `MATLAB`.
+* Prior programming experience in another language such as C, `Python`, or `MATLAB`.
 * Basic understanding of linear algebra and numerical concepts.
 * Familiarity with command-line interfaces.
 
@@ -43,7 +43,7 @@ The course includes hands on exercises.
 * Use arrays and `array` operations effectively for numerical computation
 * Create modular programs with procedures, modules, and derived types
 * Write parallel code using coarrays and `DO CONCURRENT`
-* Integrate `Fortran` with `C` and scientific computing libraries
+* Integrate `Fortran` with C and scientific computing libraries
 * Apply performance optimization and debugging techniques
 
 ## Outline
@@ -133,11 +133,11 @@ The course includes hands on exercises.
     * Parallel directives and clauses
     * Offloading to accelerators
 <!-- chapter: interoperability-with-c, duration: 2h -->
-* Interoperability with `C`
+* Interoperability with C
     * ISO_C_BINDING module
-    * Matching `Fortran` and `C` types
-    * Calling `C` functions from `Fortran`
-    * Calling `Fortran` procedures from `C`
+    * Matching `Fortran` and C types
+    * Calling C functions from `Fortran`
+    * Calling `Fortran` procedures from C
     * Handling strings and arrays across languages
 <!-- chapter: build-tools-and-project-management, duration: 2h -->
 * Build Tools and Project Management

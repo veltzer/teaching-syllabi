@@ -124,7 +124,7 @@ Hands-on exercises using `Neo4j` with realistic datasets. Students will model do
 
 <!-- chapter: importing-data, duration: 2h -->
 * Importing Data
-    * `LOAD CSV` for `file` imports
+    * `LOAD CSV` for file imports
     * Handling large datasets with periodic commit
     * APOC library for advanced imports
     * Importing from relational databases
@@ -148,7 +148,7 @@ Hands-on exercises using `Neo4j` with realistic datasets. Students will model do
     * Official driver overview (`Python`, `Java`, `JavaScript`, `.NET`)
     * Session and transaction management
     * Parameterized queries
-    * Reactive and `async` driver usage
+    * Reactive and async driver usage
     * Error handling and retry logic
     * Connection pooling
     * OGM (Object-Graph Mapping) frameworks

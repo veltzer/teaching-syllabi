@@ -29,7 +29,7 @@ Zero Trust is a security model built on the principle of "never trust, always ve
 * Security managers and CISOs evaluating Zero Trust adoption strategies
 
 ## Prerequisites
-* `Solid` understanding of networking fundamentals (`TCP`/`IP`, `DNS`, `VPN`, firewalls)
+* `Solid` understanding of networking fundamentals (```TCP``/``IP```, `DNS`, `VPN`, firewalls)
 * Familiarity with identity and access management concepts (`LDAP`, `Active Directory`, `OAuth 2.0`)
 * Experience with cloud infrastructure (`AWS`, `Azure`, or `GCP`) is beneficial
 * Basic knowledge of `PKI` and `TLS` certificate management

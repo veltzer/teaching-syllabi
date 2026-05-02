@@ -22,7 +22,7 @@ audience:
 There are many tasks to be done in administering and configuring `Linux` networking: setting up device drivers,
 tuning them, bonding, bridging, load balancing, firewalling and much more.
 
-This course is for those who wish to understand the `Linux` networking stack from the ground up, from `C` up to
+This course is for those who wish to understand the `Linux` networking stack from the ground up, from C up to
 administration levels.
 
 ## Duration
@@ -38,7 +38,7 @@ administration levels.
 ## Objectives
 * understand the core concepts and principles of `Linux`` networking
 * gain practical knowledge of Networking for programmers
-* gain practical knowledge of `C` user level `API` for networking.
+* gain practical knowledge of C user level `API` for networking.
 * gain practical knowledge of Command line and information about the network stack in real time
 
 ## Outline
@@ -50,7 +50,7 @@ administration levels.
     * User Datagram Protocol (`UDP`)
     * Concepts: Router, Modem, Switch, Gateway, Server, Client, `NAT`, `DNS`
 <!-- chapter: c-user-level-api-for-networking, duration: 2h -->
-* `C` user level `API` for networking.
+* C user level `API` for networking.
     * Socket types: stream sockets (`TCP`) and datagram sockets (`UDP`).
     * Writing servers
     * Writing clients
@@ -87,7 +87,7 @@ administration levels.
         * `wireshark`
     * Debugging tools:
         * telnet
-        * `ping` (and why it's not SUID, getcap)
+        * ping (and why it's not SUID, getcap)
         * `traceroute`
         * `nmap`
 <!-- chapter: more-advanced-configurations, duration: 1h -->

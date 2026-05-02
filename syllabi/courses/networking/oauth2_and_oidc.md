@@ -29,7 +29,7 @@ audience:
 
 ## Prerequisites
 * `Solid` understanding of `HTTP`: requests, responses, redirects, cookies, and headers.
-* Experience with at least one server-side programming language (`Python`, `Node.js`, `Java`, `Go`).
+* Experience with at least one server-side programming language (`Python`, `Node.js`, `Java`, Go).
 * Familiarity with `JSON` and basic cryptography concepts (symmetric vs asymmetric encryption) is helpful.
 * Basic knowledge of web application security (same-origin policy, `HTTPS`, `CORS`).
 
@@ -38,7 +38,7 @@ audience:
 * Web application development experience
 
 ## Objectives
-* Distinguish between authentication and authorization and understand `when` each is needed
+* Distinguish between authentication and authorization and understand when each is needed
 * Explain the `OAuth2` authorization framework: roles, token types, and grant types
 * Implement the Authorization Code flow with `PKCE` for web and native applications
 * Understand the use cases and security trade-offs of all `OAuth2` grant types
@@ -70,7 +70,7 @@ audience:
 <!-- chapter: authorization-code-flow, duration: 2h -->
 * Authorization Code Flow
     * Step-by-step walkthrough of the Authorization Code grant
-    * The authorization request: `response_type`, `client_id`, `redirect_uri`, `scope`, `state`
+    * The authorization request: `response_type`, client_id, redirect_uri, scope, `state`
     * The authorization code exchange for tokens
     * The `state` parameter and `CSRF` protection
     * `PKCE` (Proof Key for Code Exchange): motivation and implementation
@@ -98,7 +98,7 @@ audience:
 * `OpenID Connect` (`OIDC`)
     * How `OIDC` extends `OAuth2` for authentication
     * The `openid` scope and `ID` token issuance
-    * Standard `OIDC` claims: `sub`, `iss`, `aud`, `exp`, `iat`, `nonce`
+    * Standard `OIDC` claims: sub, iss, aud, exp, iat, `nonce`
     * The `nonce` parameter and replay attack prevention
     * `OIDC` Discovery document and `JWKS` endpoint
     * UserInfo endpoint for additional claims
@@ -107,7 +107,7 @@ audience:
 <!-- chapter: jwt-deep-dive, duration: 2h -->
 * `JWT` Deep Dive
     * `JWT` structure: header, payload, and signature
-    * Signing algorithms: `RS256`, `ES256`, `HS256` — trade-offs and recommendations
+    * Signing algorithms: `RS256`, ES256, `HS256` — trade-offs and recommendations
     * Validating a `JWT`: signature, issuer, audience, expiry
     * The `JWKS` endpoint and key rotation
     * `JWE` (`JSON` Web Encryption) for encrypted tokens

@@ -16,7 +16,7 @@ audience:
 # Embedded `Linux` Networking
 
 ## Description
-This advanced course covers networking on embedded `Linux` platforms, from the kernel network stack to lightweight application-layer protocols. Participants will learn how to configure, optimize, and debug network connectivity on resource-constrained `Linux` devices, including working with lightweight `TCP`/`IP` stacks, embedded web servers, and IoT-specific protocols such as `CoAP` and mDNS/`DNS`-SD.
+This advanced course covers networking on embedded `Linux` platforms, from the kernel network stack to lightweight application-layer protocols. Participants will learn how to configure, optimize, and debug network connectivity on resource-constrained `Linux` devices, including working with lightweight ```TCP``/``IP``` stacks, embedded web servers, and IoT-specific protocols such as `CoAP` and mDNS/`DNS`-SD.
 
 ## Duration
 16 hours / 2 days
@@ -32,7 +32,7 @@ This advanced course covers networking on embedded `Linux` platforms, from the k
 
 ## Required Knowledge
 * `Linux` Fundamentals
-* `C` Programming
+* C Programming
 
 ## Objectives
 * Understand the `Linux` kernel network stack on embedded platforms.

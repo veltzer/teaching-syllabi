@@ -15,7 +15,7 @@ audience:
 # `Saga Pattern`
 
 ## Description
-Distributed transactions are one of the most challenging problems in `microservices` architecture, and the `Saga` pattern is the industry-accepted solution for managing long-running business processes that span multiple services without using two-phase commit. This course provides a deep understanding of the `Saga` pattern, covering both choreography-based and orchestration-based approaches, their trade-offs, and `when` to apply each. Participants will learn to design compensating transactions, model failure scenarios, and build reliable distributed workflows that maintain data consistency under eventual consistency guarantees. The course includes practical guidance on tooling, testing, and debugging sagas in production.
+Distributed transactions are one of the most challenging problems in `microservices` architecture, and the Saga pattern is the industry-accepted solution for managing long-running business processes that span multiple services without using two-phase commit. This course provides a deep understanding of the Saga pattern, covering both choreography-based and orchestration-based approaches, their trade-offs, and when to apply each. Participants will learn to design compensating transactions, model failure scenarios, and build reliable distributed workflows that maintain data consistency under eventual consistency guarantees. The course includes practical guidance on tooling, testing, and debugging sagas in production.
 
 ## Duration
 8 hours / 1 day
@@ -32,7 +32,7 @@ Distributed transactions are one of the most challenging problems in `microservi
 * Familiarity with message brokers such as `Kafka` or `RabbitMQ`
 * Experience with `event-driven architecture` and asynchronous communication
 * Basic understanding of ACID transactions and distributed systems challenges
-* Experience with at least one backend programming language (e.g., `Java`, `Python`, `C#`, `Go`)
+* Experience with at least one backend programming language (e.g., `Java`, `Python`, `C#`, Go)
 
 ## Required Knowledge
 * `Microservices` Architecture (or equivalent experience)
@@ -40,7 +40,7 @@ Distributed transactions are one of the most challenging problems in `microservi
 
 ## Objectives
 * Understand why distributed transactions fail and why two-phase commit is impractical in `microservices`
-* Explain the `Saga` pattern and its role in maintaining eventual consistency
+* Explain the Saga pattern and its role in maintaining eventual consistency
 * Design choreography-based sagas using domain events and reactive participation
 * Design orchestration-based sagas using a central coordinator or state machine
 * Implement compensating transactions to reverse completed steps on failure
@@ -57,13 +57,13 @@ Distributed transactions are one of the most challenging problems in `microservi
     * Eventual consistency: definition, implications, and user experience challenges
     * The need for long-running process management in distributed systems
     * Business process modeling across multiple bounded contexts
-    * Why the `Saga` pattern is the accepted alternative to distributed transactions
+    * Why the Saga pattern is the accepted alternative to distributed transactions
 <!-- chapter: saga-pattern-fundamentals, duration: 1h -->
-* `Saga` Pattern Fundamentals
-    * What is a `Saga`: a sequence of local transactions with compensations
+* `Saga Pattern` Fundamentals
+    * What is a Saga: a sequence of local transactions with compensations
     * The structure of a `saga`: steps, local transactions, and compensating transactions
     * Forward recovery vs backward recovery strategies
-    * `Saga` failure semantics: semantic rollback vs ACID rollback
+    * Saga failure semantics: semantic rollback vs ACID rollback
     * State management: where to store `saga` state
     * Idempotency requirements for `saga` participants
     * Overview of choreography vs orchestration approaches
@@ -86,7 +86,7 @@ Distributed transactions are one of the most challenging problems in `microservi
     * Orchestrator persistence: storing `saga` state across restarts and failures
     * Handling timeouts and retry logic in the orchestrator
     * Centralized visibility and monitoring of `saga` progress
-    * Workflow engines for `saga` orchestration: `Temporal`, `Conductor`, `Camunda`
+    * Workflow engines for `saga` orchestration: Temporal, Conductor, `Camunda`
     * Practical example: order fulfillment `saga` using orchestration
 <!-- chapter: compensating-transactions, duration: 1h -->
 * Compensating Transactions
@@ -105,7 +105,7 @@ Distributed transactions are one of the most challenging problems in `microservi
     * Integration testing `saga` flows with real message brokers
     * Contract testing between `saga` participants
     * Distributed tracing for `saga` visibility: `OpenTelemetry`, `Jaeger`, `Zipkin`
-    * `Saga` monitoring dashboards and alerting on stuck sagas
+    * Saga monitoring dashboards and alerting on stuck sagas
     * Common `saga` anti-patterns: long sagas, missing compensations, state explosion
     * Production debugging: replaying events and manual `saga` intervention
 

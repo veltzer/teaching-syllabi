@@ -69,7 +69,7 @@ documentation critically, debug production performance issues from first princip
     * heap files and slotted pages
     * row stores vs column stores
     * `TOAST`, large objects and out-of-line storage
-    * data `file` layout in `PostgreSQL` and `MySQL`/`InnoDB`
+    * data file layout in `PostgreSQL` and `MySQL`/`InnoDB`
     * the page cache and the database buffer pool
 <!-- chapter: b-trees-in-depth, duration: 3h -->
 * `B-trees` in depth
@@ -86,11 +86,11 @@ documentation critically, debug production performance issues from first princip
     * compaction strategies: leveled, size-tiered, universal
     * bloom filters and read path optimization
     * `RocksDB`, `Cassandra` and `ScyllaDB` storage engines
-    * `when` `LSM` beats `B-tree` and `when` it loses
+    * when `LSM` beats `B-tree` and when it loses
 <!-- chapter: buffer-management-and-page-cache, duration: 2h -->
 * Buffer management and page cache
     * the buffer pool's role
-    * replacement policies: `LRU`, `2Q`, `clockpro`, `ARC`
+    * replacement policies: `LRU`, 2Q, clockpro, `ARC`
     * dirty pages, checkpoints and background writers
     * direct `IO` vs the operating system page cache
     * memory pressure and eviction storms
@@ -115,7 +115,7 @@ documentation critically, debug production performance issues from first princip
     * pessimistic vs optimistic concurrency control
     * two-phase locking and deadlock detection
     * `MVCC` row versioning
-    * `MVCC` implementation in `PostgreSQL` (`xmin`/`xmax`, `vacuum`)
+    * `MVCC` implementation in `PostgreSQL` (xmin/xmax, `vacuum`)
     * `MVCC` implementation in `MySQL`/`InnoDB` (undo logs)
     * long-running transactions and bloat
 <!-- chapter: query-parsing-and-planning, duration: 3h -->
@@ -152,8 +152,8 @@ documentation critically, debug production performance issues from first princip
 <!-- chapter: distributed-consensus-and-distributed-databases, duration: 3h -->
 * Distributed consensus and distributed databases
     * the `CAP` and `PACELC` theorems
-    * `Paxos`, `Raft` and `ZAB`
-    * consensus in `etcd`, `CockroachDB`, `TiDB`, `Spanner`
+    * `Paxos`, Raft and `ZAB`
+    * consensus in `etcd`, `CockroachDB`, `TiDB`, Spanner
     * sharding strategies: range, hash, directory
     * distributed transactions and two-phase commit
     * deterministic databases and `Calvin`
@@ -161,9 +161,9 @@ documentation critically, debug production performance issues from first princip
 * Column stores and analytical engines
     * vectorized execution
     * compression schemes for columnar data
-    * `Parquet` and `ORC` `file` formats
+    * `Parquet` and `ORC` file formats
     * `ClickHouse` and `DuckDB` engine internals
-    * the `OLTP`/`OLAP` divide and `HTAP` systems
+    * the `OLTP`/OLAP divide and `HTAP` systems
 <!-- chapter: case-studies-and-reading-source-code, duration: 2h -->
 * Case studies and reading source code
     * tour of `PostgreSQL` source layout

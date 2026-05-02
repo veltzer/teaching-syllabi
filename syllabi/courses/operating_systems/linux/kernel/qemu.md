@@ -29,7 +29,7 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
 ## Prerequisites
 * Basic understanding of embedded systems
 * Familiarity with command-line interfaces
-* General knowledge of at least one programming language (preferably `C` or `C++`)
+* General knowledge of at least one programming language (preferably C or `C++`)
 
 ## Objectives
 * understand the core concepts and principles of `QEMU`

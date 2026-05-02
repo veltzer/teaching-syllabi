@@ -10,7 +10,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: html_css_javascript_fundamentals -->
-<!-- Track gaps: `TCP`/IP fundamentals, `HTTP` protocol details, web server vs web client architecture, analysis of a connection -->
+<!-- Track gaps: TCP/IP fundamentals, HTTP protocol details, web server vs web client architecture, analysis of a connection -->
 # `HTML`, `CSS`, and `JavaScript` Fundamentals
 
 ## Description
@@ -37,7 +37,7 @@ This course provides a `solid` foundation in the three core technologies of the 
 * Write `JavaScript` programs using variables, types, operators, control flow, functions, arrays, and objects
 * Manipulate the DOM and handle user events with `JavaScript`
 * Use the fetch `API` to communicate with `web services`
-* Apply `ES6`+ features including `let`/const, arrow functions, template literals, destructuring, spread/`rest`, modules, promises, and `async`/`await`
+* Apply `ES6`+ features including let/const, arrow functions, template literals, destructuring, spread/`rest`, modules, promises, and async/await
 * Use browser developer tools to debug and inspect web applications
 * Store data in the browser using `Web Storage`
 * Understand modern web development tooling with `npm` and bundlers
@@ -62,7 +62,7 @@ This course provides a `solid` foundation in the three core technologies of the 
 <!-- chapter: html-forms-and-media, duration: 2h -->
 * `HTML` Forms and Media
     * Form elements: input, textarea, select, button
-    * Input types: text, email, password, number, date, range, color, `file`
+    * Input types: text, email, password, number, date, range, color, file
     * Form attributes: action, method, name, placeholder, required
     * Labels, fieldsets, and form accessibility
     * Audio and video elements
@@ -109,7 +109,7 @@ This course provides a `solid` foundation in the three core technologies of the 
 <!-- chapter: javascript-fundamentals, duration: 3h -->
 * `JavaScript` Fundamentals
     * Adding `JavaScript` to a web page
-    * Variables: var, `let`, and const
+    * Variables: var, let, and const
     * Data types: strings, numbers, booleans, null, undefined, symbols
     * Operators: arithmetic, comparison, logical, assignment
     * Type coercion and type checking
@@ -140,7 +140,7 @@ This course provides a `solid` foundation in the three core technologies of the 
     * Introduction to asynchronous programming
     * Callbacks and callback patterns
     * Promises: creation, chaining, and error handling
-    * `async`/`await` syntax
+    * async/await syntax
     * The fetch `API` for making `HTTP` requests
     * Working with `JSON` data
     * Handling errors and loading states
@@ -151,7 +151,7 @@ This course provides a `solid` foundation in the three core technologies of the 
     * Named exports and default exports
     * Map, Set, and other data structures
     * Optional chaining and nullish coalescing
-    * `Array` methods: map, filter, reduce, `find`, some, every
+    * `Array` methods: map, filter, reduce, find, some, every
     * String and number methods
     * Iterators and the Symbol type
 <!-- chapter: browser-developer-tools-and-web-storage, duration: 3h -->

@@ -27,7 +27,7 @@ between client-side and server-side balancing, between `DNS`-based global balanc
 operational consequences than most engineers realize.
 
 This five day course covers load balancing end to end. It is implementation-focused but vendor-neutral, with
-deep dives into `Envoy`, `nginx`, `HAProxy`, cloud load balancers, `Kubernetes` `ingress`, and the global
+deep dives into Envoy, `nginx`, `HAProxy`, cloud load balancers, `Kubernetes` `ingress`, and the global
 traffic-management story. The course covers algorithms (round robin, least connections, EWMA, P2C, consistent
 hashing), health checking, session persistence, `TLS` termination, traffic shaping and shedding, observability,
 failure modes, and the architectural patterns that `make` load balancing scale and survive incidents.
@@ -78,8 +78,8 @@ failure modes, and the architectural patterns that `make` load balancing scale a
     * `TCP`/`UDP` connection forwarding
     * direct server return
     * `IPVS` and `LVS`
-    * `Maglev` (Google) and `Katran` (`Meta`)
-    * cloud `NLB` (`AWS`), `TCP/UDP` `LB` (`GCP`), `Azure` Load Balancer
+    * `Maglev` (Google) and Katran (`Meta`)
+    * cloud `NLB` (`AWS`), `TCP/UDP` LB (`GCP`), `Azure` Load Balancer
     * `XDP` and `eBPF`-based load balancing
     * connection draining at `L4`
 <!-- chapter: l7-load-balancing, duration: 4h -->
@@ -89,15 +89,15 @@ failure modes, and the architectural patterns that `make` load balancing scale a
     * `gRPC` load balancing peculiarities
     * `WebSockets` and long-lived connections
     * request coalescing and retry
-    * `Envoy`, `nginx`, `HAProxy` deep dive
-    * `ALB` (`AWS`), `HTTP(S)` `LB` (`GCP`), `Application Gateway` (`Azure`)
+    * Envoy, `nginx`, `HAProxy` deep dive
+    * `ALB` (`AWS`), `HTTP(S)` LB (`GCP`), `Application Gateway` (`Azure`)
 <!-- chapter: health-checks-that-work, duration: 3h -->
 * Health checks that work
     * passive vs active health checks
     * shallow vs deep health checks
     * the `/healthz` and `/readyz` distinction
     * cascading failure from synchronized health checks
-    * health `check` from where: panel of probes vs single point
+    * health check from where: panel of probes vs single point
     * partial unhealth and graceful degradation
 <!-- chapter: session-persistence, duration: 2h -->
 * Session persistence
@@ -125,10 +125,10 @@ failure modes, and the architectural patterns that `make` load balancing scale a
     * circuit breakers at the `LB`
     * the difference between throttling and queueing
 <!-- chapter: kubernetes-ingress-and-gateway-api, duration: 3h -->
-* `Kubernetes` `Ingress` and `Gateway API`
-    * `Ingress`, `Service`, `EndpointSlice`
-    * `ingress` controllers: `nginx`, `Traefik`, `Contour`, `Gloo`
-    * the `Gateway API` and why it replaces `Ingress`
+* `Kubernetes` Ingress and `Gateway API`
+    * Ingress, `Service`, `EndpointSlice`
+    * `ingress` controllers: nginx, `Traefik`, Contour, `Gloo`
+    * the `Gateway API` and why it replaces Ingress
     * service mesh `ingress` (`Istio`, `Linkerd`)
     * external load balancers vs in-cluster
     * the `LoadBalancer` `Service` type and its surprises
@@ -150,7 +150,7 @@ failure modes, and the architectural patterns that `make` load balancing scale a
 <!-- chapter: observability-for-the-traffic-layer, duration: 2h -->
 * Observability for the traffic layer
     * `RED` metrics for load balancers
-    * `top`-talker analysis
+    * top-talker analysis
     * `4xx`/`5xx` cardinality
     * upstream connection metrics
     * latency histograms and `p99` analysis
@@ -159,7 +159,7 @@ failure modes, and the architectural patterns that `make` load balancing scale a
 * Failure modes and incidents
     * thundering herd at deploy
     * retry amplification
-    * health `check` storms
+    * health check storms
     * the half-open connection problem
     * stuck connections and idle timeouts
     * load-balancer-side `OOM` and how to detect
@@ -169,7 +169,7 @@ failure modes, and the architectural patterns that `make` load balancing scale a
     * sizing the load balancer fleet
     * connection limits and ephemeral port exhaustion
     * keep-alive tuning
-    * `file` descriptor and `conntrack` limits
+    * file descriptor and `conntrack` limits
     * autoscaling load balancers
 <!-- chapter: workshop-and-wrap-up, duration: 2h -->
 * Workshop and wrap up

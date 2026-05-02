@@ -19,7 +19,7 @@ audience:
 ## Description
 `Buildroot` is still one of the most heavily used tools to build embedded systems based on the `Linux` kernel.
 This course introduces `buildroot` to embedded software engineers and explains how to configure and use the tool
-correctly, as well as it's advantages and disadvantages `when` compared to other tools or approaches being used to build embedded `Linux` systems.
+correctly, as well as it's advantages and disadvantages when compared to other tools or approaches being used to build embedded `Linux` systems.
 
 ## Duration
 24 hours / 3 days
@@ -89,7 +89,7 @@ correctly, as well as it's advantages and disadvantages `when` compared to other
     * VCS download, integrity checking
     * Download-related `make` targets
 <!-- chapter: gnu-make-101, duration: 2h -->
-* GNU `Make` 101
+* GNU Make 101
     * Basics of `make` rules
     * Defining and referencing variables
     * Conditions, functions
@@ -98,7 +98,7 @@ correctly, as well as it's advantages and disadvantages `when` compared to other
 * Integrating new packages in `Buildroot`
     * How to integrate new packages in the `Buildroot` configuration system
     * Understand the different package infrastructures: for generic, `autotools`, `CMake`, `Python` packages and more.
-    * Writing a package Config.in `file`: how to express dependencies on other packages, on toolchain options, etc.
+    * Writing a package Config.in file: how to express dependencies on other packages, on toolchain options, etc.
     * Details on writing a package recipe: describing the package source code location, download method, configuration, build and installation steps, handling dependencies, etc.
 <!-- chapter: advanced-package-aspects, duration: 3h -->
 * Advanced package aspects

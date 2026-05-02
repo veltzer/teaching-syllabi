@@ -30,7 +30,7 @@ monitoring, and cost optimization strategies for serverless workloads.
 
 ## Prerequisites
 * basic understanding of `cloud computing` concepts.
-* experience with at least one programming language (`Python`, `Node.js`, `Go`, or `Java`).
+* experience with at least one programming language (`Python`, `Node.js`, Go, or `Java`).
 * familiarity with `GCP` console and gcloud `CLI` is helpful.
 
 ## Required Knowledge
@@ -71,7 +71,7 @@ monitoring, and cost optimization strategies for serverless workloads.
     * standard environment vs flexible environment
     * application structure and configuration
     * versioning and traffic management
-    * `when` to choose `App Engine` over `Cloud Run`
+    * when to choose `App Engine` over `Cloud Run`
 <!-- chapter: api-management, duration: 2h -->
 * `API` management
     * `Cloud Endpoints`

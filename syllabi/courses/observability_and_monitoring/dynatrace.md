@@ -55,7 +55,7 @@ audience:
     * The evolution from APM to full-stack observability
     * `Dynatrace` platform architecture: `OneAgent`, `ActiveGate`, and `Dynatrace` `SaaS`/Managed
     * Core pillars: infrastructure, application, user experience, and business observability
-    * `Dynatrace` vs `Datadog`, `New Relic`, and open-source alternatives
+    * `Dynatrace` vs `Datadog`, New Relic, and open-source alternatives
     * Licensing model: DDUs and consumption-based pricing
     * Navigating the `Dynatrace` UI: menus, entities, and search
 <!-- chapter: oneagent-deployment, duration: 2h -->

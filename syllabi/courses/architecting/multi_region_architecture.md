@@ -28,10 +28,10 @@ that justify multi-region (latency to users, regulatory data residency, regional
 business continuity) and the motivations that do not, the topology choices (active-passive,
 active-active, follower-reads, regional-shards), the data layer as the hardest problem (the
 single-writer model, multi-writer with last-writer-wins, multi-writer with conflict-free types,
-geo-partitioning), the routing layer (`DNS`, `Anycast`, `GeoDNS`), the failover question, the
+geo-partitioning), the routing layer (`DNS`, Anycast, `GeoDNS`), the failover question, the
 multi-region operations problem (rolling deploys, multi-region observability, multi-region incident
-response), and the cost story. Examples are drawn from the public engineering writing of `Stripe`,
-`Cloudflare`, `Shopify`, `DynamoDB Global Tables`, `Spanner`, and `CockroachDB`. Participants leave
+response), and the cost story. Examples are drawn from the public engineering writing of Stripe,
+`Cloudflare`, Shopify, `DynamoDB Global Tables`, Spanner, and `CockroachDB`. Participants leave
 able to `make` the multi-region decision deliberately, design the data layer correctly, and operate the
 result.
 
@@ -93,7 +93,7 @@ result.
 <!-- chapter: multi-writer-multi-region, duration: 3h -->
 * Multi-writer multi-region
     * `DynamoDB Global Tables` and last-writer-wins
-    * `CockroachDB`, `Spanner`, `YugabyteDB`
+    * `CockroachDB`, Spanner, `YugabyteDB`
     * `Cassandra` multi-`DC`
     * the conflict-resolution strategy
     * the application-level reconciliation

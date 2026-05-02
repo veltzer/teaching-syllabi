@@ -15,7 +15,7 @@ audience:
 # `PostgreSQL` for Developers
 
 ## Description
-This course provides developers with a deep understanding of `PostgreSQL`, one of the most powerful and feature-rich open-source relational databases. Participants will `go` beyond basic `SQL` to master advanced querying techniques, indexing strategies, JSONB document storage, stored procedures with PL/pgSQL, table partitioning, and performance optimization. The course emphasizes practical, real-world patterns that developers encounter `when` building production applications backed by `PostgreSQL`.
+This course provides developers with a deep understanding of `PostgreSQL`, one of the most powerful and feature-rich open-source relational databases. Participants will `go` beyond basic `SQL` to master advanced querying techniques, indexing strategies, JSONB document storage, stored procedures with PL/pgSQL, table partitioning, and performance optimization. The course emphasizes practical, real-world patterns that developers encounter when building production applications backed by `PostgreSQL`.
 
 ## Duration
 24 hours / 3 days
@@ -71,7 +71,7 @@ This course provides developers with a deep understanding of `PostgreSQL`, one o
     * SUM, AVG, COUNT as window aggregates
     * Frame specifications (ROWS, RANGE, GROUPS)
     * `PARTITION BY` and `ORDER BY` in `windows`
-    * Practical use cases: running totals, moving averages, `top`-N queries
+    * Practical use cases: running totals, moving averages, top-N queries
 
 <!-- chapter: indexing-strategies, duration: 3h -->
 * Indexing Strategies

@@ -42,7 +42,7 @@ unrelated mitigations.
 * engineers preparing for an embedded-security audit or certification
 
 ## Prerequisites
-* working knowledge of `C` or `C++`
+* working knowledge of C or `C++`
 * basic embedded development experience
 * basic familiarity with cryptographic primitives (hash, signature, symmetric vs asymmetric)
 * exposure to at least one `MCU` family is helpful
@@ -97,7 +97,7 @@ unrelated mitigations.
     * `A`/`B` partition update model
     * fail-safe rollback
     * `delta` updates for low-bandwidth devices
-    * `Mender`, `RAUC`, `swupdate`, `SUOTA` (`BLE`)
+    * `Mender`, RAUC, swupdate, SUOTA (`BLE`)
     * `OTA` from `AWS IoT`, `Azure IoT Hub`, `Google Cloud IoT`
     * the legacy device that cannot be updated
 <!-- chapter: secure-communication-for-constrained-devices, duration: 3h -->
@@ -105,14 +105,14 @@ unrelated mitigations.
     * `TLS` 1.3 vs `DTLS` 1.3
     * `mTLS` for device-to-cloud
     * pre-shared key (`PSK`) modes
-    * `OSCORE` and `EDHOC` for `CoAP`
+    * `OSCORE` and EDHOC for `CoAP`
     * `MQTT` over `TLS`
     * `LoRaWAN` security model
     * cross-reference to the Zero Trust Networking course
 <!-- chapter: cryptography-on-mcus, duration: 3h -->
 * Cryptography on `MCUs`
     * hardware crypto accelerators on modern `MCUs`
-    * the `mbedTLS`, `wolfSSL`, `tinycrypt` libraries
+    * the `mbedTLS`, wolfSSL, `tinycrypt` libraries
     * key sizes for resource-constrained devices
     * `ECC` over `RSA` for embedded
     * post-quantum readiness for embedded
@@ -130,7 +130,7 @@ unrelated mitigations.
     * voltage and clock glitching
     * laser and `EM` fault injection
     * effects: bypassed checks, leaked keys, instruction skipping
-    * countermeasures: redundancy, double-`check` critical operations
+    * countermeasures: redundancy, double-check critical operations
     * glitch detectors in modern `MCUs`
 <!-- chapter: secure-storage-of-data-at-rest, duration: 2h -->
 * Secure storage of data at `rest`
@@ -142,13 +142,13 @@ unrelated mitigations.
 <!-- chapter: hardening-the-os-and-the-application, duration: 2h -->
 * Hardening the OS and the application
     * `MPU`/`MMU` use on `MCUs`
-    * memory-safe languages: `Rust` for embedded
+    * memory-safe languages: Rust for embedded
     * `stack canaries`, `ASLR` on capable `MCUs`
     * privilege separation in `RTOS`
-    * cross-reference to the embedded `Rust` course
+    * cross-reference to the embedded Rust course
 <!-- chapter: ota-key-and-credential-lifecycle, duration: 2h -->
 * `OTA` key and credential lifecycle
-    * device-onboarding flows: `FDO`, `EST`, `BRSKI`
+    * device-onboarding flows: `FDO`, EST, `BRSKI`
     * device identity rotation
     * fleet-wide credential rotation
     * compromised-device revocation

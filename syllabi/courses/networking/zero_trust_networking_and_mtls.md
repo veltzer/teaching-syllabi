@@ -29,7 +29,7 @@ mutual `TLS` everywhere, and explicit authorization on every request.
 This five day course is the implementation-focused complement to the policy-level zero trust security material
 already in the catalog. It covers workload identity (`SPIFFE`/`SPIRE`, cloud workload identity), `mTLS` at scale,
 service-to-service auth patterns (`JWT`, `OAuth2`, signed requests, `SPIFFE` `JWT-SVID`), zero trust gateways
-(`BeyondCorp`, `IAP`, `Cloudflare Access`), `service mesh`-driven mutual auth, and the operational disciplines
+(`BeyondCorp`, IAP, `Cloudflare Access`), `service mesh`-driven mutual auth, and the operational disciplines
 that `make` zero trust workable in practice. Participants leave able to design and operate zero trust networks for
 their own workloads.
 
@@ -86,7 +86,7 @@ their own workloads.
     * integrating `SPIRE` with applications
 <!-- chapter: cloud-workload-identity, duration: 3h -->
 * Cloud workload identity
-    * `AWS IAM` roles for `EC2`, `EKS` `IRSA`, `Pod` Identity
+    * `AWS IAM` roles for `EC2`, `EKS` IRSA, `Pod` Identity
     * `GCP` workload identity for `GKE` and beyond
     * `Azure` managed identity and workload identity
     * cross-cloud identity federation
@@ -112,9 +112,9 @@ their own workloads.
 * `mTLS` in practice
     * the `mTLS` handshake step by step
     * client certificate validation
-    * `SAN` and `URI`-`SAN` for `SPIFFE` `IDs`
-    * server-side configuration in `Envoy`, `nginx`, `HAProxy`, application servers
-    * client-side configuration in `Go`, `Java`, `Python`, `Node.js`
+    * `SAN` and URI-`SAN` for `SPIFFE` `IDs`
+    * server-side configuration in Envoy, `nginx`, `HAProxy`, application servers
+    * client-side configuration in Go, `Java`, `Python`, `Node.js`
     * connection reuse and the cost of `mTLS`
     * common `mTLS` debugging scenarios
 <!-- chapter: certificate-rotation-and-renewal, duration: 2h -->
@@ -136,7 +136,7 @@ their own workloads.
 <!-- chapter: authorization-on-every-request, duration: 3h -->
 * Authorization on every request
     * separating authentication from authorization
-    * policy engines: `OPA`, `Cerbos`, `Casbin`
+    * policy engines: `OPA`, Cerbos, `Casbin`
     * `service mesh` authorization policies
     * relationship-based access control across services
     * fine-grained vs coarse-grained policy
@@ -144,10 +144,10 @@ their own workloads.
 <!-- chapter: zero-trust-and-service-mesh, duration: 3h -->
 * Zero trust and `service mesh`
     * what a `service mesh` does and does not provide
-    * `Istio`, `Linkerd`, `Consul Connect`, `Cilium` `Service Mesh`
+    * `Istio`, `Linkerd`, `Consul Connect`, Cilium `Service Mesh`
     * automatic `mTLS` between meshed services
     * `SPIFFE` integration in meshes
-    * `AuthorizationPolicy` and `RequestAuthentication` in `Istio`
+    * `AuthorizationPolicy` and RequestAuthentication in `Istio`
     * meshes vs in-app implementations
 <!-- chapter: zero-trust-gateways-and-access, duration: 2h -->
 * Zero trust gateways and access

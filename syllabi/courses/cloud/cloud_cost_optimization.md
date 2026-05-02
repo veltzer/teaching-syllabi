@@ -28,7 +28,7 @@ The course is engineer-facing rather than finance-facing. It covers cost models 
 practical tactics for compute, storage, networking, data and `AI` workloads, the architectural patterns that scale
 economically, observability and showback for cost, and the lightweight `FinOps` practices that engineering teams
 can adopt without standing up a separate function. Examples are drawn from `AWS`, `GCP` and `Azure`. Participants
-leave able to `find` waste in their own infrastructure, prioritize the high-impact fixes, and build the habits that
+leave able to find waste in their own infrastructure, prioritize the high-impact fixes, and build the habits that
 keep costs from creeping back.
 
 ## Duration
@@ -85,10 +85,10 @@ keep costs from creeping back.
 * Autoscaling and scheduling
     * horizontal vs vertical autoscaling
     * scaling on `CPU` vs custom metrics
-    * `Kubernetes` `HPA`, `VPA`, `Cluster Autoscaler`, `Karpenter`
-    * scaling down to zero `when` possible
+    * `Kubernetes` HPA, VPA, `Cluster Autoscaler`, `Karpenter`
+    * scaling down to zero when possible
     * dev/test environment scheduling
-    * batch and `async` workloads off-peak
+    * batch and async workloads off-peak
 <!-- chapter: spot-and-preemptible-compute, duration: 2h -->
 * Spot and preemptible compute
     * spot pricing dynamics
@@ -117,9 +117,9 @@ keep costs from creeping back.
 * Data and database costs
     * managed database pricing models
     * read-replica costs and right-sizing
-    * `RDS`/`Aurora`, `Cloud SQL`, `Azure SQL` cost dynamics
+    * `RDS`/Aurora, `Cloud SQL`, `Azure SQL` cost dynamics
     * `DynamoDB`, `BigTable` provisioned vs on-demand
-    * data warehouse cost (`BigQuery`, `Redshift`, `Snowflake`)
+    * data warehouse cost (`BigQuery`, `Redshift`, Snowflake)
     * partition pruning and query optimization for cost
     * storage vs compute separation in modern warehouses
 <!-- chapter: networking-and-egress-costs, duration: 3h -->
@@ -137,7 +137,7 @@ keep costs from creeping back.
     * `Lambda`/`Cloud Functions` cost models
     * `API Gateway`, `Cloud Run`, `App Service`
     * service-specific pricing pitfalls
-    * `when` managed is worth it and `when` it is not
+    * when managed is worth it and when it is not
 <!-- chapter: cost-of-ai-and-gpu-workloads, duration: 3h -->
 * Cost of `AI` and `GPU` workloads
     * `GPU` instance pricing
@@ -158,7 +158,7 @@ keep costs from creeping back.
 * Architectural patterns for cost
     * scale-to-zero designs
     * caching aggressively at every layer
-    * `async` over sync where possible
+    * async over sync where possible
     * the right service for the workload
     * regional design and data locality
     * multi-region cost trade-offs

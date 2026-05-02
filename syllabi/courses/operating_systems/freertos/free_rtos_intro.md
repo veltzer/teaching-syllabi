@@ -28,7 +28,7 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * Developers who want to write efficient code for `FreeRTOS`
 
 ## Prerequisites
-* `C` programming (`C++` an advantage)
+* C programming (`C++` an advantage)
 * Knowledge of other operating systems (`Linux`, `Windows`, ...) is an advantage.
 * Knowledge of other real time systems (`Linux`, ...) is an advantage.
 

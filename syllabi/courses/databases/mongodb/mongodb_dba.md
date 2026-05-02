@@ -68,9 +68,9 @@ Hands-on exercises performed on `Linux` virtual machines with `MongoDB` Communit
 * Installation and Configuration
     * System requirements and capacity planning
     * Installation methods
-    * Configuration `file` structure
+    * Configuration file structure
     * Essential configuration parameters
-    * Directory structure and `file` permissions
+    * Directory structure and file permissions
     * Starting and stopping `MongoDB`
     * Upgrading `MongoDB`
 <!-- chapter: mongodb-shell-and-tools, duration: 2h -->
@@ -142,7 +142,7 @@ Hands-on exercises performed on `Linux` virtual machines with `MongoDB` Communit
     * Performance best practices
 <!-- chapter: operations-and-maintenance, duration: 2h -->
 * Operations and Maintenance
-    * Log `file` management
+    * Log file management
     * Compact and repair operations
     * Statistics and diagnostics
     * Health checks

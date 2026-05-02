@@ -18,7 +18,7 @@ audience:
 This course covers the principles and practices of managing software dependencies effectively
 and securely. Participants will learn about versioning strategies, vulnerability scanning,
 automated dependency updates, supply chain security, and license compliance. The course
-provides practical guidance on configuring tools like `Dependabot`, `Renovate`, and `Snyk`,
+provides practical guidance on configuring tools like `Dependabot`, Renovate, and `Snyk`,
 and addresses the growing importance of software supply chain security.
 
 ## Duration
@@ -30,12 +30,12 @@ and addresses the growing importance of software supply chain security.
 * security-minded engineers focused on supply chain integrity.
 
 ## Prerequisites
-* experience with at least one package manager (`npm`, `pip`, `Maven`, `Go modules`, etc.).
+* experience with at least one package manager (`npm`, pip, `Maven`, `Go modules`, etc.).
 * basic understanding of `CI/CD` pipelines.
 * familiarity with `Git` and pull request workflows.
 
 ## Required Knowledge
-* `Go` Programming (or equivalent experience)
+* Go Programming (or equivalent experience)
 
 ## Objectives
 * understand dependency management fundamentals and versioning strategies.
@@ -61,7 +61,7 @@ and addresses the growing importance of software supply chain security.
     * purpose of lock files
     * lock files across ecosystems (package-lock.`json`, Pipfile.lock, `go`.sum)
     * deterministic builds
-    * `when` to commit lock files
+    * when to commit lock files
 <!-- chapter: dependency-resolution, duration: 1h -->
 * Dependency resolution
     * resolution algorithms
@@ -72,12 +72,12 @@ and addresses the growing importance of software supply chain security.
 * Vulnerability scanning
     * `Dependabot` security alerts
     * `Snyk` vulnerability scanning
-    * `npm audit`, `pip`-audit, and similar tools
+    * `npm audit`, pip-audit, and similar tools
     * interpreting vulnerability reports
     * prioritizing and remediating vulnerabilities
 <!-- chapter: automated-dependency-updates, duration: 1h -->
 * Automated dependency updates
-    * `Renovate` configuration and setup
+    * Renovate configuration and setup
     * `Dependabot` configuration and setup
     * custom update rules and schedules
     * auto-merge policies
@@ -102,7 +102,7 @@ and addresses the growing importance of software supply chain security.
     * `SBOM` in procurement and compliance
 <!-- chapter: license-compliance, duration: 1h -->
 * License compliance
-    * open-source license types (MIT, `Apache`, GPL, etc.)
+    * open-source license types (MIT, Apache, GPL, etc.)
     * license compatibility
     * license scanning tools
     * organizational license policies

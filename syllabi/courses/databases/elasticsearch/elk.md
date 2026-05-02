@@ -116,12 +116,12 @@ and integration scenarios commonly found in production environments.
         * `Kafka` input
         * Database input
     * Filter plugins
-        * `Grok` patterns
+        * Grok patterns
         * Mutate
         * Date parsing
         * GeoIP
         * Conditionals
-        * `Ruby` code
+        * Ruby code
     * Output plugins
         * `Elasticsearch` output
         * `File` output

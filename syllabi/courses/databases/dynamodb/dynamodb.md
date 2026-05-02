@@ -29,7 +29,7 @@ This course provides a deep dive into `Amazon DynamoDB`, a fully managed `NoSQL`
 ## Prerequisites
 * Basic understanding of `NoSQL` database concepts
 * Familiarity with `AWS` services and the `AWS Management Console`
-* Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, or `Go` preferred)
+* Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, or Go preferred)
 * Basic understanding of `JSON` data format
 
 ## Required Knowledge

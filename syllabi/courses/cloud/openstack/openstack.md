@@ -41,7 +41,7 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
 * Configure and manage identity, authentication, and authorization with Keystone.
 * Provision and manage virtual machines using Nova.
 * Design and configure software-defined networks with Neutron.
-* Manage block storage with Cinder and object storage with `Swift`.
+* Manage block storage with Cinder and object storage with Swift.
 * Work with virtual machine images using Glance.
 * Orchestrate multi-service deployments with Heat templates.
 * Navigate and use the Horizon dashboard for day-to-day operations.
@@ -52,7 +52,7 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
 <!-- chapter: private-cloud-concepts, duration: 2h -->
 * Private Cloud Concepts
     * Public, private, and hybrid cloud models
-    * Why private cloud and `when` to use it
+    * Why private cloud and when to use it
     * OpenStack vs. other private cloud platforms
 <!-- chapter: openstack-architecture, duration: 2h -->
 * OpenStack Architecture
@@ -85,7 +85,7 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
     * Storage backends and drivers
     * Backup and restore
 <!-- chapter: swift-object-storage, duration: 2h -->
-* `Swift` - Object Storage
+* Swift - Object Storage
     * Object storage concepts and architecture
     * Containers and objects
     * Replication and data durability

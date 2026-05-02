@@ -49,7 +49,7 @@ This course provides a comprehensive exploration of the data mesh paradigm, a de
     * Monolithic data platforms and their limitations
     * The origins and motivation of the data mesh paradigm
     * Overview of the four core principles
-    * `When` data mesh is appropriate and `when` it is not
+    * `When` data mesh is appropriate and when it is not
 <!-- chapter: domain-oriented-data-ownership, duration: 1h -->
 * Domain-Oriented Data Ownership
     * Decomposing data along business domain boundaries

@@ -11,29 +11,29 @@ audience:
   - audiences:developers
 ---
 <!-- course: advanced_go -->
-# Advanced `Go`
+# Advanced Go
 
 ## Description
-This course covers advanced `Go` topics for experienced developers who want to deepen their expertise. It explores concurrency patterns, generics, testing strategies, performance profiling, reflection, the unsafe package, and advanced build tooling including code generation and build tags.
+This course covers advanced Go topics for experienced developers who want to deepen their expertise. It explores concurrency patterns, generics, testing strategies, performance profiling, reflection, the unsafe package, and advanced build tooling including code generation and build tags.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* Experienced `Go` developers looking to master advanced language features
-* Backend engineers building high-performance `Go` services
-* Developers who want to write more idiomatic and efficient `Go` code
+* Experienced Go developers looking to master advanced language features
+* Backend engineers building high-performance Go services
+* Developers who want to write more idiomatic and efficient Go code
 
 ## Prerequisites
-* `Solid` experience with `Go` programming
+* `Solid` experience with Go programming
 * Familiarity with goroutines, channels, and interfaces
-* Understanding of `Go` modules and the standard library
+* Understanding of Go modules and the standard library
 
 ## Objectives
 * Apply advanced concurrency patterns for real-world systems
-* Use `Go` generics effectively for type-safe reusable code
+* Use Go generics effectively for type-safe reusable code
 * Write comprehensive tests including fuzzing and benchmarking
-* Profile and optimize `Go` applications using pprof
+* Profile and optimize Go applications using pprof
 * Leverage reflection, unsafe, and code generation for advanced use cases
 
 ## Outline
@@ -88,8 +88,8 @@ This course covers advanced `Go` topics for experienced developers who want to d
     * Understanding unsafe.Pointer
     * Pointer arithmetic and type conversions
     * unsafe.Sizeof, unsafe.Alignof, unsafe.Offsetof
-    * Interfacing with `C` code via cgo
-    * Safety considerations and `when` to use unsafe
+    * Interfacing with C code via cgo
+    * Safety considerations and when to use unsafe
 <!-- chapter: internal-packages-and-project-structure, duration: 2h -->
 * Internal Packages and Project Structure
     * The internal package convention

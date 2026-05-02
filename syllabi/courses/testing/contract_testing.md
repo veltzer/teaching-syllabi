@@ -15,7 +15,7 @@ audience:
 # Contract Testing
 
 ## Description
-Contract testing ensures that services in a distributed system communicate correctly by verifying that both consumers and providers adhere to a shared contract. This course covers consumer-driven contract testing with Pact, bi-directional contract testing, and contract testing for `REST`, `GraphQL`, and messaging systems. Participants will learn how to integrate contract testing into their workflows and understand `when` to use it versus integration testing.
+Contract testing ensures that services in a distributed system communicate correctly by verifying that both consumers and providers adhere to a shared contract. This course covers consumer-driven contract testing with Pact, bi-directional contract testing, and contract testing for `REST`, `GraphQL`, and messaging systems. Participants will learn how to integrate contract testing into their workflows and understand when to use it versus integration testing.
 
 ## Duration
 16 hours / 1 day
@@ -29,7 +29,7 @@ Contract testing ensures that services in a distributed system communicate corre
 ## Prerequisites
 * Experience with `REST APIs` and `HTTP` fundamentals
 * Understanding of `microservices` architecture concepts
-* Familiarity with at least one programming language (`JavaScript`, `Java`, `Python`, or `Go`)
+* Familiarity with at least one programming language (`JavaScript`, `Java`, `Python`, or Go)
 * Basic understanding of `JSON` and `API` schemas
 * Experience with automated testing frameworks
 
@@ -45,7 +45,7 @@ Contract testing ensures that services in a distributed system communicate corre
 * Test contracts for `REST APIs`, `GraphQL`, and messaging systems
 * Validate contracts against `OpenAPI` and AsyncAPI specifications
 * Integrate contract testing into `CI/CD` pipelines
-* Determine `when` contract testing is appropriate versus integration testing
+* Determine when contract testing is appropriate versus integration testing
 
 ## Outline
 <!-- chapter: contract-testing-concepts, duration: 2h -->
@@ -56,7 +56,7 @@ Contract testing ensures that services in a distributed system communicate corre
     * Contract testing in the testing pyramid
     * Provider contracts vs consumer contracts
     * Contract testing vs integration testing: trade-offs
-    * `When` to use contract testing and `when` not to
+    * `When` to use contract testing and when not to
 <!-- chapter: the-pact-framework, duration: 2h -->
 * The Pact Framework
     * Pact overview and supported languages
@@ -70,7 +70,7 @@ Contract testing ensures that services in a distributed system communicate corre
 <!-- chapter: pact-broker, duration: 2h -->
 * `Pact Broker`
     * What is `Pact Broker` and why it is needed
-    * Setting up `Pact Broker` (self-hosted and `Pactflow` `SaaS`)
+    * Setting up `Pact Broker` (self-hosted and Pactflow `SaaS`)
     * Publishing pacts from consumer builds
     * Retrieving pacts for provider verification
     * Version tagging and environment tracking
@@ -117,7 +117,7 @@ Contract testing ensures that services in a distributed system communicate corre
 <!-- chapter: spring-cloud-contract, duration: 1h -->
 * `Spring Cloud Contract`
     * Overview of `Spring Cloud Contract`
-    * Defining contracts in `Groovy` or `YAML`
+    * Defining contracts in Groovy or `YAML`
     * Auto-generated tests for the provider
     * Stubs for consumer testing
     * Integration with `Spring Boot` test infrastructure

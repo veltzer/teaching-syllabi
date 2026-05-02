@@ -19,8 +19,8 @@ audience:
 This course is a tour of the package management landscape on `Linux`. Modern `Linux` systems pull software from
 many different sources: the distribution's own repositories (via `apt`, `dnf`, `yum`, `pacman` and
 their low-level peers `dpkg` and `rpm`), cross-distribution sand-boxed formats (`flatpak`, `snap`, `appimage`),
-declarative systems (`nix`, `guix`), language-specific package managers (`pip`, `cargo`, `npm`, `go modules`,
-`gem`, `maven`), `GitHub` releases, container images, and old-fashioned source builds. Each ecosystem solves
+declarative systems (`nix`, `guix`), language-specific package managers (pip, `cargo`, `npm`, `go modules`,
+gem, `maven`), `GitHub` releases, container images, and old-fashioned source builds. Each ecosystem solves
 a different subset of the same problems: dependency resolution, installation, upgrade, removal, security
 updates, signing, and reproducibility. The goal of this course is to `make` sense of all of these so that the
 practitioner can pick the right tool for the right task and avoid the common pitfalls of mixing them.
@@ -37,7 +37,7 @@ and how to audit what is on the system.
 * sysadmins who maintain `Linux` machines, fleets or images.
 * `devops` engineers who build base images, `CI` pipelines or installation scripts.
 * developers who ship software to `Linux` users and need to choose a packaging format.
-* anyone who has ever been confused about whether to install something with `apt`, `pip`, `snap`, or from `GitHub`.
+* anyone who has ever been confused about whether to install something with `apt`, pip, `snap`, or from `GitHub`.
 
 ## Prerequisites
 * Familiarity with the `Linux` command line.
@@ -49,7 +49,7 @@ and how to audit what is on the system.
 * gain practical knowledge of the `Debian` family tools (`dpkg`, `apt`)
 * gain practical knowledge of the `Red Hat` family tools (`rpm`, `yum`, `dnf`)
 * gain practical knowledge of universal package formats (`flatpak`, `snap`, `appimage`, `nix`)
-* gain practical knowledge of language-specific package managers (`pip`, `cargo`, `npm`, ...)
+* gain practical knowledge of language-specific package managers (pip, `cargo`, `npm`, ...)
 * gain practical knowledge of installing from `GitHub` releases and from source
 * be able to choose the right packaging tool for the right job
 
@@ -68,7 +68,7 @@ and how to audit what is on the system.
     * Distribution repositories vs third-party repositories vs upstream
 <!-- chapter: dpkg-and-apt, duration: 3h -->
 * The `Debian` family: `dpkg` and `apt`
-    * What is a `.deb` `file`
+    * What is a `.deb` file
     * Internals of a `.deb` archive (`ar`, `control.tar`, `data.tar`)
     * `dpkg`: the low-level tool
         * installing, removing, querying
@@ -80,7 +80,7 @@ and how to audit what is on the system.
         * `apt-mark` for holding packages
         * `apt-cache` and `apt-file` for querying
     * Repositories
-        * `/etc/apt/sources.list` and `sources.list.d/`
+        * `/etc/``apt``/sources.list` and `sources.list.d/`
         * the `DEB822` modern format
         * components: `main`, `restricted`, `universe`, `multiverse`
         * adding third-party repositories with `signed-by`
@@ -89,7 +89,7 @@ and how to audit what is on the system.
     * Building your own `.deb`
 <!-- chapter: rpm-and-dnf, duration: 3h -->
 * The `Red Hat` family: `rpm`, `yum`, and `dnf`
-    * What is a `.rpm` `file`
+    * What is a `.rpm` file
     * Internals of an `.rpm` archive
     * `rpm`: the low-level tool
         * installing, upgrading, removing
@@ -100,7 +100,7 @@ and how to audit what is on the system.
         * `dnf history` and rollback
         * `dnf group` and `dnf module`
     * Repositories
-        * `/etc/yum.repos.d/`
+        * `/etc/``yum``.repos.d/`
         * `EPEL` and other third-party repositories
         * `gpgcheck` and signing
     * Building your own `.rpm` with `rpmbuild`
@@ -118,7 +118,7 @@ and how to audit what is on the system.
         * automatic updates: pros and cons
         * confinement modes
     * `appimage`
-        * single-`file` applications
+        * single-file applications
         * no installation required
         * integration with the desktop
     * `nix` and `guix`
@@ -128,14 +128,14 @@ and how to audit what is on the system.
 <!-- chapter: language-package-managers, duration: 3h -->
 * Language-specific package managers
     * Why every language has its own
-    * `Python`: `pip`, `pipx`, `venv`, `uv`, `poetry`
+    * `Python`: pip, `pipx`, `venv`, `uv`, poetry
         * `PyPI` and wheels
         * the `PEP 668` "externally managed" rule
         * virtual environments vs system `Python`
-    * `Rust`: `cargo` and `crates.io`
+    * Rust: `cargo` and `crates.io`
     * `JavaScript`/`Node.js`: `npm`, `yarn`, `pnpm` and the `npm` registry
-    * `Ruby`: `gem` and `bundler`
-    * `Go`: `go modules` and the `GOPATH` model
+    * Ruby: gem and `bundler`
+    * Go: `go modules` and the `GOPATH` model
     * `Java`: `maven` and `gradle`
     * `Haskell`: `cabal` and `stack`
     * Common themes

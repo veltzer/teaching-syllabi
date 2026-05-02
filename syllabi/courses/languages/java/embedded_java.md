@@ -21,8 +21,8 @@ The first approach focuses on creating custom `Linux` distributions for embedded
 support `Java` execution. The second approach explores `Java`'s real-time capabilities where the
 `Java` process itself operates under real-time constraints. The third approach demonstrates
 how to use `Java` as a front-end that communicates with native real-time processes written
-in `C`, `C++`, or `Rust`. Students will gain practical experience with each approach and understand
-`when` to apply each technique based on system requirements and constraints.
+in C, `C++`, or Rust. Students will gain practical experience with each approach and understand
+when to apply each technique based on system requirements and constraints.
 
 ## Duration
 40 hours / 5 days
@@ -38,7 +38,7 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
 * `Solid` understanding of `Java` programming
 * Basic knowledge of `Linux` system administration
 * Familiarity with embedded systems concepts
-* Basic understanding of `C`/`C++` (helpful for Part 3)
+* Basic understanding of C/`C++` (helpful for Part 3)
 
 ## Required Knowledge
 * `Linux` Fundamentals (or equivalent experience)
@@ -61,11 +61,11 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
         * `Buildroot` as an alternative
         * Cross-compilation toolchains
     * Adding `Java` Support to Embedded `Linux`
-        * Choosing a JVM for embedded systems
+        * Choosing a `JVM` for embedded systems
             * OpenJDK variants
             * GraalVM Native Image
             * Lightweight JVMs (JamVM, Avian)
-        * JVM memory footprint considerations
+        * `JVM` memory footprint considerations
         * Ahead-of-Time compilation benefits
     * Creating Custom `Yocto` Layers
         * Writing recipes for `Java` applications
@@ -80,7 +80,7 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
     * Introduction to Real-Time Systems
         * Hard real-time vs soft real-time
         * Latency and determinism requirements
-        * POSIX real-time scheduling
+        * `POSIX` real-time scheduling
     * `Java` and Real-Time Challenges
         * Garbage collection impact on latency
         * JIT compilation unpredictability
@@ -95,12 +95,12 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
             * Shenandoah
         * Tuning GC for real-time workloads
         * Region-based memory management
-    * Real-Time JVM Implementations
+    * Real-Time `JVM` Implementations
         * Overview of real-time JVMs
         * Configuration and tuning
         * Thread priorities and scheduling policies
     * `Linux` Real-Time Configuration
-        * PREEMPT_RT kernel patches
+        * `PREEMPT_RT` kernel patches
         * `CPU` isolation and affinity
         * Memory locking (mlockall)
         * Interrupt handling and latency
@@ -118,9 +118,9 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
     * Inter-Process Communication Mechanisms
         * Shared memory
             * Memory-mapped files
-            * POSIX shared memory
+            * `POSIX` shared memory
         * Message queues
-            * POSIX message queues
+            * `POSIX` message queues
             * ZeroMQ
         * `Unix` domain sockets
         * Named pipes (FIFOs)
@@ -134,14 +134,14 @@ in `C`, `C++`, or `Rust`. Students will gain practical experience with each appr
         * Foreign memory access
         * Foreign function calls
         * Comparison with JNI
-    * Integrating with `C`/`C++` Real-Time Processes
-        * Writing real-time `C`/`C++` components
-        * Protocol design for `Java`-`C` communication
+    * Integrating with C/`C++` Real-Time Processes
+        * Writing real-time C/`C++` components
+        * Protocol design for `Java`-C communication
         * Serialization formats (`Protocol Buffers`, FlatBuffers)
         * Error handling across boundaries
-    * Integrating with `Rust` Real-Time Processes
-        * `Rust` FFI basics
-        * Creating `Rust` libraries for `Java` consumption
+    * Integrating with Rust Real-Time Processes
+        * Rust FFI basics
+        * Creating Rust libraries for `Java` consumption
         * Memory safety considerations
         * Async communication patterns
     * Practical Integration Patterns

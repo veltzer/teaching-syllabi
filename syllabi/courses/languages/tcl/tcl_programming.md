@@ -15,7 +15,7 @@ audience:
 # Tcl/Tk Programming
 
 ## Description
-Tcl (Tool Command Language) is a dynamic scripting language widely used in embedded systems, test automation, and rapid prototyping. Paired with Tk, it provides a cross-platform GUI toolkit. This course covers the Tcl language from fundamentals through advanced topics including namespaces, packages, GUI development with Tk, automation with Expect, and embedding Tcl in `C` applications.
+Tcl (Tool Command Language) is a dynamic scripting language widely used in embedded systems, test automation, and rapid prototyping. Paired with Tk, it provides a cross-platform GUI toolkit. This course covers the Tcl language from fundamentals through advanced topics including namespaces, packages, GUI development with Tk, automation with Expect, and embedding Tcl in C applications.
 
 ## Duration
 16 hours / 2 days
@@ -35,7 +35,7 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
 * Build graphical user interfaces with Tk
 * Automate interactive applications using Expect
 * Organize code with namespaces and packages
-* Embed Tcl as a scripting engine in `C` programs
+* Embed Tcl as a scripting engine in C programs
 
 ## Outline
 <!-- chapter: introduction-to-tcl, duration: 1h -->
@@ -88,8 +88,8 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
     * Opening and closing files (open, close)
     * Reading and writing (gets, puts, read)
     * `File` positioning (seek, tell)
-    * `File` system commands (`file` exists, mkdir, delete, copy)
-    * Glob for `file` matching
+    * `File` system commands (file exists, mkdir, delete, copy)
+    * Glob for file matching
 <!-- chapter: regular-expressions, duration: 1h -->
 * Regular Expressions
     * regexp command
@@ -102,7 +102,7 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
     * Namespace creation and management
     * Exporting and importing commands
     * Namespace variables
-    * Package creation (package provide, package `require`)
+    * Package creation (package provide, package require)
     * pkgIndex.tcl
     * Package distribution
 <!-- chapter: tk-gui-programming, duration: 2h -->
@@ -130,12 +130,12 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
     * Automating `SSH`, `FTP`, and telnet sessions
     * Building test harnesses
 <!-- chapter: embedding-tcl-in-c, duration: 2h -->
-* Embedding Tcl in `C`
-    * The Tcl `C` `API`
+* Embedding Tcl in C
+    * The Tcl C `API`
     * Creating an interpreter (Tcl_CreateInterp)
-    * Evaluating scripts from `C`
+    * Evaluating scripts from C
     * Registering custom commands
-    * Passing data between `C` and Tcl
+    * Passing data between C and Tcl
     * Building loadable extensions
 
 ## Copyright

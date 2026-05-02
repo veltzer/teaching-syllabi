@@ -17,7 +17,7 @@ audience:
 # `Apache Hudi`
 
 ## Description
-`Apache Hudi` (`Hadoop` Upserts Deletes and Incrementals) is an open-source transactional data lake platform that brings database-like capabilities — upserts, deletes, ACID transactions, and incremental processing — to cloud object storage and `HDFS`. This course provides a thorough grounding in `Hudi`'s architecture, table types, and write/read APIs, enabling participants to build reliable, scalable lakehouse solutions on `top` of `Amazon S3`, `ADLS`, or `HDFS`. Participants will learn to integrate `Hudi` with `Apache Spark` and `Apache Flink`, perform schema evolution, configure compaction and clustering for performance, and run incremental pipelines that efficiently process only changed data. The course concludes with a comparative analysis of `Apache Hudi`, `Delta Lake`, and `Apache Iceberg` to help participants choose the right open table format for their use case.
+`Apache Hudi` (`Hadoop` Upserts Deletes and Incrementals) is an open-source transactional data lake platform that brings database-like capabilities — upserts, deletes, ACID transactions, and incremental processing — to cloud object storage and `HDFS`. This course provides a thorough grounding in `Hudi`'s architecture, table types, and write/read APIs, enabling participants to build reliable, scalable lakehouse solutions on top of `Amazon S3`, `ADLS`, or `HDFS`. Participants will learn to integrate `Hudi` with `Apache Spark` and `Apache Flink`, perform schema evolution, configure compaction and clustering for performance, and run incremental pipelines that efficiently process only changed data. The course concludes with a comparative analysis of `Apache Hudi`, `Delta Lake`, and `Apache Iceberg` to help participants choose the right open table format for their use case.
 
 ## Duration
 24 hours / 3 days
@@ -25,7 +25,7 @@ audience:
 ## Intended Audience
 * Data engineers building lakehouse architectures on cloud object storage
 * Data architects designing scalable and transactional data lake platforms
-* Engineers migrating from `Hive`-based data warehouses to open table formats
+* Engineers migrating from Hive-based data warehouses to open table formats
 * Platform engineers deploying and operating `Hudi`-based data infrastructure
 * Data engineers working with `Apache Spark` and `Apache Flink` for large-scale `ETL`
 
@@ -65,10 +65,10 @@ audience:
     * Why organisations choose `Apache Hudi`
 <!-- chapter: apache-hudi-architecture, duration: 2h -->
 * `Apache Hudi` Architecture
-    * `Hudi` storage model: base files, log files, and `file` groups
+    * `Hudi` storage model: base files, log files, and file groups
     * The `Hudi` timeline: a consistent ordered log of all table actions
-    * Timeline actions: `COMMIT`, `DELTA_COMMIT`, `COMPACTION`, `CLEAN`, `CLUSTERING`
-    * `Hudi` metadata table: fast `file` listing and column statistics
+    * Timeline actions: `COMMIT`, DELTA_COMMIT, COMPACTION, CLEAN, `CLUSTERING`
+    * `Hudi` metadata table: fast file listing and column statistics
     * Index types: Bloom filter, `HBase`, bucket, record-level indexes
     * `Hudi` table services: compaction, cleaning, clustering, and archiving
     * Integration with `Hive Metastore`, `AWS Glue`, and `Apache Atlas`
@@ -77,7 +77,7 @@ audience:
 * Table Types: Copy-on-Write vs Merge-on-Read
     * Copy-on-Write (`CoW`): how writes rewrite base `Parquet` files
     * `CoW` trade-offs: write amplification vs fast reads
-    * Merge-on-Read (`MoR`): writes `go` to `delta` log files, merged at read time
+    * Merge-on-Read (`MoR`): writes go to `delta` log files, merged at read time
     * `MoR` trade-offs: low write latency vs merge overhead at read time
     * Read query types on `MoR` tables: snapshot, read-optimised, and incremental
     * Choosing between `CoW` and `MoR` based on write and read SLAs
@@ -86,22 +86,22 @@ audience:
 <!-- chapter: writing-data-with-hudi, duration: 3h -->
 * Writing Data with `Hudi`
     * `Hudi` `Spark` datasource: reading and writing with the `hudi` format
-    * Write operations: `INSERT`, `UPSERT`, `BULK_INSERT`, `DELETE`, `INSERT_OVERWRITE`
+    * Write operations: `INSERT`, UPSERT, BULK_INSERT, DELETE, `INSERT_OVERWRITE`
     * Record key and partition path configuration
     * Configuring the `Hudi` index for upsert matching
     * `DeltaStreamer`: a built-in tool for continuous and incremental ingestion
-    * `DeltaStreamer` sources: `Kafka`, `S3`, `DFS`, `JDBC`
+    * `DeltaStreamer` sources: `Kafka`, `S3`, DFS, `JDBC`
     * Schema provider configuration with `DeltaStreamer`
     * Writing to `Hudi` with `Apache Flink`
-    * Tuning write performance: parallelism, `file` sizing, and compaction triggers
+    * Tuning write performance: parallelism, file sizing, and compaction triggers
 <!-- chapter: querying-hudi-tables, duration: 2h -->
 * Querying `Hudi` Tables
     * Snapshot queries: reading the latest committed snapshot
     * Read-optimised queries: querying only compacted base files for faster reads
     * Incremental queries: reading only records changed since a given commit
     * Querying `Hudi` tables with `Spark SQL`
-    * Querying `Hudi` tables with `Hive` via `HoodieParquetInputFormat`
-    * Querying `Hudi` tables with `Trino` and `Presto`
+    * Querying `Hudi` tables with Hive via `HoodieParquetInputFormat`
+    * Querying `Hudi` tables with `Trino` and Presto
     * Querying `Hudi` tables with `AWS Athena`
     * Time travel: querying `Hudi` tables at a specific point in time
 <!-- chapter: incremental-processing, duration: 2h -->
@@ -143,10 +143,10 @@ audience:
     * Running compaction as a separate `Spark` job for isolation
     * What is clustering and how it improves query performance
     * Clustering strategies: linear, z-order, and space-filling curves
-    * Configuring clustering: sort columns, `file` size targets, and scheduling
+    * Configuring clustering: sort columns, file size targets, and scheduling
     * Balancing write throughput and read performance through table service tuning
 <!-- chapter: hudi-vs-delta-lake-vs-iceberg, duration: 2h -->
-* `Hudi` vs `Delta Lake` vs `Iceberg`
+* `Hudi` vs `Delta Lake` vs Iceberg
     * Overview of the open table format landscape
     * `Apache Hudi`: strengths in upsert-heavy and CDC-driven workloads
     * `Delta Lake`: strengths in `Spark`-native ecosystems and `Databricks` integration
@@ -157,8 +157,8 @@ audience:
     * Choosing the right table format for your organisation's requirements
 <!-- chapter: operations-and-monitoring, duration: 2h -->
 * Operations and Monitoring
-    * `Hudi CLI`: inspecting table metadata, timeline, and `file` system view
-    * Monitoring `Hudi` table health: `file` counts, commit age, and compaction lag
+    * `Hudi CLI`: inspecting table metadata, timeline, and file system view
+    * Monitoring `Hudi` table health: file counts, commit age, and compaction lag
     * Cleaning policies: keeping N commits, time-based retention, and incremental queries
     * Archiving the `Hudi` timeline for long-running tables
     * Repairing corrupted `Hudi` tables and rolling back failed commits

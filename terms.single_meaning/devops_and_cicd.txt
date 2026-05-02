@@ -25,6 +25,7 @@ Nexus
 OpenShift
 OpenTelemetry
 Podman Compose
+Prometheus
 StepAction
 TaskRun
 TeamCity

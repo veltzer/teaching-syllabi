@@ -15,7 +15,7 @@ audience:
 # Advanced `pytest`
 
 ## Description
-This course takes developers and QA engineers beyond the basics of `pytest` and into its advanced capabilities for building robust, scalable, and maintainable test suites. Students will gain deep mastery of fixtures, parameterization, mocking, `async` testing, and plugin development. The course also covers coverage measurement, performance profiling of test runs, and configuration strategies for large projects. By the end, participants will be equipped to design sophisticated test architectures and leverage the full power of the `pytest` ecosystem.
+This course takes developers and QA engineers beyond the basics of `pytest` and into its advanced capabilities for building robust, scalable, and maintainable test suites. Students will gain deep mastery of fixtures, parameterization, mocking, async testing, and plugin development. The course also covers coverage measurement, performance profiling of test runs, and configuration strategies for large projects. By the end, participants will be equipped to design sophisticated test architectures and leverage the full power of the `pytest` ecosystem.
 
 ## Duration
 16 hours / 2 days
@@ -33,7 +33,7 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
 ## Objectives
 * Recall and consolidate core `pytest` mechanics before moving to advanced topics
 * Design reusable and composable fixtures using scoping, factories, and autouse
-* Apply parameterization and property-based testing with `Hypothesis` to maximise coverage
+* Apply parameterization and property-based testing with Hypothesis to maximise coverage
 * Mock external dependencies effectively with `unittest.mock` and `pytest-mock`
 * Test asynchronous code using `pytest-asyncio` and related tools
 * Develop custom `pytest` plugins and hooks to extend framework behaviour
@@ -45,7 +45,7 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
 * `pytest` Fundamentals Recap
     * Test discovery and collection rules
     * Running subsets of tests with expressions and markers
-    * Built-in fixtures: `tmp_path`, `capsys`, `monkeypatch`, `caplog`
+    * Built-in fixtures: `tmp_path`, capsys, monkeypatch, `caplog`
     * Understanding conftest.py and its scope hierarchy
     * Markers: built-in and custom
     * Reading and interpreting failure output
@@ -60,17 +60,17 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
     * Sharing fixtures across packages with conftest.py hierarchies
     * Overriding fixtures in nested directories
 <!-- chapter: parameterization-and-hypothesis-based-testing, duration: 2h -->
-* Parameterization and `Hypothesis`-Based Testing
+* Parameterization and Hypothesis-Based Testing
     * `pytest.mark.parametrize`: basic and nested usage
     * Combining multiple parametrize decorators
     * Parametrize with fixtures using `indirect`
     * Introduction to property-based testing concepts
-    * Writing tests with `Hypothesis`: strategies and examples
+    * Writing tests with Hypothesis: strategies and examples
     * Stateful testing and model-based approaches
-    * Integrating `Hypothesis` with `pytest` effectively
+    * Integrating Hypothesis with `pytest` effectively
 <!-- chapter: mocking-with-unittest-mock-and-pytest-mock, duration: 2h -->
 * Mocking with `unittest.mock` and `pytest-mock`
-    * `MagicMock`, `Mock`, and `AsyncMock` fundamentals
+    * `MagicMock`, Mock, and `AsyncMock` fundamentals
     * Patching with `patch` decorator and context manager
     * The `mocker` fixture from `pytest-mock`
     * Spying on real objects with `mocker.spy`
@@ -79,13 +79,13 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
     * Common pitfalls: patching in the right namespace
 <!-- chapter: testing-async-code, duration: 2h -->
 * Testing `Async` Code
-    * Overview of `async` patterns in `Python`
+    * Overview of async patterns in `Python`
     * Setting up `pytest-asyncio` and event loop configuration
-    * Writing `async` test functions and `async` fixtures
+    * Writing async test functions and async fixtures
     * Testing `asyncio` tasks, coroutines, and queues
     * Mocking `async-functions` and context managers
-    * Testing code built on `aiohttp`, `httpx`, or `FastAPI`
-    * Handling timeouts and cancellation in `async` tests
+    * Testing code built on `aiohttp`, httpx, or `FastAPI`
+    * Handling timeouts and cancellation in async tests
 <!-- chapter: plugins-and-custom-plugins, duration: 2h -->
 * Plugins and Custom Plugins
     * Overview of the `pytest` plugin ecosystem
@@ -99,7 +99,7 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
 * `pytest` Configuration and Best Practices
     * `pytest.ini`, `pyproject.toml`, and `setup.cfg` configuration
     * Defining default options and test paths
-    * Organising large test suites: `file` layout and naming conventions
+    * Organising large test suites: file layout and naming conventions
     * Managing test dependencies and environment isolation
     * Skipping and xfail strategies for flaky or pending tests
     * Parallelising tests with `pytest-xdist`

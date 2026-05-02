@@ -60,7 +60,7 @@ This course covers the administration and management of JBoss/WildFly applicatio
     * Environment variables and system properties
 <!-- chapter: domain-vs-standalone-mode, duration: 1h -->
 * Domain vs Standalone Mode
-    * Standalone mode: `when` and how to use
+    * Standalone mode: when and how to use
     * Domain mode architecture
     * Domain controller and host controllers
     * Server groups and server instances

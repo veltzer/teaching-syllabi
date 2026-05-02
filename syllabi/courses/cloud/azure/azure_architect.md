@@ -29,7 +29,7 @@ This advanced course prepares participants to design comprehensive solutions on 
 ## Prerequisites
 * Hands-on experience with `Azure` services (compute, storage, networking)
 * Understanding of identity and security concepts in `Azure`
-* Familiarity with infrastructure as code (`ARM` templates, `Bicep`, or `Terraform`)
+* Familiarity with infrastructure as code (`ARM` templates, Bicep, or `Terraform`)
 * Experience with application development patterns (`microservices`, APIs)
 
 ## Objectives
@@ -66,13 +66,13 @@ This advanced course prepares participants to design comprehensive solutions on 
     * `Azure Functions` (hosting plans, `durable functions`, triggers)
     * `Azure Container Apps` (`microservices`, Dapr, scaling rules)
     * `Azure Kubernetes Service` (cluster design, networking, storage)
-    * Compute decision framework (`when` to use what)
+    * Compute decision framework (when to use what)
     * Hybrid compute with `Azure Arc`
 <!-- chapter: data-architecture, duration: 4h -->
 * Data Architecture
     * `Azure SQL Database` (DTU vs. vCore, elastic pools, Hyperscale)
     * `Azure Cosmos DB` (`API` selection, partitioning, consistency levels)
-    * Storage accounts (blob, `file`, table, queue, Data Lake)
+    * Storage accounts (blob, file, table, queue, Data Lake)
     * Caching strategies with `Azure Cache for Redis`
     * Data residency and sovereignty requirements
     * Polyglot persistence patterns
@@ -94,7 +94,7 @@ This advanced course prepares participants to design comprehensive solutions on 
     * `CQRS` and `event sourcing` patterns
     * `API` management and gateway patterns
     * Asynchronous messaging and queue-based load leveling
-    * `Saga` pattern for distributed transactions
+    * Saga pattern for distributed transactions
     * Sidecar and ambassador patterns
 <!-- chapter: high-availability-and-disaster-recovery, duration: 4h -->
 * High Availability and Disaster Recovery

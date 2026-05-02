@@ -65,7 +65,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
     * additive vs subtractive changes
     * structural vs semantic breakage
     * compatibility from the producer side and from the consumer side
-    * formal definitions for `JSON`, `Protobuf` and `GraphQL` schemas
+    * formal definitions for `JSON`, Protobuf and `GraphQL` schemas
     * the "robustness principle" and its limits
 <!-- chapter: rest-api-compatibility-rules, duration: 3h -->
 * `REST` `API` compatibility rules
@@ -94,7 +94,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 <!-- chapter: event-and-message-schema-evolution, duration: 2h -->
 * Event and message schema evolution
     * event-carried state transfer and the schema problem
-    * `Avro`, `Protobuf` and `JSON Schema` for events
+    * `Avro`, Protobuf and `JSON Schema` for events
     * forward, backward and full compatibility
     * schema registries and compatibility modes
     * versioning topics vs versioning messages
@@ -110,7 +110,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 <!-- chapter: contract-first-development, duration: 2h -->
 * Contract-first development
     * specification as source of truth
-    * `OpenAPI`, `AsyncAPI`, `Protobuf` and `GraphQL SDL`
+    * `OpenAPI`, AsyncAPI, Protobuf and `GraphQL SDL`
     * generating server stubs and client SDKs from specs
     * keeping documentation, code and contract in sync
     * pull-request workflows for spec changes
@@ -139,7 +139,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 <!-- chapter: deprecation-and-retirement, duration: 2h -->
 * Deprecation and retirement
     * why deprecation is the hardest part
-    * the `Deprecation` and `Sunset` `HTTP` headers (RFC 8594, RFC 9745)
+    * the `Deprecation` and Sunset `HTTP` headers (RFC 8594, RFC 9745)
     * tracking remaining consumers
     * usage telemetry as a precondition for removal
     * forced retirement and brownouts
@@ -148,7 +148,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 * `API` style guides and design reviews
     * the role of an `API` style guide
     * style guides at scale: Microsoft, Google, Zalando
-    * automated style guide enforcement with `Spectral`
+    * automated style guide enforcement with Spectral
     * design review boards
     * lightweight review for internal APIs
 <!-- chapter: communicating-change-to-consumers, duration: 2h -->
@@ -167,7 +167,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
     * `SLO` per `API` tier
 <!-- chapter: case-studies-and-anti-patterns, duration: 2h -->
 * Case studies and anti-patterns
-    * `Stripe`'s versioned `API` model
+    * Stripe's versioned `API` model
     * `GitHub`'s media-type versioning history
     * `Google` cloud `API` stability promises
     * Twitter's deprecations

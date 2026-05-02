@@ -13,7 +13,7 @@ audience:
 # Advanced `C#`
 
 ## Description
-This advanced course dives deep into the most powerful features of modern `C#`, equipping experienced developers with the skills to write high-performance, maintainable, and scalable code. Topics include advanced `LINQ` techniques, mastering `async`/`await` patterns, memory-efficient programming with `Span<T>` and `Memory<T>`, code generation with source generators, and sophisticated dependency injection patterns. The course also covers records, advanced pattern matching, and strategies for building high-performance `C#` applications. The course includes hands on exercises.
+This advanced course dives deep into the most powerful features of modern `C#`, equipping experienced developers with the skills to write high-performance, maintainable, and scalable code. Topics include advanced `LINQ` techniques, mastering async/await patterns, memory-efficient programming with `Span<T>` and `Memory<T>`, code generation with source generators, and sophisticated dependency injection patterns. The course also covers records, advanced pattern matching, and strategies for building high-performance `C#` applications. The course includes hands on exercises.
 
 ## Duration
 24 hours / 3 days
@@ -26,11 +26,11 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
 ## Prerequisites
 * `Solid` experience with `C#` and the `.NET` ecosystem.
 * Understanding of object-oriented programming, generics, and basic `LINQ`.
-* Familiarity with `async`/`await` fundamentals.
+* Familiarity with async/await fundamentals.
 
 ## Objectives
 * Master advanced `LINQ` techniques including custom providers and expression trees
-* Write correct and efficient asynchronous code with advanced `async`/`await` patterns
+* Write correct and efficient asynchronous code with advanced async/await patterns
 * Use `Span<T>` and `Memory<T>` for high-performance memory management
 * Build and use source generators for compile-time code generation
 * Apply advanced dependency injection patterns in `.NET` applications
@@ -44,10 +44,10 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
     * Performance considerations and deferred execution pitfalls
     * `LINQ` over `Span<T>` and custom iterators
     * Query optimization strategies
-    * Combining `LINQ` with `async` streams
+    * Combining `LINQ` with async streams
 <!-- chapter: mastering-async-await, duration: 3h -->
-* Mastering `async`/`await`
-    * The `async` state machine under the hood
+* Mastering async/await
+    * The async state machine under the hood
     * ValueTask and `ValueTask<T>`
     * ConfigureAwait and synchronization contexts
     * `Async` streams with `IAsyncEnumerable<T>`
@@ -62,7 +62,7 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
     * Slicing and working with contiguous memory
     * `ArrayPool<T>` and memory pooling
     * Reducing allocations in hot paths
-    * `ref` structs and `ref` returns
+    * ref structs and ref returns
 <!-- chapter: source-generators, duration: 3h -->
 * Source Generators
     * Introduction to the Roslyn compiler platform

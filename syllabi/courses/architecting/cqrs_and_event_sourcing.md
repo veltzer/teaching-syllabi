@@ -15,7 +15,7 @@ audience:
 # `CQRS` and `Event Sourcing`
 
 ## Description
-`CQRS` (Command Query Responsibility Segregation) and `Event Sourcing` are two complementary architectural patterns that address the challenges of building scalable, auditable, and maintainable distributed systems. This course covers the theory, design principles, and practical implementation of both patterns, from separating command and query models to persisting application state as an immutable sequence of events. Participants will explore how these patterns integrate with `Domain-Driven Design` and `microservices`, and how to tackle real-world concerns such as eventual consistency, projections, snapshotting, and testing. By the end of the course, participants will be equipped to evaluate `when` and how to apply `CQRS` and `Event Sourcing` in production systems.
+`CQRS` (Command Query Responsibility Segregation) and `Event Sourcing` are two complementary architectural patterns that address the challenges of building scalable, auditable, and maintainable distributed systems. This course covers the theory, design principles, and practical implementation of both patterns, from separating command and query models to persisting application state as an immutable sequence of events. Participants will explore how these patterns integrate with `Domain-Driven Design` and microservices, and how to tackle real-world concerns such as eventual consistency, projections, snapshotting, and testing. By the end of the course, participants will be equipped to evaluate when and how to apply `CQRS` and `Event Sourcing` in production systems.
 
 ## Duration
 16 hours / 2 days
@@ -24,13 +24,13 @@ audience:
 * Software architects designing scalable and auditable systems
 * Senior developers working on complex domain models and distributed systems
 * Technical leads evaluating `CQRS` and `Event Sourcing` for their projects
-* Engineers building systems that `require` full audit trails and `temporal` queries
+* Engineers building systems that require full audit trails and `temporal` queries
 * Backend developers working with `DDD` and `microservices`
 
 ## Prerequisites
 * Strong understanding of software architecture fundamentals
 * Familiarity with `Domain-Driven Design` concepts (aggregates, entities, value objects)
-* Experience with at least one backend programming language (e.g., `Java`, `C#`, `Python`, `Go`)
+* Experience with at least one backend programming language (e.g., `Java`, `C#`, `Python`, Go)
 * Basic understanding of relational and `NoSQL` databases
 * Familiarity with messaging systems and asynchronous communication patterns
 
@@ -57,7 +57,7 @@ audience:
     * Command and query objects: definitions and responsibilities
     * Synchronous vs asynchronous command handling
     * `CQRS` in the context of layered and hexagonal architectures
-    * `When` `CQRS` is beneficial and `when` it adds unnecessary complexity
+    * `When` `CQRS` is beneficial and when it adds unnecessary complexity
     * Overview of frameworks and libraries supporting `CQRS`
 <!-- chapter: event-sourcing-fundamentals, duration: 2h -->
 * `Event Sourcing` Fundamentals
@@ -67,7 +67,7 @@ audience:
     * Replaying events to reconstruct aggregate state
     * Event versioning and the challenges of schema evolution
     * Benefits of `Event Sourcing`: audit logs, `temporal` queries, debugging
-    * Common misconceptions and pitfalls `when` adopting `Event Sourcing`
+    * Common misconceptions and pitfalls when adopting `Event Sourcing`
     * Comparing `Event Sourcing` with change data capture and outbox patterns
 <!-- chapter: implementing-commands-and-command-handlers, duration: 2h -->
 * Implementing Commands and Command Handlers
@@ -95,7 +95,7 @@ audience:
     * Append-only log design and stream management
     * Optimistic concurrency control and version conflicts
     * `EventStoreDB`: architecture and usage
-    * Implementing an event store on `top` of relational databases
+    * Implementing an event store on top of relational databases
     * Using `Apache Kafka` as an event log
     * Event metadata: timestamps, correlation `IDs`, causation `IDs`
     * Partitioning and scaling event stores
@@ -112,7 +112,7 @@ audience:
 <!-- chapter: snapshotting, duration: 1h -->
 * Snapshotting
     * The performance problem of long event streams
-    * Snapshot design: what to store and `when` to take a snapshot
+    * Snapshot design: what to store and when to take a snapshot
     * Snapshot storage strategies alongside the event store
     * Loading aggregates with snapshots and applying subsequent events
     * Snapshot versioning and migration
@@ -129,7 +129,7 @@ audience:
     * Decomposing monoliths using `CQRS` and `Event Sourcing`
 <!-- chapter: testing-cqrs-es-systems, duration: 1h -->
 * Testing `CQRS`/ES Systems
-    * Testing command handlers: given-`when`-then style
+    * Testing command handlers: given-when-then style
     * Unit testing aggregates with event-based assertions
     * Testing projections with event replay scenarios
     * Integration testing the command and query pipelines

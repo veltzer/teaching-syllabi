@@ -27,12 +27,12 @@ batching, speculative decoding, quantization, the difference between `vLLM`, `Te
 
 This four day course covers inference optimization and serving as practiced today. It covers the
 inference compute pattern (the prefill and decode phases, the `KV-cache`, the per-request memory),
-the serving stacks (`vLLM`, `TensorRT-LLM`, `SGLang`, `LMDeploy`, `Triton Inference Server`,
+the serving stacks (`vLLM`, `TensorRT-LLM`, SGLang, LMDeploy, `Triton Inference Server`,
 `Hugging Face TGI`, `Ollama` for local), the optimization techniques (continuous batching, paged
-attention, prefix caching, speculative decoding, quantization in `AWQ`/`GPTQ`/`FP8`, tensor and
+attention, prefix caching, speculative decoding, quantization in `AWQ`/GPTQ/`FP8`, tensor and
 pipeline parallelism), the model selection and serving trade-offs, the autoscaling story, the cold
-start problem, the multi-tenant serving question, the cost shape (`GPU`-hours, `H100`-vs-`A100`-vs-`L4`,
-spot vs reserved), the alternatives (managed serving on `Bedrock`/`Vertex`/`Together`/`Fireworks`/`Groq`),
+start problem, the multi-tenant serving question, the cost shape (`GPU`-hours, H100-vs-A100-vs-`L4`,
+spot vs reserved), the alternatives (managed serving on `Bedrock`/Vertex/Together/Fireworks/`Groq`),
 and the operational realities. Examples include real production deployments. Participants leave able
 to serve a model with the right stack at the right cost.
 
@@ -91,7 +91,7 @@ to serve a model with the right stack at the right cost.
     * the cost win
 <!-- chapter: quantization, duration: 3h -->
 * Quantization
-    * `FP16`, `BF16`, `FP8`, `INT8`, `INT4`
+    * `FP16`, BF16, FP8, INT8, `INT4`
     * `AWQ` and `GPTQ`
     * weight-only vs activation quantization
     * the quality cost
@@ -103,7 +103,7 @@ to serve a model with the right stack at the right cost.
     * accept rate and the speedup
     * `Medusa`, `EAGLE`, target-model-only approaches
     * the "we lost speedup because the draft model was too small" failure
-    * `when` speculative decoding wins
+    * when speculative decoding wins
 <!-- chapter: tensor-and-pipeline-parallelism, duration: 3h -->
 * Tensor and pipeline parallelism
     * tensor parallelism for large models
@@ -136,7 +136,7 @@ to serve a model with the right stack at the right cost.
     * the `GPU` cold-start cost
     * scale-to-zero and the trade-off
     * the warm-pool strategy
-    * `Knative` and `KServe` for `GPU` autoscaling
+    * `Knative` and KServe for `GPU` autoscaling
     * the "we scaled to zero and the first request was 60 seconds" reality
 <!-- chapter: multi-tenant-serving, duration: 2h -->
 * Multi-tenant serving
@@ -148,15 +148,15 @@ to serve a model with the right stack at the right cost.
 <!-- chapter: gpu-fleet-operations, duration: 2h -->
 * `GPU` fleet operations
     * spot vs on-demand vs reserved
-    * `H100`, `A100`, `L4`, `MI300X` in practice
+    * `H100`, A100, L4, `MI300X` in practice
     * the `GPU`-utilization metric
     * `DCGM` and `nvidia-smi` exporters
     * the cost-per-million-tokens calculation
 <!-- chapter: managed-inference-alternatives, duration: 2h -->
 * Managed-inference alternatives
     * `Bedrock`, `Vertex AI`
-    * `Together AI`, `Fireworks`, `Anyscale`
-    * `Groq`, `Cerebras`, `SambaNova` for fast inference
+    * `Together AI`, Fireworks, `Anyscale`
+    * `Groq`, Cerebras, `SambaNova` for fast inference
     * the buy-vs-build decision
     * the cost crossover
 <!-- chapter: putting-it-together, duration: 3h -->

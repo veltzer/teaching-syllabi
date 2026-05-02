@@ -99,7 +99,7 @@ This advanced course dives deep into `Redis` features and operational patterns f
 <!-- chapter: persistence-strategies, duration: 1h -->
 * Persistence Strategies
     * RDB snapshots: configuration and trade-offs
-    * AOF append-only `file`: modes and rewriting
+    * AOF append-only file: modes and rewriting
     * Hybrid persistence (RDB + AOF)
     * Persistence performance impact
     * Backup and restore procedures

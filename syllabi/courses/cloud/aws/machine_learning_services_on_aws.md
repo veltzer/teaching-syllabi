@@ -45,9 +45,9 @@ Knowledge of `machine learning`.
 
 ## Objectives
 * List the various services that are on offer in `AWS` regarding `machine learning`.
-* Understand the advantages and disadvantages of these services `when` compared to each other.
-* Understand the advantages and disadvantages of these services `when` compared to doing the same off cloud.
-* Understand the advantages and disadvantages of these services `when` compared to doing the same on cloud but without the service.
+* Understand the advantages and disadvantages of these services when compared to each other.
+* Understand the advantages and disadvantages of these services when compared to doing the same off cloud.
+* Understand the advantages and disadvantages of these services when compared to doing the same on cloud but without the service.
 
 ## Exercises
 No exercises in this part of the course, examples for some of the services will be

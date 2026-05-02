@@ -42,7 +42,7 @@ This course provides an in-depth exploration of the `Android` platform across al
 ## Outline
 <!-- chapter: android-platform-overview, duration: 1h -->
 * `Android` platform overview
-    * The `Java` layer (SDK).
+    * The `Java` layer (`SDK`).
     * The native layer (`NDK`).
     * The kernel layer (`Linux` basically).
     * The power management framework.
@@ -114,8 +114,8 @@ This course provides an in-depth exploration of the `Android` platform across al
 * The `NDK` (advanced)
     * list of APIs of the `NDK`.
     * list of libraries usually found on `android` devices.
-        * bionic libc.
-            * differences from gnu libc.
+        * bionic `libc`.
+            * differences from gnu `libc`.
             * properties
             * logging.
         * webkit
@@ -141,7 +141,7 @@ This course provides an in-depth exploration of the `Android` platform across al
     * difference between `android` and stock `Linux` kernel.
         * alarm.
         * ashmem (shared memory driver).
-        * IPC binder.
+        * `IPC` binder.
         * power management.
         * low memory killer.
         * kernel debugger.
@@ -169,7 +169,7 @@ This course provides an in-depth exploration of the `Android` platform across al
 I think that you guys will be most interested in the HAL layer but I really don't know.
 * The course has 3 parts: `Java`, native and kernel each with it's own pre-requisites.
 * The overall purpose of this course is: To provide the participants, who are kernel and
-user space `C` programmers, with intimate knowledge of the various layers of the `android`
+user space C programmers, with intimate knowledge of the various layers of the `android`
 platform. Participants will code modules for the `android` kernel, write native code in
 user space that uses those modules, and write `Java` applications that uses the user space
 code.
@@ -187,7 +187,7 @@ of the exercises? Maybe some topics should only be overview ? The subject is hug
 * In the beginning I though about doing this course in "reverse" to what you are seeing
 in this document. First do the kernel and have people code some module in it.
 Then using that code from a user space native application or `android` native service and
-then finally writing a UI on `top` of that in `Java`. The problem with this approach is that
+then finally writing a UI on top of that in `Java`. The problem with this approach is that
 the students will not "see" results till the last stage and that is also why I think I
 will stick with this structure instead of the reverse: students will code an application with
 UI (very easy at first). Then they will code native libraries which they will use from

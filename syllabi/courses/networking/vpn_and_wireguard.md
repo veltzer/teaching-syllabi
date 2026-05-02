@@ -39,7 +39,7 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
 
 ## Objectives
 * Compare `VPN` technologies and select the appropriate solution for a given use case
-* Understand `IPSec` architecture including `IKEv2`, `ESP`, `AH`, and Security Associations
+* Understand `IPSec` architecture including `IKEv2`, ESP, `AH`, and Security Associations
 * Configure `StrongSwan` or `Libreswan` for `IPSec`/`IKEv2` tunnels
 * Deploy and configure `OpenVPN` for client-server remote access
 * Explain `WireGuard`'s design principles, cryptographic model, and routing approach
@@ -54,12 +54,12 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
     * What `VPN`s solve: confidentiality, integrity, and tunnel abstraction
     * `VPN` modes: remote access, site-to-site, and overlay networks
     * Overview of major `VPN` protocols: `IPSec`, `OpenVPN`, `WireGuard`, `SSL VPN`
-    * Layer 2 vs Layer 3 `VPN`s: `MPLS`, `VXLAN`, and `IP` tunnels
+    * Layer 2 vs Layer 3 `VPN`s: MPLS, `VXLAN`, and `IP` tunnels
     * Performance and security trade-off overview
     * Common use cases: remote workforce, branch offices, cloud connectivity
 <!-- chapter: ipsec-architecture-and-ikev2, duration: 3h -->
 * `IPSec` Architecture and `IKEv2`
-    * `IPSec` protocol suite: `AH`, `ESP`, and their roles
+    * `IPSec` protocol suite: AH, `ESP`, and their roles
     * Transport mode vs tunnel mode
     * Security Associations (SA) and the Security Policy Database (SPD)
     * `IKE` evolution: `IKEv1` vs `IKEv2`
@@ -71,12 +71,12 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
     * Troubleshooting `IKEv2` negotiations with `tcpdump` and logs
 <!-- chapter: openvpn-deep-dive, duration: 2h -->
 * `OpenVPN` Deep Dive
-    * `OpenVPN` architecture: `TUN`/`TAP` interfaces and control/data channels
+    * `OpenVPN` architecture: TUN/`TAP` interfaces and control/data channels
     * `TLS` for control channel security and session establishment
     * Certificate-based authentication with a custom `PKI`
     * Username and password authentication with `PAM` and `LDAP`
     * `OpenVPN` server configuration: topology, cipher, and protocol
-    * Client profile distribution and `ovpn` `file` structure
+    * Client profile distribution and `ovpn` file structure
     * `OpenVPN` with `obfs4` and traffic obfuscation
     * Scalability: `OpenVPN` Access Server and multi-daemon setups
 <!-- chapter: wireguard-architecture-and-design, duration: 2h -->
@@ -93,10 +93,10 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
 * `WireGuard` Setup and Configuration
     * Installing `WireGuard` on `Linux`, `macOS`, `Windows`, `iOS`, and `Android`
     * Generating key pairs and distributing public keys
-    * `wg` and `wg-quick` tools and configuration `file` format
+    * `wg` and `wg-quick` tools and configuration file format
     * Road-warrior configuration: server and client setup
     * Full tunnel vs split tunnel in `WireGuard`
-    * `PostUp`/`PostDown` hooks and `iptables` masquerading
+    * `PostUp`/PostDown hooks and `iptables` masquerading
     * `systemd-networkd` integration for persistent `WireGuard` interfaces
     * Multi-peer configuration for mesh networking
     * `wg-easy` and `wireguard-ui` for simplified management

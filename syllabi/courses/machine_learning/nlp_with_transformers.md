@@ -75,7 +75,7 @@ using `ONNX` for production environments.
     * Autoregressive language modeling
     * `GPT`-2 and `GPT`-3 architecture overview
     * Causal attention masking
-    * Text generation strategies (greedy, beam search, `top`-k, `top`-p sampling)
+    * Text generation strategies (greedy, beam search, top-k, top-p sampling)
     * Prompt engineering fundamentals
 <!-- chapter: hugging-face-ecosystem, duration: 2h -->
 * `Hugging Face` Ecosystem

@@ -15,7 +15,7 @@ audience:
 ## Description
 `Lua` is a lightweight, high-performance, embeddable scripting language. It is widely used in game development, embedded systems, and as a configuration and extension language in many applications. `Lua` combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics via metatables.
 
-This course teaches `Lua` from the fundamentals through advanced topics including metatables, coroutines, the `C` `API`, and embedding `Lua` in applications. Students will also learn about LuaJIT and using `Lua` as a scripting language in game engines.
+This course teaches `Lua` from the fundamentals through advanced topics including metatables, coroutines, the C `API`, and embedding `Lua` in applications. Students will also learn about LuaJIT and using `Lua` as a scripting language in game engines.
 
 ## Duration
 16 hours / 2 days
@@ -27,9 +27,9 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
 * Anyone who wants to learn a fast and flexible scripting language
 
 ## Prerequisites
-* Prior programming experience in another language such as `C`, `Python`, or `JavaScript`
+* Prior programming experience in another language such as C, `Python`, or `JavaScript`
 * Basic understanding of programming concepts (variables, loops, functions)
-* Familiarity with `C` is helpful for the `C` `API` sections
+* Familiarity with C is helpful for the C `API` sections
 
 ## Required Knowledge
 * `Python` Programming (or equivalent experience)
@@ -39,7 +39,7 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
 * Write `Lua` programs using tables, functions, and closures
 * Implement object-oriented patterns with metatables
 * Use coroutines for cooperative multitasking
-* Integrate `Lua` with `C` applications using the `C` `API`
+* Integrate `Lua` with C applications using the C `API`
 * Understand LuaJIT and its performance characteristics
 * Script game engines and applications with `Lua`
 
@@ -95,13 +95,13 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
 * String Manipulation
     * String library functions
     * Pattern matching
-    * string.`find`, string.match, string.gmatch
+    * string.find, string.match, string.gmatch
     * String formatting with string.format
     * Captures and replacements
 <!-- chapter: modules-and-packages, duration: 1h -->
 * Modules and Packages
     * Creating modules
-    * The `require` function
+    * The require function
     * Module search paths
     * Package management with LuaRocks
     * Organizing larger projects
@@ -122,16 +122,16 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
     * Error messages and stack traces
     * Custom error objects
 <!-- chapter: c-api-integration, duration: 2h -->
-* `C` `API` Integration
-    * Overview of the `Lua` `C` `API`
+* C `API` Integration
+    * Overview of the `Lua` C `API`
     * The `Lua` stack
-    * Calling `Lua` from `C`
-    * Calling `C` from `Lua`
-    * Creating `C` modules for `Lua`
-    * Userdata and metatables in `C`
+    * Calling `Lua` from C
+    * Calling C from `Lua`
+    * Creating C modules for `Lua`
+    * Userdata and metatables in C
 <!-- chapter: embedding-lua, duration: 1h -->
 * Embedding `Lua`
-    * Embedding `Lua` in `C`/`C++` applications
+    * Embedding `Lua` in C/`C++` applications
     * Configuration files with `Lua`
     * Sandboxing and security considerations
     * Custom allocators

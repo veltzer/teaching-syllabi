@@ -14,14 +14,14 @@ audience:
 # `Spring Boot` Development
 
 ## Description
-This course provides a comprehensive guide to building enterprise-grade applications with `Spring Boot`. Starting from auto-configuration and the `Spring` core concepts of dependency injection and bean lifecycle, the course covers `REST API` development, data persistence with `Spring Data JPA`, security with `Spring Security`, configuration management, testing, and deployment. Students will gain the skills to build robust, production-ready `Java` applications.
+This course provides a comprehensive guide to building enterprise-grade applications with `Spring Boot`. Starting from auto-configuration and the Spring core concepts of dependency injection and bean lifecycle, the course covers `REST API` development, data persistence with `Spring Data JPA`, security with `Spring Security`, configuration management, testing, and deployment. Students will gain the skills to build robust, production-ready `Java` applications.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
 * `Java` developers building backend applications and `microservices`
-* Software engineers transitioning to the `Spring` ecosystem
+* Software engineers transitioning to the Spring ecosystem
 * Backend developers looking to adopt modern `Java` development practices
 * Full-stack developers who need robust server-side application frameworks
 * Architects evaluating `Spring Boot` for enterprise applications
@@ -32,12 +32,12 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 * Basic knowledge of `HTTP` protocol and `REST API` concepts
 * Familiarity with build tools (`Maven` or `Gradle`)
 * Basic understanding of relational databases and `SQL`
-* Experience with an IDE such as `IntelliJ IDEA` or `Eclipse`
+* Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 * Command-line interface usage and basic terminal operations
 
 ## Objectives
 * Understand `Spring Boot` auto-configuration, starters, and embedded servers
-* Apply `Spring` core concepts: dependency injection, bean lifecycle, and component scanning
+* Apply Spring core concepts: dependency injection, bean lifecycle, and component scanning
 * Build `RESTful APIs` with proper request handling, validation, and error responses
 * Implement data persistence using `Spring Data JPA` with repositories, queries, and pagination
 * Secure applications with `Spring Security`, `OAuth2`, and `JWT` authentication
@@ -49,22 +49,22 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 ## Outline
 <!-- chapter: introduction-to-spring-boot, duration: 3h -->
 * Introduction to `Spring Boot`
-    * Overview of the `Spring` ecosystem and `Spring Boot`
+    * Overview of the Spring ecosystem and `Spring Boot`
     * Auto-configuration and the opinionated defaults philosophy
     * `Spring Boot` starters and dependency management
-    * Embedded servers: `Tomcat`, `Jetty`, and Undertow
+    * Embedded servers: Tomcat, Jetty, and Undertow
     * Creating a project with `Spring Initializr`
     * Project structure and the main application class
     * Running and debugging `Spring Boot` applications
 <!-- chapter: spring-core-concepts, duration: 3h -->
-* `Spring` Core Concepts
+* Spring Core Concepts
     * The `IoC` container and application context
     * Dependency injection: constructor, setter, and field injection
     * Bean lifecycle and scopes
     * Component scanning and stereotype annotations (@Component, @Service, @Repository, @Controller)
     * Configuration classes and @Bean methods
     * Profiles and conditional bean registration
-    * SpEL (`Spring` Expression Language)
+    * SpEL (Spring Expression Language)
 <!-- chapter: building-rest-apis, duration: 4h -->
 * Building `REST` APIs
     * @RestController and request mapping annotations
@@ -77,14 +77,14 @@ This course provides a comprehensive guide to building enterprise-grade applicat
     * `API` documentation with `SpringDoc OpenAPI`
 <!-- chapter: spring-data-jpa, duration: 4h -->
 * `Spring Data JPA`
-    * Introduction to `JPA` and `Hibernate` with `Spring Boot`
+    * Introduction to `JPA` and Hibernate with `Spring Boot`
     * Entity mapping: annotations, relationships, and inheritance
     * Repository interfaces and derived query methods
     * Custom queries with JPQL and native `SQL`
     * Pagination and sorting
     * Specifications and dynamic queries
     * Auditing and entity lifecycle callbacks
-    * Database migrations with `Flyway` and `Liquibase`
+    * Database migrations with Flyway and `Liquibase`
     * Transaction management and propagation
 <!-- chapter: spring-security, duration: 4h -->
 * `Spring Security`
@@ -112,7 +112,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
     * Metrics collection and exposure
     * Integration with `Prometheus` and `Grafana`
     * Logging with SLF4J and Logback
-    * Log levels, patterns, and `file` appenders
+    * Log levels, patterns, and file appenders
     * Structured logging for production environments
 <!-- chapter: exception-handling-and-validation, duration: 2h -->
 * Exception Handling and Validation

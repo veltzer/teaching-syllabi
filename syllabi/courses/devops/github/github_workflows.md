@@ -62,9 +62,9 @@ audience:
     * Basic `YAML` syntax for workflows
 <!-- chapter: workflow-fundamentals, duration: 1h -->
 * Workflow Fundamentals
-    * Workflow `file` structure and syntax
+    * Workflow file structure and syntax
     * Essential workflow components (name, on, jobs)
-    * Understanding runners (`ubuntu`-latest, `windows`-latest, `macos`-latest)
+    * Understanding runners (`ubuntu`-latest, windows-latest, `macos`-latest)
     * Job dependencies and execution order
     * Workflow status badges and monitoring
     * Basic workflow examples and templates

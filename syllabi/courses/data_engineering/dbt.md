@@ -33,7 +33,7 @@ audience:
 * Intermediate proficiency in `SQL` (joins, aggregations, window functions, CTEs)
 * Basic understanding of data warehousing concepts
 * Familiarity with `Git` version control
-* Access to a cloud data warehouse (`Snowflake`, `BigQuery`, `Redshift`, or `Databricks`)
+* Access to a cloud data warehouse (Snowflake, `BigQuery`, `Redshift`, or `Databricks`)
 * Basic command-line interface knowledge
 * Understanding of `ETL`/`ELT` concepts
 
@@ -105,13 +105,13 @@ audience:
 <!-- chapter: snapshots-and-slowly-changing-dimensions, duration: 1h -->
 * Snapshots and Slowly Changing Dimensions
     * What are snapshots in `dbt`
-    * Snapshot strategies: timestamp and `check`
+    * Snapshot strategies: timestamp and check
     * Configuring snapshot targets and invalidation
     * Implementing Slowly Changing Dimensions (SCD Type 2)
     * Snapshot best practices and limitations
 <!-- chapter: macros-packages-and-reusability, duration: 2h -->
 * Macros, Packages, and Reusability
-    * What are macros and `when` to use them
+    * What are macros and when to use them
     * Writing custom macros
     * Macro arguments and default values
     * `dbt` packages and the `dbt` hub

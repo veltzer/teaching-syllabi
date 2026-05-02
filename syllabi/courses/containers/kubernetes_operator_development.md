@@ -18,19 +18,19 @@ audience:
 
 ## Description
 The catalog has `Kubernetes`, `Kubernetes for Developers`, `Kubernetes Troubleshooting`, and the
-related `Helm`, `Kustomize`, `ArgoCD` material. None of those covers the discipline of building a
+related Helm, `Kustomize`, `ArgoCD` material. None of those covers the discipline of building a
 `Kubernetes` operator: a controller that extends `Kubernetes` with custom resources and automates the
 operational knowledge of running a stateful workload. Operators are the way that databases, message
-queues, `ML` platforms, and internal `PaaS` services get exposed to `Kubernetes` users with a
+queues, `ML` platforms, and internal PaaS services get exposed to `Kubernetes` users with a
 declarative `API` that respects the platform's conventions.
 
 This four day course covers operator development end-to-end. It covers the controller pattern and the
-reconciliation loop, the choice of framework (`controller-runtime`, `Kubebuilder`, `Operator SDK`,
-`KUDO`, `Metacontroller`), `CRD` design (versioning, validation, defaulting, conversion webhooks),
+reconciliation loop, the choice of framework (`controller-runtime`, Kubebuilder, `Operator SDK`,
+`KUDO`, Metacontroller), `CRD` design (versioning, validation, defaulting, conversion webhooks),
 the watch and the work queue, the level-based vs edge-based controller, finalizers and garbage
 collection, leader election, the operator capability levels (the `OperatorHub` model), the testing
-story (`envtest`, `kuttl`, `chainsaw`), the upgrade story for both the operator and the operand, the
-release model (`Helm` chart vs `OLM` bundle), and the operational patterns for shipping an operator
+story (`envtest`, kuttl, `chainsaw`), the upgrade story for both the operator and the operand, the
+release model (Helm chart vs `OLM` bundle), and the operational patterns for shipping an operator
 that other teams will run. Examples are drawn from the `Strimzi` (`Kafka`), `Cloudnative-PG`
 (`Postgres`), `Prometheus` operator, and `Crossplane` operator codebases. Participants leave able to
 ship an operator that respects `Kubernetes` conventions and survives contact with users.
@@ -46,8 +46,8 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
 
 ## Prerequisites
 * `solid` `Kubernetes` knowledge (the `Kubernetes` and `Kubernetes for Developers` courses)
-* working `Go` experience
-* familiarity with the `Helm` and `Kustomize` material
+* working Go experience
+* familiarity with the Helm and `Kustomize` material
 * exposure to `Crossplane` or `ArgoCD` is helpful
 
 ## Objectives
@@ -66,7 +66,7 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
     * the level-based reconciliation idea
     * the "operator pattern" paper
     * cross-reference to the `Kubernetes` course
-    * `when` an operator is the right answer
+    * when an operator is the right answer
 <!-- chapter: the-controller-pattern, duration: 2h -->
 * The controller pattern
     * the reconciliation loop as the core idea
@@ -113,7 +113,7 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
 <!-- chapter: managing-the-operand, duration: 3h -->
 * Managing the operand
     * the operand as the actual workload
-    * generation of child resources (`Deployment`, `StatefulSet`, `Service`)
+    * generation of child resources (`Deployment`, StatefulSet, `Service`)
     * the `OwnerReference` and the garbage collection
     * the operand-version-vs-operator-version question
     * the worked example for a stateful database
@@ -141,7 +141,7 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
     * the "the operator silently stopped reconciling" failure
 <!-- chapter: packaging-and-distribution, duration: 2h -->
 * Packaging and distribution
-    * `Helm` chart packaging
+    * Helm chart packaging
     * `OLM` bundle packaging
     * the `ClusterServiceVersion`
     * the `kustomize` distribution

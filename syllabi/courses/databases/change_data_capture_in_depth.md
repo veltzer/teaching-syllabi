@@ -25,9 +25,9 @@ streaming systems and on `Kafka`, but `CDC` as its own engineering discipline is
 its own course.
 
 This three day course covers `CDC` from the database's transaction log to the consumer. It covers
-log-based vs query-based vs trigger-based `CDC`, the `Debezium` architecture, the `Maxwell` and
+log-based vs query-based vs trigger-based `CDC`, the Debezium architecture, the `Maxwell` and
 `AWS DMS` architectures, schema evolution under `CDC`, the exactly-once question, the snapshot-and-stream
-problem, the `outbox` pattern, the relationship of `CDC` to `event sourcing`, the operational realities of
+problem, the `outbox` pattern, the relationship of CDC to `event sourcing`, the operational realities of
 running `CDC` against a busy `OLTP` database, the failure modes (replication slot bloat, snapshot drift,
 schema-skew), and the data-governance story. Participants leave able to choose a `CDC` approach, design
 the consumer side correctly, and operate a `CDC` pipeline that does not break the source database.
@@ -38,7 +38,7 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
 ## Intended Audience
 * data engineers building integration pipelines from operational databases
 * senior developers introducing `CDC` into a production system
-* architects designing event-driven systems on `top` of relational data
+* architects designing event-driven systems on top of relational data
 * platform engineers running `CDC` as a paved-road service
 
 ## Prerequisites
@@ -70,7 +70,7 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
     * the polling approach and its costs
     * the trigger approach and its costs
     * why log-based dominates in production
-    * vendor support across `Postgres`, `MySQL`, `Oracle`, `SQL Server`
+    * vendor support across `Postgres`, `MySQL`, Oracle, `SQL Server`
 <!-- chapter: postgres-logical-replication-and-wal, duration: 2h -->
 * `Postgres` logical replication and `WAL`
     * the write-ahead log as the source
@@ -80,7 +80,7 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
     * the replication-slot-bloat failure
     * cross-reference to the `Postgres` course
 <!-- chapter: mysql-binlog-cdc, duration: 2h -->
-* `MySQL` `binlog` `CDC`
+* `MySQL` binlog `CDC`
     * the `binlog` format options
     * row-based vs statement-based
     * `GTID` and the resumable position
@@ -123,8 +123,8 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
     * the "we used a queue alongside the database and lost events" failure
 <!-- chapter: alternatives-to-debezium, duration: 1h -->
 * Alternatives to `Debezium`
-    * `Maxwell`, `Canal`, `AWS DMS`, `Striim`
-    * `Postgres`-native: `pg_recvlogical`, `wal2json`
+    * `Maxwell`, Canal, `AWS DMS`, `Striim`
+    * `Postgres`-native: pg_recvlogical, `wal2json`
     * managed `CDC`: `Fivetran`, `Airbyte`
     * cross-reference to the `Airbyte` course
     * picking among them

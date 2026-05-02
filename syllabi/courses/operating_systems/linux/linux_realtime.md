@@ -23,10 +23,10 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
-* Experienced `C`/`C++` programmers (3 years minimum).
+* Experienced C/`C++` programmers (3 years minimum).
 
 ## Prerequisites
-* `C` programming (`C++` if `C++` issues are to be discussed)
+* C programming (`C++` if `C++` issues are to be discussed)
 * `UNIX` `API` familiarity
 * Knowledge of `UNIX` philosophy and design.
 * If no such knowledge exists then the course could be made longer to accommodate with an intro about `UNIX`/`Linux` philosophy, command line usage, boot process and more.

@@ -13,7 +13,7 @@ audience:
   - audiences:managers
 ---
 <!-- course: introduction_to_selenium -->
-<!-- Track gaps: `Selenium` Remote Control vs WebDriver comparison, `Selenium` Grid detailed configuration, `Selenium` 2.0 key features -->
+<!-- Track gaps: Selenium Remote Control vs WebDriver comparison, Selenium Grid detailed configuration, Selenium 2.0 key features -->
 # Introduction to `Selenium`
 
 ## Description
@@ -43,7 +43,7 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Describe why and `when` to use `Selenium` for testing vs. other testing tools.
+* Describe why and when to use `Selenium` for testing vs. other testing tools.
 * Install and setup basics `Selenium` tests.
 * Use Web Driver with `Selenium` to create and run unit tests.
 

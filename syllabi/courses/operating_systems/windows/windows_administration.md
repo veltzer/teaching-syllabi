@@ -72,7 +72,7 @@ enterprise `Windows` infrastructure.
 <!-- chapter: file-services-and-storage, duration: 3h -->
 * `File` Services and Storage
     * `File` server roles
-    * `NTFS` and ReFS `file` systems
+    * `NTFS` and ReFS file systems
     * Share permissions and `NTFS` permissions
     * Distributed `File` System (DFS)
     * Storage Spaces

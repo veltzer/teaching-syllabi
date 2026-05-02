@@ -64,14 +64,14 @@ languages and real-world search scenarios commonly encountered in application de
         * Local installation
         * `Docker` setup
         * Cloud trial account [long]
-        * Development tools (`Kibana` Dev Tools, `Postman`) [long]
+        * Development tools (`Kibana` Dev Tools, Postman) [long]
 <!-- chapter: elasticsearch-fundamentals, duration: 2h -->
 * `Elasticsearch` Fundamentals
     * Document-oriented data model
         * `JSON` documents
         * Document metadata (_id, _source, _version)
         * Document lifecycle
-    * Basic CRUD operations
+    * Basic `CRUD` operations
         * Indexing documents (POST, PUT)
         * Retrieving documents (GET)
         * Updating documents (partial and full)
@@ -106,7 +106,7 @@ languages and real-world search scenarios commonly encountered in application de
     * Designing data models
         * Denormalization strategies
         * Parent-child relationships [long]
-        * nested vs object-types
+        * nested vs `object-types`
         * join field type [long]
         * Handling relationships
     * Index templates [long]
@@ -182,7 +182,7 @@ languages and real-world search scenarios commonly encountered in application de
         * wildcard query
         * regexp query [long]
     * Compound queries
-        * bool query (must, should, must_not, filter)
+        * `bool` query (must, should, must_not, filter)
         * boosting query
         * constant_score query
         * dis_max query [long]
@@ -262,7 +262,7 @@ languages and real-world search scenarios commonly encountered in application de
         * Date functions [long]
         * Type conversion functions [long]
         * Conditional expressions [long]
-        * CASE-statements [long]
+        * `CASE-statements` [long]
     * Advanced `ES|QL` features [long]
         * Multi-value fields [long]
         * Lookup operations [long]
@@ -375,8 +375,8 @@ languages and real-world search scenarios commonly encountered in application de
         * `Java` client (`REST` high-level client)
         * `Python` client
         * `JavaScript`/`Node.js` client
-        * .NET client [long]
-        * `Go` client [long]
+        * `.NET` client [long]
+        * Go client [long]
     * Connection management
         * Connection pooling
         * Retry strategies
@@ -477,7 +477,7 @@ languages and real-world search scenarios commonly encountered in application de
         * Text classification [long]
     * `SQL` interface [long]
         * `SQL` queries [long]
-        * JDBC/ODBC drivers [long]
+        * `JDBC`/ODBC drivers [long]
         * Limitations [long]
         * Translation to DSL [long]
     * Async search [long]

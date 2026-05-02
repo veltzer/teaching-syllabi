@@ -27,7 +27,7 @@ next outage.
 
 This two day course covers configuration management as a focused engineering practice. It covers the
 canonical layers (build-time, deploy-time, runtime), the storage options (config files in `Git`,
-`ConfigMaps`, `etcd`, `Consul`, `AWS AppConfig`, `Azure App Configuration`, dedicated services like
+`ConfigMaps`, etcd, Consul, `AWS AppConfig`, `Azure App Configuration`, dedicated services like
 `LaunchDarkly` for flags), the schema-and-validation story, the change-propagation model (push vs
 poll vs subscribe), the per-environment and per-tenant override pattern, the gradual-rollout model
 (closely related to feature flags), the audit-and-rollback story, the secrets-vs-config split, the
@@ -58,7 +58,7 @@ system.
 * propagate change with the right model
 * roll back configuration changes safely
 * audit configuration history
-* recognize `when` configuration changes are the wrong primitive
+* recognize when configuration changes are the wrong primitive
 
 ## Outline
 <!-- chapter: why-configuration-causes-outages, duration: 1h -->
@@ -66,7 +66,7 @@ system.
     * the canonical incident: a flag flip took prod down
     * cross-reference to the Feature Flags and Progressive Delivery course
     * the "it was a config change, we did not need a code review" reality
-    * the public examples: `Cloudflare`, `Reddit`, `GCP`, `AWS` outages
+    * the public examples: `Cloudflare`, Reddit, `GCP`, `AWS` outages
     * configuration as deployable code
 <!-- chapter: the-canonical-layers, duration: 2h -->
 * The canonical layers
@@ -78,15 +78,15 @@ system.
 <!-- chapter: storage-options, duration: 2h -->
 * Storage options
     * `Git`-managed config files (the `12-Factor` heritage)
-    * `Kubernetes` `ConfigMap` and `Secret`
-    * `etcd`, `Consul`, `Zookeeper`
+    * `Kubernetes` ConfigMap and `Secret`
+    * `etcd`, Consul, `Zookeeper`
     * `AWS AppConfig`, `Azure App Configuration`, `GCP Secret Manager` for config
-    * dedicated services: `LaunchDarkly`, `Statsig`, `Unleash`, `GrowthBook`
+    * dedicated services: `LaunchDarkly`, Statsig, Unleash, `GrowthBook`
     * picking
 <!-- chapter: schema-and-validation, duration: 2h -->
 * Schema and validation
     * the typed-config-object pattern
-    * `JSON Schema`, `Cue`, `Pkl`, `Dhall`
+    * `JSON Schema`, Cue, Pkl, `Dhall`
     * the `CI` validator
     * the deploy-time validator
     * the runtime validator
@@ -130,7 +130,7 @@ system.
 * Multi-region and multi-cluster
     * the per-region propagation
     * the global-vs-regional configuration question
-    * the failure `when` one region's config diverges
+    * the failure when one region's config diverges
     * cross-reference to the Multi-Region Architecture course
     * the convergence guarantee
 <!-- chapter: configuration-in-development, duration: 1h -->

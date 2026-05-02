@@ -25,9 +25,9 @@ companion: how vector search actually works, how to engineer it for production, 
 scale. It is the course you wish you had read before shipping your `RAG` prototype.
 
 The course covers the mathematics and intuitions behind embeddings and similarity, the major index types
-(`HNSW`, `IVF`, `IVF-PQ`, `ScaNN`, `DiskANN`), the engineering tradeoffs of recall vs latency vs cost vs
-memory, the production stack (`pgvector`, `Pinecone`, `Weaviate`, `Qdrant`, `Milvus`, `Vespa`,
-`Elasticsearch`/`OpenSearch` vector mode, `Redis`), hybrid search and reranking, multi-tenant vector workloads,
+(`HNSW`, IVF, `IVF-PQ`, ScaNN, `DiskANN`), the engineering tradeoffs of recall vs latency vs cost vs
+memory, the production stack (`pgvector`, Pinecone, `Weaviate`, `Qdrant`, `Milvus`, `Vespa`,
+`Elasticsearch`/OpenSearch vector mode, `Redis`), hybrid search and reranking, multi-tenant vector workloads,
 sharding and scaling, evaluation, and the cost story. Examples are drawn from production `RAG`, search,
 recommendation, and deduplication systems. Participants leave able to design, ship, and operate a
 production vector-search system.
@@ -61,12 +61,12 @@ production vector-search system.
 * Embeddings and similarity fundamentals
     * what an embedding actually represents
     * cosine, `dot` product, euclidean distance
-    * normalization and `when` it matters
+    * normalization and when it matters
     * dense vs sparse representations
     * the curse of dimensionality
     * embedding-model choice and quality
 <!-- chapter: brute-force-and-when-it-is-fine, duration: 2h -->
-* Brute force and `when` it is fine
+* Brute force and when it is fine
     * exact `kNN` complexity
     * the "10k vectors and a `numpy` `dot` product" baseline
     * `GPU` brute force at million-scale
@@ -74,14 +74,14 @@ production vector-search system.
 <!-- chapter: ann-the-hnsw-family, duration: 3h -->
 * `ANN`: the `HNSW` family
     * the `HNSW` graph structure
-    * `M`, `efConstruction`, `efSearch`
+    * `M`, efConstruction, `efSearch`
     * recall vs latency tradeoff curve
     * memory cost
     * `nmslib`, `hnswlib`
     * `HNSW` with filters and the filter problem
 <!-- chapter: ann-the-ivf-and-pq-family, duration: 3h -->
-* `ANN`: the `IVF` and `PQ` family
-    * inverted `file` (`IVF`) indexes
+* `ANN`: the IVF and `PQ` family
+    * inverted file (`IVF`) indexes
     * product quantization (`PQ`)
     * `IVF-PQ` and disk-friendly indexes
     * `OPQ` and friends
@@ -89,7 +89,7 @@ production vector-search system.
     * recall, latency and memory tradeoffs
 <!-- chapter: disk-based-and-large-scale-anns, duration: 2h -->
 * Disk-based and large-scale `ANNs`
-    * `DiskANN`, `Vamana`, `SPANN`
+    * `DiskANN`, Vamana, `SPANN`
     * `SSD`-friendly indexes
     * the billion-scale design point
     * cold-start and warm-up
@@ -108,7 +108,7 @@ production vector-search system.
     * weighted score fusion
     * sparse vectors (`SPLADE`, `BM25`-style)
     * the cases where hybrid clearly wins
-    * implementing hybrid in `Elasticsearch`/`OpenSearch`, `Vespa`, `Weaviate`
+    * implementing hybrid in `Elasticsearch`/OpenSearch, Vespa, `Weaviate`
 <!-- chapter: reranking, duration: 2h -->
 * Reranking
     * cross-encoder reranking
@@ -118,7 +118,7 @@ production vector-search system.
     * reranking with `LLM`-as-judge
 <!-- chapter: pgvector-and-postgres-as-a-vector-store, duration: 3h -->
 * `pgvector` and `Postgres` as a vector store
-    * `pgvector` index types: `IVFFlat`, `HNSW`
+    * `pgvector` index types: IVFFlat, `HNSW`
     * combining vector with relational and `JSONB`
     * the "do not move data" argument
     * scaling `pgvector` and where it stops
@@ -126,7 +126,7 @@ production vector-search system.
     * cross-reference to the Database Internals course
 <!-- chapter: dedicated-vector-databases, duration: 3h -->
 * Dedicated vector databases
-    * `Pinecone`, `Weaviate`, `Qdrant`, `Milvus`, `Vespa`
+    * Pinecone, `Weaviate`, `Qdrant`, `Milvus`, `Vespa`
     * `Elasticsearch`/`OpenSearch` vector mode
     * `Redis` vector search
     * `Chroma` and embedded options

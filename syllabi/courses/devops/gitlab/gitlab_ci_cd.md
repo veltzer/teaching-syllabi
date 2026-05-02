@@ -51,7 +51,7 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
     * The role of the `GitLab` Runner
 <!-- chapter: gitlab-ci-yml-syntax, duration: 1h -->
 * .`gitlab`-ci.yml Syntax
-    * Structure of a pipeline configuration `file`
+    * Structure of a pipeline configuration file
     * Defining stages
     * Job configuration and keywords
     * rules, only, except directives
@@ -125,7 +125,7 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
     * What is `Auto DevOps`?
     * Auto Build, Auto Test, Auto Deploy
     * Customizing `Auto DevOps` stages
-    * `When` to use and `when` to avoid `Auto DevOps`
+    * `When` to use and when to avoid `Auto DevOps`
 <!-- chapter: merge-request-pipelines, duration: 1h -->
 * Merge Request Pipelines
     * Merge request pipeline vs branch pipeline

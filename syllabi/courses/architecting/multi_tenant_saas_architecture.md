@@ -63,7 +63,7 @@ refactor an existing single-tenant system into a viable multi-tenant product.
     * the economic case for multi-tenancy
     * customer expectations: isolation, customization, compliance
     * the engineering cost of multi-tenancy
-    * `B2B` `SaaS` vs `B2C` `SaaS` vs platform-as-a-service
+    * `B2B` `SaaS` vs B2C `SaaS` vs platform-as-a-service
 <!-- chapter: tenancy-models, duration: 3h -->
 * Tenancy models
     * silo: dedicated stack per tenant
@@ -105,7 +105,7 @@ refactor an existing single-tenant system into a viable multi-tenant product.
     * data residency and per-tenant database placement
 <!-- chapter: data-isolation-at-other-layers, duration: 2h -->
 * Data isolation at other layers
-    * `file` storage isolation: bucket per tenant vs prefix per tenant
+    * file storage isolation: bucket per tenant vs prefix per tenant
     * cache isolation and per-tenant cache keys
     * search index isolation
     * message bus and queue isolation
@@ -147,7 +147,7 @@ refactor an existing single-tenant system into a viable multi-tenant product.
     * the metering pipeline: emit, aggregate, bill
     * accuracy, idempotency and replay in metering
     * tying technical metrics to invoiceable units
-    * `Stripe` `Billing`, `Orb`, `Lago`, `Metronome`
+    * Stripe `Billing`, Orb, Lago, `Metronome`
     * showing usage and cost back to the customer
 <!-- chapter: deployment-topologies-and-cells, duration: 2h -->
 * Deployment topologies and cells

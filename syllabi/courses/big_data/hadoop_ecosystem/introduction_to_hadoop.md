@@ -48,7 +48,7 @@ audience:
     * Challenges of traditional data processing
     * Distributed computing concepts
     * History and evolution of `Hadoop`
-    * `Hadoop` distributions (`Apache`, Cloudera, Hortonworks)
+    * `Hadoop` distributions (Apache, Cloudera, Hortonworks)
 <!-- chapter: hdfs-hadoop-distributed-file-system, duration: 3h -->
 * `HDFS` (`Hadoop` Distributed `File` System)
     * `HDFS` architecture overview
@@ -82,8 +82,8 @@ audience:
     * Counters and job monitoring
 <!-- chapter: hadoop-ecosystem-overview, duration: 3h -->
 * `Hadoop` Ecosystem Overview
-    * `Hive` (`SQL`-on-`Hadoop`)
-    * `Pig` (data flow scripting)
+    * Hive (`SQL`-on-`Hadoop`)
+    * Pig (data flow scripting)
     * `HBase` (`NoSQL` column-family store)
     * `Sqoop` (relational database import/export)
     * `Flume` (log and event data collection)

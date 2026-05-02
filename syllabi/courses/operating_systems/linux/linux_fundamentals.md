@@ -24,7 +24,7 @@ teaches how to use this command line effectively. This command line knowledge en
 both day to day working with the system and to better explore and understand in practice
 the theoretical aspects of the underlying operating system.
 
-This course is not a development course. It does not deal with the `C`/`C++` programming APIs. Just with the command line.
+This course is not a development course. It does not deal with the C/`C++` programming APIs. Just with the command line.
 If you are in need of such a course consider some `UNIX` (systems) programming course. Take note that such a course is
 usually better undertaken with the knowledge of this course already internalized.
 
@@ -33,7 +33,7 @@ usually better undertaken with the knowledge of this course already internalized
 
 ## Intended Audience
 * people who are new to working with the `UNIX` operating system.
-* people who want to `find` their way around the command line.
+* people who want to find their way around the command line.
 * programmers who are unfamiliar with the basics of `UNIX` or the command line.
 * quality assurance, monitoring, profiling and debugging people who want to familiarize themselves with `UNIX` and it's command line usage.
 * anyone interested in fundamentals of the `UNIX` operating system.
@@ -45,7 +45,7 @@ usually better undertaken with the knowledge of this course already internalized
 * understand the core concepts and principles of `Linux`` fundamentals
 * gain practical knowledge of Introduction to ```UNIX``
 * gain practical knowledge of The basics
-* gain practical knowledge of `file` system
+* gain practical knowledge of file system
 
 ## Outline
 <!-- chapter: introduction-to-unix, duration: 4h -->
@@ -59,7 +59,7 @@ usually better undertaken with the knowledge of this course already internalized
         * Zombies
     * What are system calls?
     * Basic security
-        * `file` system security
+        * file system security
         * processes as separate boxes
     * The root user
         * Not different from regular user
@@ -103,7 +103,7 @@ usually better undertaken with the knowledge of this course already internalized
     * df, du
     * tr, cut
     * uniq, sort
-    * `xargs, find`
+    * `xargs`, find
     * `grep`
     * `sed, awk`
     * What are power tools good for?
@@ -120,7 +120,7 @@ usually better undertaken with the knowledge of this course already internalized
     * `UNIX` accounts.
     * The `/etc/passwd` and `/etc/shadow` files.
     * `File` ownership.
-    * Directory and `file` access modes.
+    * Directory and file access modes.
     * How `File` and Directory access is determined.
     * Changing modes and ownership (`chmod`, `chown`) in symbolic and octal forms.
     * `umask`
@@ -135,10 +135,10 @@ The vi text editor
     * search and replace
 <!-- chapter: process-management, duration: 2h -->
 * Process management
-    * The `ps` command
+    * The ps command
     * Finding the pid of a process
     * Sending a signal to a process (kill).
-    * Monitoring processes with `top`.
+    * Monitoring processes with top.
     * Dealing with zombies in practice.
     * The shell and jobs.
 <!-- chapter: networking-basics, duration: 1h -->

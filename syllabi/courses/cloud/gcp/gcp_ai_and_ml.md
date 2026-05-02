@@ -15,7 +15,7 @@ audience:
 # `GCP` `AI` and `Machine Learning`
 
 ## Description
-This course provides a comprehensive exploration of `AI` and `machine learning` services on the `Google Cloud Platform`. Participants will learn to build, train, and deploy `machine learning` models using `Vertex AI`, leverage pre-trained APIs for vision, language, and speech tasks, and harness the power of generative `AI` with `Gemini` and `Model Garden`. The course covers the full `ML` lifecycle from data preparation through model serving, with emphasis on `MLOps` practices and responsible `AI`.
+This course provides a comprehensive exploration of `AI` and `machine learning` services on the `Google Cloud Platform`. Participants will learn to build, train, and deploy `machine learning` models using `Vertex AI`, leverage pre-trained APIs for vision, language, and speech tasks, and harness the power of generative `AI` with Gemini and `Model Garden`. The course covers the full `ML` lifecycle from data preparation through model serving, with emphasis on `MLOps` practices and responsible `AI`.
 
 ## Duration
 24 hours / 3 days

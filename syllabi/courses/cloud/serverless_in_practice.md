@@ -38,13 +38,13 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 ## Intended Audience
 * developers shipping serverless functions or running them in production
 * `DevOps` engineers operating serverless infrastructure at scale
-* architects deciding `when` serverless is the right tool
+* architects deciding when serverless is the right tool
 * engineers diagnosing latency, cost or reliability issues with serverless workloads
 
 ## Prerequisites
 * working knowledge of at least one cloud provider
-* experience writing code in at least one language with serverless support (`Python`, `Node.js`, `Go`, `Java`, `.NET`)
-* basic familiarity with `HTTP`, `IaC` and `CI`/`CD`
+* experience writing code in at least one language with serverless support (`Python`, `Node.js`, Go, `Java`, `.NET`)
+* basic familiarity with `HTTP`, IaC and CI/`CD`
 
 ## Objectives
 * describe the serverless execution model and its consequences
@@ -53,7 +53,7 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 * build event-driven systems on serverless primitives
 * operate serverless functions with appropriate observability
 * manage cost and concurrency at scale
-* identify `when` serverless is the wrong choice
+* identify when serverless is the wrong choice
 
 ## Outline
 <!-- chapter: the-serverless-model, duration: 2h -->
@@ -79,13 +79,13 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
     * `Lambda` layers and shared dependencies
     * dependency size and the cold-start tax
     * monorepo deployment and per-function isolation
-    * `IaC`: `SAM`, `Serverless Framework`, `CDK`, `Terraform`, `Pulumi`
+    * `IaC`: SAM, `Serverless Framework`, CDK, `Terraform`, `Pulumi`
     * `CI`/`CD` for serverless
     * canary and rolling deploys
 <!-- chapter: api-and-http-frontends, duration: 3h -->
 * `API` and `HTTP` frontends
-    * `API Gateway`, `ALB`, `Cloud Run` direct, `Functions` direct
-    * `HTTP` `API` vs `REST` `API` `Lambda` integration
+    * `API Gateway`, ALB, `Cloud Run` direct, `Functions` direct
+    * `HTTP` `API` vs ```REST`` ``API``` `Lambda` integration
     * payload shaping and `VTL` mappings
     * authorizers and `JWT` verification
     * `WebSocket` and streaming on serverless
@@ -94,7 +94,7 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 * Event sources and eventing
     * the dozens of event sources for `Lambda`
     * queue-driven serverless: `SQS`, `Pub/Sub`, `Storage Queues`
-    * event-bus-driven serverless: `EventBridge`, `Eventarc`, `Event Grid`
+    * event-bus-driven serverless: `EventBridge`, Eventarc, `Event Grid`
     * stream-driven serverless: `Kinesis`, `DynamoDB Streams`, `Kafka`
     * scheduled functions: cron and the timezone trap
     * event-driven choreography vs orchestration
@@ -149,7 +149,7 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 <!-- chapter: security-for-serverless, duration: 3h -->
 * Security for serverless
     * function execution role and least privilege
-    * secrets management: `Secrets Manager`, `Parameter Store`, `Vault`
+    * secrets management: `Secrets Manager`, `Parameter Store`, Vault
     * `VPC` access vs public access
     * `IAM` boundaries and tag-based policies
     * dependency vulnerabilities in serverless packages
@@ -171,7 +171,7 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
     * long-running workloads
     * stateful workloads with large in-memory state
     * workloads with strict regulatory or hardware requirements
-    * the "we will refactor `when` scale arrives" trap
+    * the "we will refactor when scale arrives" trap
 <!-- chapter: case-studies-and-wrap-up, duration: 1h -->
 * Case studies and wrap up
     * the function that grew into a `monolith`

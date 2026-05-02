@@ -32,7 +32,7 @@ devices, the `OTA` delivery layer (`MQTT`, `HTTPS`, `LwM2M`), the campaign-manag
 rollout, fleet segmentation, abort criteria), the on-device update agent, the failure modes
 (interrupted update, power loss mid-flash, corrupted image, divergent fleet), and the regulatory
 requirements (`FDA`, automotive `UNECE R155/R156`, `CE RED`). Examples and labs use `Mender`,
-`SWUpdate`, `RAUC`, `fwup`, `esp-idf` `OTA`, and `MCUboot`. Participants leave able to design and
+`SWUpdate`, RAUC, fwup, `esp-idf` OTA, and `MCUboot`. Participants leave able to design and
 operate an update system that does not brick the fleet.
 
 ## Duration
@@ -57,7 +57,7 @@ operate an update system that does not brick the fleet.
 * operate a staged `OTA` campaign
 * recognize the failure modes that brick devices
 * meet the regulatory requirements for the relevant industry
-* select among `Mender`, `SWUpdate`, `RAUC`, `fwup`, custom
+* select among `Mender`, SWUpdate, RAUC, `fwup`, custom
 
 ## Outline
 <!-- chapter: why-firmware-update-is-the-foundation, duration: 1h -->
@@ -86,13 +86,13 @@ operate an update system that does not brick the fleet.
 <!-- chapter: image-formats-and-packaging, duration: 1h -->
 * Image formats and packaging
     * the manifest as the truth
-    * `SWU`, `mender-artifact`, `RAUC` bundles, `swupdate`
+    * `SWU`, `mender-artifact`, RAUC bundles, `swupdate`
     * the multi-component update
     * the "we updated firmware but not the calibration data" failure
 <!-- chapter: delta-updates, duration: 2h -->
-* `Delta` updates
+* Delta updates
     * the bandwidth case
-    * `bsdiff`, `xdelta`, `courgette`-style approaches
+    * `bsdiff`, xdelta, `courgette`-style approaches
     * the patch-from-which-version question
     * the "`delta` only works from the last version" trap
     * fall-back to full image
@@ -117,7 +117,7 @@ operate an update system that does not brick the fleet.
     * `SWUpdate`
     * `RAUC`
     * `fwup`
-    * `esp-idf` `OTA` for `ESP32`
+    * `esp-idf` OTA for `ESP32`
     * picking the system
 <!-- chapter: campaign-management, duration: 2h -->
 * Campaign management

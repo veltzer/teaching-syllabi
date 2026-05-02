@@ -14,7 +14,7 @@ audience:
 # `Great Expectations`
 
 ## Description
-`Great Expectations` is an open-source data quality framework that helps teams validate, document, and profile their data. This course covers the architecture and usage of `Great Expectations`, including defining expectation suites, running validations, generating data docs, and integrating with `Pandas`, `Spark`, and `SQL` backends. Participants will also learn to integrate data quality checks into `CI/CD` pipelines and compare `Great Expectations` with other data quality tools.
+`Great Expectations` is an open-source data quality framework that helps teams validate, document, and profile their data. This course covers the architecture and usage of `Great Expectations`, including defining expectation suites, running validations, generating data docs, and integrating with Pandas, `Spark`, and `SQL` backends. Participants will also learn to integrate data quality checks into `CI/CD` pipelines and compare `Great Expectations` with other data quality tools.
 
 ## Duration
 16 hours / 1 day
@@ -28,7 +28,7 @@ audience:
 
 ## Prerequisites
 * Proficiency in `Python` programming
-* Familiarity with `Pandas` DataFrames
+* Familiarity with Pandas DataFrames
 * Basic understanding of `SQL`
 * Experience with data pipelines or `ETL` processes
 * Basic command-line interface usage
@@ -42,7 +42,7 @@ audience:
 * Create and manage expectation suites with built-in and custom expectations
 * Run validations with checkpoints and review results
 * Generate and publish data docs for documentation and collaboration
-* Integrate `Great Expectations` with `Pandas`, `Spark`, and `SQL` data sources
+* Integrate `Great Expectations` with Pandas, `Spark`, and `SQL` data sources
 * Set up data quality checks in `CI/CD` pipelines
 * Configure stores for various backends (filesystem, `S3`, `GCS`, `Azure`)
 * Compare `Great Expectations` with Soda and `dbt` tests
@@ -94,10 +94,10 @@ audience:
     * Using profiler results to `bootstrap` expectation suites
     * Profiling statistics and data summaries
 <!-- chapter: integration-with-pandas-spark-and-sql, duration: 1h -->
-* Integration with `Pandas`, `Spark`, and `SQL`
-    * `Pandas` backend configuration and usage
+* Integration with Pandas, `Spark`, and `SQL`
+    * Pandas backend configuration and usage
     * `Spark` backend for large-scale data validation
-    * `SQL` backend for database validation (`PostgreSQL`, `MySQL`, `BigQuery`, `Snowflake`)
+    * `SQL` backend for database validation (`PostgreSQL`, `MySQL`, `BigQuery`, Snowflake)
     * Choosing the right backend for your data
 <!-- chapter: ci-cd-integration, duration: 1h -->
 * `CI/CD` Integration

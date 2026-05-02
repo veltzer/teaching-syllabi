@@ -14,7 +14,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: introduction_to_devops -->
-<!-- Track gaps: DevSecOps (threat maps, thinking like a hacker, prevention), `Chef` configuration management tool overview -->
+<!-- Track gaps: DevSecOps (threat maps, thinking like a hacker, prevention), Chef configuration management tool overview -->
 # Introduction to `DevOps`
 
 ## Description
@@ -57,7 +57,7 @@ This 40-hour course introduces students to the principles and practices of `DevO
     * Benefits and challenges
 <!-- chapter: devops-practices-and-methodologies, duration: 3h -->
 * `DevOps` Practices and Methodologies
-    * `Agile` and `Lean` principles in `DevOps`
+    * Agile and Lean principles in `DevOps`
     * Continuous Integration and Continuous Deployment (`CI/CD`)
     * Infrastructure as Code (IaC)
 <!-- chapter: version-control-with-git, duration: 3h -->

@@ -79,7 +79,7 @@ efficient, consistent, and valuable for both authors and reviewers.
 * Receiving Feedback Gracefully
     * Separating ego from code
     * Responding to comments
-    * Knowing `when` to push back
+    * Knowing when to push back
     * Learning from feedback
 <!-- chapter: pr-size-and-structure, duration: 1h -->
 * PR Size and Structure

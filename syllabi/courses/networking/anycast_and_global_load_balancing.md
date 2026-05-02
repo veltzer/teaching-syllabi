@@ -20,7 +20,7 @@ audience:
 The catalog has `Load Balancing in Depth`, `TCP/IP Deep Dive`, `Edge Computing and CDN`, and
 `Multi-Cloud Networking`. None of those covers the specific subject of routing user traffic to the
 right server across the world: anycast as the routing primitive, `BGP` as the substrate, the load
-balancer at the edge, the global health `check`, the failover from one region to another, and the
+balancer at the edge, the global health check, the failover from one region to another, and the
 patterns that distinguish "we have a region in three countries" from "users actually get the closest
 region every time."
 
@@ -28,8 +28,8 @@ This two day course covers anycast and global load balancing as a focused engine
 the difference between unicast, multicast, and anycast, how `BGP` makes anycast work in practice, the
 design of an anycast service (a `DNS` resolver, a `DDoS`-protected `HTTP` endpoint, an edge cache),
 the global load balancers offered by the major clouds (`AWS Global Accelerator`, `Cloudflare`,
-`GCP Global Load Balancer`, `Azure Front Door`, `Fastly`), the `DNS`-based alternatives
-(`Route 53`, `NS1`), the health-`check`-and-failover model, the latency vs availability trade-off, the
+`GCP Global Load Balancer`, `Azure Front Door`, Fastly), the `DNS`-based alternatives
+(`Route 53`, `NS1`), the health-check-and-failover model, the latency vs availability trade-off, the
 `DDoS`-mitigation story, the operational realities (the day a `BGP` route was leaked), and the
 patterns that work versus the ones that look right but are not. Participants leave able to design and
 operate global routing for a service that serves users in more than one region.
@@ -53,7 +53,7 @@ operate global routing for a service that serves users in more than one region.
 * explain anycast and the role of `BGP`
 * design an anycast service deployment
 * compare global load balancers across major clouds
-* design the health-`check`-and-failover model
+* design the health-check-and-failover model
 * operate global routing in production
 * recognize the failure modes of anycast
 * compare `DNS`-based and `IP`-based global routing
@@ -75,7 +75,7 @@ operate global routing for a service that serves users in more than one region.
     * the "we leaked a `BGP` route and broke the internet" reality
 <!-- chapter: dns-based-global-routing, duration: 2h -->
 * `DNS`-based global routing
-    * `Route 53`, `NS1`, `Cloud DNS`, `Azure Traffic Manager`
+    * `Route 53`, NS1, `Cloud DNS`, `Azure Traffic Manager`
     * latency-based routing
     * geo-based routing
     * health-checks and failover
@@ -118,8 +118,8 @@ operate global routing for a service that serves users in more than one region.
     * picking
 <!-- chapter: health-checks-and-failover, duration: 2h -->
 * Health checks and failover
-    * the active health `check`
-    * the passive health `check`
+    * the active health check
+    * the passive health check
     * the failover threshold
     * the "we failed over to a region that was also broken" failure
     * the failover-`storm` risk
@@ -133,7 +133,7 @@ operate global routing for a service that serves users in more than one region.
 <!-- chapter: ddos-mitigation, duration: 1h -->
 * `DDoS` mitigation
     * the absorb-with-anycast strategy
-    * `Cloudflare`, `Akamai`, `AWS Shield`
+    * `Cloudflare`, Akamai, `AWS Shield`
     * the rate-limit-at-edge layer
     * cross-reference to the `API` Rate Limiting and Quota Systems course
     * the "the attack was distributed and our origin was not anycast" failure

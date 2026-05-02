@@ -64,7 +64,7 @@ The course covers both manual and automated testing techniques, equipping partic
     * Active reconnaissance techniques
     * Subdomain enumeration
     * Technology fingerprinting
-    * Directory and `file` discovery
+    * Directory and file discovery
     * Gathering information from public sources
 <!-- chapter: owasp-testing-guide, duration: 1h -->
 * `OWASP` Testing Guide

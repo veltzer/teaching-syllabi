@@ -26,11 +26,11 @@ attributing a slow request to a specific point in the network.
 
 This three day course covers network observability as a focused engineering practice. It covers the
 canonical signals (`flows`, packet capture, latency-from-each-hop, retransmits, queue depth, switch
-metrics), the legacy tools (`SNMP`, `NetFlow`/`sFlow`/`IPFIX`, `tcpdump`/`Wireshark`, `mtr`, `traceroute`),
-the modern tools (`eBPF`-based observability with `Cilium Hubble`, `Pixie`, `Inspektor Gadget`,
-`bpftrace`, `Pyroscope` for kernel profiling), the `RUM`-style end-user network observability
-(`OpenTelemetry`, `Sentry`, real user monitoring tools), the cloud network observability (```VPC`` Flow
-Logs`, ``Azure` NSG Flow Logs`, ``GCP` `VPC` Flow Logs`), the service-mesh observability (``Istio``, ``Linkerd``,
+metrics), the legacy tools (`SNMP`, NetFlow/sFlow/IPFIX, `tcpdump`/Wireshark, mtr, `traceroute`),
+the modern tools (`eBPF`-based observability with `Cilium Hubble`, Pixie, `Inspektor Gadget`,
+`bpftrace`, Pyroscope for kernel profiling), the `RUM`-style end-user network observability
+(`OpenTelemetry`, Sentry, real user monitoring tools), the cloud network observability (```VPC`` Flow
+Logs`, ``Azure` NSG Flow Logs`, ``GCP` `VPC` Flow Logs`), the service-mesh observability (Istio, ``Linkerd``,
 `Cilium`), the per-tenant or per-service segmentation, the alerting and `SLO` story, the cost shape,
 and the patterns that distinguish a network you can debug from one you cannot. Examples include real
 production debugging walkthroughs. Participants leave able to instrument and operate network
@@ -79,13 +79,13 @@ observability across cloud, on-prem, and edge.
 <!-- chapter: legacy-tools-still-essential, duration: 2h -->
 * Legacy tools still essential
     * `tcpdump` and `Wireshark`
-    * `traceroute`, `mtr`, `tracepath`
-    * `ping` and the layer it actually tests
+    * `traceroute`, mtr, `tracepath`
+    * ping and the layer it actually tests
     * `iperf3`
     * `ethtool` and `ip`
     * the "we forgot the basics and chased a fancy tool" failure
 <!-- chapter: snmp-netflow-sflow-ipfix, duration: 2h -->
-* `SNMP`, `NetFlow`, `sFlow`, `IPFIX`
+* `SNMP`, NetFlow, sFlow, `IPFIX`
     * `SNMP` for switch metrics
     * `NetFlow` and the variants
     * the sampling-rate question
@@ -153,9 +153,9 @@ observability across cloud, on-prem, and edge.
 * Putting it together
     * design walkthrough of a network observability stack
     * the integration with the broader observability stack
-    * the on-call workflow `when` latency spikes
+    * the on-call workflow when latency spikes
     * the postmortem of a network-rooted incident
-    * recommended reading: `Cilium`, `Pixie`, and `Brendan Gregg`'s materials
+    * recommended reading: `Cilium`, Pixie, and `Brendan Gregg`'s materials
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

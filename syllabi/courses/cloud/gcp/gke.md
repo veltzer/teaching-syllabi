@@ -69,7 +69,7 @@ This course provides a comprehensive guide to Google `Kubernetes` Engine (`GKE`)
 * `GKE` Networking
     * `VPC`-native clusters
     * Pod and Service `IP` addressing
-    * `GKE` `Ingress` and load balancing
+    * `GKE` Ingress and load balancing
     * Network policies
     * Private clusters
     * Shared `VPC` configurations

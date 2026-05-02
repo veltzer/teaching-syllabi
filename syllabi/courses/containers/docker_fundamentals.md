@@ -46,7 +46,7 @@ container-based environments.
 * Run, inspect, and troubleshoot `Docker` containers
 * Configure container networking and persistent storage
 * Use `Docker Compose` to define and run multi-container applications
-* Apply security best practices `when` building and running containers
+* Apply security best practices when building and running containers
 
 ## Outline
 <!-- chapter: introduction-to-containers-and-docker, duration: 1h -->
@@ -60,7 +60,7 @@ container-based environments.
 <!-- chapter: docker-images, duration: 2h -->
 * `Docker` Images
     * What is a `Docker` image?
-    * Image layers and the union `file` system
+    * Image layers and the union file system
     * Pulling images from `Docker Hub` and other registries
     * Listing, inspecting, and removing images
     * Image tagging and versioning strategies
@@ -104,7 +104,7 @@ container-based environments.
 <!-- chapter: docker-compose, duration: 2h -->
 * `Docker Compose`
     * What is `Docker Compose` and why use it?
-    * The `docker`-compose.yml `file` structure
+    * The `docker`-compose.yml file structure
     * Defining services, networks, and volumes
     * Building and running multi-container applications
     * Environment files and variable substitution
@@ -115,7 +115,7 @@ container-based environments.
     * Running containers as non-root users
     * Minimizing the attack surface with minimal base images
     * Scanning images for vulnerabilities
-    * Using read-only `file` systems
+    * Using read-only file systems
     * Managing secrets securely
     * `Docker` Content Trust and image signing
     * Security considerations for the `Docker` daemon

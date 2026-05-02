@@ -31,7 +31,7 @@ audience:
 ## Prerequisites
 * Basic knowledge of databases and `SQL` concepts
 * Familiarity with command-line tools
-* Experience with at least one scripting language (`Python`, `Bash`, or similar)
+* Experience with at least one scripting language (`Python`, Bash, or similar)
 * Basic understanding of monitoring and metrics concepts is helpful
 
 ## Objectives
@@ -82,7 +82,7 @@ Hands-on labs using a local `InfluxDB` 2.x instance. Students will set up `Teleg
     * Using the `InfluxDB` `CLI` (`influx` command)
     * `Telegraf` agent: architecture and configuration
     * Core `Telegraf` input and output plugins
-    * `Python`, `Go`, and `JavaScript` client libraries
+    * `Python`, Go, and `JavaScript` client libraries
     * Batch writes and write optimizations
     * Handling write errors and retries
 
@@ -113,7 +113,7 @@ Hands-on labs using a local `InfluxDB` 2.x instance. Students will set up `Teleg
     * Creating, managing, and debugging tasks
     * Checks: threshold, deadman, and custom checks
     * Notification rules and notification endpoints
-    * Integrating with `PagerDuty`, `Slack`, and email
+    * Integrating with `PagerDuty`, Slack, and email
     * Alert lifecycle and state management
 
 <!-- chapter: visualization-with-grafana, duration: 1h -->

@@ -18,7 +18,7 @@ audience:
 
 ## Description
 Technical leadership is what happens after you stop being measured purely on the code you ship. The staff and
-principal engineer roles, the tech lead role, and the architect role all `require` a different set of skills:
+principal engineer roles, the tech lead role, and the architect role all require a different set of skills:
 shaping technical strategy, influencing without authority, making decisions that span multiple teams,
 mentoring at scale, and being the engineer that other engineers want to ask for help.
 
@@ -92,13 +92,13 @@ high-functioning organizations.
     * `DACI`, `RAPID`, single-threaded ownership
     * decisions made on imperfect information
     * recording decisions: `ADRs` and decision logs
-    * `when` to escalate and `when` to absorb
+    * when to escalate and when to absorb
 <!-- chapter: design-review-and-architecture-review, duration: 3h -->
 * Design review and architecture review
     * what a design review is for
     * preparing as the author and as a reviewer
     * facilitating a productive review
-    * the architecture review board: `when` it works, `when` it does not
+    * the architecture review board: when it works, when it does not
     * non-blocking review for fast-moving teams
     * the long tail of "I disagree but commit"
 <!-- chapter: influence-without-authority, duration: 3h -->
@@ -163,7 +163,7 @@ high-functioning organizations.
     * the engineer who is convinced they are right
     * the executive who overrides engineering decisions
     * mediating between two factions
-    * `when` to walk away from a fight
+    * when to walk away from a fight
 <!-- chapter: career-growth-as-a-technical-leader, duration: 2h -->
 * Career growth as a technical leader
     * what gets you promoted to staff
@@ -176,7 +176,7 @@ high-functioning organizations.
 * Workshop and wrap up
     * peer feedback exercise on a draft technical strategy
     * career-direction reflection exercise
-    * recommended reading: `Larson`, `Reilly`, `Fournier`, `Hoover/Oshineye`
+    * recommended reading: `Larson`, Reilly, Fournier, `Hoover/Oshineye`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

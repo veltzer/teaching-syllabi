@@ -16,11 +16,11 @@ audience:
 # Multi Core Programming
 
 ## Description
-`C`/`C++` projects are hard to develop and maintain but provide performance gains relative to other
+C/`C++` projects are hard to develop and maintain but provide performance gains relative to other
 programming languages. But they also offer the ability to tune your application to the hardware architecture
-that you are running on `top` of. Failure to do this tuning will result is application under performance.
+that you are running on top of. Failure to do this tuning will result is application under performance.
 This course is about the multi-core architecture, it's advantages and disadvantages and mostly, about how to
-program efficiently `when` running on this platform.
+program efficiently when running on this platform.
 
 ## Duration
 * 2 days for all topics.
@@ -28,11 +28,11 @@ program efficiently `when` running on this platform.
 * first four topics are a must.
 
 ## Intended Audience
-* Seasoned `C`/`C++` developers who are not familiar with this information and the techniques presented.
-* `Java` and other programming language programmers are also welcome and will benefit from the course but not as much as `C`/`C++` developers.
+* Seasoned C/`C++` developers who are not familiar with this information and the techniques presented.
+* `Java` and other programming language programmers are also welcome and will benefit from the course but not as much as C/`C++` developers.
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` command line
 
 ## Required Knowledge
@@ -87,7 +87,7 @@ program efficiently `when` running on this platform.
 <!-- chapter: pipeline-architecture-and-its-effect-on-programming, duration: 1h -->
 * Pipeline architecture and its effect on programming
     * Trying to be predictable
-    * What to do `when` you are not predictable?
+    * What to do when you are not predictable?
     * Telling the `CPU` where I'm going to branch to
 <!-- chapter: sharing-and-solutions, duration: 2h -->
 * Sharing and solutions

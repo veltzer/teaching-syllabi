@@ -15,7 +15,7 @@ audience:
 ## Description
 `C#` is a modern, object-oriented programming language developed by Microsoft as part of the `.NET` platform. It combines the power of `C++` with the productivity of higher-level languages, offering strong typing, garbage collection, and rich standard libraries. `C#` is widely used for building enterprise applications, `web services`, desktop applications, games with `Unity`, and cloud-native solutions on `Azure`.
 
-This course teaches `C#` from the ground up, covering the language fundamentals, object-oriented programming, modern language features such as `LINQ` and `async`/`await`, and practical application development with `ASP.NET Core` and `Entity Framework Core`. The course includes hands on exercises.
+This course teaches `C#` from the ground up, covering the language fundamentals, object-oriented programming, modern language features such as `LINQ` and async/await, and practical application development with `ASP.NET Core` and `Entity Framework Core`. The course includes hands on exercises.
 
 ## Duration
 40 hours / 5 days
@@ -37,7 +37,7 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
 ## Objectives
 * Understand `C#` syntax, type system, and core language features
 * Write object-oriented `C#` code using classes, interfaces, and inheritance
-* Use generics, `LINQ`, and `async`/`await` effectively
+* Use generics, `LINQ`, and async/await effectively
 * Build and manage projects with the `.NET` `CLI` and `NuGet`
 * Write unit tests for `C#` applications
 * Understand the basics of `ASP.NET Core` and `Entity Framework Core`
@@ -66,7 +66,7 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
 <!-- chapter: methods-and-scope, duration: 3h -->
 * Methods and Scope
     * Defining and calling methods
-    * Parameters: `ref`, out, in, and params
+    * Parameters: ref, out, in, and params
     * Method overloading
     * Local functions
     * Tuples and deconstruction
@@ -109,11 +109,11 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
     * Best practices for exception handling
 <!-- chapter: asynchronous-programming, duration: 3h -->
 * Asynchronous Programming
-    * `async` and `await-keywords`
+    * async and `await-keywords`
     * Task and `Task<T>`
     * Asynchronous streams
     * Cancellation tokens
-    * Common `async` patterns and pitfalls
+    * Common async patterns and pitfalls
 <!-- chapter: file-i-o-and-serialization, duration: 2h -->
 * `File` `I/O` and Serialization
     * Reading and writing files

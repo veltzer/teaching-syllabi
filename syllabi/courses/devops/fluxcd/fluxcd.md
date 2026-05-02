@@ -19,7 +19,7 @@ audience:
 `Flux CD` is a `CNCF` graduated tool that implements `GitOps` for `Kubernetes`, keeping
 cluster state continuously synchronized with configuration stored in `Git` repositories.
 This course provides a comprehensive introduction to `Flux v2`, covering its modular
-controller-based architecture and the full set of controllers: Source, `Kustomize`, `Helm`,
+controller-based architecture and the full set of controllers: Source, `Kustomize`, Helm,
 and Notification. Participants will learn how to `bootstrap` `Flux` into a cluster, manage
 application delivery through `Kustomizations` and `HelmReleases`, and implement secure
 multi-tenant workflows. The course also covers progressive delivery strategies with
@@ -35,14 +35,14 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
 
 ## Prerequisites
 * Practical experience with `Kubernetes` (deployments, services, namespaces, `RBAC`).
-* Familiarity with `Helm` charts and `Kustomize` overlays.
+* Familiarity with Helm charts and `Kustomize` overlays.
 * Comfortable working with `Git` workflows and pull requests.
 * Basic understanding of `YAML` and `Kubernetes` manifests.
 
 ## Objectives
 * Understand the `GitOps` principles and how `Flux` implements them on `Kubernetes`.
-* `Bootstrap` and configure `Flux` in a `Kubernetes` cluster using the `flux` `CLI`.
-* Manage application delivery with the `Kustomize` and `Helm` controllers.
+* Bootstrap and configure `Flux` in a `Kubernetes` cluster using the flux `CLI`.
+* Manage application delivery with the `Kustomize` and Helm controllers.
 * Implement multi-tenancy isolation and least-privilege access policies.
 * Set up alerts and notifications using the Notification controller.
 * Apply progressive delivery patterns with `Flagger` for safe automated rollouts.
@@ -59,12 +59,12 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
 * `Flux` Architecture and Components
     * `Flux v2` design: composable controllers vs. the monolithic v1 approach
     * The source, `kustomize`, `helm`, notification, and image automation controllers
-    * `Flux` custom resources: `GitRepository`, `Kustomization`, `HelmRelease`, `Alert`
+    * `Flux` custom resources: GitRepository, `Kustomization`, `HelmRelease`, `Alert`
     * How `Flux` reconciles desired state with cluster state
 
 <!-- chapter: installing-and-bootstrapping-flux, duration: 2h -->
 * Installing and Bootstrapping `Flux`
-    * Prerequisites: `kubectl`, `flux` `CLI`, and `Git` provider access
+    * Prerequisites: `kubectl`, flux `CLI`, and `Git` provider access
     * Bootstrapping `Flux` with `GitHub`, `GitLab`, and `Gitea`
     * Repository structure conventions for `Flux` management
     * Verifying and troubleshooting the `bootstrap` installation
@@ -77,22 +77,22 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
     * Pruning and garbage collection of removed resources
 
 <!-- chapter: helm-controller, duration: 2h -->
-* `Helm` Controller
+* Helm Controller
     * `HelmRepository` and `HelmChart` source resources
     * Writing `HelmRelease` manifests with value overrides
     * Upgrade strategies and rollback policies
-    * Managing secrets for private `Helm` registries with `SOPS` or `Sealed Secrets`
+    * Managing secrets for private Helm registries with `SOPS` or `Sealed Secrets`
 
 <!-- chapter: source-controller, duration: 2h -->
 * Source Controller
-    * Supported source types: `GitRepository`, `OCIRepository`, `Bucket`
+    * Supported source types: `GitRepository`, OCIRepository, `Bucket`
     * Interval-based polling and webhook-triggered reconciliation
     * Verifying `Git` commit signatures and `OCI` artifact digests
     * Artifact caching and how other controllers consume source artifacts
 
 <!-- chapter: notification-controller, duration: 1h -->
 * Notification Controller
-    * `Provider` resources: `Slack`, `Microsoft Teams`, `PagerDuty`, `GitHub` commit status
+    * `Provider` resources: Slack, `Microsoft Teams`, `PagerDuty`, `GitHub` commit status
     * Writing `Alert` resources to filter and route events
     * Sending notifications on reconciliation success and failure
     * Using `Receiver` resources for inbound webhook triggers

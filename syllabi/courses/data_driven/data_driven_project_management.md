@@ -97,7 +97,7 @@ Any of the following
         * Amplitude
     * `Power BI` tools
         * Tableau
-        * `Oracle` BI
+        * Oracle BI
     * Power search/big data tools
         * Elastic search + `Kibana`
         * `Splunk`

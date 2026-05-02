@@ -35,7 +35,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 * Install, configure, and perform basic administration of `MySQL`
 * Install, configure, and perform `CRUD` operations with `MongoDB`
 * Compare relational and document databases and understand the trade-offs
-* Know `when` to choose `SQL` vs `NoSQL` for a given use case
+* Know when to choose `SQL` vs `NoSQL` for a given use case
 * Understand the role of Object Relational Mappers (`ORMs`)
 
 ## Outline
@@ -70,7 +70,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 <!-- chapter: sql-syntax, duration: 3h -->
 * `SQL` Syntax
     * `SELECT` statements and filtering with `WHERE`
-    * `INSERT`, `UPDATE`, and `DELETE`
+    * `INSERT`, UPDATE, and `DELETE`
     * `JOIN` types (inner, left, right, full)
     * `GROUP BY` and aggregate functions
     * `ORDER BY` and `LIMIT`
@@ -90,7 +90,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
     * Installation and setup
     * Configuration basics
     * Documents and collections
-    * `CRUD` operations (insert, `find`, update, delete)
+    * `CRUD` operations (insert, find, update, delete)
     * Creating users and managing access
     * Querying with filters and projections
     * Indexing in `MongoDB`
@@ -106,7 +106,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 * Object Relational Mappers (`ORMs`)
     * What is an `ORM`
     * Benefits and drawbacks of using an `ORM`
-    * Popular `ORMs` by language (`SQLAlchemy`, `Hibernate`, `Sequelize`, `TypeORM`)
+    * Popular `ORMs` by language (`SQLAlchemy`, Hibernate, `Sequelize`, `TypeORM`)
     * `When` to use raw `SQL` vs an `ORM`
 <!-- chapter: choosing-the-right-database, duration: 2h -->
 * Choosing the Right Database for Your Use Case

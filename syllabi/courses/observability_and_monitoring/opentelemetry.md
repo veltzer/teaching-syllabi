@@ -29,7 +29,7 @@ This course provides a comprehensive understanding of `OpenTelemetry` and its th
 * Platform engineers responsible for building and maintaining observability infrastructure.
 
 ## Prerequisites
-* Experience with at least one programming language (e.g., `Python`, `Java`, `Go`, `JavaScript`).
+* Experience with at least one programming language (e.g., `Python`, `Java`, Go, `JavaScript`).
 * Familiarity with distributed systems and `microservices` architecture.
 * Basic understanding of `HTTP` and networking concepts.
 

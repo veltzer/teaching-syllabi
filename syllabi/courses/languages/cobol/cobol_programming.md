@@ -16,7 +16,7 @@ audience:
 languages in the world, powering critical systems in banking, insurance, and government.
 Despite being over six decades old, billions of lines of `COBOL` code continue to process
 trillions of dollars in transactions daily. This course provides a comprehensive introduction
-to `COBOL` programming, from fundamental syntax and program structure through `file` handling,
+to `COBOL` programming, from fundamental syntax and program structure through file handling,
 data manipulation, and modular programming. Students will also learn how `COBOL` operates
 on mainframe environments and explore strategies for modernizing legacy `COBOL` systems.
 The course includes hands on exercises.
@@ -82,11 +82,11 @@ The course includes hands on exercises.
 <!-- chapter: file-handling, duration: 3h -->
 * `File` Handling
     * `File` organization: sequential, indexed, relative
-    * SELECT, `FD`, and `file` description entries
+    * SELECT, `FD`, and file description entries
     * OPEN, READ, WRITE, REWRITE, CLOSE
-    * Sequential `file` processing
-    * Indexed `file` processing with READ / START / DELETE
-    * Relative `file` processing
+    * Sequential file processing
+    * Indexed file processing with READ / START / DELETE
+    * Relative file processing
     * `File` status codes and error handling
 <!-- chapter: input-output, duration: 2h -->
 * Input/Output

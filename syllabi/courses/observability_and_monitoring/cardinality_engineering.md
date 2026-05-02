@@ -19,21 +19,21 @@ audience:
 ## Description
 Cardinality is the silent killer of observability budgets. The catalog has `Prometheus and Grafana`,
 `Advanced Prometheus`, `Prometheus Deep Dive`, `OpenTelemetry`, `OpenTelemetry Deep Dive`,
-`VictoriaMetrics`, `Grafana` (basic and deep dive), `Loki`, `Datadog`, and `Dynatrace`. Each touches
+`VictoriaMetrics`, `Grafana` (basic and deep dive), Loki, Datadog, and `Dynatrace`. Each touches
 the cardinality issue. None is the focused course on the engineering of cardinality: how to predict
 it, how to measure it, how to reduce it without losing the signal you need, and how to design metrics
 and logs to be cardinality-friendly from the start. Cardinality bills now exceed infrastructure bills
-at many organizations. The team that does not engineer cardinality discovers this `when` the
-observability vendor sends an emergency invoice or `when` `Prometheus` `OOMs`.
+at many organizations. The team that does not engineer cardinality discovers this when the
+observability vendor sends an emergency invoice or when `Prometheus` `OOMs`.
 
 This two day course covers cardinality engineering as a focused practice. It covers what cardinality
 is and where it comes from (the high-cardinality label, the user-`ID` mistake, the request-`ID`
 mistake), the measurement (`prometheus_tsdb_head_series`, the `Datadog` cardinality view, the
 `Grafana` cardinality explorer), the budgets per metric, the reduction techniques (label dropping,
 relabeling, recording rules, exemplars-instead-of-labels, head sampling, tail sampling), the
-exemplar-and-trace alternative, the per-vendor cost model (`Datadog` per-custom-metric, `New Relic`
-per-`MELT`, `Honeycomb` per-event), the high-cardinality observability tools (`Honeycomb`,
-`ClickHouse`-backed `OTEL`), the alerting story for cardinality itself, and the patterns that `make`
+exemplar-and-trace alternative, the per-vendor cost model (`Datadog` per-custom-metric, New Relic
+per-`MELT`, Honeycomb per-event), the high-cardinality observability tools (`Honeycomb`,
+`ClickHouse`-backed OTEL), the alerting story for cardinality itself, and the patterns that `make`
 cardinality engineering a habit. Examples include real production cost-explosion incidents.
 Participants leave able to control cardinality without losing the signal they need.
 
@@ -84,7 +84,7 @@ Participants leave able to control cardinality without losing the signal they ne
     * the `Datadog` cardinality view
     * the `Grafana` cardinality explorer
     * the per-metric trend over time
-    * the alert that fires `when` cardinality spikes
+    * the alert that fires when cardinality spikes
 <!-- chapter: per-metric-budgets, duration: 1h -->
 * Per-metric budgets
     * the per-metric cardinality limit
@@ -107,7 +107,7 @@ Participants leave able to control cardinality without losing the signal they ne
     * `OpenTelemetry` exemplars
     * the trace-from-the-metric link
     * cross-reference to the Distributed Tracing in Practice course
-    * `when` exemplars replace high-cardinality labels
+    * when exemplars replace high-cardinality labels
 <!-- chapter: high-cardinality-observability-tools, duration: 2h -->
 * High-cardinality observability tools
     * `Honeycomb` and the structured-event model
@@ -118,7 +118,7 @@ Participants leave able to control cardinality without losing the signal they ne
 <!-- chapter: per-vendor-cost-models, duration: 2h -->
 * Per-vendor cost models
     * `Datadog` custom metrics pricing
-    * `New Relic` `MELT` pricing
+    * New Relic `MELT` pricing
     * `Honeycomb` event pricing
     * `Splunk` ingest pricing
     * the "we got a $200k bill from custom metrics" experience

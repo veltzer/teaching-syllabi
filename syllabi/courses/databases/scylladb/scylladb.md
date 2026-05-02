@@ -17,7 +17,7 @@ audience:
 # `ScyllaDB`
 
 ## Description
-`ScyllaDB` is a high-performance, `Apache Cassandra`-compatible wide-column `NoSQL` database rebuilt in `C++` around a shard-per-core architecture that dramatically reduces latency and increases throughput compared to `Cassandra`. Designed to handle millions of operations per second on commodity hardware, `ScyllaDB` is used by organizations that `require` ultra-low latency at massive scale. This course covers `ScyllaDB`'s architecture, data modeling philosophy, CQL usage, operational management, and performance tuning. Participants will also learn about `ScyllaDB`'s unique capabilities including the Alternator `DynamoDB`-compatible `API`, materialized views, and advanced compaction strategies.
+`ScyllaDB` is a high-performance, `Apache Cassandra`-compatible wide-column `NoSQL` database rebuilt in `C++` around a shard-per-core architecture that dramatically reduces latency and increases throughput compared to `Cassandra`. Designed to handle millions of operations per second on commodity hardware, `ScyllaDB` is used by organizations that require ultra-low latency at massive scale. This course covers `ScyllaDB`'s architecture, data modeling philosophy, CQL usage, operational management, and performance tuning. Participants will also learn about `ScyllaDB`'s unique capabilities including the Alternator `DynamoDB`-compatible `API`, materialized views, and advanced compaction strategies.
 
 ## Duration
 24 hours / 3 days
@@ -31,7 +31,7 @@ audience:
 
 ## Prerequisites
 * `Solid` understanding of distributed systems concepts
-* Working knowledge of at least one programming language (`Java`, `Python`, or `Go`)
+* Working knowledge of at least one programming language (`Java`, `Python`, or Go)
 * Familiarity with relational database concepts and `SQL`
 * Basic `Linux` system administration skills
 * Prior experience with `Cassandra` or another `NoSQL` database is beneficial
@@ -122,7 +122,7 @@ Hands-on labs using a multi-node `ScyllaDB` cluster provisioned with `Docker Com
     * Limitations of secondary indexes in distributed systems
     * Materialized views: definition and automatic maintenance
     * Trade-offs of materialized views: write amplification
-    * `ScyllaDB` filtering: `ALLOW FILTERING` and `when` it is safe
+    * `ScyllaDB` filtering: `ALLOW FILTERING` and when it is safe
     * Choosing between index, view, and denormalization
 
 <!-- chapter: performance-tuning, duration: 3h -->

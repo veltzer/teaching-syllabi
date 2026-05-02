@@ -127,12 +127,12 @@ will previous experience of `Android` Studio
     * Saving state
     * Persisting state
     * Launching a new activity
-    * Declaring activities in the manifest `file`
+    * Declaring activities in the manifest file
 <!-- chapter: services-and-receivers, duration: 3h -->
 * Services and Receivers
     * What is a Service?
     * The IntentService class
-    * Declaring Services in the manifest `file`
+    * Declaring Services in the manifest file
     * Status Bar and notifications
     * Broadcasts and Broadcast Receivers
 <!-- chapter: content-providers, duration: 3h -->

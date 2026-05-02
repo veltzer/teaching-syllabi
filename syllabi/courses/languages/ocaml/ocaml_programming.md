@@ -16,8 +16,8 @@ audience:
 ## Description
 `OCaml` is a statically typed, functional programming language with a powerful module system, algebraic data types, and a sophisticated type inference engine.
 It is widely used in industry for safety-critical applications, including financial trading systems at Jane Street, verification tools at Meta, and compiler development.
-`OCaml` combines functional, imperative, and object-oriented paradigms while delivering native-code performance competitive with `C` and `C++`.
-This course guides developers from `OCaml` fundamentals through its advanced module system, concurrent programming with `Lwt` and `Eio`, and practical tooling with `opam` and `dune`.
+`OCaml` combines functional, imperative, and object-oriented paradigms while delivering native-code performance competitive with C and `C++`.
+This course guides developers from `OCaml` fundamentals through its advanced module system, concurrent programming with `Lwt` and `Eio`, and practical tooling with `opam` and dune.
 
 ## Duration
 32 hours / 4 days
@@ -25,7 +25,7 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 ## Intended Audience
 * Developers seeking a rigorous type-safe functional programming language for production use
 * Engineers interested in compilers, formal verification, or language tooling
-* Developers coming from `Haskell`, `F#`, or `Rust` who want to explore `OCaml`
+* Developers coming from `Haskell`, `F#`, or Rust who want to explore `OCaml`
 
 ## Prerequisites
 * `Solid` experience in at least one programming language
@@ -37,15 +37,15 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 * Design modular programs using `OCaml`'s module and functor system
 * Handle errors safely using `Result` and `Option` types
 * Write concurrent and asynchronous code with `Lwt` or `Eio`
-* Package and build `OCaml` projects using `dune` and `opam`
-* `Bind` to `C` libraries using the foreign function interface
+* Package and build `OCaml` projects using dune and `opam`
+* `Bind` to C libraries using the foreign function interface
 
 ## Outline
 <!-- chapter: introduction-to-ocaml, duration: 2h -->
 * Introduction to `OCaml`
     * History and design philosophy
     * The `OCaml` ecosystem and use cases
-    * Setting up the environment with `opam` and `dune`
+    * Setting up the environment with `opam` and dune
     * The `utop` REPL
     * Your first `OCaml` program
 
@@ -84,7 +84,7 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 
 <!-- chapter: mutable-state-and-side-effects, duration: 3h -->
 * Mutable State and Side Effects
-    * References (`ref`)
+    * References (ref)
     * Mutable record fields
     * Arrays
     * `for-loops` and `while-loops`
@@ -115,9 +115,9 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
     * `I/O` with `Lwt_io` and `Eio`
 
 <!-- chapter: c-bindings-and-ffi, duration: 2h -->
-* `C` Bindings and FFI
-    * The `OCaml` `C` interface
-    * Wrapping `C` functions with `ctypes`
+* C Bindings and FFI
+    * The `OCaml` C interface
+    * Wrapping C functions with `ctypes`
     * Memory management across the boundary
     * Practical binding examples
 
@@ -130,10 +130,10 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 
 <!-- chapter: build-tools-and-opam, duration: 2h -->
 * Build Tools and `opam`
-    * `dune` build system deep dive
+    * dune build system deep dive
     * Managing packages with `opam`
     * Creating and publishing packages
-    * Monorepo structures with `dune`
+    * Monorepo structures with dune
 
 <!-- chapter: building-a-practical-system, duration: 2h -->
 * Building a Practical System

@@ -26,7 +26,7 @@ This course teaches `Haskell` from foundational functional programming concepts 
 * Developers interested in building correct, reliable software using strong type systems.
 
 ## Prerequisites
-* Prior programming experience in another language such as `Python`, `Java`, `C`, or `JavaScript`.
+* Prior programming experience in another language such as `Python`, `Java`, C, or `JavaScript`.
 * Basic understanding of mathematical concepts (functions, sets, logic).
 * Familiarity with command-line interfaces.
 
@@ -57,7 +57,7 @@ This course teaches `Haskell` from foundational functional programming concepts 
     * Variables and bindings
     * Arithmetic and boolean operators
     * `Function-definitions` and application
-    * `let` and where clauses
+    * let and where clauses
     * Type annotations and type inference
 <!-- chapter: functions-and-pattern-matching, duration: 3h -->
 * Functions and Pattern Matching

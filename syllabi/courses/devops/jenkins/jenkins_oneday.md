@@ -25,7 +25,7 @@ pipelines and `agile` development, can utilize such technologies as the public c
 ## Intended Audience
 * `Devops` people who wish to install, configure and control the building and testing of software.
 * Developers who wish to build complex pieces of software and to customize the build and test phases.
-* `Scrum` masters who would like to integrate new features into their production pipelines.
+* Scrum masters who would like to integrate new features into their production pipelines.
 * Anyone with some programming experience in the software industry.
 
 ## Prerequisites

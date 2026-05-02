@@ -28,13 +28,13 @@ to leverage Wasm for performance-critical applications on the web, server side, 
 * Backend developers exploring server-side and edge WebAssembly use cases.
 
 ## Prerequisites
-* Strong programming skills in at least one language (`C`, `C++`, `Rust`, or `JavaScript`).
+* Strong programming skills in at least one language (C, `C++`, Rust, or `JavaScript`).
 * Familiarity with web development basics (`HTML`, `JavaScript`).
 * Understanding of compilation and linking concepts.
 
 ## Required Knowledge
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
-* `Rust` Programming (or equivalent experience)
+* Rust Programming (or equivalent experience)
 
 ## Objectives
 * understand the core concepts and principles of WebAssembly
@@ -60,8 +60,8 @@ to leverage Wasm for performance-critical applications on the web, server side, 
     * Converting between binary and text formats
 <!-- chapter: compiling-to-wasm, duration: 1h -->
 * Compiling to Wasm
-    * `C`/`C++` with Emscripten
-    * `Rust` with wasm-pack
+    * C/`C++` with Emscripten
+    * Rust with wasm-pack
     * AssemblyScript
     * Other source languages
     * Build configuration and optimization flags
@@ -124,7 +124,7 @@ to leverage Wasm for performance-critical applications on the web, server side, 
     * Wasmer runtime
     * wasm-opt (Binaryen)
     * Browser developer tools for Wasm
-    * wasm-bindgen for `Rust`
+    * wasm-bindgen for Rust
 <!-- chapter: debugging, duration: 1h -->
 * Debugging
     * Source maps for Wasm

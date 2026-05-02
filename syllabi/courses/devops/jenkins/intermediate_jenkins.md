@@ -20,13 +20,13 @@ The Intermediate `Jenkins` training course is designed to help developers learn 
 features of `Jenkins` Pipelines as they automate more of their `CI/CD` process on their `DevOps`
 journey.
 
-The course begins with a quick review of `Jenkins` Pipelines, and `Groovy` language fundamentals
-along with `Groovy` console within `Jenkins`. Next, it covers the fundamentals of `Docker` and
+The course begins with a quick review of `Jenkins` Pipelines, and Groovy language fundamentals
+along with Groovy console within `Jenkins`. Next, it covers the fundamentals of `Docker` and
 creating and use of shared libraries with labs and real-world use cases. Lastly, students will
 learn best practices for building Pipelines in order to increase the reliability of their pipelines as
 well as uncover some lessons learned from instructors with years of experience working with
 `Jenkins`. Finally, you will also learn how to use `Jenkins` `REST` `API` to do few actions and using
-`Jenkins` `REST` `API` with `Postman`. Additionally, the course covers the suggested plugins for
+`Jenkins` `REST` `API` with Postman. Additionally, the course covers the suggested plugins for
 `Jenkins` Pipelines and doing migration between different `Jenkins`.
 
 ## Tags
@@ -80,15 +80,15 @@ well as uncover some lessons learned from instructors with years of experience w
     * `Docker` agents in pipelines
     * Using `Docker` with Pipeline
 <!-- chapter: groovy-fundamentals-briefly-and-using-with-jenkins, duration: 2h -->
-* `Groovy` Fundamentals, Briefly and using with `Jenkins`
-    * `Groovy` Console
+* Groovy Fundamentals, Briefly and using with `Jenkins`
+    * Groovy Console
     * Data Types
     * Control Structure
     * Subroutines
     * Working with Classes and Data Structures
     * Inheritance
     * Working with External Packages
-    * Using `Groovy` Scripts with `Jenkins`
+    * Using Groovy Scripts with `Jenkins`
 <!-- chapter: setting-up-shared-libraries, duration: 1h -->
 * Setting up Shared Libraries
     * Scripted Pipelines
@@ -115,7 +115,7 @@ well as uncover some lessons learned from instructors with years of experience w
     * Retrying Build Status using `REST` `API`
     * Getting Build Status Using `REST`
 <!-- chapter: using-postman-with-jenkins, duration: 1h -->
-* Using `Postman` with `Jenkins`
+* Using Postman with `Jenkins`
     * Run a build
     * Get last build status
     * Get Last Build Timestamp
@@ -136,8 +136,8 @@ well as uncover some lessons learned from instructors with years of experience w
     * Ways to optimize your pipelines
 
 ## References
-[building-a-modern-ci-cd-pipeline-with-`Jenkins`](`https`://www.pluralsight.com/courses/building-modern-ci-cd-pipeline-`Jenkins`)
-[automating-`Jenkins`-with-`groovy`](`https`://www.pluralsight.com/courses/automating-`Jenkins`-`groovy`)
+[building-a-modern-ci-cd-pipeline-with-`Jenkins`](https://www.pluralsight.com/courses/building-modern-ci-cd-pipeline-`Jenkins`)
+[automating-`Jenkins`-with-groovy](https://www.pluralsight.com/courses/automating-`Jenkins`-`groovy`)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

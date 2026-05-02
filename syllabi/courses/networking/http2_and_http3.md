@@ -30,7 +30,7 @@ audience:
 * `Solid` understanding of `HTTP`/1.1 protocol (methods, headers, status codes)
 * Familiarity with `TCP` and `UDP` networking fundamentals
 * Basic understanding of `TLS` and `HTTPS`
-* Experience with web server configuration (`Nginx`, `Apache`, or similar)
+* Experience with web server configuration (`Nginx`, Apache, or similar)
 * Familiarity with browser developer tools
 
 ## Required Knowledge
@@ -103,8 +103,8 @@ audience:
 <!-- chapter: server-configuration, duration: 2h -->
 * Server Configuration
     * Enabling `HTTP`/2 in `Nginx`
-    * Enabling `HTTP`/2 in `Apache` (mod_http2)
-    * `Caddy` with automatic `HTTP`/2 and `HTTP`/3
+    * Enabling `HTTP`/2 in Apache (mod_http2)
+    * Caddy with automatic `HTTP`/2 and `HTTP`/3
     * Enabling `HTTP`/3 with `Nginx` (QUIC module)
     * LiteSpeed and `HTTP`/3 support
     * Load balancer configuration for `HTTP`/2 and `HTTP`/3
@@ -112,7 +112,7 @@ audience:
     * Configuration testing and validation
 <!-- chapter: cdn-and-client-support, duration: 1h -->
 * CDN and Client Support
-    * CDN support for `HTTP`/2 and `HTTP`/3 (`Cloudflare`, Akamai, Fastly, `AWS CloudFront`)
+    * CDN support for `HTTP`/2 and `HTTP`/3 (Cloudflare, Akamai, Fastly, `AWS CloudFront`)
     * Browser support status for `HTTP`/2 and `HTTP`/3
     * `curl` support for `HTTP`/2 (--http2) and `HTTP`/3 (--http3)
     * Programming language library support

@@ -30,7 +30,7 @@ mapping, the operational security of the red team itself, infrastructure setup (
 phishing infrastructure, payload hosting), the kill chain from initial access through actions on
 objectives, the relationship to purple-team exercises, the deliverable that actually changes blue-team
 behavior, and the legal and ethical perimeter. Tools covered include `Cobalt Strike`, `Sliver`,
-`Mythic`, `Havoc`, `BloodHound`, `Impacket`, and the modern open-source `C2` ecosystem. Participants
+`Mythic`, Havoc, `BloodHound`, Impacket, and the modern open-source `C2` ecosystem. Participants
 leave able to plan, execute, and report on a red team engagement against an authorized target.
 
 > This course assumes authorized engagements only. Lab work is performed in dedicated lab environments
@@ -69,7 +69,7 @@ leave able to plan, execute, and report on a red team engagement against an auth
     * the cost difference and the value difference
     * cross-reference to the `Network Penetration Testing` course
     * cross-reference to the `Web Application Penetration Testing` course
-    * `when` an organization is ready for a red team
+    * when an organization is ready for a red team
 <!-- chapter: the-engagement-lifecycle, duration: 3h -->
 * The engagement lifecycle
     * rules of engagement
@@ -128,7 +128,7 @@ leave able to plan, execute, and report on a red team engagement against an auth
 <!-- chapter: lateral-movement, duration: 3h -->
 * Lateral movement
     * legitimate-looking lateral movement
-    * `WMI`, `PsExec`, `WinRM`, `SSH`
+    * `WMI`, `PsExec`, WinRM, `SSH`
     * the noisy vs the quiet method
     * pivoting through bastions
     * the cloud-pivot from on-prem credentials
@@ -166,7 +166,7 @@ leave able to plan, execute, and report on a red team engagement against an auth
     * scope creep and the discovered-asset
     * personal data and the `GDPR` constraint
     * cross-reference to the `GDPR` and Compliance course
-    * what to do `when` the engagement uncovers a real intrusion
+    * what to do when the engagement uncovers a real intrusion
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

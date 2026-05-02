@@ -12,7 +12,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: modern_c++_for_c_programmers -->
-# Modern `C++` for `C` Programmers
+# Modern `C++` for C Programmers
 
 ## Description
 `C++` is the standard language for implementing object-oriented designs where performance is a priority. Although long-term language stability is an important feature of `C++`, it has nevertheless continued to be developed. `C++` 11 introduced a number of significant language and library features to improve safety and performance. These features allow us to more precisely express concepts from a design directly in code.
@@ -33,11 +33,11 @@ This a comprehensive five-day course with a combination of lectures and practica
 
 ## Intended Audience
 * Active `C++` developers who would like to deepen their understanding of the `C++` language.
-* `C` or other language developers who would like to begin programming in `C++`.
+* C or other language developers who would like to begin programming in `C++`.
 * Developers for which this will be the first language (in which case this course will be done slower).
 
 ## Prerequisites
-This is not a course for beginners. It covers a great deal of material and those who do not meet the course prerequisites will `find` the course moves too quickly.
+This is not a course for beginners. It covers a great deal of material and those who do not meet the course prerequisites will find the course moves too quickly.
 * You must have a `solid` recent experience writing `C++`.
 * First 2 days will be a refresher for the `C++` basics
 * You must have a good appreciation of object-oriented principles.
@@ -48,7 +48,7 @@ This is not a course for beginners. It covers a great deal of material and those
 * Describe and use advanced techniques for safe copying and forwarding
 * Describe and use template techniques for efficient generic coding
 * Understand portability issues and how to resolve them.
-* `Make` appropriate use of operator overloading.
+* Make appropriate use of operator overloading.
 * Understand how to write robust constructors.
 * Use `C++` exceptions appropriately in libraries and in large programs.
 * Understand and resolve issues with `global-variables`.
@@ -57,7 +57,7 @@ This is not a course for beginners. It covers a great deal of material and those
 * Understand the issues of resource ownership and the use of `RAII` and smart pointers to `make` association explicit and safe.
 * Describe advanced inheritance techniques, such as private inheritance, multiple inheritance, the template method pattern and down-casting.
 * Take full advantage of the standard `C++` library
-* `Make` good use of the standard container classes and iterators
+* Make good use of the standard container classes and iterators
 * Understand and use variety of `OO` call-back mechanisms
 
 ## Outline
@@ -92,7 +92,7 @@ This is not a course for beginners. It covers a great deal of material and those
     * Efficiency - Copy Elision and Return Value Optimization
 <!-- chapter: move-and-forward, duration: 2h -->
 * Move and Forward
-    * `R`-Value Reference
+    * R-Value Reference
     * Move rather than Copy
     * Compiler Synthesized Member Functions
     * Rule of Three / Five / Zero

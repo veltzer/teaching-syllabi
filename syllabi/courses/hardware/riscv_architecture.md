@@ -28,7 +28,7 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
 * Systems programmers who want to understand `RISC-V` internals.
 
 ## Prerequisites
-* `Solid` `C` programming skills.
+* `Solid` C programming skills.
 * Basic understanding of computer architecture concepts.
 * Familiarity with at least one other `ISA` (`ARM`, `x86`) is an advantage.
 
@@ -50,7 +50,7 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
 * Base Integer Instruction Sets
     * RV32I base integer instructions
     * RV64I base integer instructions
-    * Register `file` and calling conventions
+    * Register file and calling conventions
     * Instruction encoding formats
     * Immediate handling and addressing
 <!-- chapter: standard-extensions, duration: 2h -->
@@ -59,7 +59,7 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
     * A extension (atomic operations)
     * F extension (single-precision floating point)
     * D extension (double-precision floating point)
-    * `C` extension (compressed instructions)
+    * C extension (compressed instructions)
     * V extension (vector operations)
     * Combining extensions (e.g., RV64GC)
 <!-- chapter: privileged-architecture, duration: 2h -->
@@ -89,7 +89,7 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
     * `GCC` for `RISC-V`
     * `LLVM`/`Clang` for `RISC-V`
     * Assembler and linker
-    * Newlib and musl `C` libraries
+    * Newlib and musl C libraries
     * Build system integration
 <!-- chapter: simulators, duration: 2h -->
 * Simulators

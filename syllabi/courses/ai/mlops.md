@@ -130,7 +130,7 @@ and scalable `ML` pipelines.
         * Feature reuse and sharing
         * Point-in-time correctness
     * Feature store implementations
-        * `Feast`
+        * Feast
         * `Tecton`
         * Cloud-native feature stores
         * Custom feature store design
@@ -204,7 +204,7 @@ and scalable `ML` pipelines.
         * `Python` environment reproducibility
         * CUDA and driver compatibility
         * Pinning library versions
-        * `Conda` vs `pip` environments
+        * `Conda` vs pip environments
     * Container registries
         * Image versioning
         * Vulnerability scanning
@@ -274,7 +274,7 @@ and scalable `ML` pipelines.
 <!-- chapter: a-b-testing-for-models, duration: 2h -->
 * A/B Testing for Models
     * Experiment design
-        * `Hypothesis` formulation
+        * Hypothesis formulation
         * Sample size calculation
         * Traffic splitting strategies
         * Control and treatment groups

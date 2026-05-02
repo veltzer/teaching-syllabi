@@ -42,7 +42,7 @@ The study of each pattern will be accompanied by real-world examples and a lab i
 * Describe `design patterns` and provide examples of problems and their pattern solutions in `Java`
 * Cover the most important GOF patterns in depth, and provide an overview of the `rest`
 * Recognize and understand patterns in existing code
-* Learn `when`, how and which pattern to use, if appropriate for a new problem
+* Learn when, how and which pattern to use, if appropriate for a new problem
 
 ## Outline
 <!-- chapter: object-orientation-refresher, duration: 11h -->

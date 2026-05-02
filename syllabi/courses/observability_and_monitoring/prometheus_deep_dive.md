@@ -74,7 +74,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * Choosing the right metric type
 <!-- chapter: instrumentation, duration: 2h -->
 * Instrumentation:
-    * `Go` client library
+    * Go client library
     * `Python` client library
     * `Java`/`JVM` client library
     * Naming conventions and best practices
@@ -85,7 +85,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * `Kubernetes` service discovery
     * `DNS`-based service discovery
     * `File`-based service discovery
-    * `Consul` service discovery
+    * Consul service discovery
     * Relabeling for target manipulation
 <!-- chapter: alerting-with-alertmanager, duration: 2h -->
 * Alerting with `Alertmanager`:
@@ -95,7 +95,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * Grouping and deduplication
     * Inhibition rules
     * Silencing alerts
-    * Notification integrations (email, `Slack`, `PagerDuty`, webhooks)
+    * Notification integrations (email, Slack, `PagerDuty`, webhooks)
 <!-- chapter: relabeling, duration: 1h -->
 * Relabeling:
     * relabel_configs for target relabeling

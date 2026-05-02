@@ -19,7 +19,7 @@ audience:
 ## Description
 `Kubernetes` (k8s) is fast becoming the industry standard for container orchestration and this is an introductory
 course to that technology. The course takes the participants from no knowledge of containers and container
-orchestration to a beginner level in using `docker` and orchestrating `docker` containers with `Kubernetes`.
+orchestration to a beginner level in using `docker` and orchestrating docker containers with `Kubernetes`.
 
 The course includes training on real live systems and orchestrating real live clusters.
 
@@ -140,9 +140,9 @@ more cloud specific offering.
     * Network policies
     * `DNS` in `Kubernetes`
 <!-- chapter: ingress-controllers, duration: 1h -->
-* `Ingress` Controllers
-    * What is `Ingress`?
-    * Popular `Ingress` controllers (`NGINX`, `Traefik`)
+* Ingress Controllers
+    * What is Ingress?
+    * Popular Ingress controllers (`NGINX`, `Traefik`)
     * `TLS`/`SSL` termination
     * Path-based and host-based routing
 <!-- chapter: container-registries-and-image-management, duration: 1h -->
@@ -172,12 +172,12 @@ more cloud specific offering.
     * Debugging CrashLoopBackOff
     * Performance troubleshooting
 <!-- chapter: helm-package-manager, duration: 2h -->
-* `Helm` Package Manager
-    * Introduction to `Helm`
+* Helm Package Manager
+    * Introduction to Helm
     * Charts and repositories
     * Installing and managing applications
     * Creating custom charts
-    * `Helm` templating basics
+    * Helm templating basics
 <!-- chapter: gitops-and-ci-cd-integration, duration: 1h -->
 * `GitOps` and `CI/CD` Integration
     * `Kubernetes` in `CI/CD` pipelines
@@ -208,7 +208,7 @@ Each student should have:
 * 8 GB `RAM` for each machine because we are going to practice `Kubernetes` with `Minikube`. This requires some `RAM`.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software.
 * Username and password of a user that has `sudo` privileges on the machine.
-* [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
+* [`https`://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/`ubuntu`-2204/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,7 +15,7 @@ audience:
 # `CMake`
 
 ## Description
-`CMake` is one of the leading tools for building `C` based software.
+`CMake` is one of the leading tools for building C based software.
 
 ## Duration
 16 hours / 2 days

@@ -67,7 +67,7 @@ This course introduces `Splunk`, a powerful platform for operational intelligenc
 <!-- chapter: stats, duration: 2h -->
 * Stats
     * Understand the stats command
-    * Display `top` and rare values for given fields
+    * Display top and rare values for given fields
     * Use the stats command to create statistical reports [long]
 <!-- chapter: data-transformation-long, duration: 3h -->
 * Data Transformation [long]

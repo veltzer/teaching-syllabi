@@ -20,18 +20,18 @@ audience:
 Webhooks are how a `SaaS` product tells its customers that something happened. They look like a small
 detail and they are not. The catalog covers `API` design, `API` gateways, message queues, event-driven
 architecture, and idempotency, but does not cover the specific engineering of producing and consuming
-webhooks. A bad webhook system is one of the `top` reasons enterprise customers churn from a `SaaS`
-product. A bad webhook consumer is one of the `top` reasons production systems get stuck behind a queue
+webhooks. A bad webhook system is one of the top reasons enterprise customers churn from a `SaaS`
+product. A bad webhook consumer is one of the top reasons production systems get stuck behind a queue
 of redeliveries.
 
-This two day course covers webhooks from both sides: the producer (`Stripe`, `GitHub`, `Slack` are the
+This two day course covers webhooks from both sides: the producer (Stripe, `GitHub`, Slack are the
 gold standards) and the consumer (the customer integrating with one of those). It covers the reliability
 contract (at-least-once with retries), the security contract (signing, replay protection, secret
 rotation), the delivery model (synchronous-from-an-event vs queued-and-delivered), the customer-facing
 features (event filters, replay, dead-letter queues), the consumer-side patterns (idempotent handlers,
 verification, backpressure), the observability story for both sides, and the failure modes (the
 customer that goes silent, the producer that delivers a million events at once, the secret that
-leaked). Examples are drawn from `Stripe`'s, `GitHub`'s, and `Slack`'s webhook systems and the
+leaked). Examples are drawn from Stripe's, `GitHub`'s, and Slack's webhook systems and the
 documented engineering posts about building them. Participants leave able to design either side of a
 webhook system.
 
@@ -133,11 +133,11 @@ webhook system.
     * picking among them
 <!-- chapter: case-studies, duration: 1h -->
 * Case studies
-    * `Stripe` webhooks walkthrough
+    * Stripe webhooks walkthrough
     * `GitHub` webhooks walkthrough
-    * `Slack` events `API` walkthrough
+    * Slack events `API` walkthrough
     * the design choices each made
-    * recommended reading: `Stripe` engineering blog, `Webhooks.fyi`
+    * recommended reading: Stripe engineering blog, `Webhooks.fyi`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

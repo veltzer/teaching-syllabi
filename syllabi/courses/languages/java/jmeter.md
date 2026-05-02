@@ -51,7 +51,7 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
 * Real test cases
     * Recording real web events
     * Advanced test elements (waits, loops, managers, ...)
-    * Using data from external `CSV` `file` (usernames, password, ...)
+    * Using data from external `CSV` file (usernames, password, ...)
 <!-- chapter: advanced-capabilities, duration: 4h -->
 * Advanced capabilities
     * `JMeter` advanced test elements - (Controllers, listeners, ...)

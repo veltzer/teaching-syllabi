@@ -89,7 +89,7 @@ problem and to understand new techniques as they emerge.
 * Text Preprocessing and Tokenization
     * Character encoding and `Unicode`
         * `UTF-8` and the wider encoding landscape
-        * Normalization forms (`NFC`, `NFD`, `NFKC`, `NFKD`)
+        * Normalization forms (`NFC`, NFD, NFKC, `NFKD`)
         * Common pitfalls: invisible characters, mixed scripts, RTL
     * Sentence segmentation
         * Punctuation-based segmentation and its failures
@@ -97,7 +97,7 @@ problem and to understand new techniques as they emerge.
         * Cross-language considerations
     * Word tokenization
         * Whitespace and punctuation tokenization
-        * Language-specific tokenization (`Chinese`, `Japanese`, `Arabic`)
+        * Language-specific tokenization (`Chinese`, Japanese, `Arabic`)
         * Edge cases: contractions, hyphens, URLs, emoji
     * Subword tokenization
         * Byte-Pair Encoding (`BPE`)
@@ -107,7 +107,7 @@ problem and to understand new techniques as they emerge.
     * Normalization techniques
         * Case folding and case sensitivity
         * Accent and diacritic handling
-        * Stop words and `when` to remove them
+        * Stop words and when to remove them
         * Spelling correction as preprocessing
 <!-- chapter: morphology-and-lemmatization, duration: 2h -->
 * Morphology and Lemmatization
@@ -125,7 +125,7 @@ problem and to understand new techniques as they emerge.
         * Lemmatization with morphological analyzers
         * `WordNet` and lexical resources
     * Morphologically rich languages
-        * Agglutinative languages (`Finnish`, `Turkish`, `Hungarian`)
+        * Agglutinative languages (`Finnish`, Turkish, `Hungarian`)
         * Templatic morphology (`Arabic`, `Hebrew`)
         * Why subword tokenization helps
     * Compounding and decomposition
@@ -176,7 +176,7 @@ problem and to understand new techniques as they emerge.
         * Cross-lingual extensions
     * Embedding properties and analysis
         * Word similarity benchmarks
-        * Analogy tasks (`king` minus `man` plus `woman` = `queen`)
+        * Analogy tasks (`king` minus man plus woman = `queen`)
         * Visualization with `t-SNE` and `UMAP`
         * Bias in embeddings
     * Cross-lingual embeddings
@@ -259,7 +259,7 @@ problem and to understand new techniques as they emerge.
 * Pre-trained Language Models
     * Encoder models
         * `BERT` architecture and pre-training
-        * `RoBERTa`, `ALBERT`, `DistilBERT`
+        * `RoBERTa`, ALBERT, `DistilBERT`
         * `ELECTRA` and replaced-token detection
     * Decoder models
         * `GPT` family
@@ -269,7 +269,7 @@ problem and to understand new techniques as they emerge.
         * `BART` and `mBART`
         * Multilingual variants
     * Tokenizers and pre-training data
-        * `WordPiece`, `BPE`, `SentencePiece`
+        * `WordPiece`, BPE, `SentencePiece`
         * Pre-training corpora and filtering
         * Data quality and downstream effects
     * Fine-tuning
@@ -293,7 +293,7 @@ problem and to understand new techniques as they emerge.
         * Support Vector Machines for text
         * Feature engineering vs feature learning
     * Neural classifiers
-        * `CNN` for text classification
+        * CNN for text classification
         * `LSTM` and `BiLSTM` classifiers
         * Transformer-based classification
     * Sentiment analysis
@@ -314,7 +314,7 @@ problem and to understand new techniques as they emerge.
 * Sequence Labeling
     * Sequence labeling as a unifying task
         * Per-token labels with structural constraints
-        * `IOB`, `BIOES`, `BILOU` tagging schemes
+        * `IOB`, BIOES, `BILOU` tagging schemes
     * Hidden Markov Models
         * Generative formulation
         * Viterbi decoding
@@ -354,7 +354,7 @@ problem and to understand new techniques as they emerge.
 <!-- chapter: named-entity-recognition, duration: 2h -->
 * Named Entity Recognition
     * NER fundamentals
-        * Standard entity types (`PER`, `ORG`, `LOC`, `MISC`)
+        * Standard entity types (`PER`, ORG, LOC, `MISC`)
         * Domain-specific entity types
         * Nested and overlapping entities
     * Classical NER
@@ -443,7 +443,7 @@ problem and to understand new techniques as they emerge.
         * Zero-shot directions
     * Evaluation
         * `BLEU` and its variants
-        * `chrF`, `METEOR`, `TER`
+        * `chrF`, METEOR, `TER`
         * `BERTScore` and learned metrics
         * Human evaluation: adequacy and fluency
     * Practical considerations
@@ -459,7 +459,7 @@ problem and to understand new techniques as they emerge.
     * Abstractive summarization
         * Sequence-to-sequence framing
         * Pointer-generator networks
-        * Transformer-based summarization (`BART`, `T5`, `PEGASUS`)
+        * Transformer-based summarization (`BART`, T5, `PEGASUS`)
     * Hybrid approaches
         * Extract-then-abstract
         * Constrained generation
@@ -529,7 +529,7 @@ problem and to understand new techniques as they emerge.
     * Neural retrieval
         * Dense passage retrieval
         * Bi-encoders vs cross-encoders
-        * Approximate nearest neighbor search (`HNSW`, `FAISS`, `ScaNN`)
+        * Approximate nearest neighbor search (`HNSW`, FAISS, `ScaNN`)
     * Embedding models for retrieval
         * `Sentence-transformers`
         * Domain adaptation for retrieval
@@ -554,7 +554,7 @@ problem and to understand new techniques as they emerge.
     * Decoding strategies
         * Greedy decoding
         * Beam search
-        * Sampling: temperature, `top`-`k`, `top`-`p` (nucleus)
+        * Sampling: temperature, top-`k`, top-`p` (nucleus)
         * Contrastive decoding
     * Constrained generation
         * Hard constraints (regex, grammar)
@@ -590,7 +590,7 @@ problem and to understand new techniques as they emerge.
         * Context window constraints
         * Cost and latency
     * Evaluation in the `LLM` era
-        * Capability benchmarks (`MMLU`, `BBH`, `HumanEval`)
+        * Capability benchmarks (`MMLU`, BBH, `HumanEval`)
         * Quality benchmarks (`MT-Bench`, `Arena`)
         * Domain-specific evaluation
 <!-- chapter: multilingual-and-low-resource-nlp, duration: 2h -->
@@ -648,7 +648,7 @@ problem and to understand new techniques as they emerge.
         * `When` metrics disagree
         * Human evaluation as ground truth
     * Statistical significance
-        * `Bootstrap` and permutation tests
+        * Bootstrap and permutation tests
         * Multiple-comparisons corrections
         * Confidence intervals on benchmarks
     * Benchmark caveats

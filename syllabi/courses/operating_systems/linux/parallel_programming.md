@@ -31,7 +31,7 @@ Emphasis is placed on writing correct, scalable, and performant parallel code, w
 * Systems programmers targeting `Linux` platforms
 
 ## Prerequisites
-* Strong proficiency in `C` or `C++`
+* Strong proficiency in C or `C++`
 * Basic understanding of `POSIX` threads
 * Familiarity with `Linux` development environment
 * Understanding of computer architecture basics (`CPU`, cache, memory)

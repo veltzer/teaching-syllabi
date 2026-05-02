@@ -76,7 +76,7 @@ right tool for their context.
 * Pipelines and `PipelineRuns`
     * Composing `Tasks` into a `Pipeline` with sequential and parallel execution
     * Passing results between `Tasks` in a `Pipeline`
-    * `when` expressions for conditional task execution
+    * when expressions for conditional task execution
     * `finally` tasks for cleanup and notification regardless of outcome
     * `PipelineRun` timeouts, retries, and cancellation
 
@@ -121,7 +121,7 @@ right tool for their context.
     * Architectural differences: controller-based vs. agent-based vs. hosted runners
     * Developer experience: `YAML` verbosity, reusability, and discoverability
     * Ecosystem maturity: plugins, community tasks, and integrations
-    * Decision framework: `when` to choose `Tekton`, `Jenkins`, or `GitHub Actions`
+    * Decision framework: when to choose `Tekton`, `Jenkins`, or `GitHub Actions`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

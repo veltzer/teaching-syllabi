@@ -11,27 +11,27 @@ audience:
   - audiences:developers
 ---
 <!-- course: rust_topics_for_embedded_systems_programming -->
-# `Rust` Topics for Embedded Systems Programming
+# Rust Topics for Embedded Systems Programming
 
 ## Description
-This course focuses on applying `Rust` to embedded systems development. It covers embedded-specific features, patterns, and tools in the `Rust` ecosystem, assuming prior knowledge of the `Rust` programming language.
+This course focuses on applying Rust to embedded systems development. It covers embedded-specific features, patterns, and tools in the Rust ecosystem, assuming prior knowledge of the Rust programming language.
 
-Note: This syllabus assumes familiarity with `Rust` language features and focuses solely on embedded-specific applications and patterns.
+Note: This syllabus assumes familiarity with Rust language features and focuses solely on embedded-specific applications and patterns.
 
 ## Duration
 4 days / 32 hours
 
 ## Intended Audience
-* Programmers who develop embedded systems and would like to use `Rust` language to do it.
+* Programmers who develop embedded systems and would like to use Rust language to do it.
 
 ## Prerequisites
-* Strong understanding of `Rust` language fundamentals
+* Strong understanding of Rust language fundamentals
 * Basic knowledge of embedded systems concepts
 * Familiarity with microcontroller architecture
 * Experience with version control systems
 
 ## Objectives
-* Implement embedded systems using `Rust`'s safety features
+* Implement embedded systems using Rust's safety features
 * Design type-safe hardware abstractions
 * Create efficient no-std applications
 * Develop interrupt-driven systems
@@ -39,9 +39,9 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
 * Build reliable communication protocols
 
 ## Exercises
-* Development board supporting embedded `Rust`
+* Development board supporting embedded Rust
 * `USB` cable for programming
-* Computer with `Rust` toolchain installed
+* Computer with Rust toolchain installed
 * Basic electronic components for exercises
 * Tools and Frameworks
     * `rust`-analyzer
@@ -53,14 +53,14 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
 
 ## Outline
 <!-- chapter: embedded-rust-foundations, duration: 4h -->
-* Embedded `Rust` Foundations
+* Embedded Rust Foundations
     * The embedded-hal trait system
     * No-std environment requirements
     * Memory management without heap allocation
     * Static allocation strategies
     * Const generics for fixed-size buffers
-    * Understanding the embedded `Rust` ecosystem
-    * Laboratory Exercise: Setting up embedded `Rust` toolchain
+    * Understanding the embedded Rust ecosystem
+    * Laboratory Exercise: Setting up embedded Rust toolchain
     * Practice Assignment: Creating a no-std binary
 <!-- chapter: hardware-abstraction-layer, duration: 5h -->
 * Hardware Abstraction Layer
@@ -74,7 +74,7 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
     * Practice Assignment: Custom peripheral driver
 <!-- chapter: real-time-and-interrupts, duration: 5h -->
 * Real-Time and Interrupts
-    * Interrupt handling in `Rust`
+    * Interrupt handling in Rust
     * Critical sections and atomic operations
     * RTIC (Real-Time Interrupt-driven Concurrency) framework
     * Priority-based task scheduling
@@ -88,7 +88,7 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
     * Const initialization techniques
     * `DMA` safety through ownership
     * Zero-copy buffer management
-    * Memory-mapped `I/O` in `Rust`
+    * Memory-mapped `I/O` in Rust
     * Safe abstractions for volatile memory
     * Laboratory Exercise: `DMA` transfers
     * Practice Assignment: Zero-copy protocol implementation
@@ -96,7 +96,7 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
 * Communication Protocols
     * Embedded network stack implementations
     * Type-safe protocol definitions
-    * `Async`/`await` in embedded contexts
+    * `Async`/await in embedded contexts
     * Error handling without exceptions
     * Building reliable state machines
     * Safe abstractions for hardware protocols
@@ -109,13 +109,13 @@ Note: This syllabus assumes familiarity with `Rust` language features and focuse
     * Embedded debugging techniques
     * Performance optimization
     * Power management
-    * `Rust`-specific optimization techniques
+    * Rust-specific optimization techniques
     * Real-world deployment considerations
     * Laboratory Exercise: Custom bootloader
     * Final Project: Complete embedded application
 <!-- chapter: best-practices, duration: 3h -->
 * Best Practices
-    * Following `Rust`'s embedded working group guidelines
+    * Following Rust's embedded working group guidelines
     * Using type-state programming for safety
     * Implementing proper error handling
     * Maintaining memory safety in no-std

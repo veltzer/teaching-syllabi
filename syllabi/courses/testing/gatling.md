@@ -47,7 +47,7 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 <!-- chapter: introduction-to-gatling, duration: 1h -->
 * Introduction to `Gatling`
     * Why `Gatling`: reactive architecture and non-blocking `I/O`
-    * `Gatling` vs `k6`, `JMeter`, and `Locust`
+    * `Gatling` vs `k6`, `JMeter`, and Locust
     * Core concepts: simulation, scenario, virtual user, injection profile
     * Overview of the `Gatling` DSL and `Scala` syntax basics
     * Setting expectations for the course
@@ -64,8 +64,8 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
     * Anatomy of a `Gatling` simulation class
     * Extending `Simulation` and defining `setUp`
     * The `ScenarioBuilder` and chaining request steps
-    * `exec`, `pause`, and `group` building blocks
-    * Conditional and loop constructs: `doIf`, `repeat`, `foreach`, `asLongAs`
+    * `exec`, pause, and `group` building blocks
+    * Conditional and loop constructs: `doIf`, repeat, foreach, `asLongAs`
     * Organising simulations into reusable objects and traits
 <!-- chapter: http-protocol-configuration, duration: 2h -->
 * `HTTP` Protocol Configuration
@@ -77,7 +77,7 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
     * Proxy configuration for traffic inspection
 <!-- chapter: scenarios-and-feeders, duration: 2h -->
 * Scenarios and Feeders
-    * Injection profiles: `atOnceUsers`, `rampUsers`, `constantUsersPerSec`, `rampUsersPerSec`
+    * Injection profiles: `atOnceUsers`, rampUsers, constantUsersPerSec, `rampUsersPerSec`
     * Combining multiple injection profiles
     * Session variables: reading, writing, and transforming with `EL` expressions
     * Built-in feeders: `CSV`, `JSON`, `JDBC`, `Redis`
@@ -89,16 +89,16 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
     * The `Assertions` `API`: global, per-request, per-group
     * Asserting on response time percentiles, mean, and max
     * Asserting on success rate and request count
-    * Failing CI builds `when` assertions are not met
+    * Failing CI builds when assertions are not met
     * Understanding the `Gatling` `HTML` report structure
     * Request statistics, response time distribution, and active users chart
     * Exporting results to external monitoring systems
 <!-- chapter: advanced-request-building, duration: 2h -->
 * Advanced Request Building
-    * Capturing values from responses with `check` and `saveAs`
+    * Capturing values from responses with check and `saveAs`
     * `JSON` path and XPath extraction
     * Regex and `CSS` selectors in checks
-    * Multi-part form data and `file` upload requests
+    * Multi-part form data and file upload requests
     * Request chaining with extracted session values
     * Managing authentication: Basic Auth, Bearer tokens, `OAuth 2.0`
     * Handling query parameters, form parameters, and request bodies dynamically

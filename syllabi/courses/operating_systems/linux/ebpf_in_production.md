@@ -29,7 +29,7 @@ modules and without restarting the system. The catalog has `Linux Performance En
 This four day course covers `eBPF` from the verifier up to a production deployment. It covers the
 program types, the verifier's reasoning, `BPF` maps, the `CO-RE` (compile-once-run-everywhere) story
 that makes portable `eBPF` possible, the toolchain (`libbpf`, `BCC`, `bpftrace`, `Cilium ebpf-go`,
-`Aya` for `Rust`), the observability use cases (`bcc-tools`, `bpftrace` one-liners, `Pixie`, `Parca`,
+`Aya` for Rust), the observability use cases (`bcc-tools`, `bpftrace` one-liners, `Pixie`, `Parca`,
 continuous profiling), the networking use cases (`Cilium` data plane, `kube-proxy` replacement,
 service mesh acceleration), the security use cases (`Tetragon`, runtime threat detection), the
 operational story (loading, lifecycle, monitoring overhead), the failure modes (verifier rejection,
@@ -47,18 +47,18 @@ Participants leave able to write, ship, and operate `eBPF` programs in productio
 
 ## Prerequisites
 * `solid` `Linux` knowledge (the `Linux Fundamentals` and `Linux Programming` courses)
-* working `C` or `Go` experience
+* working C or Go experience
 * exposure to the `Linux Networking` course is helpful
 * basic understanding of `Linux` kernel concepts
 
 ## Objectives
 * explain the `eBPF` execution model and the verifier
-* write `eBPF` programs in `C` with `libbpf` and `CO-RE`
+* write `eBPF` programs in C with `libbpf` and `CO-RE`
 * use `bpftrace` for ad-hoc kernel observability
 * deploy `Cilium` and reason about its data plane
 * deploy `Tetragon` for runtime security observability
 * operate `eBPF` programs in production safely
-* recognize `when` `eBPF` is the wrong tool
+* recognize when `eBPF` is the wrong tool
 
 ## Outline
 <!-- chapter: what-ebpf-actually-is, duration: 2h -->
@@ -101,11 +101,11 @@ Participants leave able to write, ship, and operate `eBPF` programs in productio
     * the limits of `CO-RE`
 <!-- chapter: the-ebpf-toolchain, duration: 3h -->
 * The `eBPF` toolchain
-    * `libbpf` and the `C` development model
+    * `libbpf` and the C development model
     * `BCC` and the `Python`-front-end legacy
     * `bpftrace` for one-liners
-    * `cilium/ebpf` for `Go`
-    * `Aya` for `Rust`
+    * `cilium/ebpf` for Go
+    * `Aya` for Rust
     * picking for the use case
 <!-- chapter: observability-with-ebpf, duration: 3h -->
 * Observability with `eBPF`

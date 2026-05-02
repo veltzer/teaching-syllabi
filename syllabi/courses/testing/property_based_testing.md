@@ -25,8 +25,8 @@ property that must hold for *all* valid inputs, and the framework generates many
 finds a counterexample, it shrinks it to the smallest case that still fails.
 
 This five day course teaches property-based testing as a practical engineering discipline. It covers the underlying
-ideas (generators, shrinking, stateful models), the major frameworks (`Hypothesis` for `Python`, `fast-check` for
-`JavaScript`/`TypeScript`, `QuickCheck` and its descendants in `Haskell`, `Erlang`, `Scala`, `Rust` and others),
+ideas (generators, shrinking, stateful models), the major frameworks (Hypothesis for `Python`, `fast-check` for
+`JavaScript`/`TypeScript`, QuickCheck and its descendants in `Haskell`, `Erlang`, `Scala`, Rust and others),
 patterns for finding properties in real systems, and the integration of property-based tests into existing test suites
 and `CI` pipelines. Participants leave able to apply property-based testing to APIs, parsers, data structures, state
 machines, and entire distributed systems.
@@ -35,13 +35,13 @@ machines, and entire distributed systems.
 40 hours / 5 days
 
 ## Intended Audience
-* developers who already write unit tests and want to `find` more bugs with less code
+* developers who already write unit tests and want to find more bugs with less code
 * `QA` and `SDET` engineers responsible for test strategy
 * engineers maintaining libraries, parsers, protocols or other components with rich input domains
 * anyone debugging classes of bugs that example-based tests miss
 
 ## Prerequisites
-* `solid` programming experience in at least one of: `Python`, `JavaScript`/`TypeScript`, `Java`, `Scala`, `Haskell`, `Rust`
+* `solid` programming experience in at least one of: `Python`, `JavaScript`/`TypeScript`, `Java`, `Scala`, `Haskell`, Rust
 * experience writing unit tests in a mainstream framework
 * basic familiarity with the `TDD` cycle is helpful but not required
 
@@ -60,7 +60,7 @@ machines, and entire distributed systems.
 * Why property-based testing
     * the limits of example-based testing
     * the idea: properties over many inputs
-    * brief history: `QuickCheck`, `Hypothesis`, `fast-check`
+    * brief history: `QuickCheck`, Hypothesis, `fast-check`
     * property-based testing vs fuzzing vs example-based testing
     * what kinds of bugs property-based testing finds
 <!-- chapter: thinking-in-properties, duration: 3h -->
@@ -71,7 +71,7 @@ machines, and entire distributed systems.
     * `oracle` properties: comparing to a reference implementation
     * invariant properties: things that must always hold
     * metamorphic properties: relations between inputs and outputs
-    * the "can I `find` a property here" workshop
+    * the "can I find a property here" workshop
 <!-- chapter: generators-fundamentals, duration: 3h -->
 * Generators: fundamentals
     * primitive generators: integers, floats, strings, booleans
@@ -84,12 +84,12 @@ machines, and entire distributed systems.
 * Shrinking
     * what shrinking is and why it matters
     * type-based shrinking vs integrated shrinking
-    * how `Hypothesis` and `fast-check` shrink
+    * how Hypothesis and `fast-check` shrink
     * shrinking custom types
     * stuck-shrink and overshrink failure modes
     * reading and reproducing shrunk failures
 <!-- chapter: hypothesis-deep-dive, duration: 3h -->
-* `Hypothesis` deep dive
+* Hypothesis deep dive
     * `@given`, `strategies`, settings
     * `composite` and `recursive` strategies
     * the `example database` and reproducible failures
@@ -102,21 +102,21 @@ machines, and entire distributed systems.
     * `fc.assert`, arbitraries, runners
     * built-in arbitraries
     * model-based testing with `fast-check`
-    * `async` properties
-    * integration with `Jest`, `Vitest`, `Mocha`
+    * async properties
+    * integration with Jest, `Vitest`, Mocha
 <!-- chapter: quickcheck-and-its-descendants, duration: 2h -->
 * `QuickCheck` and its descendants
     * the original `Haskell` `QuickCheck`
     * `Erlang QuickCheck` and `PropEr`
     * `ScalaCheck`
-    * `proptest` and `quickcheck` for `Rust`
+    * `proptest` and `quickcheck` for Rust
     * `jqwik` for `Java`
     * common idioms across languages
 <!-- chapter: writing-good-properties, duration: 3h -->
 * Writing good properties
     * the universal-property smell: tautologies and weak properties
-    * the "if I delete the implementation, would the property still pass" `check`
-    * coverage as a sanity `check` on properties
+    * the "if I delete the implementation, would the property still pass" check
+    * coverage as a sanity check on properties
     * tightening properties incrementally
     * combining example-based and property-based tests
 <!-- chapter: testing-data-structures, duration: 2h -->
@@ -158,15 +158,15 @@ machines, and entire distributed systems.
 <!-- chapter: pitfalls-and-anti-patterns, duration: 2h -->
 * Pitfalls and anti-patterns
     * tautological properties
-    * over-constrained generators that `find` nothing
+    * over-constrained generators that find nothing
     * tests that pass for the wrong reason
     * over-reliance on randomness in unit tests
     * properties that mirror the implementation rather than the spec
     * mitigation strategies for each
 <!-- chapter: case-studies, duration: 3h -->
 * Case studies
-    * property-based testing in `Stripe`'s billing engine
-    * `Volkswagen`-detectors and `Hypothesis` finding real bugs
+    * property-based testing in Stripe's billing engine
+    * `Volkswagen`-detectors and Hypothesis finding real bugs
     * `Jepsen` results on real distributed databases
     * applying property-based testing to a legacy codebase
     * cost/benefit retrospectives

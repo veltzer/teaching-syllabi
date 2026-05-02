@@ -83,14 +83,14 @@ practical experience building images for multiple platforms, integrating `Packer
     * Shell provisioner
     * `File` provisioner
     * `Ansible` provisioner
-    * `Chef` provisioner
-    * `Puppet` provisioner
+    * Chef provisioner
+    * Puppet provisioner
     * Provisioner ordering and error handling
     * Inline vs script-based provisioning
 <!-- chapter: post-processors, duration: 2h -->
 * Post-Processors
     * `Docker` push post-processor
-    * `Vagrant` post-processor
+    * Vagrant post-processor
     * Manifest post-processor
     * Checksum post-processor
     * Chaining post-processors

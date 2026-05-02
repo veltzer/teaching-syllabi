@@ -42,12 +42,12 @@ predictions and analysis.
 ## Objectives
 * Use `Python` to do data analysis and visualization.
 * Understand the differences between the various `ML` algorithms, their strengths and weaknesses and
-what algorithm to apply `when` confront with a problem.
+what algorithm to apply when confront with a problem.
 * Apply common `machine learning` algorithms to predict various results.
 * Understand the `machine learning` life cycle of a real world project.
 
 ## Exercises
-Using `Python`: `numpy`, SciPy, `pandas`, `Scikit-learn`.
+Using `Python`: numpy, SciPy, pandas, `Scikit-learn`.
 
 ## Outline
 <!-- chapter: data-science, duration: 5h -->

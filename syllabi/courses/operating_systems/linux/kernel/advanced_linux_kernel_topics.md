@@ -40,7 +40,7 @@ have been an long list of miscellaneous topics).
 
 ## Prerequisites
 * working experience with `linux` kernel topics
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` system administration
 
 ## Objectives
@@ -126,7 +126,7 @@ have been an long list of miscellaneous topics).
         * gettimeofday
         * RTC interfaces
     * using in kernel performance mechanisms:
-        * using latency `top`.
+        * using latency top.
         * using tracepoints.
         * using kprobes.
         * using jprobes.
@@ -164,7 +164,7 @@ have been an long list of miscellaneous topics).
         * timing from `USB` interrupt to user space.
 <!-- chapter: the-hard-bugs, duration: 1h -->
 * the hard bugs
-    * divide and conquer to `find` the hardest bugs.
+    * divide and conquer to find the hardest bugs.
     * using sysrq.
     * analyzing kernel core dumps.
     * making sure that `printk` reaches a persistent destiny.
@@ -172,7 +172,7 @@ have been an long list of miscellaneous topics).
 <!-- chapter: miscellaneous, duration: 1h -->
 * miscellaneous
     * overriding system calls for fun and profit.
-    * using gcov in the kernel to `find` dead code.
+    * using gcov in the kernel to find dead code.
     * debugging the hotplug system and `udev`.
     * injecting faults using the built in fault injector.
     * using kref to handle reference counting in your codes design.

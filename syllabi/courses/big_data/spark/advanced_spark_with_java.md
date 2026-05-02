@@ -59,7 +59,7 @@ This course is designed for data engineers and developers who have a basic under
     * Advanced query optimization techniques
     * Working with User-Defined Functions (UDFs)
     * Leveraging Catalyst optimizer for query performance
-    * Integration with external data sources (`Hive`, `JSON`, `Parquet`)
+    * Integration with external data sources (Hive, `JSON`, `Parquet`)
     * Data skew handling and optimization
 <!-- chapter: advanced-spark-mllib, duration: 4h -->
 * Advanced `Spark MLlib`

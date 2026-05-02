@@ -82,7 +82,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
 <!-- chapter: building-an-eval-harness, duration: 3h -->
 * Building an eval harness
     * eval as a first-class engineering artifact
-    * eval frameworks: `OpenAI Evals`, `Promptfoo`, `Langfuse`, `Braintrust`, custom
+    * eval frameworks: `OpenAI Evals`, Promptfoo, Langfuse, `Braintrust`, custom
     * `LLM`-as-judge: setup, calibration, pitfalls
     * code-based graders for structured outputs
     * eval reproducibility and seeding
@@ -106,7 +106,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
     * the three pillars in an `LLM` context
     * tracing across model calls, retrievals, tool calls
     * `OpenTelemetry` for `LLM` workloads and `OpenLLMetry`
-    * `Langfuse`, `Helicone`, `Phoenix`, `LangSmith`
+    * `Langfuse`, Helicone, Phoenix, `LangSmith`
     * structured logging of prompts and outputs
     * privacy-aware logging
 <!-- chapter: cost-and-latency-engineering, duration: 4h -->
@@ -138,7 +138,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
 * Deployment topologies
     * client-side vs server-side `LLM` calls
     * proxy and gateway patterns
-    * `LLM` gateways: `LiteLLM`, `Portkey`, custom
+    * `LLM` gateways: LiteLLM, `Portkey`, custom
     * self-hosted vs hosted models
     * `vLLM`, `TGI` and inference servers
     * `GPU` capacity planning at a high level
@@ -161,7 +161,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
     * what is cacheable in an `LLM` system
     * prompt caching and prefix caching
     * semantic caching with embeddings
-    * temperature, `top`-`p`, seed and reproducibility
+    * temperature, top-`p`, seed and reproducibility
     * cache invalidation strategies
 <!-- chapter: data-and-feedback-loops, duration: 2h -->
 * Data and feedback loops

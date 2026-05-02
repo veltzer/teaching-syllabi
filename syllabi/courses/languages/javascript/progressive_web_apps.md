@@ -69,7 +69,7 @@ This course covers the design and development of Progressive Web Apps (PWA), whi
     * Conflict resolution strategies
 <!-- chapter: web-app-manifest-and-installability, duration: 2h -->
 * Web App Manifest and Installability
-    * Manifest `file` structure and properties
+    * Manifest file structure and properties
     * Icons and splash screens
     * Display modes (standalone, fullscreen, minimal-ui)
     * Install prompts and criteria

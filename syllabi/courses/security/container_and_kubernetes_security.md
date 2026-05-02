@@ -80,7 +80,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
     * Pinning base image versions and dependency versions
     * Using COPY vs ADD and reducing layer count
     * Linting Dockerfiles with hadolint
-    * Read-only `file` systems and minimal capabilities
+    * Read-only file systems and minimal capabilities
 <!-- chapter: linux-security-primitives-for-containers, duration: 2h -->
 * `Linux` Security Primitives for Containers
     * `Linux` namespaces and isolation boundaries
@@ -119,7 +119,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Network Policies
     * `Kubernetes` network model and default behavior
     * Network policy specification and label-based selection
-    * `Ingress` and egress traffic controls
+    * Ingress and egress traffic controls
     * Default deny policies and micro-segmentation
     * Network policy providers: Calico, Cilium, Weave
     * `DNS`-based and FQDN-based network policies
@@ -154,7 +154,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Supply Chain Security
     * Software supply chain threats in the container ecosystem
     * Software bill of materials (`SBOM`) generation and consumption
-    * `Sigstore` ecosystem: `cosign`, `Rekor`, and `Fulcio`
+    * `Sigstore` ecosystem: cosign, `Rekor`, and `Fulcio`
     * Container image signing with `cosign`
     * Build provenance with `SLSA` framework
     * Verifying artifacts in admission controllers
@@ -172,7 +172,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Container Forensics and Incident Response
     * Container forensics challenges and methodology
     * Collecting evidence from running and stopped containers
-    * Analyzing container `file` systems and logs
+    * Analyzing container file systems and logs
     * Network traffic capture and analysis in container environments
     * Incident response playbooks for container breaches
     * Post-incident recovery and hardening

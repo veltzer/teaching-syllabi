@@ -20,14 +20,14 @@ audience:
 # Feature Flags and Progressive Delivery
 
 ## Description
-Feature flags decouple deployment from release. Done well, they `let` teams ship code continuously, roll out features
+Feature flags decouple deployment from release. Done well, they let teams ship code continuously, roll out features
 gradually to subsets of users, run experiments in production, and recover from incidents in seconds rather than hours.
 Done poorly, they accumulate as a tangle of dead conditionals that nobody dares to delete.
 
 This five day course covers feature flags as an engineering discipline. It covers the spectrum of flag types
 (release, ops, experiment, permission), flag-platform architecture, integration patterns at the application level,
 gradual rollout strategies, A/B and multivariate testing, kill switches, flag debt and disciplined cleanup. The
-course is platform-aware (`LaunchDarkly`, `Unleash`, `Flagsmith`, `Split`, `Statsig`, `OpenFeature`) but vendor-neutral.
+course is platform-aware (`LaunchDarkly`, Unleash, Flagsmith, Split, Statsig, `OpenFeature`) but vendor-neutral.
 Participants leave able to introduce feature flags into a codebase, run a progressive delivery program, and avoid
 the operational and code-quality traps that have ended other teams' attempts.
 
@@ -83,7 +83,7 @@ the operational and code-quality traps that have ended other teams' attempts.
     * latency, availability and consistency requirements
 <!-- chapter: integrating-flags-into-application-code, duration: 3h -->
 * Integrating flags into application code
-    * the flag-`check` call site
+    * the flag-check call site
     * keeping conditionals readable
     * branching at the right level: function, request, page, feature
     * dependency injection of flag clients
@@ -149,7 +149,7 @@ the operational and code-quality traps that have ended other teams' attempts.
     * separating production toggles from experiment flags
 <!-- chapter: flag-platform-comparison, duration: 2h -->
 * Flag platform comparison
-    * `LaunchDarkly`, `Split`, `Unleash`, `Flagsmith`, `Statsig`, `ConfigCat`
+    * `LaunchDarkly`, Split, Unleash, Flagsmith, Statsig, `ConfigCat`
     * managed vs self-hosted vs build-it-yourself
     * `OpenFeature` and the portability story
     * cost models and quotas
@@ -159,7 +159,7 @@ the operational and code-quality traps that have ended other teams' attempts.
     * what a minimum-viable flag service looks like
     * config-store, evaluator, `SDK`
     * scaling the small system as you grow
-    * `when` to migrate to a vendor
+    * when to migrate to a vendor
 <!-- chapter: progressive-delivery-beyond-flags, duration: 2h -->
 * Progressive delivery beyond flags
     * traffic mirroring and shadowing

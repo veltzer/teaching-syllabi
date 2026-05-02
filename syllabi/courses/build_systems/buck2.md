@@ -14,7 +14,7 @@ audience:
 # Buck2
 
 ## Description
-Buck2 is a high-performance, large-scale build system developed by Meta. It is a ground-up rewrite of the original `Buck`, written in `Rust`, and designed for speed, correctness, and scalability. This course covers Buck2's architecture, its Starlark-based rule system, and how to use it effectively for multi-language monorepo development.
+Buck2 is a high-performance, large-scale build system developed by Meta. It is a ground-up rewrite of the original Buck, written in Rust, and designed for speed, correctness, and scalability. This course covers Buck2's architecture, its Starlark-based rule system, and how to use it effectively for multi-language monorepo development.
 
 ## Duration
 16 hours / 2 days
@@ -38,8 +38,8 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
 ## Outline
 <!-- chapter: introduction-to-buck2, duration: 2h -->
 * Introduction to Buck2
-    * History and motivation (from `Buck` to Buck2)
-    * Comparison with other build systems (`Make`, `CMake`, `Bazel`, `Gradle`)
+    * History and motivation (from Buck to Buck2)
+    * Comparison with other build systems (Make, `CMake`, `Bazel`, `Gradle`)
     * Core concepts: targets, cells, packages, configurations
     * The Buck2 daemon and incremental computation engine
     * Installing and configuring Buck2
@@ -47,7 +47,7 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
 * `BUCK` Files and Project Structure
     * Project layout and cell configuration
     * Writing `BUCK` files
-    * Built-in rules for `C`/`C++`, `Java`, `Python`, `Rust`, `Go`
+    * Built-in rules for C/`C++`, `Java`, `Python`, Rust, Go
     * Target visibility and access control
     * Managing third-party dependencies
 <!-- chapter: the-starlark-rule-system, duration: 3h -->
@@ -80,7 +80,7 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
 <!-- chapter: integration-and-migration, duration: 2h -->
 * Integration and Migration
     * Integrating Buck2 into `CI/CD` pipelines
-    * Migrating from `Buck` v1, `Bazel`, or other build systems
+    * Migrating from Buck v1, `Bazel`, or other build systems
     * IDE integration
     * Build observability and logging
 

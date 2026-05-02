@@ -21,7 +21,7 @@ This course provides an in-depth exploration of networking services and architec
 24 hours / 3 days
 
 ## Intended Audience
-* Developers building distributed applications that `require` advanced networking on `AWS`.
+* Developers building distributed applications that require advanced networking on `AWS`.
 * System administrators responsible for `AWS` network infrastructure.
 * Architects designing multi-region and hybrid cloud network architectures.
 

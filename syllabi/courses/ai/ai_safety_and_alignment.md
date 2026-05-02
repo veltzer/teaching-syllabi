@@ -25,7 +25,7 @@ much harder one. This five day course is the technical complement to the ethics-
 in the catalog. It treats `AI` safety and alignment as engineering disciplines.
 
 The course covers the alignment problem precisely (specification, robustness, generalization), the techniques
-used to align modern `LLMs` (`RLHF`, `DPO`, Constitutional `AI`, rule-based and reward-modeled training), the
+used to align modern `LLMs` (RLHF, DPO, Constitutional `AI`, rule-based and reward-modeled training), the
 evaluation methodologies that surface harm, deception and capability uplift, the red-teaming and adversarial
 practices that stress-test safety, the deployment-level controls (guardrails, monitoring, escalation), and the
 operational practices that keep a deployed system safe over time. The course is grounded in
@@ -83,7 +83,7 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
 <!-- chapter: post-rlhf-techniques, duration: 3h -->
 * Post-`RLHF` techniques
     * `DPO` (`direct preference optimization`)
-    * `IPO`, `KTO`, `ORPO`
+    * `IPO`, KTO, `ORPO`
     * `RLAIF` and `AI`-driven preference data
     * Constitutional `AI` and `RLHF` from principles
     * online vs offline alignment
@@ -99,7 +99,7 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
 * Safety evaluations
     * the difference between capability evals and safety evals
     * benchmark suites: `Anthropic`'s eval, `OpenAI` evals, `MMLU`-style
-    * `harmfulness` evals: `XSTest`, `BeaverTails`, `HarmBench`
+    * `harmfulness` evals: XSTest, BeaverTails, `HarmBench`
     * deception and sycophancy evals
     * jailbreak resistance evals
     * dangerous capability evals: cyber, `CBRN`, autonomy
@@ -167,7 +167,7 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
     * responsible scaling policies
     * `RAI` review boards and gating
     * the relationship to ethics, legal and `PR`
-    * external evaluation: `METR`, `Apollo`, `UK AISI`, `US AISI`
+    * external evaluation: `METR`, Apollo, `UK AISI`, `US AISI`
     * the deployment policy as a living document
 <!-- chapter: case-studies-and-published-incidents, duration: 1h -->
 * Case studies and published incidents
@@ -179,7 +179,7 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
 * Workshop and wrap up
     * red-team a sample deployed `LLM` feature
     * design walkthrough of a safety review for a new `AI` feature
-    * recommended reading: `Anthropic`, `OpenAI`, `DeepMind` papers, `Christian`'s book
+    * recommended reading: `Anthropic`, `OpenAI`, DeepMind papers, `Christian`'s book
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

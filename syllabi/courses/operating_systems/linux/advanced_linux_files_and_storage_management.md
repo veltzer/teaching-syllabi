@@ -19,7 +19,7 @@ audience:
 # Advanced `Linux` Files and Storage Management
 
 ## Description
-This advanced course is designed for experienced `Linux` system administrators, `DevOps` engineers, and security professionals with `solid` foundational knowledge of `Linux`. The course covers comprehensive `file` system architecture, advanced storage technologies, logical volume management, networked storage solutions, and performance optimization. Students will gain expertise in enterprise-level storage management, troubleshooting, and security practices.
+This advanced course is designed for experienced `Linux` system administrators, `DevOps` engineers, and security professionals with `solid` foundational knowledge of `Linux`. The course covers comprehensive file system architecture, advanced storage technologies, logical volume management, networked storage solutions, and performance optimization. Students will gain expertise in enterprise-level storage management, troubleshooting, and security practices.
 
 ## Duration
 40 hours / 5 days
@@ -31,13 +31,13 @@ This advanced course is designed for experienced `Linux` system administrators, 
 
 ## Prerequisites
 * Strong foundational knowledge of `Linux` operating system
-* Experience with basic `Linux` `file` system operations
+* Experience with basic `Linux` file system operations
 * Understanding of storage concepts and hardware
 * Familiarity with command-line tools and system administration
 
 ## Objectives
-* Understand and implement advanced `Linux` `file` system architectures and concepts
-* Perform complex `file` system operations including creation, management, and repair
+* Understand and implement advanced `Linux` file system architectures and concepts
+* Perform complex file system operations including creation, management, and repair
 * Configure and manage advanced storage technologies including `LVM` and `RAID`
 * Set up and optimize networked and distributed storage solutions
 * Monitor, tune, and troubleshoot storage performance issues
@@ -47,8 +47,8 @@ This advanced course is designed for experienced `Linux` system administrators, 
 ## Outline
 <!-- chapter: linux-file-system-architecture-and-concepts, duration: 5h -->
 * `Linux` `File` System Architecture and Concepts
-    * Overview of `Linux` `file` system hierarchy and standards (FHS)
-    * Extended `file` attributes and access control lists (`ACLs`)
+    * Overview of `Linux` file system hierarchy and standards (FHS)
+    * Extended file attributes and access control lists (`ACLs`)
     * Understanding inodes, superblocks, and journaling
     * `File` system types and characteristics
         * `ext4`
@@ -63,7 +63,7 @@ This advanced course is designed for experienced `Linux` system administrators, 
         * tune2fs
         * xfs_admin
         * zpool
-    * Resizing and migrating `file` systems
+    * Resizing and migrating file systems
         * `resize2fs`
         * `xfs_growfs`
         * `Btrfs` snapshots
@@ -72,8 +72,8 @@ This advanced course is designed for experienced `Linux` system administrators, 
         * e2fsck
         * `xfs_repair`
     * Working with symbolic and hard links in complex environments
-    * Advanced `file` search and manipulation
-        * `find`
+    * Advanced file search and manipulation
+        * find
         * locate
         * stat
         * `lsof`
@@ -102,11 +102,11 @@ This advanced course is designed for experienced `Linux` system administrators, 
     * Managing mounts with autofs and `systemd` automount
 <!-- chapter: performance-security-and-troubleshooting, duration: 12h -->
 * Performance, Security, and Troubleshooting
-    * Monitoring `file` system and storage performance
+    * Monitoring file system and storage performance
         * iostat
         * vmstat
         * dstat
-    * Tuning `file` systems and storage for performance
+    * Tuning file systems and storage for performance
         * Mount options
         * sysctl
     * Disk quotas and resource limits

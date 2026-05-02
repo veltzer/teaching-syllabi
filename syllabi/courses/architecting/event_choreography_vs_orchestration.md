@@ -27,9 +27,9 @@ component that can become a bottleneck or a single point of failure.
 
 This two day course is the focused decision-support course for that choice. It covers the canonical
 shapes of each, the reasoning model (how do you understand the system in each), the failure model
-(what happens `when` a step fails), the change model (what happens `when` the workflow needs to change),
+(what happens when a step fails), the change model (what happens when the workflow needs to change),
 the observability model (how do you debug a failed flow), the technologies that support each
-(`Temporal`, `Camunda`, `Cadence`, `Conductor`, `Step Functions` for orchestration; `Kafka`, `EventBridge`,
+(Temporal, `Camunda`, Cadence, Conductor, `Step Functions` for orchestration; `Kafka`, `EventBridge`,
 `NATS` for choreography), and the patterns where mixing the two is the right answer. Examples include
 the canonical e-commerce checkout flow, the airline-reservation flow, the loan-application flow, and
 the `data` pipeline flow. Participants leave able to `make` the decision for their next workflow.
@@ -55,7 +55,7 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
 * pick the right technology for the chosen style
 * design the failure-and-compensation story
 * observe and debug each style
-* recognize `when` to mix the two
+* recognize when to mix the two
 * avoid the anti-patterns of each
 
 ## Outline
@@ -78,8 +78,8 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
     * the workflow as a first-class object
     * the orchestrator as the coordinator
     * the workflow definition as code or as a graph
-    * `Temporal`, `Cadence`, `Camunda`, `Conductor`, `Step Functions`
-    * the example: same order flow, in `Temporal`
+    * Temporal, `Cadence`, `Camunda`, Conductor, `Step Functions`
+    * the example: same order flow, in Temporal
 <!-- chapter: reasoning-about-each-style, duration: 2h -->
 * Reasoning about each style
     * choreography: read every service's event handlers
@@ -110,10 +110,10 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
     * the visualization argument for orchestration
 <!-- chapter: technologies-for-each, duration: 2h -->
 * Technologies for each
-    * orchestration: `Temporal`, `Cadence`, `Camunda`, `Conductor`, `Step Functions`, `Argo Workflows`
-    * choreography: `Kafka`, `EventBridge`, `NATS`, `RabbitMQ`
+    * orchestration: Temporal, `Cadence`, `Camunda`, Conductor, `Step Functions`, `Argo Workflows`
+    * choreography: `Kafka`, EventBridge, `NATS`, `RabbitMQ`
     * the cost-and-operations shape of each
-    * cross-reference to the `Temporal` course
+    * cross-reference to the Temporal course
     * picking
 <!-- chapter: when-to-mix, duration: 1h -->
 * `When` to mix

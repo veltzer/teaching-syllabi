@@ -75,7 +75,7 @@ This two day advanced course equips engineers with the skills to diagnose and re
 * Networking Troubleshooting
     * `Kubernetes` networking model overview
     * Debugging Service connectivity issues
-    * `Ingress` and load balancer troubleshooting
+    * Ingress and load balancer troubleshooting
     * Network policy conflicts and misconfigurations
     * CNI plugin diagnostics
     * Using tools like `tcpdump`, `curl`, and `nslookup` from debug containers

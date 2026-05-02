@@ -15,12 +15,12 @@ audience:
   - audiences:managers
 ---
 <!-- course: using_ai_when_developing_applications -->
-# Using `AI` `when` Developing Applications
+# Using `AI` when Developing Applications
 
 ## Description
 `AI`-powered development tools have fundamentally transformed how modern software is built, tested, and maintained. From code generation and intelligent autocomplete to automated testing and debugging assistance, `AI` tools can dramatically accelerate development workflows while improving code quality and reducing errors. However, effective use of these tools requires understanding their capabilities, limitations, and best practices for integration into professional development environments.
 
-This course provides a comprehensive, hands-on approach to leveraging `AI` throughout the software development lifecycle. Rather than focusing on `AI` theory, the course emphasizes practical application of `AI` tools to solve real development challenges. Participants will learn to effectively prompt `AI` systems, integrate `AI`-powered tools into their existing workflows, and maintain code quality and security standards `when` working with `AI`-generated code.
+This course provides a comprehensive, hands-on approach to leveraging `AI` throughout the software development lifecycle. Rather than focusing on `AI` theory, the course emphasizes practical application of `AI` tools to solve real development challenges. Participants will learn to effectively prompt `AI` systems, integrate `AI`-powered tools into their existing workflows, and maintain code quality and security standards when working with `AI`-generated code.
 
 The course covers the full spectrum of `AI`-assisted development, from initial planning and architecture through deployment and maintenance. Participants will work with popular `AI` coding assistants, learn prompt engineering techniques specific to software development, and explore emerging `AI` tools for testing, documentation, and code review.
 
@@ -40,7 +40,7 @@ This is an intensive three-day course combining demonstrations, hands-on worksho
 
 ## Prerequisites
 This is a practical course for experienced developers. Participants should have:
-* `Solid` experience in at least one modern programming language (`Python`, `JavaScript`, `Java`, `C#`, `Go`, or similar)
+* `Solid` experience in at least one modern programming language (`Python`, `JavaScript`, `Java`, `C#`, Go, or similar)
 * Understanding of software development lifecycle and version control (`Git`)
 * Experience with development tools, `IDEs`, and command-line interfaces
 * Basic familiarity with APIs and `web services`
@@ -58,7 +58,7 @@ This is a practical course for experienced developers. Participants should have:
 * Implement quality control processes for `AI`-generated code
 * Apply `AI` tools for automated testing, debugging, and code review
 * Use `AI` for documentation generation and technical writing
-* Establish security practices `when` working with `AI`-generated code
+* Establish security practices when working with `AI`-generated code
 * Evaluate and select appropriate `AI` tools for specific development contexts
 * Design `AI`-assisted development workflows for teams
 * Understand ethical considerations and best practices for `AI`-assisted development
@@ -77,7 +77,7 @@ This is a practical course for experienced developers. Participants should have:
 
 <!-- chapter: getting-started-with-ai-coding-assistants, duration: 1h -->
 * **Getting Started with `AI` Coding Assistants**
-    * Overview of popular tools: `GitHub Copilot`, `Claude`, `ChatGPT`, `Tabnine`, CodeWhisperer
+    * Overview of popular tools: `GitHub Copilot`, Claude, `ChatGPT`, `Tabnine`, CodeWhisperer
     * IDE integration and setup
     * Basic usage patterns and keyboard shortcuts
     * Understanding context `windows` and token limits
@@ -95,7 +95,7 @@ This is a practical course for experienced developers. Participants should have:
     * Building a small application using `AI` assistance
     * Prompt techniques for different development phases
     * Comparing `AI`-generated solutions
-    * Identifying `when` to accept, modify, or reject `AI` suggestions
+    * Identifying when to accept, modify, or reject `AI` suggestions
 
 ### Day 2: Advanced `AI` Integration and Quality Control
 <!-- chapter: code-quality-and-ai-generated-code, duration: 1h -->
@@ -120,7 +120,7 @@ This is a practical course for experienced developers. Participants should have:
     * Code scanning and vulnerability detection
     * Secure coding practices with `AI` assistance
     * Dependency management and supply chain security
-    * Privacy and data protection `when` using `AI` tools
+    * Privacy and data protection when using `AI` tools
 
 <!-- chapter: advanced-prompt-engineering, duration: 2h -->
 * **Advanced Prompt Engineering**

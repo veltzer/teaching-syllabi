@@ -92,7 +92,7 @@ This course teaches `C#` programming in the context of `Unity` game engine devel
     * yield instructions: WaitForSeconds, WaitUntil, WaitForEndOfFrame
     * Coroutine patterns for sequencing
     * Limitations and alternatives
-    * `Async`/`await` in `Unity`
+    * `Async`/await in `Unity`
 <!-- chapter: animation-system, duration: 2h -->
 * Animation System
     * Animator controller and state machines

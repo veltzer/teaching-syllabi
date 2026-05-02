@@ -26,8 +26,8 @@ breaking anything.
 
 This five day course covers technical debt as a concept (and why most uses of the term are confused), the diagnostic
 tools and metrics that surface it, the refactoring techniques that actually move the needle, and the team-level
-practices that prevent debt from rebounding. The course is grounded in the work of `Fowler`, `Feathers`, `Beck` and
-`Hunt`/`Thomas`, and is illustrated with examples in `Java`, `Python`, `TypeScript` and `Go`. Participants leave
+practices that prevent debt from rebounding. The course is grounded in the work of `Fowler`, Feathers, `Beck` and
+`Hunt`/Thomas, and is illustrated with examples in `Java`, `Python`, `TypeScript` and Go. Participants leave
 able to assess their own codebase, plan a debt program and execute it.
 
 ## Duration
@@ -66,7 +66,7 @@ able to assess their own codebase, plan a debt program and execute it.
 <!-- chapter: measuring-debt-and-its-cost, duration: 3h -->
 * Measuring debt and its cost
     * code metrics worth measuring: complexity, churn, coupling
-    * `SonarQube`, `CodeScene`, `Code Climate`, `tokei`
+    * `SonarQube`, CodeScene, `Code Climate`, `tokei`
     * hot-spot analysis: code that changes a lot and is also complex
     * lead time and change failure rate as outcome metrics
     * surveying engineers for perceived friction
@@ -140,7 +140,7 @@ able to assess their own codebase, plan a debt program and execute it.
 * Refactoring `APIs` and contracts
     * non-breaking changes by default
     * deprecation and the long tail
-    * versioning `when` you must
+    * versioning when you must
     * client migration with telemetry
     * cross-reference to the `API` Evolution and Versioning course
 <!-- chapter: refactoring-and-design-patterns, duration: 2h -->
@@ -148,18 +148,18 @@ able to assess their own codebase, plan a debt program and execute it.
     * patterns as targets and as smells
     * over-pattern-matching and abstraction debt
     * removing premature abstractions
-    * adding abstraction only `when` justified
+    * adding abstraction only when justified
     * recognizing patterns latent in code
 <!-- chapter: tooling-for-large-scale-refactoring, duration: 2h -->
 * Tooling for large-scale refactoring
     * `IDE` refactoring features in depth
-    * codemods: `jscodeshift`, `comby`, `ast-grep`, `ruff` rewrites
+    * codemods: `jscodeshift`, comby, `ast-grep`, `ruff` rewrites
     * tree-sitter-based transformations
     * monorepo-wide refactoring
     * automating the boring 80% of a migration
 <!-- chapter: rewrite-vs-refactor, duration: 2h -->
 * Rewrite vs refactor
-    * `when` a rewrite actually makes sense
+    * when a rewrite actually makes sense
     * the second-system effect
     * keeping the old system running during a rewrite
     * sunk cost and identity attachment
@@ -176,7 +176,7 @@ able to assess their own codebase, plan a debt program and execute it.
 * Workshop and wrap up
     * walkthrough of debt assessment on a sample legacy codebase
     * group refactoring exercise on real code
-    * recommended reading: `Fowler`, `Feathers`, `Beck`, `Hunt`/`Thomas`
+    * recommended reading: `Fowler`, Feathers, Beck, Hunt/`Thomas`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

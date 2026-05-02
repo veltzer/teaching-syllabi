@@ -27,7 +27,7 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
 * Programmers who wish to understand all the intricacies of interacting with modern hardware
 
 ## Prerequisites
-* `C` programming
+* C programming
 * Understanding real time concepts is an advantage
 * Familiarity with real time operating systems is an advantage.
 * Familiarity with secure operating systems (`Linux`) is an advantage.
@@ -88,7 +88,7 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
     * Allocating memory for `DMA`
     * Different types of `DMA` buffers
     * Cycling through buffers to allow processing
-    * Getting notified `when` `DMA` is done
+    * Getting notified when `DMA` is done
     * `CPU` memory caching and `DMA`
 <!-- chapter: storage, duration: 5h -->
 * Storage

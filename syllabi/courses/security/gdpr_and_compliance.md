@@ -54,12 +54,12 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
     * Key terminology: personal data, data subject, controller, processor, recipient
     * What counts as personal data: names, identifiers, location data, online identifiers, biometrics
     * Special categories of sensitive personal data and their heightened protections
-    * The regulatory landscape: `GDPR`, `CCPA`, `LGPD`, `PDPA`, and the global patchwork
+    * The regulatory landscape: `GDPR`, `CCPA`, LGPD, `PDPA`, and the global patchwork
     * Consequences of non-compliance: fines, enforcement actions, and reputational damage
 
 <!-- chapter: gdpr-principles-and-scope, duration: 2h -->
 * `GDPR` Principles and Scope
-    * Territorial scope: `when` `GDPR` applies to non-EU organizations (`Article 3`)
+    * Territorial scope: when `GDPR` applies to non-EU organizations (`Article 3`)
     * Material scope: what types of processing activities are covered
     * The seven principles of `GDPR`: lawfulness, fairness, transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity and confidentiality, and accountability
     * Accountability as an active obligation: records of processing, policies, and controls
@@ -73,7 +73,7 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
     * Consent requirements: freely given, specific, informed, unambiguous indication
     * Consent mechanics: opt-in design, withdrawal mechanisms, and records of consent
     * Legitimate Interests Assessment (`LIA`): the three-part balancing test
-    * Contract performance as a lawful basis: `when` it applies and its limits
+    * Contract performance as a lawful basis: when it applies and its limits
     * Children's data and the age of digital consent across EU member states
     * Documenting lawful bases in Records of Processing Activities (`ROPA`)
 
@@ -82,7 +82,7 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
     * Overview of the eight data subject rights under `GDPR`
     * Right of access (`SAR`): what must be provided, timelines, and exemptions
     * Right to rectification: correcting inaccurate or incomplete personal data
-    * Right to erasure ("right to be forgotten"): `when` it applies and `when` it does not
+    * Right to erasure ("right to be forgotten"): when it applies and when it does not
     * Right to restriction of processing and right to object
     * Right to data portability: technical requirements and common formats
     * Rights in relation to automated decision-making and profiling (`Article 22`)
@@ -102,7 +102,7 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
 * Data Breach Notification
     * What constitutes a personal data breach under `GDPR` (`Article 4(12)`)
     * The 72-hour notification requirement to supervisory authorities
-    * Risk-based thresholds: `when` notification to data subjects is required
+    * Risk-based thresholds: when notification to data subjects is required
     * Content of a breach notification: required information and structured format
     * Building an internal breach detection and escalation process
     * Documenting breaches in the breach register regardless of reporting obligation
@@ -126,11 +126,11 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
     * Binding Corporate Rules (`BCR`s) for intra-group international transfers
     * Transfer Impact Assessments (`TIA`): evaluating third-country legal frameworks
     * The `EU-US Data Privacy Framework` and its political and legal context
-    * Derogations under `Article 49`: `when` exceptional transfers are permitted
+    * Derogations under `Article 49`: when exceptional transfers are permitted
 
 <!-- chapter: dpo-role-and-responsibilities, duration: 1h -->
 * DPO Role and Responsibilities
-    * `When` a Data Protection Officer (`DPO`) is mandatory under `Article 37`
+    * `When` a Data Protection Officer (DPO) is mandatory under `Article 37`
     * DPO independence, expertise requirements, and position within the organization
     * Core DPO tasks: monitoring compliance, providing advice, and cooperating with authorities
     * DPO as a point of contact for supervisory authorities and data subjects

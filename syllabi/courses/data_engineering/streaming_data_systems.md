@@ -42,7 +42,7 @@ streaming pipelines and to choose the right engine for a given workload.
 
 ## Prerequisites
 * `solid` programming experience in `Java`/`Scala`/`Python`
-* working knowledge of at least one message broker (`Kafka`, `Pulsar`, `Kinesis`)
+* working knowledge of at least one message broker (`Kafka`, Pulsar, `Kinesis`)
 * basic familiarity with `SQL` and one analytical store
 * basic distributed systems concepts (replication, partitioning, consensus)
 
@@ -106,11 +106,11 @@ streaming pipelines and to choose the right engine for a given workload.
     * `Kafka Connect` for ingest and egress
     * `Schema Registry` and schema evolution
     * compaction and changelog topics
-    * `Kafka` alternatives: `Pulsar`, `Kinesis`, `Redpanda`
+    * `Kafka` alternatives: Pulsar, `Kinesis`, `Redpanda`
 <!-- chapter: apache-flink-deep-dive, duration: 4h -->
 * `Apache Flink` deep dive
     * the `Flink` execution model
-    * `DataStream` and `Table`/`SQL` APIs
+    * `DataStream` and Table/`SQL` APIs
     * checkpointing internals
     * exactly-once with `Flink` and `Kafka`
     * `CEP` and pattern detection
@@ -119,7 +119,7 @@ streaming pipelines and to choose the right engine for a given workload.
 <!-- chapter: kafka-streams-and-ksqldb, duration: 2h -->
 * `Kafka Streams` and `ksqlDB`
     * the `Kafka Streams` library model
-    * `KStream`, `KTable`, `GlobalKTable`
+    * `KStream`, KTable, `GlobalKTable`
     * stateful operations and changelog topics
     * deployment as regular `JVM` apps
     * `ksqlDB` for `SQL`-driven streaming
@@ -128,7 +128,7 @@ streaming pipelines and to choose the right engine for a given workload.
 * `Spark Structured Streaming`
     * the micro-batch and continuous execution models
     * watermarking and stateful operations in `Spark`
-    * integration with `Delta Lake` and `Iceberg`
+    * integration with `Delta Lake` and Iceberg
     * `Spark` vs `Flink` for streaming workloads
     * operational considerations
 <!-- chapter: apache-beam-and-portability, duration: 1h -->
@@ -153,7 +153,7 @@ streaming pipelines and to choose the right engine for a given workload.
     * unified batch and streaming processing
 <!-- chapter: streaming-olap-and-real-time-analytics, duration: 2h -->
 * Streaming `OLAP` and real-time analytics
-    * `Druid`, `Pinot`, `ClickHouse`, `Materialize`, `RisingWave`
+    * Druid, `Pinot`, `ClickHouse`, Materialize, `RisingWave`
     * trade-offs of pre-aggregation vs raw events
     * incremental view maintenance
     * choosing a real-time analytical store

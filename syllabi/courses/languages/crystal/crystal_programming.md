@@ -11,20 +11,20 @@ audience:
   - audiences:developers
 ---
 <!-- course: crystal_programming -->
-# `Crystal` Programming
+# Crystal Programming
 
 ## Description
-`Crystal` is a statically typed, compiled systems programming language with a syntax inspired by `Ruby`, offering the elegance of a dynamic language with the safety and performance of a compiled one.
+Crystal is a statically typed, compiled systems programming language with a syntax inspired by Ruby, offering the elegance of a dynamic language with the safety and performance of a compiled one.
 Its type inference engine eliminates most explicit annotations, while macros enable powerful compile-time metaprogramming.
-`Crystal` compiles to native code via `LLVM` and features built-in fibers and channels for lightweight concurrency.
-This course covers `Crystal` from first programs through its type system, concurrency model, macros, and web development with the `Kemal` framework.
+Crystal compiles to native code via `LLVM` and features built-in fibers and channels for lightweight concurrency.
+This course covers Crystal from first programs through its type system, concurrency model, macros, and web development with the `Kemal` framework.
 
 ## Duration
 24 hours / 3 days
 
 ## Intended Audience
-* `Ruby` developers looking for a compiled, type-safe alternative
-* Developers wanting native performance without `C`/`C++` complexity
+* Ruby developers looking for a compiled, type-safe alternative
+* Developers wanting native performance without C/`C++` complexity
 * Backend engineers exploring modern compiled language options
 
 ## Prerequisites
@@ -32,7 +32,7 @@ This course covers `Crystal` from first programs through its type system, concur
 * Basic understanding of compiled languages is helpful
 
 ## Objectives
-* Write idiomatic `Crystal` programs using its type system and inference
+* Write idiomatic Crystal programs using its type system and inference
 * Model domains with classes, modules, and structs
 * Implement concurrent programs using fibers and channels
 * Use macros for compile-time code generation
@@ -41,11 +41,11 @@ This course covers `Crystal` from first programs through its type system, concur
 
 ## Outline
 <!-- chapter: introduction-to-crystal, duration: 2h -->
-* Introduction to `Crystal`
+* Introduction to Crystal
     * History and design philosophy
-    * Comparison with `Ruby` and other compiled languages
+    * Comparison with Ruby and other compiled languages
     * Setting up the toolchain
-    * Your first `Crystal` program
+    * Your first Crystal program
     * The `crystal` compiler and `shards` package manager
 
 <!-- chapter: types-and-variables, duration: 2h -->
@@ -106,15 +106,15 @@ This course covers `Crystal` from first programs through its type system, concur
     * Managing dependencies with `shards`
 
 <!-- chapter: c-bindings, duration: 2h -->
-* `C` Bindings
+* C Bindings
     * `lib` declarations
-    * Calling `C` functions from `Crystal`
+    * Calling C functions from Crystal
     * Structs and unions in bindings
     * Managing memory at the boundary
 
 <!-- chapter: testing-and-spec, duration: 2h -->
 * Testing and Spec
-    * `Crystal` Spec framework
+    * Crystal Spec framework
     * Writing unit tests
     * Mocking and stubbing
     * Code coverage
@@ -125,7 +125,7 @@ This course covers `Crystal` from first programs through its type system, concur
     * Request and response handling
     * Middleware
     * Rendering `JSON` APIs
-    * Deploying `Crystal` applications
+    * Deploying Crystal applications
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -33,7 +33,7 @@ and security considerations for multi-cloud network topologies.
 * Site reliability engineers responsible for cross-cloud connectivity and reliability.
 
 ## Prerequisites
-* `Solid` understanding of networking fundamentals (`TCP`/`IP`, routing, `DNS`).
+* `Solid` understanding of networking fundamentals (```TCP``/``IP```, routing, `DNS`).
 * Experience with at least one major cloud provider (`AWS`, `Azure`, or `GCP`).
 * Familiarity with `VPN` and `firewall` concepts.
 

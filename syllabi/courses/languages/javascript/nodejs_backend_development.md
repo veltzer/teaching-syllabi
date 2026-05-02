@@ -26,7 +26,7 @@ This course provides a comprehensive guide to building backend applications and 
 * Development teams adopting `Node.js` for their server-side stack
 
 ## Prerequisites
-* `Solid` understanding of `JavaScript` (`ES6`+ features including promises and `async`/`await`)
+* `Solid` understanding of `JavaScript` (`ES6`+ features including promises and async/await)
 * Familiarity with `HTTP` protocol and `REST API` concepts
 * Basic knowledge of `JSON` and working with APIs
 * Experience with `npm` and command-line tools
@@ -40,12 +40,12 @@ This course provides a comprehensive guide to building backend applications and 
 ## Objectives
 * Understand `Node.js` architecture including the event loop, V8, and `libuv`
 * Manage packages and dependencies with `npm`, `yarn`, and pnpm
-* Write asynchronous code using callbacks, promises, and `async`/`await`
+* Write asynchronous code using callbacks, promises, and async/await
 * Build `REST APIs` with `Express.js` including routing, middleware, and error handling
 * Implement authentication and authorization using `JWT`, `OAuth2`, and Passport
 * Integrate `PostgreSQL` (with `Sequelize` and Prisma) and `MongoDB` (with Mongoose)
-* Validate input, handle `file` uploads, and implement `WebSocket` communication
-* Write tests with `Jest` and Supertest for reliable backend code
+* Validate input, handle file uploads, and implement `WebSocket` communication
+* Write tests with Jest and Supertest for reliable backend code
 * Configure logging with Winston and Pino
 * Containerize `Node.js` applications with `Docker` and deploy with PM2
 * Apply security best practices following `OWASP` guidelines for `Node.js`
@@ -65,7 +65,7 @@ This course provides a comprehensive guide to building backend applications and 
     * `npm`, `yarn`, and pnpm comparison and usage
     * package.`json` configuration and scripts
     * Semantic versioning and dependency management
-    * CommonJS modules (`require`/module.exports)
+    * CommonJS modules (require/module.exports)
     * ES modules (import/export) and interoperability
     * Creating and publishing packages
 <!-- chapter: asynchronous-programming, duration: 3h -->
@@ -73,7 +73,7 @@ This course provides a comprehensive guide to building backend applications and 
     * Understanding the asynchronous nature of `Node.js`
     * Callbacks and callback patterns
     * Promises and promise chaining
-    * `async`/`await` syntax and error handling
+    * async/await syntax and error handling
     * Promise.all, Promise.allSettled, Promise.race
     * Event emitters and streams
     * Worker threads for `CPU`-intensive tasks
@@ -117,13 +117,13 @@ This course provides a comprehensive guide to building backend applications and 
 * Input Validation, `File` Uploads, and WebSockets
     * Input validation and sanitization strategies
     * `File` upload handling with Multer
-    * Streaming large `file` uploads and downloads
+    * Streaming large file uploads and downloads
     * Introduction to WebSockets with Socket.IO
     * Real-time communication patterns
     * Broadcasting and rooms
 <!-- chapter: testing-node-js-applications, duration: 2h -->
 * Testing `Node.js` Applications
-    * Setting up `Jest` for `Node.js` testing
+    * Setting up Jest for `Node.js` testing
     * Unit testing services and utility functions
     * Integration testing with Supertest
     * Mocking databases and external services
@@ -135,7 +135,7 @@ This course provides a comprehensive guide to building backend applications and 
     * High-performance logging with Pino
     * Log levels, transports, and log rotation
     * Centralized error handling patterns
-    * Health `check` endpoints
+    * Health check endpoints
     * Application monitoring and metrics
 <!-- chapter: typescript-with-node-js, duration: 2h -->
 * `TypeScript` with `Node.js`

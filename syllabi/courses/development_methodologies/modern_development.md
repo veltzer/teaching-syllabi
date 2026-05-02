@@ -18,7 +18,7 @@ audience:
 ## Description
 This course discusses some of the leading topics of development from the experience
 of professional developers: Configuration management, Build systems, Modern QA and Team leading.
-It discusses `when` some of these tools and/or ideas help you do more and `when` and why they sometimes
+It discusses when some of these tools and/or ideas help you do more and when and why they sometimes
 fail.
 
 ## Duration
@@ -42,12 +42,12 @@ fail.
 * Configuration management
     * comparing various tools (`git`, ClearCase, aegis, CVS, BitKeeper, `subversion`).
     * the most important principles of configuration management.
-    * the most common mistakes that companies do `when` managing configuration.
+    * the most common mistakes that companies do when managing configuration.
     * free commit via reviewed commit.
     * size of development team and delegation of power.
 <!-- chapter: build-system, duration: 2h -->
 * Build system
-    * comparing various tools (`make`, cook, `cmake`, SCONS, `maven`).
+    * comparing various tools (`make`, cook, cmake, SCONS, `maven`).
     * treating your build system as a product.
     * making it possible to deliver the build system to a client.
     * holistic build systems.
@@ -58,7 +58,7 @@ fail.
 <!-- chapter: modern-qa, duration: 2h -->
 * Modern QA
     * is a separate QA team necessary ?
-    * `when` to bring in a separate QA team ?
+    * when to bring in a separate QA team ?
     * QA within the code
         * automatic testing.
         * peer and management review.

@@ -20,7 +20,7 @@ audience:
 ## Description
 The catalog covers `API` design, `API` gateway patterns, and `microservices` architecture. None of those are
 the same conversation as the `BFF` pattern. The `BFF` pattern sits between a single client (a mobile app,
-a web `SPA`, a desktop client) and the `rest` of the system. It exists because a generic `API` is rarely the
+a web `SPA`, a desktop client) and the rest of the system. It exists because a generic `API` is rarely the
 right `API` for a specific client, and because the alternative — push the orchestration into the client —
 is consistently a bad idea.
 
@@ -29,8 +29,8 @@ shapes, the anti-patterns (the most common being a `BFF` that grows into a gener
 relationship to `GraphQL` and `tRPC`, the testing model, the deployment model, the team-ownership
 question (is the `BFF` owned by the client team or the platform team?), and the operational reality of
 running per-client `BFF` services. Examples are drawn from public engineering writing by `SoundCloud`,
-`Spotify`, `Netflix`, and the `BFF` pattern as documented by `Sam Newman`. Participants leave able to
-decide `when` to introduce a `BFF`, who should own it, and how to keep it from collapsing into a `monolith`.
+`Spotify`, Netflix, and the BFF pattern as documented by `Sam Newman`. Participants leave able to
+decide when to introduce a `BFF`, who should own it, and how to keep it from collapsing into a `monolith`.
 
 ## Duration
 16 hours / 2 days
@@ -47,7 +47,7 @@ decide `when` to introduce a `BFF`, who should own it, and how to keep it from c
 * familiarity with at least one frontend platform (web, mobile)
 
 ## Objectives
-* explain `when` a `BFF` is the right pattern and `when` it is not
+* explain when a `BFF` is the right pattern and when it is not
 * design a `BFF` that does not become a generic gateway
 * assign ownership of a `BFF` to the right team
 * test and deploy a `BFF` independently of the clients
@@ -57,7 +57,7 @@ decide `when` to introduce a `BFF`, who should own it, and how to keep it from c
 ## Outline
 <!-- chapter: what-the-bff-pattern-is, duration: 1h -->
 * What the `BFF` pattern is
-    * the canonical Sam `Newman` article
+    * the canonical Sam Newman article
     * "one backend per experience"
     * the difference from a `general API` gateway
     * cross-reference to the `API` Gateway Patterns course
@@ -131,7 +131,7 @@ decide `when` to introduce a `BFF`, who should own it, and how to keep it from c
     * design walkthrough of a web `BFF`
     * the migration from no-`BFF` to `BFF`
     * the migration from one-big-`BFF` to per-experience-`BFF`
-    * recommended reading: `Newman`'s `BFF` writing, the `SoundCloud` and `Netflix` posts
+    * recommended reading: Newman's `BFF` writing, the SoundCloud and `Netflix` posts
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

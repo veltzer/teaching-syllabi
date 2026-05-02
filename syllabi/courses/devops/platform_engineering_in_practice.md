@@ -28,7 +28,7 @@ and operate accordingly.
 
 This five day course is the implementation-and-operation complement to the philosophical platform engineering
 material already in the catalog. It covers the platform-as-product mindset, golden paths and paved roads,
-internal developer platforms (`Backstage`, `Port`, `Cortex`, `OpsLevel`), self-service infrastructure,
+internal developer platforms (`Backstage`, Port, Cortex, `OpsLevel`), self-service infrastructure,
 templating and scaffolding, internal `APIs` and abstractions, the operational story for platforms, and the
 organizational shape that makes platform teams successful. Participants leave able to design, ship and
 operate a platform that engineers actually want to use.
@@ -45,7 +45,7 @@ operate a platform that engineers actually want to use.
 
 ## Prerequisites
 * `solid` `DevOps` or `SRE` experience
-* working knowledge of `Kubernetes`, at least one cloud, `IaC`, `CI`/`CD`
+* working knowledge of `Kubernetes`, at least one cloud, IaC, CI/`CD`
 * experience operating production services
 * basic familiarity with `Backstage` or another `IDP` is helpful but not required
 
@@ -86,7 +86,7 @@ operate a platform that engineers actually want to use.
 <!-- chapter: internal-developer-platforms, duration: 4h -->
 * Internal developer platforms
     * the `IDP` concept and what it covers
-    * `Backstage`, `Port`, `Cortex`, `OpsLevel`, `Humanitec`
+    * `Backstage`, Port, Cortex, OpsLevel, `Humanitec`
     * the service catalog as the entry point
     * scorecards and maturity models
     * `TechDocs` and developer documentation in the `IDP`
@@ -96,7 +96,7 @@ operate a platform that engineers actually want to use.
 * Scaffolding and templates
     * the new-service experience
     * `Backstage` software templates
-    * `Cookiecutter`, `copier`, `yeoman`
+    * `Cookiecutter`, copier, `yeoman`
     * the "five-minute new service" goal
     * versioning and updating templates after the fact
     * keeping templates from becoming dependencies
@@ -177,7 +177,7 @@ operate a platform that engineers actually want to use.
     * the reorg that dissolved the platform team
     * how to recognize each early
     * design walkthrough of a platform program for a sample organization
-    * recommended reading: `Skelton`/`Pais`, `CNCF` whitepaper, `Bottcher`
+    * recommended reading: `Skelton`/Pais, `CNCF` whitepaper, `Bottcher`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

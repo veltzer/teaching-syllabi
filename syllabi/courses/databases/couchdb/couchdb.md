@@ -15,7 +15,7 @@ audience:
 ## Description
 This course provides comprehensive training in `Apache CouchDB`, a document-oriented `NoSQL` database that uses `JSON` for documents, `JavaScript` for `MapReduce` queries, and `HTTP` for its `API`. Participants will learn to design document schemas, write views and queries, configure replication, and build offline-first applications with PouchDB.
 
-The course emphasizes practical experience with real-world scenarios, preparing developers to leverage `CouchDB` for distributed, fault-tolerant applications that `require` reliable data synchronization.
+The course emphasizes practical experience with real-world scenarios, preparing developers to leverage `CouchDB` for distributed, fault-tolerant applications that require reliable data synchronization.
 
 ## Duration
 16 hours / 2 days
@@ -116,7 +116,7 @@ Hands-on lab exercises covering document management, view creation, query writin
     * Partial indexes for efficiency
     * Sort operations
     * Execution statistics and EXPLAIN
-    * Mango vs `MapReduce`: `when` to use each
+    * Mango vs `MapReduce`: when to use each
 
 <!-- chapter: replication, duration: 1h -->
 * Replication

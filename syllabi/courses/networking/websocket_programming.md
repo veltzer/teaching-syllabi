@@ -25,7 +25,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 * Software engineers working on chat, collaboration, or streaming systems
 
 ## Prerequisites
-* Proficiency in `JavaScript` and at least one server-side language (`Node.js`, `Python`, or `Go`)
+* Proficiency in `JavaScript` and at least one server-side language (`Node.js`, `Python`, or Go)
 * Understanding of `HTTP` protocol and client-server communication
 * Familiarity with `HTML`, `CSS`, and browser developer tools
 * Basic understanding of networking concepts (`TCP`, ports, `DNS`)
@@ -40,7 +40,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 * Understand the `WebSocket` protocol, handshake, and frame structure
 * Compare WebSockets with `HTTP` long polling and `Server-Sent Events`
 * Implement `WebSocket` clients using the browser `API`
-* Build `WebSocket` servers using ws for `Node.js`, websockets for `Python`, and Gorilla for `Go`
+* Build `WebSocket` servers using ws for `Node.js`, websockets for `Python`, and Gorilla for Go
 * Use Socket.IO for feature-rich real-time communication
 * Scale `WebSocket` deployments with sticky sessions and `Redis` pub/sub
 * Handle authentication, heartbeats, reconnection, and security
@@ -53,7 +53,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
     * Why WebSockets exist: limitations of `HTTP` request-response
     * The `WebSocket` handshake: upgrade from `HTTP`
     * `WebSocket` URI schemes: ws:// and wss://
-    * Frames and opcodes: text, binary, `ping`, pong, close
+    * Frames and opcodes: text, binary, ping, pong, close
     * Control frames and data frames
     * Connection lifecycle: open, message, error, close
     * Close codes and `clean` shutdown
@@ -62,7 +62,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
     * `HTTP` polling and long polling
     * `Server-Sent Events` (`SSE`)
     * `WebSocket` vs `SSE` vs long polling: trade-offs
-    * `When` to use WebSockets and `when` alternatives suffice
+    * `When` to use WebSockets and when alternatives suffice
     * `HTTP`/2 server push vs WebSockets
     * Choosing the right technology for your use case
 <!-- chapter: browser-websocket-api, duration: 1h -->
@@ -77,8 +77,8 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 * Server Implementations
     * ws library for `Node.js`: setup and usage
     * Handling connections, messages, and disconnections in `Node.js`
-    * websockets library for `Python`: `async` server and client
-    * `Gorilla WebSocket` for `Go`: upgrader and connection handling
+    * websockets library for `Python`: async server and client
+    * `Gorilla WebSocket` for Go: upgrader and connection handling
     * Broadcasting messages to multiple clients
     * Connection management and client tracking
 <!-- chapter: socket-io, duration: 2h -->
@@ -108,7 +108,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
     * Revoking access on active connections
 <!-- chapter: heartbeats-and-reconnection, duration: 1h -->
 * Heartbeats and Reconnection
-    * Implementing `ping`/pong heartbeats
+    * Implementing ping/pong heartbeats
     * Detecting stale connections
     * Client-side reconnection strategies with exponential backoff
     * Server-side connection cleanup

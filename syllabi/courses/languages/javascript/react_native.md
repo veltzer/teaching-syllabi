@@ -13,23 +13,23 @@ audience:
 # `React Native` Mobile Development
 
 ## Description
-`React Native` enables developers to build native mobile applications for `iOS` and `Android` using `JavaScript` and `React`. This course covers the full spectrum of `React Native` development, from core components and navigation to native modules, animations, and deployment. Students will learn to build production-ready mobile applications with modern tooling including Expo, `React Navigation`, Reanimated, and testing frameworks.
+`React Native` enables developers to build native mobile applications for `iOS` and `Android` using `JavaScript` and React. This course covers the full spectrum of `React Native` development, from core components and navigation to native modules, animations, and deployment. Students will learn to build production-ready mobile applications with modern tooling including Expo, `React Navigation`, Reanimated, and testing frameworks.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* `JavaScript` and `React` developers transitioning to mobile development
+* `JavaScript` and React developers transitioning to mobile development
 * Mobile developers exploring cross-platform solutions
 * Full-stack developers adding mobile capabilities to their skill set
 * `TypeScript` developers building type-safe mobile applications
 * Development teams evaluating cross-platform mobile frameworks
 
 ## Prerequisites
-* Strong proficiency in `JavaScript` (`ES6`+) and `React` fundamentals
+* Strong proficiency in `JavaScript` (`ES6`+) and React fundamentals
 * Understanding of JSX, component lifecycle, hooks, and state management
 * Basic familiarity with `TypeScript` syntax and `type-annotations`
-* Knowledge of `REST APIs` and asynchronous programming (`async`/`await`, Promises)
+* Knowledge of `REST APIs` and asynchronous programming (async/await, Promises)
 * Experience with `npm` or `yarn` package management
 * A `macOS` machine is required for `iOS` development and testing
 
@@ -44,14 +44,14 @@ audience:
 * Create fluid animations using Reanimated and `Gesture Handler`
 * Integrate with device APIs, native modules, and third-party services
 * Set up and use Expo for rapid development and simplified workflows
-* Write and run tests using `Jest` and Detox
+* Write and run tests using Jest and Detox
 * Build, sign, and deploy applications to the `App Store` and `Google Play`
 
 ## Outline
 <!-- chapter: introduction-to-react-native, duration: 3h -->
 * Introduction to `React Native`
     * What is `React Native` and how it bridges to native platforms
-    * Comparison with other cross-platform frameworks (`Flutter`, `Ionic`)
+    * Comparison with other cross-platform frameworks (`Flutter`, Ionic)
     * Development environment setup: `React Native CLI` vs Expo
     * Setting up `Android Studio` and `Xcode`
     * Creating your first `React Native` application
@@ -71,7 +71,7 @@ audience:
 * Navigation with `React Navigation`
     * Installing and configuring `React Navigation`
     * Stack navigation and screen transitions
-    * Tab navigation: bottom tabs and material `top` tabs
+    * Tab navigation: bottom tabs and material top tabs
     * Drawer navigation and custom drawer content
     * Passing parameters between screens
     * Nested navigators and complex navigation structures
@@ -89,17 +89,17 @@ audience:
 <!-- chapter: the-expo-framework, duration: 3h -->
 * The Expo Framework
     * Expo architecture and managed vs bare workflows
-    * `Expo Router` for `file`-based navigation
-    * Expo modules: camera, location, notifications, `file` system
+    * `Expo Router` for file-based navigation
+    * Expo modules: camera, location, notifications, file system
     * `EAS Build` and `EAS Submit` for cloud builds
     * Expo configuration and app manifest (app.`json`/app.config.js)
     * Over-the-air updates with `EAS Update`
     * Ejecting from Expo and custom development clients
 <!-- chapter: platform-specific-code-and-native-modules, duration: 3h -->
 * Platform-Specific Code and Native Modules
-    * Platform module and platform-specific `file` extensions
+    * Platform module and platform-specific file extensions
     * Conditional rendering and logic based on platform
-    * Creating native modules for `iOS` (`Swift`/`Objective-C`)
+    * Creating native modules for `iOS` (Swift/`Objective-C`)
     * Creating native modules for `Android` (`Kotlin`/`Java`)
     * Using `Turbo Modules` and the new architecture
     * Bridging native UI components with Fabric
@@ -131,7 +131,7 @@ audience:
     * Profiling `JavaScript` and native performance
     * Common performance pitfalls and optimization strategies
     * Reducing re-renders and optimizing FlatList performance
-    * Unit testing with `Jest` and `React Native Testing Library`
+    * Unit testing with Jest and `React Native Testing Library`
     * End-to-end testing with Detox
     * Snapshot testing for UI consistency
 <!-- chapter: building-and-deploying, duration: 4h -->

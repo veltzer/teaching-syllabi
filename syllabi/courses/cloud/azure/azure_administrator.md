@@ -62,7 +62,7 @@ The course balances conceptual understanding with hands-on practice, ensuring pa
     * `Azure` storage accounts and types
     * Blob storage (hot, cool, archive tiers)
     * Lifecycle management policies
-    * `Azure Files` and `file` share configuration
+    * `Azure Files` and file share configuration
     * `Azure File Sync`
     * Table storage
     * Queue storage

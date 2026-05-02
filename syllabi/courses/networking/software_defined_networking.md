@@ -73,7 +73,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
     * Floodlight: lightweight `Java`-based controller
     * Controller clustering and high availability
     * Controller-switch communication
-    * Building applications on `top` of controllers
+    * Building applications on top of controllers
 <!-- chapter: network-functions-virtualization-nfv, duration: 2h -->
 * Network Functions Virtualization (NFV)
     * NFV concepts and architecture
@@ -116,7 +116,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
     * `AWS` `VPC` internals: subnets, route tables, security groups, NACLs
     * `AWS` networking services: `Transit Gateway`, PrivateLink, `VPC` peering
     * `Azure` `VNet`: architecture, NSGs, and service endpoints
-    * `GCP` `VPC`: global networking, `firewall` rules, and shared `VPC`
+    * `GCP` `VPC`: global networking, firewall rules, and shared `VPC`
     * Multi-cloud networking strategies
     * Cloud network automation with `Terraform`
     * Hybrid cloud connectivity
@@ -143,7 +143,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 <!-- chapter: service-mesh-networking, duration: 1h -->
 * Service Mesh Networking
     * Service mesh architecture and data plane proxies
-    * `Envoy` proxy and its networking capabilities
+    * Envoy proxy and its networking capabilities
     * Traffic management: routing, load balancing, retries
     * mTLS and service-to-service encryption
     * Observability through the service mesh

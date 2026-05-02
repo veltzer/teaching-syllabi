@@ -17,7 +17,7 @@ audience:
 # Load Testing Deep Dive
 
 ## Description
-This two day course provides an in-depth exploration of load testing methodology and tooling. Participants will gain hands-on experience with `k6` and `Locust`, learn test design best practices including correlation, parameterization, and think times, and integrate load testing into `CI/CD` pipelines for continuous performance validation.
+This two day course provides an in-depth exploration of load testing methodology and tooling. Participants will gain hands-on experience with `k6` and Locust, learn test design best practices including correlation, parameterization, and think times, and integrate load testing into `CI/CD` pipelines for continuous performance validation.
 
 ## Duration
 16 hours / 2 days
@@ -38,7 +38,7 @@ This two day course provides an in-depth exploration of load testing methodology
 
 ## Objectives
 * Design effective load test scenarios using proven methodologies.
-* Write and execute load tests with `k6` and `Locust`.
+* Write and execute load tests with `k6` and Locust.
 * Apply correlation, parameterization, and think time strategies.
 * Implement ramp-up strategies for realistic load simulation.
 * Integrate load tests into `CI/CD` pipelines.
@@ -65,11 +65,11 @@ This two day course provides an in-depth exploration of load testing methodology
     * Extensions and protocol support
     * `k6 Cloud` and distributed execution
 <!-- chapter: locust, duration: 1h -->
-* `Locust`
-    * `Locust` architecture and event-driven model
+* Locust
+    * Locust architecture and event-driven model
     * Writing test scripts in `Python`
     * Custom load shapes and user classes
-    * Distributed `Locust` deployments
+    * Distributed Locust deployments
 <!-- chapter: correlation-and-parameterization, duration: 1h -->
 * Correlation and Parameterization
     * Extracting dynamic values from responses
@@ -87,7 +87,7 @@ This two day course provides an in-depth exploration of load testing methodology
     * Linear, stepped, and custom ramp-up profiles
     * Spike testing and sudden load patterns
     * Soak testing for memory leak detection
-    * Stress testing to `find` breaking points
+    * Stress testing to find breaking points
 <!-- chapter: ci-cd-integration, duration: 2h -->
 * `CI/CD` Integration
     * Automating load tests in pipelines

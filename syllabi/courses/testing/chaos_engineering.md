@@ -112,7 +112,7 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
     * toxiproxy overview and architecture
     * Installing and configuring toxiproxy
     * Simulating latency, bandwidth limits, and connection resets
-    * toxiproxy client libraries for `Go`, `Python`, `Ruby`, `Java`
+    * toxiproxy client libraries for Go, `Python`, Ruby, `Java`
     * Integrating toxiproxy with integration tests
     * Network partition simulation
 <!-- chapter: failure-injection-techniques, duration: 2h -->

@@ -11,25 +11,25 @@ audience:
   - audiences:architects
 ---
 <!-- course: zephyr_rtos -->
-# `Zephyr` RTOS
+# Zephyr RTOS
 
 ## Description
-`Zephyr` is a scalable, open-source real-time operating system designed for
-resource-constrained devices. This course provides a thorough exploration of the `Zephyr`
+Zephyr is a scalable, open-source real-time operating system designed for
+resource-constrained devices. This course provides a thorough exploration of the Zephyr
 RTOS, from its build system and kernel fundamentals to advanced topics such as networking,
 security, and porting to new hardware. Students will gain the skills needed to develop,
-test, and debug embedded applications on `Zephyr`-supported platforms.
+test, and debug embedded applications on Zephyr-supported platforms.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Embedded developers looking to adopt `Zephyr` for new or existing projects.
+* Embedded developers looking to adopt Zephyr for new or existing projects.
 * Firmware engineers transitioning from other RTOS platforms.
 * Developers who want to understand modern embedded RTOS architecture.
 
 ## Prerequisites
-* `Solid` `C` programming skills.
+* `Solid` C programming skills.
 * Basic understanding of embedded systems and microcontrollers.
 * Familiarity with `Linux` command line and build tools.
 
@@ -37,15 +37,15 @@ test, and debug embedded applications on `Zephyr`-supported platforms.
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* understand the core concepts and principles of `Zephyr` RTOS
-* gain practical knowledge of the `Zephyr` build system and tooling
+* understand the core concepts and principles of Zephyr RTOS
+* gain practical knowledge of the Zephyr build system and tooling
 * gain practical knowledge of kernel primitives and synchronization
-* gain practical knowledge of device drivers and networking in `Zephyr`
+* gain practical knowledge of device drivers and networking in Zephyr
 
 ## Outline
 <!-- chapter: zephyr-overview-and-architecture, duration: 2h -->
-* `Zephyr` Overview and Architecture
-    * What is `Zephyr` RTOS
+* Zephyr Overview and Architecture
+    * What is Zephyr RTOS
     * Project history and governance
     * Architecture overview
     * Supported hardware and boards
@@ -123,7 +123,7 @@ test, and debug embedded applications on `Zephyr`-supported platforms.
     * Secure storage
 <!-- chapter: testing-and-debugging, duration: 3h -->
 * Testing and Debugging
-    * `Zephyr` testing framework (ztest)
+    * Zephyr testing framework (ztest)
     * Native `POSIX` port for testing
     * Twister test runner
     * Debugging with `GDB` and OpenOCD

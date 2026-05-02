@@ -27,13 +27,13 @@ This course covers `Perl` from the basics through advanced topics including obje
 * Anyone who wants to learn a versatile scripting language
 
 ## Prerequisites
-* Prior programming experience in another language such as `Python`, `Bash`, or `C`
+* Prior programming experience in another language such as `Python`, Bash, or C
 * Basic familiarity with the command line
 * Understanding of fundamental programming concepts
 
 ## Required Knowledge
 * `Python` Programming (or equivalent experience)
-* `Bash` Scripting (or equivalent experience)
+* Bash Scripting (or equivalent experience)
 
 ## Objectives
 * Write `Perl` programs using scalars, arrays, and hashes
@@ -92,7 +92,7 @@ This course covers `Perl` from the basics through advanced topics including obje
     * `while-loop`, `until-loop`, `for-loop`, foreach
     * Loop control (next, last, redo)
     * Statement modifiers
-    * given/`when` (switch)
+    * given/when (switch)
     * Ternary operator
 <!-- chapter: subroutines-and-references, duration: 2h -->
 * Subroutines and References
@@ -103,7 +103,7 @@ This course covers `Perl` from the basics through advanced topics including obje
     * Anonymous references
     * Dereferencing
     * Nested data structures
-    * The `ref` function
+    * The ref function
 <!-- chapter: file-i-o, duration: 2h -->
 * `File` `I/O`
     * Opening and closing files
@@ -115,7 +115,7 @@ This course covers `Perl` from the basics through advanced topics including obje
     * Working with STDIN, STDOUT, STDERR
 <!-- chapter: modules-and-cpan, duration: 2h -->
 * Modules and CPAN
-    * Using modules with use and `require`
+    * Using modules with use and require
     * The @INC path
     * Creating your own modules
     * Introduction to CPAN
@@ -151,7 +151,7 @@ This course covers `Perl` from the basics through advanced topics including obje
     * Running external commands (system, backticks, open)
     * Process management
     * `File` and directory manipulation
-    * Log `file` analysis
+    * Log file analysis
     * Automating system tasks
     * Working with environment variables
 <!-- chapter: testing-with-test-more, duration: 2h -->

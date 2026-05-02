@@ -105,7 +105,7 @@ The course emphasizes practical, data-driven approaches to performance tuning, e
     * Setting appropriate thresholds
     * Using mysqldumpslow for log analysis
     * pt-query-digest for advanced analysis
-    * Identifying `top` offending queries
+    * Identifying top offending queries
     * Long-running query management
 <!-- chapter: performance-schema, duration: 1h -->
 * `Performance Schema`
@@ -137,7 +137,7 @@ The course emphasizes practical, data-driven approaches to performance tuning, e
     * Partition pruning and its impact on queries
     * Partitioning large tables
     * Partition maintenance operations
-    * `When` partitioning helps and `when` it does not
+    * `When` partitioning helps and when it does not
 <!-- chapter: connection-pooling, duration: 2h -->
 * Connection Pooling
     * Connection overhead in `MySQL`

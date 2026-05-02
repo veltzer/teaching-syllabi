@@ -78,10 +78,10 @@ This course covers the strategies, tools, and best practices for migrating workl
     * `AWS Schema Conversion Tool` for schema transformation
     * Continuous replication and change data capture
     * Validating data migration completeness
-    * Common migration scenarios (`Oracle` to `Aurora`, `SQL Server` to `PostgreSQL`)
+    * Common migration scenarios (Oracle to Aurora, `SQL Server` to `PostgreSQL`)
 <!-- chapter: storage-migration, duration: 2h -->
 * Storage Migration
-    * `AWS DataSync` for `file` and object transfer
+    * `AWS DataSync` for file and object transfer
     * `AWS Transfer Family` for `SFTP`, `FTPS`, and `FTP` workflows
     * `AWS Snow Family` (`Snowcone`, `Snowball`, `Snowmobile`) for large-scale transfers
     * `S3` Transfer Acceleration

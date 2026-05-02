@@ -88,7 +88,7 @@ and have completed the data science course.
     * Training, Validating and Testing Data
     * Exploratory Analysis
     * Types of data/features
-    * `Pandas` package (`Python`)
+    * Pandas package (`Python`)
         * Series and DataFrame
         * Selecting data
         * Grouping and aggregation

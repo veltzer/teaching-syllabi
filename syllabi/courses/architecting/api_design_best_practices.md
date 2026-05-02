@@ -74,7 +74,7 @@ This course covers the principles and best practices for designing robust, scala
 <!-- chapter: pagination-filtering-sorting-and-searching, duration: 2h -->
 * Pagination, Filtering, Sorting, and Searching
     * Offset-based pagination
-    * `Cursor`-based pagination
+    * Cursor-based pagination
     * Keyset pagination
     * Filtering patterns and query syntax
     * Sorting conventions

@@ -79,7 +79,7 @@ This course provides an in-depth exploration of `Grafana`, the leading open-sour
 * Alerting:
     * `Grafana` unified alerting architecture
     * Alert rules and evaluation
-    * Contact points (email, `Slack`, `PagerDuty`, webhooks)
+    * Contact points (email, Slack, `PagerDuty`, webhooks)
     * Notification policies and routing
     * Silences and mute timings
     * Alert grouping and deduplication

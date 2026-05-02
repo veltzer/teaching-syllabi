@@ -74,7 +74,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
 * Installation and Configuration
     * System requirements and sizing guidelines
     * Installation methods and packages
-    * Directory structure and `file` layout
+    * Directory structure and file layout
     * `elasticsearch`.yml configuration
     * `JVM` configuration and heap sizing
     * Network and transport settings
@@ -248,7 +248,7 @@ Each student should have:
 * `Elasticsearch` and `Kibana` will be installed during the course
 * Modern web browser for accessing `Kibana` interface
 * Text editor or IDE with `JSON` syntax highlighting
-* `curl` or `Postman` for `REST API` testing
+* `curl` or Postman for `REST API` testing
 * For cloud exercises: trial account for `Elastic Cloud` (14-day free trial)
 * Network connectivity between all nodes for cluster formation
 * Basic familiarity with command-line tools and `SSH` for remote access

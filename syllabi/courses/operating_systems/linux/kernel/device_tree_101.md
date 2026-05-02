@@ -27,7 +27,7 @@ object of providing board support or tuning your kernel to a specific purpose.
 * system programmers working on low-level software
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` system administration
 
 ## Required Knowledge

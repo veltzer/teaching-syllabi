@@ -55,7 +55,7 @@ audience:
     * What is `Playwright` and its design goals
     * Multi-browser support: Chromium, Firefox, WebKit
     * Auto-waiting and built-in reliability
-    * `Playwright` vs `Selenium` vs `Cypress` comparison
+    * `Playwright` vs `Selenium` vs Cypress comparison
     * Browser contexts and isolation model
     * The `Playwright` ecosystem and community
 <!-- chapter: installation-and-project-setup, duration: 1h -->
@@ -68,11 +68,11 @@ audience:
     * Running the first test
 <!-- chapter: writing-tests-locators-assertions-and-actions, duration: 1h -->
 * Writing Tests: Locators, Assertions, and Actions
-    * Test `file` structure and test syntax
+    * Test file structure and test syntax
     * Locator strategies: getByRole, getByText, getByLabel, getByTestId
     * `CSS` and XPath selectors as fallback
     * Web-first assertions with expect
-    * Performing actions: click, fill, select, `check`, hover
+    * Performing actions: click, fill, select, check, hover
     * Working with lists and tables
     * Handling multiple pages and popups
 <!-- chapter: test-generator-codegen, duration: 1h -->
@@ -115,7 +115,7 @@ audience:
 <!-- chapter: authentication-and-storage-state, duration: 1h -->
 * Authentication and Storage State
     * Authenticating once and reusing state
-    * Saving and loading storage state (`JSON` `file`)
+    * Saving and loading storage state (`JSON` file)
     * Multi-user authentication scenarios
     * Global setup for authentication
     * Handling token refresh in long test suites
@@ -172,7 +172,7 @@ audience:
     * Avoiding flaky tests and common pitfalls
     * Performance optimization for large test suites
     * Custom matchers and assertions
-    * `Playwright` vs `Cypress` vs `Selenium`: choosing the right tool
+    * `Playwright` vs Cypress vs `Selenium`: choosing the right tool
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

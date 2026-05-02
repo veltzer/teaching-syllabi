@@ -46,7 +46,7 @@ of multi-`threading` in `Java`.
 <!-- chapter: your-very-first-program, duration: 4h -->
 * Your very first program
     * Using development environments
-    * `Eclipse`
+    * Eclipse
     * IntelliJ
     * Using the command line
     * Compiling
@@ -94,7 +94,7 @@ of multi-`threading` in `Java`.
 * Input and output
     * The `File` class
     * The Stream abstraction
-    * Basic `file` manipulation
+    * Basic file manipulation
     * Dealing with directories
     * Stream decorators
 <!-- chapter: jdbc, duration: 2h -->

@@ -15,7 +15,7 @@ audience:
   - audiences:devops
 ---
 <!-- course: python_programming -->
-<!-- Track gap: `Python` automation with `Selenium` (basic `Selenium` integration example) -->
+<!-- Track gap: Python automation with Selenium (basic Selenium integration example) -->
 # `Python` Programming
 
 ## Description
@@ -40,7 +40,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 * Data scientists and `Machine Learning` experts who wish to enhance their toolkits with `Python`.
 
 ## Prerequisites
-* Prior programming experience in another language such as `Go`, `Java`, `C#` or `C`/`C++` is an advantage.
+* Prior programming experience in another language such as Go, `Java`, `C#` or C/`C++` is an advantage.
 
 ## Objectives
 * Understand how `Python` works behind the scenes
@@ -129,7 +129,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 <!-- chapter: functions, duration: 2h -->
 * Functions (4 hours)
     * Why do we need functions
-    * defining functions with the `def` keyword
+    * defining functions with the def keyword
     * default values for arguments
     * arbitrary argument lists: *args
     * keyword arguments: **kwargs
@@ -191,12 +191,12 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 <!-- chapter: using-third-party-modules-and-packaging-modules, duration: 1h -->
 * Using third party modules and packaging modules (2 hours)
     * Built in `Python` modules
-        * `pip`
+        * pip
     * Downloading, installing and using modules off the net
 <!-- chapter: creating-modules, duration: 2h -->
 * Creating Modules (2 hours)
     * Directory structure
-    * __init__.py `file` and code in it
+    * __init__.py file and code in it
     * Using nearby modules
     * Global code in your module
     * Writing functions and classes in your module
@@ -218,11 +218,11 @@ The reason for this is that most companies production environment is `Linux` and
 and so it is better to practice on an environment as similar as possible to the production environment
 as opposed to an environment used to read emails.
 * 4 GB `RAM` for each machine is enough. This is not much.
-* Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via `pip`.
+* Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via pip.
 * Username and password of a user that has `sudo` privileges on the machine.
 * [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
 * While `Ubuntu` is the best to exercise `Python` users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them out with issues.
-* No need to install `Python` yourself as I will help the students to install `Python` `when` the course starts.
+* No need to install `Python` yourself as I will help the students to install `Python` when the course starts.
 * Students who wish to practice on `Windows` may do so, but be sure that you can install `Python` on your machine
 (some companies and enterprises prohibit installation of software on developers machines).
 Be aware that `Python` was designed with `UNIX` in mind and so some systems programming features

@@ -67,7 +67,7 @@ This two day advanced course provides a comprehensive exploration of Retrieval-A
     * Benchmarking embedding quality
 <!-- chapter: vector-databases, duration: 2h -->
 * Vector Databases
-    * `Pinecone`: managed vector search at scale
+    * Pinecone: managed vector search at scale
     * `Weaviate`: hybrid search and multi-tenancy
     * `ChromaDB`: lightweight and developer-friendly
     * Indexing strategies and performance tuning

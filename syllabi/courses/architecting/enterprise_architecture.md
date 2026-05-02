@@ -80,7 +80,7 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
     * Mediation and routing
     * Protocol transformation
     * ESB products overview
-    * `When` to use and `when` to avoid ESB
+    * `When` to use and when to avoid ESB
     * `Event-driven architecture` as an alternative
 <!-- chapter: message-brokers, duration: 2h -->
 * Message Brokers
@@ -97,7 +97,7 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
     * Rate limiting and throttling
     * `API` versioning strategies
     * Developer portals and documentation
-    * `API` security (`OAuth 2.0`, `API` keys, `JWT`)
+    * `API` security (`OAuth 2.0`, ```API`` keys`, `JWT`)
     * `API` monetization
 <!-- chapter: data-architecture, duration: 2h -->
 * Data Architecture

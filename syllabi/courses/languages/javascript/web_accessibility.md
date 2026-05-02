@@ -28,15 +28,15 @@ Web accessibility ensures that websites and web applications are usable by every
 
 ## Prerequisites
 * `Solid` understanding of `HTML`, `CSS`, and `JavaScript`
-* Experience building web applications with at least one modern framework (`React`, Vue, or `Angular`)
+* Experience building web applications with at least one modern framework (React, Vue, or Angular)
 * Basic knowledge of the DOM and browser developer tools
 * Understanding of form elements and user input handling
 * Familiarity with semantic `HTML` elements and their purposes
 
 ## Required Knowledge
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
-* `React` (or equivalent experience)
-* `Angular` (or equivalent experience)
+* React (or equivalent experience)
+* Angular (or equivalent experience)
 
 ## Objectives
 * Understand the four principles of `WCAG 2.2` and their success criteria
@@ -45,7 +45,7 @@ Web accessibility ensures that websites and web applications are usable by every
 * Create accessible forms, tables, images, and media content
 * Test applications using automated tools and assistive technologies
 * Understand legal requirements including `ADA`, `Section 508`, and the EAA
-* Apply accessibility best practices in `React`, Vue, and `Angular` applications
+* Apply accessibility best practices in React, Vue, and Angular applications
 * Establish accessibility workflows and standards within development teams
 
 ## Outline
@@ -126,10 +126,10 @@ Web accessibility ensures that websites and web applications are usable by every
     * Managing accessibility debt and remediation priorities
 <!-- chapter: accessibility-in-modern-frameworks, duration: 2h -->
 * Accessibility in Modern Frameworks
-    * Accessibility considerations in `React`: JSX semantics, fragments, refs for focus
-    * Accessible `React` component patterns and libraries
+    * Accessibility considerations in React: JSX semantics, fragments, refs for focus
+    * Accessible React component patterns and libraries
     * Accessibility in Vue: template semantics, v-focus, and vue-a11y utilities
-    * Accessibility in `Angular`: CDK a11y module, live announcer, focus trap
+    * Accessibility in Angular: CDK a11y module, live announcer, focus trap
     * Component library accessibility evaluation
     * Establishing accessibility guidelines for development teams
 

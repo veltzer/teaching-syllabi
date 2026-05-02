@@ -18,7 +18,7 @@ duration_hours: 40
 # Web Application Hacking
 
 ## Description
-This course is a practical guide to discovering and exploiting security flaws in web applications. By "web applications" we mean those that are accessed using a web browser to communicate with a web server. We examine a wide variety of different technologies, such as databases, `file` systems, and `web services`, but only in the context in which these are employed by web applications. Throughout the course, we spell out the specific steps you need to follow to detect each type of vulnerability, and how to exploit it to perform unauthorized actions.
+This course is a practical guide to discovering and exploiting security flaws in web applications. By "web applications" we mean those that are accessed using a web browser to communicate with a web server. We examine a wide variety of different technologies, such as databases, file systems, and `web services`, but only in the context in which these are employed by web applications. Throughout the course, we spell out the specific steps you need to follow to detect each type of vulnerability, and how to exploit it to perform unauthorized actions.
 
 ## Duration
 * Short: 16 hours / 2 days
@@ -68,7 +68,7 @@ These are the exercises that we will do:
 <!-- chapter: web-application-in-security, duration: 3h -->
 * Web application (in)security
     * Server OS platforms
-    * Web servers (`Apache`, `nginx`, weblogic, `IIS` etc.)
+    * Web servers (Apache, `nginx`, weblogic, `IIS` etc.)
     * Server-side application frameworks and programming languages
     * Data-stores; Relational (`SQL`), non-relational (`NoSQL`) and document-based
     * Client-side technologies (Browsers, Browser plugins, `HTML`, HTML5, `CSS`, `JavaScript` etc.)
@@ -131,7 +131,7 @@ These are the exercises that we will do:
     * Avoiding Logic Flaws [long]
     * Hardening OS networking stacks [long]
     * Implement host-based firewalls and "good" logging [long]
-    * Hardening web application servers (`Apache`, `IIS`) [long]
+    * Hardening web application servers (Apache, `IIS`) [long]
 <!-- chapter: boot2root-attack-scenario-against-a-server-long, duration: 6h -->
 * boot2root attack scenario against a server [long]
     * Scanning, enumeration and resource mapping

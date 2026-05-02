@@ -84,7 +84,7 @@ This intensive course covers essential `Linux` system administration concepts an
         * Install options and upgrade strategies
         * `apt`-mark for managing package state
         * `apt`-cache for querying package information
-        * `apt`-`file` for finding files in packages
+        * `apt`-file for finding files in packages
         * Transaction simulation
     * dnf/`yum` and rpm (`RHEL`/Fedora)
     * `apt` vs dnf comparison
@@ -174,7 +174,7 @@ This intensive course covers essential `Linux` system administration concepts an
     * nscd name service cache
     * CIS benchmarks and security scanning (Lynis)
     * Chroot jails
-    * `Linux` `file` capabilities
+    * `Linux` file capabilities
     * Restricted shells
     * ulimits deep dive
     * Console access control (/etc/securetty)
@@ -218,8 +218,8 @@ This intensive course covers essential `Linux` system administration concepts an
     * Wireless networking basics
 <!-- chapter: system-monitoring-and-maintenance, duration: 3h -->
 * System Monitoring and Maintenance
-    * Performance monitoring tools (`top`/`htop`, vmstat, iostat, sar, dstat, `perf`)
-        * Understanding `top` output and load average
+    * Performance monitoring tools (top/`htop`, vmstat, iostat, sar, dstat, `perf`)
+        * Understanding top output and load average
         * sar historical data
         * Memory analysis in depth (`/proc/meminfo`)
         * `CPU` analysis tools
@@ -246,13 +246,13 @@ This intensive course covers essential `Linux` system administration concepts an
     * Change management workflow
     * Best practices for production environments
 <!-- chapter: network-services-nginx-apache-haproxy-postfix-optional, duration: 2h -->
-* Network Services (`nginx`, `Apache`, `HAProxy`, Postfix) (optional)
+* Network Services (`nginx`, Apache, `HAProxy`, Postfix) (optional)
     * Web server administration with `nginx`
         * Configuration structure and reverse proxy
         * `SSL`, performance, and security headers
         * Logging, debugging, and worker tuning
         * Reverse proxy for `WebSocket`
-    * Web server administration with `Apache`
+    * Web server administration with Apache
         * `SSL` and reverse proxy
         * MPM models
         * .htaccess configuration
@@ -275,7 +275,7 @@ This intensive course covers essential `Linux` system administration concepts an
         * Thin provisioning
         * Striping and mirroring
         * `LVM` cache (dm-cache)
-        * `LVM` on `top` of `RAID`
+        * `LVM` on top of `RAID`
         * `LVM` best practices for virtual machines
         * `LVM` troubleshooting
     * `RAID` configuration and management (mdadm)
@@ -309,7 +309,7 @@ This intensive course covers essential `Linux` system administration concepts an
 * `DNS` Server Administration (optional)
     * `DNS` concepts and resolution process
     * `DNS` record types
-    * `DNS` query tools (`dig`, `nslookup`, host)
+    * `DNS` query tools (dig, `nslookup`, host)
     * Setting up `BIND`
         * Security options
         * Logging configuration
@@ -322,7 +322,7 @@ This intensive course covers essential `Linux` system administration concepts an
     * Split-horizon `DNS`
     * `DNS`-based load balancing
     * `DNS` monitoring and alerting
-    * Advanced `dig` usage
+    * Advanced dig usage
     * `DNS` over `HTTPS` and `DNS` over `TLS`
     * `DNS` migration strategies
 <!-- chapter: containerization-optional, duration: 3h -->

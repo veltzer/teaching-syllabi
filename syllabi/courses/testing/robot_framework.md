@@ -35,7 +35,7 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
 * Understand the `Robot Framework` architecture and keyword-driven testing philosophy
 * Write well-structured test suites using standard syntax and resource files
 * Create reusable keywords and manage variables at all scopes
-* Use built-in libraries for string handling, `file` `I/O`, collections, and processes
+* Use built-in libraries for string handling, file `I/O`, collections, and processes
 * Automate web browser interactions using `SeleniumLibrary`
 * Test `REST` APIs using `RequestsLibrary`
 * Apply data-driven testing with external data sources
@@ -49,9 +49,9 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
     * What `Robot Framework` is and where it fits in the testing landscape
     * Keyword-driven vs script-driven automation
     * Architecture: the core framework, test libraries, and runners
-    * Installing `Robot Framework` with `pip` and setting up a project
+    * Installing `Robot Framework` with pip and setting up a project
     * Running your first test with `robot` command
-    * Understanding the output: report.`html`, log.`html`, output.`xml`
+    * Understanding the output: report.`html`, log.html, output.`xml`
 <!-- chapter: test-structure-and-syntax, duration: 2h -->
 * Test Structure and Syntax
     * Test suite files and directory structure
@@ -68,14 +68,14 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
     * Keyword definition: arguments, `return-values`, and documentation
     * Keyword libraries vs resource files
     * Nested keywords and keyword composition
-    * Built-in control flow: `IF`, `FOR`, `WHILE`, `TRY`
+    * Built-in control flow: `IF`, FOR, WHILE, `TRY`
     * Using `Run Keyword If` and related conditional keywords
 <!-- chapter: built-in-libraries, duration: 2h -->
 * Built-in Libraries
     * `BuiltIn` library: assertions, logging, and flow control
     * `String` library: manipulation, matching, and conversion
     * `Collections` library: list and dictionary operations
-    * `OperatingSystem` library: `file` system interactions
+    * `OperatingSystem` library: file system interactions
     * `Process` library: running and managing external processes
     * `DateTime` library: date and time calculations
     * `XML` library: parsing and querying `XML` documents
@@ -84,7 +84,7 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
     * Setting up `SeleniumLibrary` and WebDriver executables
     * Opening browsers and navigating to URLs
     * Locating elements: XPath, `CSS`, `ID`, name, and accessibility roles
-    * Interacting with forms, dropdowns, checkboxes, and `file` uploads
+    * Interacting with forms, dropdowns, checkboxes, and file uploads
     * Waiting strategies: `Wait Until Element Is Visible`, `Wait Until Page Contains`
     * Taking screenshots on failure
     * Cross-browser testing configuration

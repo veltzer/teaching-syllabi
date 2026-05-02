@@ -27,11 +27,11 @@ This course covers Test Driven Development (`TDD`) in `Java`, combining testing 
 
 ## Objectives
 People completing this course will have strong
-understanding of what `TDD` and `Agile` programming is all about
+understanding of what `TDD` and Agile programming is all about
 with the knowledge to implement these development methodologies
 in their work environments. They will acquire the technical
 skills to use the tools that `Java` provides for these methodologies:
-`JUnit`, `Eclipse` facilities, `Ant` support for testing and many other
+`JUnit`, Eclipse facilities, Ant support for testing and many other
 third party tools that will be discussed in the development section.
 
 ## Outline
@@ -54,17 +54,17 @@ third party tools that will be discussed in the development section.
             * V model
             * Prototype model
             * Spiral model
-        * `Agile` methods:
+        * Agile methods:
             * XP - eXtreme Programming
             * Test Driven Development
-    * Introduction to `Agile` development
-        * `Agile` Overview
-        * `Agile` Manifesto and Principles
-        * `Agile` Modeling Practices
-        * `Agile` Testing
+    * Introduction to Agile development
+        * Agile Overview
+        * Agile Manifesto and Principles
+        * Agile Modeling Practices
+        * Agile Testing
         * User Stories
-        * Automated Testing in `Agile`
-        * Glossary of `Agile` Terms
+        * Automated Testing in Agile
+        * Glossary of Agile Terms
     * Extreme Programming
         * Traditional life cycle vs. XP
         * XP motto: "embrace change"
@@ -98,7 +98,7 @@ third party tools that will be discussed in the development section.
             * Writing good tests for a lecturer provided `Java` module.
             Objective: learn how to write the tests *CORRECTLY* so that they will cover
             as much of the functionality as possible.
-        * Using `JUnit` with `Ant`
+        * Using `JUnit` with Ant
         * Exercise: Running `ant` for automated unit tests with reporting
             Objective: learn how to write your tests in such a way as to be easily runnable
             from `ant`. Learn how to produce test run results from `ant` in several formats.
@@ -118,10 +118,10 @@ third party tools that will be discussed in the development section.
             * Doing basic tests
             * Doing smart tests
             * JUnitEE TestRunner
-            * JUnitEE `Ant` tasks
+            * JUnitEE Ant tasks
             * Security issues
         * DbUnit
-            * Best practices `when` testing with a database
+            * Best practices when testing with a database
             * Cleaning a database
             * Importing/exporting a dataset
         * JMockit

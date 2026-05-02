@@ -28,7 +28,7 @@ not cover.
 This five day course is dedicated to operating `DNS` in production. It covers `DNS`-as-a-hidden-dependency
 patterns, the propagation and `TTL` realities that confuse most engineers, anycast `DNS`, split-horizon
 deployments, `DNSSEC` operationally, the major managed `DNS` providers (`Route 53`, `Cloud DNS`,
-`Azure DNS`, `Cloudflare`, `NS1`, `DNSimple`), `DNS`-driven outages and how to debug them, the security
+`Azure DNS`, Cloudflare, NS1, DNSimple), `DNS`-driven outages and how to debug them, the security
 dimension (cache poisoning, hijacking, takeover), and the `DNS`-based traffic management story for
 multi-region systems. Participants leave able to design, operate, and debug production `DNS`.
 
@@ -76,8 +76,8 @@ multi-region systems. Participants leave able to design, operate, and debug prod
 <!-- chapter: authoritative-dns-architecture, duration: 3h -->
 * Authoritative `DNS` architecture
     * primary, secondary, hidden primary
-    * zone transfer (`AXFR`, `IXFR`) and the `NOTIFY` mechanism
-    * `BIND`, `NSD`, `Knot`, `PowerDNS`, `CoreDNS`
+    * zone transfer (`AXFR`, IXFR) and the `NOTIFY` mechanism
+    * `BIND`, NSD, Knot, PowerDNS, `CoreDNS`
     * managed authoritative providers
     * multi-provider authoritative for redundancy
     * the `1.1.1.1` and `8.8.8.8` reality
@@ -111,7 +111,7 @@ multi-region systems. Participants leave able to design, operate, and debug prod
     * weighted routing
     * latency-based routing
     * geo-based routing
-    * health-`check` based failover
+    * health-check based failover
     * cross-reference to the Multi-Region Active-Active course
     * cross-reference to the Disaster Recovery in Practice course
     * the `TTL` tradeoff for `DNS`-based failover
@@ -128,13 +128,13 @@ multi-region systems. Participants leave able to design, operate, and debug prod
     * `CoreDNS` in `Kubernetes`
     * `Service` and `Endpoints` resolution
     * `External-DNS` controller
-    * `Headless Service` and the `StatefulSet` `DNS` pattern
+    * `Headless Service` and the StatefulSet `DNS` pattern
     * cross-reference to the existing `Kubernetes` material
     * `DNS` failure modes inside the cluster
 <!-- chapter: dns-debugging-toolbox, duration: 3h -->
 * `DNS` debugging toolbox
-    * `dig` deep dive
-    * `kdig`, `drill`, `host`, `nslookup`
+    * dig deep dive
+    * `kdig`, drill, host, `nslookup`
     * `+trace`, `+norecurse`, `+short`, `+nssearch`
     * resolver-cache inspection
     * `tcpdump` for `DNS`
@@ -160,7 +160,7 @@ multi-region systems. Participants leave able to design, operate, and debug prod
     * `DNS` query monitoring as a detection signal
 <!-- chapter: dns-and-email-deliverability, duration: 2h -->
 * `DNS` and email deliverability
-    * `MX`, `SPF`, `DKIM`, `DMARC` records
+    * `MX`, SPF, `DKIM`, `DMARC` records
     * the email-sender-verification story
     * `BIMI` and the new layer
     * the misconfigured-record-causes-all-email-to-spam pattern
@@ -185,7 +185,7 @@ multi-region systems. Participants leave able to design, operate, and debug prod
 * Workshop and wrap up
     * audit a sample organization's `DNS` setup
     * tabletop incident: simulated authoritative outage
-    * recommended reading: `Liu`/`Albitz` `DNS and BIND`, `RFCs`, `IANA` resources
+    * recommended reading: `Liu`/Albitz `DNS and BIND`, RFCs, `IANA` resources
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

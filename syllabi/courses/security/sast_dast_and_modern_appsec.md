@@ -25,10 +25,10 @@ a knowledge problem. Most organizations buy `SAST`, `DAST`, `SCA` and secrets-sc
 shallowly, drown in noise, and end up worse off than before they started.
 
 This five day course covers the modern AppSec pipeline as an engineering discipline. It covers the families
-of automated security testing (`SAST`, `DAST`, `IAST`, `SCA`, secrets, container scanning, `IaC` scanning),
+of automated security testing (`SAST`, `DAST`, IAST, `SCA`, secrets, container scanning, `IaC` scanning),
 the integration into developer workflows, the false-positive economics that determine whether a program
 succeeds or fails, the prioritization story (reachability, exploitability, asset value), the tooling
-landscape (`Snyk`, `Semgrep`, `Checkmarx`, `Veracode`, `Sonatype`, `GitHub Advanced Security`, `GitLab Ultimate`),
+landscape (`Snyk`, `Semgrep`, Checkmarx, Veracode, Sonatype, `GitHub Advanced Security`, `GitLab Ultimate`),
 and the program-level practices that `make` AppSec a developer-friendly discipline rather than a security-team
 gatekeeping function. Participants leave able to design, run, and tune an AppSec program without burning out
 the developers it is supposed to help.
@@ -38,7 +38,7 @@ the developers it is supposed to help.
 
 ## Intended Audience
 * security engineers responsible for application security tooling
-* `DevOps` and platform engineers integrating security into `CI`/`CD`
+* `DevOps` and platform engineers integrating security into CI/`CD`
 * developers leading a team's AppSec story
 * architects evaluating AppSec tooling
 * engineers responding to an AppSec audit finding
@@ -69,15 +69,15 @@ the developers it is supposed to help.
     * what `SAST` actually does
     * pattern matching vs taint analysis vs symbolic execution
     * the false-positive economics of `SAST`
-    * `Semgrep`, `CodeQL`, `Snyk Code`, `Checkmarx`, `Veracode`, `SonarQube`
+    * `Semgrep`, `CodeQL`, `Snyk Code`, Checkmarx, Veracode, `SonarQube`
     * custom rules and the team-specific ruleset
-    * `SAST` in the `IDE` vs `SAST` in `CI`
+    * `SAST` in the IDE vs `SAST` in `CI`
 <!-- chapter: dast-dynamic-application-security-testing, duration: 3h -->
 * `DAST`: dynamic application security testing
     * what `DAST` actually does
     * authenticated scanning and its complications
-    * `OWASP ZAP`, `Burp Suite`, `Nuclei`, `Acunetix`, `Detectify`
-    * `DAST` in `CI` vs `DAST` against staging
+    * `OWASP ZAP`, `Burp Suite`, Nuclei, Acunetix, `Detectify`
+    * `DAST` in CI vs `DAST` against staging
     * the `API`-aware `DAST` evolution
     * `DAST` and modern `SPAs`
 <!-- chapter: iast-and-rasp, duration: 2h -->
@@ -93,15 +93,15 @@ the developers it is supposed to help.
     * the `Log4Shell` lesson
     * the `SBOM` requirement
     * direct vs transitive dependencies
-    * `Snyk`, `Sonatype`, `Mend`, `Dependabot`, `Renovate`, `OSV-Scanner`, `Trivy`
-    * vulnerability databases: `NVD`, `OSV`, `GHSA`
+    * `Snyk`, Sonatype, Mend, `Dependabot`, Renovate, `OSV-Scanner`, `Trivy`
+    * vulnerability databases: `NVD`, OSV, `GHSA`
     * cross-reference to the existing Supply Chain Security course
     * version-pinning and patch policy
 <!-- chapter: secrets-scanning, duration: 2h -->
 * Secrets scanning
     * cross-reference to the Secrets Management course's secret-scanning chapter
     * pre-commit, push-protection, `CI`, retroactive
-    * `gitleaks`, `trufflehog`, `detect-secrets`, `GitGuardian`, `GitHub` push protection
+    * `gitleaks`, trufflehog, `detect-secrets`, GitGuardian, `GitHub` push protection
     * triaging detection alerts
     * the "rotate first, investigate after" rule
 <!-- chapter: container-and-image-scanning, duration: 2h -->
@@ -114,7 +114,7 @@ the developers it is supposed to help.
 <!-- chapter: iac-scanning, duration: 2h -->
 * `IaC` scanning
     * cross-reference to the Cloud Misconfiguration and `CSPM` course
-    * `Checkov`, `tfsec`, `KICS`, `Terrascan`, `Snyk IaC`
+    * `Checkov`, tfsec, KICS, Terrascan, `Snyk IaC`
     * `OPA`/`Conftest` for custom policy
     * `IaC` scanning in `PR` vs in pipeline
     * the false-positive economics in `IaC` scanning
@@ -159,10 +159,10 @@ the developers it is supposed to help.
     * the executive dashboard for AppSec
 <!-- chapter: bug-bounty-and-responsible-disclosure, duration: 2h -->
 * Bug bounty and responsible disclosure
-    * `HackerOne`, `Bugcrowd`, `Intigriti`, self-hosted
+    * `HackerOne`, Bugcrowd, `Intigriti`, self-hosted
     * scope and rules of engagement
     * triage workflow for inbound reports
-    * the public `security.txt` `file`
+    * the public `security.txt` file
     * working with researchers
     * cross-reference to the `Web3` and Blockchain Security course's bounty chapter
 <!-- chapter: appsec-and-llm-and-genai-applications, duration: 2h -->

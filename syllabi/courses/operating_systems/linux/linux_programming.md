@@ -19,7 +19,7 @@ audience:
 
 ## Description
 `Linux` is the widest protected operating system in use today and this course teaching you how to write system programs
-over it in `C` or `C++` which `make` efficient use of it.
+over it in C or `C++` which `make` efficient use of it.
 
 ## Duration
 40 hours / 5 days
@@ -29,7 +29,7 @@ over it in `C` or `C++` which `make` efficient use of it.
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` command line
 
 ## Objectives
@@ -51,7 +51,7 @@ over it in `C` or `C++` which `make` efficient use of it.
         * Multi-user.
 <!-- chapter: basics-of-writing-code, duration: 3h -->
 * Basics of writing code
-    * `C` and `C++` filename conventions.
+    * C and `C++` filename conventions.
     * Writing a program.
     * Writing a library.
     * Basics of makefiles.
@@ -105,7 +105,7 @@ over it in `C` or `C++` which `make` efficient use of it.
 <!-- chapter: other-tools-for-debugging, duration: 3h -->
 * Other tools for debugging
     * /proc, /sys and friends.
-    * `ps`, `top` and friends.
+    * ps, top and friends.
     * `strace`, `ltrace` and friends.
     * `valgrind`, cachegrind and friends.
     * Logging approaches and the system logger.

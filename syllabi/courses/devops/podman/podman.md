@@ -85,7 +85,7 @@ This course covers Podman, a daemonless and rootless container engine for develo
 <!-- chapter: podman-compose, duration: 1h -->
 * `Podman Compose`:
     * Installing and using `Podman Compose`
-    * Compose `file` compatibility
+    * Compose file compatibility
     * Differences from `Docker Compose`
 <!-- chapter: systemd-integration, duration: 1h -->
 * `systemd` Integration:

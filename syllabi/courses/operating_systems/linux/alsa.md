@@ -18,7 +18,7 @@ audience:
 # `ALSA` - Advanced `Linux` Sound Architecture
 
 ## Description
-The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designed for developers who want to master audio programming in `Linux` environments. This comprehensive course covers the fundamentals of `ALSA`, including its architecture, core concepts, and `API`. Students will learn how to initialize sound devices, manage audio streams, and handle various audio formats. The curriculum progresses through topics such as PCM (Pulse-Code Modulation) handling, mixer controls, MIDI interfaces, and asynchronous audio programming. Practical sessions include writing `C` programs to capture and playback audio, implement volume controls, and create custom audio effects. Advanced topics cover low-latency audio processing, multi-channel audio, and integration with other `Linux` audio systems like PulseAudio. Participants will acquire the skills to develop sophisticated audio applications for `Linux` using `ALSA`.
+The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designed for developers who want to master audio programming in `Linux` environments. This comprehensive course covers the fundamentals of `ALSA`, including its architecture, core concepts, and `API`. Students will learn how to initialize sound devices, manage audio streams, and handle various audio formats. The curriculum progresses through topics such as PCM (Pulse-Code Modulation) handling, mixer controls, MIDI interfaces, and asynchronous audio programming. Practical sessions include writing C programs to capture and playback audio, implement volume controls, and create custom audio effects. Advanced topics cover low-latency audio processing, multi-channel audio, and integration with other `Linux` audio systems like PulseAudio. Participants will acquire the skills to develop sophisticated audio applications for `Linux` using `ALSA`.
 
 ## Duration
 16 hours / 2 days
@@ -28,7 +28,7 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
-* `C` programming (for almost all sections of this course)
+* C programming (for almost all sections of this course)
 * `Linux` Kernel programming (needed for the big section about writing `ALSA` drivers)
     This means *`Linux`* kernel programming. kernel programming in other
     operating systems does not count here.
@@ -46,7 +46,7 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
     * Glossary
-    * Audio codecs and `file` formats
+    * Audio codecs and file formats
 <!-- chapter: alsa-overview, duration: 1h -->
 * `ALSA` overview
     * OSS and it's problems

@@ -13,10 +13,10 @@ audience:
   - audiences:architects
 ---
 <!-- course: solid_clean_code -->
-# `SOLID` Principles and `Clean` Code
+# `SOLID` Principles and Clean Code
 
 ## Description
-`SOLID` principles and `clean` code practices are fundamental to writing maintainable, scalable, and robust software. This course covers the five `SOLID` principles of object-oriented design along with essential `clean` code techniques that improve code readability, reduce complexity, and enhance long-term maintainability across different programming languages.
+`SOLID` principles and clean code practices are fundamental to writing maintainable, scalable, and robust software. This course covers the five `SOLID` principles of object-oriented design along with essential `clean` code techniques that improve code readability, reduce complexity, and enhance long-term maintainability across different programming languages.
 
 ## Duration
 8 hours / 1 day
@@ -70,7 +70,7 @@ audience:
     * Identifying multiple responsibilities in classes
     * Refactoring techniques for SRP violations
     * Cohesion vs coupling in class design
-    * Practical examples: user management, `file` processing, data validation
+    * Practical examples: user management, file processing, data validation
     * Common SRP violations and how to fix them
     * Benefits of following SRP in real-world projects
 <!-- chapter: open-closed-principle-ocp, duration: 1h -->
@@ -110,16 +110,16 @@ audience:
     * Practical examples: database access, external service integration, configuration management
     * Manual vs framework-based dependency injection
 <!-- chapter: clean-code-fundamentals, duration: 1h -->
-* `Clean` Code Fundamentals
+* Clean Code Fundamentals
     * Meaningful naming conventions for variables, functions, and classes
     * Function design: small, focused, single-purpose functions
     * Parameter management and avoiding long parameter lists
     * Code formatting and consistent style guidelines
-    * Comment best practices: `when` to comment and `when` code should be self-documenting
+    * Comment best practices: when to comment and when code should be self-documenting
     * Avoiding magic numbers and string literals
-    * Code organization and `file` structure
+    * Code organization and file structure
 <!-- chapter: advanced-clean-code-techniques, duration: 1h -->
-* Advanced `Clean` Code Techniques
+* Advanced Clean Code Techniques
     * Error handling patterns and exception management
     * Avoiding deeply nested code and complex conditionals
     * Refactoring techniques for improving code structure

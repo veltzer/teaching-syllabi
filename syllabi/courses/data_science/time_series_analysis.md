@@ -111,7 +111,7 @@ for `temporal` data round out the curriculum.
     * Residual-based anomaly detection
     * Contextual and collective anomalies
 <!-- chapter: feature-engineering-for-temporal-data, duration: 2h -->
-* Feature Engineering for `Temporal` Data
+* Feature Engineering for Temporal Data
     * Lag features and rolling statistics
     * Date-time feature extraction
     * Fourier features for seasonality

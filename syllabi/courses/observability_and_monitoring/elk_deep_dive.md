@@ -82,7 +82,7 @@ This deep dive course goes beyond the basics and covers the internals of `Elasti
     * Input plugins
         * `File`, `syslog`, Beats, `Kafka`, and `HTTP` inputs
     * Filter plugins
-        * `Grok` patterns
+        * Grok patterns
         * Mutate, date, and GeoIP filters
         * Conditional processing
         * Custom patterns

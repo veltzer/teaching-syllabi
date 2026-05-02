@@ -26,10 +26,10 @@ security course in the catalog is a broader treatment; this course is the focuse
 finding, fixing, and preventing the misconfigurations that account for the majority of real-world cloud
 incidents.
 
-This five day course covers the `top` cloud-misconfiguration classes across `AWS`, `GCP` and `Azure`, the
+This five day course covers the top cloud-misconfiguration classes across `AWS`, `GCP` and `Azure`, the
 discipline of `IAM` least privilege, the `CSPM` (cloud security posture management) tooling landscape
-(`Wiz`, `Prisma Cloud`, `Lacework`, `Orca`, `Snyk Cloud`, native cloud `CSPMs`), the `IaC`-side
-prevention story (`tfsec`, `Checkov`, `KICS`, `Snyk IaC`, `Terrascan`), runtime drift detection, and the
+(`Wiz`, `Prisma Cloud`, Lacework, Orca, `Snyk Cloud`, native cloud CSPMs), the `IaC`-side
+prevention story (`tfsec`, Checkov, KICS, `Snyk IaC`, `Terrascan`), runtime drift detection, and the
 remediation playbooks. Examples are drawn from public breach disclosures and `CSPM` benchmark reports.
 Participants leave able to assess a cloud environment, prioritize fixes, and build the prevention
 program that keeps a fixed environment fixed.
@@ -51,7 +51,7 @@ program that keeps a fixed environment fixed.
 * exposure to the broader cloud-security material is helpful
 
 ## Objectives
-* enumerate the `top` cloud-misconfiguration classes
+* enumerate the top cloud-misconfiguration classes
 * design `IAM` least privilege correctly across `AWS`, `GCP`, `Azure`
 * operate `CSPM` tooling effectively and prioritize findings
 * prevent misconfiguration at the `IaC` layer
@@ -63,7 +63,7 @@ program that keeps a fixed environment fixed.
 <!-- chapter: the-misconfiguration-threat-landscape, duration: 2h -->
 * The misconfiguration threat landscape
     * the public breach pattern: misconfig, not zero-day
-    * the `Capital One`, `Twitch`, `Uber`, `Equifax` cloud-misconfig lessons
+    * the `Capital One`, Twitch, Uber, `Equifax` cloud-misconfig lessons
     * the `OWASP Cloud Top 10` style frameworks
     * `CIS` benchmarks
     * `MITRE ATT&CK` for cloud
@@ -105,7 +105,7 @@ program that keeps a fixed environment fixed.
     * cross-reference to the Edge Computing course
 <!-- chapter: management-interface-and-credential-exposure, duration: 2h -->
 * Management interface and credential exposure
-    * exposed `kubectl` `apiserver`, `Jenkins`, `Argo`
+    * exposed `kubectl` apiserver, `Jenkins`, `Argo`
     * `IMDS` v1 and `SSRF`
     * key-`vault` and parameter-store mistakes
     * `Git`-leaked cloud credentials
@@ -121,7 +121,7 @@ program that keeps a fixed environment fixed.
     * cross-reference to the existing `Kubernetes` Security course
 <!-- chapter: cspm-tooling-landscape, duration: 3h -->
 * `CSPM` tooling landscape
-    * `Wiz`, `Prisma Cloud`, `Lacework`, `Orca`, `Snyk Cloud`
+    * `Wiz`, `Prisma Cloud`, Lacework, Orca, `Snyk Cloud`
     * native cloud: `Security Hub`, `Security Command Center`, `Defender for Cloud`
     * `CIEM` (cloud identity entitlement management) tools
     * agentless vs agent-based scanning
@@ -137,7 +137,7 @@ program that keeps a fixed environment fixed.
     * post-mortem analysis of dropped findings
 <!-- chapter: iac-prevention, duration: 3h -->
 * `IaC` prevention
-    * `tfsec`, `Checkov`, `KICS`, `Snyk IaC`, `Terrascan`
+    * `tfsec`, Checkov, KICS, `Snyk IaC`, `Terrascan`
     * `OPA`/`Conftest` for policy as code
     * `Sentinel` for `Terraform Cloud`
     * pre-commit, `PR`, and pipeline gates

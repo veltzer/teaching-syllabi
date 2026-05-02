@@ -18,8 +18,8 @@ audience:
 ## Description
 The catalog has `Incident Response and Postmortems`, `Incident Management`, and `Site Reliability
 Engineering`. None is the focused course on the customer-facing-and-internal-stakeholder
-communication side of an incident: who tells whom what `when`, the status page, the customer email,
-the internal `Slack`-or-equivalent updates, the relationship between the engineering response and the
+communication side of an incident: who tells whom what when, the status page, the customer email,
+the internal Slack-or-equivalent updates, the relationship between the engineering response and the
 support response, the regulatory-disclosure timing, and the patterns that turn an incident from a
 trust-destroying event into one that customers actually appreciate the response to.
 
@@ -27,8 +27,8 @@ This two day course covers incident communication as a focused engineering-and-o
 It covers the canonical incident-communication roles (`Incident Commander`, `Communications Lead`,
 `Customer Liaison`), the audiences (engineering, support, account management, executive, customer,
 public, regulator) and what each needs, the status-page tooling (`Statuspage`, `Better Stack`,
-`Instatus`, `Stackpulse`, `Atlassian`'s and `Cachet`'s open source), the public-vs-private status
-distinction, the timing question (`when` to update, how often, what to say `when` you do not know yet),
+`Instatus`, Stackpulse, Atlassian's and `Cachet`'s open source), the public-vs-private status
+distinction, the timing question (when to update, how often, what to say when you do not know yet),
 the message templates, the regulatory disclosure (`GDPR` data-breach 72-hour rule, `SEC` Form 8-K
 within 4 days, `HIPAA` requirements), the relationship to the postmortem and the public writeup, the
 trust-rebuilding-after-the-incident phase, and the patterns that distinguish good incident comms from
@@ -87,7 +87,7 @@ run the comms side of an incident.
     * each audience's actual needs
 <!-- chapter: the-status-page, duration: 2h -->
 * The status page
-    * `Statuspage`, `Instatus`, `Better Stack`, `Cachet`
+    * `Statuspage`, Instatus, `Better Stack`, `Cachet`
     * the public vs private model
     * the per-component model
     * the auto-updated status from probes

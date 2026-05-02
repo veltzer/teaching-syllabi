@@ -22,10 +22,10 @@ This course is about how to design the internals of a Real Time system correctly
 
 ## Intended Audience
 * Software architects that do real time system designs
-* `C` and `C++` programmers who would like to design real time systems
+* C and `C++` programmers who would like to design real time systems
 
 ## Prerequisites
-* `C` programming
+* C programming
 * Embedded programming is an advantage
 
 ## Objectives
@@ -63,7 +63,7 @@ This course is about how to design the internals of a Real Time system correctly
 <!-- chapter: timing-patterns, duration: 3h -->
 * Timing Patterns
     * Deadline Mechanism Pattern
-    * `Temporal` Coherence Pattern
+    * Temporal Coherence Pattern
     * Watchdog Pattern
 <!-- chapter: fault-tolerance-patterns, duration: 3h -->
 * Fault Tolerance Patterns
@@ -72,7 +72,7 @@ This course is about how to design the internals of a Real Time system correctly
     * Recovery Block Pattern
 
 ## References
-* [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](`http`://www.`uml`.org.cn/UMLApplication/`pdf`/rtpatterns.`pdf`)
+* [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.`pdf`)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

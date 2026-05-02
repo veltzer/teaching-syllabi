@@ -17,7 +17,7 @@ audience:
 
 ## Description
 `Apache ActiveMQ` is one of the most widely deployed open-source message brokers, implementing the ```Java``
-Message Service` (`JMS`) specification and supporting a broad range of messaging protocols including `AMQP`,
+Message Service` (``JMS``) specification and supporting a broad range of messaging protocols including ``AMQP``,
 `STOMP`, `MQTT`, and `OpenWire`. This course provides a thorough grounding in enterprise messaging patterns,
 the `JMS` `API`, and `ActiveMQ`'s persistence, clustering, and high-availability capabilities. Participants will
 also explore `ActiveMQ Artemis`, the next-generation broker that underpins `Red Hat AMQ` and the future of the
@@ -81,7 +81,7 @@ generations and competing products.
     * Message types: `TextMessage`, `BytesMessage`, `MapMessage`, `ObjectMessage`.
     * Message headers, properties, and selectors.
     * Synchronous and asynchronous (`MessageListener`) consumption.
-    * JNDI lookup and dependency injection with `Spring`.
+    * JNDI lookup and dependency injection with Spring.
 <!-- chapter: queue-and-topic-messaging, duration: 2h -->
 * Queue and Topic Messaging:
     * Point-to-point queuing and competing consumers.
@@ -107,7 +107,7 @@ generations and competing products.
 * Security and Authentication:
     * Simple authentication plugin: users and groups.
     * `JAAS`-based authentication for enterprise environments.
-    * Authorisation: destination-level ACLs.
+    * Authorisation: destination-level `ACLs`.
     * Enabling `SSL`/`TLS` for transport encryption.
     * Certificate-based client authentication.
 <!-- chapter: clustering-and-high-availability, duration: 2h -->
@@ -126,7 +126,7 @@ generations and competing products.
     * Advisory messages for broker events.
 <!-- chapter: activemq-artemis, duration: 2h -->
 * `ActiveMQ Artemis` (Next Generation):
-    * Artemis architecture: non-blocking I/O, journal-based persistence.
+    * Artemis architecture: non-blocking `I/O`, journal-based persistence.
     * Differences from classic `ActiveMQ`.
     * Address model: addresses, queues, and routing types.
     * Supported protocols: `AMQP`, `CORE`, `STOMP`, `MQTT`, `OpenWire`.

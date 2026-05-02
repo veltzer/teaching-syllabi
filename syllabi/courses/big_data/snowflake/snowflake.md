@@ -12,15 +12,15 @@ audience:
   - audiences:data-scientists
 ---
 <!-- course: snowflake -->
-# `Snowflake`
+# Snowflake
 
 ## Description
-`Snowflake` is a cloud-native data platform that provides a fully managed data warehouse,
+Snowflake is a cloud-native data platform that provides a fully managed data warehouse,
 data lake, and data sharing solution. With its unique multi-cluster shared data architecture,
-`Snowflake` separates compute from storage, enabling near-unlimited scalability and concurrency
+Snowflake separates compute from storage, enabling near-unlimited scalability and concurrency
 without the complexity of traditional data warehouses.
 
-Throughout this course, students will learn how to effectively use `Snowflake` for data
+Throughout this course, students will learn how to effectively use Snowflake for data
 warehousing and analytics. Starting with architecture and core concepts, the course covers
 data loading, querying, advanced features like time travel and data sharing, and production
 optimization strategies.
@@ -29,7 +29,7 @@ optimization strategies.
 24 hours / 3 days
 
 ## Intended Audience
-* Developers and data scientists who want to build and manage data solutions on the `Snowflake` cloud data platform
+* Developers and data scientists who want to build and manage data solutions on the Snowflake cloud data platform
 
 ## Prerequisites
 * `Solid` understanding of `SQL`
@@ -37,10 +37,10 @@ optimization strategies.
 * Familiarity with `cloud computing` fundamentals
 
 ## Objectives
-* Understand `Snowflake`'s unique architecture and how it differs from traditional data warehouses
+* Understand Snowflake's unique architecture and how it differs from traditional data warehouses
 * Create and manage databases, schemas, and tables effectively
-* Load data into `Snowflake` using various methods including `COPY INTO` and Snowpipe
-* Query structured and semi-structured data using `Snowflake` `SQL` extensions
+* Load data into Snowflake using various methods including `COPY INTO` and Snowpipe
+* Query structured and semi-structured data using Snowflake `SQL` extensions
 * Use time travel, cloning, and data sharing features
 * Implement stored procedures, UDFs, tasks, and streams
 * Configure access control and security
@@ -51,10 +51,10 @@ optimization strategies.
 * Introduction to Cloud Data Warehousing
     * Traditional vs cloud data warehouses
     * The modern data stack
-    * Overview of `Snowflake`
-    * `Snowflake` editions and cloud providers
+    * Overview of Snowflake
+    * Snowflake editions and cloud providers
 <!-- chapter: snowflake-architecture, duration: 1h -->
-* `Snowflake` Architecture
+* Snowflake Architecture
     * Virtual warehouses (compute layer)
     * Storage layer
     * Cloud services layer
@@ -77,7 +77,7 @@ optimization strategies.
     * Bulk loading best practices
 <!-- chapter: querying-data, duration: 2h -->
 * Querying Data
-    * `Snowflake` `SQL` extensions
+    * Snowflake `SQL` extensions
     * Working with semi-structured data (`JSON`, `XML`, `Avro`)
     * FLATTEN function for nested data
     * LATERAL joins
@@ -100,7 +100,7 @@ optimization strategies.
     * Secure data sharing
     * Creating and managing shares
     * Reader accounts
-    * `Snowflake` Marketplace
+    * Snowflake Marketplace
     * Data exchange
 <!-- chapter: views-and-materialized-views, duration: 1h -->
 * Views and Materialized Views
@@ -138,7 +138,7 @@ optimization strategies.
     * Search optimization service
 <!-- chapter: cost-management, duration: 2h -->
 * Cost Management
-    * Understanding `Snowflake` credits
+    * Understanding Snowflake credits
     * Warehouse auto-suspend and auto-resume
     * Resource monitors
     * Cost attribution and tracking

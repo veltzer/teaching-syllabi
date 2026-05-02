@@ -27,7 +27,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
 * Intermediate `Java` programming skills (classes, interfaces, generics, annotations)
 * Basic understanding of object-oriented design principles
 * Familiarity with a build tool such as `Maven` or `Gradle`
-* Experience with an IDE such as `IntelliJ IDEA` or `Eclipse`
+* Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
 * Master the `JUnit 5` architecture and its extension model
@@ -122,7 +122,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
     * Writing the test first
     * Incremental design with `TDD`
     * `TDD` and `clean architecture`
-    * `When` `TDD` works well and `when` to adapt
+    * `When` `TDD` works well and when to adapt
 <!-- chapter: mutation-testing, duration: 2h -->
 * Mutation Testing
     * What is mutation testing

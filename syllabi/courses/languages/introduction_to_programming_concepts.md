@@ -33,7 +33,7 @@ conceptual foundation before they dive into a specific programming language.
 * Understand how data is stored and manipulated using variables and data types
 * Know how to control program flow using conditionals and loops
 * Understand the purpose and structure of functions
-* Be familiar with common data structures and `when` to use them
+* Be familiar with common data structures and when to use them
 * Have a foundation to begin learning any specific programming language
 
 ## Outline
@@ -109,7 +109,7 @@ conceptual foundation before they dive into a specific programming language.
 * Input and Output
     * Reading input from the user
     * Displaying output
-    * Basic `file` input and output concepts
+    * Basic file input and output concepts
 <!-- chapter: debugging-basics, duration: 2h -->
 * Debugging Basics
     * What are bugs and errors

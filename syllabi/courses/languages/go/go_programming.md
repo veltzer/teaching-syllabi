@@ -10,36 +10,36 @@ audience:
   - audiences:developers
 ---
 <!-- course: go_programming -->
-# `Go` Programming
+# Go Programming
 
 ## Description
-`Go` is a statically typed, compiled language designed at Google for simplicity, reliability, and efficiency. It excels at building networked services, command-line tools, and concurrent systems. This course covers the `Go` language from fundamentals through advanced topics like concurrency, interfaces, and production patterns.
+Go is a statically typed, compiled language designed at Google for simplicity, reliability, and efficiency. It excels at building networked services, command-line tools, and concurrent systems. This course covers the Go language from fundamentals through advanced topics like concurrency, interfaces, and production patterns.
 
 ## Duration
 32 hours / 4 days
 
 ## Intended Audience
-* Developers learning `Go` for backend services or systems programming
-* Developers coming from `Python`, `Java`, `C`, or other languages
-* Teams adopting `Go` for `microservices` or cloud-native development
+* Developers learning Go for backend services or systems programming
+* Developers coming from `Python`, `Java`, C, or other languages
+* Teams adopting Go for `microservices` or cloud-native development
 
 ## Prerequisites
 * Programming experience in any language
 
 ## Objectives
-* Write idiomatic `Go` code
-* Understand `Go`'s concurrency model with goroutines and channels
-* Build and test `Go` applications
-* Use `Go`'s standard library for networking and `I/O`
-* Manage dependencies with `Go` modules
+* Write idiomatic Go code
+* Understand Go's concurrency model with goroutines and channels
+* Build and test Go applications
+* Use Go's standard library for networking and `I/O`
+* Manage dependencies with Go modules
 
 ## Outline
 <!-- chapter: introduction-to-go, duration: 2h -->
-* Introduction to `Go`
+* Introduction to Go
     * History and design philosophy
-    * The `Go` toolchain (`go` build, `go` run, `go` test, `go` fmt)
+    * The Go toolchain (`go` build, `go` run, `go` test, `go` fmt)
     * Workspace and project layout
-    * `Go` modules and dependency management
+    * Go modules and dependency management
     * First program: Hello World
 <!-- chapter: basic-syntax-and-types, duration: 2h -->
 * Basic Syntax and Types
@@ -100,7 +100,7 @@ audience:
 * Packages and Modules
     * Package organization and naming
     * Exported vs unexported identifiers
-    * `Go` modules in depth
+    * Go modules in depth
     * Versioning and semantic import versioning
     * Vendoring
     * Internal packages
@@ -122,12 +122,12 @@ audience:
     * Test coverage
     * Testable code patterns
 <!-- chapter: go-in-production, duration: 3h -->
-* `Go` in Production
+* Go in Production
     * Building static binaries
     * Cross-compilation
     * Profiling with pprof
     * Race detector
-    * `Go` and `Docker`
+    * Go and `Docker`
     * Linting and static analysis (`go` vet, staticcheck, golangci-lint)
 
 ## Copyright

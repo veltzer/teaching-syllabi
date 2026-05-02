@@ -29,10 +29,10 @@ clustering and leaf node topologies.
 ## Intended Audience
 * Developers building `microservices`, edge computing, or IoT applications.
 * Platform and `DevOps` engineers evaluating lightweight messaging infrastructure.
-* Architects designing cloud-native systems that `require` low-latency communication.
+* Architects designing cloud-native systems that require low-latency communication.
 
 ## Prerequisites
-* `Solid` programming experience in at least one language (`Go`, `Python`, `JavaScript`, or similar).
+* `Solid` programming experience in at least one language (Go, `Python`, `JavaScript`, or similar).
 * Basic understanding of networking and client-server communication.
 * Familiarity with publish-subscribe patterns is helpful but not required.
 
@@ -51,7 +51,7 @@ clustering and leaf node topologies.
 <!-- chapter: introduction-to-nats, duration: 1h -->
 * Introduction to `NATS`:
     * The `NATS` philosophy: simplicity, speed, and resiliency.
-    * Core `NATS` vs `JetStream`: `when` to use each.
+    * Core `NATS` vs `JetStream`: when to use each.
     * Installing the `NATS` server and `nats` `CLI`.
     * Subject naming conventions and wildcards (`*` and `>`).
 <!-- chapter: core-nats-publish-subscribe, duration: 2h -->

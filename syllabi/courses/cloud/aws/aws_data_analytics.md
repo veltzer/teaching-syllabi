@@ -33,7 +33,7 @@ This course provides a comprehensive guide to building and managing data analyti
 ## Objectives
 * Design and implement a data lake architecture on `AWS` using `S3` and `Lake Formation`.
 * Build real-time and batch data ingestion pipelines with `Kinesis` and `Glue`.
-* Query and analyze data using `Athena` and `Redshift`.
+* Query and analyze data using Athena and `Redshift`.
 * Create interactive dashboards and visualizations with `QuickSight`.
 * Orchestrate complex data workflows with `Step Functions` and `MWAA`.
 * Apply data governance, security, and cost optimization best practices.
@@ -57,7 +57,7 @@ This course provides a comprehensive guide to building and managing data analyti
 * Real-Time Data Ingestion with `Kinesis`
     * `Kinesis Data Streams` architecture and configuration
     * `Kinesis Data Firehose` for delivery to `S3`, `Redshift`, and `OpenSearch`
-    * `Kinesis Data Analytics` for real-time `SQL` and `Apache` `Flink` applications
+    * `Kinesis Data Analytics` for real-time `SQL` and Apache `Flink` applications
     * Scaling and capacity management
     * Error handling and dead-letter queues
 <!-- chapter: aws-glue, duration: 3h -->
@@ -73,7 +73,7 @@ This course provides a comprehensive guide to building and managing data analyti
     * Serverless querying over `S3` data
     * Table definitions and partitions
     * Performance tuning with partitioning and bucketing
-    * `Athena` named work groups and cost controls
+    * Athena named work groups and cost controls
     * Federated queries across data sources
 <!-- chapter: amazon-redshift, duration: 3h -->
 * `Amazon Redshift`
@@ -86,7 +86,7 @@ This course provides a comprehensive guide to building and managing data analyti
 <!-- chapter: amazon-emr, duration: 3h -->
 * `Amazon EMR`
     * `EMR` cluster setup and configuration
-    * Running `Spark`, `Hive`, and `Presto` on `EMR`
+    * Running `Spark`, Hive, and Presto on `EMR`
     * `EMR` on `EKS` and `EMR Serverless`
     * Cost optimization with Spot Instances
     * Monitoring and troubleshooting `EMR` jobs
@@ -107,7 +107,7 @@ This course provides a comprehensive guide to building and managing data analyti
 <!-- chapter: data-pipeline-orchestration, duration: 3h -->
 * Data Pipeline Orchestration
     * `AWS Step Functions` for workflow orchestration
-    * `MWAA` (Managed Workflows for `Apache` `Airflow`)
+    * `MWAA` (Managed Workflows for Apache `Airflow`)
     * Building end-to-end analytics pipelines
     * Error handling and retry strategies
     * Scheduling and event-driven triggers with `EventBridge`

@@ -17,7 +17,7 @@ audience:
 # `Gdb`
 
 ## Description
-This course is intended for `C`/`C++` developers who wish to learn how to better
+This course is intended for C/`C++` developers who wish to learn how to better
 use the `Linux` `gdb` debugger and get better at debugging in general.
 
 ## Duration
@@ -57,7 +57,7 @@ use the `Linux` `gdb` debugger and get better at debugging in general.
     * ranlib
     * strip
     * gcore
-    * customizing core `file` names
+    * customizing core file names
 <!-- chapter: debug-information-problems, duration: 1h -->
 * debug information problems
     * different debug information types

@@ -20,7 +20,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 
 ## Intended Audience
 * Front-end developers looking to adopt a modern, compiler-based framework
-* `React` or Vue developers exploring alternative approaches to reactivity
+* React or Vue developers exploring alternative approaches to reactivity
 * Full-stack developers building server-rendered web applications
 * `TypeScript` developers seeking a framework with first-class `TypeScript` support
 * Web developers interested in performance-optimized applications
@@ -29,14 +29,14 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 * `Solid` understanding of `HTML`, `CSS`, and modern `JavaScript` (`ES6`+)
 * Familiarity with component-based architecture concepts
 * Basic knowledge of `Node.js` and `npm`/pnpm package management
-* Experience with at least one front-end framework (`React`, Vue, or `Angular`) is helpful
+* Experience with at least one front-end framework (React, Vue, or Angular) is helpful
 * Understanding of `HTTP` protocol and client-server communication
 * Basic familiarity with `TypeScript` syntax
 
 ## Required Knowledge
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
-* `React` (or equivalent experience)
-* `Angular` (or equivalent experience)
+* React (or equivalent experience)
+* Angular (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
@@ -53,7 +53,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 ## Outline
 <!-- chapter: introduction-to-svelte, duration: 2h -->
 * Introduction to Svelte
-    * What is Svelte and how it differs from `React` and Vue
+    * What is Svelte and how it differs from React and Vue
     * The compiler-based approach and its performance benefits
     * Setting up a Svelte development environment
     * Project structure and configuration
@@ -130,7 +130,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
     * Using `TypeScript` in Svelte template blocks
 <!-- chapter: testing-and-deployment, duration: 3h -->
 * Testing and Deployment
-    * Unit testing Svelte components with Vitest and `Testing Library`
+    * Unit testing Svelte components with Vitest and Testing Library
     * End-to-end testing with `Playwright`
     * Testing SvelteKit routes and server logic
     * SvelteKit adapters for different deployment targets

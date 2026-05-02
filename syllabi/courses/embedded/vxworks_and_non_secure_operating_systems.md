@@ -17,7 +17,7 @@ operating systems, with a focus on `VxWorks`. Students will learn how these syst
 differ from secure operating systems like `Linux` and `Windows`, and gain hands-on
 understanding of real-time operating system concepts, task management, interrupt
 handling, and inter-task communication. The course also covers comparisons with
-other popular embedded `RTOS` platforms such as `FreeRTOS` and `Zephyr`.
+other popular embedded `RTOS` platforms such as `FreeRTOS` and Zephyr.
 
 ## Duration
 16 hours / 2 days
@@ -27,7 +27,7 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and `Zephyr`.
 * Developers transitioning to embedded software development
 
 ## Prerequisites
-* Strong `C` programming skills
+* Strong C programming skills
 * Basic understanding of computer architecture (`CPU`, memory, interrupts)
 * Familiarity with operating system concepts
 
@@ -39,7 +39,7 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and `Zephyr`.
 * Handle interrupt-driven programming in `VxWorks`
 * Use inter-task communication mechanisms (semaphores, message queues, pipes)
 * Debug `VxWorks` applications effectively
-* Compare `VxWorks` with `FreeRTOS` and `Zephyr`
+* Compare `VxWorks` with `FreeRTOS` and Zephyr
 
 ## Outline
 <!-- chapter: principles-of-non-secure-operating-systems, duration: 1h -->
@@ -136,12 +136,12 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and `Zephyr`.
     * Common debugging scenarios
     * Post-mortem analysis
 <!-- chapter: comparison-with-freertos-and-zephyr, duration: 1h -->
-* Comparison with `FreeRTOS` and `Zephyr`
+* Comparison with `FreeRTOS` and Zephyr
     * `FreeRTOS` overview and architecture
-    * `Zephyr` overview and architecture
+    * Zephyr overview and architecture
     * Feature comparison
     * Licensing and ecosystem differences
-    * Choosing between `VxWorks`, `FreeRTOS`, and `Zephyr`
+    * Choosing between `VxWorks`, `FreeRTOS`, and Zephyr
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

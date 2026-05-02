@@ -14,7 +14,7 @@ audience:
 # `Clojure` Programming
 
 ## Description
-`Clojure` is a modern, dynamic `Lisp` dialect that runs on the `JVM`, bringing immutable persistent data structures, first-class functions, and powerful macros to `Java` platform developers.
+`Clojure` is a modern, dynamic Lisp dialect that runs on the `JVM`, bringing immutable persistent data structures, first-class functions, and powerful macros to `Java` platform developers.
 Its emphasis on functional programming, immutability, and simple concurrency primitives makes it an excellent choice for data transformation pipelines, concurrent applications, and systems that must evolve safely over time.
 `ClojureScript` extends the same language to the browser and `Node.js`, enabling full-stack development from a single language.
 This course provides a comprehensive introduction to `Clojure` programming, covering the language itself, its concurrency model, the macro system, `Java` interoperability, and practical project tooling with `Leiningen`.
@@ -24,13 +24,13 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
 
 ## Intended Audience
 * `JVM` developers (`Java`, `Kotlin`, `Scala`) looking to explore functional programming
-* Developers interested in `Lisp` family languages and metaprogramming
+* Developers interested in Lisp family languages and metaprogramming
 * Engineers building data-intensive or concurrent backend services
 
 ## Prerequisites
 * `Solid` experience programming in at least one language, preferably `Java` or another `JVM` language
 * Basic understanding of functional concepts such as higher-order functions is helpful
-* No prior `Lisp` experience is required
+* No prior Lisp experience is required
 
 ## Objectives
 * Read and write idiomatic `Clojure` code using its core data structures and functions
@@ -43,7 +43,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
 ## Outline
 <!-- chapter: introduction-to-clojure, duration: 2h -->
 * Introduction to `Clojure`
-    * History and motivation: `Lisp` on the `JVM`
+    * History and motivation: Lisp on the `JVM`
     * The `Clojure` philosophy: simplicity, data, and functions
     * Installing `Clojure` and `Leiningen`
     * The `REPL` and interactive development
@@ -54,7 +54,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
     * Numbers, strings, and characters
     * Booleans and `nil`
     * The reader and reader macros
-    * Defining vars with `def` and `defn`
+    * Defining vars with def and `defn`
     * Namespaced keywords
 <!-- chapter: collections-and-sequences, duration: 3h -->
 * Collections and Sequences
@@ -67,7 +67,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
     * Destructuring
 <!-- chapter: functions-and-functional-programming, duration: 4h -->
 * Functions and Functional Programming
-    * Defining functions with `defn` and `fn`
+    * Defining functions with `defn` and fn
     * Variadic arguments and `rest` parameters
     * Higher-order functions
     * Partial application with `partial`
@@ -78,7 +78,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
 <!-- chapter: namespaces-and-code-organization, duration: 2h -->
 * Namespaces and Code Organization
     * Creating and switching namespaces with `ns`
-    * `require`, `use`, and `import`
+    * require, `use`, and `import`
     * Managing dependencies between namespaces
     * Public and private vars
     * Project directory structure conventions
@@ -115,7 +115,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
     * Running tests from the `REPL` and with `Leiningen`
 <!-- chapter: leiningen-and-build-tools, duration: 2h -->
 * `Leiningen` and Build Tools
-    * The `project.clj` `file`
+    * The `project.clj` file
     * Managing dependencies with `Clojars` and `Maven Central`
     * Running and building `uberjar` artifacts
     * Profiles for environment-specific configuration
@@ -126,7 +126,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
     * Compiling to `JavaScript` with the `ClojureScript` compiler
     * Using `shadow-cljs` for build tooling
     * Interoperating with `JavaScript` libraries
-    * `Reagent` and `Re-frame` for `React`-based UIs overview
+    * Reagent and `Re-frame` for React-based UIs overview
 <!-- chapter: building-a-practical-application, duration: 2h -->
 * Building a Practical Application
     * Designing a `Clojure` service with immutable domain model

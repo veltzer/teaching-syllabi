@@ -20,12 +20,12 @@ The catalog has `Technical Leadership`, `Interviewing and Hiring for Tech Leads`
 Presentations for Engineers`, all of which are useful background but none of which is the staff
 engineer playbook. The staff engineer role — and the principal/distinguished levels above it — is the
 senior individual-contributor track that exists because not every great engineer should become a
-manager and because some technical problems `require` sustained, organization-spanning attention. The
+manager and because some technical problems require sustained, organization-spanning attention. The
 work is real, it is teachable, and it is often invisible to people on either side of the
 contributor/manager line.
 
 This three day course is built on the canonical writing about the role: `Will Larson`'s
-`Staff Engineer`, `Tanya Reilly`'s `The Staff Engineer's Path`, the `LeadDev` and `Stay SaaSy`
+`Staff Engineer`, `Tanya Reilly`'s `The Staff Engineer's Path`, the LeadDev and `Stay SaaSy`
 material, the `staffeng.com` archetypes (the architect, the solver, the right-hand, the tech lead),
 and the pragmatic experience reports from organizations that have a working staff-plus track. It
 covers the archetypes, the technical-strategy work, the writing that scales, the relationship to

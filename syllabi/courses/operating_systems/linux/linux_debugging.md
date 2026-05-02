@@ -19,7 +19,7 @@ audience:
 # `Linux` Debugging
 
 ## Description
-`Linux` Debugging and Troubleshooting is a comprehensive course focused on mastering the art and science of debugging complex `C`/`C++` applications on `Linux` systems. From basic debugging techniques to hunting elusive Heisenbugs, this course covers the full spectrum of debugging methodologies, tools, and strategies used by professional developers to diagnose and fix the most challenging software defects.
+`Linux` Debugging and Troubleshooting is a comprehensive course focused on mastering the art and science of debugging complex C/`C++` applications on `Linux` systems. From basic debugging techniques to hunting elusive Heisenbugs, this course covers the full spectrum of debugging methodologies, tools, and strategies used by professional developers to diagnose and fix the most challenging software defects.
 Participants will learn to use industry-standard debugging tools, analyze complex runtime issues, debug multi-threaded and distributed applications, and tackle non-deterministic bugs that appear only in production environments.
 This course emphasizes practical, real-world debugging scenarios including memory corruption, race conditions, performance bottlenecks, and system-level issues that affect application behavior.
 
@@ -29,7 +29,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 40 hours / 5 days
 
 ## Intended Audience
-* `C`/`C++` developers debugging complex applications
+* C/`C++` developers debugging complex applications
 * System programmers dealing with low-level bugs
 * `DevOps` engineers troubleshooting production issues
 * QA engineers performing deep technical analysis
@@ -37,7 +37,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 * Technical leads responsible for code quality and reliability
 
 ## Prerequisites
-* Strong `C`/`C++` programming experience
+* Strong C/`C++` programming experience
 * Understanding of `Linux` system programming
 * Familiarity with multi-threaded programming
 * Basic knowledge of computer architecture
@@ -58,7 +58,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 <!-- chapter: introduction-to-debugging-methodology, duration: 1h -->
 * Introduction to Debugging Methodology
     * Scientific method in debugging
-    * `Hypothesis`-driven debugging
+    * Hypothesis-driven debugging
     * Binary search debugging
     * Minimal reproducible examples
     * Bug classification and triage
@@ -289,7 +289,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
     * `perf` events and counters
     * /proc filesystem debugging
     * `netstat` and network debugging
-    * `inotify` for `file` system debugging
+    * `inotify` for file system debugging
 
 <!-- chapter: specialized-debugging-tools, duration: 2h -->
 * Specialized Debugging Tools
@@ -325,12 +325,12 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
     * Debugging metrics and KPIs
 
 <!-- Topics from the old linux_debugging_old.md not covered above:
-- `MMU` internals: how it works, what programs can/can't do, memory page limitations
+- MMU internals: how it works, what programs can/can't do, memory page limitations
 - Legacy memory debugging tools: efence, dmalloc, MPatrol
-- "Earliest point principle": sparse allocator, ulimit, changing `r`/w attributes of memory pages, injecting errors
+- "Earliest point principle": sparse allocator, ulimit, changing r/w attributes of memory pages, injecting errors
 - Stack structure: stacks & interrupts, infinite recursion
 - Linker debugging: ld, LD_PRELOAD, overriding symbols
-- Misc: dynamic loading/unloading code, `C++` name mangling, basic `assembly` for debugging, system logger, listing open files/ports
+- Misc: dynamic loading/unloading code, C++ name mangling, basic assembly for debugging, system logger, listing open files/ports
 - Programming for better debugging: managing changesets, writing naive object versions, modular code for debugging
 -->
 

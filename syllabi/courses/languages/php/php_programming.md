@@ -13,7 +13,7 @@ audience:
 # `PHP` Programming
 
 ## Description
-`PHP` is one of the most widely used server-side programming languages, powering a large portion of the web. Modern `PHP` (8.x) is a significantly improved language with strong typing features, attributes, fibers, and a rich ecosystem. This course covers `PHP` from fundamentals through modern best practices, including object-oriented programming, the `composer` ecosystem, and integration with web frameworks.
+`PHP` is one of the most widely used server-side programming languages, powering a large portion of the web. Modern `PHP` (8.x) is a significantly improved language with strong typing features, attributes, fibers, and a rich ecosystem. This course covers `PHP` from fundamentals through modern best practices, including object-oriented programming, the composer ecosystem, and integration with web frameworks.
 
 ## Duration
 32 hours / 4 days

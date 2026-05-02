@@ -25,7 +25,7 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
 
 ## Prerequisites
 * Basic understanding of relational databases and `SQL`.
-* Familiarity with at least one programming language (`Python`, `C`, `Java`, or similar).
+* Familiarity with at least one programming language (`Python`, C, `Java`, or similar).
 * Basic command-line skills.
 
 ## Required Knowledge
@@ -44,7 +44,7 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
 <!-- chapter: introduction-to-sqlite, duration: 1h -->
 * Introduction to `SQLite`:
     * What is `SQLite` and why it matters
-    * Single-`file`, serverless architecture
+    * Single-file, serverless architecture
     * `SQLite` vs other databases (`PostgreSQL`, `MySQL`, `SQL Server`)
     * Use cases and deployment scenarios
 <!-- chapter: sql-dialect-and-data-types, duration: 1h -->
@@ -119,7 +119,7 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
 * Backup and Recovery:
     * Online backup `API`
     * .dump and .restore commands
-    * Database `file` management
+    * Database file management
     * Corruption detection and recovery
 
 ## Copyright

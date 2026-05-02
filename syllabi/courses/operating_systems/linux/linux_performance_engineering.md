@@ -43,7 +43,7 @@ moves quickly into deep technical material.
 
 ## Prerequisites
 * `solid` `Linux` fundamentals and command-line proficiency
-* `C`/`C++` programming experience is a strong advantage
+* C/`C++` programming experience is a strong advantage
 * familiarity with operating system concepts (processes, threads, virtual memory, filesystems)
 * basic understanding of computer architecture (caches, NUMA)
 
@@ -128,7 +128,7 @@ moves quickly into deep technical material.
     * `TCP` retransmit analysis and troubleshooting
 <!-- chapter: profiling-and-tracing-tools, duration: 5h -->
 * Profiling and tracing tools
-    * `perf` in depth: stat, record, report, `top`, annotate, mem
+    * `perf` in depth: stat, record, report, top, annotate, mem
     * `FlameGraphs`: generation, interpretation, on-`CPU` and off-`CPU`
     * `ftrace` and the tracefs interface
     * function tracing and function_graph

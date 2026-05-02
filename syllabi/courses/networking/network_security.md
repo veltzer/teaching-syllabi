@@ -94,7 +94,7 @@ Network security is a critical discipline in today's interconnected world, where
     * `VPN` performance and troubleshooting
 <!-- chapter: tls-ssl-deep-dive, duration: 2h -->
 * `TLS`/`SSL` Deep Dive
-    * `TLS` handshake process (`TLS` 1.2 and `TLS` 1.3)
+    * `TLS` handshake process (```TLS`` 1.2` and `TLS` 1.3)
     * Certificate types and validation levels
     * Cipher suites and algorithm negotiation
     * Perfect forward secrecy

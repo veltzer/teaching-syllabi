@@ -35,7 +35,7 @@ and controllers.
 
 ## Prerequisites
 * `Solid` understanding of `Kubernetes` concepts (pods, services, deployments, namespaces).
-* Experience with the `Go` programming language.
+* Experience with the Go programming language.
 * Familiarity with the `Kubernetes` `API` and `kubectl`.
 * Understanding of `REST` APIs and `YAML`/`JSON` formats.
 
@@ -99,7 +99,7 @@ and controllers.
     * Integration testing with envtest
     * End-to-end testing strategies
     * Building and packaging operator images
-    * Deploying operators with `Helm` or OLM
+    * Deploying operators with Helm or OLM
     * Operator lifecycle management
     * Logging, metrics, and observability for operators
     * Versioning and upgrade strategies

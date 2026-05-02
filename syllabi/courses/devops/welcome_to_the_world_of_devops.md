@@ -86,7 +86,7 @@ course will also discuss current trends and future directions in the `DevOps` la
         * Benefits over traditional infrastructure management
     * Configuration Management
         * Tools for maintaining consistency across environments
-        * Example tools: `Ansible`, `Puppet`, `Chef`
+        * Example tools: `Ansible`, Puppet, Chef
     * Monitoring and Logging
         * Importance of observability
         * Tools for real-time monitoring and alerting
@@ -104,7 +104,7 @@ course will also discuss current trends and future directions in the `DevOps` la
 <!-- chapter: automation-and-scripting, duration: 2h -->
 * Automation and Scripting
     * Scripting Languages
-        * Using `Bash`, `Python`, or `PowerShell` for automation
+        * Using Bash, `Python`, or `PowerShell` for automation
     * Automated Testing
         * Unit tests, integration tests, and their role in `CI/CD`
 <!-- chapter: current-trends-in-devops, duration: 4h -->
@@ -140,8 +140,8 @@ course will also discuss current trends and future directions in the `DevOps` la
         * Managing communication in `microservices` with `Istio`, `Linkerd`
 <!-- chapter: future-directions-in-devops, duration: 4h -->
 * Future Directions in `DevOps`
-    * Integration with `Agile` and `Lean` Methodologies
-        * Synergies between `DevOps`, `Agile`, and `Lean`
+    * Integration with Agile and Lean Methodologies
+        * Synergies between `DevOps`, Agile, and Lean
         * Continuous improvement and value delivery
     * Automation and `AI` in `DevOps`
         * Increased automation opportunities

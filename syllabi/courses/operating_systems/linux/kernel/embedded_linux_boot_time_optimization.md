@@ -58,7 +58,7 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
 <!-- chapter: toolchain-optimizations, duration: 1h -->
 * Toolchain optimizations
     * Introduction to toolchains
-    * `C` libraries
+    * C libraries
     * Size information
     * Measuring executable performance with time
 <!-- chapter: demo-toolchain-optimizations, duration: 1h -->

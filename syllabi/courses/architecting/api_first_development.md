@@ -31,7 +31,7 @@ audience:
 ## Prerequisites
 * Familiarity with `REST API` concepts: `HTTP` methods, status codes, headers, and request/response bodies
 * Basic understanding of `JSON` and `YAML` formats
-* Experience with at least one programming language (e.g., `Python`, `Java`, `TypeScript`, `Go`)
+* Experience with at least one programming language (e.g., `Python`, `Java`, `TypeScript`, Go)
 * Basic knowledge of software architecture and service-oriented design
 * Familiarity with version control using `Git`
 
@@ -68,22 +68,22 @@ audience:
     * `JSON Schema` for data validation within `OpenAPI`
     * Authentication and security schemes: `Bearer`, `OAuth2`, `API Keys`
     * Links and callbacks for describing complex `API` interactions
-    * Writing clear `summary`, `description`, and `example` fields
+    * Writing clear `summary`, description, and `example` fields
     * Tooling: `Swagger Editor`, `Stoplight Studio`, `VS Code` extensions
 <!-- chapter: api-design-best-practices, duration: 2h -->
 * `API` Design Best Practices
     * Resource modelling: nouns, collections, and sub-resources
-    * `HTTP` method semantics: `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
+    * `HTTP` method semantics: GET, POST, PUT, PATCH, `DELETE`
     * Naming conventions: pluralisation, casing, and clarity
     * Designing consistent and informative error responses (RFC 7807 Problem Details)
     * Pagination patterns: `cursor`-based, offset-based, and keyset pagination
     * Filtering, sorting, and field selection
     * Designing for idempotency and safe retry behaviour
-    * Hypermedia and `HATEOAS`: `when` and whether to apply it
+    * Hypermedia and `HATEOAS`: when and whether to apply it
 <!-- chapter: code-generation-from-openapi-specs, duration: 2h -->
 * Code Generation from `OpenAPI` Specs
     * Overview of code generation tools: `OpenAPI Generator`, `swagger-codegen`
-    * Generating server stubs for `Spring Boot`, `FastAPI`, `Express`, and `Go`
+    * Generating server stubs for `Spring Boot`, `FastAPI`, `Express`, and Go
     * Generating client SDKs for `Python`, `TypeScript`, `Java`, and other languages
     * Customising generator templates for project conventions
     * Integrating code generation into `CI/CD` pipelines
@@ -93,7 +93,7 @@ audience:
 <!-- chapter: mock-servers-and-contract-testing, duration: 2h -->
 * Mock Servers and Contract Testing
     * Why mock servers accelerate development: frontend/backend parallelism
-    * Running mock servers with `Prism`, `WireMock`, and `Stoplight Prism`
+    * Running mock servers with Prism, `WireMock`, and `Stoplight Prism`
     * Generating realistic mock data from `OpenAPI` schemas
     * Consumer-driven contract testing: the Pact framework
     * Writing consumer contracts and verifying them against providers
@@ -102,7 +102,7 @@ audience:
     * Managing the contract broker: `Pact Broker` and `PactFlow`
 <!-- chapter: api-versioning-strategies, duration: 2h -->
 * `API` Versioning Strategies
-    * Why `API` versioning is necessary and `when` to introduce breaking changes
+    * Why `API` versioning is necessary and when to introduce breaking changes
     * URL path versioning: `/v1/`, `/v2/`
     * Header-based versioning: `Accept` header and custom headers
     * Query parameter versioning
@@ -124,7 +124,7 @@ audience:
 * `API` Governance and Style Guides
     * What is `API` governance and why it matters at scale
     * Creating and enforcing an `API` style guide
-    * Automated linting of `OpenAPI` specs with `Spectral`
+    * Automated linting of `OpenAPI` specs with Spectral
     * `API` review processes: design reviews and approval workflows
     * Managing an internal `API` catalogue and developer portal
     * Metrics for `API` health: usage, error rates, latency, and consumer adoption

@@ -12,16 +12,16 @@ audience:
   - audiences:devops
 ---
 <!-- course: hashicorp_vault -->
-# HashiCorp `Vault`
+# `HashiCorp Vault`
 
 ## Description
-This course covers HashiCorp `Vault`, the industry-standard tool for secrets management,
+This course covers `HashiCorp Vault`, the industry-standard tool for secrets management,
 encryption as a service, and identity-based access. Students will learn how to deploy,
-configure, and operate `Vault` in production environments.
+configure, and operate Vault in production environments.
 
-The course progresses from secrets management fundamentals through `Vault` architecture,
+The course progresses from secrets management fundamentals through Vault architecture,
 secret engines, authentication methods, and policies. Students will gain practical experience
-with dynamic secrets, the transit engine, `Vault` Agent, and integrations with `Kubernetes`
+with dynamic secrets, the transit engine, Vault Agent, and integrations with `Kubernetes`
 and `Terraform`.
 
 ## Duration
@@ -40,13 +40,13 @@ and `Terraform`.
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand secrets management challenges and how `Vault` addresses them.
-* Install, configure, and unseal a `Vault` server.
+* Understand secrets management challenges and how Vault addresses them.
+* Install, configure, and unseal a Vault server.
 * Use multiple secret engines for different use cases.
 * Configure authentication methods and write access policies.
 * Generate and manage dynamic secrets.
-* Integrate `Vault` with `Kubernetes` and `Terraform`.
-* Design highly available and disaster-recoverable `Vault` deployments.
+* Integrate Vault with `Kubernetes` and `Terraform`.
+* Design highly available and disaster-recoverable Vault deployments.
 
 ## Outline
 <!-- chapter: secrets-management-concepts, duration: 1h -->
@@ -56,13 +56,13 @@ and `Terraform`.
     * Zero-trust security model
     * Secrets lifecycle management
 <!-- chapter: vault-architecture, duration: 1h -->
-* `Vault` Architecture
-    * `Vault` server components
-    * Storage backends (`Consul`, Raft, filesystem)
+* Vault Architecture
+    * Vault server components
+    * Storage backends (Consul, Raft, filesystem)
     * Seal and unseal process
     * Shamir secret sharing
     * Auto-unseal with `cloud KMS`
-    * `Vault` `API` overview
+    * Vault `API` overview
 <!-- chapter: secret-engines, duration: 2h -->
 * Secret Engines
     * KV secrets engine (v1 and v2)
@@ -104,7 +104,7 @@ and `Terraform`.
     * Convergent encryption
     * Data masking
 <!-- chapter: vault-agent, duration: 1h -->
-* `Vault` Agent
+* Vault Agent
     * Auto-auth configuration
     * Template rendering
     * Caching
@@ -129,14 +129,14 @@ and `Terraform`.
     * Backup and restore
 <!-- chapter: terraform-integration, duration: 1h -->
 * `Terraform` Integration
-    * `Vault` provider for `Terraform`
-    * Managing `Vault` configuration as code
+    * Vault provider for `Terraform`
+    * Managing Vault configuration as code
     * Dynamic credentials for `Terraform` runs
 <!-- chapter: kubernetes-integration, duration: 1h -->
 * `Kubernetes` Integration
-    * `Vault` sidecar injector
+    * Vault sidecar injector
     * CSI provider
-    * `Vault` Secrets Operator
+    * Vault Secrets Operator
     * Pod identity and authentication
 
 ## Copyright

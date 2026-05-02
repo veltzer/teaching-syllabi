@@ -15,7 +15,7 @@ audience:
 # `Dagster`
 
 ## Description
-`Dagster` is a modern data orchestration platform built around the concept of software-defined assets. This course covers `Dagster` architecture and core abstractions including assets, ops, jobs, resources, and IO managers. Participants will learn to build, test, and deploy data pipelines with schedules, sensors, and partitions, and integrate `Dagster` with tools like `dbt`, `Spark`, and `Pandas`.
+`Dagster` is a modern data orchestration platform built around the concept of software-defined assets. This course covers `Dagster` architecture and core abstractions including assets, ops, jobs, resources, and IO managers. Participants will learn to build, test, and deploy data pipelines with schedules, sensors, and partitions, and integrate `Dagster` with tools like `dbt`, `Spark`, and Pandas.
 
 ## Duration
 16 hours / 2 days
@@ -45,7 +45,7 @@ audience:
 * Configure resources and IO managers for flexible data access
 * Set up schedules, sensors, and partitions for automated execution
 * Write and run tests for `Dagster` assets and ops
-* Integrate `Dagster` with `dbt`, `Spark`, and `Pandas`
+* Integrate `Dagster` with `dbt`, `Spark`, and Pandas
 * Deploy `Dagster` with `Docker` and `Kubernetes`
 * Compare `Dagster` with `Airflow` and `Prefect`
 
@@ -124,8 +124,8 @@ audience:
 * Integrations
     * `dbt` integration with `dagster`-`dbt`
     * `Spark` integration with `dagster`-`spark`
-    * `Pandas` and `PySpark` DataFrame integration
-    * Database integrations (`PostgreSQL`, `Snowflake`, `BigQuery`)
+    * Pandas and `PySpark` DataFrame integration
+    * Database integrations (`PostgreSQL`, Snowflake, `BigQuery`)
     * `Cloud storage` integrations (`S3`, `GCS`, `ADLS`)
 <!-- chapter: comparison-with-airflow-and-prefect, duration: 1h -->
 * Comparison with `Airflow` and `Prefect`
@@ -137,12 +137,12 @@ audience:
 * Deployment
     * Local development and single-process deployment
     * `Docker` and `Docker Compose` deployment
-    * `Kubernetes` deployment with `Helm` charts
+    * `Kubernetes` deployment with Helm charts
     * Configuring executors (in-process, multiprocess, Celery, K8s)
 <!-- chapter: monitoring-and-alerting, duration: 1h -->
 * Monitoring and Alerting
     * Built-in monitoring and health checks
-    * Setting up alerts (email, `Slack`, `PagerDuty`)
+    * Setting up alerts (email, Slack, `PagerDuty`)
     * Run failure handling and retry policies
     * Performance monitoring and optimization
 <!-- chapter: best-practices, duration: 1h -->

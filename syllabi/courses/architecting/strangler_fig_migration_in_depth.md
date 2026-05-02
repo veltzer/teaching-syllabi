@@ -31,8 +31,8 @@ customer cohort, a tenant), the data synchronization model (the new system reads
 both, eventually owns), the identity-and-session question, the verification approach (shadow traffic,
 diff, score), the rollback story, the long-tail problem (the last 5 percent that is impossible to
 migrate), the team and organizational shape that makes it work, and the metrics that tell you whether
-the migration is succeeding. Examples are drawn from the public engineering writing of `Stripe`,
-`Shopify`, `GitHub`, `Etsy`, and `Monzo`. Participants leave able to plan, execute, and finish a
+the migration is succeeding. Examples are drawn from the public engineering writing of Stripe,
+`Shopify`, `GitHub`, Etsy, and `Monzo`. Participants leave able to plan, execute, and finish a
 strangler migration.
 
 ## Duration
@@ -70,7 +70,7 @@ strangler migration.
 <!-- chapter: the-routing-layer, duration: 2h -->
 * The routing layer
     * proxy vs in-app routing
-    * `nginx`, `Envoy`, `HAProxy` as the strangler proxy
+    * `nginx`, Envoy, `HAProxy` as the strangler proxy
     * the per-endpoint routing rule
     * the per-customer routing rule
     * the dynamic-config approach
@@ -142,7 +142,7 @@ strangler migration.
     * the calendar reality
 <!-- chapter: case-studies, duration: 2h -->
 * Case studies
-    * `Stripe`'s pre-`Stripe` to `Stripe` migration story
+    * Stripe's pre-Stripe to Stripe migration story
     * `Shopify`'s `monolith` decomposition
     * `Etsy`'s `PHP` to `multi-stack` migration
     * `Monzo`'s migration patterns

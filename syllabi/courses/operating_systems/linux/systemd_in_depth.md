@@ -22,12 +22,12 @@ The catalog has `Linux Fundamentals`, `Linux for Developers`, `Linux System Admi
 None of those is the focused course on `systemd` — the init system, service manager, dependency
 graph, and broader platform component that runs on essentially every modern `Linux` system. `systemd`
 is more than `service` start; it is the logging system (`journald`), the network configuration
-(`networkd`, `resolved`), the unit-`file` framework, the timer subsystem (the `cron` replacement), the
+(`networkd`, `resolved`), the unit-file framework, the timer subsystem (the `cron` replacement), the
 sandboxing primitives that container runtimes use under the hood, the resource-control layer, and the
 `user-session` framework. Operating modern `Linux` without understanding `systemd` is operating
 blind.
 
-This three day course covers `systemd` as a focused topic. It covers the unit-`file` model (services,
+This three day course covers `systemd` as a focused topic. It covers the unit-file model (services,
 sockets, timers, paths, mounts, slices, scopes, targets), the dependency graph (`Wants`, `Requires`,
 `After`, `Before`), the activation model (the `socket-activated` service, the `path-activated`
 service), the resource-control story (`cgroups`-via-`systemd`, slices, `MemoryMax`, `CPUQuota`,
@@ -72,7 +72,7 @@ work and that fail safely.
     * cross-reference to the `Linux Fundamentals` course
     * why the design choices
 <!-- chapter: the-unit-file-model, duration: 2h -->
-* The unit-`file` model
+* The unit-file model
     * `service`, `socket`, `timer`, `path`, `mount`, `slice`, `scope`, `target`
     * the `[Unit]`, `[Service]`, `[Install]` sections
     * the per-user vs system unit
@@ -126,7 +126,7 @@ work and that fail safely.
     * cross-reference to the `Linux` Performance Engineering course
 <!-- chapter: journald-and-structured-logging, duration: 2h -->
 * `journald` and structured logging
-    * the journal `file` format
+    * the journal file format
     * structured fields per entry
     * `journalctl` for querying
     * retention and rotation

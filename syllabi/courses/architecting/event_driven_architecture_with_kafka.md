@@ -72,7 +72,7 @@ concerns including dead letter topics and monitoring strategies for production `
 <!-- chapter: schema-registry, duration: 1h -->
 * schema registry
     * the role of schema registry in event-driven systems
-    * `Avro`, `Protobuf`, and `JSON Schema` support
+    * `Avro`, Protobuf, and `JSON Schema` support
     * schema evolution and compatibility modes
     * forward, backward, and full compatibility
 <!-- chapter: exactly-once-semantics, duration: 1h -->

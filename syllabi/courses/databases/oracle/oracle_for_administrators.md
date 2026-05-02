@@ -12,10 +12,10 @@ audience:
   - audiences:sysadmins
 ---
 <!-- course: oracle_for_administrators -->
-# `Oracle` for Administrators
+# Oracle for Administrators
 
 ## Description
-This course is designed to provide students with the knowledge and skills necessary to effectively administer and maintain `Oracle` databases. Students will learn about the architecture, configuration, security, backup and recovery, performance tuning, and troubleshooting of `Oracle` databases. The course covers various aspects of database administration, including installation, configuration, user management, and database maintenance tasks.
+This course is designed to provide students with the knowledge and skills necessary to effectively administer and maintain Oracle databases. Students will learn about the architecture, configuration, security, backup and recovery, performance tuning, and troubleshooting of Oracle databases. The course covers various aspects of database administration, including installation, configuration, user management, and database maintenance tasks.
 
 ## Duration
 40 hours / 5 days
@@ -33,8 +33,8 @@ This course is designed to provide students with the knowledge and skills necess
 
 ## Objectives
 Upon successful completion of this course, students will be able to:
-* Understand the architecture and components of `Oracle` Database
-* Install and configure `Oracle` Database software
+* Understand the architecture and components of Oracle Database
+* Install and configure Oracle Database software
 * Create and manage database instances and storage structures
 * Implement database security and user management
 * Perform database backup and recovery operations
@@ -44,16 +44,16 @@ Upon successful completion of this course, students will be able to:
 
 ## Outline
 <!-- chapter: introduction-to-oracle-database, duration: 4h -->
-* Introduction to `Oracle` Database
-    * Overview of `Oracle` Database
+* Introduction to Oracle Database
+    * Overview of Oracle Database
     * Database architecture and components
-    * `Oracle` software installation and configuration
+    * Oracle software installation and configuration
 <!-- chapter: oracle-database-instance-and-storage-management, duration: 5h -->
-* `Oracle` Database Instance and Storage Management
+* Oracle Database Instance and Storage Management
     * Creating and managing database instances
     * Managing control files, redo log files, and archive log files
     * Configuring and managing table-spaces and datafiles
-    * Understanding `Oracle` memory structures (SGA and PGA)
+    * Understanding Oracle memory structures (SGA and PGA)
 <!-- chapter: database-security-and-user-management, duration: 5h -->
 * Database Security and User Management
     * User and role management
@@ -86,13 +86,13 @@ Upon successful completion of this course, students will be able to:
     * Identifying and resolving common database issues
     * Interpreting and analyzing trace files and alert logs
     * Database maintenance tasks (statistics gathering, space management)
-    * `Oracle` Support and diagnostic tools
+    * Oracle Support and diagnostic tools
 
 ## Textbooks and Resources
-* `Oracle` Database Documentation
-* "`Oracle` Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney
-* "`Oracle` Database Administration: The Essential Reference" by David `C`. Kreines
-* Online resources (`Oracle` Learning Library, `Oracle` Support Community, etc.)
+* Oracle Database Documentation
+* "Oracle Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney
+* "Oracle Database Administration: The Essential Reference" by David C. Kreines
+* Online resources (Oracle Learning Library, Oracle Support Community, etc.)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

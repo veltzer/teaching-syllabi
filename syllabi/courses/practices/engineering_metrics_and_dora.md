@@ -21,13 +21,13 @@ audience:
 ## Description
 "You can't manage what you don't measure" gets used to justify a lot of bad engineering metrics. The honest
 version is harder: most things that matter in software engineering are difficult to measure, and most things
-that are easy to measure mislead you. The `DORA`, `SPACE` and `DX` frameworks are the best public
+that are easy to measure mislead you. The `DORA`, SPACE and `DX` frameworks are the best public
 frameworks we have for cutting through that mess.
 
 This five day course is a practical treatment of engineering metrics. It covers the four key `DORA` metrics and
 how to compute them honestly, the `SPACE` framework's expansion of "developer productivity", the `DX` core-4
-research, the anti-metrics that destroy teams, the tooling landscape (`LinearB`, `Jellyfish`, `Swarmia`,
-`Code Climate Velocity`, `DX`), and the practices that `make` metrics useful for the people being measured rather
+research, the anti-metrics that destroy teams, the tooling landscape (`LinearB`, Jellyfish, `Swarmia`,
+`Code Climate Velocity`, DX), and the practices that `make` metrics useful for the people being measured rather
 than just for the people doing the measuring. Participants leave able to introduce engineering metrics on a
 team without making it worse, to read someone else's metrics critically, and to push back on metrics that
 deserve pushing back on.
@@ -44,7 +44,7 @@ deserve pushing back on.
 ## Prerequisites
 * several years of professional software development or management experience
 * basic familiarity with `CI`/`CD`, ticketing systems and source control
-* exposure to at least one metrics framework (`DORA`, `SPACE`, `DX`) is helpful
+* exposure to at least one metrics framework (`DORA`, SPACE, `DX`) is helpful
 
 ## Objectives
 * define and compute the four `DORA` metrics honestly
@@ -98,7 +98,7 @@ deserve pushing back on.
 <!-- chapter: dx-core-4-and-developer-experience, duration: 3h -->
 * `DX` core-4 and developer experience
     * the `DX` research and core-4 metrics
-    * `DX` vs `SPACE` vs `DORA`
+    * `DX` vs SPACE vs `DORA`
     * developer experience as a leading indicator
     * the `DX` survey methodology
     * acting on `DX` data without overreacting
@@ -131,7 +131,7 @@ deserve pushing back on.
     * the inertia problem and recovering from it
 <!-- chapter: tooling-landscape, duration: 3h -->
 * Tooling landscape
-    * `LinearB`, `Jellyfish`, `Swarmia`, `Code Climate Velocity`
+    * `LinearB`, Jellyfish, Swarmia, `Code Climate Velocity`
     * `DX` (the company) and `SleuthQA`
     * `Athenian` and others
     * build vs buy for metric collection
@@ -177,7 +177,7 @@ deserve pushing back on.
 * Workshop and wrap up
     * design a metrics program for a sample team
     * group review of a draft engineering scorecard
-    * recommended reading: `Forsgren`/`Humble`/`Kim`, `DX` papers, `Reinertsen`
+    * recommended reading: `Forsgren`/Humble/Kim, DX papers, `Reinertsen`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

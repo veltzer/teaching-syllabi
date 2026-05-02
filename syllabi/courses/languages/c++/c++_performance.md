@@ -29,14 +29,14 @@ We deal with the cost of various `C++` features and with interacting efficiently
 ## Objectives
 * understand the core concepts and principles of `C++` Performance
 * gain practical knowledge of Micro optimizations
-* gain practical knowledge of `C++` efficiency compared to `C` and `assembly`
+* gain practical knowledge of `C++` efficiency compared to C and `assembly`
 * gain practical knowledge of Is efficiency important?
 
 ## Outline
 <!-- chapter: micro-optimizations, duration: 2h -->
 * Micro optimizations
 <!-- chapter: c-efficiency-compared-to-c-and-assembly, duration: 2h -->
-* `C++` efficiency compared to `C` and `assembly`
+* `C++` efficiency compared to C and `assembly`
 <!-- chapter: is-efficiency-important, duration: 2h -->
 * Is efficiency important?
 <!-- chapter: what-type-of-efficiency, duration: 2h -->

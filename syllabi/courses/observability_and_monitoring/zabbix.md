@@ -30,7 +30,7 @@ audience:
 * `Solid` `Linux` system administration skills, including service management and networking commands.
 * Basic understanding of networking concepts: `IP`, `SNMP`, `ICMP`, `TCP/UDP`.
 * Familiarity with relational databases (`MySQL` or `PostgreSQL`) at a basic administrative level.
-* Experience with `JSON` or scripting (`Bash`, `Python`) is helpful for automation topics.
+* Experience with `JSON` or scripting (Bash, `Python`) is helpful for automation topics.
 
 ## Required Knowledge
 * `Linux` System Administration (or equivalent experience)
@@ -42,7 +42,7 @@ audience:
 * Build intelligent triggers and actions to detect and respond to problems automatically
 * Set up flexible notification and escalation policies for alerting
 * Monitor network infrastructure using `SNMP` and `IPMI`
-* Deploy and manage `Zabbix` agents including active `check` configurations
+* Deploy and manage `Zabbix` agents including active check configurations
 * Design informative dashboards and generate scheduled reports
 * Implement distributed monitoring using `Zabbix` proxies for remote locations
 * Automate `Zabbix` configuration and integrate with external systems using the `API`
@@ -61,15 +61,15 @@ audience:
     * `Zabbix` server, database, frontend, and agent components
     * Installing `Zabbix` server on `RHEL`/`Debian` with `MySQL`/`PostgreSQL`
     * `Docker` and `Docker Compose` deployment
-    * `Zabbix` frontend setup with `Nginx` and `Apache`
+    * `Zabbix` frontend setup with `Nginx` and Apache
     * Initial configuration wizard and first login
-    * `Zabbix` server configuration `file`: key parameters
+    * `Zabbix` server configuration file: key parameters
     * Database maintenance and housekeeping settings
 <!-- chapter: hosts-templates-and-items, duration: 3h -->
 * Hosts, Templates and Items
     * Creating and organizing hosts and host groups
     * Host interfaces: `Zabbix` agent, `SNMP`, `IPMI`, `JMX`
-    * Item types: agent, simple `check`, internal, external, calculated, dependent
+    * Item types: agent, simple check, internal, external, calculated, dependent
     * Key syntax and item configuration parameters
     * User macros and global macros for reusable configuration
     * Templates: structure, linking, and inheritance
@@ -87,7 +87,7 @@ audience:
     * Event acknowledgement and manual problem closing
 <!-- chapter: notifications-and-alerting, duration: 2h -->
 * Notifications and Alerting
-    * Media types: email, `SMS`, `Slack`, `PagerDuty`, webhooks
+    * Media types: email, `SMS`, Slack, `PagerDuty`, webhooks
     * User groups and permission-based notification routing
     * Escalation policies: time-based and severity-based escalation
     * Maintenance `windows` to suppress alerts during planned downtime
@@ -112,7 +112,7 @@ audience:
     * Templates for common network vendors: Cisco, Juniper, HP
 <!-- chapter: zabbix-agent-and-active-checks, duration: 2h -->
 * `Zabbix` Agent and Active Checks
-    * Passive vs active agent `check` modes
+    * Passive vs active agent check modes
     * Installing and configuring `Zabbix` agent v2
     * Agent configuration: server, listen port, host metadata
     * Custom user parameters and external scripts

@@ -301,7 +301,7 @@ and demonstrated.
 ## References
 * [Google Hacking](`https`://en.wikipedia.org/wiki/Google_hacking)
 * [burp](`https`://portswigger.net/burp)
-* [`NMAP`](`https`://`nmap`.org)
+* [`NMAP`](https://`nmap`.org)
 * [Web Development Tools](`https`://en.wikipedia.org/wiki/Web_development_tools)
 
 ## Copyright

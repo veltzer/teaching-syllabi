@@ -56,7 +56,7 @@ management best practices on the `Databricks` platform.
     * Workspace and notebooks
         * Workspace organization
         * Notebook creation and management
-        * Multi-language support (`Python`, `SQL`, `Scala`, `R`)
+        * Multi-language support (`Python`, `SQL`, `Scala`, R)
         * Notebook versioning and collaboration
         * `Databricks` Repos and `Git` integration
     * Clusters and compute
@@ -69,7 +69,7 @@ management best practices on the `Databricks` platform.
 * `Delta Lake`
     * `Delta Lake` fundamentals
         * ACID transactions on data lakes
-        * `Delta` table format and transaction log
+        * Delta table format and transaction log
         * Schema enforcement
     * Time travel
         * Querying historical versions
@@ -106,7 +106,7 @@ management best practices on the `Databricks` platform.
         * `SQL` warehouses
         * Query editor and history
         * `SQL` dashboards and visualizations
-    * Working with `Delta` tables via `SQL`
+    * Working with Delta tables via `SQL`
         * DDL and DML operations
         * Views and materialized views
         * Query optimization
@@ -160,7 +160,7 @@ management best practices on the `Databricks` platform.
     * `Auto Loader` for streaming ingestion
         * `File` notification and directory listing modes
         * Schema inference and evolution
-        * Supported `file` formats
+        * Supported file formats
         * Incremental ingestion patterns
 <!-- chapter: medallion-architecture, duration: 2h -->
 * Medallion Architecture

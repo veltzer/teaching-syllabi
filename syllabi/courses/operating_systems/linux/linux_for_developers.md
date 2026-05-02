@@ -14,7 +14,7 @@ audience:
 # `Linux` for Developers
 
 ## Description
-This course equips software developers with the `Linux` knowledge they need to build, debug, and deploy applications effectively on `Linux` systems. Topics include `file` `I/O`, processes, signals, `IPC`, sockets, memory management, debugging tools, build systems, package management, and containerization basics. Students will gain practical skills for working productively in `Linux` development environments.
+This course equips software developers with the `Linux` knowledge they need to build, debug, and deploy applications effectively on `Linux` systems. Topics include file `I/O`, processes, signals, `IPC`, sockets, memory management, debugging tools, build systems, package management, and containerization basics. Students will gain practical skills for working productively in `Linux` development environments.
 
 ## Duration
 24 hours / 3 days
@@ -25,12 +25,12 @@ This course equips software developers with the `Linux` knowledge they need to b
 * Embedded engineers developing user-space applications
 
 ## Prerequisites
-* Programming experience in `C` or `C++` (or willingness to read `C` code).
+* Programming experience in C or `C++` (or willingness to read C code).
 * Basic familiarity with the `Linux` command line.
 * Understanding of fundamental operating system concepts.
 
 ## Objectives
-* Perform `file` `I/O` operations using system calls and standard library functions.
+* Perform file `I/O` operations using system calls and standard library functions.
 * Create and manage processes, and understand process lifecycle.
 * Handle signals for process communication and control.
 * Implement inter-process communication using pipes, FIFOs, shared memory, and message queues.
@@ -45,10 +45,10 @@ This course equips software developers with the `Linux` knowledge they need to b
 <!-- chapter: file-i-o, duration: 2h -->
 * `File` `I/O`:
     * System calls: open, read, write, close, lseek.
-    * `File` descriptors and `file` tables.
+    * `File` descriptors and file tables.
     * Buffered vs. unbuffered `I/O`.
     * `File` locking and advisory locks.
-    * Filesystem hierarchy and `file` metadata.
+    * Filesystem hierarchy and file metadata.
 <!-- chapter: processes, duration: 2h -->
 * Processes:
     * Process creation with fork and exec.

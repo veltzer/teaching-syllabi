@@ -27,7 +27,7 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
 * Systems programmers moving from other architectures to `ARM`.
 
 ## Prerequisites
-* `Solid` `C` programming skills.
+* `Solid` C programming skills.
 * Basic understanding of computer architecture concepts.
 * Familiarity with a `Linux` command-line environment.
 
@@ -59,7 +59,7 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
 * Registers and Addressing Modes
     * General-purpose registers
     * Special-purpose registers (SP, LR, PC)
-    * AArch64 register `file`
+    * AArch64 register file
     * Addressing modes (immediate, register, scaled)
     * Status flags and condition codes
 <!-- chapter: arm-vs-thumb-instruction-set, duration: 2h -->
@@ -86,7 +86,7 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
     * Memory ordering and barriers
 <!-- chapter: neon-simd, duration: 2h -->
 * NEON SIMD
-    * NEON register `file`
+    * NEON register file
     * NEON data types and operations
     * Vectorizing loops
     * Intrinsics vs `assembly`
@@ -113,7 +113,7 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
     * Running an operating system on Cortex-A
 <!-- chapter: arm-toolchain, duration: 2h -->
 * `ARM` Toolchain
-    * `GCC` for `ARM` (`arm`-none-eabi-`gcc`, aarch64-`linux`-gnu-`gcc`)
+    * `GCC` for `ARM` (arm-none-eabi-gcc, aarch64-linux-gnu-`gcc`)
     * `LLVM`/`Clang` for `ARM`
     * Linker scripts
     * `Assembly` syntax (unified `assembly` language)

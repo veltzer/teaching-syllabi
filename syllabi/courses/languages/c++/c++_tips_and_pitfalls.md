@@ -49,7 +49,7 @@ understanding of `C++`.
     * Temporary objects
     * Why always to provide CTOR and DTOR
 <!-- chapter: when-to-return-by-reference-and-when-by-value, duration: 1h -->
-* `When` to return by Reference and `when` by Value
+* `When` to return by Reference and when by Value
     * Use reference everywhere it possible
 <!-- chapter: behind-inline-mechanism, duration: 2h -->
 * Behind "inline" mechanism
@@ -62,14 +62,14 @@ understanding of `C++`.
     * Conversion operator and it pitfalls
     * Operators new-and-delete
         * Overloading
-        * How to use overloaded NEW and DELETE to `find` memory leaks
+        * How to use overloaded NEW and DELETE to find memory leaks
         * Placement `new-operator`
 <!-- chapter: templates, duration: 1h -->
 * Templates
     * Internals
     * How to write efficient code using template mechanism
 <!-- chapter: exception-handler-www-what-when-why, duration: 1h -->
-* Exception Handler - www - what, `when`, why
+* Exception Handler - www - what, when, why
     * Exception Handler in CTORs and DTORs
     * Uncaught Exceptions and recovery ( terminate, set_terminate functions)
 <!-- chapter: polymorphism, duration: 2h -->
@@ -96,8 +96,8 @@ understanding of `C++`.
 <!-- chapter: class-design, duration: 2h -->
 * Class Design
     * CONST correctness
-    * `When` to declare member-function as virtual and `when` not
-    * Data-members: `when` private and `when` protected
+    * `When` to declare member-function as virtual and when not
+    * Data-members: when private and when protected
 <!-- chapter: tips-and-pitfalls, duration: 2h -->
 * Tips and Pitfalls
     * CTOR & DTOR pitfalls
@@ -117,7 +117,7 @@ understanding of `C++`.
 * [Scott Meyers, Effective `C++`, Addison-Wesley Publishing Company](`https`://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/`c++`/Effective%20C++%20+%20More%20Effective%20C++.`pdf`)
 * [Scott Meyers, More Effective `C++`, Addison-Wesley Publishing Company](`https`://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/`c++`/Effective%20C++%20+%20More%20Effective%20C++.`pdf`)
 * [Scott Meyers, Effective Modern `C++`, Addison-Wesley Publishing Company](`https`://zhjwpku.com/assets/`pdf`/books/`C++`.Primer.5th.Edition_2013.`pdf`)
-* [E.Gamma, `R`.`Helm`, `R`.Johnson, J.Vlissides, `Design Patterns`, Addison-Wesley Publishing Company](`http`://www.javier8a.com/itc/bd1/articulo.`pdf`)
+* [E.Gamma, R.Helm, R.Johnson, J.Vlissides, `Design Patterns`, Addison-Wesley Publishing Company](`http`://www.javier8a.com/itc/bd1/articulo.`pdf`)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -78,7 +78,7 @@ This intensive course is designed for experienced penetration testers seeking to
     * Offensive network tooling and advanced utilities
     * `File` transfer and execution techniques
     * Exploiting common `Linux` services
-        * `Apache`
+        * Apache
         * `SMB`
         * `FTP`
         * `Redis`

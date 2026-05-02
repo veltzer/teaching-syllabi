@@ -36,7 +36,7 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 * platform engineers building automation frameworks for their organizations.
 
 ## Prerequisites
-* Basic `Linux` system administration skills (`file` system, services, packages).
+* Basic `Linux` system administration skills (file system, services, packages).
 * Familiarity with the command line and `SSH`.
 * Basic understanding of `YAML` syntax.
 * Experience with version control (`Git`).
@@ -55,7 +55,7 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 * Introduction to `Ansible`
     * What is `Ansible` and why agentless matters
     * `Ansible` architecture and components
-    * Comparing `Ansible` with other configuration management tools (`Puppet`, `Chef`, `SaltStack`)
+    * Comparing `Ansible` with other configuration management tools (Puppet, Chef, `SaltStack`)
     * Installing and configuring `Ansible`
     * `Ansible` control node and managed nodes
 <!-- chapter: inventory-management, duration: 2h -->
@@ -83,7 +83,7 @@ It focuses on real-world automation scenarios rather than abstract concepts.
         * Registered variables
         * `Ansible` facts and setup module
         * Custom facts
-    * Conditionals with `when`
+    * Conditionals with when
     * Loops and iteration
     * Tags for selective execution
     * Error handling (ignore_errors, block/rescue/always)
@@ -91,8 +91,8 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 * Modules
     * Understanding `Ansible` modules
     * Core modules
-        * Package management (`apt`, `yum`, `pip`)
-        * `File` management (copy, template, `file`, lineinfile)
+        * Package management (`apt`, `yum`, pip)
+        * `File` management (copy, template, file, lineinfile)
         * Service management (service, `systemd`)
         * User and group management
         * Command execution (command, shell, raw, script)
@@ -105,7 +105,7 @@ It focuses on real-world automation scenarios rather than abstract concepts.
     * Variables and filters in templates
     * Conditional logic in templates
     * Loops in templates
-    * Template `file` management and best practices
+    * Template file management and best practices
 <!-- chapter: idempotency, duration: 1h -->
 * Idempotency
     * What idempotency means in practice
@@ -140,9 +140,9 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 <!-- chapter: ansible-vault, duration: 1h -->
 * `Ansible Vault`
     * Encrypting sensitive data
-    * `Vault` passwords and password files
+    * Vault passwords and password files
     * Encrypting files vs encrypting variables
-    * `Vault` integration in playbooks and `CI/CD`
+    * Vault integration in playbooks and `CI/CD`
 <!-- chapter: testing-with-molecule, duration: 1h -->
 * Testing with Molecule
     * What is Molecule and why test `Ansible` code

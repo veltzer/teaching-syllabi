@@ -77,7 +77,7 @@ audience:
     * Pinning module versions
 <!-- chapter: file-i-o-and-process-management, duration: 1h -->
 * `File` `I/O` and Process Management
-    * Advanced `file` handling (open modes, binmode)
+    * Advanced file handling (open modes, binmode)
     * Directory traversal (`File`::`Find`, Path::Tiny)
     * Temporary files and locking
     * Process creation (system, exec, backticks)
@@ -118,7 +118,7 @@ audience:
     * Benchmarking with Benchmark module
     * Profiling with Devel::NYTProf
     * Memoization
-    * XS and Inline::`C` for critical paths
+    * XS and Inline::C for critical paths
     * Memory optimization
     * Identifying and resolving bottlenecks
 

@@ -49,7 +49,7 @@ Participants leave able to model new domains correctly across paradigms and to r
 
 ## Objectives
 * model a domain at the conceptual, logical and physical levels
-* apply normalization correctly and recognize `when` to denormalize
+* apply normalization correctly and recognize when to denormalize
 * design dimensional models for analytical workloads
 * choose between relational, document, key-value, graph and time-series modeling
 * evolve a schema in production without breakage
@@ -71,11 +71,11 @@ Participants leave able to model new domains correctly across paradigms and to r
     * `UML` class diagrams as data models
     * cardinality and participation
     * weak entities and identifying relationships
-    * recognizing `when` a thing is an attribute vs an entity
+    * recognizing when a thing is an attribute vs an entity
 <!-- chapter: logical-modeling-and-normalization, duration: 4h -->
 * Logical modeling and normalization
     * functional dependencies
-    * `1NF`, `2NF`, `3NF`, `BCNF`
+    * `1NF`, 2NF, 3NF, `BCNF`
     * `4NF` and multivalued dependencies
     * `5NF` and join dependencies
     * `6NF` for `temporal` and time-series modeling
@@ -84,7 +84,7 @@ Participants leave able to model new domains correctly across paradigms and to r
 <!-- chapter: physical-modeling-for-relational-databases, duration: 3h -->
 * Physical modeling for relational databases
     * choosing primary keys: natural, surrogate, composite
-    * `UUID` vs auto-increment vs `ULID`/`KSUID`
+    * `UUID` vs auto-increment vs ULID/`KSUID`
     * indexing strategy from queries, not from columns
     * partitioning at the table level
     * materialized views and indexed views
@@ -112,7 +112,7 @@ Participants leave able to model new domains correctly across paradigms and to r
     * read-pattern-driven design
     * arrays and the cost of unbounded growth
     * indexing inside documents
-    * `MongoDB`, `DocumentDB`, `Cosmos DB` modeling idioms
+    * `MongoDB`, DocumentDB, `Cosmos DB` modeling idioms
     * common document-store modeling mistakes
 <!-- chapter: modeling-for-key-value-and-wide-column, duration: 3h -->
 * Modeling for key-value and wide-column
@@ -129,7 +129,7 @@ Participants leave able to model new domains correctly across paradigms and to r
     * direction, type, properties on edges
     * `Neo4j` and `Cypher` modeling
     * `GraphRAG` and graph-as-knowledge-base
-    * `when` a graph database is right and `when` it is overkill
+    * when a graph database is right and when it is overkill
 <!-- chapter: modeling-for-time-series-and-events, duration: 2h -->
 * Modeling for time-series and events
     * the wide-narrow decision
@@ -143,14 +143,14 @@ Participants leave able to model new domains correctly across paradigms and to r
     * star schema vs `snowflake` schema
     * slowly changing dimensions: types 0 to 7
     * conformed dimensions
-    * `Kimball` vs `Inmon` vs `Data Vault`
-    * dimensional modeling for `BigQuery`/`Snowflake`/`Redshift`
+    * `Kimball` vs Inmon vs `Data Vault`
+    * dimensional modeling for `BigQuery`/Snowflake/`Redshift`
 <!-- chapter: data-vault-and-anchor-modeling, duration: 2h -->
-* Data `Vault` and Anchor Modeling
+* Data Vault and Anchor Modeling
     * hubs, links, satellites
-    * Data `Vault` 2.0
+    * Data Vault 2.0
     * anchor modeling and `6NF`
-    * `when` these approaches are worth the complexity
+    * when these approaches are worth the complexity
     * combining with dimensional models for the consumer layer
 <!-- chapter: schema-evolution-and-migrations, duration: 3h -->
 * Schema evolution and migrations
@@ -159,7 +159,7 @@ Participants leave able to model new domains correctly across paradigms and to r
     * online migrations on large tables
     * dual-write `windows`
     * data migrations vs schema migrations
-    * tools: `Flyway`, `Liquibase`, `Alembic`, `gh-ost`, `pt-online-schema-change`
+    * tools: Flyway, `Liquibase`, Alembic, `gh-ost`, `pt-online-schema-change`
 <!-- chapter: modeling-anti-patterns, duration: 2h -->
 * Modeling anti-patterns
     * the entity-attribute-value anti-pattern
@@ -180,7 +180,7 @@ Participants leave able to model new domains correctly across paradigms and to r
 * Workshop and wrap up
     * group review of a real schema, with critique
     * design walkthrough of a sample domain across paradigms
-    * recommended reading: `Kleppmann`, `Kimball`, `Linstedt`, `Codd`
+    * recommended reading: `Kleppmann`, Kimball, Linstedt, `Codd`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

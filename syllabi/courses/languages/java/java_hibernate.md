@@ -11,10 +11,10 @@ audience:
   - audiences:developers
 ---
 <!-- course: java_hibernate -->
-# `Java` `Hibernate`/`JPA`
+# `Java` Hibernate/`JPA`
 
 ## Description
-This course provides comprehensive coverage of `Java` persistence using `Hibernate` and
+This course provides comprehensive coverage of `Java` persistence using Hibernate and
 the `JPA` specification. Participants will learn entity mapping, relationship modeling,
 querying strategies, caching, and performance optimization techniques. The course also
 covers integration with `Spring Data JPA` and database migration strategies.
@@ -32,7 +32,7 @@ covers integration with `Spring Data JPA` and database migration strategies.
 
 ## Objectives
 * Participants will gain a thorough understanding of
-    * The `JPA` specification and its relationship to `Hibernate`.
+    * The `JPA` specification and its relationship to Hibernate.
     * Entity mapping and relationship modeling.
     * Querying with JPQL and the Criteria `API`.
     * Caching strategies and performance optimization.
@@ -107,7 +107,7 @@ covers integration with `Spring Data JPA` and database migration strategies.
 <!-- chapter: database-migrations, duration: 2h -->
 * Database Migrations
     * Schema generation strategies
-    * `Flyway` integration
+    * Flyway integration
     * `Liquibase` integration
     * Migration best practices
 <!-- chapter: spring-data-jpa-integration, duration: 2h -->

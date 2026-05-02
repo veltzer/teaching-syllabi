@@ -39,7 +39,7 @@ audience:
 <!-- chapter: introduction-to-bazel, duration: 2h -->
 * Introduction to `Bazel`
     * History and motivation (from Google's Blaze to open-source `Bazel`)
-    * Comparison with other build systems (`Make`, `CMake`, `Gradle`, Buck2)
+    * Comparison with other build systems (Make, `CMake`, `Gradle`, Buck2)
     * Core concepts: targets, labels, packages, workspaces
     * The hermetic build model
     * Installing and configuring `Bazel`
@@ -47,7 +47,7 @@ audience:
 * BUILD Files and Workspaces
     * WORKSPACE and MODULE.`bazel` files
     * Writing BUILD files
-    * Built-in rules for `C`/`C++`, `Java`, `Python`, `Go`
+    * Built-in rules for C/`C++`, `Java`, `Python`, Go
     * Filegroups and genrules
     * Visibility and access control
     * Managing third-party dependencies with Bzlmod
@@ -63,7 +63,7 @@ audience:
     * Cross-language dependencies
     * `Protocol Buffers` and `gRPC` with `Bazel`
     * Building containers with rules_oci
-    * `Java`, `C++`, `Python`, and `Go` interoperability
+    * `Java`, `C++`, `Python`, and Go interoperability
 <!-- chapter: testing-with-bazel, duration: 2h -->
 * Testing with `Bazel`
     * Test rules and test suites
@@ -80,7 +80,7 @@ audience:
 <!-- chapter: integration-and-migration, duration: 2h -->
 * Integration and Migration
     * Integrating `Bazel` into `CI/CD` pipelines
-    * Migrating from `Make`, `CMake`, or `Gradle`
+    * Migrating from Make, `CMake`, or `Gradle`
     * IDE integration (IntelliJ, `VS Code`)
     * Build event protocol and build observability
 

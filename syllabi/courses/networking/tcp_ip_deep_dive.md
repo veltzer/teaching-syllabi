@@ -16,7 +16,7 @@ audience:
 # `TCP`/`IP` Deep Dive
 
 ## Description
-This course provides an in-depth exploration of the `TCP`/`IP` protocol suite and the underlying networking fundamentals that power modern communications. Participants will study each layer of the network stack, from physical framing through transport protocols, and gain hands-on experience analyzing real network traffic with `Wireshark` and `tcpdump`. The course is designed for professionals who already have basic networking knowledge and want to deepen their understanding of how packets traverse networks, how protocols negotiate connections, and how to diagnose network issues effectively.
+This course provides an in-depth exploration of the `TCP`/`IP` protocol suite and the underlying networking fundamentals that power modern communications. Participants will study each layer of the network stack, from physical framing through transport protocols, and gain hands-on experience analyzing real network traffic with Wireshark and `tcpdump`. The course is designed for professionals who already have basic networking knowledge and want to deepen their understanding of how packets traverse networks, how protocols negotiate connections, and how to diagnose network issues effectively.
 
 ## Duration
 24 hours / 3 days
@@ -70,7 +70,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
     * `ARP` request and reply process
     * `ARP` cache and `ARP` spoofing
     * `ICMP` message types
-    * `ping` and `traceroute` internals
+    * ping and `traceroute` internals
 <!-- chapter: tcp-in-depth, duration: 2h -->
 * `TCP` in Depth
     * The three-way handshake and connection teardown
@@ -116,7 +116,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
 <!-- chapter: network-troubleshooting, duration: 2h -->
 * Network Troubleshooting
     * Systematic troubleshooting methodology
-    * Common tools (`ping`, `traceroute`, `netstat`, ss, `nslookup`, `dig`)
+    * Common tools (ping, `traceroute`, `netstat`, ss, `nslookup`, dig)
     * Diagnosing connectivity, performance, and `DNS` issues
     * Reading and interpreting logs
 

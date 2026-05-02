@@ -72,11 +72,11 @@ existing apps.
     * `Android` Keystore system
     * Encrypted shared preferences
     * SQLCipher for database encryption
-    * Secure `file` storage patterns
+    * Secure file storage patterns
     * Key management best practices
 <!-- chapter: network-security-configuration, duration: 1h -->
 * Network Security Configuration
-    * Network security config `file`
+    * Network security config file
     * Cleartext traffic restrictions
     * Custom trust anchors
     * Certificate pinning via network security config

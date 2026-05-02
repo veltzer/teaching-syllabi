@@ -16,7 +16,7 @@ audience:
 # `Linux` programming environment
 
 ## Description
-Course is intended for `C`/`C++` programmers who want to `find` their way in the `Linux` programming environment.
+Course is intended for C/`C++` programmers who want to find their way in the `Linux` programming environment.
 
 ## Duration
 16 hours / 2 days
@@ -26,7 +26,7 @@ Course is intended for `C`/`C++` programmers who want to `find` their way in the
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
-* experience with `C` programming
+* experience with C programming
 * familiarity with `Linux` command line
 
 ## Required Knowledge
@@ -41,7 +41,7 @@ Course is intended for `C`/`C++` programmers who want to `find` their way in the
 ## Outline
 <!-- chapter: the-shell, duration: 2h -->
 * The shell:
-    * Basic organization of the `file` system.
+    * Basic organization of the file system.
     * Login/logout.
     * Shell basics.
     * Writing basic scripts.
@@ -70,7 +70,7 @@ Course is intended for `C`/`C++` programmers who want to `find` their way in the
 <!-- chapter: monitoring, duration: 2h -->
 * monitoring:
     * GUI tools (gnome, KDE)
-    * console tools (`ps`, `top`, `netstat`, ...)
+    * console tools (ps, top, `netstat`, ...)
 <!-- chapter: debugging, duration: 3h -->
 * debugging
     * basic `gdb` usage.
@@ -84,8 +84,8 @@ Course is intended for `C`/`C++` programmers who want to `find` their way in the
     * handling dependencies
 
 ## We will not cover
-* The `C`/`C++` languages themselves.
-* The peculiarities of `GCC`/g++ as regards the `C`/`C++` standard.
+* The C/`C++` languages themselves.
+* The peculiarities of `GCC`/g++ as regards the C/`C++` standard.
 * The `Linux` kernel or user space (glibc?) APIs and their correct usage.
 
 ## Copyright

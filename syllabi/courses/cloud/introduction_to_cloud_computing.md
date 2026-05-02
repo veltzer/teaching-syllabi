@@ -35,8 +35,8 @@ needs to know in today's cloud-first world.
 
 ## Objectives
 * Understand what `cloud computing` is and how it evolved
-* Distinguish between the different cloud service models (`IaaS`, `PaaS`, `SaaS`, `FaaS`)
-* Understand cloud deployment models and `when` to use each
+* Distinguish between the different cloud service models (`IaaS`, PaaS, `SaaS`, `FaaS`)
+* Understand cloud deployment models and when to use each
 * Be aware of cloud security fundamentals and the shared responsibility model
 * Be able to compare major cloud providers and their offerings
 * Understand cloud economics and cost optimization basics
@@ -85,7 +85,7 @@ needs to know in today's cloud-first world.
     * Benefits of managing infrastructure as code
     * Overview of common tools (`Terraform`, `CloudFormation`, `Pulumi`)
 <!-- chapter: cloud-economics, duration: 2h -->
-* Cloud Economics and Pay-As-You-`Go`
+* Cloud Economics and Pay-As-You-Go
     * The pay-as-you-`go` pricing model
     * Reserved instances and savings plans
     * Spot and preemptible instances

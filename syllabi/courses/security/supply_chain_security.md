@@ -17,7 +17,7 @@ audience:
 # Software Supply Chain Security
 
 ## Description
-Software supply chain attacks have become one of the most significant threats facing modern organizations, as demonstrated by incidents like `SolarWinds`, `Codecov`, and the `XZ Utils` backdoor. This course provides a thorough grounding in the threats, frameworks, and tools used to secure the software supply chain from source code through to deployment. Participants will learn to apply the `SLSA` framework, generate and consume `SBOM`s, sign artifacts with `Sigstore` and `Cosign`, and enforce supply chain policies using `OPA` and `Kyverno`. By the end of the course, attendees will be able to evaluate their organization's supply chain risk posture and implement concrete controls at every stage of the build and delivery pipeline.
+Software supply chain attacks have become one of the most significant threats facing modern organizations, as demonstrated by incidents like `SolarWinds`, `Codecov`, and the `XZ Utils` backdoor. This course provides a thorough grounding in the threats, frameworks, and tools used to secure the software supply chain from source code through to deployment. Participants will learn to apply the `SLSA` framework, generate and consume SBOMs, sign artifacts with `Sigstore` and `Cosign`, and enforce supply chain policies using `OPA` and `Kyverno`. By the end of the course, attendees will be able to evaluate their organization's supply chain risk posture and implement concrete controls at every stage of the build and delivery pipeline.
 
 ## Duration
 16 hours / 2 days
@@ -70,8 +70,8 @@ Software supply chain attacks have become one of the most significant threats fa
 * Software Bill of Materials (`SBOM`)
     * What is an `SBOM` and why it is mandated by US executive orders and emerging regulation
     * `SBOM` formats: `SPDX` vs `CycloneDX` — structure, tooling, and ecosystem support
-    * Generating `SBOM`s for container images, `npm`, `pip`, `Maven`, and `Go` modules
-    * Tools: `Syft`, `cdxgen`, `Trivy`, and language ecosystem native tools
+    * Generating `SBOM`s for container images, `npm`, pip, `Maven`, and Go modules
+    * Tools: `Syft`, cdxgen, `Trivy`, and language ecosystem native tools
     * `SBOM` signing, attestation, and embedding in `OCI` images
     * Consuming and querying `SBOM`s for vulnerability correlation (`Grype`, `OSV`)
     * `SBOM` management at scale: storage, lifecycle, and tooling integration
@@ -95,7 +95,7 @@ Software supply chain attacks have become one of the most significant threats fa
     * Package repository security features: `npm` audit, `pip-audit`, `go mod verify`
     * Dependency pinning, lockfiles, and integrity verification (`hash pinning`)
     * Detecting malicious packages: behavioral analysis and `Socket`'s static analysis
-    * Automating dependency updates with `Renovate` and `Dependabot`
+    * Automating dependency updates with Renovate and `Dependabot`
 
 <!-- chapter: securing-build-pipelines, duration: 2h -->
 * Securing Build Pipelines
@@ -114,7 +114,7 @@ Software supply chain attacks have become one of the most significant threats fa
     * Generating provenance attestations for container images with `Buildkit` and `GitHub Actions`
     * `OCI` Image Manifest and Referrers `API` for attaching attestations
     * Verifying image provenance in admission controllers
-    * Minimal base images: `distroless`, `scratch`, and `Wolfi` to reduce attack surface
+    * Minimal base images: `distroless`, scratch, and `Wolfi` to reduce attack surface
     * Image tagging vs `digest` pinning: why tags are mutable and digests are not
 
 <!-- chapter: policy-enforcement-with-opa-and-kyverno, duration: 2h -->
@@ -123,7 +123,7 @@ Software supply chain attacks have become one of the most significant threats fa
     * `OPA` (`Open Policy Agent`) architecture: `Rego` language and policy evaluation model
     * `Gatekeeper`: `OPA` as a `Kubernetes` admission controller
     * `Kyverno` policies: simpler `YAML`-native policy authoring for `Kubernetes`
-    * Writing policies to `require` signed images, verified `SBOM` attestations, and `SLSA` provenance
+    * Writing policies to require signed images, verified `SBOM` attestations, and `SLSA` provenance
     * Audit mode vs enforce mode: incremental policy rollout strategies
     * Integrating policy enforcement into `GitOps` workflows with `Flux` and `ArgoCD`
 

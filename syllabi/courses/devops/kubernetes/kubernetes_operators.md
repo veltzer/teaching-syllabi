@@ -32,11 +32,11 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 
 ## Prerequisites
 * `solid` understanding of `Kubernetes` concepts (pods, deployments, services, namespaces).
-* experience with `Go` programming language is recommended.
+* experience with Go programming language is recommended.
 * familiarity with `kubectl` and `Kubernetes` manifests.
 
 ## Objectives
-* understand the Operator pattern and `when` to apply it.
+* understand the Operator pattern and when to apply it.
 * gain practical knowledge of extending the `Kubernetes` `API` with custom resources.
 * build operators using `Operator SDK` and kubebuilder.
 * implement robust reconciliation loops, finalizers, and webhooks.
@@ -66,9 +66,9 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 <!-- chapter: operator-sdk-and-kubebuilder, duration: 2h -->
 * `Operator SDK` and kubebuilder
     * scaffolding a new operator project
-    * building operators with `Go`
+    * building operators with Go
     * building operators with `Ansible`
-    * building operators with `Helm`
+    * building operators with Helm
     * project layout and code generation
 <!-- chapter: client-go-internals, duration: 2h -->
 * client-`go` internals

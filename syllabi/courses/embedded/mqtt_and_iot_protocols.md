@@ -31,7 +31,7 @@ computing patterns.
 
 ## Prerequisites
 * Basic networking knowledge (`TCP`/`IP`, `HTTP`).
-* Familiarity with at least one programming language (`Python`, `C`, `JavaScript`, or similar).
+* Familiarity with at least one programming language (`Python`, C, `JavaScript`, or similar).
 
 ## Required Knowledge
 * `Python` Programming (or equivalent experience)
@@ -58,7 +58,7 @@ computing patterns.
     * QoS levels (0, 1, 2)
     * Retained messages
     * Last Will and Testament
-    * `Clean` and persistent sessions
+    * Clean and persistent sessions
     * Keep-alive and connection management
 <!-- chapter: mqtt-brokers, duration: 2h -->
 * `MQTT` Brokers

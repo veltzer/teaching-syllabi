@@ -27,7 +27,7 @@ one of the most common root causes of production outages: connections starve, th
 This two day course covers connection pooling and database proxies as a focused engineering topic. It
 covers the per-database connection model (how `Postgres` and `MySQL` actually handle connections, and
 why both can and do collapse under high connection counts), client-side pools (`HikariCP`, `pgx`,
-`SQLAlchemy`'s pool, `Node.js` pools), proxy-side pools (`PgBouncer`, `pgcat`, `pgpool-II`,
+`SQLAlchemy`'s pool, `Node.js` pools), proxy-side pools (`PgBouncer`, pgcat, `pgpool-II`,
 `ProxySQL`, `RDS Proxy`, `Cloud SQL Auth Proxy`), the transaction-pooling vs session-pooling vs
 statement-pooling distinction and what breaks at each level, the wait-pile-up failure mode, the
 right-sizing methodology, observability of pools, and the patterns that `make` connection management
@@ -68,7 +68,7 @@ size and operate a connection-management layer that does not collapse under load
 <!-- chapter: client-side-pooling, duration: 2h -->
 * Client-side pooling
     * `HikariCP` for the `JVM`
-    * `pgx` and `database/sql` for `Go`
+    * `pgx` and `database/sql` for Go
     * `SQLAlchemy` pool for `Python`
     * `node-postgres` for `Node.js`
     * the per-instance pool size question
@@ -88,11 +88,11 @@ size and operate a connection-management layer that does not collapse under load
     * the deployment topology
 <!-- chapter: rds-proxy-and-cloud-sql-proxy, duration: 1h -->
 * `RDS Proxy` and `Cloud SQL` Proxy
-    * `RDS Proxy` for `Postgres` and `MySQL`
+    * `RDS Proxy` for Postgres and `MySQL`
     * `Cloud SQL Auth Proxy`
     * the managed-proxy value proposition
     * the cost-and-latency overhead
-    * `when` each is the right answer
+    * when each is the right answer
 <!-- chapter: proxysql-and-mysql, duration: 1h -->
 * `ProxySQL` and `MySQL`
     * `ProxySQL` features
@@ -102,7 +102,7 @@ size and operate a connection-management layer that does not collapse under load
     * the deployment topology
 <!-- chapter: pgcat-and-modern-postgres-proxies, duration: 1h -->
 * `pgcat` and modern `Postgres` proxies
-    * `pgcat` as the modern `Rust` alternative
+    * `pgcat` as the modern Rust alternative
     * `Supabase`'s `Supavisor`
     * the read replica routing question
     * the per-tenant routing question

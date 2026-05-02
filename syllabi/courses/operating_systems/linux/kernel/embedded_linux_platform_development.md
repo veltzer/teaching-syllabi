@@ -59,10 +59,10 @@ Major topics which are a must for embedded platform developers such as filesyste
     * Overall architecture of embedded `Linux` systems: overview of the major software components.
     * Development environment for Embedded `Linux` development.
 <!-- chapter: cross-compiling-toolchain-and-c-library, duration: 2h -->
-* Cross-compiling toolchain and `C` library
+* Cross-compiling toolchain and C library
     * What's inside a cross-compiling toolchain
-    * Choosing the target `C` library
-    * What's inside the `C` library
+    * Choosing the target C library
+    * What's inside the C library
     * Ready to use cross-compiling toolchains
     * Building a cross-compiling toolchain with automated tools.
 <!-- chapter: boot-process-firmware-bootloaders, duration: 2h -->
@@ -127,7 +127,7 @@ versions
 * Cross-compiling user-space libraries and applications
     * Configuring, cross-compiling and installing applications and libraries.
     * Concept of build system, and overview of a few common build systems used by open-source projects: `Makefile`, `autotools`, `CMake`, `meson`
-    * Overview of the common issues encountered `when` cross-compiling.
+    * Overview of the common issues encountered when cross-compiling.
 <!-- chapter: embedded-system-building-tools, duration: 2h -->
 * Embedded system building tools
     * Approaches for building embedded `Linux` systems: build systems and binary distributions
@@ -136,7 +136,7 @@ versions
     * Specialized software frameworks/distributions: Tizen, AGL, `Android`
 <!-- chapter: open-source-licenses-and-compliance, duration: 2h -->
 * Open source licenses and compliance
-    * Presentation of the most important open-source licenses: GPL, LGPL, MIT, BSD, `Apache`, etc.
+    * Presentation of the most important open-source licenses: GPL, LGPL, MIT, BSD, Apache, etc.
     * Concept of copyleft licenses
     * Differences between (L)GPL version 2 and 3
     * Compliance with open-source licenses: best practices

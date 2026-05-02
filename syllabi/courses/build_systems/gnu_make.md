@@ -11,7 +11,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: gnu_make -->
-# GNU `Make`
+# GNU Make
 
 ## Description
 `GNU make` is the most widely used build system in the open source world but also has the most arcane syntax
@@ -21,7 +21,7 @@ while being the most flexible and misunderstood. This course will get you starte
 16 hours / 2 days
 
 ## Intended Audience
-* `C` programmers who would like to write their build system in `GNU make`.
+* C programmers who would like to write their build system in `GNU make`.
 * Anyone wanting to use `GNU make` to create build systems for any other language.
 
 ## Prerequisites
@@ -32,17 +32,17 @@ while being the most flexible and misunderstood. This course will get you starte
 
 ## Objectives
 * Create and maintain Makefiles
-* Understand `Make`'s execution model
+* Understand Make's execution model
 * Implement efficient build systems
-* Debug `Make`-related issues
+* Debug Make-related issues
 * Apply best practices in build automation
 
 ## Outline
 <!-- chapter: introduction-to-make, duration: 2h -->
-* Introduction to `Make`
-    * What is `Make` and why use it?
+* Introduction to Make
+    * What is Make and why use it?
     * Build automation concepts
-    * `Make` vs other build tools
+    * Make vs other build tools
     * First `Makefile` example
 <!-- chapter: basic-makefile-structure, duration: 2h -->
 * Basic `Makefile` Structure
@@ -62,12 +62,12 @@ while being the most flexible and misunderstood. This course will get you starte
     * Exercise: Using variables and functions
 <!-- chapter: practical-applications, duration: 2h -->
 * Practical Applications
-    * Building `C`/`C++` projects
+    * Building C/`C++` projects
     * Managing multiple source files
     * Object files and dependencies
-    * Exercise: Building a multi-`file` project
+    * Exercise: Building a multi-file project
 <!-- chapter: advanced-make-features, duration: 2h -->
-* Advanced `Make` Features
+* Advanced Make Features
     * Pattern rules
     * Static pattern rules
     * Double-colon rules

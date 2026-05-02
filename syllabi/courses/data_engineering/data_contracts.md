@@ -27,10 +27,10 @@ downstream dashboards and three `ML` features at three in the morning.
 This two day course covers data contracts as a working engineering practice. It covers the contract as
 an artefact (schema, semantics, freshness, quality, owner, breaking-change policy), the contract
 languages (`Protobuf`, `Avro`, `JSON Schema`, `dbt` contracts, `Open Data Contract Standard`), the
-producer-side enforcement (the `CI` `check`, the schema registry), the consumer-side enforcement (the
+producer-side enforcement (the `CI` check, the schema registry), the consumer-side enforcement (the
 contract test, the alert), the relationship to data mesh and data products, the change-management
 story, the breaking-change procedure, the observability story, and the patterns that `make` contracts
-succeed. Examples are drawn from the public engineering writing of `GoCardless`, `Convoy`, `Shopify`,
+succeed. Examples are drawn from the public engineering writing of `GoCardless`, Convoy, `Shopify`,
 `Glovo`, and the open-source `Data Contract CLI` ecosystem. Participants leave able to introduce data
 contracts into an organization and operate them without slowing the team down.
 
@@ -55,7 +55,7 @@ contracts into an organization and operate them without slowing the team down.
 * enforce contracts on the producer side
 * enforce contracts on the consumer side
 * manage contract change without breaking downstreams
-* recognize `when` contracts are over-engineered
+* recognize when contracts are over-engineered
 * connect contracts to data mesh and data products
 
 ## Outline
@@ -71,7 +71,7 @@ contracts into an organization and operate them without slowing the team down.
     * schema: shape and types
     * semantics: what each field means
     * quality: validity, completeness, accuracy
-    * freshness: `when` it lands and `when` it is current
+    * freshness: when it lands and when it is current
     * owner: a real human
     * breaking-change policy
 <!-- chapter: contract-languages, duration: 2h -->
@@ -84,7 +84,7 @@ contracts into an organization and operate them without slowing the team down.
     * picking the language
 <!-- chapter: producer-side-enforcement, duration: 2h -->
 * Producer-side enforcement
-    * the `CI` `check` on schema change
+    * the `CI` check on schema change
     * the schema registry as the gatekeeper
     * the breaking-change rejection
     * the producer's `unit` test against the contract
@@ -92,7 +92,7 @@ contracts into an organization and operate them without slowing the team down.
 <!-- chapter: consumer-side-enforcement, duration: 2h -->
 * Consumer-side enforcement
     * the contract test in the consumer pipeline
-    * the alert `when` expected fields are missing
+    * the alert when expected fields are missing
     * `Great Expectations` and `Soda` for downstream checks
     * cross-reference to the Data Quality and Validation course
     * the "the consumer silently used `null` for a missing field" failure

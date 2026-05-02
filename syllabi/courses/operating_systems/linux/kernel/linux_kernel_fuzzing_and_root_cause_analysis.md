@@ -34,7 +34,7 @@ This advanced course is designed for security researchers, experienced penetrati
 ## Prerequisites
 * Strong `Linux` and programming background
 * Understanding of operating system internals
-* Experience with `C` programming and `assembly` language
+* Experience with C programming and `assembly` language
 * Knowledge of memory management concepts
 * Familiarity with debugging tools and techniques
 * Basic understanding of virtualization technologies

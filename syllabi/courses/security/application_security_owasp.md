@@ -43,7 +43,7 @@ Application security is essential for building resilient software that withstand
 
 ## Objectives
 * Identify and mitigate all `OWASP Top 10` vulnerabilities in real-world applications
-* Apply threat modeling techniques such as `STRIDE` and DREAD to assess application risks
+* Apply threat modeling techniques such as STRIDE and DREAD to assess application risks
 * Integrate `SAST` and `DAST` tools into the development workflow
 * Implement secure secrets management practices using tools like `HashiCorp Vault`
 * Design and adopt a secure `SDLC` framework across development teams
@@ -75,7 +75,7 @@ Application security is essential for building resilient software that withstand
 <!-- chapter: threat-modeling, duration: 2h -->
 * Threat Modeling
     * Introduction to threat modeling methodologies
-    * `STRIDE` model: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
+    * STRIDE model: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
     * DREAD risk assessment model
     * Creating data flow diagrams for threat analysis
     * Identifying trust boundaries and attack surfaces
@@ -125,7 +125,7 @@ Application security is essential for building resilient software that withstand
     * Dependency scanning tools: `Snyk`, `Dependabot`, `OWASP Dependency-Check`
     * Managing vulnerability disclosures and CVE databases
     * Software Bill of Materials (`SBOM`) generation and management
-    * Lock `file` integrity and dependency pinning
+    * Lock file integrity and dependency pinning
     * Private registry security and artifact verification
     * Responding to zero-day vulnerabilities in dependencies
 

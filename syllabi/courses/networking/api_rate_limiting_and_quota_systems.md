@@ -30,7 +30,7 @@ It covers the algorithms (token bucket, leaky bucket, sliding window, sliding lo
 options (in-process, edge, gateway, service-mesh, dedicated service), the distributed-state story (`Redis`,
 `Memcached`, custom counter services, eventually-consistent designs), fairness and isolation across
 tenants, quota accounting and billing alignment, abuse detection, and the operational realities. Examples
-are drawn from `Stripe`, `GitHub`, `Cloudflare`, `Envoy`, and the public engineering blogs of organizations
+are drawn from Stripe, `GitHub`, `Cloudflare`, Envoy, and the public engineering blogs of organizations
 that operate large public APIs. Participants leave able to design and operate rate limiting that is
 correct, fair, observable and survivable.
 
@@ -77,7 +77,7 @@ correct, fair, observable and survivable.
 <!-- chapter: distributed-state, duration: 4h -->
 * Distributed state
     * the multi-instance counter problem
-    * `Redis`-based counters: `INCR`, `Lua`, `Redis Cell`
+    * `Redis`-based counters: INCR, `Lua`, `Redis Cell`
     * `Memcached`-based counters
     * `DynamoDB` and other cloud key-value stores
     * eventually-consistent vs strongly-consistent designs
@@ -132,16 +132,16 @@ correct, fair, observable and survivable.
     * the "polite client" pattern
 <!-- chapter: dedicated-rate-limit-services, duration: 3h -->
 * Dedicated rate-limit services
-    * `Envoy` rate limit service
+    * Envoy rate limit service
     * `Lyft` ratelimit
     * `Cloudflare`-style edge limits
-    * `Stripe`'s public design
+    * Stripe's public design
     * `Doorman` (`Google`)
     * build vs buy
 <!-- chapter: tooling-and-implementations, duration: 2h -->
 * Tooling and implementations
-    * `Kong`, `Tyk`, `APISIX` rate-limit plugins
-    * `nginx` `limit_req` and `limit_conn`
+    * `Kong`, Tyk, `APISIX` rate-limit plugins
+    * `nginx` limit_req and `limit_conn`
     * cloud `API` gateways: `AWS API Gateway`, `Azure API Management`, `Google Cloud Endpoints`
     * `Istio` and `Linkerd` rate-limit policies
     * `Redis Cell` and `Redis` patterns

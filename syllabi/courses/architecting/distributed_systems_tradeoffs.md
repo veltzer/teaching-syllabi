@@ -20,14 +20,14 @@ audience:
 
 ## Description
 Most courses on distributed systems either teach algorithms (Paxos, Raft, gossip) or teach a specific stack
-(`Kafka`, `Cassandra`, `Spanner`). This course is different. It is built around the tradeoffs that every distributed
+(`Kafka`, `Cassandra`, Spanner). This course is different. It is built around the tradeoffs that every distributed
 system has to `make` and that every engineer who works on one needs to understand: consistency vs availability,
 latency vs durability, throughput vs ordering, simplicity vs flexibility.
 
 The course covers the `CAP` and `PACELC` theorems precisely, the spectrum of consistency models from linearizable
 to eventually consistent, replication and partitioning trade-offs, the realities of clocks and ordering, the
 practical impact of failure modes, and how these choices play out in real database and messaging systems
-(`PostgreSQL`, `Cassandra`, `DynamoDB`, `CockroachDB`, `Spanner`, `Kafka`, `S3`, `etcd`). Participants leave able
+(`PostgreSQL`, `Cassandra`, `DynamoDB`, `CockroachDB`, Spanner, `Kafka`, `S3`, `etcd`). Participants leave able
 to read a system's documentation and rapidly understand its tradeoff profile, and to design new systems with
 the tradeoffs surfaced rather than buried.
 
@@ -36,7 +36,7 @@ the tradeoffs surfaced rather than buried.
 
 ## Intended Audience
 * architects designing distributed systems with non-trivial correctness requirements
-* senior developers building on `top` of distributed databases and messaging systems
+* senior developers building on top of distributed databases and messaging systems
 * `DBAs` choosing or operating distributed data stores
 * engineers preparing for systems-design interviews
 
@@ -101,11 +101,11 @@ the tradeoffs surfaced rather than buried.
     * physical clocks and their drift
     * Lamport timestamps and vector clocks
     * `HLC` (`hybrid logical clock`)
-    * `Spanner`'s `TrueTime` model
+    * Spanner's `TrueTime` model
     * causal ordering vs total ordering
     * the role of clocks in consensus
 <!-- chapter: consensus-paxos-raft-and-zab, duration: 3h -->
-* Consensus: `Paxos`, `Raft` and `ZAB`
+* Consensus: `Paxos`, Raft and `ZAB`
     * the consensus problem precisely stated
     * `Paxos` at a high level
     * `Raft` and the focus on understandability
@@ -124,7 +124,7 @@ the tradeoffs surfaced rather than buried.
     * what makes a transaction "distributed"
     * two-phase commit and its failure modes
     * three-phase commit and why it is rarely used
-    * `Percolator` and `Spanner` transactions
+    * `Percolator` and Spanner transactions
     * `Calvin` and deterministic transactions
     * the realistic alternative: idempotency and sagas
 <!-- chapter: cap-in-real-databases, duration: 3h -->
@@ -133,20 +133,20 @@ the tradeoffs surfaced rather than buried.
     * `Cassandra` and tunable consistency
     * `DynamoDB` and the consistency modes
     * `CockroachDB` and `TiDB` claims
-    * `Spanner` and `TrueTime`'s tradeoff
+    * Spanner and `TrueTime`'s tradeoff
     * `MongoDB`'s evolution of consistency guarantees
     * the "global, strongly-consistent" claim and what it costs
 <!-- chapter: messaging-and-streaming-tradeoffs, duration: 3h -->
 * Messaging and streaming tradeoffs
     * at-most-once, at-least-once, effectively-exactly-once
     * ordering guarantees per partition vs across partitions
-    * `Kafka`, `Pulsar`, `Kinesis` consistency profiles
+    * `Kafka`, Pulsar, `Kinesis` consistency profiles
     * the "stream as a database" tradeoff
     * end-to-end latency vs durability vs ordering
 <!-- chapter: storage-systems-tradeoffs, duration: 2h -->
 * Storage systems tradeoffs
     * `S3`-style object stores: strong read-after-write but no transactions
-    * distributed `file` systems: `HDFS`, `Ceph`, `GlusterFS`
+    * distributed file systems: `HDFS`, Ceph, `GlusterFS`
     * the durability-vs-cost frontier
     * eventual consistency in metadata services
     * the limits of "11 nines"
@@ -160,14 +160,14 @@ the tradeoffs surfaced rather than buried.
 <!-- chapter: case-studies, duration: 3h -->
 * Case studies
     * `Amazon` `S3` and `Dynamo` papers re-examined
-    * `Google` `Spanner` paper re-examined
+    * `Google` Spanner paper re-examined
     * `Cassandra` and `DynamoDB` head-to-head
     * a real production failure traced to a misunderstood tradeoff
     * design walkthrough on a sample distributed counter
 <!-- chapter: workshop-and-wrap-up, duration: 1h -->
 * Workshop and wrap up
     * tradeoff analysis exercise on a sample system design
-    * recommended reading: `Kleppmann`, `Brewer`, `Abadi`, `Bailis`
+    * recommended reading: `Kleppmann`, Brewer, Abadi, `Bailis`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

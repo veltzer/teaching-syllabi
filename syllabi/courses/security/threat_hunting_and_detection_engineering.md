@@ -25,7 +25,7 @@ This five day course covers both, end to end.
 The course covers the threat landscape and the `MITRE ATT&CK` framework as a shared language, the data sources
 defenders rely on, the engineering practice of writing and tuning detections, the economics of false positives,
 threat-hunting methodology and `hypothesis`-driven investigation, the tooling ecosystem (`Splunk`, `Elastic`,
-`Sigma`, `Sumo Logic`, `Sentinel`, `Chronicle`, custom data lakes), and the team practices that turn detection
+`Sigma`, `Sumo Logic`, Sentinel, `Chronicle`, custom data lakes), and the team practices that turn detection
 engineering and threat hunting into a continuous improvement loop. Participants leave able to write good
 detections, run productive hunts, and contribute to a defensive program rather than just consume alerts from one.
 
@@ -72,7 +72,7 @@ detections, run productive hunts, and contribute to a defensive program rather t
     * the `ATT&CK` evaluation results
 <!-- chapter: data-sources-for-defenders, duration: 4h -->
 * Data sources for defenders
-    * endpoint telemetry: `Sysmon`, `EDR`, `osquery`, `auditd`, `eBPF`
+    * endpoint telemetry: `Sysmon`, EDR, osquery, `auditd`, `eBPF`
     * network telemetry: flow data, `Zeek`, `DNS` logs, `TLS` metadata
     * cloud telemetry: `CloudTrail`, `Cloud Audit Logs`, `Azure Activity Log`
     * application and identity logs
@@ -114,8 +114,8 @@ detections, run productive hunts, and contribute to a defensive program rather t
     * coverage gap analysis after a real incident
 <!-- chapter: siem-and-tooling-deep-dive, duration: 3h -->
 * `SIEM` and tooling deep dive
-    * `Splunk`, `Elastic`, `Sentinel`, `Chronicle`, `Sumo Logic`
-    * data lake-first architectures: `Snowflake`, `Databricks`
+    * `Splunk`, Elastic, Sentinel, Chronicle, `Sumo Logic`
+    * data lake-first architectures: Snowflake, `Databricks`
     * `SOAR` platforms and where they help
     * detection-as-code pipelines: `Panther`, `Anvilogic`, custom
     * choosing tooling for your scale and budget

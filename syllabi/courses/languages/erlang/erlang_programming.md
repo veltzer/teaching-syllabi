@@ -25,11 +25,11 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
 
 ## Intended Audience
 * Developers building distributed or highly concurrent backend systems
-* Software architects evaluating `Erlang` or `Elixir` for fault-tolerant infrastructure
+* Software architects evaluating `Erlang` or Elixir for fault-tolerant infrastructure
 * Engineers coming from imperative backgrounds who want to understand the actor model
 
 ## Prerequisites
-* `Solid` programming experience in at least one other language such as `Java`, `Python`, `C++`, or `Go`
+* `Solid` programming experience in at least one other language such as `Java`, `Python`, `C++`, or Go
 * Basic understanding of concurrency concepts (threads, locks) is helpful but not required
 * Familiarity with functional programming concepts is an advantage
 
@@ -45,7 +45,7 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
 <!-- chapter: introduction-to-erlang, duration: 2h -->
 * Introduction to `Erlang`
     * History and origin at `Ericsson`
-    * The design philosophy: `let` it crash
+    * The design philosophy: let it crash
     * Where `Erlang` is used today (`WhatsApp`, `RabbitMQ`, telecom)
     * Installing `Erlang`/`OTP` and the `rebar3` build tool
     * The `erl` REPL and first expressions
@@ -64,7 +64,7 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
     * The match operator `=`
     * Matching on tuples and lists
     * Function clause selection via pattern matching
-    * Guards: `when` expressions and allowed functions
+    * Guards: when expressions and allowed functions
     * Case and `if-expressions`
     * Destructuring nested structures
 <!-- chapter: processes-and-concurrency, duration: 4h -->

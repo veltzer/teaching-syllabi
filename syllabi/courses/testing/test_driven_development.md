@@ -29,7 +29,7 @@ This course covers the principles and practices of Test-Driven Development (`TDD
 ## Prerequisites
 * `Solid` experience in at least one programming language
 * Basic understanding of unit testing concepts
-* Familiarity with a testing framework (e.g., `JUnit`, `pytest`, `Jest`)
+* Familiarity with a testing framework (e.g., `JUnit`, `pytest`, Jest)
 
 ## Objectives
 * Understand the philosophy and benefits of Test-Driven Development
@@ -47,7 +47,7 @@ This course covers the principles and practices of Test-Driven Development (`TDD
     * The red-green-refactor cycle
     * Benefits and trade-offs of `TDD`
     * `TDD` vs test-after development
-    * `When` to use and `when` not to use `TDD`
+    * `When` to use and when not to use `TDD`
 <!-- chapter: the-red-green-refactor-cycle, duration: 1h -->
 * The Red-Green-Refactor Cycle
     * Writing the first failing test
@@ -74,18 +74,18 @@ This course covers the principles and practices of Test-Driven Development (`TDD
     * Testing interactions vs testing state
 <!-- chapter: mocking-strategies, duration: 2h -->
 * Mocking Strategies
-    * Mocking frameworks: `Mockito`, `unittest`.mock, `Sinon`, `Jest` mocks
+    * Mocking frameworks: `Mockito`, `unittest`.mock, `Sinon`, Jest mocks
     * Setting up expectations and `return-values`
     * Verifying interactions and call counts
     * Partial mocking and spy patterns
-    * Mocking external dependencies: databases, APIs, `file` systems
+    * Mocking external dependencies: databases, APIs, file systems
     * Mocking time, randomness, and environment
 <!-- chapter: behavior-driven-development, duration: 2h -->
 * Behavior-Driven Development
     * `BDD` principles and philosophy
     * Gherkin syntax: Given-`When`-Then
     * Feature files and scenarios
-    * `BDD` frameworks: `Cucumber`, Behave, SpecFlow
+    * `BDD` frameworks: Cucumber, Behave, SpecFlow
     * Mapping steps to code
     * Collaboration between developers, testers, and business stakeholders
     * Living documentation from `BDD` specifications

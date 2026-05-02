@@ -36,7 +36,7 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 ## Prerequisites
 * Strong comfort with the `Linux` command line and shell scripting.
 * Experience with at least one functional or dynamically typed language is helpful.
-* Familiarity with package management concepts (`apt`, `brew`, `pip`, etc.).
+* Familiarity with package management concepts (`apt`, `brew`, pip, etc.).
 * Some exposure to system administration or `DevOps` practices is assumed.
 
 ## Objectives
@@ -56,12 +56,12 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
     * The reproducibility problem in software engineering.
     * `Nix` philosophy: purely functional package management.
     * The `Nix` ecosystem: `Nix`, `Nixpkgs`, `NixOS`, and `Nix` Flakes.
-    * Installing `Nix` and exploring the `nix` `CLI`.
+    * Installing `Nix` and exploring the nix `CLI`.
     * The `Nix` store: content-addressed storage fundamentals.
 <!-- chapter: nix-language-fundamentals, duration: 3h -->
 * `Nix` Language Fundamentals:
     * Data types: strings, integers, booleans, lists, and attribute sets.
-    * Functions, `let`-`in` expressions, and `with` clauses.
+    * Functions, let-`in` expressions, and `with` clauses.
     * `import`, `builtins`, and the standard library.
     * String interpolation and multi-line strings.
     * Lazy evaluation and its implications.
@@ -76,7 +76,7 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 <!-- chapter: writing-your-first-package, duration: 3h -->
 * Writing Your First Package:
     * Using `stdenv.mkDerivation`.
-    * Fetch sources: `fetchurl`, `fetchFromGitHub`, `fetchTarball`.
+    * Fetch sources: `fetchurl`, fetchFromGitHub, `fetchTarball`.
     * Build phases: unpack, patch, configure, build, install.
     * Overriding phases and adding hooks.
     * Packaging scripts, `Python`, and `Node.js` applications.
@@ -92,7 +92,7 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 <!-- chapter: nixos-configuration, duration: 3h -->
 * `NixOS` Configuration:
     * `NixOS` module system: options and config.
-    * The `configuration.nix` `file` and system rebuild.
+    * The `configuration.nix` file and system rebuild.
     * Managing users, services, and network configuration declaratively.
     * Enabling and configuring `systemd` services with `Nix`.
     * Home Manager for user-level declarative configuration.

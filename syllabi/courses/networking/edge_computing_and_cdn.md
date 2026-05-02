@@ -44,7 +44,7 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 
 ## Prerequisites
 * working knowledge of `HTTP`, `TLS` and `DNS`
-* exposure to at least one `CDN` (`Cloudflare`, `Fastly`, `Akamai`, `CloudFront`)
+* exposure to at least one `CDN` (Cloudflare, Fastly, Akamai, `CloudFront`)
 * basic familiarity with at least one programming language with edge support
 * some experience operating production `web services`
 
@@ -96,7 +96,7 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 * `Cloudflare Workers` deep dive
     * the `V8` isolate model
     * `Workers` runtime `APIs` and limits
-    * `Workers KV`, `Durable Objects`, `D1`, `R2`, `Queues`
+    * `Workers KV`, `Durable Objects`, D1, R2, `Queues`
     * `Workers Sites` and `Pages Functions`
     * `Cloudflare`-specific routing and rules
     * deploying and versioning workers
@@ -118,7 +118,7 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 <!-- chapter: vercel-deno-deploy-and-the-framework-edges, duration: 2h -->
 * `Vercel`, `Deno Deploy` and the framework edges
     * `Vercel` edge functions and middleware
-    * `Next.js` edge runtime and the `Node`/`Edge` split
+    * `Next.js` edge runtime and the Node/`Edge` split
     * `Deno Deploy`
     * `Netlify Edge Functions`
     * the framework-driven edge model
@@ -133,18 +133,18 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 <!-- chapter: image-and-media-transformation, duration: 2h -->
 * Image and media transformation
     * on-the-fly resize and format conversion (`WebP`, `AVIF`)
-    * `Cloudflare Images`, `Fastly` `IO`, `imgix`, `Thumbor`
-    * video transcoding at the edge: `when` it is and is not viable
+    * `Cloudflare Images`, Fastly IO, imgix, `Thumbor`
+    * video transcoding at the edge: when it is and is not viable
     * cache-key design for transformed media
     * cost models for image transformation
 <!-- chapter: edge-storage-and-state, duration: 3h -->
 * Edge storage and state
-    * `Cloudflare KV`, `Durable Objects`, `R2`, `D1`
+    * `Cloudflare KV`, `Durable Objects`, R2, `D1`
     * `Fastly Object Store` and `KV Store`
     * `Vercel Edge Config`
     * the consistency models of edge storage
     * the regional-but-not-edge alternative
-    * keeping the edge stateless `when` possible
+    * keeping the edge stateless when possible
 <!-- chapter: observability-at-the-edge, duration: 3h -->
 * Observability at the edge
     * the cache-hit-ratio dashboard

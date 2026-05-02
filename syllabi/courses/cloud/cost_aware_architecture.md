@@ -26,8 +26,8 @@ This three day course walks through the design decisions that compound into the 
 gravity and egress, the choice of storage class, the choice of database, the choice of compute primitive,
 serverless versus container versus `VM`, the cost shape of caching, the cost shape of fan-out, the cost
 shape of multi-region, the cost shape of observability, the way single-tenant vs multi-tenant affects unit
-economics. Examples are drawn from the public engineering blogs of `Netflix`, `Honeycomb`, `Discord`,
-`Notion`, `Cloudflare` and `Basecamp`'s public exit-from-cloud write-ups. Participants leave able to `make`
+economics. Examples are drawn from the public engineering blogs of `Netflix`, Honeycomb, `Discord`,
+`Notion`, Cloudflare and Basecamp's public exit-from-cloud write-ups. Participants leave able to `make`
 the cost case for an architectural decision before they ship it, not after the bill arrives.
 
 ## Duration
@@ -73,7 +73,7 @@ the cost case for an architectural decision before they ship it, not after the b
     * object storage classes and the access pattern
     * the lifecycle policy as part of the schema
     * the "we have a petabyte of logs nobody reads" failure
-    * block, `file`, object: `when` each is the wrong choice
+    * block, file, object: when each is the wrong choice
     * the snapshot multiplier
 <!-- chapter: the-cost-shape-of-data-movement, duration: 2h -->
 * The cost shape of data movement
@@ -92,7 +92,7 @@ the cost case for an architectural decision before they ship it, not after the b
 <!-- chapter: the-cost-shape-of-compute, duration: 3h -->
 * The cost shape of compute
     * spot, reserved, savings plan, on-demand
-    * `Lambda` vs `Fargate` vs `EC2` vs `Kubernetes`
+    * `Lambda` vs Fargate vs `EC2` vs `Kubernetes`
     * the cold start tax
     * the always-on tax
     * the right-sizing problem
@@ -103,7 +103,7 @@ the cost case for an architectural decision before they ship it, not after the b
     * the "fan-out blew up the bill" failure
     * the duration-and-memory product
     * idle cost vs busy cost
-    * `when` serverless wins and `when` it loses
+    * when serverless wins and when it loses
 <!-- chapter: the-cost-shape-of-caching, duration: 2h -->
 * The cost shape of caching
     * the cache as a cost-shifter

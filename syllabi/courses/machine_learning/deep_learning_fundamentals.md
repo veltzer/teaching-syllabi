@@ -68,7 +68,7 @@ adversarial networks.
 <!-- chapter: convolutional-neural-networks-cnns, duration: 3h -->
 * Convolutional Neural Networks (CNNs)
     * Convolution and pooling operations
-    * `CNN` architectures: LeNet, VGG, ResNet
+    * CNN architectures: LeNet, VGG, ResNet
     * Image classification
     * Object detection overview
     * Data augmentation techniques

@@ -21,16 +21,16 @@ audience:
 Engineering organizations spend extraordinary amounts on tooling and surprisingly little on the
 documentation that determines whether the tooling actually gets used. The Writing Design Documents course
 covers the design-doc artifact specifically; this course covers the broader internal documentation surface
-and how it shapes developer experience: the wikis nobody reads, the runbooks nobody can `find` at 3 AM, the
+and how it shapes developer experience: the wikis nobody reads, the runbooks nobody can find at 3 AM, the
 onboarding docs that take three months instead of three weeks, and the `IDP` content that ages out the
 moment it ships.
 
 This five day course covers internal documentation as an engineering discipline integrated with the
 platform and developer-experience effort. It covers documentation genres and audiences, the writing
 discipline that makes docs survive over time, runbook quality, onboarding-doc design, the `IDP`
-documentation surface (`Backstage TechDocs`, `Cortex`, `Port`), the `RFC`/`ADR` archive, the searchable
+documentation surface (`Backstage TechDocs`, Cortex, Port), the RFC/`ADR` archive, the searchable
 wiki, the relationship between docs and search/`AI`, and the metrics and ownership patterns that keep docs
-honest. The course is grounded in `Diátaxis`, the `Google` and `GitLab` documentation playbooks, and the
+honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documentation playbooks, and the
 `Write the Docs` community.
 
 ## Duration
@@ -122,8 +122,8 @@ honest. The course is grounded in `Diátaxis`, the `Google` and `GitLab` documen
 <!-- chapter: docs-as-code, duration: 3h -->
 * Docs as code
     * docs in the repo, reviewed in `PRs`
-    * `Markdown`, `AsciiDoc`, `MDX` as authoring formats
-    * static-site generators: `MkDocs`, `Docusaurus`, `Hugo`, `mdBook`
+    * `Markdown`, AsciiDoc, `MDX` as authoring formats
+    * static-site generators: `MkDocs`, Docusaurus, Hugo, `mdBook`
     * docs `CI` and link checking
     * the docs-style-guide as code
     * detecting stale docs from `Git` history
@@ -145,7 +145,7 @@ honest. The course is grounded in `Diátaxis`, the `Google` and `GitLab` documen
 <!-- chapter: tribal-knowledge-and-its-discontents, duration: 2h -->
 * Tribal knowledge and its discontents
     * the senior engineer who is the only person who knows
-    * detecting tribal knowledge in `Slack` searches
+    * detecting tribal knowledge in Slack searches
     * extraction interviews and the buddy system
     * post-mortem-driven documentation
     * the bus-factor metric
@@ -168,7 +168,7 @@ honest. The course is grounded in `Diátaxis`, the `Google` and `GitLab` documen
 <!-- chapter: anti-patterns-and-failure-modes, duration: 2h -->
 * Anti-patterns and failure modes
     * the unmaintained wiki
-    * the "documentation lives in `Slack`" problem
+    * the "documentation lives in Slack" problem
     * the doc that is just an outdated screenshot
     * the over-templated doc
     * the doc that is a half-written ticket
@@ -177,7 +177,7 @@ honest. The course is grounded in `Diátaxis`, the `Google` and `GitLab` documen
 * Workshop and wrap up
     * audit a sample team's documentation surface
     * draft a documentation strategy for your team
-    * recommended reading: `Diátaxis`, `Procida`, `Write the Docs`, `GitLab` handbook
+    * recommended reading: `Diátaxis`, Procida, `Write the Docs`, `GitLab` handbook
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

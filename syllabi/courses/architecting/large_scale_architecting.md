@@ -64,7 +64,7 @@ Architects and senior developers responsible for designing and maintaining large
     * consistency models: strong, eventual, causal
     * the two generals problem and its relevance
     * failure modes in distributed systems
-    * Byzantine faults and `when` they matter
+    * Byzantine faults and when they matter
 <!-- chapter: high-availability-and-fault-tolerance, duration: 3h -->
 * high availability and fault tolerance
     * SLA, SLO, and SLI definitions and targets
@@ -168,7 +168,7 @@ Architects and senior developers responsible for designing and maintaining large
     * progressive delivery: canary releases, feature flags
 
 ## References
-* [The 6 Pillars of the `AWS` Well-Architected Framework](`https`://`aws`.amazon.com/blogs/apn/the-6-pillars-of-the-`aws`-well-architected-framework)
+* [The 6 Pillars of the `AWS` Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-`aws`-well-architected-framework)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

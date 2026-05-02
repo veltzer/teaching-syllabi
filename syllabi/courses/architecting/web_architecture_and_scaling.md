@@ -61,7 +61,7 @@ This course provides a comprehensive exploration of web application architecture
 <!-- chapter: web-servers, duration: 1h -->
 * web servers
     * `Nginx` architecture and configuration
-    * `Apache` architecture and modules
+    * Apache architecture and modules
     * static vs dynamic content serving
     * connection handling models
 <!-- chapter: reverse-proxies, duration: 1h -->

@@ -24,7 +24,7 @@ solve them, providing a rich toolkit for both analyzing the performance issues a
 application to avoid them in the first place. In addition, we will learn about tools allowing us to
 understand and pinpoint the problem without influencing the running application, to set up
 production and development environments in a way that will `make` this task easier, and
-`when` everything else fails, perform post mortem debugging and application dump analysis on
+when everything else fails, perform post mortem debugging and application dump analysis on
 those crashes that are so hard to reproduce.
 
 ## Duration
@@ -69,8 +69,8 @@ those crashes that are so hard to reproduce.
             * Hit count
             * Function
         * The debugging loop
-            * `Make` it fail
-            * `Make` a `hypothesis`
+            * Make it fail
+            * Make a `hypothesis`
             * Collect evidence
             * Prove or refine the `hypothesis`
     * Advanced techniques and tools

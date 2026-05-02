@@ -110,7 +110,7 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
         * Weighted importance sampling
         * Variance reduction
 <!-- chapter: temporal-difference-learning, duration: 2h -->
-* `Temporal` Difference Learning
+* Temporal Difference Learning
     * TD prediction
         * `TD(0)` algorithm
         * TD vs Monte Carlo vs DP

@@ -40,11 +40,11 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
 * Working knowledge of `Kubernetes` (deployments, services, namespaces, `kubectl`).
 * `Solid` understanding of `Git` workflows (branching, pull requests).
 * Familiarity with `YAML` and `Kubernetes` manifests.
-* Basic understanding of `Helm` or `Kustomize` is helpful.
+* Basic understanding of Helm or `Kustomize` is helpful.
 
 ## Required Knowledge
 * Introduction to `Kubernetes` (or equivalent experience)
-* `Helm` (or equivalent experience)
+* Helm (or equivalent experience)
 
 ## Objectives
 * understand the core concepts and principles of `GitOps`
@@ -63,7 +63,7 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
 <!-- chapter: argocd-architecture-and-installation, duration: 1h -->
 * `ArgoCD` Architecture and Installation
     * `ArgoCD` components and architecture
-    * Installation methods (`Helm`, manifests, operator)
+    * Installation methods (Helm, manifests, operator)
     * `ArgoCD` `CLI` and web UI
     * Authentication and authorization
     * `RBAC` configuration
@@ -73,7 +73,7 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
     * Source repositories and target clusters
     * Manifest generation tools
         * Plain `YAML` manifests
-        * `Helm` charts
+        * Helm charts
         * `Kustomize` overlays
         * Jsonnet
     * Application health and status
@@ -92,7 +92,7 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
     * Generators
         * List generator
         * Cluster generator
-        * `Git` directory and `file` generators
+        * `Git` directory and file generators
         * Matrix and merge generators
     * Templates and overrides
     * Progressive rollouts with application sets
@@ -108,7 +108,7 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
     * Repository credentials and access
     * Private repository configuration
     * Secret management with `ArgoCD`
-    * Integration with external secret managers (`Vault`, `Sealed Secrets`, `External Secrets Operator`)
+    * Integration with external secret managers (Vault, `Sealed Secrets`, `External Secrets Operator`)
 <!-- chapter: progressive-delivery, duration: 2h -->
 * Progressive Delivery
     * Introduction to progressive delivery concepts

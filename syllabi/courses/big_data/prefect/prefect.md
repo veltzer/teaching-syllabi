@@ -98,7 +98,7 @@ audience:
 * Blocks
     * Block concept and registry
     * Storage blocks (`S3`, `GCS`, `Azure Blob`, `GitHub`)
-    * Notification blocks (`Slack`, email, `PagerDuty`)
+    * Notification blocks (Slack, email, `PagerDuty`)
     * Database blocks and connection management
     * Secret blocks for credential management
     * Creating custom blocks
@@ -126,8 +126,8 @@ audience:
 * Integration with `Cloud Storage` and Databases
     * Reading and writing to `S3`, `GCS`, and `Azure Blob`
     * Database operations with `SQLAlchemy` and connection blocks
-    * Integration with `Snowflake`, `BigQuery`, and `Databricks`
-    * Working with `Pandas` and Dask DataFrames
+    * Integration with Snowflake, `BigQuery`, and `Databricks`
+    * Working with Pandas and Dask DataFrames
 <!-- chapter: comparison-with-airflow-and-dagster, duration: 1h -->
 * Comparison with `Airflow` and `Dagster`
     * Architectural differences and trade-offs
@@ -144,7 +144,7 @@ audience:
 * `Docker` and `Kubernetes` Deployment
     * `Docker` image builds for `Prefect` flows
     * `Docker` work pool configuration
-    * `Kubernetes` deployment with `Helm`
+    * `Kubernetes` deployment with Helm
     * `Kubernetes` work pool and job templates
     * Production deployment patterns
 <!-- chapter: monitoring-and-observability, duration: 1h -->

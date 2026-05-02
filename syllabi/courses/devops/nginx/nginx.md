@@ -34,7 +34,7 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
 ## Prerequisites
 * Basic understanding of `HTTP` protocol and web server concepts.
 * Familiarity with `Linux` command-line administration.
-* Basic understanding of networking concepts (`DNS`, `TCP`/`IP`, `TLS`).
+* Basic understanding of networking concepts (`DNS`, ```TCP``/``IP```, `TLS`).
 
 ## Required Knowledge
 * `Linux` Fundamentals (or equivalent experience)
@@ -53,12 +53,12 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
     * `Event-driven architecture` overview
     * Master and worker processes
     * Connection handling model
-    * Comparison with `Apache` and `HAProxy`
+    * Comparison with Apache and `HAProxy`
     * `Nginx` vs `Nginx` Plus
 <!-- chapter: installation-and-configuration, duration: 1h -->
 * Installation and Configuration
     * Installing from packages and source
-    * Configuration `file` structure
+    * Configuration file structure
     * Main, events, and `http` contexts
     * Include directives and modular configuration
     * Configuration testing and reloading
@@ -163,7 +163,7 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
     * Worker process and connection tuning
     * Buffer sizes optimization
     * Keepalive connections
-    * Open `file` cache
+    * Open file cache
     * Kernel parameter tuning
     * Benchmarking with wrk and ab
 <!-- chapter: monitoring, duration: 1h -->

@@ -23,7 +23,7 @@ day-to-day engineering of putting guardrails on an `LLM`-powered product: input 
 validation, jailbreak resistance, `PII` handling at the boundary, content filtering, refusal-policy
 enforcement, and the operational reality of running a moderation pipeline in production. Guardrails
 are now a separate engineering layer with its own libraries (`Llama Guard`, `Guardrails AI`,
-`NeMo Guardrails`, `Lakera`, `Protect AI`), its own evaluation methodology, and its own failure modes.
+`NeMo Guardrails`, Lakera, `Protect AI`), its own evaluation methodology, and its own failure modes.
 
 This three day course covers `LLM` guardrails as a focused engineering practice. It covers the
 threat-model of an `LLM` product (jailbreak, prompt injection, data exfiltration, harmful generation,
@@ -58,7 +58,7 @@ guardrail layer for an `LLM` product.
 * deploy at least one off-the-shelf guardrail model
 * evaluate the guardrail layer
 * operate guardrails in production
-* recognize `when` guardrails are over-engineered
+* recognize when guardrails are over-engineered
 
 ## Outline
 <!-- chapter: the-threat-model, duration: 2h -->
@@ -83,7 +83,7 @@ guardrail layer for an `LLM` product.
     * toxicity classification
     * `PII` detection in outputs
     * brand-safety filters
-    * hallucination detection (citation-grounded `check`)
+    * hallucination detection (citation-grounded check)
     * the "the model said something that violated policy" incident
     * the "we filtered legitimate output" false-positive rate
 <!-- chapter: llama-guard-and-prompt-guard, duration: 2h -->
@@ -99,7 +99,7 @@ guardrail layer for an `LLM` product.
     * `Colang` as the policy language
     * input rails, dialogue rails, output rails
     * worked example
-    * `when` `NeMo Guardrails` is the right answer
+    * when `NeMo Guardrails` is the right answer
 <!-- chapter: guardrails-ai, duration: 1h -->
 * `Guardrails AI`
     * the validator-based approach
@@ -145,7 +145,7 @@ guardrail layer for an `LLM` product.
 <!-- chapter: production-operations, duration: 2h -->
 * Production operations
     * monitoring guardrail trips
-    * the alert `when` attack rate spikes
+    * the alert when attack rate spikes
     * the human-review queue
     * the policy-update cadence
     * the postmortem of a guardrail miss

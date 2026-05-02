@@ -20,8 +20,8 @@ duration_hours: 32
 ## Description
 `Python` is an easy to learn and powerful programming language that is used in many
 computer science areas.
-This course covers the power and flexibility of `NumPy`, SciPy and `Matplotlib` `when` dealing
-with heavy mathematical, engineering or scientific problems. Using the `Pandas` library,
+This course covers the power and flexibility of `NumPy`, SciPy and `Matplotlib` when dealing
+with heavy mathematical, engineering or scientific problems. Using the Pandas library,
 `Python` provides fast, flexible, and expressive data structures designed to `make` working
 with data both easy and intuitive.
 Explore the concise and expressive use of `Python`'s advanced module features and apply
@@ -91,12 +91,12 @@ and other roles responsible for analyzing the organization's data.
     * Linear algebra
     * Scikit
 <!-- chapter: pandas, duration: 1h -->
-* `Pandas`
+* Pandas
     * Overview
     * Series and DataFrame
     * Working with data
 <!-- chapter: pandas-series, duration: 2h -->
-* `Pandas` - Series
+* Pandas - Series
     * Understanding one-dimensional labeled arrays
     * Create a Series from `Python` objects
     * Using the `read_csv()` method
@@ -105,7 +105,7 @@ and other roles responsible for analyzing the organization's data.
     * Arguments and Parameters
     * Extracting Series values
 <!-- chapter: pandas-dataframe, duration: 3h -->
-* `Pandas` - DataFrame
+* Pandas - DataFrame
     * Understanding two-dimensional data structures
     * Selecting columns from a DataFrame
     * Adding new columns to a DataFrame
@@ -118,7 +118,7 @@ and other roles responsible for analyzing the organization's data.
     * Common String methods
 <!-- chapter: using-multiindex, duration: 1h -->
 * Using MultiIndex
-    * Understanding MultiIndex in `Pandas`
+    * Understanding MultiIndex in Pandas
     * Creating a MultiIndex
     * Extracting rows from a MultiIndex
     * Common methods
@@ -132,15 +132,15 @@ and other roles responsible for analyzing the organization's data.
 <!-- chapter: joining-and-concatenating-data, duration: 1h -->
 * Joining and Concatenating Data
     * Join operations between DataFrame objects
-    * Combining together `Pandas` objects
+    * Combining together Pandas objects
 <!-- chapter: working-with-dates, duration: 1h -->
 * Working with Dates
     * Understanding `Python`'s datetime module
-    * `Pandas` Timestamp and DateTimeIndex objects
-    * `Pandas` DateOffset and TimeDelta objects
+    * Pandas Timestamp and DateTimeIndex objects
+    * Pandas DateOffset and TimeDelta objects
     * Common methods
 <!-- chapter: pandas-i-o-api, duration: 1h -->
-* `Pandas` `I/O` `API`
+* Pandas `I/O` `API`
     * Object conversions
     * Export DataFrame to `CSV`
     * Importing and exporting Excel files

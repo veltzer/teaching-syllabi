@@ -18,7 +18,7 @@ audience:
 # System Design Interview Prep
 
 ## Description
-The system-design interview at `top` engineering organizations measures something specific: whether a candidate
+The system-design interview at top engineering organizations measures something specific: whether a candidate
 can scope an under-defined problem, walk a tradeoff space credibly, and `make` decisions out loud under time
 pressure. The general System Design course in the catalog is broader; this five day course is dedicated to
 the interview as a focused performance.
@@ -35,7 +35,7 @@ the companies that conduct these interviews.
 
 ## Intended Audience
 * senior developers preparing for staff/principal-level interviews
-* developers preparing for senior-engineer interviews at `top` organizations
+* developers preparing for senior-engineer interviews at top organizations
 * engineers re-entering the job market after years in one role
 * engineers giving these interviews who want to calibrate their bar
 
@@ -83,7 +83,7 @@ the companies that conduct these interviews.
 * The design toolbox
     * load balancers, caches, queues, databases, blob stores, `CDN`
     * relational vs document vs key-value vs wide-column vs time-series
-    * sync vs `async` patterns
+    * sync vs async patterns
     * push vs pull
     * the partial vocabulary every candidate should know
     * cross-reference to the Distributed Systems Tradeoffs course

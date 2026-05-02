@@ -18,12 +18,12 @@ audience:
 
 ## Description
 Cell-based architecture is the pattern that gives a large system a hard upper bound on blast `radius`. Instead
-of running one large service that, `when` something goes wrong, takes down every customer at once, the system
+of running one large service that, when something goes wrong, takes down every customer at once, the system
 is partitioned into independent `cells`. Each cell is a complete, self-contained unit. Customers are routed
 to a cell, and a failure in one cell affects only the customers in that cell. The catalog has
 `Multi-Region Architecture`, `Microservices Architecture`, `Multi-tenant SaaS Architecture`, and
 `Disaster Recovery in Practice`. None of those is the same conversation as cell-based design — cells are
-the alternative to "`make` the whole system reliable enough" that `AWS`, `Slack`, `Salesforce`, and the major
+the alternative to "`make` the whole system reliable enough" that `AWS`, Slack, `Salesforce`, and the major
 cloud providers have converged on for systems where blast `radius` is the primary risk.
 
 This three day course covers cell-based architecture as practiced today. It covers the motivation (blast
@@ -32,7 +32,7 @@ cells, the placement decision (which customer goes in which cell), the deploymen
 independently), the operational model (each cell is observed and operated separately), the cell-migration
 problem (moving a customer between cells), the cost shape (more cells means more overhead), and the
 patterns that `make` cells work or fail. Examples are drawn from `AWS`'s public talks on `EC2`, `S3`, and
-`DynamoDB` cell architectures, `Slack`'s cell migration, and `Salesforce`'s pod model. Participants leave
+`DynamoDB` cell architectures, Slack's cell migration, and `Salesforce`'s pod model. Participants leave
 able to design a cell-based system, decide on the cell size, and operate a fleet of cells.
 
 ## Duration
@@ -56,7 +56,7 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
 * design the routing layer that places traffic on cells
 * migrate customers between cells safely
 * operate a fleet of cells with the right observability
-* recognize `when` cell-based is overkill
+* recognize when cell-based is overkill
 * compare cell-based to multi-region and to `microservices`
 
 ## Outline
@@ -67,7 +67,7 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
     * the difference from a region
     * the difference from a tenant
     * cross-reference to the Multi-tenant `SaaS` Architecture course
-    * the canonical examples: `EC2`, `S3`, `DynamoDB`, `Slack` pods
+    * the canonical examples: `EC2`, `S3`, `DynamoDB`, Slack pods
 <!-- chapter: blast-radius-as-a-first-class-concern, duration: 2h -->
 * Blast `radius` as a first-class concern
     * the "everyone is down" failure mode
@@ -117,7 +117,7 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
     * the export-and-import approach
     * the cutover and the rollback
     * the "migration broke the customer" failure
-    * worked example: `Slack`'s pod migration
+    * worked example: Slack's pod migration
 <!-- chapter: data-and-state-in-cells, duration: 2h -->
 * Data and state in cells
     * the database per cell

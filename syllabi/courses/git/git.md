@@ -15,7 +15,7 @@ audience:
 # `Git`
 
 ## Description
-`Git` is the de-facto standard source control system for the tech industry and is one of the most flexible software tools to be found. Any developer or `devops` person probably needs at least a basic understanding of `Git` to get going and this course is intended for that purpose.
+`Git` is the de-facto standard source control system for the tech industry and is one of the most flexible software tools to be found. Any developer or devops person probably needs at least a basic understanding of `Git` to get going and this course is intended for that purpose.
 This course covers all of the fundamental operations an experienced coder would use on a daily basis. The course begins with an introduction to `Git` and a comparison of `Git` to other version control systems. It then transitions into the nuts-and-bolts of working with `Git`, including everything from setting up a repository to advanced topics like branching and merging.
 Because the industry sometimes misuses `git` this course is also focuses on clearing up muddled understanding of `git`: the staging area, merge vs rebase, history management, branching and more
 
@@ -34,7 +34,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 ## Objectives
 * Setup and use `git`
 * Understand and use `Git`'s branching features correctly and effectively
-* Decide on which workflows to use `when` using `Git`
+* Decide on which workflows to use when using `Git`
 
 ## Outline
 <!-- chapter: introduction-to-git, duration: 1h -->
@@ -167,7 +167,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
         * Where are the tags?
         * Where are the heads?
         * Where are the remotes?
-    * What happens `when` you
+    * What happens when you
         * Add to staging area (the index)
         * Commit
         * Create a branch
@@ -230,20 +230,20 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 <!-- chapter: git-tools, duration: 1h -->
 * `Git` tools
     * `Git` and programming languages: GitPython
-    * `Git` and development platforms: `GitHub`, `BitBucket`, `Gitlab`
-    * `Git` and `IDEs`: `PyCharm`, `Eclipse`, Spyder
-    * `Git` and CICD tools: `Jenkins`, `Bamboo`
+    * `Git` and development platforms: `GitHub`, BitBucket, `Gitlab`
+    * `Git` and `IDEs`: `PyCharm`, Eclipse, Spyder
+    * `Git` and CICD tools: `Jenkins`, Bamboo
 
 ## Installations
 * Any recent distribution of `Linux` with `sudo`/root privilege.
 * WSL installation on `Windows` with `git` installed.
-* [`Git` `BASH`](`https`://gitforwindows.org/) installed on `Windows`.
+* [`Git` BASH](https://gitforwindows.org/) installed on `Windows`.
 * In any case the installations are not a must and the instructor can guide the students how to perform the installations on the first day of the course.
 
 <!-- Topics from the old git_syllabus.md not covered above:
-- `Git` internals: plumbing vs porcelain, packfiles, transfer protocols, maintenance and data recovery
-- `Git` concepts: Content-Addressable Names, Pathname vs Content
-- Customizing `git`: attributes, enforcing policy
+- Git internals: plumbing vs porcelain, packfiles, transfer protocols, maintenance and data recovery
+- Git concepts: Content-Addressable Names, Pathname vs Content
+- Customizing git: attributes, enforcing policy
 - Interactive staging
 - Sub-tree merging
 - GitWeb

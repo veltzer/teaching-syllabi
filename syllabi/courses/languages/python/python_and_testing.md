@@ -49,7 +49,7 @@ This is a rather lengthy course for testing as most testing courses are one day 
     * Testing as part of software development
         * Software testing life-cycle
         * V-model
-        * `Agile` `CI/CD` and testing
+        * Agile `CI/CD` and testing
     * Levels of testing
         * Unit testing
         * System testing
@@ -138,7 +138,7 @@ This is a rather lengthy course for testing as most testing courses are one day 
     * Mocking the database layer
     * Rollback of database state
 <!-- chapter: best-practices-when-writing-tests, duration: 1h -->
-* Best practices `when` writing tests
+* Best practices when writing tests
     * Tests should be isolated
     * Tests should `clean` after themselves
     * Tests should measure time, but not precisely.

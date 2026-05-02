@@ -60,7 +60,7 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
 * Data Indexing and Operations
     * Basics of Solr indexing
     * Understanding index handlers
-    * `Apache` Tika and indexing
+    * Apache Tika and indexing
     * Language detection
     * Client APIs
 <!-- chapter: advanced-queries-part-i, duration: 4h -->

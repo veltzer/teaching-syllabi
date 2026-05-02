@@ -16,9 +16,9 @@ audience:
 ## Description
 `Apache Spark` is a fast and general engine for large-scale data processing, and arguably the first
 open source software that makes distributed programming truly accessible to data scientists.
-Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and `R`.
+Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and R.
 
-`Scala`, short for "Scalable Language," is a modern, multi-paradigm programming language that seamlessly blends object-oriented and functional programming concepts. It runs on the `Java` Virtual Machine (`JVM`) and is fully interoperable with `Java`. `Scala`'s concise syntax, strong type system, and powerful features `make` it an ideal choice for developing `Spark` applications. Its functional programming capabilities align well with `Spark`'s distributed computing model, allowing for more expressive and efficient code `when` working with large-scale data processing tasks. Additionally, `Spark` itself is written in `Scala`, which means using `Scala` for `Spark` development provides access to the latest features and often results in better performance compared to other language bindings.
+`Scala`, short for "Scalable Language," is a modern, multi-paradigm programming language that seamlessly blends object-oriented and functional programming concepts. It runs on the `Java` Virtual Machine (`JVM`) and is fully interoperable with `Java`. `Scala`'s concise syntax, strong type system, and powerful features `make` it an ideal choice for developing `Spark` applications. Its functional programming capabilities align well with `Spark`'s distributed computing model, allowing for more expressive and efficient code when working with large-scale data processing tasks. Additionally, `Spark` itself is written in `Scala`, which means using `Scala` for `Spark` development provides access to the latest features and often results in better performance compared to other language bindings.
 
 Throughout this course, students will dive deep into the `Spark` ecosystem,
 learning how to write efficient, scalable, and fault-tolerant applications for big data processing.
@@ -41,7 +41,7 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 * Develop skills in writing and optimizing `Spark` applications using `Scala`
 * Explore `Spark`'s ecosystem components, including `Spark Streaming`, `Spark SQL`, and `MLlib`
 * Acquire hands-on experience with real-world use cases and applications of `Spark`
-* Learn how to integrate `Spark` with various data sources and `Hive`
+* Learn how to integrate `Spark` with various data sources and Hive
 * Understand the basics of distributed programming and data processing
 * Gain introductory knowledge of `machine learning` concepts and their implementation using `Spark`'s `MLlib`
 
@@ -87,7 +87,7 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 * `Spark SQL`
     * Introduction to `Spark SQL` & DataFrames
     * Integration with Different Data Sources
-    * Integration with `Hive`
+    * Integration with Hive
 <!-- chapter: spark-mllib, duration: 2h -->
 * `Spark MLlib`
     * Introduction to `Machine Learning`

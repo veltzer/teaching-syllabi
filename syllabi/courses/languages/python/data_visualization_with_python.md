@@ -77,7 +77,7 @@ Geospatial visualization techniques are also covered for location-based data ana
     * Composition charts (stacked bar, pie, treemap)
     * Distribution charts (histogram, box plot, violin)
     * Relationship charts (scatter, bubble, heatmap)
-    * `Temporal` charts (line, area, calendar)
+    * Temporal charts (line, area, calendar)
     * Data-to-visualization mapping principles
 <!-- chapter: color-theory-and-accessibility, duration: 2h -->
 * Color Theory and Accessibility
