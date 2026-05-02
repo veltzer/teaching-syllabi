@@ -17,7 +17,7 @@ from pathlib import Path
 
 DEFAULT_REPO_URL = "git@github.com:veltzer/terms.git"
 DEFAULT_REF = "main"
-SYNCED_DIRS = ("terms.ambiguous", "terms.single_meaning")
+SYNCED_DIRS = ("terms.ambiguous", "terms.unambiguous")
 
 
 def main() -> int:

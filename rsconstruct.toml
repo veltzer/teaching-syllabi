@@ -40,8 +40,6 @@ src_dirs = ["syllabi", "out/generator"]
 auto_add_words = true
 
 [processor.terms]
-terms_dir = "terms.single_meaning"
-ambiguous_terms_dir = "terms.ambiguous"
 src_dirs = ["syllabi", "out/generator"]
 
 [processor.stylelint]
