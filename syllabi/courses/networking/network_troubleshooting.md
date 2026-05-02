@@ -117,7 +117,7 @@ This course teaches a systematic approach to diagnosing and resolving network is
     * Quality of Service (QoS) considerations
 <!-- chapter: network-monitoring-tools, duration: 2h -->
 * Network Monitoring Tools
-    * Nagios monitoring and alerting
+    * `Nagios` monitoring and alerting
     * `Zabbix` configuration and dashboards
     * `SNMP` polling and traps
     * Baseline establishment and anomaly detection

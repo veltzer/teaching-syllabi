@@ -1,4 +1,3 @@
-Alpine
 Android
 CentOS
 Debian
@@ -18,5 +17,4 @@ iOS
 macOS
 NixOS
 VxWorks
-Zephyr
 Rocky Linux

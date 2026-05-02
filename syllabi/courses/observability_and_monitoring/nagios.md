@@ -13,15 +13,15 @@ audience:
   - audiences:sres
 ---
 <!-- course: nagios -->
-# Nagios Monitoring
+# `Nagios` Monitoring
 
 ## Description
-Nagios is one of the most widely adopted open source monitoring systems,
+`Nagios` is one of the most widely adopted open source monitoring systems,
 providing comprehensive infrastructure monitoring through host and service checks,
 alerting, and performance data collection. This course covers the core concepts
-of Nagios monitoring, from basic installation and configuration through advanced
+of `Nagios` monitoring, from basic installation and configuration through advanced
 topics such as distributed monitoring and event handlers. Participants will learn
-how to build a robust monitoring solution using Nagios that provides full
+how to build a robust monitoring solution using `Nagios` that provides full
 visibility into their infrastructure.
 
 ## Duration
@@ -42,18 +42,18 @@ visibility into their infrastructure.
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
-* Understand the Nagios architecture and core monitoring concepts.
+* Understand the `Nagios` architecture and core monitoring concepts.
 * Configure host and service checks for infrastructure monitoring.
-* Write and deploy custom Nagios plugins.
+* Write and deploy custom `Nagios` plugins.
 * Set up notifications, escalations, and event handlers.
 * Implement distributed monitoring for large-scale environments.
-* Collect and visualize performance data using Nagios dashboards.
+* Collect and visualize performance data using `Nagios` dashboards.
 
 ## Outline
 <!-- chapter: introduction-to-nagios, duration: 1h -->
-* Introduction to Nagios
+* Introduction to `Nagios`
     * Overview of monitoring and observability
-    * Nagios architecture and components
+    * `Nagios` architecture and components
     * Installation and initial configuration
     * Web interface overview
 <!-- chapter: host-and-service-checks, duration: 1h -->
@@ -64,13 +64,13 @@ visibility into their infrastructure.
     * Synthetic monitoring with active checks
     * Passive checks and external commands
 <!-- chapter: nagios-plugins, duration: 1h -->
-* Nagios Plugins
+* `Nagios` Plugins
     * Standard plugin library
     * Writing custom plugins
     * Plugin return codes and output format
     * Threshold configuration and best practices
 <!-- chapter: nrpe-nagios-remote-plugin-executor, duration: 1h -->
-* NRPE (Nagios Remote Plugin Executor)
+* NRPE (`Nagios` Remote Plugin Executor)
     * NRPE architecture and communication
     * Installing and configuring NRPE on remote hosts
     * Securing NRPE connections
@@ -84,7 +84,7 @@ visibility into their infrastructure.
     * Alert fatigue management
 <!-- chapter: dashboards-and-performance-data, duration: 1h -->
 * Dashboards and Performance Data
-    * Nagios web interface customization
+    * `Nagios` web interface customization
     * Performance data collection and processing
     * Integrating with graphing tools (PNP4Nagios, `Grafana`)
     * Status maps and tactical overviews
@@ -99,7 +99,7 @@ visibility into their infrastructure.
     * Distributed monitoring architecture
     * Parent-child host relationships
     * NSCA and passive `check` forwarding
-    * Scaling Nagios for large environments
+    * Scaling `Nagios` for large environments
     * High availability considerations
 
 ## Copyright

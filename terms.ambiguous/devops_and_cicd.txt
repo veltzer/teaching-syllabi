@@ -1,5 +1,17 @@
+Bamboo
 Bicep
-Docker Desktop
-Podman Compose
-StepAction
-TaskRun
+Chef
+Consul
+Harbor
+Helm
+Ingress
+knife
+Nomad
+Prometheus
+Puppet
+Renovate
+Salt
+Spinnaker
+Temporal
+Vagrant
+Vault

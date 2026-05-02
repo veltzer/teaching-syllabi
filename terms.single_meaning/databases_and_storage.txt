@@ -2,24 +2,21 @@ Azure Blob Storage
 Cassandra
 CouchDB
 Couchbase
-Druid
 DynamoDB
 Elasticsearch
 Firestore
 Google Cloud Storage
 HBase
 HDFS
-Hive
 InfluxDB
 Lucene
 MariaDB
+Metabase
 MongoDB
 MySQL
 N1QL
 Neo4j
-Oracle
 PostgreSQL
-Presto
 Redis
 SQL Server
 SQLite
@@ -38,26 +35,22 @@ Elastic Cloud
 Group Replication
 Hive Metastore
 Hudi
-Iceberg
 InnoDB Cluster
 MongoDB Atlas
 MongoDB Compass
 MySQL InnoDB Cluster
 MySQL Router
 MySQL Shell
-Pinecone
 Qdrant
 Redis Sentinel
 Redis Streams
 ScyllaDB
-Snowflake
 Unity Catalog
 Weaviate
 AlloyDB
 ChromaDB
 ClickHouse
 EventStoreDB
-Flyway
 Liquibase
 Milvus
 MinIO
@@ -70,6 +63,4 @@ Percona XtraBackup
 MergeTree
 Databricks Runtime
 Databricks SQL
-Impala
 PrestoSQL
-Starburst

@@ -52,7 +52,7 @@ This course provides an in-depth exploration of `Grafana`, the leading open-sour
     * High availability setup
 <!-- chapter: data-sources, duration: 2h -->
 * Data Sources:
-    * `Prometheus` data source and PromQL
+    * `Prometheus` data source and `PromQL`
     * Loki data source and LogQL
     * `Elasticsearch` data source
     * `InfluxDB` data source

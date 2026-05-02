@@ -56,7 +56,7 @@ audience:
     * What is `Apache Superset` and its history
     * Architecture: web server, metadata database, cache, and workers
     * Feature overview and use cases
-    * Comparison with `Grafana`, Metabase, and Tableau
+    * Comparison with `Grafana`, `Metabase`, and Tableau
     * Community and ecosystem
 <!-- chapter: installation-and-configuration, duration: 1h -->
 * Installation and Configuration

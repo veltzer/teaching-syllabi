@@ -27,7 +27,7 @@ audience:
 * Platform engineers evaluating time-series databases for high-cardinality and long-retention use cases.
 
 ## Prerequisites
-* Working knowledge of `Prometheus`, including scrape configuration, PromQL queries, and alerting rules.
+* Working knowledge of `Prometheus`, including scrape configuration, `PromQL` queries, and alerting rules.
 * Familiarity with `Docker` and basic `Linux` administration.
 * Understanding of time-series data concepts and metrics collection patterns.
 * Experience with `Grafana` for dashboard creation is helpful.

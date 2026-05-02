@@ -9,12 +9,10 @@ Kafka
 Kafka Streams
 Luigi
 Oozie
-Pig
 Prefect
 Spark
 Splunk
 Sqoop
-Storm
 YARN
 Zookeeper
 Airbyte
@@ -52,7 +50,6 @@ dbt
 dbt Cloud
 Airbyte Cloud
 Data Factory
-Delta
 Druid Operator
 Flink SQL
 Glue DataBrew
@@ -62,7 +59,6 @@ Hudi Flink
 Meltano
 Spark Structured Streaming
 Structured Streaming
-Synapse
 Synapse Link
 HyperLogLog
 Fivetran

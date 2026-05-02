@@ -188,7 +188,7 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
 * Integration with Visualization Tools
     * Connecting `Grafana` to `ClickHouse`
     * Superset integration
-    * Metabase integration
+    * `Metabase` integration
     * `JDBC` and ODBC drivers
     * Client libraries for popular programming languages
     * `REST` `API` and `HTTP` interface

@@ -1,17 +1,9 @@
 Appium
-Cucumber
-Cypress
+Cypress Cloud
 Gatling
 JMeter
 JUnit
-Jasmine
-Jest
-Karma
-Locust
-Mocha
 Mockito
-Newman
-Postman
 Protractor
 Robot Framework
 Selenium
@@ -19,17 +11,14 @@ SoapUI
 TestNG
 TestRail
 X-ray
-nose
 pytest
 unittest
 @Container
 Chef InSpec
 ChefSpec
 Common Test
-Cypress Cloud
 EUnit
 Gatling Enterprise
-Hypothesis
 JUnit 4
 JUnit 5
 JUnit Jupiter
@@ -40,7 +29,6 @@ React Testing Library
 RequestsLibrary
 SeleniumLibrary
 Spring Cloud Contract
-check
 k6 Cloud
 mutmut
 pytest-mock

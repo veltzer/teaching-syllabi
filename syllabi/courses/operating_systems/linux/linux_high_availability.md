@@ -131,7 +131,7 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
     * Cluster status commands and tools
     * Monitoring node and resource state
     * Log analysis for cluster events
-    * Integration with monitoring systems (Nagios, `Zabbix`, `Prometheus`)
+    * Integration with monitoring systems (`Nagios`, `Zabbix`, `Prometheus`)
     * Alerting on cluster state changes
     * Capacity planning for HA clusters
 <!-- chapter: troubleshooting-split-brain, duration: 2h -->

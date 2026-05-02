@@ -75,7 +75,7 @@ As current deployed applications and systems are becoming more complex with tool
     * Endpoints
     * Label Naming
     * Working with Time Series data
-    * Querying with PromQL
+    * Querying with `PromQL`
     * Metric types:
     * Counters
     * Gauges

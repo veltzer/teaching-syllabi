@@ -21,6 +21,7 @@ Netlink
 NFS
 OAuth
 POP3
+PromQL
 PXE
 REST
 SAML
@@ -50,7 +51,6 @@ BIND
 Consul Connect
 DoH
 DoT
-Envoy
 IP
 JDBC
 JMS
@@ -60,7 +60,6 @@ NATS
 NXDOMAIN
 OpenAPI
 OpenWire
-Pulsar
 Pulsar IO
 REST APIs
 RESTful APIs

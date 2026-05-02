@@ -95,7 +95,7 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
     * `Cloud Monitoring`: metrics, dashboards, and uptime checks
     * `Cloud Logging`: log routing, retention, and analytics
     * Cloud Trace: distributed tracing and latency analysis
-    * Managed Service for `Prometheus` and PromQL
+    * Managed Service for `Prometheus` and `PromQL`
     * `OpenTelemetry` integration
     * Custom metrics and log-based metrics
     * Synthetic monitors

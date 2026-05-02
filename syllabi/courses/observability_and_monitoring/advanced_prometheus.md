@@ -15,7 +15,7 @@ audience:
 # Advanced `Prometheus`
 
 ## Description
-This advanced course takes participants beyond the basics of `Prometheus` into production-grade monitoring and observability. The course covers PromQL in depth, recording and alerting rules with `Alertmanager`, federation, remote storage backends such as Thanos, Cortex, and Mimir, service discovery, relabeling, and high availability configurations. Participants will gain the skills needed to operate `Prometheus` at scale with confidence.
+This advanced course takes participants beyond the basics of `Prometheus` into production-grade monitoring and observability. The course covers `PromQL` in depth, recording and alerting rules with `Alertmanager`, federation, remote storage backends such as Thanos, Cortex, and Mimir, service discovery, relabeling, and high availability configurations. Participants will gain the skills needed to operate `Prometheus` at scale with confidence.
 
 ## Duration
 16 hours / 2 days
@@ -32,7 +32,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 * `Prometheus` and `Grafana`
 
 ## Objectives
-* Write complex PromQL queries for advanced analysis and troubleshooting.
+* Write complex `PromQL` queries for advanced analysis and troubleshooting.
 * Design and implement recording rules for performance optimization.
 * Configure `Alertmanager` with routing, grouping, and notification pipelines.
 * Set up `Prometheus` federation for multi-cluster monitoring.
@@ -41,7 +41,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 
 ## Outline
 <!-- chapter: promql-deep-dive, duration: 2h -->
-* PromQL Deep Dive
+* `PromQL` Deep Dive
     * Data types and selectors
     * Range vectors and instant vectors
     * Aggregation operators
@@ -106,7 +106,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 * Exemplars
     * What are exemplars?
     * Instrumenting code with exemplars
-    * Querying exemplars in PromQL
+    * Querying exemplars in `PromQL`
     * Exemplar integration with `Grafana` and tracing backends
 <!-- chapter: high-availability, duration: 2h -->
 * High Availability

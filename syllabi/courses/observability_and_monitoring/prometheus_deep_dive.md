@@ -15,7 +15,7 @@ audience:
 # `Prometheus` Deep Dive
 
 ## Description
-This course provides a comprehensive deep dive into `Prometheus`, the leading open-source monitoring and alerting toolkit. Participants will master PromQL, learn to instrument applications, configure service discovery, set up alerting with `Alertmanager`, and explore long-term storage solutions. The course prepares teams to build robust, scalable monitoring infrastructure with `Prometheus`.
+This course provides a comprehensive deep dive into `Prometheus`, the leading open-source monitoring and alerting toolkit. Participants will master `PromQL`, learn to instrument applications, configure service discovery, set up alerting with `Alertmanager`, and explore long-term storage solutions. The course prepares teams to build robust, scalable monitoring infrastructure with `Prometheus`.
 
 ## Duration
 16 hours / 2 days
@@ -36,7 +36,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
 
 ## Objectives
 * Understand the `Prometheus` architecture and pull-based model.
-* Write advanced PromQL queries for analysis and alerting.
+* Write advanced `PromQL` queries for analysis and alerting.
 * Instrument applications using `Prometheus` client libraries.
 * Configure service discovery for dynamic environments.
 * Set up `Alertmanager` with routing, grouping, and silencing.
@@ -52,14 +52,14 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * Scrape configuration and targets
     * Storage engine and retention
 <!-- chapter: promql-fundamentals, duration: 1h -->
-* PromQL Fundamentals:
+* `PromQL` Fundamentals:
     * Instant vectors and range vectors
     * Selectors and matchers
     * Arithmetic and comparison operators
     * Aggregation operators (sum, avg, min, max, count, topk)
     * Functions (rate, irate, increase, histogram_quantile, predict_linear)
 <!-- chapter: advanced-promql, duration: 1h -->
-* Advanced PromQL:
+* Advanced `PromQL`:
     * Subqueries
     * Recording rules for performance
     * Label manipulation functions

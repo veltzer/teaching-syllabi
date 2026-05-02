@@ -1,14 +1,10 @@
-Ant
 Bazel
-Buck
 CMake
-Cargo
 Carthage
 CocoaPods
 Gradle
 Hatch
 Leiningen
-Make
 Maven
 NuGet
 PyPI
@@ -17,16 +13,12 @@ SPM
 Scratchbox
 apt
 autotools
-composer
 conda
 distutils
 flake8
-gem
 meson
 npm
-pip
 pipenv
-poetry
 pydoc
 pylint
 setuptools
@@ -40,7 +32,6 @@ Nixpkgs
 POM
 WrapDB
 dotnet
-dune
 nix develop
 nix-shell
 opam

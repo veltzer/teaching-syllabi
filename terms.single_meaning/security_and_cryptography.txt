@@ -11,6 +11,7 @@ IDS
 IPS
 IPSec
 Kerberos
+Libreswan
 MD5
 MISRA
 NIST
@@ -108,10 +109,8 @@ OSCP
 OSINT
 OWASP Testing Guide
 OWASP Threat Dragon
-PASTA
 PBKDF2
 PTES
-STRIDE
 STIX 2.1
 TAXII
 TLS 1.2
@@ -129,7 +128,6 @@ CeWL
 Censys
 CrackMapExec
 Cuckoo Sandbox
-Cutter
 CycloneDX
 Defect Dojo
 Detect-It-Easy
@@ -137,7 +135,6 @@ EternalBlue
 Ettercap
 FakeNet-NG
 FlareVM
-FLOSS
 Greenbone
 Hashcat
 Hunter.io
@@ -157,7 +154,6 @@ Process Monitor
 PsExec
 REMnux
 ResourceHacker
-Responder
 ScyllaHide
 SecLists
 SharpHound

@@ -10,6 +10,7 @@ bool
 Buildroot
 BusyBox
 calloc
+Camunda
 cgroups
 CLI
 Cloud Computing
@@ -21,19 +22,24 @@ CRUD
 D-Bus
 Dalvik
 Device Tree
+Dialogflow CX
 dmalloc
 Docker HUB
 Dockerfile
+Dynatrace Query Language
 eBPF
+Elastic APM
 Elastic Block Store
 Elastic Compute Cloud
 Elastic File System
 epoll
+Etherscan
 ETL
 float64
 futex
 GIL
 GitOps
+Grafana Agent
 GRUB
 Hyper-V
 IDEs
@@ -43,6 +49,7 @@ inotify
 int
 ioctl
 IPC
+Jamf
 Jira
 kickstart
 KVM
@@ -51,9 +58,14 @@ libuv
 Makefile
 malloc
 MapReduce
+Microsoft Intune
+Microsoft Sentinel
+Microsoft Teams
+Microsoft Threat Modeling Tool
 mmap
 multiprocessing
 mutex
+Nagios
 NDK
 netfilter
 NoSQL
@@ -67,6 +79,7 @@ Pipewire
 POSIX
 PREEMPT_RT
 preseed
+Proxmox
 QEMU
 RabbitMQ
 RAII
@@ -75,14 +88,16 @@ realloc
 Relational Database Service
 REST API
 runc
+Salesforce
 SDK
+ServiceNow
 shared_ptr
 Simple Storage Service
 size_t
-Slack
 str
 subprocess
 sysfs
+Tailscale
 threading
 tmpfs
 typeof
@@ -100,6 +115,7 @@ Web Services
 WebGL
 X11
 Yocto
+Zscaler
 CREATE TABLE
 EXPLAIN ANALYZE
 Ethereum

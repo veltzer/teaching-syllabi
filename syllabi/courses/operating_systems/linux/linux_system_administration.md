@@ -228,7 +228,7 @@ This intensive course covers essential `Linux` system administration concepts an
     * Process accounting
     * Log management and rotation (`journalctl`, `logrotate`, `rsyslog`)
         * Centralized logging
-    * Automated monitoring solutions (`Prometheus`, `Grafana`, Nagios/`Zabbix`)
+    * Automated monitoring solutions (`Prometheus`, `Grafana`, `Nagios`/`Zabbix`)
         * `Prometheus` configuration and alert rules
         * `Grafana` dashboards
     * collectd and Netdata

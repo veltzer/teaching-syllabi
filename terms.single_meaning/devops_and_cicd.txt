@@ -1,20 +1,16 @@
 Ansible
 Argo CD
 Azure DevOps
-Bamboo
-Chef
 CircleCI
 Codefresh
-Consul
 DataDog
 Docker
+Docker Desktop
 ELK Stack
 Fluentd
 GitHub Actions
 GitLab CI
 Grafana
-Helm
-Ingress
 Istio
 Jaeger
 Jenkins
@@ -26,16 +22,14 @@ Logstash
 Logz.io
 Minikube
 Nexus
-Nomad
 OpenShift
 OpenTelemetry
-Prometheus
-Puppet
+Podman Compose
+StepAction
+TaskRun
 TeamCity
 Terraform
 Travis CI
-Vagrant
-Vault
 Zipkin
 ActiveGate
 Ansible Galaxy
@@ -74,7 +68,6 @@ PipelineRun
 PipelineRuns
 SLS
 SLSA
-Salt
 Salt Cloud
 Salt SSH
 SaltStack
@@ -87,7 +80,6 @@ Tekton Chains
 Tekton Hub
 Tekton Triggers
 Telegraf
-Temporal
 Test Kitchen
 Testcontainers
 Trivy
@@ -95,7 +87,6 @@ VMAlert
 VictoriaMetrics
 Zabbix
 k6
-knife
 Alertmanager
 Argo Workflows
 Berkshelf
@@ -112,7 +103,6 @@ Falco
 Fluent Bit
 Flux CD
 Flux v2
-Harbor
 HelmChart
 HelmRelease
 HelmRepository
@@ -124,9 +114,7 @@ Kustomization
 Notary v2
 Operator Lifecycle Manager
 Rekor
-Renovate
 Skopeo
-Spinnaker
 StatsD
 Wolfi
 Codecov
