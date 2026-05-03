@@ -106,9 +106,9 @@ This advanced course dives deep into `Gradle`'s most powerful features for build
     * Avoiding common performance pitfalls
 <!-- chapter: artifact-publishing, duration: 2h -->
 * Artifact Publishing
-    * `Maven` Publish plugin
-    * Publishing to `Maven` repositories
-    * Publishing to Artifactory and `Nexus`
+    * Maven Publish plugin
+    * Publishing to Maven repositories
+    * Publishing to Artifactory and Nexus
     * Signing artifacts
     * Publishing multi-variant libraries
 

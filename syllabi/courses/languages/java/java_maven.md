@@ -10,7 +10,7 @@ audience:
   - audiences:developers
 ---
 <!-- course: java_maven -->
-# `Java` `Maven`
+# `Java` Maven
 
 ## Description
 This course provides a thorough exploration of `Apache Maven` as the standard build and project management tool for `Java` applications. Starting from `POM` structure and lifecycle fundamentals, the course progresses through dependency management, plugin development, multi-module projects, and CI integration. Students will gain the skills to manage complex `Java` builds with confidence and set up professional release workflows.
@@ -19,7 +19,7 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
 16 hours / 1 day
 
 ## Intended Audience
-* `Java` developers who want to master `Maven` for project builds and dependency management
+* `Java` developers who want to master Maven for project builds and dependency management
 * `DevOps` engineers responsible for `Java` build pipelines
 * Team leads standardizing build processes across `Java` projects
 
@@ -29,20 +29,20 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
 * Understanding of software project structure and compilation concepts
 
 ## Objectives
-* Understand the `Maven` `POM` structure and project object model
-* Master `Maven` lifecycle phases and how they orchestrate builds
+* Understand the Maven `POM` structure and project object model
+* Master Maven lifecycle phases and how they orchestrate builds
 * Manage dependencies effectively using repositories, scopes, and BOMs
-* Configure and use `Maven` plugins for custom build tasks
+* Configure and use Maven plugins for custom build tasks
 * Set up multi-module projects with proper inheritance and aggregation
-* Integrate `Maven` builds into `CI/CD` pipelines
+* Integrate Maven builds into `CI/CD` pipelines
 
 ## Outline
 <!-- chapter: introduction-to-maven, duration: 1h -->
-* Introduction to `Maven`
-    * What is `Maven` and why use it
+* Introduction to Maven
+    * What is Maven and why use it
     * Convention over configuration philosophy
-    * Installing and configuring `Maven`
-    * The `Maven` wrapper
+    * Installing and configuring Maven
+    * The Maven wrapper
 <!-- chapter: pom-structure, duration: 1h -->
 * `POM` Structure
     * Project coordinates: groupId, artifactId, version
@@ -72,12 +72,12 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
     * Central repository and remote repositories
     * Repository mirrors and settings.`xml`
     * Deploying artifacts to remote repositories
-    * Repository managers: `Nexus` and Artifactory
+    * Repository managers: Nexus and Artifactory
 <!-- chapter: plugins, duration: 2h -->
 * Plugins
     * Plugin architecture and configuration
     * Commonly used plugins: compiler, surefire, jar, war
-    * The `Maven` shade plugin and fat JARs
+    * The Maven shade plugin and fat JARs
     * Code quality plugins: Checkstyle, SpotBugs, PMD
     * Custom plugin configuration and execution bindings
 <!-- chapter: profiles, duration: 1h -->
@@ -96,7 +96,7 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
 <!-- chapter: release-plugin-and-versioning, duration: 2h -->
 * Release Plugin and Versioning
     * SNAPSHOT vs release versions
-    * The `Maven` release plugin workflow
+    * The Maven release plugin workflow
     * Preparing and performing releases
     * Version management strategies
     * The versions plugin
@@ -108,8 +108,8 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
     * Publishing project sites
 <!-- chapter: ci-integration, duration: 2h -->
 * CI Integration
-    * `Maven` in `Jenkins` pipelines
-    * `Maven` in `GitHub Actions` and `GitLab CI`
+    * Maven in `Jenkins` pipelines
+    * Maven in `GitHub Actions` and `GitLab CI`
     * Caching strategies for faster builds
     * Parallel builds and build optimization
     * Reproducible builds

@@ -28,7 +28,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 ## Prerequisites
 * `Solid` experience writing `Java` applications
 * Familiarity with basic unit testing concepts
-* Experience with `Maven` or `Gradle` build tools
+* Experience with Maven or `Gradle` build tools
 * Some exposure to `JUnit 4` or another `Java` testing framework is helpful
 
 ## Objectives
@@ -47,7 +47,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 * `JUnit 5` Architecture Overview
     * The three sub-projects: `JUnit Platform`, `JUnit Jupiter`, `JUnit Vintage`
     * Test engine and launcher concepts
-    * Integrating `JUnit 5` with `Maven` and `Gradle`
+    * Integrating `JUnit 5` with Maven and `Gradle`
     * IDE support in `IntelliJ IDEA` and Eclipse
     * Running tests from the command line with the `ConsoleLauncher`
     * Key differences from `JUnit 4`

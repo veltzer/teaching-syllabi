@@ -26,7 +26,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
 ## Prerequisites
 * Intermediate `Java` programming skills (classes, interfaces, generics, annotations)
 * Basic understanding of object-oriented design principles
-* Familiarity with a build tool such as `Maven` or `Gradle`
+* Familiarity with a build tool such as Maven or `Gradle`
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
@@ -112,7 +112,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
 * Test Coverage with JaCoCo
     * Understanding code coverage metrics
     * Line, branch, and instruction coverage
-    * Configuring JaCoCo with `Maven` and `Gradle`
+    * Configuring JaCoCo with Maven and `Gradle`
     * Generating and interpreting coverage reports
     * Setting coverage thresholds
     * Excluding classes and packages from coverage

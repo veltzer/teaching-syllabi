@@ -117,7 +117,7 @@ and for that there is a time marking on each chapter.
         * `pipenv`
         * poetry
         * pip-tools
-        * `Hatch`
+        * Hatch
     * Setting version numbers, should you do it and when?
 <!-- chapter: packaging-and-delivering-your-python-modules, duration: 4h -->
 * Packaging and delivering your `Python` modules (4 hours)

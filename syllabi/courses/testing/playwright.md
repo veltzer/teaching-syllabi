@@ -155,7 +155,7 @@ audience:
 <!-- chapter: playwright-for-python-java-and-net, duration: 1h -->
 * `Playwright` for `Python`, `Java`, and `.NET`
     * `Playwright` for `Python`: installation and usage
-    * `Playwright` for `Java`: integration with `JUnit` and `Maven`
+    * `Playwright` for `Java`: integration with `JUnit` and Maven
     * `Playwright` for `.NET`: usage with `NUnit` and MSTest
     * Cross-language feature parity and differences
     * Choosing the right language binding for your team

@@ -227,7 +227,7 @@ Each student should have:
 * Programming language environment:
     * `Node.js` 18+ with `npm` for `JavaScript` developers
     * `Python` 3.9+ with pip for `Python` developers
-    * JDK 11+ with `Maven`/`Gradle` for `Java` developers
+    * JDK 11+ with Maven/`Gradle` for `Java` developers
     * `.NET` 6+ `SDK` for `C#` developers
 * `Git` for version control
 * `Docker Desktop` (optional but recommended)

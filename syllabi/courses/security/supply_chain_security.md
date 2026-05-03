@@ -70,7 +70,7 @@ Software supply chain attacks have become one of the most significant threats fa
 * Software Bill of Materials (`SBOM`)
     * What is an `SBOM` and why it is mandated by US executive orders and emerging regulation
     * `SBOM` formats: `SPDX` vs `CycloneDX` — structure, tooling, and ecosystem support
-    * Generating `SBOM`s for container images, `npm`, pip, `Maven`, and Go modules
+    * Generating `SBOM`s for container images, `npm`, pip, Maven, and Go modules
     * Tools: `Syft`, cdxgen, `Trivy`, and language ecosystem native tools
     * `SBOM` signing, attestation, and embedding in `OCI` images
     * Consuming and querying `SBOM`s for vulnerability correlation (`Grype`, `OSV`)

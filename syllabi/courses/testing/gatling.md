@@ -27,13 +27,13 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 * Teams running `JVM`-based systems who want a code-first load testing approach
 
 ## Prerequisites
-* Basic familiarity with the `JVM` ecosystem and `Maven` or `sbt`
+* Basic familiarity with the `JVM` ecosystem and Maven or `sbt`
 * Working knowledge of `HTTP` and `REST` APIs
 * No prior `Scala` experience is required, though basic familiarity is helpful
 
 ## Objectives
 * Explain `Gatling`'s architecture and advantages over thread-based load tools
-* Install `Gatling` and set up a simulation project with `Maven` or `sbt`
+* Install `Gatling` and set up a simulation project with Maven or `sbt`
 * Write simulations using the `Gatling` DSL for scenarios and virtual users
 * Configure `HTTP` protocol settings including base URL, headers, and authentication
 * Use feeders and session variables to inject and manage test data
@@ -54,7 +54,7 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 <!-- chapter: installation-and-project-setup, duration: 1h -->
 * Installation and Project Setup
     * Installing the `Gatling` bundle
-    * `Maven` archetype and `sbt` project setup
+    * Maven archetype and `sbt` project setup
     * Project directory structure: simulations, resources, results
     * Running a simulation from the command line
     * IDE setup: `IntelliJ IDEA` with the `Scala` plugin
@@ -121,7 +121,7 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 <!-- chapter: integration-with-cicd, duration: 1h -->
 * Integration with `CI/CD`
     * Running `Gatling` in `GitHub Actions` and `GitLab CI`
-    * `Maven` and `sbt` plugin configuration for automated runs
+    * Maven and `sbt` plugin configuration for automated runs
     * Passing environment variables for target URL and load profile
     * Archiving `HTML` reports as build artefacts
     * Enforcing performance gates with assertion exit codes

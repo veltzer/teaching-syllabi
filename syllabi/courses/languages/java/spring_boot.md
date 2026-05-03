@@ -30,7 +30,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 * Intermediate proficiency in `Java` programming (classes, interfaces, generics, annotations)
 * Understanding of object-oriented programming principles
 * Basic knowledge of `HTTP` protocol and `REST API` concepts
-* Familiarity with build tools (`Maven` or `Gradle`)
+* Familiarity with build tools (Maven or `Gradle`)
 * Basic understanding of relational databases and `SQL`
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 * Command-line interface usage and basic terminal operations

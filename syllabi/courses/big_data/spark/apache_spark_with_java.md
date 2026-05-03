@@ -49,7 +49,7 @@ The course will include exercises for all the major topics explained with best p
 * Introduction
     * Why `Spark`
     * `Spark` Components
-    * Creating a `Spark` `Maven` Project
+    * Creating a `Spark` Maven Project
     * Source Code into Eclipse
     * First `Spark` Application
     * `Spark` Applications on a Cluster

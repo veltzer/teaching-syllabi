@@ -59,7 +59,7 @@ This course explores `Testcontainers`, the open-source library that enables deve
     * `Testcontainers Cloud` for environments without local `Docker`
 <!-- chapter: getting-started-java-and-junit, duration: 2h -->
 * Getting Started: `Java` and `JUnit`
-    * Adding `Testcontainers` dependencies to a `Maven` or `Gradle` project
+    * Adding `Testcontainers` dependencies to a Maven or `Gradle` project
     * The `@Testcontainers` and `@Container` `JUnit` 5 annotations
     * Container lifecycle with `@Container` as a field
     * Static vs instance container fields and their lifecycle implications

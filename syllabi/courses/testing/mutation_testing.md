@@ -29,7 +29,7 @@ This course introduces mutation testing, a powerful technique for evaluating the
 ## Prerequisites
 * `Solid` experience writing unit tests in `Java` or `Python` (or both)
 * Familiarity with code coverage metrics and their limitations
-* Experience with `Maven`/`Gradle` (for `Java` sections) or pip/`pytest` (for `Python` sections)
+* Experience with Maven/`Gradle` (for `Java` sections) or pip/`pytest` (for `Python` sections)
 
 ## Objectives
 * Explain what mutation testing is and why line coverage alone is insufficient
@@ -63,7 +63,7 @@ This course introduces mutation testing, a powerful technique for evaluating the
 <!-- chapter: pit-pitest-for-java, duration: 2h -->
 * `PIT (Pitest)` for `Java`
     * `Pitest` architecture and how it integrates with the `JVM`
-    * Adding `Pitest` to a `Maven` or `Gradle` project
+    * Adding `Pitest` to a Maven or `Gradle` project
     * Running `Pitest` and understanding the `HTML` report
     * Mutation coverage vs line coverage comparison
     * Configuring target classes, target tests, and mutation operators

@@ -60,7 +60,7 @@ Boot, and `Spring Cloud`.
     * Beans and Creating Objects
     * `XML` vs Annotations
     * Singletons vs Prototypes
-    * Working with `Maven`
+    * Working with Maven
     * Common Mistakes
     * @Component vs @Bean
     * Lazy vs Eager
@@ -124,8 +124,8 @@ Boot, and `Spring Cloud`.
     * Configuration server - Eureka
     * Service discovery - Eureka
     * `API` gateway - Zuul
-    * Circuit breaker (load-balancing) - `Hystrix`
-    * Monitoring - `Hystrix`
+    * Circuit breaker (load-balancing) - Hystrix
+    * Monitoring - Hystrix
     * Load-balancing - Spring Ribbon
     * Feign clients
 <!-- chapter: spring-cloud-exercises-long, duration: 1h -->

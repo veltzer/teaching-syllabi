@@ -32,7 +32,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 * Working knowledge of `Spring Boot` and dependency injection
 * `Solid` understanding of relational databases and `SQL`
 * Basic familiarity with `JPA` and `ORM` concepts
-* Experience with build tools (`Maven` or `Gradle`)
+* Experience with build tools (Maven or `Gradle`)
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives

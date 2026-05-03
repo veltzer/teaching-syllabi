@@ -39,7 +39,7 @@ audience:
 ## Objectives
 * Navigate the `Dynatrace` platform and understand its core observability capabilities
 * Deploy `OneAgent` across hosts, containers, and `Kubernetes` clusters
-* Understand `Smartscape` topology and the automatic service dependency mapping
+* Understand Smartscape topology and the automatic service dependency mapping
 * Monitor application services, transactions, and code-level performance
 * Analyze infrastructure metrics for hosts, cloud services, and network performance
 * Use `Log Management and Analytics` to search, parse, and correlate log data
@@ -68,11 +68,11 @@ audience:
     * `OneAgent` update strategies: automatic, manual, and rollback
     * Troubleshooting `OneAgent` connectivity and data reporting
 <!-- chapter: smartscape-and-topology, duration: 2h -->
-* `Smartscape` and Topology
-    * `Smartscape` real-time dependency mapping
+* Smartscape and Topology
+    * Smartscape real-time dependency mapping
     * Entity types: processes, services, hosts, applications, databases
     * How `Dynatrace` automatically discovers service relationships
-    * Filtering and navigating `Smartscape` for large environments
+    * Filtering and navigating Smartscape for large environments
     * Using topology data for impact analysis and root cause identification
     * Tags, metadata, and management zones for entity organization
     * Host groups and environment segregation

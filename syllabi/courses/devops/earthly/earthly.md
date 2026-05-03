@@ -31,7 +31,7 @@ compares `Earthly` with alternative build tools and approaches.
 
 ## Prerequisites
 * familiarity with `Docker` and `Dockerfile` syntax.
-* experience with build tools (Make, `npm`, `Maven`, etc.).
+* experience with build tools (Make, `npm`, Maven, etc.).
 * basic understanding of `CI/CD` concepts.
 
 ## Required Knowledge

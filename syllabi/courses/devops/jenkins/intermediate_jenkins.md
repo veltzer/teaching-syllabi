@@ -55,7 +55,7 @@ well as uncover some lessons learned from instructors with years of experience w
 * Understand what `Jenkins` Pipelines are and how to use them
 * Use `Jenkins` to create and run a scripted `Jenkins` Pipeline
 * Manage shared libraries within your Pipelines
-* Explain how to use build tools (`Maven`, `Gradle`, `npm`) within Pipelines
+* Explain how to use build tools (Maven, `Gradle`, `npm`) within Pipelines
 * Use `Docker` agents within your pipelines
 
 ## Outline
@@ -74,7 +74,7 @@ well as uncover some lessons learned from instructors with years of experience w
     * `File` System
     * `Tar`/`Zip`
     * Configuration Files
-    * `Maven` Projects
+    * Maven Projects
 <!-- chapter: using-docker-with-jenkins-pipelines, duration: 1h -->
 * Using `Docker` with `Jenkins` Pipelines
     * `Docker` agents in pipelines

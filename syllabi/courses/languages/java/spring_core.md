@@ -26,7 +26,7 @@ This course provides a deep and thorough understanding of the Spring Framework c
 ## Prerequisites
 * Intermediate `Java` programming skills (classes, interfaces, generics, annotations)
 * Understanding of object-oriented design principles
-* Familiarity with a build tool such as `Maven` or `Gradle`
+* Familiarity with a build tool such as Maven or `Gradle`
 * Basic knowledge of `design patterns` (Factory, Proxy, Observer)
 
 ## Objectives

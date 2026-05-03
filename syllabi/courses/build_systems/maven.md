@@ -13,13 +13,13 @@ audience:
   - audiences:java-developers
 ---
 <!-- course: maven -->
-# `Maven`
+# Maven
 
 ## Description
 `Apache Maven` is the de-facto standard build and project management tool for `Java` and `JVM`-based projects.
-This course provides a thorough understanding of `Maven`'s build lifecycle, dependency resolution, and plugin
+This course provides a thorough understanding of Maven's build lifecycle, dependency resolution, and plugin
 ecosystem, enabling developers to manage complex multi-module projects with confidence. Participants will learn
-to work with `Maven` repositories, configure environment-specific profiles, and integrate `Maven` into modern
+to work with Maven repositories, configure environment-specific profiles, and integrate Maven into modern
 `CI/CD` pipelines. The course closes with a practical comparison against `Gradle` to help teams `make` informed
 tooling decisions.
 
@@ -29,7 +29,7 @@ tooling decisions.
 ## Intended Audience
 * `Java` and `JVM` developers who want to master their primary build toolchain.
 * Backend engineers responsible for maintaining and improving build pipelines.
-* `DevOps` engineers integrating `Maven`-based projects into automated delivery pipelines.
+* `DevOps` engineers integrating Maven-based projects into automated delivery pipelines.
 * Tech leads evaluating build tooling strategies for their teams.
 
 ## Prerequisites
@@ -38,25 +38,25 @@ tooling decisions.
 * Some prior exposure to compiling and running `Java` applications is assumed.
 
 ## Objectives
-* Understand the `Maven` build lifecycle and its phases.
+* Understand the Maven build lifecycle and its phases.
 * Create and maintain well-structured `POM` files.
 * Manage project dependencies and transitive dependency resolution.
-* Work with local, central, and private `Maven` repositories.
-* Configure and use `Maven` plugins effectively.
-* Build multi-module `Maven` projects.
+* Work with local, central, and private Maven repositories.
+* Configure and use Maven plugins effectively.
+* Build multi-module Maven projects.
 * Use profiles to manage environment-specific configuration.
 * Manage release versions and automate the release process.
-* Write custom `Maven` plugins for specialized build requirements.
-* Integrate `Maven` builds with `CI/CD` systems.
-* Evaluate trade-offs between `Maven` and `Gradle`.
+* Write custom Maven plugins for specialized build requirements.
+* Integrate Maven builds with `CI/CD` systems.
+* Evaluate trade-offs between Maven and `Gradle`.
 
 ## Outline
 <!-- chapter: introduction-to-maven, duration: 2h -->
-* Introduction to `Maven`:
-    * History and motivation behind `Maven`.
-    * `Maven` philosophy: convention over configuration.
+* Introduction to Maven:
+    * History and motivation behind Maven.
+    * Maven philosophy: convention over configuration.
     * Installation and verifying the environment.
-    * The `Maven` command-line interface.
+    * The Maven command-line interface.
 <!-- chapter: project-structure-and-pom, duration: 2h -->
 * Project Structure and `POM`:
     * Standard directory layout.
@@ -74,8 +74,8 @@ tooling decisions.
     * Declaring dependencies and dependency scopes.
     * Transitive dependencies and dependency mediation.
     * Excluding and overriding transitive dependencies.
-    * `Maven` Central, remote repositories, and mirrors.
-    * Setting up a private repository with `Nexus` or `Artifactory`.
+    * Maven Central, remote repositories, and mirrors.
+    * Setting up a private repository with Nexus or `Artifactory`.
     * `Bill of Materials` (`BOM`) for version alignment.
 <!-- chapter: plugins-and-goals, duration: 2h -->
 * Plugins and Goals:
@@ -85,7 +85,7 @@ tooling decisions.
     * Plugin management in parent `POM`.
 <!-- chapter: multi-module-projects, duration: 3h -->
 * Multi-Module Projects:
-    * Structuring a multi-module `Maven` reactor.
+    * Structuring a multi-module Maven reactor.
     * Aggregator and parent `POM` patterns.
     * Inter-module dependencies.
     * Reactor build order and selective builds.
@@ -110,12 +110,12 @@ tooling decisions.
     * Testing and distributing custom plugins.
 <!-- chapter: integration-with-ci-cd, duration: 2h -->
 * Integration with `CI/CD`:
-    * Running `Maven` in `Jenkins`, `GitHub Actions`, and `GitLab CI`.
+    * Running Maven in `Jenkins`, `GitHub Actions`, and `GitLab CI`.
     * Caching the local repository for faster builds.
     * Deploying artifacts to remote repositories from pipelines.
     * Build reproducibility and deterministic builds.
 <!-- chapter: maven-vs-gradle-comparison, duration: 2h -->
-* `Maven` vs `Gradle` Comparison:
+* Maven vs `Gradle` Comparison:
     * Build model and configuration style differences.
     * Performance: incremental builds and build caching.
     * Ecosystem and plugin availability.

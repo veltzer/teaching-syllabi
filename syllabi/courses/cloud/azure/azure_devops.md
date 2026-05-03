@@ -79,7 +79,7 @@ This course provides a comprehensive overview of the `Azure DevOps` platform and
 <!-- chapter: azure-artifacts, duration: 2h -->
 * `Azure Artifacts`
     * Package feeds and upstream sources
-    * `NuGet`, `npm`, `Maven`, `Python`, and universal packages
+    * `NuGet`, `npm`, Maven, `Python`, and universal packages
     * Versioning strategies
     * Publishing and consuming packages
     * Feed permissions and scoping

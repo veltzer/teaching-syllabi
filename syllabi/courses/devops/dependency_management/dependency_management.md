@@ -30,7 +30,7 @@ and addresses the growing importance of software supply chain security.
 * security-minded engineers focused on supply chain integrity.
 
 ## Prerequisites
-* experience with at least one package manager (`npm`, pip, `Maven`, `Go modules`, etc.).
+* experience with at least one package manager (`npm`, pip, Maven, `Go modules`, etc.).
 * basic understanding of `CI/CD` pipelines.
 * familiarity with `Git` and pull request workflows.
 
@@ -117,7 +117,7 @@ and addresses the growing importance of software supply chain security.
     * setting up private package registries
     * proxying and caching public registries
     * access control and authentication
-    * common solutions (Artifactory, `Nexus`, `GitHub Packages`)
+    * common solutions (Artifactory, Nexus, `GitHub Packages`)
 <!-- chapter: monorepo-dependency-management, duration: 1h -->
 * Monorepo dependency management
     * shared dependencies in monorepos
