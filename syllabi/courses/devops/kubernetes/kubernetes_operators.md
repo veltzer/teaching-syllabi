@@ -53,7 +53,7 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 * `Kubernetes` `API` and custom resources
     * `API` server internals
     * `API` groups, versions, and resources
-    * custom resource definitions (CRDs)
+    * custom resource definitions (`CRDs`)
     * structural schemas and validation
     * status subresource
 <!-- chapter: controller-pattern, duration: 2h -->

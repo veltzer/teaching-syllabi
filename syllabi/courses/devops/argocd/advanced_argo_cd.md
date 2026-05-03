@@ -34,7 +34,7 @@ running `Argo CD` at scale.
 
 ## Prerequisites
 * Working experience with `Argo CD` (basic application creation and sync).
-* Strong understanding of `Kubernetes` (deployments, services, `RBAC`, CRDs).
+* Strong understanding of `Kubernetes` (deployments, services, `RBAC`, `CRDs`).
 * Familiarity with Helm and/or `Kustomize`.
 * Understanding of `Git` workflows and branching strategies.
 
@@ -96,7 +96,7 @@ running `Argo CD` at scale.
 * Custom Health Checks
     * Built-in health assessments
     * Writing custom `Lua` health checks
-    * Health check for CRDs
+    * Health check for `CRDs`
     * Degraded vs progressing vs healthy states
 <!-- chapter: config-management-plugins, duration: 1h -->
 * Config Management Plugins

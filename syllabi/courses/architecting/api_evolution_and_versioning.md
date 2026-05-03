@@ -147,7 +147,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 <!-- chapter: api-style-guides-and-design-reviews, duration: 2h -->
 * `API` style guides and design reviews
     * the role of an `API` style guide
-    * style guides at scale: Microsoft, Google, Zalando
+    * style guides at scale: Microsoft, Google, `Zalando`
     * automated style guide enforcement with Spectral
     * design review boards
     * lightweight review for internal APIs

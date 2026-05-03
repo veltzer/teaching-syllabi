@@ -27,7 +27,7 @@ Done poorly, they accumulate as a tangle of dead conditionals that nobody dares 
 This five day course covers feature flags as an engineering discipline. It covers the spectrum of flag types
 (release, ops, experiment, permission), flag-platform architecture, integration patterns at the application level,
 gradual rollout strategies, A/B and multivariate testing, kill switches, flag debt and disciplined cleanup. The
-course is platform-aware (`LaunchDarkly`, Unleash, Flagsmith, Split, Statsig, `OpenFeature`) but vendor-neutral.
+course is platform-aware (`LaunchDarkly`, Unleash, `Flagsmith`, Split, Statsig, `OpenFeature`) but vendor-neutral.
 Participants leave able to introduce feature flags into a codebase, run a progressive delivery program, and avoid
 the operational and code-quality traps that have ended other teams' attempts.
 
@@ -149,7 +149,7 @@ the operational and code-quality traps that have ended other teams' attempts.
     * separating production toggles from experiment flags
 <!-- chapter: flag-platform-comparison, duration: 2h -->
 * Flag platform comparison
-    * `LaunchDarkly`, Split, Unleash, Flagsmith, Statsig, `ConfigCat`
+    * `LaunchDarkly`, Split, Unleash, `Flagsmith`, Statsig, `ConfigCat`
     * managed vs self-hosted vs build-it-yourself
     * `OpenFeature` and the portability story
     * cost models and quotas

@@ -146,7 +146,7 @@ versions
     * Hardware management with `udev`
     * Inter-process communication with `D-Bus`
     * The connectivity software stack: `Ethernet`, `WiFi`, modems, `Bluetooth`
-    * The graphics software stack: DRM/`KMS`, X.org, `Wayland`, Qt, GTK, OpenGL
+    * The graphics software stack: DRM/`KMS`, X.org, `Wayland`, Qt, GTK, `OpenGL`
     * The multimedia software stack: Video4Linux, `GStreamer`, Pulseaudio, `Pipewire`
 <!-- chapter: application-development-and-debugging, duration: 3h -->
 * Application development and debugging

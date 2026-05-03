@@ -18,7 +18,7 @@ audience:
 ## Description
 This advanced course is designed for developers who want to build `Kubernetes`-native
 applications. Students will learn how to extend `Kubernetes` by writing custom operators,
-Custom Resource Definitions (CRDs), and admission webhooks. The course covers the
+Custom Resource Definitions (`CRDs`), and admission webhooks. The course covers the
 client-`go` library, the controller-runtime framework, and the patterns and best
 practices for building production-grade `Kubernetes` extensions. By the end of the course,
 students will be able to design, implement, and deploy their own `Kubernetes` operators
@@ -41,7 +41,7 @@ and controllers.
 
 ## Objectives
 * Understand the `Kubernetes` `API` machinery and extension points
-* Design and implement Custom Resource Definitions (CRDs)
+* Design and implement Custom Resource Definitions (`CRDs`)
 * Build `Kubernetes` operators using client-`go` and controller-runtime
 * Implement admission webhooks for validation and mutation
 * Apply best practices for testing and deploying `Kubernetes`-native applications
@@ -56,13 +56,13 @@ and controllers.
     * `API` discovery and `OpenAPI` schemas
     * Extension points in `Kubernetes`
 <!-- chapter: custom-resource-definitions-crds, duration: 2h -->
-* Custom Resource Definitions (CRDs)
-    * What are CRDs and why do we need them?
-    * Defining a CRD with `YAML`
+* Custom Resource Definitions (`CRDs`)
+    * What are `CRDs` and why do we need them?
+    * Defining a `CRD` with `YAML`
     * Schema validation with `OpenAPI` v3
-    * Versioning CRDs and conversion webhooks
+    * Versioning `CRDs` and conversion webhooks
     * Status subresource and printer columns
-    * CRD categories and short names
+    * `CRD` categories and short names
     * Working with custom resources using `kubectl`
 <!-- chapter: the-client-go-library, duration: 3h -->
 * The client-`go` Library
@@ -76,7 +76,7 @@ and controllers.
 <!-- chapter: building-operators-with-controller-runtime, duration: 3h -->
 * Building Operators with controller-runtime
     * What is an operator and the operator pattern?
-    * Introduction to controller-runtime and Kubebuilder
+    * Introduction to controller-runtime and `Kubebuilder`
     * Scaffolding a new operator project
     * The reconciliation loop
     * Watching resources and setting up event handlers

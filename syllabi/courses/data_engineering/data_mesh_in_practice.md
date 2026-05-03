@@ -166,7 +166,7 @@ case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizatio
     * the data product that nobody owns
     * the unfunded mandate
     * walkthrough of a public mesh case study
-    * recommended reading: `Dehghani`, Zalando and `Netflix` blog posts
+    * recommended reading: `Dehghani`, `Zalando` and `Netflix` blog posts
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

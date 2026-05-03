@@ -197,7 +197,7 @@ more cloud specific offering.
 * Advanced Topics (if time permits)
     * Advanced workload types (StatefulSet, DaemonSet, Job, CronJob)
     * Multi-container patterns (sidecar, init containers, ambassador)
-    * Custom Resource Definitions (CRDs)
+    * Custom Resource Definitions (`CRDs`)
     * Operators pattern
     * Service mesh overview (`Istio`/`Linkerd`)
 

@@ -25,7 +25,7 @@ streaming systems and on `Kafka`, but `CDC` as its own engineering discipline is
 its own course.
 
 This three day course covers `CDC` from the database's transaction log to the consumer. It covers
-log-based vs query-based vs trigger-based `CDC`, the Debezium architecture, the `Maxwell` and
+log-based vs query-based vs trigger-based `CDC`, the `Debezium` architecture, the `Maxwell` and
 `AWS DMS` architectures, schema evolution under `CDC`, the exactly-once question, the snapshot-and-stream
 problem, the `outbox` pattern, the relationship of CDC to `event sourcing`, the operational realities of
 running `CDC` against a busy `OLTP` database, the failure modes (replication slot bloat, snapshot drift,

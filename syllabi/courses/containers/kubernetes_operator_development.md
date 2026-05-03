@@ -25,7 +25,7 @@ queues, `ML` platforms, and internal PaaS services get exposed to `Kubernetes` u
 declarative `API` that respects the platform's conventions.
 
 This four day course covers operator development end-to-end. It covers the controller pattern and the
-reconciliation loop, the choice of framework (`controller-runtime`, Kubebuilder, `Operator SDK`,
+reconciliation loop, the choice of framework (`controller-runtime`, `Kubebuilder`, `Operator SDK`,
 `KUDO`, Metacontroller), `CRD` design (versioning, validation, defaulting, conversion webhooks),
 the watch and the work queue, the level-based vs edge-based controller, finalizers and garbage
 collection, leader election, the operator capability levels (the `OperatorHub` model), the testing

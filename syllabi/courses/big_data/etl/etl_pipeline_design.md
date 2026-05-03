@@ -102,7 +102,7 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
         * Log-based CDC
         * Trigger-based CDC
         * Timestamp-based CDC
-        * CDC tools (Debezium, `Fivetran`)
+        * CDC tools (`Debezium`, `Fivetran`)
 <!-- chapter: transformation-patterns, duration: 2h -->
 * Transformation Patterns
     * Data cleaning

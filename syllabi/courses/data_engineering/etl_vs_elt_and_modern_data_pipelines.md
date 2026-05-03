@@ -69,7 +69,7 @@ the ones they inherited.
 <!-- chapter: extract-and-ingestion, duration: 3h -->
 * Extract and ingestion
     * full extract vs incremental extract
-    * `CDC`-based ingestion: Debezium, `Fivetran`, `Airbyte`, `Stitch`
+    * `CDC`-based ingestion: `Debezium`, `Fivetran`, `Airbyte`, `Stitch`
     * `API`-based ingestion patterns
     * file-based ingestion and the staging area
     * the connectors-vs-build dilemma

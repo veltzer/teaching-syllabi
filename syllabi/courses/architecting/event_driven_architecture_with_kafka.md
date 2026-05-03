@@ -92,7 +92,7 @@ concerns including dead letter topics and monitoring strategies for production `
 * outbox pattern
     * the dual-write problem
     * transactional outbox design
-    * change data capture with Debezium
+    * change data capture with `Debezium`
     * polling-based vs log-based outbox implementations
 <!-- chapter: dead-letter-topics, duration: 2h -->
 * dead letter topics
