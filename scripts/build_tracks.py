@@ -20,17 +20,32 @@ import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 COURSES_DIR = PROJECT_ROOT / "syllabi" / "courses"
-TERMS_DIR = PROJECT_ROOT / "terms.single_meaning"
+TERMS_DIR = PROJECT_ROOT / "terms" / "unambiguous"
 
 
 def _load_terms() -> list[str]:
     """Load all terms from the terms directory, sorted longest-first."""
+    if not TERMS_DIR.is_dir():
+        raise FileNotFoundError(
+            f"terms directory does not exist: {TERMS_DIR}. "
+            f"build_tracks.py needs this directory to wrap known terms in backticks."
+        )
+    files = list(TERMS_DIR.glob("*.txt"))
+    if not files:
+        raise FileNotFoundError(
+            f"no *.txt term files found in {TERMS_DIR}. "
+            f"build_tracks.py needs at least one term file to wrap known terms."
+        )
     terms: set[str] = set()
-    for tf in TERMS_DIR.glob("*.txt"):
+    for tf in files:
         for line in tf.read_text(encoding="utf-8").splitlines():
             t = line.strip()
             if t:
                 terms.add(t)
+    if not terms:
+        raise ValueError(
+            f"term files in {TERMS_DIR} contained no terms (all blank?)."
+        )
     return sorted(terms, key=len, reverse=True)
 
 
