@@ -19,15 +19,15 @@ required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_h
 src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
-args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-dep_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=print/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
+dep_inputs = ["print/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.pandoc.generator]
 src_dirs = ["out/generator"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
-args = ["--standalone", "--embed-resources", "--css=resources/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-dep_inputs = ["resources/syllabus.css", "resources/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=print/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
+dep_inputs = ["print/syllabus.css", "resources/pandoc_filter.lua"]
 
 [processor.script]
 src_dirs = ["syllabi", "out/generator"]
@@ -66,6 +66,9 @@ inputs = [
     "resources/index.css",
     "resources/index.js",
     "shared/shared-themes/themes.css",
+    "shared/shared-themes/base.css",
+    "shared/shared-themes/typography.css",
+    "shared/shared-themes/components.css",
     "shared/shared-themes/theme-switcher.js",
     "tags/level.txt",
     "tags/category.txt",

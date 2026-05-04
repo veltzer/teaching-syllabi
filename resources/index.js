@@ -387,4 +387,4 @@ if (location.hash && location.hash.startsWith("#syllabus=")) {
 }
 
 // Theme switcher (shared from shared-themes/theme-switcher.js)
-initThemeSwitcher({ storageKey: "syllabi-browser-theme" });
+initThemeSwitcher();
