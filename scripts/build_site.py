@@ -19,6 +19,7 @@ TRACKS_DIR = ROOT / "tracks"
 DOCS_DIR = ROOT / "_site"
 TAG_LISTS_DIR = ROOT / "tag_lists"
 RESOURCES_DIR = ROOT / "resources"
+SHARED_THEMES_DIR = ROOT / "shared" / "shared-themes"
 DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
 
 
@@ -183,8 +184,10 @@ def generate_index(
     all_categories: list[str],
     all_audiences: list[str],
 ) -> str:
-    css = (RESOURCES_DIR / "index.css").read_text(encoding="utf-8")
-    js = (RESOURCES_DIR / "index.js").read_text(encoding="utf-8")
+    shared_css = (SHARED_THEMES_DIR / "themes.css").read_text(encoding="utf-8")
+    shared_js = (SHARED_THEMES_DIR / "theme-switcher.js").read_text(encoding="utf-8")
+    css = shared_css + "\n" + (RESOURCES_DIR / "index.css").read_text(encoding="utf-8")
+    js = shared_js + "\n" + (RESOURCES_DIR / "index.js").read_text(encoding="utf-8")
     template = (RESOURCES_DIR / "index.html").read_text(encoding="utf-8")
 
     level_options = "".join(

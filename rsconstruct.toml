@@ -65,6 +65,8 @@ inputs = [
     "resources/index.html",
     "resources/index.css",
     "resources/index.js",
+    "shared/shared-themes/themes.css",
+    "shared/shared-themes/theme-switcher.js",
     "tags/level.txt",
     "tags/category.txt",
     "tags/audiences.txt",
