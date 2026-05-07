@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Syllabi Browser - Mark Veltzer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 {{CSS}}
 </style>
@@ -12,7 +15,7 @@
 <div id="index-view">
 <div class="header-bar">
 <h1>Syllabi Browser</h1>
-<select id="theme-select" title="Choose theme">
+<select id="theme-select" title="Choose theme" class="m3-select">
 <option value="azure" selected>Azure (cool light, blue)</option>
 <option value="midnight">Midnight (dark blue)</option>
 <option value="paper">Paper (warm light)</option>
@@ -27,65 +30,65 @@
 <div id="subfolders"></div>
 
 <div class="filters">
-<div class="filter-row">
+<div class="filter-row filter-row-search">
 <label for="search">Search:</label>
 <div class="autocomplete-wrap">
-<input type="text" id="search" placeholder="Type to filter by title..." autocomplete="off">
+<input type="text" id="search" class="m3-input" placeholder="Type to filter by title..." autocomplete="off">
 <div id="autocomplete-list" class="autocomplete-list"></div>
 </div>
 </div>
 <div class="filter-row">
 <label for="filter-level">Level:</label>
-<select id="filter-level">
+<select id="filter-level" class="m3-select">
 <option value="">All levels</option>
 {{LEVEL_OPTIONS}}
 </select>
 </div>
 <div class="filter-row">
 <label for="filter-category">Category:</label>
-<select id="filter-category">
+<select id="filter-category" class="m3-select">
 <option value="">All categories</option>
 {{CATEGORY_OPTIONS}}
 </select>
 </div>
 <div class="filter-row">
 <label for="filter-tag">Tag:</label>
-<select id="filter-tag">
+<select id="filter-tag" class="m3-select">
 <option value="">All tags</option>
 {{TAG_OPTIONS}}
 </select>
 </div>
 <div class="filter-row">
 <label for="filter-duration">Duration:</label>
-<select id="filter-duration"></select>
+<select id="filter-duration" class="m3-select"></select>
 </div>
 <div class="filter-row">
 <label for="filter-audience">Audience:</label>
-<select id="filter-audience">
+<select id="filter-audience" class="m3-select">
 <option value="">All audiences</option>
 {{AUDIENCE_OPTIONS}}
 </select>
 </div>
-<div class="filter-row">
+<div class="filter-row filter-row-sort">
 <label for="sort-primary">Sort by:</label>
-<select id="sort-primary">
+<select id="sort-primary" class="m3-select">
 <option value="category" selected>Category</option>
 <option value="level">Level</option>
 <option value="title">Title</option>
 <option value="duration">Duration</option>
 </select>
-<select id="sort-primary-dir">
+<select id="sort-primary-dir" class="m3-select">
 <option value="asc" selected>Asc</option>
 <option value="desc">Desc</option>
 </select>
 <label for="sort-secondary">Then by:</label>
-<select id="sort-secondary">
+<select id="sort-secondary" class="m3-select">
 <option value="category">Category</option>
 <option value="level" selected>Level</option>
 <option value="title">Title</option>
 <option value="duration">Duration</option>
 </select>
-<select id="sort-secondary-dir">
+<select id="sort-secondary-dir" class="m3-select">
 <option value="asc" selected>Asc</option>
 <option value="desc">Desc</option>
 </select>

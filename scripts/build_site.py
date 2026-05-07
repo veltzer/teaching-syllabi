@@ -7,6 +7,7 @@ scans the HTML files there and builds a filterable index page.
 """
 
 import json
+import os
 import re
 from pathlib import Path
 from typing import Any
@@ -21,6 +22,15 @@ TAG_LISTS_DIR = ROOT / "tag_lists"
 RESOURCES_DIR = ROOT / "resources"
 SHARED_THEMES_DIR = ROOT / "shared" / "shared-themes"
 DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
+
+# Two parallel UI variants live in resources/:
+#   material_web — real <md-*> custom elements from @material/web (CDN).
+#                  Default — gives us proper M3 components (ripples,
+#                  floating labels, popup menus) without rebuilding them.
+#   material_css — native HTML controls, hand-rolled Material-look CSS,
+#                  no runtime JS deps. Fallback / offline mode.
+# Pick via env var. Files are named index_<variant>.{html,css,js}.
+UI_VARIANT = os.environ.get("MATERIAL_VARIANT", "material_web")
 
 
 def read_tag_order(filename: str) -> list[str]:
@@ -191,23 +201,37 @@ def generate_index(
         (SHARED_THEMES_DIR / "components.css").read_text(encoding="utf-8"),
     ]
     shared_js = (SHARED_THEMES_DIR / "theme-switcher.js").read_text(encoding="utf-8")
-    css = "\n".join(shared_css_parts) + "\n" + (RESOURCES_DIR / "index.css").read_text(encoding="utf-8")
-    js = shared_js + "\n" + (RESOURCES_DIR / "index.js").read_text(encoding="utf-8")
-    template = (RESOURCES_DIR / "index.html").read_text(encoding="utf-8")
 
-    level_options = "".join(
-        f'<option value="{v}">{v.title()}</option>' for v in all_levels
-    )
+    html_path = RESOURCES_DIR / f"index_{UI_VARIANT}.html"
+    css_path = RESOURCES_DIR / f"index_{UI_VARIANT}.css"
+    js_path = RESOURCES_DIR / f"index_{UI_VARIANT}.js"
+    if not html_path.exists():
+        raise SystemExit(
+            f"Unknown MATERIAL_VARIANT '{UI_VARIANT}': {html_path} not found"
+        )
+
+    css = "\n".join(shared_css_parts) + "\n" + css_path.read_text(encoding="utf-8")
+    js = shared_js + "\n" + js_path.read_text(encoding="utf-8")
+    template = html_path.read_text(encoding="utf-8")
+
+    if UI_VARIANT == "material_web":
+        def opt(value: str, label: str) -> str:
+            return (
+                f'<md-select-option value="{value}">'
+                f'<div slot="headline">{label}</div>'
+                f'</md-select-option>'
+            )
+    else:
+        def opt(value: str, label: str) -> str:
+            return f'<option value="{value}">{label}</option>'
+
+    level_options = "".join(opt(v, v.title()) for v in all_levels)
     category_options = "".join(
-        f'<option value="{v}">{v.replace("-", " ").title()}</option>'
-        for v in all_categories
+        opt(v, v.replace("-", " ").title()) for v in all_categories
     )
-    tag_options = "".join(
-        f'<option value="{v}">{v}</option>' for v in all_tags
-    )
+    tag_options = "".join(opt(v, v) for v in all_tags)
     audience_options = "".join(
-        f'<option value="{v}">{v.replace("-", " ").title()}</option>'
-        for v in all_audiences
+        opt(v, v.replace("-", " ").title()) for v in all_audiences
     )
 
     return (

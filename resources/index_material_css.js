@@ -297,7 +297,6 @@ function render() {
     resultsEl.innerHTML = html;
 }
 
-// Autocomplete
 const acList = document.getElementById("autocomplete-list");
 let acIndex = -1;
 
@@ -373,7 +372,6 @@ sort1DirEl.addEventListener("change", render);
 sort2El.addEventListener("change", render);
 sort2DirEl.addEventListener("change", render);
 
-// Handle initial load with hash
 if (location.hash && location.hash.startsWith("#syllabus=")) {
     showSyllabus(decodeURIComponent(location.hash.substring(10)));
 } else if (location.hash && location.hash.startsWith("#folder=")) {
@@ -386,5 +384,4 @@ if (location.hash && location.hash.startsWith("#syllabus=")) {
     render();
 }
 
-// Theme switcher (shared from shared-themes/theme-switcher.js)
 initThemeSwitcher();

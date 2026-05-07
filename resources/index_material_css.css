@@ -1,0 +1,284 @@
+/*
+ * teaching-syllabi — Material-look CSS variant.
+ *
+ * No runtime dependency on @material/web. We hand-roll the visual
+ * vocabulary of Material 3 (Roboto, elevation shadows, outlined text
+ * fields with floating labels, chip-style badges) on top of the
+ * existing shared-themes tokens (--accent, --bg, --border, etc.).
+ *
+ * Loaded AFTER shared-themes/{themes,base,typography,components}.css,
+ * so anything below overrides shared-themes for this site.
+ */
+
+/* ─── Typography: Roboto, with weights matching Material 3 ─── */
+:root {
+  --font-sans: 'Roboto', system-ui, sans-serif;
+  --font-mono: 'Roboto Mono', monospace;
+
+  /* Material 3 elevation system — five layered shadows that share the
+   * same colour but differ in spread and opacity. The first layer is
+   * the "key" (cast) shadow; the second is the "ambient" wash. */
+  --m3-elev-1: 0 1px 2px 0 rgba(0,0,0,0.08), 0 1px 3px 1px rgba(0,0,0,0.05);
+  --m3-elev-2: 0 1px 2px 0 rgba(0,0,0,0.12), 0 2px 6px 2px rgba(0,0,0,0.06);
+  --m3-elev-3: 0 4px 8px 3px rgba(0,0,0,0.07), 0 1px 3px 0 rgba(0,0,0,0.10);
+  --m3-elev-4: 0 6px 10px 4px rgba(0,0,0,0.08), 0 2px 3px 0 rgba(0,0,0,0.12);
+
+  /* M3 corner radii. */
+  --m3-corner-sm: 4px;
+  --m3-corner-md: 8px;
+  --m3-corner-lg: 12px;
+  --m3-corner-xl: 28px;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: 0;
+}
+h1 { font-size: 2rem; line-height: 2.5rem; }
+h2 { font-size: 1.5rem; line-height: 2rem; }
+
+/* ─── Header bar ─── */
+.header-bar {
+  align-items: center;
+  margin-bottom: 8px;
+}
+.header-bar h1 { margin: 0; }
+
+/* ─── Filters card: elevated surface, M3 corner radius ─── */
+.filters {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--m3-corner-lg);
+  padding: 24px;
+  box-shadow: var(--m3-elev-1);
+}
+
+/* Each filter-row is a grid cell from shared-themes' auto-fill grid.
+ * The select inside fills the cell width so all rows align, regardless
+ * of how long the longest option label happens to be. */
+.filter-row .m3-select { flex: 1 1 auto; min-width: 0; max-width: 100%; }
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.filter-row label {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+/* ─── M3 Outlined Select & Text Field ───
+ * Native <select>/<input> styled to look like md-outlined-{select,text-field}.
+ * Key tricks: thicker border on focus, subtle hover state, M3 corner radius. */
+.m3-select, .m3-input {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background: var(--bg);
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+  border-radius: var(--m3-corner-sm);
+  padding: 10px 14px;
+  outline: none;
+  transition:
+    border-color 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    background 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.m3-select { cursor: pointer; padding-right: 36px;
+  /* Inline caret SVG using currentColor — recolours with theme. */
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 18px) 55%, calc(100% - 13px) 55%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  appearance: none;
+  -webkit-appearance: none;
+  /* Native <select> sizes to its widest option by default — that's
+   * what blows out the tag row. Force every select to fill its cell
+   * (via .filter-row .m3-select rule below) so the grid stays even. */
+  text-overflow: ellipsis;
+}
+
+.m3-select:hover, .m3-input:hover {
+  border-color: var(--text-secondary);
+}
+
+.m3-select:focus, .m3-input:focus {
+  border: 2px solid var(--accent);
+  /* The 2px border eats one pixel of padding — compensate so content
+   * doesn't shift. */
+  padding: 9px 13px;
+  box-shadow: 0 0 0 4px var(--accent-dim);
+}
+
+/* Search field fills its cell, like the selects. The wrapper is
+ * inline-block by default, which collapses around the input and
+ * leaves the rest of the cell empty. */
+.autocomplete-wrap { display: block; width: 100%; position: relative; }
+.filter-row-search .m3-input { width: 100%; }
+
+/* Sort row holds four selects on one line. */
+.filter-row-sort { flex-wrap: wrap; }
+
+/* ─── Subfolder cards: M3 elevated card with state layer ─── */
+.subfolder-card {
+  background: var(--bg);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--m3-corner-md);
+  padding: 12px 18px;
+  box-shadow: var(--m3-elev-1);
+  transition:
+    box-shadow 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    transform 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    background 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subfolder-card:hover {
+  box-shadow: var(--m3-elev-2);
+  background: var(--bg-hover);
+  transform: translateY(-1px);
+}
+
+/* ─── Results list: M3 cards with elevation, no border outline ─── */
+#results h2 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+  color: var(--text-primary);
+}
+#results h2 .count { color: var(--text-muted); font-weight: 400; font-size: 0.875rem; }
+
+#index-view ul { list-style: none; padding: 0; margin: 0; }
+#index-view li {
+  background: var(--bg);
+  border-radius: var(--m3-corner-md);
+  box-shadow: var(--m3-elev-1);
+  padding: 14px 18px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  transition:
+    box-shadow 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    background 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+#index-view li:hover {
+  box-shadow: var(--m3-elev-2);
+  background: var(--bg-hover);
+}
+#index-view li a { color: var(--text-primary); font-weight: 500; }
+#index-view li a:hover { color: var(--accent); text-decoration: none; }
+
+/* ─── M3 Assist Chip — replaces .level/.duration spans ─── */
+.level, .duration {
+  display: inline-flex;
+  align-items: center;
+  height: 32px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--m3-corner-md);
+  background: transparent;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--text-secondary);
+  transition:
+    background 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.level:hover, .duration:hover {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+}
+
+/* Level chips colour-coded by role token. */
+.level-beginner { color: var(--success); border-color: var(--success); }
+.level-intermediate { color: var(--warning); border-color: var(--warning); }
+.level-advanced { color: var(--danger); border-color: var(--danger); }
+
+/* ─── Download icons: M3 icon-button look (round target, hover state) ─── */
+.dl-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  color: var(--text-muted);
+  transition:
+    background 120ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 120ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.dl-icon:hover {
+  background: var(--accent-dim);
+  color: var(--accent);
+}
+.dl-icon svg { width: 20px; height: 20px; }
+
+/* ─── Breadcrumb ─── */
+#breadcrumb {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+#breadcrumb a { color: var(--accent); text-decoration: none; }
+.breadcrumb-current { color: var(--text-primary); font-weight: 500; }
+.breadcrumb-sep { color: var(--text-muted); margin: 0 6px; }
+
+/* ─── Autocomplete: M3 menu surface ─── */
+.autocomplete-list {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--m3-corner-md);
+  box-shadow: var(--m3-elev-2);
+  max-height: 320px;
+  overflow-y: auto;
+}
+.autocomplete-item { padding: 10px 16px; font-size: 0.875rem; }
+.autocomplete-item:hover, .autocomplete-item.active { background: var(--bg-hover); }
+
+/* ─── Syllabus toolbar (detail view) ─── */
+#syllabus-toolbar {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--m3-corner-lg);
+  padding: 14px 20px;
+  box-shadow: var(--m3-elev-1);
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+#syllabus-toolbar a { display: inline-flex; align-items: center; gap: 6px; color: var(--text-secondary); }
+#syllabus-toolbar a:hover { color: var(--accent); text-decoration: none; }
+#syllabus-toolbar svg { width: 18px; height: 18px; flex-shrink: 0; }
+.back-btn { font-weight: 600; cursor: pointer; }
+#syllabus-content { max-width: 900px; }
+
+/* ─── Footer ─── */
+#index-view > p:last-child {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin-top: 24px;
+}
+#index-view > p:last-child a { color: var(--accent); }
+
+@media print {
+  #index-view, #syllabus-toolbar { display: none !important; }
+  #syllabus-view { display: block !important; }
+  #syllabus-content { max-width: none; }
+}
