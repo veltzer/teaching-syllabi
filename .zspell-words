@@ -809,6 +809,7 @@ paxos
 pcan
 pcm
 pcollections
+peerings
 peft
 pentesters
 pentesting
@@ -1040,6 +1041,7 @@ stonith
 stroustrup
 structs
 submodules
+subnet
 subnets
 subnetting
 subprocesses
