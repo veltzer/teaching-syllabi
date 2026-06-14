@@ -23,7 +23,7 @@ duration_hours: 40
 
 This course provides comprehensive training for database and system administrators who need to deploy, configure, secure, monitor, and optimize `Elasticsearch` clusters in production environments. Participants will gain hands-on experience with cluster architecture, index management, performance tuning, security implementation, and troubleshooting complex distributed systems scenarios.
 
-The course focuses on `Elasticsearch` version 8.x and covers both self-managed and `Elastic Cloud` deployment models.
+The course focuses on `Elasticsearch` version 9.x and covers both self-managed and `Elastic Cloud` deployment models.
 
 ## Duration
 * Short: 24 hours / 3 days
