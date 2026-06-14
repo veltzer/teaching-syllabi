@@ -61,7 +61,7 @@ The course focuses on `Elasticsearch` version 8.x and covers both self-managed a
 Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `Linux` virtual machines. Students will work with real-world scenarios including setting up production clusters, implementing security with `TLS` and authentication, configuring index lifecycle management, performing rolling upgrades, optimizing search performance, and troubleshooting cluster issues. Exercises include integration with other `Elastic Stack` components like `Kibana` and `Logstash` for complete solution implementation.
 
 ## Outline
-<!-- chapter: introduction-to-elasticsearch, duration: 2h -->
+<!-- chapter: introduction-to-elasticsearch, duration: 1h -->
 * Introduction to `Elasticsearch`
     * `Elasticsearch` architecture and concepts
     * Documents, indices, and shards
@@ -100,7 +100,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Index templates and component templates [long]
     * Rollover and shrink operations [long]
     * Force merge and refresh [long]
-<!-- chapter: document-operations, duration: 2h -->
+<!-- chapter: document-operations, duration: 1h -->
 * Document Operations
     * Indexing documents
     * Bulk operations
@@ -109,7 +109,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Routing and preference [long]
     * Refresh and flush operations
     * Translog management [long]
-<!-- chapter: search-and-query-dsl, duration: 2h -->
+<!-- chapter: search-and-query-dsl, duration: 3h -->
 * Search and Query DSL
     * Query context vs filter context
     * Full-text queries
@@ -128,7 +128,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Split and shrink indices [long]
     * Reindex operations
     * Cross-cluster replication [long]
-<!-- chapter: performance-tuning-long, duration: 2h -->
+<!-- chapter: performance-tuning-long, duration: 3h -->
 * Performance Tuning [long]
     * Hardware considerations
     * Index optimization strategies
@@ -148,7 +148,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Watcher and alerting [long]
     * Diagnostic tools
     * Performance troubleshooting
-<!-- chapter: security, duration: 2h -->
+<!-- chapter: security, duration: 3h -->
 * Security
     * X-Pack security features
     * `TLS`/`SSL` configuration
@@ -168,7 +168,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Disaster recovery planning
     * Cross-cluster restore [long]
     * Point-in-time recovery [long]
-<!-- chapter: index-lifecycle-management, duration: 2h -->
+<!-- chapter: index-lifecycle-management, duration: 1h -->
 * Index Lifecycle Management
     * ILM policies and phases
     * Hot-warm-cold-frozen tiers [long]
@@ -177,7 +177,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Retention policies
     * Snapshot and delete phases [long]
     * Policy management [long]
-<!-- chapter: cluster-operations, duration: 2h -->
+<!-- chapter: cluster-operations, duration: 1h -->
 * Cluster Operations
     * Rolling upgrades
     * Full cluster restart [long]
@@ -224,15 +224,24 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Data corruption [long]
     * Recovery procedures
     * Support diagnostics [long]
-<!-- chapter: advanced-topics-long, duration: 6h -->
-* Advanced Topics [long]
-    * `Machine learning` features
+<!-- chapter: vector-and-semantic-search-long, duration: 3h -->
+* Vector and Semantic Search [long]
+    * Dense vector field type and indexing
+    * `kNN` search and approximate `kNN`
+    * Building semantic search pipelines
+    * Embeddings and inference endpoints
+    * Hybrid search (combining `kNN` with `BM25`)
+    * Sizing and performance considerations for vector workloads
+<!-- chapter: machine-learning-and-analytics-long, duration: 2h -->
+* Machine Learning and Analytics [long]
+    * `Machine learning` features and anomaly detection
+    * Transforms for entity-centric indices
     * Graph analytics
-    * `SQL` access
+<!-- chapter: query-extensions-long, duration: 2h -->
+* Query Extensions [long]
+    * `SQL` access to `Elasticsearch`
     * Runtime fields
-    * Transforms
     * Enrich processors
-    * Vector search
     * Geospatial queries
 
 ## Installations
