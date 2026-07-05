@@ -36,7 +36,7 @@ wild without fear.
 
 The course is opinionated. It argues that `AI` changes not only how we write code
 but how we should organize the work around it — including retiring much of the
-ceremony of `Agile` in favor of tight, test-anchored iteration.
+ceremony of Agile in favor of tight, test-anchored iteration.
 
 ## Duration
 24 hours / 3 days
@@ -48,7 +48,7 @@ ceremony of `Agile` in favor of tight, test-anchored iteration.
 * Team leads deciding how to reshape their process now that most code is machine-drafted.
 
 ## Prerequisites
-* Real programming experience in at least one language (`Python`, `Java`, `C#`, C/`C++`, `Go`, `JavaScript` or similar).
+* Real programming experience in at least one language (`Python`, `Java`, `C#`, C/`C++`, Go, `JavaScript` or similar).
 * Day-to-day experience using an `AI` coding assistant.
 * Familiarity with version control, testing and debugging.
 
@@ -58,7 +58,7 @@ ceremony of `Agile` in favor of tight, test-anchored iteration.
 * Reason about algorithmic complexity, data structures, memory and concurrency well enough to catch machine mistakes.
 * Design systems and make architectural trade-offs that an `AI` will implement but must not decide.
 * Build test suites strong enough to let the `AI` refactor and rewrite aggressively without risk.
-* Reshape the development process around `AI`, including moving away from ceremony-heavy `Agile`.
+* Reshape the development process around `AI`, including moving away from ceremony-heavy Agile.
 
 ## Exercises
 * Hands-on throughout, using the student's own `AI` assistant against real code, both reviewing machine output and building the tests and design constraints that keep it honest.
@@ -109,7 +109,7 @@ ceremony of `Agile` in favor of tight, test-anchored iteration.
     * Spotting a plausible algorithm that is quietly quadratic
     * Benchmarking and measuring instead of guessing
 <!-- chapter: concurrency-multi-core-and-multi-threading, duration: 4h -->
-* Concurrency, multi-core and multi-threading
+* Concurrency, multi-core and multi-`threading`
     * Why concurrency is where `AI` code is most dangerous
     * The problem the `AI` cannot see: shared mutable state
     * Race conditions, data races and why the tests pass anyway
@@ -150,21 +150,21 @@ ceremony of `Agile` in favor of tight, test-anchored iteration.
     * Understanding machine-generated code well enough to own it
     * Avoiding the "I don't know why it works" codebase
 <!-- chapter: rethinking-process-beyond-agile, duration: 1h -->
-* Rethinking process — beyond `Agile`
-    * Why `Agile` ceremony was a response to slow, expensive change
+* Rethinking process — beyond Agile
+    * Why Agile ceremony was a response to slow, expensive change
     * What changes when a working draft is minutes away, not sprints away
     * Retiring the rituals: standups, story points, estimation theatre
     * Tests and working software as the unit of progress, not tickets
     * Tight loops: specify, generate, verify, integrate
     * Keeping direction and design ownership while accelerating the mechanics
-    * What to keep from `Agile` and what to let go
+    * What to keep from Agile and what to let go
     * A working model for `AI`-era teams
 
 ## Installations
 Each student should have:
 
 * A working development environment for their primary language, on `Linux`, `Windows` or `MacOS`.
-* Their `AI` coding assistant of choice installed and working (`Copilot`, Cursor, Claude, or similar).
+* Their `AI` coding assistant of choice installed and working (Copilot, Cursor, Claude, or similar).
 * Free, wide-band internet access from all machines with no corporate firewall blocking `AI` tools or package installation.
 * A test runner and version control set up and working.
 * A real codebase they can experiment on is a strong advantage.
