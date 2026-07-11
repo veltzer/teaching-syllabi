@@ -19,15 +19,15 @@ required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_h
 src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
-args = ["--standalone", "--embed-resources", "--css=print/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-dep_inputs = ["print/syllabus.css", "resources/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
 
 [processor.pandoc.generator]
 src_dirs = ["out/generator"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
-args = ["--standalone", "--embed-resources", "--css=print/syllabus.css", "--lua-filter=resources/pandoc_filter.lua"]
-dep_inputs = ["print/syllabus.css", "resources/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
 
 [processor.script]
 src_dirs = ["syllabi", "out/generator"]
@@ -42,14 +42,17 @@ src_dirs = ["syllabi", "out/generator"]
 src_dirs = ["syllabi", "out/generator"]
 
 [processor.stylelint]
-src_dirs = ["resources"]
+src_dirs = ["site-resources", "shared", "print"]
+# Generated from themes.yaml; defines the raw hex values of the --<role> tokens
+# that every other stylesheet is required to use, so it cannot obey color-no-hex.
+src_exclude_paths = ["shared/shared-themes/themes.css"]
 
 [processor.htmlhint]
-src_dirs = ["resources"]
+src_dirs = ["site-resources"]
 
 [processor.eslint]
 args = ["-c", "config/eslint.config.js"]
-src_dirs = ["resources"]
+src_dirs = ["site-resources", "shared", "config"]
 
 [processor.generator]
 src_dirs = ["tracks"]
@@ -61,12 +64,12 @@ output_extension = "md"
 [processor.explicit.build_site]
 command = "scripts/build_site.py"
 inputs = [
-    "resources/index_material_web.html",
-    "resources/index_material_web.css",
-    "resources/index_material_web.js",
-    "resources/index_material_css.html",
-    "resources/index_material_css.css",
-    "resources/index_material_css.js",
+    "site-resources/index_material_web.html",
+    "site-resources/index_material_web.css",
+    "site-resources/index_material_web.js",
+    "site-resources/index_material_css.html",
+    "site-resources/index_material_css.css",
+    "site-resources/index_material_css.js",
     "shared/shared-themes/themes.css",
     "shared/shared-themes/base.css",
     "shared/shared-themes/typography.css",
@@ -83,7 +86,7 @@ input_globs = [
 output_dirs = ["_site"]
 
 [processor.luacheck]
-src_dirs = ["config", "resources"]
+src_dirs = ["config", "print"]
 
 [processor.mypy]
 src_dirs = ["scripts"]

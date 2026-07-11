@@ -182,7 +182,7 @@ Workflow:
 1. Runs `rsconstruct clean unknown` to remove stale files from `docs/`
 2. Scans all `.html` files in `docs/` (produced by pandoc)
 3. Reads frontmatter from the corresponding `.md` source for metadata
-4. Generates `index.html` from templates in `resources/` with embedded course data
+4. Generates `index.html` from templates in `site-resources/` with embedded course data
 
 The SPA loads syllabus HTML inline (via fetch) with download links for PDF, Word,
 and HTML formats. Pandoc output is never modified.

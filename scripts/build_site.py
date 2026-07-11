@@ -19,11 +19,11 @@ SYLLABI_DIR = ROOT / "syllabi"
 TRACKS_DIR = ROOT / "tracks"
 DOCS_DIR = ROOT / "_site"
 TAG_LISTS_DIR = ROOT / "tag_lists"
-RESOURCES_DIR = ROOT / "resources"
+SITE_RESOURCES_DIR = ROOT / "site-resources"
 SHARED_THEMES_DIR = ROOT / "shared" / "shared-themes"
 DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
 
-# Two parallel UI variants live in resources/:
+# Two parallel UI variants live in site-resources/:
 #   material_web — real <md-*> custom elements from @material/web (CDN).
 #                  Default — gives us proper M3 components (ripples,
 #                  floating labels, popup menus) without rebuilding them.
@@ -202,9 +202,9 @@ def generate_index(
     ]
     shared_js = (SHARED_THEMES_DIR / "theme-switcher.js").read_text(encoding="utf-8")
 
-    html_path = RESOURCES_DIR / f"index_{UI_VARIANT}.html"
-    css_path = RESOURCES_DIR / f"index_{UI_VARIANT}.css"
-    js_path = RESOURCES_DIR / f"index_{UI_VARIANT}.js"
+    html_path = SITE_RESOURCES_DIR / f"index_{UI_VARIANT}.html"
+    css_path = SITE_RESOURCES_DIR / f"index_{UI_VARIANT}.css"
+    js_path = SITE_RESOURCES_DIR / f"index_{UI_VARIANT}.js"
     if not html_path.exists():
         raise SystemExit(
             f"Unknown MATERIAL_VARIANT '{UI_VARIANT}': {html_path} not found"

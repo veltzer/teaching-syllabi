@@ -7,6 +7,6 @@ files["config/"] = {
     ignore = {"131"},
 }
 
-files["resources/"] = {
+files["print/"] = {
     ignore = {"131"},
 }
