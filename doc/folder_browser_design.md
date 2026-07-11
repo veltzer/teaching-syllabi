@@ -70,10 +70,24 @@ the existing `#syllabus=...` and `#search=...` hash schemes.
 
 ## Files affected
 
-- `resources/index.html` - Add breadcrumb and subfolder container divs above results.
-- `resources/index.js` - Folder state, breadcrumb rendering, subfolder card rendering,
-  folder-scoped filtering in `render()`.
-- `resources/index.css` - Styles for breadcrumb bar and subfolder cards.
+The index page ships as two parallel UI variants (`material_web`, the default, using
+real `<md-*>` components; and `material_css`, using native controls). The folder
+browser is implemented in both, so the markup and logic exist in each variant:
+
+- `site-resources/index_material_web.html`, `site-resources/index_material_css.html` -
+  Breadcrumb and subfolder container divs above results.
+- `site-resources/index_material_web.js`, `site-resources/index_material_css.js` -
+  Folder state, breadcrumb rendering, subfolder card rendering, folder-scoped
+  filtering in `render()`.
+
+Styling is shared rather than duplicated:
+
+- `shared/shared-themes/components.css` - Canonical styles for the breadcrumb bar
+  (`.breadcrumb-current`, `.breadcrumb-sep`) and subfolder cards (`.subfolder-card`,
+  `.subfolder-count`). Both variants rely on these.
+- `site-resources/index_material_css.css` - Overrides a subset of the above for the
+  native-controls variant. The `material_web` variant needs no folder-browser CSS of
+  its own.
 
 ## What does not change
 
