@@ -1,101 +1,118 @@
-[dependencies]
-pip = ["pyyaml", "types-PyYAML", "demjson3"]
-system = ["texlive-latex-recommended"]
+# Canonical shared rsconstruct.toml — this file is IDENTICAL in every repo.
+#
+# Do not edit per-repo copies. Edit the canonical copy
+# (/home/mark/git/veltzer/rsconstruct.canonical.toml) and sync it out.
+# Repo-specific configuration (dependencies, explicit generators, excludes,
+# one-off workarounds) lives in rsconstruct.local.toml, which rsconstruct
+# deep-merges over this file at load time.
+#
+# skip_missing_src_dirs makes this file a menu: a processor whose directories
+# don't exist in a given repo simply matches no files there. The directory
+# layout of each repo decides which checks run.
+
+[build]
+skip_missing_src_dirs = true
+
+# ─── analyzers ───────────────────────────────────────────────────────────────
 
 [analyzer.tera]
 
+[analyzer.markdown]
+
+[analyzer.python]
+
+# ─── templating ──────────────────────────────────────────────────────────────
+
+# Convention: tera configs are Lua (config/*.lua). dep_auto entries are
+# silently skipped where absent. Repos still on config/*.py keep a
+# dep_inputs override in their local overlay until converted.
 [processor.tera]
-dep_inputs = [
-    "config/project.lua",
-    "config/personal.lua",
+dep_auto = [
+	"config/project.lua",
+	"config/personal.lua",
+	"config/version.lua",
+	"config/github.lua",
+	"config/python.lua",
+	"config/shared.lua",
 ]
+
+# ─── markdown ────────────────────────────────────────────────────────────────
+
+[processor.rumdl]
+src_dirs = ["src", "docs", "exercises", "notes", "marp"]
+
+[processor.zspell]
+src_dirs = ["src", "docs", "exercises", "notes", "marp", "syllabi", "out/generator"]
+
+# ─── python ──────────────────────────────────────────────────────────────────
+
+[processor.ruff]
+src_dirs = ["src", "scripts", "config", "tests", "exercises", "animations"]
+
+[processor.pylint]
+src_dirs = ["src", "scripts", "config", "tests", "exercises", "animations"]
+
+[processor.mypy]
+src_dirs = ["src", "scripts", "config", "tests", "exercises", "animations"]
+
+[processor.requirements]
+src_dirs = ["src", "scripts", "config", "tests", "animations"]
+
+[processor.pytest]
+
+# ─── shell ───────────────────────────────────────────────────────────────────
+
+[processor.shellcheck]
+src_dirs = ["scripts", "src", "misc", "exercises", "docs", "config"]
+args = ["--severity=error", "--shell=bash"]
+
+# ─── lua ─────────────────────────────────────────────────────────────────────
+
+[processor.luacheck]
+src_dirs = ["config", "print"]
+
+# ─── toml / yaml / json ──────────────────────────────────────────────────────
+
+[processor.taplo]
+src_dirs = ["."]
+
+[processor.iyamllint]
+src_dirs = ["yaml", "tracks"]
+
+[processor.ijsonlint]
+src_dirs = ["json"]
+
+# ─── web ─────────────────────────────────────────────────────────────────────
+
+[processor.stylelint]
+src_dirs = ["resources", "site-resources", "print"]
+
+[processor.htmlhint]
+src_dirs = ["src", "site-resources"]
+
+[processor.tidy]
+src_dirs = ["src", "blog"]
+
+[processor.eslint]
+src_dirs = ["site-resources", "shared", "config", "blog"]
+args = ["-c", "config/eslint.config.js"]
+
+# ─── teaching content ────────────────────────────────────────────────────────
 
 [processor.tags]
 src_dirs = ["syllabi", "out/generator"]
 required_fields = ["tags", "level", "category", "audience"]
 required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
 
-[processor.pandoc.syllabi]
-src_dirs = ["syllabi"]
-formats = ["pdf", "html", "docx"]
-output_dir = "_site"
-args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
-
-[processor.pandoc.generator]
-src_dirs = ["out/generator"]
-formats = ["pdf", "html", "docx"]
-output_dir = "_site/tracks"
-args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
-
-[processor.script]
-src_dirs = ["syllabi", "out/generator"]
-src_extensions = [".md"]
-command = "scripts/check_md.py"
-batch = true
-
-[processor.zspell]
-src_dirs = ["syllabi", "out/generator"]
-
 [processor.terms]
 src_dirs = ["syllabi", "out/generator"]
 
-[processor.stylelint]
-src_dirs = ["site-resources", "shared", "print"]
-# Generated from themes.yaml; defines the raw hex values of the --<role> tokens
-# that every other stylesheet is required to use, so it cannot obey color-no-hex.
-src_exclude_paths = ["shared/shared-themes/themes.css"]
+[processor.pandoc.syllabi]
+src_dirs = ["syllabi"]
+formats = ["pdf", "html", "docx"]
 
-[processor.htmlhint]
-src_dirs = ["site-resources"]
-
-[processor.eslint]
-args = ["-c", "config/eslint.config.js"]
-src_dirs = ["site-resources", "shared", "config"]
-
-[processor.generator]
-src_dirs = ["tracks"]
-src_extensions = [".yaml"]
+[processor.script.check_md]
+command = "scripts/check_md.py"
+src_extensions = [".md"]
+src_dirs = ["syllabi", "marp", "out/generator"]
 batch = true
-command = "scripts/build_tracks.py"
-output_extension = "md"
-
-[processor.explicit.build_site]
-command = "scripts/build_site.py"
-inputs = [
-    "site-resources/index_material_web.html",
-    "site-resources/index_material_web.css",
-    "site-resources/index_material_web.js",
-    "site-resources/index_material_css.html",
-    "site-resources/index_material_css.css",
-    "site-resources/index_material_css.js",
-    "shared/shared-themes/themes.css",
-    "shared/shared-themes/base.css",
-    "shared/shared-themes/typography.css",
-    "shared/shared-themes/components.css",
-    "shared/shared-themes/theme-switcher.js",
-    "tags/level.txt",
-    "tags/category.txt",
-    "tags/audiences.txt",
-]
-input_globs = [
-    "_site/courses/**/*.html",
-    "_site/tracks/*.html",
-]
-output_dirs = ["_site"]
-
-[processor.luacheck]
-src_dirs = ["config", "print"]
-
-[processor.mypy]
-src_dirs = ["scripts"]
-
-[processor.ruff]
-src_dirs = ["scripts"]
-
-[processor.iyamllint]
-src_dirs = ["tracks"]
-
-[processor.ijsonlint]
-src_dirs = ["."]
