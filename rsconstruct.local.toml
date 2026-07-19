@@ -1,0 +1,60 @@
+# Repo-specific overlay for teaching-syllabi.
+# Everything conventional lives in rsconstruct.toml (canonical, do not edit).
+
+[dependencies]
+pip = ["pyyaml", "types-PyYAML", "demjson3"]
+system = ["texlive-latex-recommended"]
+
+# Per-course syllabi render into the published site with the shared theme.
+[processor.pandoc.syllabi]
+output_dir = "_site"
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
+
+[processor.pandoc.generator]
+src_dirs = ["out/generator"]
+formats = ["pdf", "html", "docx"]
+output_dir = "_site/tracks"
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
+
+# Track yaml files generate the per-track syllabi markdown.
+[processor.generator]
+src_dirs = ["tracks"]
+src_extensions = [".yaml"]
+batch = true
+command = "scripts/build_tracks.py"
+output_extension = "md"
+
+[processor.explicit.build_site]
+command = "scripts/build_site.py"
+inputs = [
+    "site-resources/index_material_web.html",
+    "site-resources/index_material_web.css",
+    "site-resources/index_material_web.js",
+    "site-resources/index_material_css.html",
+    "site-resources/index_material_css.css",
+    "site-resources/index_material_css.js",
+    "shared/shared-themes/themes.css",
+    "shared/shared-themes/base.css",
+    "shared/shared-themes/typography.css",
+    "shared/shared-themes/components.css",
+    "shared/shared-themes/theme-switcher.js",
+    "tags/level.txt",
+    "tags/category.txt",
+    "tags/audiences.txt",
+]
+input_globs = [
+    "_site/courses/**/*.html",
+    "_site/tracks/*.html",
+]
+output_dirs = ["_site"]
+
+[processor.stylelint]
+src_dirs = ["site-resources", "shared", "print"]
+# Generated from themes.yaml; defines the raw hex values of the --<role> tokens
+# that every other stylesheet is required to use, so it cannot obey color-no-hex.
+src_exclude_paths = ["shared/shared-themes/themes.css"]
+
+[processor.ijsonlint]
+src_dirs = ["."]
