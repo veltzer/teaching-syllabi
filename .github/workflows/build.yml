@@ -48,8 +48,8 @@ jobs:
     - name: install
       run: |
         pip install -r requirements.txt
-        rsconstruct tools install-deps --yes
-        rsconstruct tools install --yes
+        rsconstruct tools install-deps
+        rsconstruct tools install
     - name: build
       run: rsconstruct build
     - name: status
