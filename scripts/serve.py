@@ -2,8 +2,8 @@
 
 """Serve the _site directory locally and open a browser."""
 
-import os
 import http.server
+import os
 import threading
 import webbrowser
 from pathlib import Path

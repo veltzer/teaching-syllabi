@@ -6,7 +6,6 @@ Script to check the correctness of a course syllabus written in .md format
 
 import re
 import sys
-from typing import List, Optional, Tuple
 
 REQUIRED = [
     "Description",
@@ -37,7 +36,7 @@ MUST = [
     "Copyright",
 ]
 
-def is_sublist(list1: List[str], list2: List[str]) -> bool:
+def is_sublist(list1: list[str], list2: list[str]) -> bool:
     """
     Check that one list is a sublist of the other
     """
@@ -49,12 +48,12 @@ def is_sublist(list1: List[str], list2: List[str]) -> bool:
         pos2+=1
     return pos1 == len(list1)
 
-def check_file(filename: str) -> List[str]:
+def check_file(filename: str) -> list[str]:
     """Check a single file and return a list of error messages (empty if OK)."""
     errors = []
     headers = []
     title = None
-    lines: List[str] = []
+    lines: list[str] = []
     with open(filename, "r", encoding="utf-8") as stream:
         for line in stream:
             lines.append(line.rstrip())
@@ -81,7 +80,7 @@ def check_file(filename: str) -> List[str]:
     return errors
 
 
-def check_course_id(filename: str, lines: List[str]) -> List[str]:
+def check_course_id(filename: str, lines: list[str]) -> list[str]:
     """Check that the file has exactly one <!-- course: id --> comment."""
     errors = []
     course_ids = [
@@ -103,7 +102,7 @@ CHAPTER_WITHOUT_DURATION_RE = re.compile(
 )
 
 
-def extract_duration_hours(lines: List[str]) -> Optional[int]:
+def extract_duration_hours(lines: list[str]) -> int | None:
     """Extract duration_hours from YAML frontmatter."""
     in_frontmatter = False
     for line in lines:
@@ -119,7 +118,7 @@ def extract_duration_hours(lines: List[str]) -> Optional[int]:
     return None
 
 
-def parse_chapter_comment(line: str) -> Optional[Tuple[str, Optional[int]]]:
+def parse_chapter_comment(line: str) -> tuple[str, int | None] | None:
     """Parse a chapter comment, returning (id, duration_or_None)."""
     match = CHAPTER_WITH_DURATION_RE.match(line)
     if match:
@@ -130,14 +129,14 @@ def parse_chapter_comment(line: str) -> Optional[Tuple[str, Optional[int]]]:
     return None
 
 
-def check_chapter_ids(filename: str, lines: List[str]) -> List[str]:
+def check_chapter_ids(filename: str, lines: list[str]) -> list[str]:
     """Check chapter ids, durations, and that durations sum to total."""
     errors = []
     in_outline = False
     past_outline = False
     prev_was_chapter = False
-    seen_ids: List[str] = []
-    chapter_durations: List[Tuple[str, Optional[int]]] = []
+    seen_ids: list[str] = []
+    chapter_durations: list[tuple[str, int | None]] = []
 
     for line in lines:
         if line == "## Outline":
