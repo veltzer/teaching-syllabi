@@ -47,7 +47,6 @@ jobs:
         GH_TOKEN: ${{ github.token }}
     - name: install
       run: |
-        pip install -r requirements.txt
         rsconstruct tools install-deps
         rsconstruct tools install
     - name: build
