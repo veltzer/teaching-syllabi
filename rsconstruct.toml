@@ -117,3 +117,6 @@ command = "scripts/check_md.py"
 src_extensions = [".md"]
 src_dirs = ["syllabi", "marp", "out/generator"]
 batch = true
+
+[pages]
+dir = "_site"
