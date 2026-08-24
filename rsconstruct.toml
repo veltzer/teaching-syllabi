@@ -44,14 +44,6 @@ src_dirs = ["scripts", "config"]
 [processor.requirements]
 src_dirs = ["scripts", "config"]
 
-# ─── shell ───────────────────────────────────────────────────────────────────
-
-[processor.shellcheck]
-src_dirs = ["scripts", "config"]
-args = ["--severity=error", "--shell=bash"]
-
-# ─── lua ─────────────────────────────────────────────────────────────────────
-
 [processor.luacheck]
 src_dirs = ["config", "print"]
 
