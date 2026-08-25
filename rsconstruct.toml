@@ -70,7 +70,7 @@ src_exclude_paths = ["shared/shared-themes/themes.css"]
 src_dirs = ["site-resources"]
 
 [processor.eslint]
-src_dirs = ["site-resources", "shared", "config"]
+src_dirs = ["site-resources", "shared"]
 args = ["-c", ".eslint.config.js"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
