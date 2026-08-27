@@ -41,9 +41,6 @@ src_dirs = ["scripts", "config"]
 [processor.mypy]
 src_dirs = ["scripts", "config"]
 
-[processor.requirements]
-src_dirs = ["scripts", "config"]
-
 [processor.luacheck]
 src_dirs = ["config", "print"]
 
@@ -102,7 +99,6 @@ dir = "_site"
 # ─── merged from rsconstruct.local.toml ─────────────────────────────────────
 
 [dependencies]
-pip = ["pyyaml", "types-PyYAML", "demjson3"]
 system = ["texlive-latex-recommended"]
 
 [processor.pandoc.generator]
