@@ -9,11 +9,9 @@ To run all tests run "rsconstruct build"
 
 # Terms
 
-The `terms.ambiguous/` and `terms.single_meaning/` directories are vendored
-from github.com/veltzer/terms — committed to this repo, but not the source
-of truth. To pull in upstream changes run `scripts/sync_terms.py` and
-commit the resulting diff. Edits to these terms must be made in the `terms`
-repo first, then synced here.
+The technical-terms registry lives in the `shared/shared-terms/` submodule
+(github.com/veltzer/shared-terms). It is not owned by this repo: edit terms
+in the `shared-terms` repo first, then bump the submodule here.
 
 # Git
 

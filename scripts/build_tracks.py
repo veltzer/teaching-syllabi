@@ -20,7 +20,7 @@ import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 COURSES_DIR = PROJECT_ROOT / "syllabi" / "courses"
-TERMS_DIR = PROJECT_ROOT / "terms" / "unambiguous"
+TERMS_DIR = PROJECT_ROOT / "shared" / "shared-terms" / "unambiguous"
 
 
 def _load_terms() -> list[str]:
