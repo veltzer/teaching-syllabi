@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: oracle_for_developers -->
 # Oracle for Developers
 

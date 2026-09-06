@@ -12,6 +12,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: loki -->
 # `Grafana Loki`: Log Aggregation System
 

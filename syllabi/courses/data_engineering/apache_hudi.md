@@ -13,6 +13,7 @@ audience:
   - audiences:data-engineers
   - audiences:data-architects
 ---
+
 <!-- course: apache_hudi -->
 # `Apache Hudi`
 

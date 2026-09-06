@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:managers
 ---
+
 <!-- course: data_driven_project_management -->
 # Data Driven Project Management
 
@@ -55,8 +56,8 @@ Any of the following
     * Further Data collection
     * Exercise
         * Analyze the products you are involved with and list data driven
-        decisions you can `make` about it and their advantages for your
-        organization.
+  decisions you can `make` about it and their advantages for your
+  organization.
 <!-- chapter: industry-case-studies-and-examples, duration: 2h -->
 * Industry case studies and examples (2 hours)
     * Google search
@@ -114,9 +115,9 @@ Any of the following
             * exercise with your data.
         * Given data in a `MySQL` database, derive insights from the data using `SQL`.
     * REMARK: If you choose to exercise with your own data it is best to use
-    a data set pre-prepared by the client and an exercise which was
-    pre-prepared by the client to avoid wasting wasting time and/or
-    a failed exercise.
+  a data set pre-prepared by the client and an exercise which was
+  pre-prepared by the client to avoid wasting wasting time and/or
+  a failed exercise.
     * REMARK: do you need the google analytics and `MySQL` exercises?
 <!-- chapter: visualization, duration: 1h -->
 * Visualization (1 hour)

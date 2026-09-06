@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: real_time_ingestion_and_processing_using_kafka_and_spark -->
 # Real-Time Ingestion & Processing Using `Kafka` & `Spark`
 

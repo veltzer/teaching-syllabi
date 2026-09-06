@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: using_ai_when_developing_applications -->
 # Using `AI` when Developing Applications
 

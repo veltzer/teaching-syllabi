@@ -11,6 +11,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: grafana_deep_dive -->
 # `Grafana` Deep Dive
 

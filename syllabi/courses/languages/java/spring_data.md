@@ -11,6 +11,7 @@ duration_hours: 8
 audience:
   - audiences:developers
 ---
+
 <!-- course: spring_data -->
 # `Spring Data`
 

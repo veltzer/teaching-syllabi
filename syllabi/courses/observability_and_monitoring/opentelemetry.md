@@ -13,6 +13,7 @@ audience:
   - audiences:sres
   - audiences:devops
 ---
+
 <!-- course: opentelemetry -->
 # `OpenTelemetry`
 

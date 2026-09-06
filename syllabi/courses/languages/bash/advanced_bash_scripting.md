@@ -12,6 +12,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: advanced_bash_scripting -->
 # Advanced Bash Scripting
 
@@ -108,12 +109,12 @@ Upon completion, delegates will be able to:
     * Writing `CLI` tools with getopt/argparse
 
 ## References
-* [Bash Manual](`https`://www.gnu.org/software/`bash`/manual/)
-* [Advanced Bash-Scripting Guide](`https`://tldp.org/LDP/abs/`html`/)
-* [`jq` Manual](`https`://stedolan.`github`.io/`jq`/manual/)
-* [Bats: Bash Automated Testing System](`https`://`github`.com/bats-core/bats-core)
-* [shunit2 Testing Framework](`https`://`github`.com/kward/shunit2)
-* [`systemd` Timers](`https`://www.freedesktop.org/software/`systemd`/man/`systemd`.timer.`html`)
+* [Bash Manual](https://www.gnu.org/software/bash/manual/)
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+* [`jq` Manual](https://stedolan.github.io/jq/manual/)
+* [Bats: Bash Automated Testing System](https://github.com/bats-core/bats-core)
+* [shunit2 Testing Framework](https://github.com/kward/shunit2)
+* [`systemd` Timers](https://www.freedesktop.org/software/systemd/man/systemd.timer.html)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

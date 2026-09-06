@@ -13,6 +13,7 @@ audience:
   - audiences:security-engineers
   - audiences:performance-engineers
 ---
+
 <!-- course: windows_internals -->
 # `Windows` Internals
 

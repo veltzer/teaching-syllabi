@@ -12,6 +12,7 @@ audience:
   - audiences:data-scientists
 duration_hours: 40
 ---
+
 <!-- course: practical_machine_learning_using_python -->
 # Practical `Machine Learning` Using `Python`
 

@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:sres
 ---
+
 <!-- course: web_architecture_and_scaling -->
 # Web Architecture & Scaling
 

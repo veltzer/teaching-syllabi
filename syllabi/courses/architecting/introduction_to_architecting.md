@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: introduction_to_architecting -->
 # Introduction to Architecting
 

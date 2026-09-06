@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: c_api_design -->
 # C `API` Design
 

@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: qemu -->
 # `QEMU`
 

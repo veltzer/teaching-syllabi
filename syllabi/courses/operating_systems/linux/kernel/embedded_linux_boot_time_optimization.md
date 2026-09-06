@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: embedded_linux_boot_time_optimization -->
 # Embedded `Linux` boot time optimization
 

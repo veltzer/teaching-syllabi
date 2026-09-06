@@ -14,17 +14,18 @@ audience:
   - audiences:devops
   - audiences:developers
 ---
+
 <!-- course: llm_observability_and_tracing -->
 # `LLM` Observability and Tracing
 
 ## Description
-The catalog has `LLM Application Engineering`, `LLM Evaluation and Benchmarking`, `Agentic Systems
-Engineering`, and `Working with `LLMs` Securely`. Each touches observability; none is the focused
-engineering of making an `LLM`-powered system observable. `LLM` systems break in ways that traditional
-`APM` does not capture: a model upgrade silently shifts behavior, a prompt change tanks quality, a
-tool call returns garbage and the agent loops on it, the cost per request quietly doubles. The
-discipline of observing, tracing, and debugging these systems has consolidated into a small set of
-tools and patterns over the past two years.
+The catalog has `LLM Application Engineering`, `LLM Evaluation and Benchmarking`,
+`Agentic Systems Engineering`, and `Working with LLMs Securely`. Each touches observability; none is
+the focused engineering of making an `LLM`-powered system observable. `LLM` systems break in ways
+that traditional `APM` does not capture: a model upgrade silently shifts behavior, a prompt change
+tanks quality, a tool call returns garbage and the agent loops on it, the cost per request quietly
+doubles. The discipline of observing, tracing, and debugging these systems has consolidated into a
+small set of tools and patterns over the past two years.
 
 This three day course covers `LLM` observability as practiced today. It covers the unit of observation
 (the trace, not the request), the canonical signals (`token` counts, latency, cost, tool calls,

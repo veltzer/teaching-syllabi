@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: serverless_databases_in_practice -->
 # Serverless Databases in Practice
 

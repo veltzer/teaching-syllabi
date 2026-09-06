@@ -14,6 +14,7 @@ audience:
   - audiences:data-scientists
   - audiences:devops
 ---
+
 <!-- course: python_programming -->
 <!-- Track gap: Python automation with Selenium (basic Selenium integration example) -->
 # `Python` Programming
@@ -62,7 +63,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
     * `Python` is a dynamic language (what does that mean?)
     * Basic `OO` principles (for those who need them)
     * Comparison of `Python` with other programming languages in terms of performance,
-        garbage collection, multi-`threading`, learning curve and more
+      garbage collection, multi-`threading`, learning curve and more
 <!-- chapter: your-first-python-program, duration: 2h -->
 * Your first `Python` program (1 hour)
     * How to install the `Python` programming environment
@@ -220,7 +221,7 @@ as opposed to an environment used to read emails.
 * 4 GB `RAM` for each machine is enough. This is not much.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via pip.
 * Username and password of a user that has `sudo` privileges on the machine.
-* [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
+* [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 * While `Ubuntu` is the best to exercise `Python` users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them out with issues.
 * No need to install `Python` yourself as I will help the students to install `Python` when the course starts.
 * Students who wish to practice on `Windows` may do so, but be sure that you can install `Python` on your machine

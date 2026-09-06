@@ -13,6 +13,7 @@ audience:
   - audiences:data-engineers
   - audiences:data-analysts
 ---
+
 <!-- course: dbt -->
 # `dbt` (Data Build Tool)
 

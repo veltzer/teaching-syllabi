@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:senior-developers
 ---
+
 <!-- course: clean_and_hexagonal_architecture -->
 # `Clean Architecture` and `Hexagonal Architecture`
 

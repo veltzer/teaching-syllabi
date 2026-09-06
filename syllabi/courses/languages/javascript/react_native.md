@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: react_native -->
 # `React Native` Mobile Development
 

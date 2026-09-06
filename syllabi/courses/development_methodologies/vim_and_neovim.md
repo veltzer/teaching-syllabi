@@ -8,6 +8,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: vim_and_neovim -->
 # Vim and `Neovim`
 

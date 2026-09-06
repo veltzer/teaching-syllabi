@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: architecting -->
 # Architecting
 
@@ -139,7 +140,7 @@ pick the right tradeoff for your case.
     * Queue-Based Architectural Patterns
         * Publish-Subscribe model
         * Work Queue / Task Queue pattern
-        `Event-Driven Architecture` with queues
+  `Event-Driven Architecture` with queues
     * Implementing Queues in Cloud Environments
         * Message brokers and queue services (e.g., `RabbitMQ`, `Apache Kafka`, `Amazon SQS`)
         * Scaling and performance considerations

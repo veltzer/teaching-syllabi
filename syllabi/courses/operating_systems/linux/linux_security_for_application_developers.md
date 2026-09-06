@@ -12,6 +12,7 @@ duration_hours: 8
 audience:
   - audiences:developers
 ---
+
 <!-- course: linux_security_for_application_developers -->
 # `Linux` security for application developers
 

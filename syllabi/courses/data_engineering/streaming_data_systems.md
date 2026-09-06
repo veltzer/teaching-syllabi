@@ -15,6 +15,7 @@ audience:
   - audiences:senior-developers
   - audiences:architects
 ---
+
 <!-- course: streaming_data_systems -->
 # Streaming Data Systems
 

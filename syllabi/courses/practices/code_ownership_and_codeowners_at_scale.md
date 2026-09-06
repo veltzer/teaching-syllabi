@@ -13,6 +13,7 @@ audience:
   - audiences:management
   - audiences:architects
 ---
+
 <!-- course: code_ownership_and_codeowners_at_scale -->
 # Code Ownership and `CODEOWNERS` at Scale
 

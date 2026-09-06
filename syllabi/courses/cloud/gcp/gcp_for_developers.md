@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: gcp_for_developers -->
 # `GCP` for Developers
 

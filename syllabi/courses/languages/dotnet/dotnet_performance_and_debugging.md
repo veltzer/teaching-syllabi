@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: dotnet_performance_and_debugging -->
 # `.NET` Performance and Debugging
 

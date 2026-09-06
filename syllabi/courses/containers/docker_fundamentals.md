@@ -12,6 +12,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: docker_fundamentals -->
 # `Docker` Fundamentals
 

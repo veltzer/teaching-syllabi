@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: nextjs -->
 # Next.js Development
 

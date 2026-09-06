@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: spring_boot -->
 # `Spring Boot` Development
 

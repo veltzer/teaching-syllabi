@@ -15,6 +15,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: embedded_linux_platform_development -->
 # Embedded `Linux` Platform Development
 
@@ -161,7 +162,7 @@ versions
     * International conferences
 
 ## References
-* [slides for this course](`https`://bootlin.com/doc/training/embedded-`linux`/)
+* [slides for this course](https://bootlin.com/doc/training/embedded-linux/)
 
 ## Installations
 * A real, virtual or remote machine running `Ubuntu` LTS >= 22.04

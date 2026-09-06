@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: couchdb -->
 # `CouchDB`
 

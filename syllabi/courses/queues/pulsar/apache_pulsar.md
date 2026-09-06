@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:data-engineers
 ---
+
 <!-- course: apache_pulsar -->
 # `Apache Pulsar`
 

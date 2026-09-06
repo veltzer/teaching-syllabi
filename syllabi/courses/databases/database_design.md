@@ -12,6 +12,7 @@ audience:
   - audiences:dbas
   - audiences:architects
 ---
+
 <!-- course: database_design -->
 # Designing Relational Databases
 

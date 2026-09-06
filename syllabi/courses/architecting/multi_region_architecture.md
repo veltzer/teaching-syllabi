@@ -13,6 +13,7 @@ audience:
   - audiences:devops
   - audiences:team-leads
 ---
+
 <!-- course: multi_region_architecture -->
 # Multi-Region Architecture
 

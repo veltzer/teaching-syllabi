@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: aws_migration -->
 # Migrating to `AWS`
 

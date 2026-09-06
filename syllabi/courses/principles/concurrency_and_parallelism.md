@@ -16,6 +16,7 @@ audience:
   - audiences:systems-programmers
   - audiences:performance-engineers
 ---
+
 <!-- course: concurrency_and_parallelism -->
 # Concurrency and Parallelism
 

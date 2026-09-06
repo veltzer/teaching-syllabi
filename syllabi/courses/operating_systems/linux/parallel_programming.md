@@ -13,6 +13,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:performance-engineers
 ---
+
 <!-- course: parallel_programming -->
 # Parallel Programming
 

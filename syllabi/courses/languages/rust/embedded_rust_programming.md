@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: embedded_rust_programming -->
 # Embedded Rust Programming
 
@@ -57,10 +58,10 @@ This course is intended for Rust developers who wish to delve deeper into Rust b
     * Memory barriers
 
 ## References
-* [Embedded Rust](`https`://docs.`rust`-embedded.org/)
-* [Embedded Rust Book](`https`://docs.`rust`-embedded.org/book/index.`html`)
-* [Rust for C developers](`https`://opentitan.org/book/doc/rust_for_c_devs.`html`)
-* [Using C libraries in Rust](`https`://medium.com/dwelo-`r`-d/using-`c`-libraries-in-`rust`-13961948c72a)
+* [Embedded Rust](https://docs.rust-embedded.org/)
+* [Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
+* [Rust for C developers](https://opentitan.org/book/doc/rust_for_c_devs.html)
+* [Using C libraries in Rust](https://medium.com/dwelo-r-d/using-c-libraries-in-rust-13961948c72a)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

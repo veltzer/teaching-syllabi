@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: java_design_patterns -->
 # `Java` `Design Patterns`
 

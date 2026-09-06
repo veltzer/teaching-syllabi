@@ -16,6 +16,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: gcp_data_engineering -->
 # `Google Cloud Platform` - Data Engineering
 

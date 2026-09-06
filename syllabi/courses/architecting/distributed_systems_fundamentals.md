@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: distributed_systems_fundamentals -->
 # Distributed Systems Fundamentals
 

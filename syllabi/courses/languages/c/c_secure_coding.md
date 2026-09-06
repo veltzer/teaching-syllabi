@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: c_secure_coding -->
 # Coding securely in C
 

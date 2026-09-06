@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: cryptographic_engineering -->
 # Cryptographic Engineering
 

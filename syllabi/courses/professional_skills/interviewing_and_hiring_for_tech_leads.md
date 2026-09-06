@@ -8,6 +8,7 @@ duration_hours: 16
 audience:
   - audiences:managers
 ---
+
 <!-- course: interviewing_and_hiring_for_tech_leads -->
 # Interviewing and Hiring for Tech Leads
 

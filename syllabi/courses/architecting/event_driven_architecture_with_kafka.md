@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: event_driven_architecture_with_kafka -->
 # `Event-Driven Architecture` with `Kafka`
 

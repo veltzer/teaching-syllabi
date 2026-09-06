@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: mqtt_and_iot_protocols -->
 # `MQTT` and IoT Protocols
 

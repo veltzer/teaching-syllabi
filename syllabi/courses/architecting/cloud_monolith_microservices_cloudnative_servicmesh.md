@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: cloud_monolith_microservices_cloudnative_servicmesh -->
 # Cloud `monolith` micro services cloudnative servicemesh
 

@@ -14,6 +14,7 @@ audience:
   - audiences:team-leads
   - audiences:managers
 ---
+
 <!-- course: pair_and_mob_programming -->
 # Pair and Mob Programming
 

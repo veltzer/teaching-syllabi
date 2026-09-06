@@ -13,6 +13,7 @@ audience:
   - audiences:network-engineers
   - audiences:security-engineers
 ---
+
 <!-- course: vpn_and_wireguard -->
 # `VPN` and `WireGuard`
 

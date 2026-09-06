@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:java-developers
 ---
+
 <!-- course: maven -->
 # Maven
 

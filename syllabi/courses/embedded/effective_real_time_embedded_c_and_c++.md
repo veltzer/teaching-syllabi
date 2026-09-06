@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:developers
 ---
+
 <!-- course: effective_real_time_embedded_c_and_c++ -->
 # Effective Real Time Embedded C and `C++`
 

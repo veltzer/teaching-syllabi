@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: event_driven_architecture -->
 # `Event-Driven Architecture`
 

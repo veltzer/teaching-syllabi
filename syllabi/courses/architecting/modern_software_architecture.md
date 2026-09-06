@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: modern_software_architecture -->
 # Modern Software Architecture
 

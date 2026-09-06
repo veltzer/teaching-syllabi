@@ -16,6 +16,7 @@ audience:
   - audiences:sres
   - audiences:architects
 ---
+
 <!-- course: serverless_in_practice -->
 # Serverless In Practice
 

@@ -13,6 +13,7 @@ audience:
   - audiences:team-leads
   - audiences:developers
 ---
+
 <!-- course: end_to_end_testing_strategy -->
 # End-to-End Testing Strategy
 

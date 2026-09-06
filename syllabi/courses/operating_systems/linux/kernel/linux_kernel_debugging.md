@@ -14,6 +14,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: linux_kernel_debugging -->
 # `Linux` Kernel Debugging
 
@@ -143,7 +144,7 @@ in the `Linux` kernel.
 
 ## Notes
 Several of the chapters in this course are based on chapters from
-[`linux`-kernel-debugging-and_security](`https`://training.linuxfoundation.org/training/`linux`-kernel-debugging-and-security).
+[`linux`-kernel-debugging-and_security](https://training.linuxfoundation.org/training/linux-kernel-debugging-and-security).
 Other chapters are written by [me](mailto:mark.veltzer@gmail.com).
 This course does not teach `Linux` Kernel Programming from the ground up. Kernel knowledge
 is assumed and should have been acquired in a previous course or some years with hands

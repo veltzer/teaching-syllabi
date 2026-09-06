@@ -11,6 +11,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: assembly_programming_using_gas -->
 # `Assembly` programming using gas
 

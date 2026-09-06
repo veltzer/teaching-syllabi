@@ -12,6 +12,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: bash_scripting -->
 # Bash scripting
 

@@ -18,6 +18,7 @@ audience:
   - audiences:developers
   - audiences:sysadmins
 ---
+
 <!-- course: gcp_devops_engineer -->
 # `Google Cloud Platform` - `DevOps` Engineer
 

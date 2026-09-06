@@ -14,6 +14,7 @@ audience:
   - audiences:firmware-developers
   - audiences:performance-engineers
 ---
+
 <!-- course: gcc_in_depth -->
 # `GCC` in Depth
 

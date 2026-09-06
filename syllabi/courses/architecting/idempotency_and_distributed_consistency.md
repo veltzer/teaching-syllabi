@@ -15,6 +15,7 @@ audience:
   - audiences:senior-developers
   - audiences:architects
 ---
+
 <!-- course: idempotency_and_distributed_consistency -->
 # Idempotency and Distributed Consistency
 

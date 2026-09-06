@@ -8,6 +8,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: angular -->
 # Angular Development
 

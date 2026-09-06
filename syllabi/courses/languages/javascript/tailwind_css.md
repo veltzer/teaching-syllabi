@@ -8,6 +8,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: tailwind_css -->
 # `Tailwind CSS` Development
 

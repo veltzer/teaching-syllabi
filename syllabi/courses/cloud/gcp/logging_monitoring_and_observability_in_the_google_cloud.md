@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: logging_monitoring_and_observability_in_the_google_cloud -->
 # Logging, Monitoring and Observability in the `Google Cloud`
 

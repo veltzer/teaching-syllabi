@@ -10,6 +10,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: python_deep_dive -->
 # `Python` Deep Dive for Programmers
 

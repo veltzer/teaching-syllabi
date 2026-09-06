@@ -10,7 +10,7 @@
 
 ---
 
-### File Structure
+## File Structure
 
 - **Modify:** `resources/index.html` — Add breadcrumb and subfolder container divs
 - **Modify:** `resources/index.css` — Add styles for breadcrumbs and subfolder cards
@@ -18,7 +18,7 @@
 
 ---
 
-### Task 1: Add HTML containers for breadcrumb and subfolders
+## Task 1: Add HTML containers for breadcrumb and subfolders
 
 **Files:**
 - Modify: `resources/index.html:12-14` (after `<div id="index-view">` heading)
@@ -51,7 +51,7 @@ Expected: Build summary with no errors. The htmlhint and eslint checks must pass
 
 ---
 
-### Task 2: Add CSS styles for breadcrumbs and subfolder cards
+## Task 2: Add CSS styles for breadcrumbs and subfolder cards
 
 **Files:**
 - Modify: `resources/index.css` (append at end)
@@ -87,7 +87,7 @@ Expected: Build summary with no errors. Stylelint must pass.
 
 ---
 
-### Task 3: Add folder state and navigation functions to JS
+## Task 3: Add folder state and navigation functions to JS
 
 **Files:**
 - Modify: `resources/index.js:6-7` (after icon constants, before DOM element declarations)
@@ -200,7 +200,7 @@ Expected: Build summary with no errors. ESLint must pass (navigateFolder, render
 
 ---
 
-### Task 4: Integrate folder filtering into render() and URL handling
+## Task 4: Integrate folder filtering into render() and URL handling
 
 **Files:**
 - Modify: `resources/index.js` — modify `render()`, `popstate` handler, and initial load block

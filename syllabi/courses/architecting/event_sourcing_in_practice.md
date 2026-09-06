@@ -14,6 +14,7 @@ audience:
   - audiences:senior-developers
   - audiences:developers
 ---
+
 <!-- course: event_sourcing_in_practice -->
 # `Event Sourcing` In Practice
 

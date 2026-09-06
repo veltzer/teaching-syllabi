@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:developers
 ---
+
 <!-- course: c++_for_embedded_and_real_time_systems -->
 # `C++` for Embedded and Real Time Systems
 

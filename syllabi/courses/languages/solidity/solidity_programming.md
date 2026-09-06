@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:blockchain-developers
 ---
+
 <!-- course: solidity_programming -->
 # Solidity Programming
 

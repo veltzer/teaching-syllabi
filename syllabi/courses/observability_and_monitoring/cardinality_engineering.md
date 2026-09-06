@@ -13,6 +13,7 @@ audience:
   - audiences:sres
   - audiences:performance-engineers
 ---
+
 <!-- course: cardinality_engineering -->
 # Cardinality Engineering
 

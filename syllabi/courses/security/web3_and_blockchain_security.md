@@ -15,6 +15,7 @@ audience:
   - audiences:senior-developers
   - audiences:penetration-testers
 ---
+
 <!-- course: web3_and_blockchain_security -->
 # `Web3` and Blockchain Security
 

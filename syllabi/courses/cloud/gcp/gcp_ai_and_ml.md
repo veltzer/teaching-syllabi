@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: gcp_ai_and_ml -->
 # `GCP` `AI` and `Machine Learning`
 

@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: kotlin_for_android -->
 # `Kotlin` for `Android`
 

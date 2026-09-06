@@ -8,6 +8,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: introduction_to_databases -->
 # Introduction to Databases
 

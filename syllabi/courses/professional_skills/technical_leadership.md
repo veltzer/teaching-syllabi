@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:managers
 ---
+
 <!-- course: technical_leadership -->
 # Technical Leadership
 

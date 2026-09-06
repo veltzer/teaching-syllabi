@@ -13,6 +13,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:security-engineers
 ---
+
 <!-- course: firmware_update_and_ota -->
 # Firmware Update and `OTA`
 

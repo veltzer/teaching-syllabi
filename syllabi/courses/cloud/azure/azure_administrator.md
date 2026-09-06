@@ -11,6 +11,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: azure_administrator -->
 # `Azure` Administrator (AZ-104)
 

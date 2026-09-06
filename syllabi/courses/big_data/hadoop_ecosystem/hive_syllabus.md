@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: hive_syllabus -->
 # Hive
 

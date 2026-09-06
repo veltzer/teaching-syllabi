@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: large_scale_architecting -->
 # Large Scale Architecture
 
@@ -168,7 +169,7 @@ Architects and senior developers responsible for designing and maintaining large
     * progressive delivery: canary releases, feature flags
 
 ## References
-* [The 6 Pillars of the `AWS` Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-`aws`-well-architected-framework)
+* [The 6 Pillars of the `AWS` Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

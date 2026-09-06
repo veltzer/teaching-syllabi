@@ -12,6 +12,7 @@ audience:
   - audiences:team-leads
   - audiences:managers
 ---
+
 <!-- course: data_mesh -->
 # Data Mesh
 

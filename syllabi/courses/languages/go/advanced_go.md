@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: advanced_go -->
 # Advanced Go
 

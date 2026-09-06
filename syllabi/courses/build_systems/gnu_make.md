@@ -10,6 +10,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: gnu_make -->
 # GNU Make
 

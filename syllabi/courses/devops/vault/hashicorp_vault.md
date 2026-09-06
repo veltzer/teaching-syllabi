@@ -11,6 +11,7 @@ audience:
   - audiences:security-professionals
   - audiences:devops
 ---
+
 <!-- course: hashicorp_vault -->
 # `HashiCorp Vault`
 

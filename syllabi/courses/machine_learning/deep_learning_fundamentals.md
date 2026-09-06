@@ -13,6 +13,7 @@ audience:
   - audiences:data-scientists
   - audiences:architects
 ---
+
 <!-- course: deep_learning_fundamentals -->
 # `Deep Learning` Fundamentals
 

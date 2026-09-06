@@ -16,6 +16,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: embedded_linux_platform_development_with_yocto -->
 # Embedded `Linux` Platform Development with `Yocto`
 

@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: gcp_migration -->
 # Migrating to `GCP`
 

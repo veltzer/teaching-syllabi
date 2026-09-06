@@ -16,6 +16,7 @@ audience:
   - audiences:architects
   - audiences:team-leads
 ---
+
 <!-- course: data_mesh_in_practice -->
 # Data Mesh In Practice
 

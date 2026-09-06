@@ -16,6 +16,7 @@ audience:
   - audiences:data-architects
   - audiences:architects
 ---
+
 <!-- course: data_quality_and_validation -->
 # Data Quality and Validation
 

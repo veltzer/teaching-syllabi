@@ -12,6 +12,7 @@ audience:
   - audiences:testers
   - audiences:managers
 ---
+
 <!-- course: introduction_to_selenium -->
 <!-- Track gaps: Selenium Remote Control vs WebDriver comparison, Selenium Grid detailed configuration, Selenium 2.0 key features -->
 # Introduction to `Selenium`

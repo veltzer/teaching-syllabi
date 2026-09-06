@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:embedded-engineers
 ---
+
 <!-- course: mobile_communication -->
 # Mobile Communication
 

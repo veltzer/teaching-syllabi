@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: gitlab_ci_cd -->
 # `GitLab` `CI/CD`
 

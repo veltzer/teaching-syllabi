@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:managers
 ---
+
 <!-- course: multi_cloud_strategy -->
 # Multi-Cloud Strategy
 

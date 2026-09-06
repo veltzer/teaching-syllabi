@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: mysql_for_developers -->
 # `MySQL` for Developers
 

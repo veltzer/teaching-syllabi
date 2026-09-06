@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: ruby_programming -->
 # Ruby Programming
 

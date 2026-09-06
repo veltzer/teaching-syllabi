@@ -11,6 +11,7 @@ audience:
   - audiences:testers
   - audiences:architects
 ---
+
 <!-- course: contract_testing -->
 # Contract Testing
 

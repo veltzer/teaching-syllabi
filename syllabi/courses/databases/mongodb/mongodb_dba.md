@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: mongodb_dba -->
 # `MongoDB` DBA
 

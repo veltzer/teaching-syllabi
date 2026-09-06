@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: go_concurrency_deep_dive -->
 # Go Concurrency Deep Dive
 

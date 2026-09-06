@@ -12,6 +12,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: multi_core_programming -->
 # Multi Core Programming
 

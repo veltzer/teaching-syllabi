@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: embedded_linux_platform_development_with_buildroot -->
 # Embedded `Linux` Platform Development with `Buildroot`
 
@@ -138,7 +139,7 @@ correctly, as well as it's advantages and disadvantages when compared to other t
     * Contributing: understanding the development process, how to submit patches
 
 ## References
-* [slides for this course](`https`://bootlin.com/doc/training/`buildroot`/)
+* [slides for this course](https://bootlin.com/doc/training/buildroot/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

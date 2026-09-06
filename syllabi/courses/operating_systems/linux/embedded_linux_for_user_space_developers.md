@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: embedded_linux_for_user_space_developers -->
 # Embedded `Linux` for user space developers
 

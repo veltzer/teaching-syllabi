@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: yocto_for_user_space_developers -->
 # `Yocto` for Non-Kernel developers
 

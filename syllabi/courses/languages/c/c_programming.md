@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: c_programming -->
 <!-- Track gaps: the standard C library in depth, object-oriented programming techniques using C -->
 # C Programming

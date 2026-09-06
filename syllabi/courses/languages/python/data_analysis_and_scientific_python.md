@@ -14,6 +14,7 @@ audience:
   - audiences:data-scientists
 duration_hours: 32
 ---
+
 <!-- course: data_analysis_and_scientific_python -->
 # Data Analysis and Scientific `Python`
 

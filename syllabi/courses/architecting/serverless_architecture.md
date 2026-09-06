@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: serverless_architecture -->
 # Serverless Architecture
 

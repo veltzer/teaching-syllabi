@@ -16,6 +16,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: trunk_based_development_and_ci -->
 # Trunk-Based Development and `CI`
 

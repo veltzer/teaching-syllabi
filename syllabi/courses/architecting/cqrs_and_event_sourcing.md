@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:senior-developers
 ---
+
 <!-- course: cqrs_and_event_sourcing -->
 # `CQRS` and `Event Sourcing`
 

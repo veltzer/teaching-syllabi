@@ -11,6 +11,7 @@ audience:
   - audiences:devops
   - audiences:security-professionals
 ---
+
 <!-- course: dependency_management -->
 # Dependency Management
 

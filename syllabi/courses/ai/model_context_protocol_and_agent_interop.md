@@ -13,17 +13,18 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: model_context_protocol_and_agent_interop -->
 # Model Context Protocol and Agent Interoperability
 
 ## Description
-The Model Context Protocol (`MCP`), introduced by `Anthropic` in late 2024 and rapidly adopted, is the
-emerging standard for how `LLM` applications expose tools, resources, and prompts to model clients in a
-language-and-vendor-neutral way. Around it, a small ecosystem of related interop standards has grown
-(`OpenAI`'s tool-call and Responses `API`, Google's Agent2Agent protocol, the `LangChain` and
-`LlamaIndex` adapters). The catalog covers `LLM Application Engineering`, `Agentic Systems
-Engineering`, and ``AI` Agents Development`. None of those is the focused course on the protocols that
-let agents and tools interoperate across vendors.
+The Model Context Protocol (`MCP`), introduced by `Anthropic` in late 2024 and rapidly adopted, is
+the emerging standard for how `LLM` applications expose tools, resources, and prompts to model
+clients in a language-and-vendor-neutral way. Around it, a small ecosystem of related interop
+standards has grown (`OpenAI`'s tool-call and Responses `API`, Google's Agent2Agent protocol, the
+`LangChain` and `LlamaIndex` adapters). The catalog covers `LLM Application Engineering`,
+`Agentic Systems Engineering`, and `AI Agents Development`. None of those is the focused course on
+the protocols that let agents and tools interoperate across vendors.
 
 This two day course covers `MCP` and the broader agent-interop landscape from a developer's perspective.
 It covers the `MCP` architecture (host, client, server, transport), the resource/tool/prompt primitives,

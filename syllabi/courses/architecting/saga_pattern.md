@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:senior-developers
 ---
+
 <!-- course: saga_pattern -->
 # `Saga Pattern`
 

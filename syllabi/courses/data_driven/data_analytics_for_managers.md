@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:managers
 ---
+
 <!-- course: data_analytics_for_managers -->
 # Data Analytics for Managers
 
@@ -119,7 +120,7 @@ Any of the following:
     * `GCP` tools for data analytics
     * Examples from Retail (Twiggle)
     * Quick intro about concepts in modern application design: Dockers, Containers, Server-less, Micro Services,
-        Service Meshes, Virtual machines vs containers, web functions. (1 hour)
+      Service Meshes, Virtual machines vs containers, web functions. (1 hour)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

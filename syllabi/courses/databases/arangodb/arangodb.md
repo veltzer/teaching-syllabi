@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: arangodb -->
 # `ArangoDB`
 

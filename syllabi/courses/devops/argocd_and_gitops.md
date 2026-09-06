@@ -14,6 +14,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: argocd_and_gitops -->
 # `ArgoCD` & `GitOps`
 

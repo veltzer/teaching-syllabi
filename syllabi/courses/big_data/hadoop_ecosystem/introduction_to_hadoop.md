@@ -12,6 +12,7 @@ audience:
   - audiences:data-engineers
   - audiences:sysadmins
 ---
+
 <!-- course: introduction_to_hadoop -->
 # Introduction to `Hadoop`
 

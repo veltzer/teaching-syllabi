@@ -16,6 +16,7 @@ audience:
   - audiences:devops
   - audiences:performance-engineers
 ---
+
 <!-- course: opentelemetry_deep_dive -->
 # `OpenTelemetry` Deep Dive
 

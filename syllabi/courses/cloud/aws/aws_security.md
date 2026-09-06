@@ -13,6 +13,7 @@ audience:
   - audiences:security-professionals
   - audiences:devops
 ---
+
 <!-- course: aws_security -->
 <!-- Track gaps: AWS Organization and Landing Zone, interfacing other identity systems, AWS SSO (Identity Center) deep dive -->
 # `AWS` Security

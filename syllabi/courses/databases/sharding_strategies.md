@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:data-engineers
 ---
+
 <!-- course: sharding_strategies -->
 # Sharding Strategies
 

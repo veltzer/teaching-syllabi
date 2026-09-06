@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: mysql_administration -->
 # `MySQL` Administration
 

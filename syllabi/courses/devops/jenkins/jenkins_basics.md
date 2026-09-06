@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: jenkins_basics -->
 # `Jenkins` Basics
 

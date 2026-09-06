@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: hadoop_pig_and_hive -->
 # `Hadoop` Pig & Hive
 

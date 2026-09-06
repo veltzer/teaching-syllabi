@@ -9,6 +9,7 @@ audience:
   - audiences:data-scientists
   - audiences:managers
 ---
+
 <!-- course: data_governance_and_quality -->
 # Data Governance and Quality
 

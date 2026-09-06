@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:developers
 ---
+
 <!-- course: connection_pooling_and_proxies -->
 # Connection Pooling and Database Proxies
 

@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: aws_lambda_and_serverless -->
 # `AWS Lambda` and Serverless
 

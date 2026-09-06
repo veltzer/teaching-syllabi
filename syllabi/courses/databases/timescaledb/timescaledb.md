@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: timescaledb -->
 # TimescaleDB: Time-Series Database on `PostgreSQL`
 

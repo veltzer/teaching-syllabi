@@ -14,6 +14,7 @@ audience:
   - audiences:embedded-developers
   - audiences:firmware-developers
 ---
+
 <!-- course: linux_kernel_modules_and_drivers -->
 # `Linux` Kernel Modules and Drivers
 

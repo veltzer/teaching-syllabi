@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: haskell_programming -->
 # `Haskell` Programming
 

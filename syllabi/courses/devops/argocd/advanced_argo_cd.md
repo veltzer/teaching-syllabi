@@ -12,6 +12,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: advanced_argo_cd -->
 # Advanced `Argo CD`
 

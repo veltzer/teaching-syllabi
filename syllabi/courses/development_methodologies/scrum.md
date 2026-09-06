@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:managers
 ---
+
 <!-- course: scrum -->
 # Scrum
 

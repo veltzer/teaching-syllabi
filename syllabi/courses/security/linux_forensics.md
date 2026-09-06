@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:security-professionals
 ---
+
 <!-- course: linux_forensics -->
 # `Linux` Forensics
 
@@ -39,10 +40,10 @@ The course helps prepare for the certification exam CLFP (7Safe).
 ## Outline
 <!-- chapter: computer-hardware, duration: 6h -->
 * Computer Hardware
-    The first module will cover different components of
-    computer hardware. Students will learn the main
-    components of Storage-Disks, and the structure of
-    the `Linux` OS.
+  The first module will cover different components of
+  computer hardware. Students will learn the main
+  components of Storage-Disks, and the structure of
+  the `Linux` OS.
     * Drives and Disks
         * The Anatomy of a Drive
         * Data Sizes
@@ -56,10 +57,10 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Understanding Shells
 <!-- chapter: forensic-fundamentals, duration: 9h -->
 * Forensic Fundamentals
-    This module will expose students to the internal
-    components of the `Linux` OS. Students will learn
-    about tools that will help them with the Forensics
-    investigation process.
+  This module will expose students to the internal
+  components of the `Linux` OS. Students will learn
+  about tools that will help them with the Forensics
+  investigation process.
     * Understanding Hashes and Encodings
         * Hash as a Digital Signature
         * The Use of Hash for Forensics
@@ -79,12 +80,12 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Working with Clusters
 <!-- chapter: collecting-evidence, duration: 8h -->
 * Collecting Evidence
-    Students will master techniques for collecting
-    evidence during this module, accessing, and
-    retrieving volatile and non-volatile information.
-    Students will master techniques for collecting
-    evidence, accessing, and retrieving volatile and non-
-    volatile information.
+  Students will master techniques for collecting
+  evidence during this module, accessing, and
+  retrieving volatile and non-volatile information.
+  Students will master techniques for collecting
+  evidence, accessing, and retrieving volatile and non-
+  volatile information.
     * Forensic Data Carving
         * Using Bvi for Forensics Carving
         * Automatic `File` Carving Tools
@@ -101,9 +102,9 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Capturing Volatile-Memory using `LiME` vs. using fmem
 <!-- chapter: analyzing-forensic-findings, duration: 8h -->
 * Analyzing Forensic Findings
-    In this module, students will understand how to
-    uncover hidden information, detect tampered files,
-    work with memory, and analyze the `RAM`.
+  In this module, students will understand how to
+  uncover hidden information, detect tampered files,
+  work with memory, and analyze the `RAM`.
     * Analyzing captured images
         * Features of FTK `CLI`
         * Analyzing Inode Numbering
@@ -120,11 +121,11 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Dumping Processes from Memory
 <!-- chapter: data-labelling-and-report-writing, duration: 9h -->
 * Data Labelling and Report Writing
-    Participants will study different forensics reports
-    prepared by investigators following past incidents
-    and learn how to write a professional summary,
-    including which points to consider when addressing
-    the documentation of findings of an event.
+  Participants will study different forensics reports
+  prepared by investigators following past incidents
+  and learn how to write a professional summary,
+  including which points to consider when addressing
+  the documentation of findings of an event.
     * Introduction to Report Writing
         * Device Identification
         * Preservation of Data
@@ -138,12 +139,12 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Dradis
 
 ## References
-* [FTK Imager Documentation](`https`://www.exterro.com/ftk-imager)
-* [Autopsy Digital Forensics Platform](`https`://www.autopsy.com/)
-* [`Linux` Memory Extractor (LiME)](https://github.com/504ensicsLabs/`LiME`)
-* [7Safe CLFP Certification](`https`://www.7safe.com/)
-* [`GDB`: The GNU Project Debugger](https://www.gnu.org/software/`gdb`/)
-* [Dradis Framework](`https`://dradisframework.com/)
+* [FTK Imager Documentation](https://www.exterro.com/ftk-imager)
+* [Autopsy Digital Forensics Platform](https://www.autopsy.com/)
+* [`Linux` Memory Extractor (LiME)](https://github.com/504ensicsLabs/LiME)
+* [7Safe CLFP Certification](https://www.7safe.com/)
+* [`GDB`: The GNU Project Debugger](https://www.gnu.org/software/gdb/)
+* [Dradis Framework](https://dradisframework.com/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

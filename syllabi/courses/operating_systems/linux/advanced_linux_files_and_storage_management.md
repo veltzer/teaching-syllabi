@@ -15,6 +15,7 @@ audience:
   - audiences:security-professionals
   - audiences:devops
 ---
+
 <!-- course: advanced_linux_files_and_storage_management -->
 # Advanced `Linux` Files and Storage Management
 
@@ -120,13 +121,13 @@ This advanced course is designed for experienced `Linux` system administrators, 
     * Review and best practices for enterprise `Linux` storage management
 
 ## References
-* [`Linux` `File` System Hierarchy Standard](`https`://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.`pdf`)
-* [`LVM` HOWTO](`https`://tldp.org/HOWTO/`LVM`-HOWTO/)
-* [mdadm Manual](`https`://`linux`.die.net/man/8/mdadm)
-* [`NFS` Documentation](`https`://`nfs`.sourceforge.net/)
-* [Ceph Documentation](`https`://docs.ceph.com/)
-* [GlusterFS Documentation](`https`://docs.gluster.org/)
-* [LUKS Disk Encryption](`https`://`gitlab`.com/cryptsetup/cryptsetup/-/wikis/home)
+* [`Linux` `File` System Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+* [`LVM` HOWTO](https://tldp.org/HOWTO/LVM-HOWTO/)
+* [mdadm Manual](https://linux.die.net/man/8/mdadm)
+* [`NFS` Documentation](https://nfs.sourceforge.net/)
+* [Ceph Documentation](https://docs.ceph.com/)
+* [GlusterFS Documentation](https://docs.gluster.org/)
+* [LUKS Disk Encryption](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

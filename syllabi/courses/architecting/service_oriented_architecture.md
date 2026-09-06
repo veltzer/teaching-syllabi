@@ -15,6 +15,7 @@ audience:
   - audiences:architects
   - audiences:team-leads
 ---
+
 <!-- course: service_oriented_architecture -->
 # `Service-Oriented Architecture`
 

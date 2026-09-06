@@ -11,6 +11,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: argo_cd -->
 # `Argo CD`
 

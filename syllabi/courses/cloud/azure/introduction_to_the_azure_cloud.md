@@ -10,6 +10,7 @@ audience:
   - audiences:sysadmins
   - audiences:managers
 ---
+
 <!-- course: introduction_to_the_azure_cloud -->
 # Introduction to the `Azure` Cloud
 

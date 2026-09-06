@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: git_and_gerrit -->
 # `Git` and `Gerrit`
 

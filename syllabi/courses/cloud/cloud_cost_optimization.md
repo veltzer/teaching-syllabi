@@ -16,6 +16,7 @@ audience:
   - audiences:sres
   - audiences:architects
 ---
+
 <!-- course: cloud_cost_optimization -->
 # Cloud Cost Optimization
 

@@ -10,6 +10,7 @@ audience:
   - audiences:data-scientists
   - audiences:architects
 ---
+
 <!-- course: neo4j_graph_databases -->
 # `Neo4j` Graph Databases
 

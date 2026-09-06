@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: gradle -->
 <!-- Track gaps: Groovy basics introduction, IDE integration, Gradle Wrapper details, multi-project builds detail -->
 # `Gradle`

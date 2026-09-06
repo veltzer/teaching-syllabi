@@ -11,6 +11,7 @@ audience:
   - audiences:data-scientists
   - audiences:data-analysts
 ---
+
 <!-- course: data_visualization_with_python -->
 # Data Visualization with `Python`
 

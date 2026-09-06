@@ -9,6 +9,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: typescript_programming -->
 # `TypeScript` Programming
 

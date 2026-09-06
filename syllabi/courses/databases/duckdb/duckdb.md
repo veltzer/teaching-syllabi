@@ -13,6 +13,7 @@ audience:
   - audiences:data-engineers
   - audiences:data-scientists
 ---
+
 <!-- course: duckdb -->
 # `DuckDB`
 

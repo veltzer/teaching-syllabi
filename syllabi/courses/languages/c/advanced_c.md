@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:firmware-developers
 ---
+
 <!-- course: advanced_c -->
 # Advanced C Programming
 

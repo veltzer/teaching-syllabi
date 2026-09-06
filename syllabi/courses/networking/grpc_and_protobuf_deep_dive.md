@@ -14,6 +14,7 @@ audience:
   - audiences:senior-developers
   - audiences:architects
 ---
+
 <!-- course: grpc_and_protobuf_deep_dive -->
 # `gRPC` and `Protobuf` Deep Dive
 

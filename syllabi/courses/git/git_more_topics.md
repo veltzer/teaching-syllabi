@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: git_more_topics -->
 # `Git` Advanced Topics
 

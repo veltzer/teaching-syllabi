@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: diffusion_models -->
 # Diffusion Models
 

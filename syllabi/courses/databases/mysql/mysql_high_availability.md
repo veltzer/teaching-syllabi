@@ -13,6 +13,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: mysql_high_availability -->
 # `MySQL` High Availability
 

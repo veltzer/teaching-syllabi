@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: kubernetes_operators -->
 # `Kubernetes` Operators
 

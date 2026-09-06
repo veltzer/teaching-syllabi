@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:sysadmins
 ---
+
 <!-- course: elk -->
 # `ELK Stack` (`Elasticsearch`, `Logstash`, `Kibana`)
 

@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: clickhouse_for_developers -->
 # `ClickHouse` for Developers
 

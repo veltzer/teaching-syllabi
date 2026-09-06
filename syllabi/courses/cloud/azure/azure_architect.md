@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: azure_architect -->
 # `Azure` Solutions Architect
 

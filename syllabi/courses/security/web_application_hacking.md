@@ -14,6 +14,7 @@ audience:
   - audiences:testers
 duration_hours: 40
 ---
+
 <!-- course: web_application_hacking -->
 # Web Application Hacking
 
@@ -151,9 +152,9 @@ These are the exercises that we will do:
     * Workshop summary
 
 ## References
-* [TryHackMe](`https`://tryhackme.com/dashboard)
-* [HackThisSite](`https`://www.hackthissite.org)
-* [CTFlearn](`https`://ctflearn.com)
+* [TryHackMe](https://tryhackme.com/dashboard)
+* [HackThisSite](https://www.hackthissite.org)
+* [CTFlearn](https://ctflearn.com)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

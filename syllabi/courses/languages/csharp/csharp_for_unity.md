@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: csharp_for_unity -->
 # `C#` for `Unity`
 

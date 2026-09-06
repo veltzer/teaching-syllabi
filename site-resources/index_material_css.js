@@ -76,7 +76,6 @@ function showSyllabus(path) {
         .then(function(r) { return r.ok ? r.text() : Promise.reject(r.status); })
         .then(function(html) {
             syllabusContent.innerHTML = html;
-            var entry = DATA.find(function(e) { return e.path === path; });
 
             window.scrollTo(0, 0);
         })
@@ -385,3 +384,10 @@ if (location.hash && location.hash.startsWith("#syllabus=")) {
 }
 
 initThemeSwitcher();
+
+// Called from inline onclick handlers in HTML built by this file, so
+// they must be reachable as globals; the assignment makes that explicit.
+window.goBack = goBack;
+window.printSyllabus = printSyllabus;
+window.printCourse = printCourse;
+window.navigateFolder = navigateFolder;

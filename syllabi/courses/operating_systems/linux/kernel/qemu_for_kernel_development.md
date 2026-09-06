@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: qemu_for_kernel_development -->
 # `QEMU` for Kernel Developers
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: solid_clean_code -->
 # `SOLID` Principles and Clean Code
 

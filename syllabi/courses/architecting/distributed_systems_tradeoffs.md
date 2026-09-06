@@ -15,6 +15,7 @@ audience:
   - audiences:developers
   - audiences:dbas
 ---
+
 <!-- course: distributed_systems_tradeoffs -->
 # Distributed Systems Tradeoffs
 

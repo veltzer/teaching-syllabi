@@ -8,6 +8,7 @@ duration_hours: 56
 audience:
   - audiences:data-scientists
 ---
+
 <!-- course: ml1 -->
 # `Machine Learning` Theory and `Deep Learning`
 

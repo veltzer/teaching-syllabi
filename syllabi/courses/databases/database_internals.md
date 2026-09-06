@@ -16,6 +16,7 @@ audience:
   - audiences:dbas
   - audiences:architects
 ---
+
 <!-- course: database_internals -->
 # Database Internals
 

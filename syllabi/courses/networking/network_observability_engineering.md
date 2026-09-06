@@ -14,12 +14,13 @@ audience:
   - audiences:sres
   - audiences:senior-developers
 ---
+
 <!-- course: network_observability_engineering -->
 # Network Observability Engineering
 
 ## Description
-The catalog has `Network Troubleshooting`, `Networking Basics`, the per-cloud networking courses, and
-`OpenTelemetry Deep Dive` for general observability. None of them is the focused course on the
+The catalog has `Network Troubleshooting`, `Networking Basics`, the per-cloud networking courses,
+and `OpenTelemetry Deep Dive` for general observability. None of them is the focused course on the
 discipline of making a network observable: instrumenting the data path, capturing flows, tracing
 across hops, debugging tail latency, finding the slow link, finding the dropped packet, and
 attributing a slow request to a specific point in the network.
@@ -29,12 +30,12 @@ canonical signals (`flows`, packet capture, latency-from-each-hop, retransmits, 
 metrics), the legacy tools (`SNMP`, NetFlow/sFlow/IPFIX, `tcpdump`/Wireshark, mtr, `traceroute`),
 the modern tools (`eBPF`-based observability with `Cilium Hubble`, Pixie, `Inspektor Gadget`,
 `bpftrace`, Pyroscope for kernel profiling), the `RUM`-style end-user network observability
-(`OpenTelemetry`, Sentry, real user monitoring tools), the cloud network observability (```VPC`` Flow
-Logs`, ``Azure` NSG Flow Logs`, ``GCP` `VPC` Flow Logs`), the service-mesh observability (Istio, ``Linkerd``,
-`Cilium`), the per-tenant or per-service segmentation, the alerting and `SLO` story, the cost shape,
-and the patterns that distinguish a network you can debug from one you cannot. Examples include real
-production debugging walkthroughs. Participants leave able to instrument and operate network
-observability across cloud, on-prem, and edge.
+(`OpenTelemetry`, Sentry, real user monitoring tools), the cloud network observability
+(`VPC Flow Logs`, `Azure NSG Flow Logs`, `GCP VPC Flow Logs`), the service-mesh observability
+(`Istio`, `Linkerd`, `Cilium`), the per-tenant or per-service segmentation, the alerting and `SLO`
+story, the cost shape, and the patterns that distinguish a network you can debug from one you
+cannot. Examples include real production debugging walkthroughs. Participants leave able to
+instrument and operate network observability across cloud, on-prem, and edge.
 
 ## Duration
 24 hours / 3 days

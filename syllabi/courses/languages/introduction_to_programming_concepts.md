@@ -7,6 +7,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: introduction_to_programming_concepts -->
 # Introduction to Programming Concepts
 

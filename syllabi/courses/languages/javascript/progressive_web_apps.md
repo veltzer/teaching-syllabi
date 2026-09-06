@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: progressive_web_apps -->
 # Progressive Web Apps (PWA)
 

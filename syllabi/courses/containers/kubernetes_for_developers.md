@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: kubernetes_for_developers -->
 # `Kubernetes` for Developers
 

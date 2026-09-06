@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: advanced_design_patterns -->
 # Advanced `design patterns`
 
@@ -166,7 +167,7 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
 * `Design patterns` from the functional world
     * Monads
     * Maybe
-    ...
+  ...
 <!-- chapter: meta-patterns, duration: 7h -->
 * Meta patterns
     * Multi `threading`

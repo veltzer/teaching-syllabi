@@ -8,6 +8,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: c_design_patterns -->
 # C `Design Patterns`
 
@@ -69,7 +70,7 @@ This course teaches classical software `design patterns` and how to implement th
     * Visitor
 
 ## References
-* [software `design patterns`](`http`://en.wikipedia.org/wiki/Software_design_pattern)
+* [software `design patterns`](http://en.wikipedia.org/wiki/Software_design_pattern)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

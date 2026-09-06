@@ -16,6 +16,7 @@ audience:
   - audiences:network-engineers
   - audiences:architects
 ---
+
 <!-- course: edge_computing_and_cdn -->
 # Edge Computing and `CDN`
 

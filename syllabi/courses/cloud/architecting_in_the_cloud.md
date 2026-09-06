@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: architecting_in_the_cloud -->
 # Architecting in the Cloud
 

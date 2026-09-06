@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:developers
 ---
+
 <!-- course: fluxcd -->
 # `Flux CD`
 

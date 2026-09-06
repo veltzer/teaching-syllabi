@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:developers
 ---
+
 <!-- course: working_with_hardware -->
 # Working with Hardware
 

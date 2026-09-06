@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: dart_and_flutter -->
 # Dart and `Flutter`
 

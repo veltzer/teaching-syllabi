@@ -11,6 +11,7 @@ audience:
   - audiences:devops
   - audiences:team-leads
 ---
+
 <!-- course: advanced_git -->
 # Advanced `Git`
 

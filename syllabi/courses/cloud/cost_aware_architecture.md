@@ -13,6 +13,7 @@ audience:
   - audiences:team-leads
   - audiences:devops
 ---
+
 <!-- course: cost_aware_architecture -->
 # Cost-Aware Architecture
 

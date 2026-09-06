@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: postgresql_administration -->
 # `PostgreSQL` Administration
 

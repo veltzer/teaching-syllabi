@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: apache_spark_with_scala -->
 # `Apache Spark` with `Scala`
 

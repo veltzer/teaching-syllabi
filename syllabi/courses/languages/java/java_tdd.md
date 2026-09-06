@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: java_tdd -->
 # `Java` `TDD`
 
@@ -87,8 +88,8 @@ third party tools that will be discussed in the development section.
         * Creating unit tests with `JUnit`.
         * Exercise: Getting to know `JUNIT`.
             * Writing simple tests and running them.
-            the participants will write their first `JUnit` tests. They will get
-            to know the `eclipse` facilities for `JUnit`.
+  the participants will write their first `JUnit` tests. They will get
+  to know the `eclipse` facilities for `JUnit`.
         * Advanced `JUnit` topics:
             * Test hierarchies
             * common fixtures
@@ -96,22 +97,22 @@ third party tools that will be discussed in the development section.
             * common pitfalls
         * Exercise: Writing good tests.
             * Writing good tests for a lecturer provided `Java` module.
-            Objective: learn how to write the tests *CORRECTLY* so that they will cover
-            as much of the functionality as possible.
+  Objective: learn how to write the tests *CORRECTLY* so that they will cover
+  as much of the functionality as possible.
         * Using `JUnit` with Ant
         * Exercise: Running `ant` for automated unit tests with reporting
-            Objective: learn how to write your tests in such a way as to be easily runnable
-            from `ant`. Learn how to produce test run results from `ant` in several formats.
+          Objective: learn how to write your tests in such a way as to be easily runnable
+          from `ant`. Learn how to produce test run results from `ant` in several formats.
     * Big exercise: learning to refactor code for testing
-        The lecturer will provide a "badly" written code which is hard to test.
-        The students will need to refactor the code, while preserving it's
-        functionality, in order to `make` it "test ready" and write tests for it.
-        Then the students will write tests for it covering as much of the functionality
-        as possible.
-        The exercise will be followed by a discussion of the various strategies and `Java`
-        features that can be used to achieve such refactoring (extracting interfaces,
-        creating parent classes, inner classes, anonymous classes, etc) with their
-        relative advantages/disadvantages.
+      The lecturer will provide a "badly" written code which is hard to test.
+      The students will need to refactor the code, while preserving it's
+      functionality, in order to `make` it "test ready" and write tests for it.
+      Then the students will write tests for it covering as much of the functionality
+      as possible.
+      The exercise will be followed by a discussion of the various strategies and `Java`
+      features that can be used to achieve such refactoring (extracting interfaces,
+      creating parent classes, inner classes, anonymous classes, etc) with their
+      relative advantages/disadvantages.
     * Technologies
         * JUnitEE
             * Configuring a JEE project with JUnitEE
@@ -128,8 +129,8 @@ third party tools that will be discussed in the development section.
             * The theory behind JMockit
             * JMockit by example
             * Exercise: Use JMockit to redo the big exercise.
-                The idea is to see how JMockit eases the developers job
-                using annotations, dependency injection and the like.
+              The idea is to see how JMockit eases the developers job
+              using annotations, dependency injection and the like.
         * PMD
             * What is PMD for?
             * Using PMD from the command line

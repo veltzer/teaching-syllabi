@@ -14,6 +14,7 @@ audience:
   - audiences:senior-developers
   - audiences:team-leads
 ---
+
 <!-- course: event_storming_and_domain_modeling -->
 # Event Storming and Domain Modeling
 

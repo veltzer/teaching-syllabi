@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: advanced_gradle -->
 # Advanced `Gradle`
 

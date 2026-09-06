@@ -11,6 +11,7 @@ audience:
   - audiences:managers
   - audiences:testers
 ---
+
 <!-- course: development_methodologies -->
 # Development Methodologies from the professionals
 
@@ -62,7 +63,7 @@ developer and your development environment more productive.
     * Must be fast
 <!-- chapter: debugging, duration: 1h -->
 * Debugging
-    * [do not use a debugger](`https`://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
+    * [do not use a debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
     * Heisenbugs.
     * Alternatives to debugging
         * reading your code

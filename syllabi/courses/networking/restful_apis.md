@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: restful_apis -->
 # `RESTful APIs` Development
 

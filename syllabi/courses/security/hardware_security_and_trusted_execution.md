@@ -13,30 +13,31 @@ audience:
   - audiences:architects
   - audiences:embedded-developers
 ---
+
 <!-- course: hardware_security_and_trusted_execution -->
 # Hardware Security and Trusted Execution
 
 ## Description
-Hardware-rooted security — the `TPM`, the secure element, the `HSM`, the `TEE`, confidential computing
-on `SEV-SNP`, TDX, and the `Apple Secure Enclave` — has gone from "the right thing for some
-specialized cases" to "the foundation of consumer device security and increasingly of cloud workloads."
-The catalog has `Cryptography Fundamentals`, `Cryptographic Engineering`, `Embedded Systems Security`,
-`PKI and Certificates`, `Identity and Access Management`, and `Working with LLMs Securely`. None of
-those is the focused course on hardware-backed trust: what these primitives actually do, how they
-attest to a verifier, how a system designs around them, and the failure modes when they are
-misunderstood.
+Hardware-rooted security — the `TPM`, the secure element, the `HSM`, the `TEE`, confidential
+computing on `SEV-SNP`, TDX, and the `Apple Secure Enclave` — has gone from "the right thing for
+some specialized cases" to "the foundation of consumer device security and increasingly of cloud
+workloads." The catalog has `Cryptography Fundamentals`, `Cryptographic Engineering`,
+`Embedded Systems Security`, `PKI and Certificates`, `Identity and Access Management`, and
+`Working with LLMs Securely`. None of those is the focused course on hardware-backed trust: what
+these primitives actually do, how they attest to a verifier, how a system designs around them, and
+the failure modes when they are misunderstood.
 
 This three day course covers hardware-rooted security and trusted execution as a focused engineering
 practice. It covers the hardware primitives (`TPM 2.0`, secure elements, HSMs, `TEEs`), the
 `Trusted Execution Environments` on the major platforms (`Intel SGX`, `Intel TDX`, `AMD SEV-SNP`,
 `Arm CCA`, `Apple Secure Enclave`), the `Confidential Computing` model (cloud `VMs` with verified
-runtime attestation), the attestation protocol (what the verifier checks and how), the `Confidential
-Computing Consortium` standards, the application-level integration (`Microsoft Always Encrypted with
-Secure Enclaves`, `Google Confidential VMs`, ``AWS` Nitro Enclaves`), the WebAuthn and `passkey`
-foundations on hardware, the `mTLS`-with-hardware-key story, the operational realities, and the
-patterns that distinguish "we have hardware-backed security" from "we have a checkbox." Examples cover
-real production systems. Participants leave able to design a system that uses hardware trust
-deliberately.
+runtime attestation), the attestation protocol (what the verifier checks and how), the
+`Confidential Computing Consortium` standards, the application-level integration
+(`Microsoft Always Encrypted with Secure Enclaves`, `Google Confidential VMs`,
+`AWS Nitro Enclaves`), the `WebAuthn` and `passkey` foundations on hardware, the
+`mTLS`-with-hardware-key story, the operational realities, and the patterns that distinguish "we
+have hardware-backed security" from "we have a checkbox." Examples cover real production systems.
+Participants leave able to design a system that uses hardware trust deliberately.
 
 ## Duration
 24 hours / 3 days

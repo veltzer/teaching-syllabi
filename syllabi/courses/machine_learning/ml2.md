@@ -8,6 +8,7 @@ duration_hours: 56
 audience:
   - audiences:data-scientists
 ---
+
 <!-- course: ml2 -->
 # `Machine learning`
 

@@ -11,6 +11,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: git -->
 # `Git`
 

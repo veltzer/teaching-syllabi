@@ -10,6 +10,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: introduction_to_cloud_foundry -->
 # Introduction to CloudFoundry
 

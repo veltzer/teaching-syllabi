@@ -14,6 +14,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: linux_networking -->
 # `Linux` networking
 
@@ -129,8 +130,8 @@ administration levels.
     * raw sockets.
 
 ## References
-* [ku-latency](`http`://vilimpoc.org/research/ku-latency/)
-* [vj_channels](`http`://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels)
+* [ku-latency](http://vilimpoc.org/research/ku-latency/)
+* [vj_channels](http://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

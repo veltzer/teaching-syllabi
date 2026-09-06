@@ -46,9 +46,6 @@ src_dirs = ["config", "print"]
 [processor.taplo]
 src_dirs = ["."]
 
-[processor.iyamllint]
-src_dirs = ["tracks"]
-
 [processor.ijsonlint]
 src_dirs = ["."]
 
@@ -142,3 +139,14 @@ output_dirs = ["_site"]
 # lint the GitHub Actions workflow files with actionlint
 [processor.actionlint]
 src_dirs = [".github/workflows"]
+
+# ─── markdown ────────────────────────────────────────────────────────────────
+
+[processor.rumdl]
+src_dirs = ["doc", "syllabi/courses"]
+src_files = ["CLAUDE.md", "README.md"]
+
+# ─── yaml ────────────────────────────────────────────────────────────────────
+
+[processor.yamllint]
+src_dirs = ["tracks"]

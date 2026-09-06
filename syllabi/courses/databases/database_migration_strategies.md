@@ -11,6 +11,7 @@ audience:
   - audiences:dbas
   - audiences:devops
 ---
+
 <!-- course: database_migration_strategies -->
 # Database Migration Strategies
 

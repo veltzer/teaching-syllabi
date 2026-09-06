@@ -12,6 +12,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:developers
 ---
+
 <!-- course: embedded_programming_for_bare_metal -->
 # Embedded Programming for Bare Metal
 

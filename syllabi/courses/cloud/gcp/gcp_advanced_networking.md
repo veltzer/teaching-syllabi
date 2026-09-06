@@ -15,6 +15,7 @@ audience:
   - audiences:sysadmins
 duration_hours: 32
 ---
+
 <!-- course: gcp_advanced_networking -->
 # `GCP` Advanced Networking with Labs
 

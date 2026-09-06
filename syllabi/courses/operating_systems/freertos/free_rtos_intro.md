@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: free_rtos_intro -->
 # `FreeRTOS` intro
 

@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: terminal_productivity -->
 # Terminal Productivity
 

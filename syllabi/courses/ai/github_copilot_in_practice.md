@@ -15,6 +15,7 @@ audience:
   - audiences:team-leads
   - audiences:devops
 ---
+
 <!-- course: github_copilot_in_practice -->
 # `GitHub Copilot` in Practice
 
@@ -244,20 +245,20 @@ an organization.
 Each student should have:
 
 * A laptop with `VS Code` installed and permission to install extensions.
-    Students who prefer a `JetBrains` IDE may use one, but some agent-related
-    features will be demonstrated in `VS Code` only.
+  Students who prefer a `JetBrains` IDE may use one, but some agent-related
+  features will be demonstrated in `VS Code` only.
 * A `GitHub` account with an active `GitHub Copilot` subscription (any paid
-    plan; for the long version of the course a Business or Enterprise plan is
-    required for the administration chapter to be exercised, otherwise it is
-    demonstrated by the instructor).
+  plan; for the long version of the course a Business or Enterprise plan is
+  required for the administration chapter to be exercised, otherwise it is
+  demonstrated by the instructor).
 * `git` installed and configured, and permission to create repositories on
-    `GitHub`.
+  `GitHub`.
 * A real code repository the student is comfortable experimenting with. A
-    clone of an open source project is fine if no private repository is
-    available.
+  clone of an open source project is fine if no private repository is
+  available.
 * `node` and `npm` installed for running local `MCP` servers.
 * Free, wide band, access to the internet with no corporate firewall that
-    blocks `GitHub` or the Copilot endpoints.
+  blocks `GitHub` or the Copilot endpoints.
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

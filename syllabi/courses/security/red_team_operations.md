@@ -13,6 +13,7 @@ audience:
   - audiences:management
   - audiences:senior-developers
 ---
+
 <!-- course: red_team_operations -->
 # Red Team Operations
 

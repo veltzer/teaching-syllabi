@@ -11,6 +11,7 @@ audience:
   - audiences:architects
   - audiences:managers
 ---
+
 <!-- course: legacy_modernization -->
 # Legacy Modernization
 

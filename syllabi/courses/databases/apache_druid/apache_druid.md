@@ -13,6 +13,7 @@ audience:
   - audiences:data-engineers
   - audiences:architects
 ---
+
 <!-- course: apache_druid -->
 # `Apache Druid`
 

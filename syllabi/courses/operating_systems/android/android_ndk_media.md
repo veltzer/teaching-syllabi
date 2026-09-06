@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: android_ndk_media -->
 # `Android` Media at the Native layer
 
@@ -63,8 +64,8 @@ This course covers media programming at the native layer of the `Android` platfo
     * Examples
 
 ## References
-* [Audio Streaming](`http`://audioprograming.wordpress.com/2012/03/03/`android`-audio-streaming-with-opensl-es-and-the-`ndk`/)
-* [OpenSL](`http`://www.slideshare.net/DSPIP/`android`-audio-opensl)
+* [Audio Streaming](http://audioprograming.wordpress.com/2012/03/03/android-audio-streaming-with-opensl-es-and-the-ndk/)
+* [OpenSL](http://www.slideshare.net/DSPIP/android-audio-opensl)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

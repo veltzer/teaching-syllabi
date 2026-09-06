@@ -15,6 +15,7 @@ audience:
   - audiences:qa-engineers
   - audiences:testers
 ---
+
 <!-- course: property_based_testing -->
 # Property-Based Testing
 

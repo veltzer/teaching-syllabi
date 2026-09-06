@@ -13,6 +13,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: platform_engineering -->
 # Platform Engineering
 

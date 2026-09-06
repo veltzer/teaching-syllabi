@@ -15,6 +15,7 @@ audience:
   - audiences:security-engineers
   - audiences:architects
 ---
+
 <!-- course: ai_safety_and_alignment -->
 # `AI` Safety and Alignment
 

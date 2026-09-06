@@ -10,6 +10,7 @@ audience:
   - audiences:security-professionals
   - audiences:testers
 ---
+
 <!-- course: reverse_engineering_and_binary_analysis -->
 # Reverse Engineering and Binary Analysis
 

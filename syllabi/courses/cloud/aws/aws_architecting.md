@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: aws_architecting -->
 # `AWS` architecting
 
@@ -51,7 +52,7 @@ in which case and be able to monitor and change their decisions as conditions ch
 exam.
 
 ## Exercises
-* [Real live exercises](`https`://amazon.qwiklabs.com)
+* [Real live exercises](https://amazon.qwiklabs.com)
 
 ## Outline
 <!-- chapter: aws-overview, duration: 1h -->

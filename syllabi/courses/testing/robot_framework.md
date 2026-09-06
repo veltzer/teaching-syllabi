@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:testers
 ---
+
 <!-- course: robot_framework -->
 # `Robot Framework`
 

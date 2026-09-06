@@ -11,6 +11,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: introduction_to_puppet -->
 # Introduction to Puppet
 

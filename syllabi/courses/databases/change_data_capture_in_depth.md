@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: change_data_capture_in_depth -->
 # Change Data Capture in Depth
 

@@ -13,6 +13,7 @@ audience:
   - audiences:sres
   - audiences:performance-engineers
 ---
+
 <!-- course: distributed_tracing_in_practice -->
 # Distributed Tracing in Practice
 

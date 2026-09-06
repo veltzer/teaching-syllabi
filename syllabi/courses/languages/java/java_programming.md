@@ -10,6 +10,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: java_programming -->
 # `Java` Programming
 

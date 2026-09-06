@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:sres
 ---
+
 <!-- course: linux_high_availability -->
 # `Linux` High Availability
 

@@ -15,6 +15,7 @@ audience:
   - audiences:developers
   - audiences:testers
 ---
+
 <!-- course: linux_kernel_fuzzing_and_root_cause_analysis -->
 # `Linux` Kernel Fuzzing and Root Cause Analysis
 
@@ -118,14 +119,14 @@ Upon completion, delegates will be able to:
     * Next steps: advanced research topics and tools
 
 ## References
-* [syzkaller - kernel fuzzer](`https`://`github`.com/google/syzkaller)
-* [Trinity - `Linux` system call fuzzer](`https`://`github`.com/kernelslacker/trinity)
-* [AFL - American Fuzzy Lop](`https`://lcamtuf.coredump.cx/afl/)
-* [`Linux` Kernel Documentation](`https`://www.kernel.org/doc/)
-* [Kernel Address Sanitizer (KASAN)](`https`://www.kernel.org/doc/`html`/latest/dev-tools/kasan.`html`)
-* [drgn - kernel debugger](`https`://`github`.com/osandov/drgn)
-* [crash utility](`https`://`github`.com/crash-utility/crash)
-* [`Linux` Kernel Exploitation](`https`://`github`.com/xairy/`linux`-kernel-exploitation)
+* [syzkaller - kernel fuzzer](https://github.com/google/syzkaller)
+* [Trinity - `Linux` system call fuzzer](https://github.com/kernelslacker/trinity)
+* [AFL - American Fuzzy Lop](https://lcamtuf.coredump.cx/afl/)
+* [`Linux` Kernel Documentation](https://www.kernel.org/doc/)
+* [Kernel Address Sanitizer (KASAN)](https://www.kernel.org/doc/html/latest/dev-tools/kasan.html)
+* [drgn - kernel debugger](https://github.com/osandov/drgn)
+* [crash utility](https://github.com/crash-utility/crash)
+* [`Linux` Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:performance-engineers
 ---
+
 <!-- course: mysql_performance_tuning -->
 # `MySQL` Performance Tuning
 

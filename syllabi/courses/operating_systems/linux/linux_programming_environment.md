@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: linux_programming_environment -->
 # `Linux` programming environment
 

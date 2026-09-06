@@ -15,6 +15,7 @@ audience:
   - audiences:devops
 duration_hours: 40
 ---
+
 <!-- course: elasticsearch_dba -->
 # `Elasticsearch` DBA
 

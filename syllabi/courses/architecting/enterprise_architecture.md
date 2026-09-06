@@ -13,6 +13,7 @@ audience:
   - audiences:managers
   - audiences:developers
 ---
+
 <!-- course: enterprise_architecture -->
 # Enterprise Architecture
 
@@ -97,7 +98,7 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
     * Rate limiting and throttling
     * `API` versioning strategies
     * Developer portals and documentation
-    * `API` security (`OAuth 2.0`, ```API`` keys`, `JWT`)
+    * `API` security (`OAuth 2.0`, `API keys`, `JWT`)
     * `API` monetization
 <!-- chapter: data-architecture, duration: 2h -->
 * Data Architecture

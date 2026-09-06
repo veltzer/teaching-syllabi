@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:team-leads
 ---
+
 <!-- course: agile_and_scrum -->
 <!-- Track gaps: Extreme Programming (XP) methodology overview, Unified Process, Lean principles, process control models, Planning Poker estimation technique -->
 # Agile & Scrum for Developers

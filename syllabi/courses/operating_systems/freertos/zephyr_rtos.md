@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: zephyr_rtos -->
 # Zephyr RTOS
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: graph_neural_networks -->
 # Graph Neural Networks
 

@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:testers
 ---
+
 <!-- course: testing_theory -->
 # Testing theory
 

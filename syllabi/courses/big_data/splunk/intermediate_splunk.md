@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:sysadmins
 ---
+
 <!-- course: intermediate_splunk -->
 # Intermediate `Splunk`
 

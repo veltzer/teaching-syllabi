@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:dbas
 ---
+
 <!-- course: postgresql_internals -->
 # `PostgreSQL` Internals
 

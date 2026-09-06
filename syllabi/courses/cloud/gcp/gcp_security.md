@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:sres
 ---
+
 <!-- course: gcp_security -->
 # `GCP` Security
 

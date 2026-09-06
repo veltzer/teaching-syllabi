@@ -11,6 +11,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: modern_c++_for_c_programmers -->
 # Modern `C++` for C Programmers
 

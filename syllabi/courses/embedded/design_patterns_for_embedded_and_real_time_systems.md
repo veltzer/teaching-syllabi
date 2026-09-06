@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:developers
 ---
+
 <!-- course: design_patterns_for_embedded_and_real_time_systems -->
 # `Design Patterns` for Embedded and Real Time Systems
 

@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: zig_programming -->
 # Zig Programming
 

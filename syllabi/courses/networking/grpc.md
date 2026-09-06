@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: grpc -->
 # `gRPC` Development
 

@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: computer_vision_with_python -->
 # Computer Vision with `Python`
 

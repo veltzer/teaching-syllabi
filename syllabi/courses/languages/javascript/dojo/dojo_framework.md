@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: dojo_framework -->
 # Dojo Framework
 
@@ -110,9 +111,9 @@ Ajax-enabled applications and more.
 
 ## Installations
 * Apache `tomcat` version 5 installed on students machines
-    Mind you - `tomcat` is important and not just a web server since some applets
-    will be supplied as part of the exercises so that students could practice
-    interaction with the server
+  Mind you - `tomcat` is important and not just a web server since some applets
+  will be supplied as part of the exercises so that students could practice
+  interaction with the server
 * `JavaScript` aware editor (pspad is one alternative, `eclipse` is another)
 * Firefox with firebug installed for debugging and understanding
 

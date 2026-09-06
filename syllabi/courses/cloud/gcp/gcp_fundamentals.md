@@ -10,6 +10,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: gcp_fundamentals -->
 # `GCP` Fundamentals
 

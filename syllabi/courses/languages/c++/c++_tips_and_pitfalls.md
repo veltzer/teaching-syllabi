@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: c++_tips_and_pitfalls -->
 # `C++` Tips and Pitfalls
 
@@ -111,13 +112,13 @@ understanding of `C++`.
 * Coding Rules and Naming Conventions
 
 ## References
-* [B.Stroustrup, The `C++` Programming Language, Second Edition, Addison-Wesley Publishing Company](`https`://www.stroustrup.com/4th.`html`)
-* [B.Stroustrup, The Design and Evolution of `C++`, Addison-Wesley Publishing Company](`https`://www.stroustrup.com/dne.`html`)
-* [S.Lippman, `C++` Primer, Second Edition,Addison-Wesley Publishing Company](`https`://zhjwpku.com/assets/`pdf`/books/`C++`.Primer.5th.Edition_2013.`pdf`)
-* [Scott Meyers, Effective `C++`, Addison-Wesley Publishing Company](`https`://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/`c++`/Effective%20C++%20+%20More%20Effective%20C++.`pdf`)
-* [Scott Meyers, More Effective `C++`, Addison-Wesley Publishing Company](`https`://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/`c++`/Effective%20C++%20+%20More%20Effective%20C++.`pdf`)
-* [Scott Meyers, Effective Modern `C++`, Addison-Wesley Publishing Company](`https`://zhjwpku.com/assets/`pdf`/books/`C++`.Primer.5th.Edition_2013.`pdf`)
-* [E.Gamma, R.Helm, R.Johnson, J.Vlissides, `Design Patterns`, Addison-Wesley Publishing Company](`http`://www.javier8a.com/itc/bd1/articulo.`pdf`)
+* [B.Stroustrup, The `C++` Programming Language, Second Edition, Addison-Wesley Publishing Company](https://www.stroustrup.com/4th.html)
+* [B.Stroustrup, The Design and Evolution of `C++`, Addison-Wesley Publishing Company](https://www.stroustrup.com/dne.html)
+* [S.Lippman, `C++` Primer, Second Edition,Addison-Wesley Publishing Company](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
+* [Scott Meyers, Effective `C++`, Addison-Wesley Publishing Company](https://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/c++/Effective%20C++%20+%20More%20Effective%20C++.pdf)
+* [Scott Meyers, More Effective `C++`, Addison-Wesley Publishing Company](https://www.dsi.fceia.unr.edu.ar/downloads/informatica/info_II/c++/Effective%20C++%20+%20More%20Effective%20C++.pdf)
+* [Scott Meyers, Effective Modern `C++`, Addison-Wesley Publishing Company](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
+* [E.Gamma, R.Helm, R.Johnson, J.Vlissides, `Design Patterns`, Addison-Wesley Publishing Company](http://www.javier8a.com/itc/bd1/articulo.pdf)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

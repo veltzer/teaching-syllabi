@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:frontend-developers
 ---
+
 <!-- course: visual_regression_testing -->
 # Visual Regression Testing
 

@@ -14,6 +14,7 @@ audience:
   - audiences:dbas
   - audiences:data-engineers
 ---
+
 <!-- course: query_optimization_and_indexing -->
 # Query Optimization and Indexing
 

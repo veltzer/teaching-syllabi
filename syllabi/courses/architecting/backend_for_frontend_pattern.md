@@ -14,6 +14,7 @@ audience:
   - audiences:developers
   - audiences:team-leads
 ---
+
 <!-- course: backend_for_frontend_pattern -->
 # Backend for Frontend (`BFF`) Pattern
 

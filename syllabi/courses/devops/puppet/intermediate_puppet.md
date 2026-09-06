@@ -11,6 +11,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: intermediate_puppet -->
 # Intermediate Puppet
 

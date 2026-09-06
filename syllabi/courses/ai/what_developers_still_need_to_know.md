@@ -14,6 +14,7 @@ audience:
   - audiences:architects
   - audiences:team-leads
 ---
+
 <!-- course: what_developers_still_need_to_know -->
 # What Developers Using `AI` Still Need to Know About Programming
 

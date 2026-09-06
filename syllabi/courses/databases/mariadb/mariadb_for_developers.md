@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:dbas
 ---
+
 <!-- course: mariadb_for_developers -->
 # `MariaDB` for Developers
 

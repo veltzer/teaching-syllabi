@@ -10,6 +10,7 @@ duration_hours: 56
 audience:
   - audiences:developers
 ---
+
 <!-- course: advanced_python -->
 # Advanced `Python`
 
@@ -226,7 +227,7 @@ Each student should have:
 * 4 GB `RAM` for each machine is enough. This is not much.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software and `Python` packages via pip.
 * Username and password of a user that has `sudo` privileges on the machine.
-* [`https`://www.linuxvmimages.com/images/`ubuntu`-2204/](`https`://www.linuxvmimages.com/images/`ubuntu`-2204/)
+* [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 * Users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them to fix issues but a minority of the more advanced exercises may not work on those machine.
 
 ## Copyright

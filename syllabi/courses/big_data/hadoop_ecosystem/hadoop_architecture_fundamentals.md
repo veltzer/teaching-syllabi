@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:managers
 ---
+
 <!-- course: hadoop_architecture_fundamentals -->
 # `Hadoop`
 

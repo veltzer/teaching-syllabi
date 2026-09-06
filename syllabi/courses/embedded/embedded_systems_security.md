@@ -14,6 +14,7 @@ audience:
   - audiences:security-engineers
   - audiences:architects
 ---
+
 <!-- course: embedded_systems_security -->
 # Embedded Systems Security
 

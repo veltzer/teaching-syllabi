@@ -13,6 +13,7 @@ audience:
   - audiences:qa-engineers
   - audiences:developers
 ---
+
 <!-- course: fuzz_testing_in_practice -->
 # Fuzz Testing in Practice
 

@@ -13,17 +13,19 @@ audience:
   - audiences:security-engineers
   - audiences:developers
 ---
+
 <!-- course: llm_guardrails_and_safety_engineering -->
 # `LLM` Guardrails and Safety Engineering
 
 ## Description
-The catalog has `AI Safety and Alignment` (the research-and-policy course), ```AI`` Ethics and Responsible
-`AI``, `Working with `LLMs` Securely`, and ``LLM` Application Engineering`. None of those covers the
-day-to-day engineering of putting guardrails on an `LLM`-powered product: input validation, output
-validation, jailbreak resistance, `PII` handling at the boundary, content filtering, refusal-policy
-enforcement, and the operational reality of running a moderation pipeline in production. Guardrails
-are now a separate engineering layer with its own libraries (`Llama Guard`, `Guardrails AI`,
-`NeMo Guardrails`, Lakera, `Protect AI`), its own evaluation methodology, and its own failure modes.
+The catalog has `AI Safety and Alignment` (the research-and-policy course),
+`AI Ethics and Responsible AI`, `Working with LLMs Securely`, and `LLM Application Engineering`.
+None of those covers the day-to-day engineering of putting guardrails on an `LLM`-powered product:
+input validation, output validation, jailbreak resistance, `PII` handling at the boundary, content
+filtering, refusal-policy enforcement, and the operational reality of running a moderation pipeline
+in production. Guardrails are now a separate engineering layer with its own libraries
+(`Llama Guard`, `Guardrails AI`, `NeMo Guardrails`, Lakera, `Protect AI`), its own evaluation
+methodology, and its own failure modes.
 
 This three day course covers `LLM` guardrails as a focused engineering practice. It covers the
 threat-model of an `LLM` product (jailbreak, prompt injection, data exfiltration, harmful generation,

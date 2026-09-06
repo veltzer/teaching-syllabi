@@ -15,6 +15,7 @@ audience:
   - audiences:managers
 duration_hours: 24
 ---
+
 <!-- course: terraform_introduction -->
 # `Terraform` Introduction
 

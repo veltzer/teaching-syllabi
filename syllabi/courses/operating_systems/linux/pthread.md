@@ -14,6 +14,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: pthread -->
 # Pthreads course
 
@@ -68,8 +69,8 @@ concurrent code, which is where most of the real difficulty lies.
     * `pthread_self(3)`, `pthread_equal(3)`
     * `gettid(2)`
     * giving names to threads
-        `pthread_setname_np(3)`
-        `prctl(2)`
+      `pthread_setname_np(3)`
+      `prctl(2)`
 <!-- chapter: thread-termination-and-joining, duration: 1h -->
 * thread termination and joining
     * returning from the start routine
@@ -138,8 +139,8 @@ concurrent code, which is where most of the real difficulty lies.
 * threads and cores
     * knowing on which core you are running.
     * `cpu` affinity.
-        at thread creation time.
-        using taskset.
+      at thread creation time.
+      using taskset.
     * yielding the `CPU`.
     * scheduling classes and priorities.
 <!-- chapter: threads-and-time, duration: 1h -->
@@ -162,8 +163,8 @@ concurrent code, which is where most of the real difficulty lies.
     * `pthread_atfork(3)` hooks
     * `pthread_once(3)`
     * what happens when a thread calls `execve(2)`? all other threads are terminated
-        silently; the calling thread survives as the sole thread of the new image
-        and takes over the thread group leader's `pid`
+      silently; the calling thread survives as the sole thread of the new image
+      and takes over the thread group leader's `pid`
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

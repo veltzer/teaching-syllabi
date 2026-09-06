@@ -16,6 +16,7 @@ audience:
   - audiences:architects
   - audiences:team-leads
 ---
+
 <!-- course: platform_engineering_in_practice -->
 # Platform Engineering In Practice
 

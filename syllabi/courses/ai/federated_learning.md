@@ -12,6 +12,7 @@ audience:
   - audiences:data-scientists
   - audiences:architects
 ---
+
 <!-- course: federated_learning -->
 # `Federated Learning`
 

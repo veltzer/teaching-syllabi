@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: java_concurrency -->
 # `Java` Concurrency
 

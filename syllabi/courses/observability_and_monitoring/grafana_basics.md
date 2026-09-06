@@ -10,6 +10,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: grafana_basics -->
 # `Grafana` Basics
 

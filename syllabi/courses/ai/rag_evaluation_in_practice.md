@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:qa-engineers
 ---
+
 <!-- course: rag_evaluation_in_practice -->
 # `RAG` Evaluation in Practice
 

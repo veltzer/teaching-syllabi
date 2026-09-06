@@ -13,6 +13,7 @@ audience:
   - audiences:security-professionals
   - audiences:testers
 ---
+
 <!-- course: offensive_linux -->
 # Offensive `Linux`
 
@@ -93,13 +94,13 @@ This intensive course is designed for experienced penetration testers seeking to
     * Next steps and advanced learning recommendations
 
 ## References
-* [Penetration Testing Execution Standard (`PTES`)](`http`://www.pentest-standard.org/)
-* [`OWASP` Testing Guide](`https`://`owasp`.org/www-project-web-security-testing-guide/)
-* [`Linux` Kernel Exploits](`https`://`github`.com/SecWiki/`linux`-kernel-exploits)
-* [GTFOBins](`https`://gtfobins.`github`.io/)
-* [`Linux` Privilege Escalation Guide](`https`://blog.g0tmi1k.com/2011/08/basic-`linux`-privilege-escalation/)
-* [`Metasploit` Framework](`https`://www.`metasploit`.com/)
-* [Exploit Database](`https`://www.exploit-db.com/)
+* [Penetration Testing Execution Standard (`PTES`)](http://www.pentest-standard.org/)
+* [`OWASP` Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+* [`Linux` Kernel Exploits](https://github.com/SecWiki/linux-kernel-exploits)
+* [GTFOBins](https://gtfobins.github.io/)
+* [`Linux` Privilege Escalation Guide](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* [`Metasploit` Framework](https://www.metasploit.com/)
+* [Exploit Database](https://www.exploit-db.com/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

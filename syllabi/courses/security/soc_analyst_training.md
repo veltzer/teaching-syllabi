@@ -8,6 +8,7 @@ duration_hours: 40
 audience:
   - audiences:security-professionals
 ---
+
 <!-- course: soc_analyst_training -->
 # `SOC` Analyst Training
 

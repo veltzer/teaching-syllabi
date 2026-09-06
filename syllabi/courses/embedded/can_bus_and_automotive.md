@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: can_bus_and_automotive -->
 # CAN Bus and Automotive Protocols
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
 duration_hours: 24
 ---
+
 <!-- course: developing_using_ai -->
 # Development Using `AI`
 

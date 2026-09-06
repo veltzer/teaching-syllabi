@@ -12,6 +12,7 @@ audience:
   - audiences:developers
 duration_hours: 40
 ---
+
 <!-- course: elasticsearch_for_developers -->
 # `Elasticsearch` for Developers
 

@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: rabbitmq_for_developers -->
 # `RabbitMQ` for Developers
 

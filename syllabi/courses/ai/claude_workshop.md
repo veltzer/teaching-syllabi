@@ -15,6 +15,7 @@ audience:
   - audiences:senior-developers
   - audiences:devops
 ---
+
 <!-- course: claude_workshop -->
 # Claude Workshop
 
@@ -39,7 +40,7 @@ Claude's behavior on a real codebase.
 * Senior developers and tech leads evaluating Claude for team adoption
 * `DevOps` engineers who want to wire Claude into existing tooling via `MCP`
 * Engineers building internal assistants on top of Claude that need to reason
-    over private knowledge bases
+  over private knowledge bases
 
 ## Prerequisites
 * Comfortable on the command line in a `UNIX`-like environment
@@ -49,15 +50,15 @@ Claude's behavior on a real codebase.
 
 ## Objectives
 * **Configure** Claude at the global and per-project level, including settings,
-    permissions, hooks and environment variables
+  permissions, hooks and environment variables
 * **Reason about the context window** and use compaction deliberately rather
-    than letting it surprise you in long sessions
+  than letting it surprise you in long sessions
 * **Extend** Claude with skills for repeatable workflows and sub-agents for
-    delegated, isolated work
+  delegated, isolated work
 * **Connect** Claude to external systems via `MCP` servers and understand the
-    trust boundary that creates
+  trust boundary that creates
 * **Ground** Claude's answers in your own data using a `RAG` pipeline and know
-    when `RAG` is the right tool versus long context or fine tuning
+  when `RAG` is the right tool versus long context or fine tuning
 
 ## Outline
 <!-- chapter: introduction-and-orientation, duration: 1h -->
@@ -241,24 +242,24 @@ Claude's behavior on a real codebase.
     * Reviewing the configuration, skills, agents and servers we installed
     * A checklist for adopting Claude on a team
     * Where to go next: deeper dives into prompt engineering, evaluation and
-        agent building
+      agent building
 
 ## Installations
 Each student should have:
 
 * A laptop running `Linux`, `macOS` or `Windows` with administrator rights to
-    install software.
+  install software.
 * `Claude Code` installed and logged in to a working Claude account before the
-    workshop starts.
+  workshop starts.
 * `node` and `npm` (or another runtime as required by the `MCP` servers we will
-    install during the day).
+  install during the day).
 * `git` installed and configured.
 * A real code repository the student is comfortable experimenting with. A clone
-    of an open source project is fine if no private repo is available.
+  of an open source project is fine if no private repo is available.
 * A modern editor (`VS Code` or similar) with the `Claude Code` integration
-    installed.
+  installed.
 * Free, wide band, access to the internet with no corporate firewall that blocks
-    `Anthropic`'s `API` endpoints, `npm` or pip.
+  `Anthropic`'s `API` endpoints, `npm` or pip.
 * For the `RAG` section: a working `Python` 3 environment with pip.
 
 ## Copyright

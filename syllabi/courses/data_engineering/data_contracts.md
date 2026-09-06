@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:data-architects
 ---
+
 <!-- course: data_contracts -->
 # Data Contracts
 

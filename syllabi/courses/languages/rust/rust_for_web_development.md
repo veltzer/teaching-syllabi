@@ -11,6 +11,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: rust_for_web_development -->
 # Rust for Web Development
 

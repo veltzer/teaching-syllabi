@@ -14,6 +14,7 @@ audience:
   - audiences:senior-developers
   - audiences:devops
 ---
+
 <!-- course: vector_databases -->
 # Vector Databases Engineering
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
 duration_hours: 16
 ---
+
 <!-- course: microservices_with_spring_boot_and_spring_cloud -->
 # Micro-services with `Spring Boot` and `Spring Cloud`
 

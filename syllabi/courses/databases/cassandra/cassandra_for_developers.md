@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: cassandra_for_developers -->
 # `Apache Cassandra` for Developers
 

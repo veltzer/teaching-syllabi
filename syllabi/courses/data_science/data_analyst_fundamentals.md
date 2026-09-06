@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:managers
 ---
+
 <!-- course: data_analyst_fundamentals -->
 # Data Analyst Fundamentals
 

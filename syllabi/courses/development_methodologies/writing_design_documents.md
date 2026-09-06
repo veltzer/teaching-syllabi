@@ -13,6 +13,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: writing_design_documents -->
 # Writing Design Documents
 

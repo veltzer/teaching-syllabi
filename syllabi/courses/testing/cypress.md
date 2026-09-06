@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:testers
 ---
+
 <!-- course: cypress -->
 # Cypress End-to-End Testing
 

@@ -13,6 +13,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: prometheus_and_grafana -->
 # `Prometheus` and `Grafana`
 

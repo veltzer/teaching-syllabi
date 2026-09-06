@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: aws_developer -->
 <!-- Track gaps: Cognito for application user management, Step Functions orchestration details, Kinesis data streaming -->
 # `AWS` Developer

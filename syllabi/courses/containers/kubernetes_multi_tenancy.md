@@ -14,17 +14,18 @@ audience:
   - audiences:architects
   - audiences:senior-developers
 ---
+
 <!-- course: kubernetes_multi_tenancy -->
 # `Kubernetes` Multi-Tenancy
 
 ## Description
 Once a `Kubernetes` cluster is shared by more than one team, multi-tenancy becomes the dominant
-operational concern. The catalog has `Kubernetes`, `Kubernetes for Developers`, ```Kubernetes``
-Troubleshooting`, ``Kubernetes` Security`, and the `Container and `Kubernetes` Security` course. None of
-those is the focused course on operating a multi-tenant cluster: how to isolate tenants from each
-other, how to give them autonomy without giving them everything, how to charge them, how to keep one
-tenant from starving another, and how to know when single-cluster multi-tenancy is the wrong answer
-and you should give each tenant their own cluster.
+operational concern. The catalog has `Kubernetes`, `Kubernetes for Developers`,
+`Kubernetes Troubleshooting`, `Kubernetes Security`, and the `Container and Kubernetes Security`
+course. None of those is the focused course on operating a multi-tenant cluster: how to isolate
+tenants from each other, how to give them autonomy without giving them everything, how to charge
+them, how to keep one tenant from starving another, and how to know when single-cluster
+multi-tenancy is the wrong answer and you should give each tenant their own cluster.
 
 This three day course covers `Kubernetes` multi-tenancy as a focused engineering topic. It covers the
 canonical tenancy models (soft, hard, virtual cluster), the namespace-as-tenant pattern and its

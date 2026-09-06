@@ -12,6 +12,7 @@ audience:
   - audiences:firmware-developers
   - audiences:developers
 ---
+
 <!-- course: embedded_linux_networking -->
 # Embedded `Linux` Networking
 

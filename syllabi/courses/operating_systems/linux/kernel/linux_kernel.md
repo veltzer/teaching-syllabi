@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: linux_kernel -->
 # `Linux` Kernel
 
@@ -201,7 +202,7 @@ required.
     * Identifying drivers, notifying programs and users
 
 ## References
-* [slides for this course](`https`://bootlin.com/doc/training/`linux`-kernel/)
+* [slides for this course](https://bootlin.com/doc/training/linux-kernel/)
 
 ## Installations
 * A real, virtual or remote machine running `Ubuntu` >= 22.04

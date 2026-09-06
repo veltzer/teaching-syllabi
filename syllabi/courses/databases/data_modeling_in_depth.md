@@ -17,6 +17,7 @@ audience:
   - audiences:data-architects
   - audiences:architects
 ---
+
 <!-- course: data_modeling_in_depth -->
 # Data Modeling in Depth
 

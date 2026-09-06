@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: apache_iceberg -->
 # `Apache Iceberg`
 

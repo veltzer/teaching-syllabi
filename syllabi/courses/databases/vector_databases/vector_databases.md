@@ -15,6 +15,7 @@ audience:
   - audiences:data-scientists
   - audiences:ml-engineers
 ---
+
 <!-- course: vector_databases -->
 # Vector Databases
 

@@ -14,6 +14,7 @@ audience:
   - audiences:devops
 duration_hours: 16
 ---
+
 <!-- course: introduction_to_splunk -->
 # Introduction to `Splunk`
 

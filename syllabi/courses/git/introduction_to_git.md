@@ -10,6 +10,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: introduction_to_git -->
 <!-- Track gaps: core Git internals (SHA1, object store), renaming/moving/removing files, stashing, rewriting history -->
 # Introduction to `Git`

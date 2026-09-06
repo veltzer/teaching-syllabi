@@ -14,6 +14,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:devops
 ---
+
 <!-- course: alsa -->
 # `ALSA` - Advanced `Linux` Sound Architecture
 
@@ -30,8 +31,8 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
 ## Prerequisites
 * C programming (for almost all sections of this course)
 * `Linux` Kernel programming (needed for the big section about writing `ALSA` drivers)
-    This means *`Linux`* kernel programming. kernel programming in other
-    operating systems does not count here.
+  This means *`Linux`* kernel programming. kernel programming in other
+  operating systems does not count here.
 
 ## Required Knowledge
 * `Linux` Fundamentals (or equivalent experience)

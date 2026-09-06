@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:dbas
 ---
+
 <!-- course: scylladb -->
 # `ScyllaDB`
 

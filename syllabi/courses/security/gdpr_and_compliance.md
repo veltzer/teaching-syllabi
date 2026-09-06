@@ -13,6 +13,7 @@ audience:
   - audiences:managers
   - audiences:legal
 ---
+
 <!-- course: gdpr_and_compliance -->
 # `GDPR` and Compliance
 

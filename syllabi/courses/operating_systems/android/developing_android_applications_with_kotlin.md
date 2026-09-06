@@ -13,6 +13,7 @@ audience:
   - audiences:developers
 duration_hours: 56
 ---
+
 <!-- course: developing_android_applications_with_kotlin -->
 # Developing `Android` Applications with `Kotlin`
 
@@ -204,7 +205,7 @@ will previous experience of `Android` Studio
     * Multiplatform development
 
 ## Installations
-* `Android` Studio is required and installation instructions are [`android`-studio-install](`https`://developer.`android`.com/studio/install)
+* `Android` Studio is required and installation instructions are [`android`-studio-install](https://developer.android.com/studio/install)
 * There is no need to install this before the course and it is usually installed at the start of the course with the help of the instructor.
 * Latest version is usually preferred.
 * No need to install `Kotlin` before either as it comes bundled with `Android` Studio.

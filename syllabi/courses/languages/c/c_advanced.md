@@ -8,6 +8,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: c_advanced -->
 # C Advanced
 
@@ -130,7 +131,7 @@ This course covers advanced C programming topics for experienced developers work
     * transactional memory (new in core i7)
 
 ## References
-* [`C99`](`https`://en.wikipedia.org/wiki/`C99`)
+* [`C99`](https://en.wikipedia.org/wiki/C99)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: android_advanced -->
 # `Android` Advanced
 

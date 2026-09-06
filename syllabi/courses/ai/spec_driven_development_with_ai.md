@@ -14,6 +14,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: spec_driven_development_with_ai -->
 # Spec-Driven Development with `AI`
 
@@ -168,16 +169,16 @@ day. It does not re-teach prompt engineering or how coding agents work.
 Each student should have:
 
 * A laptop with a modern editor (`VS Code` or similar) and permission to
-    install software.
+  install software.
 * A working `AI` coding agent the student already uses: `Claude Code`,
-    `GitHub Copilot` (with agent mode) or Cursor, installed and authenticated.
+  `GitHub Copilot` (with agent mode) or Cursor, installed and authenticated.
 * `git` installed and configured.
 * A `Python` 3 environment with `uv` or pip for installing `Spec Kit`.
 * A real code repository the student is comfortable experimenting with. A
-    clone of an open source project is fine if no private repository is
-    available.
+  clone of an open source project is fine if no private repository is
+  available.
 * Free, wide band, access to the internet with no corporate firewall that
-    blocks the student's `AI` provider.
+  blocks the student's `AI` provider.
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

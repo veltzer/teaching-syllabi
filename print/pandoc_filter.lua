@@ -1,3 +1,10 @@
+-- Pandoc Lua filter. pandoc injects the `pandoc` module, PANDOC_STATE and
+-- FORMAT as globals and picks up the filter by the RawBlock/RawInline/Pandoc
+-- globals it defines, so those are declared here rather than in the shared
+-- fleet-wide .luacheckrc.
+-- luacheck: read globals pandoc PANDOC_STATE FORMAT
+-- luacheck: globals RawBlock RawInline Pandoc
+
 -- Extract the course path (e.g. "languages/c++") from the input filename.
 local function get_course_path()
     local input = PANDOC_STATE.input_files[1] or ""

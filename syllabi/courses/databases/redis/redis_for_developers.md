@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: redis_for_developers -->
 # `Redis`: In-Memory Data Structure Store
 
@@ -97,7 +98,7 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
     * Connecting `Redis` to web applications.
 
 ## Textbooks and Resources
-* `Redis` Documentation: [`https`://`Redis`.io/docs/](`https`://`Redis`.io/docs/)
+* `Redis` Documentation: [https://redis.io/docs/](https://redis.io/docs/)
 * "`Redis` in Action" by Josiah Carlson (Optional)
 * Various online tutorials and articles.
 

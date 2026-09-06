@@ -10,6 +10,7 @@ audience:
   - audiences:sysadmins
   - audiences:managers
 ---
+
 <!-- course: introduction_to_aws -->
 <!-- Track gaps: AWS Workspaces, Elastic Transcoder, Snow family (Snowball/Snowcone/Snowmobile), Storage Gateway, ElastiCache, Redshift, OpsWorks, PrivateLink, Direct Connect, CodeStar, Cognito, AWS SSO, Kinesis, VGW/IGW details, Elastic IPs, NACLs detail, AWS Organization, Landing Zone -->
 # Introduction to `AWS`

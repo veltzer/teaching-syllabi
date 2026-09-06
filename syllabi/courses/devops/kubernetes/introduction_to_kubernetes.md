@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:devops
 ---
+
 <!-- course: introduction_to_kubernetes -->
 # Introduction to `Kubernetes`
 
@@ -208,7 +209,7 @@ Each student should have:
 * 8 GB `RAM` for each machine because we are going to practice `Kubernetes` with `Minikube`. This requires some `RAM`.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software.
 * Username and password of a user that has `sudo` privileges on the machine.
-* [`https`://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/`ubuntu`-2204/)
+* [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

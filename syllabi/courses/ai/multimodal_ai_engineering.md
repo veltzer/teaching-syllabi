@@ -13,17 +13,18 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: multimodal_ai_engineering -->
 # Multimodal `AI` Engineering
 
 ## Description
-The catalog has `LLM Application Engineering`, `Computer Vision with Python`, `Natural Language
-Processing`, and `Generative `AI` Applications` courses. None of those covers the production-engineering
-of systems that combine modalities — vision plus text, audio plus text, document plus query, image plus
-generation. Multimodal systems are now the dominant shape of frontier `AI` features, and they bring
-their own engineering reality: token-cost shape per modality, latency, the embedding-alignment problem,
-the prompt-injection-from-image attack, the chunking-of-non-text problem, and the evaluation gap when
-ground truth is qualitative.
+The catalog has `LLM Application Engineering`, `Computer Vision with Python`,
+`Natural Language Processing`, and `Generative AI Applications` courses. None of those covers the
+production-engineering of systems that combine modalities — vision plus text, audio plus text,
+document plus query, image plus generation. Multimodal systems are now the dominant shape of
+frontier `AI` features, and they bring their own engineering reality: token-cost shape per modality,
+latency, the embedding-alignment problem, the prompt-injection-from-image attack, the
+chunking-of-non-text problem, and the evaluation gap when ground truth is qualitative.
 
 This four day course covers multimodal `AI` from the application engineer's perspective. It covers the
 modality choice (when to send the image vs `OCR` it first, when to transcribe vs send audio directly),

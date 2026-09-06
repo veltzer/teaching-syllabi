@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:managers
 ---
+
 <!-- course: threat_modeling -->
 # Threat Modeling
 

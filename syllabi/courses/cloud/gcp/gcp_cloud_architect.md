@@ -18,6 +18,7 @@ audience:
   - audiences:devops
   - audiences:team-leads
 ---
+
 <!-- course: gcp_cloud_architect -->
 # `Google Cloud Platform` - Cloud Architect
 

@@ -14,6 +14,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: go_for_microservices -->
 # Go for `Microservices`
 

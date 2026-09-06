@@ -17,6 +17,7 @@ audience:
   - audiences:architects
   - audiences:sysadmins
 ---
+
 <!-- course: gcp_cloud_engineer -->
 # `Google Cloud Platform` - Cloud Engineer
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:data-scientists
 ---
+
 <!-- course: advanced_spark_with_scala -->
 # Advanced `Spark` with `Scala`
 

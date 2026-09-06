@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: wifi_protocols -->
 # Wi-Fi Protocols
 

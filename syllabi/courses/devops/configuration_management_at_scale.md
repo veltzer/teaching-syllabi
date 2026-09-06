@@ -13,6 +13,7 @@ audience:
   - audiences:sres
   - audiences:architects
 ---
+
 <!-- course: configuration_management_at_scale -->
 # Configuration Management at Scale
 

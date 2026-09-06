@@ -13,6 +13,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:firmware-developers
 ---
+
 <!-- course: multicore_and_multithreading_for_microcontrollers -->
 # Multi-Core and Multi-`Threading` for Microcontrollers
 

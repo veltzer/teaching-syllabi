@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: architectural_decisions_in_devops -->
 # Architectural Decisions in `DevOps`
 

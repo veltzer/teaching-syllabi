@@ -15,6 +15,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: technical_debt_and_refactoring -->
 # Technical Debt and Refactoring
 

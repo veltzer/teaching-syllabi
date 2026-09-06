@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: fpga_programming -->
 # `FPGA` Programming
 

@@ -16,6 +16,7 @@ audience:
   - audiences:security-engineers
   - audiences:architects
 ---
+
 <!-- course: secrets_management -->
 # Secrets Management
 

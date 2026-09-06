@@ -8,6 +8,7 @@ duration_hours: 40
 audience:
   - audiences:sysadmins
 ---
+
 <!-- course: windows_administration -->
 # `Windows` Administration
 

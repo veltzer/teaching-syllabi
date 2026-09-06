@@ -14,16 +14,17 @@ audience:
   - audiences:performance-engineers
   - audiences:devops
 ---
+
 <!-- course: inference_optimization_and_serving -->
 # Inference Optimization and Serving
 
 ## Description
-The catalog has `MLOps`, `LLM Application Engineering`, `Multimodal AI Engineering`, and ```LLM``
-Fine-tuning and Prompt Engineering`. None of those covers the production-engineering of inference: how
-to serve a model with low latency, high throughput, and bounded cost. This is its own discipline. The
-people who do it well do not just call a hosted `API` — they understand `KV-cache`, `paged-attention`,
-batching, speculative decoding, quantization, the difference between `vLLM`, `TensorRT-LLM`, and
-`SGLang`, and the operational reality of `GPU` fleets.
+The catalog has `MLOps`, `LLM Application Engineering`, `Multimodal AI Engineering`, and
+`LLM Fine-tuning and Prompt Engineering`. None of those covers the production-engineering of
+inference: how to serve a model with low latency, high throughput, and bounded cost. This is its own
+discipline. The people who do it well do not just call a hosted `API` — they understand `KV-cache`,
+`paged-attention`, batching, speculative decoding, quantization, the difference between `vLLM`,
+`TensorRT-LLM`, and `SGLang`, and the operational reality of `GPU` fleets.
 
 This four day course covers inference optimization and serving as practiced today. It covers the
 inference compute pattern (the prefill and decode phases, the `KV-cache`, the per-request memory),

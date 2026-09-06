@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: csharp_programming -->
 # `C#` Programming
 

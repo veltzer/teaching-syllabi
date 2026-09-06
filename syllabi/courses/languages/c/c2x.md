@@ -9,6 +9,7 @@ duration_hours: 8
 audience:
   - audiences:developers
 ---
+
 <!-- course: c2x -->
 # `C2x`
 
@@ -46,7 +47,7 @@ C developers who want to understand and adopt the newest features and improvemen
 * Compiler support for `C2x` in `GCC` and `Clang`
 
 ## References
-* [`C2x` at Wikipedia](`https`://en.wikipedia.org/wiki/`C2x`)
+* [`C2x` at Wikipedia](https://en.wikipedia.org/wiki/C2x)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

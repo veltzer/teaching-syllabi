@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: real_time_design_patterns -->
 # Real Time `Design Patterns`
 
@@ -72,7 +73,7 @@ This course is about how to design the internals of a Real Time system correctly
     * Recovery Block Pattern
 
 ## References
-* [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.`pdf`)
+* [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.pdf)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -11,6 +11,7 @@ audience:
   - audiences:sres
   - audiences:sysadmins
 ---
+
 <!-- course: kubernetes_troubleshooting -->
 # `Kubernetes` Troubleshooting
 

@@ -13,6 +13,7 @@ audience:
   - audiences:senior-developers
   - audiences:architects
 ---
+
 <!-- course: lakehouse_table_formats_compared -->
 # Lakehouse Table Formats Compared: Iceberg, `Delta Lake`, `Hudi`
 

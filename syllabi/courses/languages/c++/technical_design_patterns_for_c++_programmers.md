@@ -11,6 +11,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: technical_design_patterns_for_c++_programmers -->
 # Technical `design patterns` for C/`C++` programmers
 

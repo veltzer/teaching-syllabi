@@ -13,6 +13,7 @@ audience:
   - audiences:developers
 duration_hours: 56
 ---
+
 <!-- course: cyber_threats_and_attack_vectors -->
 # Cyber Threats and Attack Vectors
 
@@ -299,10 +300,10 @@ and demonstrated.
     * Mass assignment
 
 ## References
-* [Google Hacking](`https`://en.wikipedia.org/wiki/Google_hacking)
-* [burp](`https`://portswigger.net/burp)
-* [`NMAP`](https://`nmap`.org)
-* [Web Development Tools](`https`://en.wikipedia.org/wiki/Web_development_tools)
+* [Google Hacking](https://en.wikipedia.org/wiki/Google_hacking)
+* [burp](https://portswigger.net/burp)
+* [`NMAP`](https://nmap.org)
+* [Web Development Tools](https://en.wikipedia.org/wiki/Web_development_tools)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

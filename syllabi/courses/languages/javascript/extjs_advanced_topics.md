@@ -9,6 +9,7 @@ duration_hours: 8
 audience:
   - audiences:developers
 ---
+
 <!-- course: extjs_advanced_topics -->
 # Extjs Advanced Topics
 

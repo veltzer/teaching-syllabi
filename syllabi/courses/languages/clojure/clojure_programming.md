@@ -10,6 +10,7 @@ duration_hours: 32
 audience:
   - audiences:developers
 ---
+
 <!-- course: clojure_programming -->
 # `Clojure` Programming
 

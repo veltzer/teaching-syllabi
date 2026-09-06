@@ -9,6 +9,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: html_css_javascript_fundamentals -->
 <!-- Track gaps: TCP/IP fundamentals, HTTP protocol details, web server vs web client architecture, analysis of a connection -->
 # `HTML`, `CSS`, and `JavaScript` Fundamentals

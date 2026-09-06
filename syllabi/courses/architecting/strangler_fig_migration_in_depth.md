@@ -13,6 +13,7 @@ audience:
   - audiences:team-leads
   - audiences:developers
 ---
+
 <!-- course: strangler_fig_migration_in_depth -->
 # Strangler Fig Migration in Depth
 

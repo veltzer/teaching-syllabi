@@ -11,6 +11,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: python_advanced_oo_and_design_patterns -->
 # `Design Patterns` and Advanced Object-Oriented Design for `Python` Developers
 

@@ -17,6 +17,7 @@ audience:
   - audiences:managers
   - audiences:security-professionals
 ---
+
 <!-- course: cloud_security -->
 # Cloud Security
 

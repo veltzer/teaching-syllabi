@@ -13,6 +13,7 @@ audience:
   - audiences:data-engineers
   - audiences:architects
 ---
+
 <!-- course: rag_deep_dive -->
 # `RAG` Deep Dive
 

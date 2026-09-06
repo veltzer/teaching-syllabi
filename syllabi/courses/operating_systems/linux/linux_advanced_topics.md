@@ -13,6 +13,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: linux_advanced_topics -->
 # `Linux` Advanced Topics
 

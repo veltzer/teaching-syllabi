@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:managers
 ---
+
 <!-- course: technical_writing -->
 # Technical Writing
 

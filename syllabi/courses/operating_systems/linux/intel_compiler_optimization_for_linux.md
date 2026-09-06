@@ -15,6 +15,7 @@ audience:
   - audiences:performance-engineers
   - audiences:devops
 ---
+
 <!-- course: intel_compiler_optimization_for_linux -->
 # Intel Compiler Optimization for `Linux`
 
@@ -101,7 +102,7 @@ Attendees will be equipped to significantly enhance the performance of their `Li
     * `C++` compatibility for the intel compiler.
 
 ## References
-* [Intel Compiler](`http`://denali.princeton.edu/IntelXe2011/compiler_c/main_cls/index.htm#bldaps_cls/common/bldaps_pch_comm.htm)
+* [Intel Compiler](http://denali.princeton.edu/IntelXe2011/compiler_c/main_cls/index.htm#bldaps_cls/common/bldaps_pch_comm.htm)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

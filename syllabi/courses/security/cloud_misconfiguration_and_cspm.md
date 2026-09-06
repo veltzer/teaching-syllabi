@@ -16,6 +16,7 @@ audience:
   - audiences:senior-developers
   - audiences:architects
 ---
+
 <!-- course: cloud_misconfiguration_and_cspm -->
 # Cloud Misconfiguration and `CSPM`
 

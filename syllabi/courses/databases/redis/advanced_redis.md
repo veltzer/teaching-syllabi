@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: advanced_redis -->
 # Advanced `Redis`
 

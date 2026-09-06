@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: advanced_linux_kernel_topics -->
 # Advanced `Linux` Kernel Topics
 
@@ -56,15 +57,15 @@ have been an long list of miscellaneous topics).
     * checking your coding standards (checkpatch.pl).
     * running other checks on your code.
     * verifying context to prevent crashes
-        interrupt context.
-        user context.
-        tasklet and kernel thread context.
+      interrupt context.
+      user context.
+      tasklet and kernel thread context.
     * using BUG correctly.
     * accessing module meta data at runtime.
     * calling kernel functions by name (using the kernels dynamic
-        linker `API`).
+      linker `API`).
     * how to verify the existence of kernel features in your code
-        before using them.
+      before using them.
 <!-- chapter: measuring-and-improving-kernel-boot-time, duration: 1h -->
 * measuring and improving kernel boot time
     * how to measure (TSC and more).
@@ -75,9 +76,9 @@ have been an long list of miscellaneous topics).
 <!-- chapter: locking-properly, duration: 3h -->
 * locking properly
     * avoiding locking
-        per `CPU` structures
-        per client structures
-        per kernel thread structures
+      per `CPU` structures
+      per client structures
+      per kernel thread structures
     * atomics `API`
     * lockless data structures.
     * reader writer locks.

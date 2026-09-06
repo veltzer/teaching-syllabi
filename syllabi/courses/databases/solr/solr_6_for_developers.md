@@ -9,6 +9,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: solr_6_for_developers -->
 # Solr 6 for Developers
 

@@ -11,6 +11,7 @@ audience:
   - audiences:data-engineers
   - audiences:architects
 ---
+
 <!-- course: azure_data_engineering -->
 # `Azure` Data Engineering
 

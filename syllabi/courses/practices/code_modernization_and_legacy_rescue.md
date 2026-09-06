@@ -15,6 +15,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: code_modernization_and_legacy_rescue -->
 # Code Modernization and Legacy Rescue
 

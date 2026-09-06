@@ -8,6 +8,7 @@ duration_hours: 40
 audience:
   - audiences:developers
 ---
+
 <!-- course: cobol_programming -->
 # `COBOL` Programming
 

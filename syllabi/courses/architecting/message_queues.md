@@ -10,6 +10,7 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: message_queues -->
 # Message Queues
 

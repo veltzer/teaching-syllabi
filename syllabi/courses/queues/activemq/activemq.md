@@ -12,17 +12,19 @@ audience:
   - audiences:java-developers
   - audiences:architects
 ---
+
 <!-- course: activemq -->
 # `ActiveMQ`
 
 ## Description
-`Apache ActiveMQ` is one of the most widely deployed open-source message brokers, implementing the ```Java``
-Message Service` (``JMS``) specification and supporting a broad range of messaging protocols including ``AMQP``,
-`STOMP`, `MQTT`, and `OpenWire`. This course provides a thorough grounding in enterprise messaging patterns,
-the `JMS` `API`, and `ActiveMQ`'s persistence, clustering, and high-availability capabilities. Participants will
-also explore `ActiveMQ Artemis`, the next-generation broker that underpins `Red Hat AMQ` and the future of the
-`ActiveMQ` project, and will leave with practical skills for migrating and interoperating between broker
-generations and competing products.
+`Apache ActiveMQ` is one of the most widely deployed open-source message brokers, implementing the
+`Java Message Service` (`JMS`) specification and supporting a broad range of messaging protocols
+including `AMQP`, `STOMP`, `MQTT`, and `OpenWire`. This course provides a thorough grounding in
+enterprise messaging patterns, the `JMS` `API`, and `ActiveMQ`'s persistence, clustering, and
+high-availability capabilities. Participants will also explore `ActiveMQ Artemis`, the
+next-generation broker that underpins `Red Hat AMQ` and the future of the `ActiveMQ` project, and
+will leave with practical skills for migrating and interoperating between broker generations and
+competing products.
 
 ## Duration
 24 hours / 3 days

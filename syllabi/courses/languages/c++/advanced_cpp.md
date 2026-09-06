@@ -11,6 +11,7 @@ audience:
   - audiences:embedded-engineers
   - audiences:performance-engineers
 ---
+
 <!-- course: advanced_cpp -->
 # Advanced `C++`
 

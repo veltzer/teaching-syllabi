@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:devops
 ---
+
 <!-- course: api_gateway_patterns -->
 # `API Gateway` Patterns
 

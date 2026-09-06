@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: sqlite_deep_dive -->
 # `SQLite` Deep Dive
 

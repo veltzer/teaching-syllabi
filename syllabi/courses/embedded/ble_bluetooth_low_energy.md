@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: ble_bluetooth_low_energy -->
 # BLE - `Bluetooth` Low Energy
 

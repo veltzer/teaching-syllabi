@@ -16,6 +16,7 @@ audience:
   - audiences:data-engineers
   - audiences:architects
 ---
+
 <!-- course: vector_databases_engineering -->
 # Vector Databases Engineering
 

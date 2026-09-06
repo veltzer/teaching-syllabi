@@ -15,6 +15,7 @@ audience:
   - audiences:sysadmins
 duration_hours: 32
 ---
+
 <!-- course: azure_advanced_networking -->
 # `Azure` Advanced Networking with Labs
 

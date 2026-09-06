@@ -11,6 +11,7 @@ duration_hours: 40
 audience:
   - audiences:data-scientists
 ---
+
 <!-- course: generative_ai_applications -->
 # Generative `AI` applications
 
@@ -74,7 +75,7 @@ and Safety. Generative `AI` applications
     * Deep Fakes.
 
 ## References
-[syllabus](`https`://ai-dt.school/generative-`ai`/#curriculum)
+[syllabus](https://ai-dt.school/generative-ai/#curriculum)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

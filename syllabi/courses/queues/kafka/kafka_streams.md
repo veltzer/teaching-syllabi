@@ -9,6 +9,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: kafka_streams -->
 # Introduction to `Kafka` Streams
 

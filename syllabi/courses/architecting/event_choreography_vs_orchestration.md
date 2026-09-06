@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:team-leads
 ---
+
 <!-- course: event_choreography_vs_orchestration -->
 # Event Choreography vs Orchestration
 

@@ -10,6 +10,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: introduction_to_cloud_computing -->
 # Introduction to `Cloud Computing`
 

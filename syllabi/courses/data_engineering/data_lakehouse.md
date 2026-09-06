@@ -14,6 +14,7 @@ audience:
   - audiences:data-engineers
   - audiences:architects
 ---
+
 <!-- course: data_lakehouse -->
 # Data Lakehouse
 

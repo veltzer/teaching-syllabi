@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: serverless_on_gcp -->
 # Serverless on `GCP`
 

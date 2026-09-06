@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:performance-engineers
 ---
+
 <!-- course: web_performance_optimization -->
 # Web Performance Optimization
 

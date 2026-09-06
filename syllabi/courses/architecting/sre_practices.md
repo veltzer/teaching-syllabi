@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:team-leads
 ---
+
 <!-- course: sre_practices -->
 # SRE Practices
 

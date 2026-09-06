@@ -15,6 +15,7 @@ audience:
   - audiences:devops
   - audiences:architects
 ---
+
 <!-- course: sast_dast_and_modern_appsec -->
 # `SAST`, `DAST` and Modern AppSec
 

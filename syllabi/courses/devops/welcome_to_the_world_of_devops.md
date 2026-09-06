@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:managers
 ---
+
 <!-- course: welcome_to_the_world_of_devops -->
 # Welcome to the World of `DevOps`
 

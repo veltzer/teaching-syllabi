@@ -12,6 +12,7 @@ audience:
   - audiences:architects
   - audiences:developers
 ---
+
 <!-- course: api_first_development -->
 # `API-First` Development
 

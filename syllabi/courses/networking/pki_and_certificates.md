@@ -14,6 +14,7 @@ audience:
   - audiences:sysadmins
   - audiences:security-engineers
 ---
+
 <!-- course: pki_and_certificates -->
 # `PKI` and Certificates
 

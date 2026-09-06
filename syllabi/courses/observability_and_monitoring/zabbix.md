@@ -12,6 +12,7 @@ audience:
   - audiences:devops
   - audiences:network-engineers
 ---
+
 <!-- course: zabbix -->
 # `Zabbix` Enterprise Monitoring
 

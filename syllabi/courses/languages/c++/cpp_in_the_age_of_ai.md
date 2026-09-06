@@ -23,6 +23,7 @@ audience:
   - audiences:team-leads
   - audiences:architects
 ---
+
 <!-- course: cpp_in_the_age_of_ai -->
 # `C++` in the Age of `AI`
 
@@ -194,7 +195,7 @@ code that compiles without warnings and passes its tests while still being incor
     * `undefined behavior`
         * What `undefined behavior` actually licenses the compiler to do
         * The catalogue: out-of-bounds, use-after-free, signed overflow, strict aliasing,
-            uninitialised reads, data races, invalid downcasts, misaligned access
+          uninitialised reads, data races, invalid downcasts, misaligned access
         * Why `undefined behavior` survives testing and shows up in production
         * How optimization turns latent `undefined behavior` into visible misbehavior
     * The memory model and concurrency

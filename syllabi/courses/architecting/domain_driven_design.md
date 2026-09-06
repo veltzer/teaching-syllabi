@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: domain_driven_design -->
 # `Domain-Driven Design`
 

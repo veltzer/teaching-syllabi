@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:security-professionals
 ---
+
 <!-- course: spring_security -->
 # `Spring Security`
 

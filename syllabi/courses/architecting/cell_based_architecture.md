@@ -13,6 +13,7 @@ audience:
   - audiences:devops
   - audiences:team-leads
 ---
+
 <!-- course: cell_based_architecture -->
 # Cell-Based Architecture
 

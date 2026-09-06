@@ -13,6 +13,7 @@ audience:
   - audiences:architects
   - audiences:security-engineers
 ---
+
 <!-- course: oauth2_and_oidc -->
 # `OAuth2` and `OpenID Connect`
 

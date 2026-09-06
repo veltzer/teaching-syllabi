@@ -10,6 +10,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: introduction_to_game_development_with_unity -->
 # Introduction to Game Development with `Unity`
 

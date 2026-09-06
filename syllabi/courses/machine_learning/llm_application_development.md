@@ -14,6 +14,7 @@ audience:
   - audiences:data-scientists
   - audiences:architects
 ---
+
 <!-- course: llm_application_development -->
 # `LLM` Application Development
 

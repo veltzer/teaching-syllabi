@@ -15,6 +15,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: etl_vs_elt_and_modern_data_pipelines -->
 # `ETL` vs `ELT` and Modern Data Pipelines
 

@@ -10,6 +10,7 @@ duration_hours: 16
 audience:
   - audiences:developers
 ---
+
 <!-- course: introduction_to_apache_kafka -->
 <!-- Track gap: ZooKeeper as a dedicated topic with detailed coverage -->
 # Introduction to `Apache Kafka`

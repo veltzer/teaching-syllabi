@@ -13,6 +13,7 @@ audience:
   - audiences:developers
   - audiences:team-leads
 ---
+
 <!-- course: kiro_in_practice -->
 # `Kiro` in Practice
 
@@ -194,17 +195,17 @@ machine against a real codebase.
 Each student should have:
 
 * A laptop running `Linux`, `macOS` or `Windows` with permission to install
-    software.
+  software.
 * `Kiro` installed and signed in with a working account before the course
-    starts. The free tier is sufficient for the exercises.
+  starts. The free tier is sufficient for the exercises.
 * `git` installed and configured.
 * `node` and `npm` (or `uv` and a `Python` 3 environment) for running local
-    `MCP` servers.
+  `MCP` servers.
 * A real code repository the student is comfortable experimenting with. A
-    clone of an open source project is fine if no private repository is
-    available.
+  clone of an open source project is fine if no private repository is
+  available.
 * Free, wide band, access to the internet with no corporate firewall that
-    blocks `Kiro`'s endpoints or `Open VSX`.
+  blocks `Kiro`'s endpoints or `Open VSX`.
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

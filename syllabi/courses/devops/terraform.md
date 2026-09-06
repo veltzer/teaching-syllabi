@@ -13,6 +13,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: terraform -->
 <!-- Track gap: Packer integration for machine image building -->
 # `Terraform` / Infrastructure as Code

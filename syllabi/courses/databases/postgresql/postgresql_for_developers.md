@@ -11,6 +11,7 @@ duration_hours: 24
 audience:
   - audiences:developers
 ---
+
 <!-- course: postgresql_for_developers -->
 # `PostgreSQL` for Developers
 

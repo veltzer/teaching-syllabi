@@ -10,6 +10,7 @@ audience:
   - audiences:data-engineers
   - audiences:developers
 ---
+
 <!-- course: scala_for_data_engineering -->
 # `Scala` for Data Engineering
 

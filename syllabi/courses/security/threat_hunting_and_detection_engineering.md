@@ -14,6 +14,7 @@ audience:
   - audiences:developers
   - audiences:senior-developers
 ---
+
 <!-- course: threat_hunting_and_detection_engineering -->
 # Threat Hunting and Detection Engineering
 

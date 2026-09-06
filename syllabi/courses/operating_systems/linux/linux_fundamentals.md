@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:sysadmins
 ---
+
 <!-- course: linux_fundamentals -->
 # `Linux` fundamentals
 

@@ -12,6 +12,7 @@ audience:
   - audiences:developers
   - audiences:embedded-engineers
 ---
+
 <!-- course: device_tree_101 -->
 # `Device Tree` 101
 
@@ -54,7 +55,7 @@ object of providing board support or tuning your kernel to a specific purpose.
 * Common properties and examples
 
 ## References
-* [slides for this course](`https`://bootlin.com/pub/conferences/2021/webinar/petazzoni-device-tree-101/)
+* [slides for this course](https://bootlin.com/pub/conferences/2021/webinar/petazzoni-device-tree-101/)
 
 ## Copyright
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

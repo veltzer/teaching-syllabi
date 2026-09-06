@@ -11,6 +11,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: mysql_dba -->
 # `MySQL` DBA
 

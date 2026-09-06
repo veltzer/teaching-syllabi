@@ -10,6 +10,7 @@ audience:
   - audiences:developers
   - audiences:architects
 ---
+
 <!-- course: lorawan_and_lpwan -->
 # LoRaWAN and LPWAN
 

@@ -11,6 +11,7 @@ audience:
   - audiences:devops
   - audiences:dbas
 ---
+
 <!-- course: cassandra_administration -->
 # `Cassandra` Administration
 

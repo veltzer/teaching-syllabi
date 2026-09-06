@@ -1,12 +1,7 @@
-allow_defined = true
-allow_defined_top = true
-new_globals = {"Pandoc"}
-new_read_globals = {"pandoc", "PANDOC_STATE", "FORMAT"}
-
-files["config/"] = {
-    ignore = {"131"},
-}
-
-files["print/"] = {
-    ignore = {"131"},
+-- config/*.lua define top-level globals that are read by the rsconstruct
+-- tera template renderer (load_lua), not by other Lua code — so defining
+-- them is intended (allow_defined_top) and "unused global" (131) is noise.
+files["config"] = {
+    allow_defined_top = true,
+    ignore = { "131" },
 }

@@ -11,6 +11,7 @@ audience:
   - audiences:sysadmins
   - audiences:devops
 ---
+
 <!-- course: rabbitmq_for_devops -->
 # `RabbitMQ` for `DevOps`
 

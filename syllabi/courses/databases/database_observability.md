@@ -14,6 +14,7 @@ audience:
   - audiences:devops
   - audiences:sres
 ---
+
 <!-- course: database_observability -->
 # Database Observability
 

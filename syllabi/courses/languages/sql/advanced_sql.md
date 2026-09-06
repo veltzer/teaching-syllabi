@@ -9,6 +9,7 @@ audience:
   - audiences:developers
   - audiences:dbas
 ---
+
 <!-- course: advanced_sql -->
 # Advanced `SQL`
 
