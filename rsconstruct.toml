@@ -67,6 +67,10 @@ args = ["-c", ".eslint.config.js"]
 # ─── teaching content ────────────────────────────────────────────────────────
 
 [processor.tags]
+# The vocabulary moved out of this repo into the shared-tags submodule, so
+# teaching-slides and business-syllabi validate against the same lists.
+# tags_dir defaults to "tags", so the new location must be named.
+tags_dir = "shared/shared-tags"
 src_dirs = ["syllabi", "out/generator"]
 required_fields = ["tags", "level", "category", "audience"]
 required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
@@ -126,9 +130,9 @@ inputs = [
     "shared/shared-themes/typography.css",
     "shared/shared-themes/components.css",
     "shared/shared-themes/theme-switcher.js",
-    "tags/level.txt",
-    "tags/category.txt",
-    "tags/audiences.txt",
+    "shared/shared-tags/level.txt",
+    "shared/shared-tags/category.txt",
+    "shared/shared-tags/audiences.txt",
 ]
 input_globs = [
     "_site/courses/**/*.html",
