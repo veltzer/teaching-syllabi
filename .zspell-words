@@ -519,6 +519,8 @@ ip
 ipc
 ipo
 ipsec
+irule
+irules
 isa
 ise
 iso
@@ -664,6 +666,7 @@ metatables
 meyers
 microcontroller
 microcontrollers
+microkernel
 microservice
 microservices
 microsoft

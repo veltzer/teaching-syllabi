@@ -22,7 +22,7 @@ version: 0.0.1
 ![build](https://github.com/veltzer/teaching-syllabi/workflows/build/badge.svg)
 ## Number of syllabi
 
-Currently there are 662 syllabi in this repo.
+Currently there are 663 syllabi in this repo.
 
 ## contact me
 
