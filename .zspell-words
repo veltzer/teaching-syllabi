@@ -917,6 +917,7 @@ reprocessable
 reranking
 resharding
 resnet
+ret
 reusability
 ripgrep
 riscv
@@ -932,6 +933,7 @@ rollout
 rollouts
 rollup
 rootfs
+rop
 rp
 rpc
 rpcs
@@ -991,6 +993,7 @@ shap
 sharded
 sharding
 sharedpreferences
+shellcode
 shellcodes
 showback
 shunit
@@ -1058,6 +1061,8 @@ sveltekit
 swd
 swiftui
 sys
+syscall
+syscalls
 systemd
 systemverilog
 syzkaller
@@ -1137,6 +1142,7 @@ usememo
 usereducer
 userspace
 usestate
+usr
 uvicorn
 ux
 valgrind
@@ -1173,6 +1179,7 @@ walkthroughs
 wasi
 wasm
 watchos
+weaponization
 weaviate
 webassembly
 webauthn
