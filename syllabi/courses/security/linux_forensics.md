@@ -55,7 +55,7 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Services and `systemd`
         * Users and Groups
         * Understanding Shells
-<!-- chapter: forensic-fundamentals, duration: 9h -->
+<!-- chapter: forensic-fundamentals, duration: 7h -->
 * Forensic Fundamentals
   This module will expose students to the internal
   components of the `Linux` OS. Students will learn
@@ -64,6 +64,7 @@ The course helps prepare for the certification exam CLFP (7Safe).
     * Understanding Hashes and Encodings
         * Hash as a Digital Signature
         * The Use of Hash for Forensics
+        * Similarity and Fuzzy Hashing (`ssdeep`)
         * Base Encodings
     * `Linux`-OS Artifacts
         * User Activity Files
@@ -100,18 +101,19 @@ The course helps prepare for the certification exam CLFP (7Safe).
     * Drive Data Acquisition
         * Introduction to FTK-Imager `CLI`
         * Capturing Volatile-Memory using `LiME` vs. using fmem
-<!-- chapter: analyzing-forensic-findings, duration: 8h -->
+<!-- chapter: analyzing-forensic-findings, duration: 12h -->
 * Analyzing Forensic Findings
   In this module, students will understand how to
   uncover hidden information, detect tampered files,
-  work with memory, and analyze the `RAM`.
+  work with memory and network captures, and analyze
+  the `RAM`.
     * Analyzing captured images
         * Features of FTK `CLI`
         * Analyzing Inode Numbering
         * Building Timelines as a `CSV`
         * Extracting and Examining System Logs
     * Advanced `Linux`-OS Analysis
-        * `Strace` and `Ltrace`
+        * `Strace`, `Ltrace`, and `Ftrace`
         * Understanding Obfuscation
         * Working with Binaries
         * Introduction to `GDB`
@@ -119,7 +121,18 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Extracting Data from `RAM`
         * Identifying Network Connections
         * Dumping Processes from Memory
-<!-- chapter: data-labelling-and-report-writing, duration: 9h -->
+        * Detecting Syscall Hooking and Hidden Modules
+    * Network Forensics and Intrusion Tracing
+        * Analyzing `pcap` Captures with `tshark`
+        * Reconstructing Sessions and Extracting Files
+        * Tracing `C2` Beacons and Lateral Movement
+        * Detecting `DNS` Tunnelling and Covert Channels
+    * Anti-Forensics and Countermeasures
+        * Detecting Timestamp Manipulation
+        * Detecting Log Tampering
+        * Hidden Storage: `tmpfs`, `/dev/shm`, and Slack Space
+        * Analyzing Rootkit-Modified Images
+<!-- chapter: data-labelling-and-report-writing, duration: 7h -->
 * Data Labelling and Report Writing
   Participants will study different forensics reports
   prepared by investigators following past incidents
@@ -137,6 +150,11 @@ The course helps prepare for the certification exam CLFP (7Safe).
     * Tools for Correct Reporting
         * Autopsy
         * Dradis
+    * Capstone Forensic Investigation
+        * Reconstructing the Attacker Timeline
+        * Identifying the Privilege Escalation Path
+        * Recovering and Characterizing the Implant
+        * Producing a Court-Ready Report
 
 ## References
 * [FTK Imager Documentation](https://www.exterro.com/ftk-imager)
