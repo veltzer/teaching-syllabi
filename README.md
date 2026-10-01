@@ -11,8 +11,6 @@ author: Mark Veltzer
 
 version: 0.0.1
 
-![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-
 ## github
 
 ![License](https://img.shields.io/github/license/veltzer/teaching-syllabi)
@@ -22,7 +20,7 @@ version: 0.0.1
 ![build](https://github.com/veltzer/teaching-syllabi/workflows/build/badge.svg)
 ## Number of syllabi
 
-Currently there are 663 syllabi in this repo.
+Currently there are 664 syllabi in this repo.
 
 ## contact me
 
