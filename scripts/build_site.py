@@ -240,10 +240,10 @@ def generate_index(
         .replace("{{JS}}", js)
         .replace("{{DATA_JSON}}", json.dumps(entries, ensure_ascii=False))
         .replace("{{TOTAL_COUNT}}", str(len(entries)))
-        .replace("{{LEVEL_OPTIONS}}", level_options)
-        .replace("{{CATEGORY_OPTIONS}}", category_options)
-        .replace("{{TAG_OPTIONS}}", tag_options)
-        .replace("{{AUDIENCE_OPTIONS}}", audience_options)
+        .replace("<!--{{LEVEL_OPTIONS}}-->", level_options)
+        .replace("<!--{{CATEGORY_OPTIONS}}-->", category_options)
+        .replace("<!--{{TAG_OPTIONS}}-->", tag_options)
+        .replace("<!--{{AUDIENCE_OPTIONS}}-->", audience_options)
     )
 
 
