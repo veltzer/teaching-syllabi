@@ -47,7 +47,7 @@ src_dirs = ["config", "print"]
 src_files = [".rumdl.toml", "pyproject.toml", "rsconstruct.toml"]
 
 [processor.ijsonlint]
-src_files = [".stylelintrc.json", "package-lock.json", "package.json"]
+src_files = [".stylelintrc.json"]
 
 # ─── web ─────────────────────────────────────────────────────────────────────
 
@@ -57,12 +57,12 @@ src_dirs = ["site-resources", "shared", "print"]
 # that every other stylesheet is required to use, so it cannot obey color-no-hex.
 src_exclude_paths = ["shared/shared-themes/themes.css"]
 
-[processor.htmlhint]
+[processor.tidy]
 src_dirs = ["site-resources"]
 
-[processor.eslint]
+[processor.oxlint]
 src_dirs = ["site-resources", "shared"]
-args = ["-c", ".eslint.config.js"]
+args = ["-c", ".oxlintrc.json"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
 
