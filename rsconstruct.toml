@@ -18,7 +18,7 @@ reject_dot_src_dirs = true
 # listed here must exist: rsconstruct rejects a missing one at config load.
 # Repos still on config/*.py keep a dep_inputs override in their local
 # overlay until converted.
-[processor.tera]
+[processor.generator.tera]
 src_dirs = ["tera.templates"]
 dep_auto = [
 	"config/project.lua",
@@ -26,31 +26,31 @@ dep_auto = [
 	"config/version.lua",
 ]
 
-[processor.zspell]
-src_dirs = ["syllabi", "out/generator"]
+[processor.checker.zspell]
+src_dirs = ["syllabi", "out/processor.generator.generic"]
 
 # ─── python ──────────────────────────────────────────────────────────────────
 
-[processor.ruff]
+[processor.checker.ruff]
 src_dirs = ["scripts", "config"]
 
 
-[processor.mypy]
+[processor.checker.mypy]
 src_dirs = ["scripts", "config"]
 
-[processor.luacheck]
+[processor.checker.luacheck]
 src_dirs = ["config", "print"]
 
 # ─── toml / yaml / json ──────────────────────────────────────────────────────
 
-[processor.taplo]
+[processor.checker.taplo]
 src_files = [".rumdl.toml", "pyproject.toml", "rsconstruct.toml"]
 
 # ─── web ─────────────────────────────────────────────────────────────────────
 
 # Design-token rules (biome GritQL plugin) from the shared-themes submodule:
 # stylesheets must use its var(--<role>) tokens instead of raw colors.
-[processor.biome]
+[processor.checker.biome]
 src_dirs = ["site-resources", "shared", "print"]
 # Generated from themes.yaml; defines the raw hex values of the --<role> tokens
 # that every other stylesheet is required to use, so it cannot obey the no-hex rule.
@@ -59,7 +59,7 @@ src_extensions = [".css"]
 args = ["--config-path", "shared/shared-themes/biome-tokens.jsonc"]
 dep_inputs = ["shared/shared-themes/biome-tokens.jsonc", "shared/shared-themes/design-tokens.grit"]
 
-[processor.tidy]
+[processor.checker.tidy]
 src_dirs = ["site-resources"]
 # The index pages use Material Web components (<md-outlined-select>, ...),
 # which are valid HTML5 custom elements tidy only accepts with custom-tags,
@@ -67,37 +67,37 @@ src_dirs = ["site-resources"]
 # tidy would otherwise warn it might trim.
 args = ["--custom-tags", "blocklevel", "--drop-empty-elements", "no"]
 
-[processor.oxlint]
+[processor.checker.oxlint]
 src_dirs = ["site-resources", "shared"]
 args = ["-c", ".oxlintrc.json"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
 
-[processor.tags]
+[processor.generator.tags]
 # The vocabulary moved out of this repo into the shared-tags submodule, so
 # teaching-slides and business-syllabi validate against the same lists.
 # tags_dir defaults to "tags", so the new location must be named.
 tags_dir = "shared/shared-tags"
-src_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/processor.generator.generic"]
 required_fields = ["tags", "level", "category", "audience"]
 required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
 
-[processor.terms]
+[processor.checker.terms]
 dir_terms_unambiguous = "shared/shared-terms/unambiguous"
 dir_terms_ambiguous = "shared/shared-terms/ambiguous"
-src_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/processor.generator.generic"]
 
-[processor.pandoc.syllabi]
+[processor.generator.pandoc.syllabi]
 src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
 args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
 dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
 
-[processor.script.check_md]
+[processor.checker.script.check_md]
 command = "scripts/check_md.py"
 src_extensions = [".md"]
-src_dirs = ["syllabi", "out/generator"]
+src_dirs = ["syllabi", "out/processor.generator.generic"]
 batch = true
 
 [pages]
@@ -108,22 +108,22 @@ dir = "_site"
 [dependencies]
 system = ["texlive-latex-recommended"]
 
-[processor.pandoc.generator]
-src_dirs = ["out/generator"]
+[processor.generator.pandoc.generator]
+src_dirs = ["out/processor.generator.generic"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
 args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
 dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
 
 # Track yaml files generate the per-track syllabi markdown.
-[processor.generator]
+[processor.generator.generic]
 src_dirs = ["tracks"]
 src_extensions = [".yaml"]
 batch = true
 command = "scripts/build_tracks.py"
 output_extension = "md"
 
-[processor.explicit.build_site]
+[processor.explicit.generic.build_site]
 command = "scripts/build_site.py"
 inputs = [
     "site-resources/index_material_web.html",
@@ -148,16 +148,16 @@ input_globs = [
 output_dirs = ["_site"]
 
 # lint the GitHub Actions workflow files with actionlint
-[processor.actionlint]
+[processor.checker.actionlint]
 src_dirs = [".github/workflows"]
 
 # ─── markdown ────────────────────────────────────────────────────────────────
 
-[processor.rumdl]
+[processor.checker.rumdl]
 src_dirs = ["doc", "syllabi/courses"]
 src_files = ["CLAUDE.md", "README.md"]
 
 # ─── yaml ────────────────────────────────────────────────────────────────────
 
-[processor.yamllint]
+[processor.checker.yamllint]
 src_dirs = ["tracks"]

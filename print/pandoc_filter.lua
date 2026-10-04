@@ -9,7 +9,7 @@
 local function get_course_path()
     local input = PANDOC_STATE.input_files[1] or ""
     local path = input:match("syllabi/courses/(.+)/[^/]+$")
-        or input:match("out/generator/(.+)/[^/]+$")
+        or input:match("out/processor%.generator%.generic/(.+)/[^/]+$")
     return path
 end
 

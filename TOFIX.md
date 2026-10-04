@@ -5,7 +5,7 @@ Findings from a code scan on 2026-10-04.
 ## High
 
 - `site-resources/index_material_css.js:170` - DOM XSS: `currentFolder` comes straight from `location.hash` (`#folder=...`, lines 115 and 377) and its last segment is concatenated into `breadcrumbEl.innerHTML`, so `#folder=<img src=x onerror=...>` runs script on the shared `veltzer.github.io` origin; the same code is in `site-resources/index_material_web.js:165`. Build the breadcrumb with `textContent`/DOM nodes (and stop splicing `path` into inline `onclick` strings at line 172). The `#syllabus=` value is likewise put unescaped into `href` attributes at lines 70-73.
-- `scripts/build_tracks.py:167` - exercise URLs are rewritten to `` `https`:// ``, which lands inside the link target: `out/generator/aws_for_experienced_developers.md:33` renders `[...](`https`://amazon.qwiklabs.com)`, a broken link in the published HTML/PDF/DOCX. Leave the URL untouched (only wrap terms in the link text).
+- `scripts/build_tracks.py:167` - exercise URLs are rewritten to `` `https`:// ``, which lands inside the link target: `out/processor.generator.generic/aws_for_experienced_developers.md:33` renders `[...](`https`://amazon.qwiklabs.com)`, a broken link in the published HTML/PDF/DOCX. Leave the URL untouched (only wrap terms in the link text).
 
 ## Medium
 
