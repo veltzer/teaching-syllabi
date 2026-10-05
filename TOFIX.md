@@ -12,7 +12,7 @@ Findings from a code scan on 2026-10-04.
 - `scripts/build_site.py:21` - `TAG_LISTS_DIR` points at `tag_lists/`, which no longer exists (the vocabulary moved to `shared/shared-tags`, see `rsconstruct.toml:129-132`); `read_tag_order` silently returns `[]` (line 39), so the level/category/audience filters fall back to alphabetical order. Point it at `shared/shared-tags` and raise if the file is missing, per the repo's fail-loudly rule (`CLAUDE.md:22`).
 - `scripts/build_tracks.py:81` - a course without an `## Outline` section returns no chapters, and `build_outline` (line 237) then silently adds nothing for that track entry; raise instead. Likewise the `else 1` duration fallbacks at lines 232 and 243 invent durations that `doc/HowToWriteSyllabus.txt:4` says must always be explicit.
 - `pyproject.toml:224` - `demjson3` is a declared dependency but nothing in the repo imports it; remove it (and refresh `uv.lock`).
-- `doc/HowToWriteSyllabus.txt:3` - "do not state how long each topics/subtopic takes" contradicts line 4 ("ALL chapters MUST have a duration specified"), which `scripts/check_md.py:176` enforces; delete or reword line 3. Line 8 has typos ("syllsbus my have").
+- `doc/HowToWriteSyllabus.txt:3` - "do not state how long each topics/subtopic takes" contradicts line 4 ("ALL chapters MUST have a duration specified"), which `scripts/check_syllabus_md.py:176` enforces; delete or reword line 3. Line 8 has typos ("syllsbus my have").
 
 ## Low
 

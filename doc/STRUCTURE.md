@@ -163,7 +163,7 @@ does not exist.
 
 ## Scripts
 
-### scripts/check_md.py
+### scripts/check_syllabus_md.py
 
 Validates course markdown files. Run in batch mode by rsconstruct.
 

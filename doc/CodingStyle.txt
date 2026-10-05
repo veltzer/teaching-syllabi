@@ -13,7 +13,7 @@ We don't put a ":" after section names
 
 We don't use the word "syllabus" in the name of the course header
 
-We use standard subsections which you can see in scripts/check_md.py
+We use standard subsections which you can see in scripts/check_syllabus_md.py
 
 All scripts must be strict: fail immediately on any error with a non-zero exit code.
 Never print warnings and continue. Use exceptions or sys.exit(1).

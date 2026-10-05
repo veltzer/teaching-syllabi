@@ -94,8 +94,8 @@ output_dir = "_site"
 args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
 dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
 
-[processor.checker.script.check_md]
-command = "scripts/check_md.py"
+[processor.checker.script.check_syllabus_md]
+command = "scripts/check_syllabus_md.py"
 src_extensions = [".md"]
 src_dirs = ["syllabi", "out/processor.generator.generic"]
 batch = true
