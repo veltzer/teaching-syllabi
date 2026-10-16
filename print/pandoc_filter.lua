@@ -58,6 +58,20 @@ end
 -- Set the document title from the first H1 heading if no title is set,
 -- remove that H1 to avoid duplication in standalone mode,
 -- and insert the course category path.
+-- shared-themes' theme-onload.js, inlined at the start of the body of every
+-- HTML syllabus so the theme a reader chose on the sites follows them here.
+-- A raw block at the body start rather than header-includes: it works in
+-- pandoc and rspandoc alike, and runs before any content is painted.
+local function theme_onload_block()
+    local f = io.open("shared/shared-themes/theme-onload.js", "r")
+    if not f then
+        error("shared/shared-themes/theme-onload.js not found; run: git submodule update --init")
+    end
+    local js = f:read("a")
+    f:close()
+    return pandoc.RawBlock("html", "<script>\n" .. js .. "</script>")
+end
+
 function Pandoc(doc)
     if not doc.meta.title then
         for i, block in ipairs(doc.blocks) do
@@ -71,6 +85,9 @@ function Pandoc(doc)
     local course_path = get_course_path()
     if course_path then
         table.insert(doc.blocks, 1, build_category_block(course_path))
+    end
+    if FORMAT:match("html") then
+        table.insert(doc.blocks, 1, theme_onload_block())
     end
     return doc
 end

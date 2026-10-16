@@ -85,7 +85,7 @@ src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
 args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "shared/shared-themes/theme-onload.js", "print/syllabus.css", "print/pandoc_filter.lua"]
 
 [processor.checker.script.check_syllabus_md]
 command = "scripts/check_syllabus_md.py"
@@ -106,7 +106,7 @@ src_dirs = ["out/processor.generator.generic"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
 args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "print/syllabus.css", "print/pandoc_filter.lua"]
+dep_inputs = ["shared/shared-themes/themes.css", "shared/shared-themes/theme-onload.js", "print/syllabus.css", "print/pandoc_filter.lua"]
 
 # Track yaml files generate the per-track syllabi markdown.
 [processor.generator.generic]
