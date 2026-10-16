@@ -40,12 +40,12 @@ src_files = [".rumdl.toml", "pyproject.toml", "rsconstruct.toml"]
 # ─── web ─────────────────────────────────────────────────────────────────────
 
 # Design-token rules (biome GritQL plugin) from the shared-themes submodule:
-# stylesheets must use its var(--<role>) tokens instead of raw colors.
+# this repo's stylesheets must use its var(--<role>) tokens instead of raw
+# colors. The submodules are not scanned: shared-themes lints its own
+# stylesheets in its own build, and its generated files (themes.css, the marp
+# themes) hold the raw token values by design.
 [processor.checker.biome]
-src_dirs = ["site-resources", "shared", "print"]
-# Generated from themes.yaml; defines the raw hex values of the --<role> tokens
-# that every other stylesheet is required to use, so it cannot obey the no-hex rule.
-src_exclude_paths = ["shared/shared-themes/themes.css"]
+src_dirs = ["site-resources", "print"]
 src_extensions = [".css"]
 args = ["--config-path", "shared/shared-themes/biome-tokens.jsonc"]
 dep_inputs = ["shared/shared-themes/biome-tokens.jsonc", "shared/shared-themes/design-tokens.grit"]
@@ -58,8 +58,10 @@ src_dirs = ["site-resources"]
 # tidy would otherwise warn it might trim.
 options = ["custom-tags: blocklevel", "drop-empty-elements: no"]
 
+# The submodules are not scanned here either; shared-themes lints its own
+# theme-switcher.js in its own build.
 [processor.checker.oxlint]
-src_dirs = ["site-resources", "shared"]
+src_dirs = ["site-resources"]
 args = ["-c", ".oxlintrc.json"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
@@ -128,6 +130,7 @@ inputs = [
     "shared/shared-themes/typography.css",
     "shared/shared-themes/components.css",
     "shared/shared-themes/theme-switcher.js",
+    "shared/shared-themes/themes.json",
     "shared/shared-tags/level.txt",
     "shared/shared-tags/category.txt",
     "shared/shared-tags/audiences.txt",

@@ -33,6 +33,25 @@ DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
 UI_VARIANT = os.environ.get("MATERIAL_VARIANT", "material_web")
 
 
+
+def theme_options() -> str:
+    """The theme <select> entries, from shared-themes' themes.json, so the
+    list, its order and its labels are never retyped in this repo. The
+    default theme is marked selected to match what :root applies."""
+    palette = json.loads((SHARED_THEMES_DIR / "themes.json").read_text(encoding="utf-8"))
+    lines = []
+    for theme in palette["themes"]:
+        code, label = theme["code"], theme["label"]
+        selected = " selected" if code == palette["default"] else ""
+        if UI_VARIANT == "material_web":
+            lines.append(
+                f'<md-select-option value="{code}"{selected}>'
+                f'<div slot="headline">{label}</div></md-select-option>'
+            )
+        else:
+            lines.append(f'<option value="{code}"{selected}>{label}</option>')
+    return "\n".join(lines)
+
 def read_tag_order(filename: str) -> list[str]:
     """Read tag values from a tag_lists file, preserving file order."""
     path = TAG_LISTS_DIR / filename
@@ -244,6 +263,7 @@ def generate_index(
         .replace("<!--{{CATEGORY_OPTIONS}}-->", category_options)
         .replace("<!--{{TAG_OPTIONS}}-->", tag_options)
         .replace("<!--{{AUDIENCE_OPTIONS}}-->", audience_options)
+        .replace("<!--{{THEME_OPTIONS}}-->", theme_options())
     )
 
 
