@@ -132,6 +132,7 @@ inputs = [
     "shared/shared-themes/theme-switcher.js",
     "shared/shared-themes/themes.json",
     "shared/shared-themes/fonts.css",
+    "shared/shared-themes/shared_themes.py",
     "shared/shared-tags/level.txt",
     "shared/shared-tags/category.txt",
     "shared/shared-tags/audiences.txt",

@@ -6,10 +6,10 @@ Pandoc outputs directly to _site/ via rsconstruct; this script
 scans the HTML files there and builds a filterable index page.
 """
 
+import importlib.util
 import json
 import os
 import re
-import shutil
 from pathlib import Path
 from typing import Any
 
@@ -34,26 +34,6 @@ DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
 UI_VARIANT = os.environ.get("MATERIAL_VARIANT", "material_web")
 
 
-
-def theme_options() -> str:
-    """The theme <select> entries, from shared-themes' themes.json, so the
-    list, its order, its labels and their hints ("Midnight (dark blue)") are
-    never retyped in this repo. The default theme is marked selected to
-    match what :root applies."""
-    palette = json.loads((SHARED_THEMES_DIR / "themes.json").read_text(encoding="utf-8"))
-    lines = []
-    for theme in palette["themes"]:
-        code = theme["code"]
-        label = f'{theme["label"]} ({theme["description"]})'
-        selected = " selected" if code == palette["default"] else ""
-        if UI_VARIANT == "material_web":
-            lines.append(
-                f'<md-select-option value="{code}"{selected}>'
-                f'<div slot="headline">{label}</div></md-select-option>'
-            )
-        else:
-            lines.append(f'<option value="{code}"{selected}>{label}</option>')
-    return "\n".join(lines)
 
 def read_tag_order(filename: str) -> list[str]:
     """Read tag values from a tag_lists file, preserving file order."""
@@ -205,16 +185,20 @@ def build_site() -> None:
     )
     index_path = DOCS_DIR / "index.html"
     index_path.write_text(index_html, encoding="utf-8")
-    publish_fonts(DOCS_DIR)
+    load_shared_themes().publish_fonts(DOCS_DIR)
     print(f"Site index built: {len(entries)} syllabi found in {DOCS_DIR}")
     print(f"Index: {index_path}")
 
 
-def publish_fonts(site_dir: Path) -> None:
-    """Copy the shared-themes fonts next to the index, where the inlined
-    fonts.css expects them. Committed files in the submodule; nothing is
-    fetched."""
-    shutil.copytree(SHARED_THEMES_DIR / "fonts", site_dir / "fonts", dirs_exist_ok=True)
+def load_shared_themes():
+    """The consumer helper from the shared-themes submodule (shared_themes.py):
+    the inlined CSS layers, the switcher, the theme <select> entries and the
+    fonts copy, one implementation for every index page in the fleet."""
+    path = SHARED_THEMES_DIR / "shared_themes.py"
+    spec = importlib.util.spec_from_file_location("shared_themes", path)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
 
 
 def generate_index(
@@ -224,16 +208,7 @@ def generate_index(
     all_categories: list[str],
     all_audiences: list[str],
 ) -> str:
-    shared_css_parts = [
-        # fonts.css first: its url("fonts/...") entries are relative to the page
-        # the CSS is inlined into, and publish_fonts() puts fonts/ beside it.
-        (SHARED_THEMES_DIR / "fonts.css").read_text(encoding="utf-8"),
-        (SHARED_THEMES_DIR / "themes.css").read_text(encoding="utf-8"),
-        (SHARED_THEMES_DIR / "base.css").read_text(encoding="utf-8"),
-        (SHARED_THEMES_DIR / "typography.css").read_text(encoding="utf-8"),
-        (SHARED_THEMES_DIR / "components.css").read_text(encoding="utf-8"),
-    ]
-    shared_js = (SHARED_THEMES_DIR / "theme-switcher.js").read_text(encoding="utf-8")
+    shared = load_shared_themes()
 
     html_path = SITE_RESOURCES_DIR / f"index_{UI_VARIANT}.html"
     css_path = SITE_RESOURCES_DIR / f"index_{UI_VARIANT}.css"
@@ -243,8 +218,8 @@ def generate_index(
             f"Unknown MATERIAL_VARIANT '{UI_VARIANT}': {html_path} not found"
         )
 
-    css = "\n".join(shared_css_parts) + "\n" + css_path.read_text(encoding="utf-8")
-    js = shared_js + "\n" + js_path.read_text(encoding="utf-8")
+    css = shared.css() + css_path.read_text(encoding="utf-8")
+    js = shared.js() + js_path.read_text(encoding="utf-8")
     template = html_path.read_text(encoding="utf-8")
 
     if UI_VARIANT == "material_web":
@@ -277,7 +252,7 @@ def generate_index(
         .replace("<!--{{CATEGORY_OPTIONS}}-->", category_options)
         .replace("<!--{{TAG_OPTIONS}}-->", tag_options)
         .replace("<!--{{AUDIENCE_OPTIONS}}-->", audience_options)
-        .replace("<!--{{THEME_OPTIONS}}-->", theme_options())
+        .replace("<!--{{THEME_OPTIONS}}-->", shared.theme_options(material_web=UI_VARIANT == "material_web"))
     )
 
 
