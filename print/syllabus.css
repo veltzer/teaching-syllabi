@@ -1,20 +1,120 @@
 /*
- * Print/PDF stylesheet. Pandoc embeds shared-themes/themes.css ahead of this
- * file, so the --<role> tokens are in scope; colors come from the default
- * (light) theme, which is what paper wants. Only the font is overridden: the
- * site's webfont is not loadable by the PDF renderer, so print falls back to a
- * system stack.
+ * Syllabus stylesheet, for the HTML pandoc renders (the PDF goes through
+ * LaTeX and never sees it). Pandoc embeds shared-themes/themes.css ahead of
+ * this file, so every colour here is a --<role> token from the fleet's
+ * palettes and the biome token rules hold: the page renders in azure, the
+ * fleet's default, and follows the reader to any other palette they chose
+ * on the sites (theme-onload.js, inlined by the Lua filter, sets data-theme
+ * on <html>). Backgrounds and surfaces come from the tokens too, so a dark
+ * palette is dark all the way down, not light text on pandoc's white.
+ *
+ * Shared between teaching-syllabi and business-syllabi, byte for byte
+ * (rsmultigit check same enforces it).
  */
 :root {
+    /* The sites' webfont is not embedded in a standalone document, so the
+       token falls back to a system stack here. */
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+html {
+    background: var(--bg);
 }
 
 body {
     font-family: var(--font-sans);
+    background: var(--bg);
+    color: var(--text-primary);
     max-width: 900px;
     margin: 2rem auto;
     padding: 0 1rem;
     line-height: 1.6;
+}
+
+h1 {
+    color: var(--text-primary);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 1rem 0;
+}
+
+h2 {
+    color: var(--accent);
+    font-weight: 600;
+    margin: 2rem 0 0.75rem 0;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+h3, h4 {
+    color: var(--text-primary);
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+strong {
+    color: var(--text-primary);
+}
+
+code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-xs);
+    padding: 0.1em 0.3em;
+}
+
+pre {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 0.75rem 1rem;
+    overflow-x: auto;
+}
+
+pre code {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+blockquote {
+    margin: 1rem 0;
+    padding: 0.25rem 1rem;
+    color: var(--text-secondary);
+    border-left: 3px solid var(--accent);
+    background: var(--bg-surface);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--border-subtle);
+    margin: 2rem 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+th, td {
+    border: 1px solid var(--border);
+    padding: 0.4rem 0.75rem;
+    text-align: left;
+}
+
+th {
+    background: var(--bg-surface);
     color: var(--text-primary);
 }
 
@@ -44,4 +144,5 @@ ul ul ul {
 #outline + ul > li::before {
     content: counter(chapter) ". ";
     font-weight: bold;
+    color: var(--accent);
 }
