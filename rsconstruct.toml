@@ -80,12 +80,30 @@ dir_terms_unambiguous = "shared/shared-terms/unambiguous"
 dir_terms_ambiguous = "shared/shared-terms/ambiguous"
 src_dirs = ["syllabi", "out/processor.generator.generic"]
 
+# Every format takes its look from the shared-themes submodule: the HTML from
+# themes.css (tokens), print/syllabus.css (layout) and theme-onload.js (the
+# reader's palette, inlined by the Lua filter); the PDF from latex/azure.tex,
+# which the Lua filter adds to the preamble; the docx from the
+# docx/azure.docx reference document.
 [processor.generator.pandoc.syllabi]
 src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
-args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "shared/shared-themes/theme-onload.js", "print/syllabus.css", "print/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua", "--reference-doc=shared/shared-themes/docx/azure.docx"]
+# xelatex because the LaTeX theme loads the token fonts with fontspec.
+pdf_engine = "xelatex"
+dep_inputs = [
+    "shared/shared-themes/themes.css",
+    "shared/shared-themes/theme-onload.js",
+    "shared/shared-themes/latex/azure.tex",
+    "shared/shared-themes/docx/azure.docx",
+    "shared/shared-themes/fonts/Outfit-Regular.ttf",
+    "shared/shared-themes/fonts/Outfit-Bold.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-Regular.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-SemiBold.ttf",
+    "print/syllabus.css",
+    "print/pandoc_filter.lua",
+]
 
 [processor.checker.script.check_syllabus_md]
 command = "scripts/check_syllabus_md.py"
@@ -98,15 +116,31 @@ dir = "_site"
 
 # ─── repo-specific configuration ────────────────────────────────────────────
 
+# pandoc renders the PDFs with xelatex (texlive-xetex); the LaTeX theme's
+# packages (fontspec, unicode-math, titlesec, colortbl) come with it and
+# texlive-latex-recommended.
 [dependencies]
-system = ["texlive-latex-recommended"]
+system = ["texlive-latex-recommended", "texlive-xetex"]
 
 [processor.generator.pandoc.generator]
 src_dirs = ["out/processor.generator.generic"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
-args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua"]
-dep_inputs = ["shared/shared-themes/themes.css", "shared/shared-themes/theme-onload.js", "print/syllabus.css", "print/pandoc_filter.lua"]
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua", "--reference-doc=shared/shared-themes/docx/azure.docx"]
+# xelatex because the LaTeX theme loads the token fonts with fontspec.
+pdf_engine = "xelatex"
+dep_inputs = [
+    "shared/shared-themes/themes.css",
+    "shared/shared-themes/theme-onload.js",
+    "shared/shared-themes/latex/azure.tex",
+    "shared/shared-themes/docx/azure.docx",
+    "shared/shared-themes/fonts/Outfit-Regular.ttf",
+    "shared/shared-themes/fonts/Outfit-Bold.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-Regular.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-SemiBold.ttf",
+    "print/syllabus.css",
+    "print/pandoc_filter.lua",
+]
 
 # Track yaml files generate the per-track syllabi markdown.
 [processor.generator.generic]

@@ -72,6 +72,24 @@ local function theme_onload_block()
     return pandoc.RawBlock("html", "<script>\n" .. js .. "</script>")
 end
 
+-- shared-themes' LaTeX theme, added to the preamble of every PDF syllabus:
+-- the palette's colors and fonts, as themes.css gives the HTML. A raw latex
+-- block in header-includes rather than --include-in-header, because the
+-- same pandoc arguments render the html and docx too, and those writers
+-- drop a raw latex block where they would paste an included file verbatim.
+-- Print has no switcher, so it is the fleet's default palette, azure; the
+-- docx gets the same through --reference-doc in rsconstruct.toml.
+local function latex_theme_block()
+    local path = "shared/shared-themes/latex/azure.tex"
+    local f = io.open(path, "r")
+    if not f then
+        error(path .. " not found; run: git submodule update --init")
+    end
+    local tex = f:read("a")
+    f:close()
+    return pandoc.RawBlock("latex", tex)
+end
+
 function Pandoc(doc)
     if not doc.meta.title then
         for i, block in ipairs(doc.blocks) do
@@ -88,6 +106,16 @@ function Pandoc(doc)
     end
     if FORMAT:match("html") then
         table.insert(doc.blocks, 1, theme_onload_block())
+    end
+    if FORMAT == "latex" then
+        local includes = doc.meta["header-includes"]
+        if includes == nil then
+            includes = pandoc.MetaList({})
+        elseif pandoc.utils.type(includes) ~= "List" then
+            includes = pandoc.MetaList({includes})
+        end
+        includes:insert(pandoc.MetaBlocks({latex_theme_block()}))
+        doc.meta["header-includes"] = includes
     end
     return doc
 end

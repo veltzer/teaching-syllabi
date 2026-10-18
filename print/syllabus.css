@@ -1,6 +1,10 @@
 /*
- * Syllabus stylesheet, for the HTML pandoc renders (the PDF goes through
- * LaTeX and never sees it). Pandoc embeds shared-themes/themes.css ahead of
+ * Syllabus stylesheet, for the HTML pandoc renders. The PDF goes through
+ * LaTeX and the docx through its reference document, so neither sees this
+ * file; they take the same palette from shared-themes' latex/azure.tex
+ * (added by the Lua filter) and docx/azure.docx.
+ *
+ * Pandoc embeds shared-themes/themes.css ahead of
  * this file, so every colour here is a --<role> token from the fleet's
  * palettes and the biome token rules hold: the page renders in azure, the
  * fleet's default, and follows the reader to any other palette they chose
