@@ -2,6 +2,7 @@
 
 * read the instructions in the file doc/HowToWriteSyllabus.txt
 * read the sample syllabus from the file syllabi/courses/languages/python/python_programming.md
+* blurbs (blurbs/*.md, short talks) have their own format: read doc/HowToWriteBlurb.txt
 
 ## Instructions
 

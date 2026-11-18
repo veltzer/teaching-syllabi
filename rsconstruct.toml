@@ -18,7 +18,7 @@ reject_dot_src_dirs = true
 src_dirs = ["tera.templates"]
 
 [processor.checker.zspell]
-src_dirs = ["syllabi", "out/processor.generator.generic"]
+src_dirs = ["syllabi", "out/processor.generator.generic", "blurbs"]
 
 # ─── python ──────────────────────────────────────────────────────────────────
 
@@ -66,7 +66,7 @@ args = ["-c", ".oxlintrc.json"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
 
-[processor.generator.tags]
+[processor.generator.tags.syllabi]
 # The vocabulary moved out of this repo into the shared-tags submodule, so
 # teaching-slides and business-syllabi validate against the same lists.
 # tags_dir defaults to "tags", so the new location must be named.
@@ -75,10 +75,19 @@ src_dirs = ["syllabi", "out/processor.generator.generic"]
 required_fields = ["tags", "level", "category", "audience"]
 required_field_groups = [["duration_hours"], ["duration_hours_long", "duration_hours_short"]]
 
+# Blurbs share the syllabi's vocabulary but are timed in minutes, which the
+# hour-based duration lists do not cover, so they get their own instance.
+[processor.generator.tags.blurbs]
+tags_dir = "shared/shared-tags"
+output = "out/processor.generator.tags.blurbs/tags.db"
+src_dirs = ["blurbs"]
+required_fields = ["tags", "level", "category", "audience", "duration_minutes"]
+field_types = { duration_minutes = "number" }
+
 [processor.checker.terms]
 dir_terms_unambiguous = "shared/shared-terms/unambiguous"
 dir_terms_ambiguous = "shared/shared-terms/ambiguous"
-src_dirs = ["syllabi", "out/processor.generator.generic"]
+src_dirs = ["syllabi", "out/processor.generator.generic", "blurbs"]
 
 # Every format takes its look from the shared-themes submodule: the HTML from
 # themes.css (tokens), print/syllabus.css (layout) and theme-onload.js (the
@@ -105,10 +114,40 @@ dep_inputs = [
     "print/pandoc_filter.lua",
 ]
 
+# Blurbs render with the same look as the syllabi, into _site/blurbs.
+[processor.generator.pandoc.blurbs]
+src_dirs = ["blurbs"]
+formats = ["pdf", "html", "docx"]
+output_dir = "_site/blurbs"
+args = ["--standalone", "--embed-resources", "--css=shared/shared-themes/themes.css", "--css=print/syllabus.css", "--lua-filter=print/pandoc_filter.lua", "--reference-doc=shared/shared-themes/docx/azure.docx"]
+# xelatex because the LaTeX theme loads the token fonts with fontspec.
+pdf_engine = "xelatex"
+dep_inputs = [
+    "shared/shared-themes/themes.css",
+    "shared/shared-themes/theme-onload.js",
+    "shared/shared-themes/latex/azure.tex",
+    "shared/shared-themes/docx/azure.docx",
+    "shared/shared-themes/fonts/Outfit-Regular.ttf",
+    "shared/shared-themes/fonts/Outfit-Bold.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-Regular.ttf",
+    "shared/shared-themes/fonts/JetBrainsMono-SemiBold.ttf",
+    "print/syllabus.css",
+    "print/pandoc_filter.lua",
+]
+
 [processor.checker.script.check_syllabus_md]
 command = "scripts/check_syllabus_md.py"
 src_extensions = [".md"]
 src_dirs = ["syllabi", "out/processor.generator.generic"]
+batch = true
+
+# Blurbs (blurbs/) describe short talks. They are not syllabi: their agenda
+# times are in minutes and visible, so they get their own format checker
+# (see doc/HowToWriteBlurb.txt) and their own tags instance below.
+[processor.checker.script.check_blurb_md]
+command = "scripts/check_blurb_md.py"
+src_extensions = [".md"]
+src_dirs = ["blurbs"]
 batch = true
 
 [pages]
@@ -185,7 +224,7 @@ src_dirs = [".github/workflows"]
 # ─── markdown ────────────────────────────────────────────────────────────────
 
 [processor.checker.rumdl]
-src_dirs = ["doc", "syllabi/courses"]
+src_dirs = ["doc", "syllabi/courses", "blurbs"]
 src_files = ["CLAUDE.md", "README.md"]
 
 # ─── yaml ────────────────────────────────────────────────────────────────────

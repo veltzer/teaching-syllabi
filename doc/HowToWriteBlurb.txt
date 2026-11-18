@@ -1,0 +1,28 @@
+How to write a blurb
+====================
+
+A blurb (blurbs/*.md) is a one-page description of a short talk or lecture.
+It is not a syllabus: it sells a session rather than laying out a course, so
+its structure is different. scripts/check_blurb_md.py enforces the format.
+
+- look at "blurbs/ai_ready_documentation.md" to see how a blurb looks like.
+- YAML frontmatter with tags, level, category, audience and duration_minutes.
+  All values come from the shared-tags vocabulary (shared/shared-tags/); a
+  new duration needs a line in duration_minutes.txt there first.
+- exactly one <!-- blurb: id --> comment, where id is the file name without .md.
+- exactly one title (# ...), followed by a one-paragraph tagline.
+- the second-level headers are exactly, in this order:
+    ## The Challenge
+    ## What This Session Covers
+    ## Agenda
+    ## Takeaways
+    ## Who Should Attend
+    ## Continue the Journey      (optional)
+    ## Speaker
+- every Agenda line is one timed topic:
+    * **Topic title** (N min): One sentence on the focus of the topic.
+  The topic times are visible to the reader (unlike syllabus chapter
+  durations) and must add up to duration_minutes.
+- no third-level headers, no nested bullets, no syllabus markers
+  (<!-- course: --> / <!-- chapter: -->).
+- technical terms follow the shared-terms rules, as in syllabi.
