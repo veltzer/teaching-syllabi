@@ -95,6 +95,8 @@ src_dirs = ["syllabi", "out/processor.generator.generic", "blurbs"]
 # which the Lua filter adds to the preamble; the docx from the
 # docx/azure.docx reference document.
 [processor.generator.pandoc.syllabi]
+# rspandoc, the Rust replacement: it takes pandoc's command line
+command = "rspandoc"
 src_dirs = ["syllabi"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site"
@@ -116,6 +118,8 @@ dep_inputs = [
 
 # Blurbs render with the same look as the syllabi, into _site/blurbs.
 [processor.generator.pandoc.blurbs]
+# rspandoc, the Rust replacement: it takes pandoc's command line
+command = "rspandoc"
 src_dirs = ["blurbs"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/blurbs"
@@ -162,6 +166,8 @@ dir = "_site"
 system = ["texlive-latex-recommended", "texlive-xetex"]
 
 [processor.generator.pandoc.generator]
+# rspandoc, the Rust replacement: it takes pandoc's command line
+command = "rspandoc"
 src_dirs = ["out/processor.generator.generic"]
 formats = ["pdf", "html", "docx"]
 output_dir = "_site/tracks"
