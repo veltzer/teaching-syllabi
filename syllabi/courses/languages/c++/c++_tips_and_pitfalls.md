@@ -15,6 +15,7 @@ audience:
 # `C++` Tips and Pitfalls
 
 ## Description
+
 The course divided into following parts:
 * The pass through all features of `C++` but on higher level ( example: no explanation
 what is the meaning of Constructor and Destructor, but the cost of these functions and
@@ -24,6 +25,7 @@ ways to decrease number of there invocations will be discussed ).
 * Pitfalls, Tips, Optimizations
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -31,9 +33,11 @@ ways to decrease number of there invocations will be discussed ).
 * software engineers working on performance-critical applications
 
 ## Prerequisites
+
 This course is for programmers which already have `C++` experience.
 
 ## Objectives
+
 The main goal of the course is to provide deep understanding of `C++` internals - the look on
 some `C++` features from the compiler point of view; how these features are implemented in
 compiler and why. To show, how this knowledge can help to write short and efficient code.
@@ -41,10 +45,12 @@ We'll discuss the cost of `C++` features and the ways to decrease resources need
 application ( memory, time ).
 
 ## Exercises
+
 The set of small exercises, built as riddles will bring participants to the real world of
 understanding of `C++`.
 
 ## Outline
+
 <!-- chapter: what-s-going-in-ctor-dtor-the-look-from-compiler-point-of-view, duration: 1h -->
 * What's going in CTOR & DTOR - the look from Compiler point of view
     * Temporary objects
@@ -121,4 +127,5 @@ understanding of `C++`.
 * [E.Gamma, R.Helm, R.Johnson, J.Vlissides, `Design Patterns`, Addison-Wesley Publishing Company](http://www.javier8a.com/itc/bd1/articulo.pdf)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

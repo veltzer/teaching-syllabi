@@ -18,6 +18,7 @@ audience:
 # Fuzz Testing in Practice
 
 ## Description
+
 Fuzz testing is the practice of feeding programs malformed, random, or generated input to find bugs that
 reviewers, unit tests, and even property-based tests miss. The catalog has a `Property Based Testing`
 course; fuzzing is the related but distinct discipline that has graduated from a security tool into a
@@ -33,6 +34,7 @@ triage workflow, the harness as the most important code in the project, and the 
 fuzzing and security. Participants leave able to add a fuzz target to a project and keep it running.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
 * connect fuzzing to the security review
 
 ## Outline
+
 <!-- chapter: what-fuzzing-actually-does, duration: 1h -->
 * What fuzzing actually does
     * input generation, execution, observation
@@ -142,4 +145,5 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
     * the cost of running a fuzzer the team will not look at
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

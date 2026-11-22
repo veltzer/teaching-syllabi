@@ -18,9 +18,11 @@ audience:
 # Google `Kubernetes` Engine (`GKE`)
 
 ## Description
+
 This course provides a comprehensive guide to Google `Kubernetes` Engine (`GKE`), `Google Cloud`'s managed `Kubernetes` service. Participants will learn how to create and manage `GKE` clusters, understand the differences between Autopilot and Standard modes, configure networking and security, and integrate with the broader `GCP` ecosystem including `Cloud Monitoring`, `Cloud Logging`, and `Anthos`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a comprehensive guide to Google `Kubernetes` Engine (`GKE`)
 * Optimize costs for `GKE` deployments.
 
 ## Outline
+
 <!-- chapter: introduction-to-gke, duration: 1h -->
 * Introduction to `GKE`
     * `GKE` overview and architecture
@@ -112,4 +115,5 @@ This course provides a comprehensive guide to Google `Kubernetes` Engine (`GKE`)
     * Cost monitoring and budgets
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

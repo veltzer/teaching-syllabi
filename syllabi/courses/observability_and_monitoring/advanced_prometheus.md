@@ -16,9 +16,11 @@ audience:
 # Advanced `Prometheus`
 
 ## Description
+
 This advanced course takes participants beyond the basics of `Prometheus` into production-grade monitoring and observability. The course covers `PromQL` in depth, recording and alerting rules with `Alertmanager`, federation, remote storage backends such as Thanos, Cortex, and Mimir, service discovery, relabeling, and high availability configurations. Participants will gain the skills needed to operate `Prometheus` at scale with confidence.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 * Implement high availability and capacity planning for `Prometheus` deployments.
 
 ## Outline
+
 <!-- chapter: promql-deep-dive, duration: 2h -->
 * `PromQL` Deep Dive
     * Data types and selectors
@@ -125,4 +128,5 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
     * Performance benchmarking and tuning
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

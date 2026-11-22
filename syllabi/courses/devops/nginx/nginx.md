@@ -17,6 +17,7 @@ audience:
 # `Nginx`
 
 ## Description
+
 This course provides comprehensive training on `Nginx`, one of the most widely used web
 servers and reverse proxies. Students will learn how to configure `Nginx` for serving static
 content, reverse proxying, load balancing, `SSL`/`TLS` termination, and `API gateway` use cases.
@@ -26,6 +27,7 @@ and security hardening. Students will gain hands-on experience with real-world d
 scenarios and learn how to monitor and troubleshoot `Nginx` in production environments.
 
 ## Duration
+
 24 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
 * Tune `Nginx` for high-performance production workloads.
 
 ## Outline
+
 <!-- chapter: nginx-architecture, duration: 1h -->
 * `Nginx` Architecture
     * `Event-driven architecture` overview
@@ -175,4 +178,5 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
     * Error tracking and alerting
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

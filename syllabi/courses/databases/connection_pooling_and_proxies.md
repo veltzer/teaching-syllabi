@@ -19,6 +19,7 @@ audience:
 # Connection Pooling and Database Proxies
 
 ## Description
+
 Connection management is the most under-engineered part of most database integrations. The catalog
 covers the database tier and the application tier; it does not cover the layer between them, where
 connections are pooled, multiplexed, routed, and rate-limited. A bad connection-pool configuration is
@@ -36,6 +37,7 @@ boring instead of hostile. Examples cover `Postgres` and `MySQL` primarily. Part
 size and operate a connection-management layer that does not collapse under load.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ size and operate a connection-management layer that does not collapse under load
 * serve a serverless workload against a relational database
 
 ## Outline
+
 <!-- chapter: why-connections-are-expensive, duration: 2h -->
 * Why connections are expensive
     * `Postgres`: one process per connection
@@ -131,4 +134,5 @@ size and operate a connection-management layer that does not collapse under load
     * iterating
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

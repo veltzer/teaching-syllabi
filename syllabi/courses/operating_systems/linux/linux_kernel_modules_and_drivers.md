@@ -19,6 +19,7 @@ audience:
 # `Linux` Kernel Modules and Drivers
 
 ## Description
+
 The `Linux` kernel course in the catalog is a broad treatment of kernel internals. This course is the focused
 sibling: how to write kernel modules and drivers. It is for engineers who need to ship code that runs in
 kernel context against the actual driver model of a recent kernel, not for engineers who only want to
@@ -33,6 +34,7 @@ kernels and avoids deprecated APIs. Participants leave able to write, debug, and
 drivers.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ drivers.
 * debug a misbehaving driver in production
 
 ## Outline
+
 <!-- chapter: the-kernel-programming-environment, duration: 2h -->
 * The kernel programming environment
     * what is and is not available in kernel context
@@ -182,4 +185,5 @@ drivers.
     * recommended reading: `Linux Kernel Development` (Love), `LDD3` (historical), kernel `Documentation/`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

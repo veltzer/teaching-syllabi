@@ -17,9 +17,11 @@ audience:
 # `Delta Lake`
 
 ## Description
+
 `Delta Lake` is an open-source storage layer that brings ACID transactions, scalable metadata handling, and data versioning to data lakes. This course covers the architecture and features of `Delta Lake`, including time travel, schema enforcement and evolution, DML operations, performance optimization with Z-ordering and liquid clustering, and integration with `Spark`, `Databricks`, and standalone engines via `delta`-rs.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ audience:
 * Compare `Delta Lake` with Iceberg and `Hudi`
 
 ## Outline
+
 <!-- chapter: delta-lake-overview-and-architecture, duration: 2h -->
 * `Delta Lake` Overview and Architecture
     * The data lakehouse paradigm and `Delta Lake` role
@@ -131,4 +134,5 @@ audience:
     * Cost management and storage optimization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,6 +17,7 @@ audience:
 # Time Series Analysis
 
 ## Description
+
 This course provides a comprehensive introduction to time series analysis using `Python`.
 Participants will learn to decompose time series into their fundamental components (trend,
 seasonality, and noise), test for stationarity, and apply classical forecasting models
@@ -26,6 +27,7 @@ detection, cross-validation strategies specific to time series, and feature engi
 for `temporal` data round out the curriculum.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ for `temporal` data round out the curriculum.
 * **Engineer `temporal` features** and apply proper cross-validation for time series models
 
 ## Outline
+
 <!-- chapter: time-series-fundamentals, duration: 1h -->
 * Time Series Fundamentals
     * What is a time series
@@ -137,4 +140,5 @@ for `temporal` data round out the curriculum.
     * Comparing model performance across horizons
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

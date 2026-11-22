@@ -16,12 +16,14 @@ audience:
 # Temporal Workflow Orchestration
 
 ## Description
+
 Temporal is an open-source, durable workflow orchestration platform that enables developers to write long-running, fault-tolerant business processes as ordinary code.
 Unlike traditional job schedulers or message queues, Temporal automatically persists workflow state, retries failed activities, and resumes execution after crashes — all without any application-level bookkeeping.
 Its programming model lets engineers express complex workflows — including timers, signals, child workflows, and compensating transactions — using familiar control flow in Go, `Java`, `Python`, `TypeScript`, or `PHP`.
 This course takes developers from Temporal fundamentals through advanced workflow patterns, testing strategies, and production deployment.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course takes developers from Temporal fundamentals through advanced workflo
 * Monitor workflows using Temporal UI and metrics
 
 ## Outline
+
 <!-- chapter: introduction-to-workflow-orchestration, duration: 2h -->
 * Introduction to Workflow Orchestration
     * The problem with ad-hoc distributed coordination
@@ -133,4 +136,5 @@ This course takes developers from Temporal fundamentals through advanced workflo
     * Temporal Cloud — managed offering overview
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

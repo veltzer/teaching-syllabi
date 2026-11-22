@@ -15,12 +15,14 @@ audience:
 # `RISC-V` Architecture
 
 ## Description
+
 This course covers the `RISC-V` open-source instruction set architecture from its design
 philosophy through practical application. Students will learn the base and extension instruction
 sets, the privileged architecture, and how to work with the `RISC-V` toolchain and simulators.
 The course also explores the growing `RISC-V` ecosystem for embedded and application-class processors.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
 * gain practical knowledge of the `RISC-V` toolchain, simulators, and ecosystem
 
 ## Outline
+
 <!-- chapter: risc-v-isa-overview-and-philosophy, duration: 1h -->
 * `RISC-V` `ISA` Overview and Philosophy
     * History and motivation behind `RISC-V`
@@ -149,4 +152,5 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
     * Community and ecosystem growth
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

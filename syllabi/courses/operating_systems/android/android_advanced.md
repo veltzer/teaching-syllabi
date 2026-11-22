@@ -17,9 +17,11 @@ audience:
 # `Android` Advanced
 
 ## Description
+
 This course provides an in-depth exploration of the `Android` platform across all its layers: the `Java` `SDK` layer, the native `NDK` layer, and the `Linux` kernel layer. Participants will learn to develop and deliver applications at each layer, use JNI to bridge `Java` and native code, write kernel modules, and understand the `Android` boot process and power management framework.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course provides an in-depth exploration of the `Android` platform across al
 * gain practical knowledge of The `Java` layer (basics): assumes knowledge of ```Java``
 
 ## Outline
+
 <!-- chapter: android-platform-overview, duration: 1h -->
 * `Android` platform overview
     * The `Java` layer (`SDK`).
@@ -196,4 +199,5 @@ the previous application. And finally they will write a kernel module which will
 used from the native library (and therefor from the UI application).
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

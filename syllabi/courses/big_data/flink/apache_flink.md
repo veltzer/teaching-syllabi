@@ -15,6 +15,7 @@ audience:
 # `Apache Flink`
 
 ## Description
+
 `Apache Flink` is a distributed stream processing framework designed for stateful computations
 over bounded and unbounded data streams. `Flink` provides exactly-once state consistency,
 event-time processing, and high throughput with low latency, making it a leading choice for
@@ -26,6 +27,7 @@ Starting with fundamental concepts and architecture, the course progresses throu
 deployment strategies.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ deployment strategies.
 * Deploy, monitor, and tune `Flink` applications in production
 
 ## Outline
+
 <!-- chapter: introduction-to-stream-processing, duration: 2h -->
 * Introduction to Stream Processing
     * Batch vs stream processing
@@ -145,4 +148,5 @@ deployment strategies.
     * Parallelism and resource optimization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

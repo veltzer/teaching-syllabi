@@ -14,9 +14,11 @@ audience:
 # Advanced `TypeScript`
 
 ## Description
+
 This course covers advanced `TypeScript` features for experienced developers who want to master the type system and apply sophisticated patterns. Topics include conditional types, mapped types, template literal types, decorators, type guards, utility types, declaration files, and project architecture for large-scale `TypeScript` applications.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course covers advanced `TypeScript` features for experienced developers who
 * Architect large `TypeScript` projects for maintainability and type safety
 
 ## Outline
+
 <!-- chapter: advanced-type-system-foundations, duration: 1h -->
 * Advanced Type System Foundations
     * Review of union, intersection, and literal types
@@ -117,4 +120,5 @@ This course covers advanced `TypeScript` features for experienced developers who
     * `API` `design patterns` for type-safe libraries
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

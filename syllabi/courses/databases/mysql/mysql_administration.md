@@ -16,11 +16,13 @@ audience:
 # `MySQL` Administration
 
 ## Description
+
 This course provides comprehensive training in `MySQL` database administration, covering architecture, installation, configuration, backup and recovery, replication, performance tuning, security, and high availability. Participants will gain the practical skills needed to deploy, manage, and optimize `MySQL` in production environments.
 
 The course emphasizes hands-on experience with real-world administrative scenarios, preparing database administrators and system administrators to maintain reliable, secure, and performant `MySQL` deployments.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,9 +52,11 @@ The course emphasizes hands-on experience with real-world administrative scenari
 * Set up high availability solutions with `MySQL InnoDB Cluster`
 
 ## Exercises
+
 Hands-on lab exercises covering installation, configuration, user management, backup and recovery, replication setup, monitoring, and performance tuning. Students will configure my.cnf, perform backups with mysqldump and xtrabackup, set up asynchronous and semi-synchronous replication, analyze slow queries with EXPLAIN, configure `Performance Schema` monitoring, and deploy `MySQL InnoDB Cluster`. Exercises simulate realistic production scenarios and failure conditions.
 
 ## Outline
+
 <!-- chapter: mysql-architecture, duration: 2h -->
 * `MySQL` Architecture
     * `MySQL` server architecture overview
@@ -198,4 +202,5 @@ Hands-on lab exercises covering installation, configuration, user management, ba
     * Diagnostic tools and utilities
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -14,6 +14,7 @@ audience:
 # `.NET` Performance and Debugging
 
 ## Description
+
 Performance oriented development allows you to stay on the edge of today's competition. It is
 crucial to write applications that can utilize stronger machines or scale out to distributed
 architectures. At the same time, it can be crucial to archive good performance on client application
@@ -29,6 +30,7 @@ when everything else fails, perform post mortem debugging and application dump a
 those crashes that are so hard to reproduce.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ those crashes that are so hard to reproduce.
 * Obtain hands on experience with using advanced debugging tools and profilers
 
 ## Outline
+
 <!-- chapter: net-internals, duration: 2h -->
 * `.NET` Internals
     * Assemblies and the Loader
@@ -123,4 +126,5 @@ those crashes that are so hard to reproduce.
     * Viewing the managed heap, objects, threads, call stack and more
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

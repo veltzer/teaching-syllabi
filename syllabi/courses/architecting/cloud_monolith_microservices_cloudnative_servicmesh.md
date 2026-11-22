@@ -17,9 +17,11 @@ audience:
 # Cloud `monolith` micro services cloudnative servicemesh
 
 ## Description
+
 This course covers the evolution of application architecture from monolithic systems to `microservices`, cloud-native applications, and service mesh patterns. Students will learn the organizational and technical implications of adopting microservices, including `DevOps`, `CI/CD`, and chaos engineering in cloud environments.
 
 ## Duration
+
 1 hour
 
 ## Intended Audience
@@ -37,6 +39,7 @@ This course covers the evolution of application architecture from monolithic sys
 * Learn about chaos engineering practices for resilient distributed systems
 
 ## Outline
+
 <!-- chapter: the-first-step-to-the-native-cloud-from-monolith-to-micro-services, duration: 5h -->
 * The first step to the native cloud, from Monolith to Micro-services
     * Introduction to Micro-services
@@ -53,4 +56,5 @@ This course covers the evolution of application architecture from monolithic sys
     * #CHAOS ENGINEERING in cloudy Micro-services environment
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

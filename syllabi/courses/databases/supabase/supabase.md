@@ -14,9 +14,11 @@ audience:
 # Supabase: The Open-Source Firebase Alternative
 
 ## Description
+
 This course introduces Supabase, an open-source backend-as-a-service platform built on top of `PostgreSQL`. Participants will learn how to use Supabase for database management, authentication, real-time subscriptions, file storage, and edge functions. The course covers both the hosted platform and self-hosted options, giving developers the skills to build full-stack applications rapidly.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course introduces Supabase, an open-source backend-as-a-service platform bu
 * Integrate Supabase with client applications using official libraries.
 
 ## Outline
+
 <!-- chapter: introduction-to-supabase, duration: 1h -->
 * Introduction to Supabase:
     * What is Supabase and how it compares to Firebase
@@ -117,4 +120,5 @@ This course introduces Supabase, an open-source backend-as-a-service platform bu
     * Monitoring and logging
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

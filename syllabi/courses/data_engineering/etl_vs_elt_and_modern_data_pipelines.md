@@ -20,6 +20,7 @@ audience:
 # `ETL` vs `ELT` and Modern Data Pipelines
 
 ## Description
+
 The data engineering landscape has fundamentally inverted. The classic `ETL` (extract, transform, load) workflow,
 designed when storage was expensive and compute was cheap on-prem, has been largely replaced by `ELT` (extract,
 load, transform) on top of warehouses and lakehouses where the economics are reversed. Most teams' pipelines
@@ -34,6 +35,7 @@ practices that `make` pipelines maintainable. Examples are drawn from Snowflake,
 the ones they inherited.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ the ones they inherited.
 * avoid the most common pipeline failure modes
 
 ## Outline
+
 <!-- chapter: the-etl-elt-shift, duration: 2h -->
 * The `ETL`-`ELT` shift
     * the original `ETL` rationale
@@ -185,4 +188,5 @@ the ones they inherited.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

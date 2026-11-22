@@ -17,9 +17,11 @@ audience:
 # `Apache NiFi`
 
 ## Description
+
 `Apache NiFi` is a powerful, open-source data integration and flow management platform that enables the automation of data movement between disparate systems with a visual, drag-and-drop interface. This course covers the full breadth of `NiFi`, from understanding its core architecture and components to designing complex data flows, configuring processors, managing back-pressure, and securing multi-tenant deployments. Participants will learn how to build reliable, scalable, and observable data pipelines that handle a wide variety of data formats and protocols, including `HTTP`, `Kafka`, `HDFS`, `S3`, databases, and more. The course also covers `NiFi Registry` for version-controlled flow management, `MiNiFi` for edge data collection, and high-availability clustering. By the end of the course, participants will be able to design and operate production-grade `NiFi` data flows.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ audience:
 * Build real-world pipelines integrating databases, `Kafka`, `S3`, and `REST APIs`
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-nifi, duration: 2h -->
 * Introduction to `Apache NiFi`
     * What is `Apache NiFi` and its use cases
@@ -164,4 +167,5 @@ audience:
     * Operational best practices: monitoring, alerting, and capacity planning
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

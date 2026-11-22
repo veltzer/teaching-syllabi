@@ -19,6 +19,7 @@ audience:
 # `Windows` Driver Development
 
 ## Description
+
 This course teaches how to design, write, debug and ship device drivers for the
 `Windows` operating system. Students will learn the rules of kernel mode programming,
 the structure of the `Windows` driver stack, and how `I/O` requests flow from an
@@ -31,6 +32,7 @@ code, and signing and deploying drivers to real machines. Throughout the course
 students write and extend real drivers and test them on a virtual machine.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ students write and extend real drivers and test them on a virtual machine.
 * Done with `Visual Studio`, the `WDK` and `WinDbg`, deploying to a `Windows` virtual machine.
 
 ## Outline
+
 <!-- chapter: introduction-to-windows-drivers, duration: 2h -->
 * Introduction to `Windows` Drivers
     * The role of drivers in the `Windows` architecture
@@ -196,6 +199,7 @@ students write and extend real drivers and test them on a virtual machine.
     * Servicing and updating shipped drivers
 
 ## Installations
+
 Each student should have:
 
 * A `Windows` 10 or `Windows` 11 development machine, real or virtual, with administrator privileges.
@@ -209,4 +213,5 @@ Each student should have:
 * Free access to the internet from all machines for downloading tools and debugging symbols.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

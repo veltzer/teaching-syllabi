@@ -17,9 +17,11 @@ audience:
 # `TCP`/`IP` Deep Dive
 
 ## Description
+
 This course provides an in-depth exploration of the `TCP`/`IP` protocol suite and the underlying networking fundamentals that power modern communications. Participants will study each layer of the network stack, from physical framing through transport protocols, and gain hands-on experience analyzing real network traffic with Wireshark and `tcpdump`. The course is designed for professionals who already have basic networking knowledge and want to deepen their understanding of how packets traverse networks, how protocols negotiate connections, and how to diagnose network issues effectively.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
 * Apply systematic troubleshooting methodologies to diagnose network problems.
 
 ## Outline
+
 <!-- chapter: the-osi-and-tcp-ip-models, duration: 2h -->
 * The OSI and `TCP`/`IP` Models
     * The seven layers of the OSI model
@@ -122,4 +125,5 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
     * Reading and interpreting logs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

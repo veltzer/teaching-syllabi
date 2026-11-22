@@ -18,6 +18,7 @@ audience:
 # Multi-Cloud Networking
 
 ## Description
+
 This course covers the design and implementation of network architectures that
 span multiple cloud providers. Participants will learn how to establish secure,
 high-performance connectivity between `AWS`, `Azure`, and `GCP` environments
@@ -26,6 +27,7 @@ management across clouds, SD-WAN integration, hybrid connectivity patterns,
 and security considerations for multi-cloud network topologies.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ and security considerations for multi-cloud network topologies.
 * Troubleshoot and optimize cross-cloud network performance.
 
 ## Outline
+
 <!-- chapter: multi-cloud-networking-fundamentals, duration: 2h -->
 * Multi-Cloud Networking Fundamentals
     * Multi-cloud strategy and use cases
@@ -108,4 +111,5 @@ and security considerations for multi-cloud network topologies.
     * Centralized logging and monitoring of cross-cloud traffic
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

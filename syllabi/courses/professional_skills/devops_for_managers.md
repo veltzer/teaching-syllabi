@@ -15,11 +15,13 @@ audience:
 # `DevOps` for Managers
 
 ## Description
+
 This course provides managers and technical leaders with a clear understanding of `DevOps` principles, practices, and their organizational impact. Participants will learn what `DevOps` really means beyond the buzzwords, how it transforms software delivery, and what it takes to drive a successful `DevOps` adoption. The course covers cultural, process, and technology aspects without requiring deep technical expertise.
 
 The course equips managers to `make` informed decisions about `DevOps` investments, set realistic expectations, measure progress using industry-standard metrics, and build an actionable roadmap for their organization.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -43,6 +45,7 @@ The course equips managers to `make` informed decisions about `DevOps` investmen
 * Build a practical `DevOps` adoption roadmap
 
 ## Outline
+
 <!-- chapter: what-is-devops, duration: 1h -->
 * What is `DevOps`
     * Origins and evolution of `DevOps`
@@ -137,4 +140,5 @@ The course equips managers to `make` informed decisions about `DevOps` investmen
     * Measuring and communicating progress
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

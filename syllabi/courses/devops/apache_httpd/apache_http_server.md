@@ -17,9 +17,11 @@ audience:
 # Apache `HTTP` Server
 
 ## Description
+
 This course covers the installation, configuration, and administration of the Apache `HTTP` Server, one of the most widely deployed web servers in the world. Participants will learn how to configure virtual hosts, manage modules, set up `SSL/TLS`, implement reverse proxying, and tune performance. The course also addresses security hardening and operational best practices for running Apache in production environments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course covers the installation, configuration, and administration of the Ap
 * Configure and analyze Apache access and error logs.
 
 ## Outline
+
 <!-- chapter: installation-and-basic-configuration, duration: 1h -->
 * Installation and Basic Configuration
     * Installing Apache on major `Linux` distributions
@@ -119,4 +122,5 @@ This course covers the installation, configuration, and administration of the Ap
     * Security headers (Content-Security-Policy, X-Frame-Options)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

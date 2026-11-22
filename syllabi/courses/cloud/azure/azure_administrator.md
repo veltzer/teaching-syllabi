@@ -16,11 +16,13 @@ audience:
 # `Azure` Administrator (AZ-104)
 
 ## Description
+
 This course prepares participants for the Microsoft `Azure` Administrator (AZ-104) certification and provides the skills needed to manage `Azure` infrastructure. The course covers identity and governance, storage, compute, networking, and monitoring, aligning with the official exam objectives. Participants will gain practical experience configuring and managing core `Azure` services in enterprise environments.
 
 The course balances conceptual understanding with hands-on practice, ensuring participants can both pass the certification exam and apply their knowledge in real-world `Azure` administration scenarios.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ The course balances conceptual understanding with hands-on practice, ensuring pa
 * Monitor and maintain `Azure` resources
 
 ## Outline
+
 <!-- chapter: identity-and-governance, duration: 6h -->
 * Identity and Governance
     * `Azure Active Directory` overview
@@ -114,4 +117,5 @@ The course balances conceptual understanding with hands-on practice, ensuring pa
     * `Azure Site Recovery` overview
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

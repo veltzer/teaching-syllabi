@@ -16,9 +16,11 @@ audience:
 # Data Science
 
 ## Description
+
 This is a data science course which is taught using the `Python` programming language.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -33,14 +35,17 @@ This is a data science course which is taught using the `Python` programming lan
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 Acquaint beginner data scientists with what data science is, it's objectives, it's methodologies,
 it's basic tools and have the students solve exercises in the field with real programming and data.
 This course does not deal with neural networks or `deep learning` in depth.
 
 ## Exercises
+
 Using `Python`, numpy, scipy, pandas, `SQL`.
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * Big Data Overview
@@ -82,4 +87,5 @@ Using `Python`, numpy, scipy, pandas, `SQL`.
     * Creating final deliverables
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,11 +16,13 @@ audience:
 # `MySQL` DBA
 
 ## Description
+
 This course provides comprehensive training for database administrators responsible for managing `MySQL` environments in production. Participants will learn how to install, configure, secure, back up, monitor, and troubleshoot `MySQL` servers. The course covers essential DBA tasks from initial deployment through ongoing maintenance, performance tuning, and disaster recovery planning.
 
 The course emphasizes real-world administration scenarios, including backup strategies using multiple tools, performance diagnostics via `Performance Schema` and slow query analysis, and security hardening best practices.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ The course emphasizes real-world administration scenarios, including backup stra
 * Automate routine DBA tasks
 
 ## Outline
+
 <!-- chapter: installation-and-upgrades, duration: 2h -->
 * Installation and Upgrades
     * Installation methods and options
@@ -143,4 +146,5 @@ The course emphasizes real-world administration scenarios, including backup stra
     * On-call and incident response
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

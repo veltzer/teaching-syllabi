@@ -23,6 +23,7 @@ audience:
 # `Google Cloud Platform` - `DevOps` Engineer
 
 ## Description
+
 This course teaches `DevOps` engineering practices on `Google Cloud Platform`. Participants will
 learn to build `CI/CD` pipelines, manage infrastructure as code, implement SRE practices, and
 operate observability systems at scale. The course covers `Cloud Build`, Cloud Deploy, `GKE`,
@@ -30,6 +31,7 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
 `DevOps` Engineer certification path.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
 * Operate and scale containerized workloads on `GKE` and `Cloud Run`
 
 ## Outline
+
 <!-- chapter: devops-and-sre-on-google-cloud, duration: 3h -->
 * `DevOps` and SRE on `Google Cloud`
     * `DevOps` principles and SRE practices
@@ -131,4 +134,5 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
     * Active Assist and cost recommenders
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,9 +18,11 @@ audience:
 # `Trino`
 
 ## Description
+
 `Trino` (formerly `PrestoSQL`) is a high-performance distributed `SQL` query engine designed to run interactive and batch analytical queries against data wherever it lives — data lakes, warehouses, relational databases, and `NoSQL` stores — without moving the data. This course covers `Trino` from first principles, progressing through cluster setup, connector configuration, `SQL` capabilities, and advanced query optimisation techniques. Participants will learn how to federate queries across multiple heterogeneous data sources, apply fine-grained security and access control, and operate `Trino` clusters in production with observability and tuning. The course concludes with a practical comparison of `Trino` versus `Spark SQL` and a discussion of `Trino`'s role in the modern data stack.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ audience:
 * Compare `Trino` and `Spark SQL` to select the appropriate engine for given workloads
 
 ## Outline
+
 <!-- chapter: introduction-to-trino, duration: 2h -->
 * Introduction to `Trino`
     * What is `Trino` and the problem it solves
@@ -166,4 +169,5 @@ audience:
     * Future directions: `Trino` native execution engine and `Velox` integration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

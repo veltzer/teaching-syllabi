@@ -17,10 +17,12 @@ audience:
 # `Yocto` for Non-Kernel developers
 
 ## Description
+
 This course is intended for non `Linux` kernel developers that need to maintain `Yocto` projects.
 It introduces `Linux` user space and then proceeds to analyze how to debug and fix `Yocto` problems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -36,6 +38,7 @@ It introduces `Linux` user space and then proceeds to analyze how to debug and f
 * Understand how `Yocto` works and how to debug problems in building `Yocto` targets.
 
 ## Outline
+
 <!-- chapter: linux-user-space-basic-concepts, duration: 4h -->
 * `Linux` user space basic concepts
     * binaries
@@ -84,4 +87,5 @@ It introduces `Linux` user space and then proceeds to analyze how to debug and f
     * Configuration errors
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

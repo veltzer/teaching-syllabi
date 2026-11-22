@@ -15,11 +15,13 @@ audience:
 # `Neo4j` Graph Databases
 
 ## Description
+
 `Neo4j` is the leading graph database platform, purpose-built for storing and querying highly connected data. This course provides developers and data scientists with comprehensive training in graph database concepts, the Cypher query language, graph data modeling, and graph algorithms. Participants will learn how to leverage the power of graph databases to solve complex problems involving relationships, networks, and connected data.
 
 The course covers both foundational graph concepts and advanced techniques including graph algorithms, data import strategies, and application integration, enabling participants to build graph-powered applications and perform sophisticated network analysis.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,9 +51,11 @@ The course covers both foundational graph concepts and advanced techniques inclu
 * Optimize graph query performance
 
 ## Exercises
+
 Hands-on exercises using `Neo4j` with realistic datasets. Students will model domains as graphs, write Cypher queries of increasing complexity, import data from `CSV` files, run graph algorithms for community detection and path finding, build application integrations, and optimize query performance. Scenarios cover social networks, fraud detection, recommendation engines, and knowledge graph use cases.
 
 ## Outline
+
 <!-- chapter: graph-database-concepts, duration: 2h -->
 * Graph Database Concepts
     * What are graph databases
@@ -176,4 +180,5 @@ Hands-on exercises using `Neo4j` with realistic datasets. Students will model do
     * Scaling strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

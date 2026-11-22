@@ -14,9 +14,11 @@ audience:
 # `WebSocket` Programming
 
 ## Description
+
 WebSockets provide full-duplex, bidirectional communication between clients and servers over a single, long-lived connection. This course covers the `WebSocket` protocol in depth, from the handshake process to scaling production deployments. Participants will learn to build real-time applications using browser APIs and popular server libraries, and will explore Socket.IO, scaling strategies, security considerations, and practical use cases such as chat, dashboards, and gaming.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -48,6 +50,7 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 * Build real-time applications: chat, dashboards, and interactive systems
 
 ## Outline
+
 <!-- chapter: the-websocket-protocol, duration: 2h -->
 * The `WebSocket` Protocol
     * `WebSocket` overview and `RFC 6455`
@@ -146,4 +149,5 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
     * Notification systems and presence indicators
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

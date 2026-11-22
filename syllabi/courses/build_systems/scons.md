@@ -15,9 +15,11 @@ audience:
 # SCons
 
 ## Description
+
 SCons is a software construction tool that uses `Python` scripts as its configuration files, providing a powerful and flexible alternative to Make and `CMake`. This course covers SCons from the ground up, including its dependency analysis engine, builder and scanner system, and how to use it for multi-language and cross-platform builds.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ SCons is a software construction tool that uses `Python` scripts as its configur
 * Optimize build performance for large projects
 
 ## Outline
+
 <!-- chapter: introduction-to-scons, duration: 2h -->
 * Introduction to SCons
     * History and motivation
@@ -99,4 +102,5 @@ SCons is a software construction tool that uses `Python` scripts as its configur
     * Migrating from Make or `CMake`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -14,11 +14,13 @@ audience:
 # Introduction to `Kafka` Streams
 
 ## Description
+
 The Introduction to `Kafka` Streams training course is designed to teach the basics of the `Apache Kafka` distributed streaming platform. The `Apache Kafka` distributed streaming platform is one of the most powerful and widely used reliable streaming platforms. `Kafka` is fault-tolerant, highly scalable, and used for log aggregation, stream processing, event sources, and commit logs. `Kafka` is also used to enable stream processing, online messaging, facilitate in-memory computing by providing a distributed commit log, data collection for big data and so much more.
 
 The course begins with an introduction to `Kafka` and it's components. The course then covers important concepts and a lesson on programming in `Kafka`. The course concludes with a look into Schema Registries and streaming.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -35,6 +37,7 @@ The course begins with an introduction to `Kafka` and it's components. The cours
 * Write `Kafka` Streams applications with `Java`
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * What is it?
@@ -73,4 +76,5 @@ The course begins with an introduction to `Kafka` and it's components. The cours
     * KTable
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

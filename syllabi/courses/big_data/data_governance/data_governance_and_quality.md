@@ -14,6 +14,7 @@ audience:
 # Data Governance and Quality
 
 ## Description
+
 This course covers the principles and practices of data governance and data quality management for
 modern data-driven organizations. Participants will learn how to establish governance frameworks,
 implement data quality controls, manage metadata and lineage, and ensure compliance with regulations
@@ -22,6 +23,7 @@ Soda, as well as organizational models including data mesh and the roles of data
 data owners.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ data owners.
 * **Design data contracts and governance models** including data mesh principles
 
 ## Outline
+
 <!-- chapter: data-governance-fundamentals, duration: 2h -->
 * Data Governance Fundamentals
     * What is data governance
@@ -219,4 +222,5 @@ data owners.
         * Breach notification procedures
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

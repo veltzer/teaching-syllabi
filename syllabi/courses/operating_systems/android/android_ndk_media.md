@@ -18,9 +18,11 @@ audience:
 # `Android` Media at the Native layer
 
 ## Description
+
 This course covers media programming at the native layer of the `Android` platform. Participants will learn how audio, video, display, and camera subsystems work under the hood, including AudioFlinger, SurfaceFlinger, and `OpenGL`. The course focuses on writing native applications that play audio and video, access the camera and display, and manage thread priority and `CPU` resources.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course covers media programming at the native layer of the `Android` platfo
 * gain practical knowledge of AudioPolicy
 
 ## Outline
+
 <!-- chapter: android-audio, duration: 1h -->
 * `Android` Audio
 <!-- chapter: audioflinger, duration: 1h -->
@@ -68,4 +71,5 @@ This course covers media programming at the native layer of the `Android` platfo
 * [OpenSL](http://www.slideshare.net/DSPIP/android-audio-opensl)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

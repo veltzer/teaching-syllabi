@@ -17,11 +17,13 @@ audience:
 # `UML`
 
 ## Description
+
 This course provides comprehensive training in the Unified Modeling Language (`UML`) for software design and architecture. Participants will learn to create and interpret the most important `UML` diagram types, from requirements capture through detailed design. The course covers both structural and behavioral diagrams, with emphasis on practical modeling techniques that improve communication between stakeholders and development teams.
 
 The course focuses on `UML` 2.x notation and conventions, modeling best practices, and the effective use of `UML` tools in modern software projects.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ The course focuses on `UML` 2.x notation and conventions, modeling best practice
 * Apply modeling best practices for clarity and maintainability
 
 ## Outline
+
 <!-- chapter: introduction-to-uml, duration: 1h -->
 * Introduction to `UML`
     * History and evolution of `UML`
@@ -150,4 +153,5 @@ The course focuses on `UML` 2.x notation and conventions, modeling best practice
     * Case study: end-to-end modeling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

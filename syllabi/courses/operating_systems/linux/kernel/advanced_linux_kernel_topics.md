@@ -18,6 +18,7 @@ audience:
 # Advanced `Linux` Kernel Topics
 
 ## Description
+
 This course is intended for `Linux` kernel developers who wish to explore
 more advanced topics having to do with the `Linux` kernel like debugging
 and performance.
@@ -33,6 +34,7 @@ is not in any way "Holy" but does provide some overall arching structure to the 
 have been an long list of miscellaneous topics).
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ have been an long list of miscellaneous topics).
 * gain practical knowledge of locking properly
 
 ## Outline
+
 <!-- chapter: at-the-compiling-stage, duration: 2h -->
 * at the compiling stage
     * passing flags to the compilation process (-Wall -Werror for instance).
@@ -187,4 +190,5 @@ have been an long list of miscellaneous topics).
 * The machine should have at least 15GB free disk space.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

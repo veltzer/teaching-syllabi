@@ -20,6 +20,7 @@ audience:
 # Embedded `Linux` Platform Development
 
 ## Description
+
 This course deals with developing embedded systems based on the `Linux` kernel. It covers the various approaches for building such a system and compares their advantages and disadvantages as well as explaining other tools useful in this space such as various emulation, debugging and building tools.
 
 The course also deals with the substantial task for configuring the `Linux` kernel, at compile time and at run time. This is a huge subject so it cannot be fully covered in a course such as this. The objective is not to fully cover the topic but to provide a good foundation from which the students can `go` on to expand their knowledge.
@@ -27,6 +28,7 @@ The course also deals with the substantial task for configuring the `Linux` kern
 Major topics which are a must for embedded platform developers such as filesystems, flash, boot, cross compilation, hardware and are also covered.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ Major topics which are a must for embedded platform developers such as filesyste
 * Be able to develop and debug applications on an embedded `Linux` system.
 
 ## Outline
+
 <!-- chapter: introduction-to-embedded-linux, duration: 2h -->
 * Introduction to embedded `Linux`
     * Advantages of `Linux` versus traditional embedded operating systems.
@@ -173,4 +176,5 @@ versions
 * The machine should have at least 15GB free disk space.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

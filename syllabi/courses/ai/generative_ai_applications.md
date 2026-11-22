@@ -16,12 +16,14 @@ audience:
 # Generative `AI` applications
 
 ## Description
+
 Designed for a broad audience of `Machine Learning` practitioners,
 this module will teach you how to utilize existing generative models
 in applications with a special emphasis on the questions of `AI` Ethics
 and Safety. Generative `AI` applications
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ and Safety. Generative `AI` applications
 * gain practical knowledge of Open source models for text generation
 
 ## Outline
+
 <!-- chapter: an-overview-of-generative-ai, duration: 4h -->
 * An overview of Generative `AI`
     * An overview of Generative `AI`.
@@ -75,7 +78,9 @@ and Safety. Generative `AI` applications
     * Deep Fakes.
 
 ## References
+
 [syllabus](https://ai-dt.school/generative-ai/#curriculum)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

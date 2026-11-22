@@ -18,6 +18,7 @@ audience:
 # Firmware Update and `OTA`
 
 ## Description
+
 The catalog has multiple embedded courses covering bare-metal programming, embedded `Linux`, embedded
 security, and protocol stacks. None of them covers the discipline of updating the firmware on a
 device after it has shipped — and this is the single most consequential operational decision a
@@ -37,6 +38,7 @@ requirements (`FDA`, automotive `UNECE R155/R156`, `CE RED`). Examples and labs 
 operate an update system that does not brick the fleet.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ operate an update system that does not brick the fleet.
 * select among `Mender`, SWUpdate, RAUC, `fwup`, custom
 
 ## Outline
+
 <!-- chapter: why-firmware-update-is-the-foundation, duration: 1h -->
 * Why firmware update is the foundation
     * the security model is frozen at ship date without update
@@ -158,4 +161,5 @@ operate an update system that does not brick the fleet.
     * the audit trail for an update
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

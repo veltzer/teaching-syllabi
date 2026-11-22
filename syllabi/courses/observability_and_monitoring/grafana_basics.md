@@ -15,12 +15,15 @@ audience:
 # `Grafana` Basics
 
 ## Description
+
 This course provides a hands-on introduction to `Grafana`, the popular open-source platform for monitoring and observability. Participants will learn how to connect data sources, build interactive dashboards, and use panels, variables, and plugins to visualize metrics effectively.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
+
 `DevOps` engineers and system administrators who need to build monitoring dashboards and visualize infrastructure and application metrics.
 
 ## Prerequisites
@@ -34,6 +37,7 @@ This course provides a hands-on introduction to `Grafana`, the popular open-sour
 * Apply dashboard design best practices for effective monitoring
 
 ## Outline
+
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: data-source-integration, duration: 1h -->
@@ -54,4 +58,5 @@ This course provides a hands-on introduction to `Grafana`, the popular open-sour
 * Dashboard Design
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

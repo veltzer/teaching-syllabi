@@ -19,6 +19,7 @@ audience:
 # Database Observability
 
 ## Description
+
 Most production databases are observed with three numbers: `CPU`, memory, and connection count. That is
 not enough. The hard incidents are queries that worked yesterday and are slow today, replication that
 is silently lagging, locks held longer than the application thinks, plans that flipped from index to
@@ -36,6 +37,7 @@ on-call developer, the relationship to `APM`, the cost of observability itself, 
 Participants leave able to `make` their database observable enough to debug a real incident.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ Participants leave able to `make` their database observable enough to debug a re
 * compare observability across `Postgres`, `MySQL`, `MongoDB`
 
 ## Outline
+
 <!-- chapter: why-cpu-and-memory-are-not-enough, duration: 1h -->
 * Why `CPU` and memory are not enough
     * the queries-changed-without-warning problem
@@ -134,4 +137,5 @@ Participants leave able to `make` their database observable enough to debug a re
     * cross-reference to the Cardinality Engineering course
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

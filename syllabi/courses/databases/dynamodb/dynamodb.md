@@ -16,9 +16,11 @@ audience:
 # `DynamoDB`
 
 ## Description
+
 This course provides a deep dive into `Amazon DynamoDB`, a fully managed `NoSQL` key-value and document database service on `AWS`. Participants will learn how to design efficient data models using single-table `design patterns`, configure partition keys and sort keys, leverage Global Secondary Indexes (GSIs) and Local Secondary Indexes (LSIs), and utilize advanced features such as `DynamoDB Streams`, DAX caching, and capacity management. The course emphasizes best practices for building scalable, cost-effective, and performant applications with `DynamoDB`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course provides a deep dive into `Amazon DynamoDB`, a fully managed `NoSQL`
 * Integrate `DynamoDB` with `AWS Lambda`, `API Gateway`, and other `AWS` services
 
 ## Outline
+
 <!-- chapter: introduction-to-dynamodb, duration: 1h -->
 * Introduction to `DynamoDB`
     * `DynamoDB` overview and core concepts
@@ -151,4 +154,5 @@ This course provides a deep dive into `Amazon DynamoDB`, a fully managed `NoSQL`
     * `DynamoDB` in serverless architectures
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

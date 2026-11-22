@@ -14,9 +14,11 @@ audience:
 # Spring Core
 
 ## Description
+
 This course provides a deep and thorough understanding of the Spring Framework core. Students will learn the `IoC` container, dependency injection patterns, bean lifecycle management, and the various configuration styles. The course also covers AOP, the Spring Expression Language, profiles, the event system, resource handling, internationalization, and validation. A comparison of Spring Framework with `Spring Boot` is included to clarify when and how to use each.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course provides a deep and thorough understanding of the Spring Framework c
 * Understand the differences between Spring Framework and `Spring Boot`
 
 ## Outline
+
 <!-- chapter: introduction-to-the-spring-framework, duration: 1h -->
 * Introduction to the Spring Framework
     * History and evolution of Spring
@@ -147,4 +150,5 @@ This course provides a deep and thorough understanding of the Spring Framework c
     * Migrating from Spring to `Spring Boot`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

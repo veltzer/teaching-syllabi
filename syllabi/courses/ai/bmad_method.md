@@ -22,6 +22,7 @@ audience:
 # The `BMAD` Method
 
 ## Description
+
 `BMAD` (Breakthrough Method for Agile `AI`-Driven Development) is an open
 source framework for running a software project with a team of specialized
 `AI` agents instead of a single all-purpose chat. An analyst, a product
@@ -45,6 +46,7 @@ The course assumes participants already develop with `AI` assistance. It
 does not re-teach prompting, context windows or how coding agents work.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -74,6 +76,7 @@ does not re-teach prompting, context windows or how coding agents work.
 * **Judge** where `BMAD` helps, where it is overhead and how it compares to `Spec Kit`, `Kiro` and plain instruction files
 
 ## Outline
+
 <!-- chapter: why-bmad, duration: 1h -->
 * Why `BMAD`
     * How single-chat development fails on real projects
@@ -274,6 +277,7 @@ does not re-teach prompting, context windows or how coding agents work.
         * The community and where the discussions happen
 
 ## Installations
+
 Each student should have:
 
 * A laptop with a modern editor (`VS Code` or similar) and permission to
@@ -292,4 +296,5 @@ Each student should have:
   blocks the student's `AI` provider or `npm`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

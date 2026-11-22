@@ -19,6 +19,7 @@ audience:
 # System Design Interview Prep
 
 ## Description
+
 The system-design interview at top engineering organizations measures something specific: whether a candidate
 can scope an under-defined problem, walk a tradeoff space credibly, and `make` decisions out loud under time
 pressure. The general System Design course in the catalog is broader; this five day course is dedicated to
@@ -32,6 +33,7 @@ grounded in the public material from `Alex Xu`, `Donne Martin`, `Educative`, and
 the companies that conduct these interviews.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ the companies that conduct these interviews.
 * practice deliberately rather than re-watching solution videos
 
 ## Outline
+
 <!-- chapter: what-the-interview-actually-measures, duration: 2h -->
 * What the interview actually measures
     * the signals interviewers are calibrated to
@@ -191,4 +194,5 @@ the companies that conduct these interviews.
     * recommended reading and continued practice plan
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

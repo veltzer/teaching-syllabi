@@ -15,9 +15,11 @@ audience:
 # `Linux` for Developers
 
 ## Description
+
 This course equips software developers with the `Linux` knowledge they need to build, debug, and deploy applications effectively on `Linux` systems. Topics include file `I/O`, processes, signals, `IPC`, sockets, memory management, debugging tools, build systems, package management, and containerization basics. Students will gain practical skills for working productively in `Linux` development environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course equips software developers with the `Linux` knowledge they need to b
 * Understand containerization basics with `Docker`.
 
 ## Outline
+
 <!-- chapter: file-i-o, duration: 2h -->
 * `File` `I/O`:
     * System calls: open, read, write, close, lseek.
@@ -114,4 +117,5 @@ This course equips software developers with the `Linux` knowledge they need to b
     * Development workflows with containers.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

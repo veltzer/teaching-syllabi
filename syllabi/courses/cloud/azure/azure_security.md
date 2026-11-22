@@ -16,9 +16,11 @@ audience:
 # `Azure` Security
 
 ## Description
+
 This course provides a comprehensive exploration of security in `Microsoft Azure`, covering identity management, network protection, data security, and compliance. Participants will learn how to design and implement security controls across `Azure` environments using services such as `Microsoft Entra ID`, `Azure Key Vault`, `Microsoft Defender for Cloud`, and `Azure Sentinel`. The course emphasizes practical, defense-in-depth strategies that align with industry best practices and `Azure` security benchmarks.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides a comprehensive exploration of security in `Microsoft Azure
 * Enforce organizational compliance with `Azure Policy` and `Microsoft Purview`
 
 ## Outline
+
 <!-- chapter: microsoft-entra-id-deep-dive, duration: 2h -->
 * `Microsoft Entra ID` Deep Dive
     * Tenant and directory architecture
@@ -116,4 +119,5 @@ This course provides a comprehensive exploration of security in `Microsoft Azure
     * Integration with third-party `SIEM` tools
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

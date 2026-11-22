@@ -20,6 +20,7 @@ duration_hours: 24
 # `Terraform` Introduction
 
 ## Description
+
 `Terraform` is one of the leading tools in `DevOps` automation and infrastructure
 as code approaches with an advantage of being able to work with multiple cloud
 providers. This course teaches all the relevant information that one needs to
@@ -50,11 +51,13 @@ and how it compares with competing or other tools in the `DevOps` space.
 * Participants will learn how to use `Terraform` correctly and avoid it's pitfalls.
 
 ## Exercises
+
 The course includes exercises on `AWS` for every chapter. [long]
 The exercises could be modified to work on other cloud providers (`GCP`, `Azure`)
 but this will require some work.
 
 ## Outline
+
 <!-- chapter: introduction-to-terraform, duration: 3h -->
 * Introduction to `Terraform`
     * Overview of `Terraform` architecture
@@ -114,4 +117,5 @@ but this will require some work.
     * Error messages
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

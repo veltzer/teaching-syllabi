@@ -21,6 +21,7 @@ audience:
 # Feature Flags and Progressive Delivery
 
 ## Description
+
 Feature flags decouple deployment from release. Done well, they let teams ship code continuously, roll out features
 gradually to subsets of users, run experiments in production, and recover from incidents in seconds rather than hours.
 Done poorly, they accumulate as a tangle of dead conditionals that nobody dares to delete.
@@ -33,6 +34,7 @@ Participants leave able to introduce feature flags into a codebase, run a progre
 the operational and code-quality traps that have ended other teams' attempts.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ the operational and code-quality traps that have ended other teams' attempts.
 * choose between flag platforms or build a small one in-house
 
 ## Outline
+
 <!-- chapter: why-feature-flags, duration: 2h -->
 * Why feature flags
     * decoupling deployment from release
@@ -182,4 +185,5 @@ the operational and code-quality traps that have ended other teams' attempts.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

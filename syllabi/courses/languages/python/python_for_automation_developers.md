@@ -16,6 +16,7 @@ audience:
 # `Python` for Automation Developers
 
 ## Description
+
 In the past couple of years, `Python` popularity as an automation tool has been rising.
 `Python`, in comparison to other languages, contains less verbosity and is relatively easy to use.
 As a result of its popularity, `Python` has become one of the most used automation languages.
@@ -26,6 +27,7 @@ In this course, you will learn the fundamentals of `Python`. You will create a `
 automation project with `Selenium`, `Appium`, `REST` `API` support and Allure reports.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ automation project with `Selenium`, `Appium`, `REST` `API` support and Allure re
 * gain practical knowledge of `Selenium` & `Appium``
 
 ## Outline
+
 <!-- chapter: python-crash-course, duration: 6h -->
 * `Python` crash course
     * Why `Python` for automation development?
@@ -80,4 +83,5 @@ automation project with `Selenium`, `Appium`, `REST` `API` support and Allure re
     * Beautiful soup
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

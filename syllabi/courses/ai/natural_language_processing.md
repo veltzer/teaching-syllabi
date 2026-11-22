@@ -18,6 +18,7 @@ audience:
 # Natural Language Processing
 
 ## Description
+
 This course is a comprehensive, language-agnostic treatment of `Natural Language Processing` from
 foundations to modern transformer architectures. It covers the linguistic concepts that `make` text
 processing hard, the classical algorithms that established the field, the statistical and neural
@@ -31,6 +32,7 @@ behind each technique alongside the *how*, equipping participants to choose the 
 problem and to understand new techniques as they emerge.
 
 ## Duration
+
 64 hours / 8 days
 
 ## Intended Audience
@@ -66,6 +68,7 @@ problem and to understand new techniques as they emerge.
 * navigate the practical concerns of building NLP systems at scale
 
 ## Outline
+
 <!-- chapter: foundations-of-natural-language, duration: 2h -->
 * Foundations of Natural Language
     * What makes language hard for computers
@@ -694,4 +697,5 @@ problem and to understand new techniques as they emerge.
         * Model cards and documentation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -19,6 +19,7 @@ audience:
 # Threat Hunting and Detection Engineering
 
 ## Description
+
 Modern defense is not "buy a `SIEM`, hope for the best." It is the engineering discipline of building, tuning and
 maintaining detections, and the investigative discipline of hunting for threats that detections did not catch.
 This five day course covers both, end to end.
@@ -31,6 +32,7 @@ engineering and threat hunting into a continuous improvement loop. Participants 
 detections, run productive hunts, and contribute to a defensive program rather than just consume alerts from one.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ detections, run productive hunts, and contribute to a defensive program rather t
 * build the team practices that mature a detection program over time
 
 ## Outline
+
 <!-- chapter: the-defenders-mindset, duration: 2h -->
 * The defender's mindset
     * detection vs prevention vs response
@@ -170,4 +173,5 @@ detections, run productive hunts, and contribute to a defensive program rather t
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

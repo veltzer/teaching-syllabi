@@ -17,9 +17,11 @@ audience:
 # Container and `Kubernetes` Security
 
 ## Description
+
 Containers and `Kubernetes` have become the standard for deploying modern applications, but they introduce unique security challenges at every layer of the stack. This advanced course covers container security from image building through runtime, `Kubernetes` security architecture, policy enforcement, supply chain integrity, and runtime threat detection. Participants will learn to secure containerized workloads using industry-leading tools and practices.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Apply CIS benchmarks and compliance scanning to container environments
 
 ## Outline
+
 <!-- chapter: container-security-fundamentals, duration: 1h -->
 * Container Security Fundamentals
     * Container architecture and attack surface overview
@@ -187,4 +190,5 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
     * Compliance as code and policy-driven governance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

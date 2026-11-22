@@ -16,6 +16,7 @@ audience:
 # `Git` and `Gerrit`
 
 ## Description
+
 The objective is a good understand of `git` and it's differences/similarities
 to other source control systems + understanding of how to combine `git`
 with `Gerrit`.
@@ -23,6 +24,7 @@ with `Gerrit`.
 The weight is 2/3 `git` and 1/3 `Gerrit`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ The weight is 2/3 `git` and 1/3 `Gerrit`.
 * apply `Git`` and ``Gerrit` techniques and best practices in real-world scenarios
 
 ## Outline
+
 <!-- chapter: git, duration: 4h -->
 * `git`
     * philosophy of `git`.
@@ -60,4 +63,5 @@ The weight is 2/3 `git` and 1/3 `Gerrit`.
     * pull and push.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

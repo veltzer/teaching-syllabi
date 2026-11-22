@@ -19,6 +19,7 @@ audience:
 # Inference Optimization and Serving
 
 ## Description
+
 The catalog has `MLOps`, `LLM Application Engineering`, `Multimodal AI Engineering`, and
 `LLM Fine-tuning and Prompt Engineering`. None of those covers the production-engineering of
 inference: how to serve a model with low latency, high throughput, and bounded cost. This is its own
@@ -38,6 +39,7 @@ and the operational realities. Examples include real production deployments. Par
 to serve a model with the right stack at the right cost.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ to serve a model with the right stack at the right cost.
 * recognize the patterns that lead to wasted `GPU`
 
 ## Outline
+
 <!-- chapter: the-inference-compute-pattern, duration: 2h -->
 * The inference compute pattern
     * prefill vs decode
@@ -169,4 +172,5 @@ to serve a model with the right stack at the right cost.
     * recommended reading: `vLLM` papers, `NVIDIA` inference docs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

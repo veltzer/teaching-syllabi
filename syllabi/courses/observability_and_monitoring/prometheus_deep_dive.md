@@ -16,9 +16,11 @@ audience:
 # `Prometheus` Deep Dive
 
 ## Description
+
 This course provides a comprehensive deep dive into `Prometheus`, the leading open-source monitoring and alerting toolkit. Participants will master `PromQL`, learn to instrument applications, configure service discovery, set up alerting with `Alertmanager`, and explore long-term storage solutions. The course prepares teams to build robust, scalable monitoring infrastructure with `Prometheus`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
 * Operate `Prometheus` in `Kubernetes` environments.
 
 ## Outline
+
 <!-- chapter: prometheus-architecture, duration: 1h -->
 * `Prometheus` Architecture:
     * Pull-based monitoring model
@@ -133,4 +136,5 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
     * Resource allocation and limits
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

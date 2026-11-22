@@ -17,9 +17,11 @@ audience:
 # Advanced `Nginx`
 
 ## Description
+
 This course covers advanced `Nginx` topics for experienced engineers who want to master `Nginx` as a high-performance reverse proxy, load balancer, and web server. Topics include reverse proxy configuration, load balancing algorithms, caching strategies, rate limiting, `SSL/TLS` termination, `Lua` scripting with OpenResty, performance tuning, and high availability setups. Students will gain the skills needed to architect and manage production-grade `Nginx` deployments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course covers advanced `Nginx` topics for experienced engineers who want to
 * Architect high availability `Nginx` deployments.
 
 ## Outline
+
 <!-- chapter: reverse-proxy-configuration, duration: 2h -->
 * Reverse Proxy Configuration:
     * Proxy pass directives and upstream blocks.
@@ -96,4 +99,5 @@ This course covers advanced `Nginx` topics for experienced engineers who want to
     * Logging, monitoring, and alerting.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

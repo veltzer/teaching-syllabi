@@ -19,9 +19,11 @@ audience:
 # `PKI` and Certificates
 
 ## Description
+
 Public Key Infrastructure (`PKI`) underpins the security of virtually every encrypted communication on the internet, from `HTTPS` websites to mutual `TLS` in microservices and `VPN` authentication. Despite its foundational role, `PKI` is frequently misunderstood, leading to misconfigured certificates, broken trust chains, and serious security vulnerabilities. This course provides a rigorous, practical understanding of `PKI` from first principles — covering asymmetric cryptography, `X.509` certificate structure, certificate authority hierarchies, the `TLS` handshake, and the full certificate lifecycle. Participants will gain hands-on experience with `OpenSSL`, `Let's Encrypt`/`ACME`, and internal `CA` solutions including `CFSSL` and `HashiCorp Vault`, enabling them to design and operate `PKI` infrastructure confidently.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
 * Build and operate an internal `CA` using `CFSSL` and `HashiCorp Vault PKI`
 
 ## Outline
+
 <!-- chapter: cryptography-fundamentals-for-pki, duration: 2h -->
 * Cryptography Fundamentals for `PKI`
     * Symmetric vs asymmetric encryption: key concepts and trade-offs
@@ -134,4 +137,5 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
     * Certificate lifecycle automation with short TTLs and high-frequency renewal
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

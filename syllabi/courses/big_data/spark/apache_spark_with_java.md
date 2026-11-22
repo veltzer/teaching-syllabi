@@ -15,6 +15,7 @@ audience:
 # `Apache Spark` with `Java`
 
 ## Description
+
 `Apache Spark` is a fast and general engine for large-scale data processing, and arguably the first
 open source software that makes distributed programming truly accessible to data scientists.
 Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and R.
@@ -30,6 +31,7 @@ general big data analysis and manipulations skills.
 The course will include exercises for all the major topics explained with best practice solutions.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ The course will include exercises for all the major topics explained with best p
 * Learn how to do `machine learning` tasks using `Spark`.
 
 ## Outline
+
 <!-- chapter: introduction, duration: 6h -->
 * Introduction
     * Why `Spark`
@@ -88,4 +91,5 @@ The course will include exercises for all the major topics explained with best p
     * `Spark` `Java` K-Means Clustering Example
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

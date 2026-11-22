@@ -15,9 +15,11 @@ audience:
 # Network Penetration Testing
 
 ## Description
+
 Network penetration testing is the practice of systematically probing an organization's network infrastructure to discover and exploit vulnerabilities before malicious actors do. This intensive course covers the full penetration testing lifecycle from scoping and reconnaissance through exploitation, post-exploitation, and professional report writing, using the same tools and techniques employed by professional red teams. Participants will gain practical skills with industry-standard tools including `Metasploit`, Nmap, `Nessus`, Wireshark, and `Aircrack-ng`, working through realistic lab scenarios that mirror real-world network environments. The course places equal emphasis on technical execution and the legal, ethical, and methodological rigor required of professional penetration testers.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ Network penetration testing is the practice of systematically probing an organiz
 * Operate within legal and ethical boundaries, understanding scope, authorization, and liability
 
 ## Outline
+
 <!-- chapter: penetration-testing-methodology, duration: 2h -->
 * Penetration Testing Methodology
     * Penetration testing vs vulnerability assessment vs red teaming
@@ -181,4 +184,5 @@ Network penetration testing is the practice of systematically probing an organiz
     * Professional certifications and codes of conduct: `CREST`, `OSCP`, `CEH`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

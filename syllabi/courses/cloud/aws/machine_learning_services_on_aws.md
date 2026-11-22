@@ -17,6 +17,7 @@ audience:
 # `Machine learning` services on `AWS`
 
 ## Description
+
 This course is intended for `machine learning` engineers who wish to get acquainted with
 the services `AWS` offers with regard to `machine learning`. The course does not teach
 `machine learning`, only how to use the tools `AWS` offers to achieve the goal.
@@ -32,6 +33,7 @@ idea of what's on offer and will save himself/herself time by using these servic
 Further learning of individual services is required.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ scale on `AWS`.
 off in `AWS` in the field of `machine learning`.
 
 ## Prerequisites
+
 Knowledge of `machine learning`.
 
 ## Objectives
@@ -51,10 +54,12 @@ Knowledge of `machine learning`.
 * Understand the advantages and disadvantages of these services when compared to doing the same on cloud but without the service.
 
 ## Exercises
+
 No exercises in this part of the course, examples for some of the services will be
 shown by the instructor.
 
 ## Outline
+
 <!-- chapter: classic-ml, duration: 2h -->
 * Classic `ML`
     * Amazon SageMaker
@@ -95,4 +100,5 @@ shown by the instructor.
     * Amazon Textract
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

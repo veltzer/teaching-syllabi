@@ -17,6 +17,7 @@ audience:
 # `NATS`
 
 ## Description
+
 `NATS` is an ultra-lightweight, cloud-native messaging system designed for simplicity, performance, and
 resilience in `microservices` and distributed systems. This course covers the full `NATS` stack from the
 foundational core publish-subscribe model through the persistence and exactly-once semantics of `JetStream`,
@@ -25,6 +26,7 @@ will also learn how to secure clusters with `TLS` and `NKey` authentication and 
 clustering and leaf node topologies.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ clustering and leaf node topologies.
 * Deploy and operate a `NATS` cluster with leaf node extensions.
 
 ## Outline
+
 <!-- chapter: introduction-to-nats, duration: 1h -->
 * Introduction to `NATS`:
     * The `NATS` philosophy: simplicity, speed, and resiliency.
@@ -110,4 +113,5 @@ clustering and leaf node topologies.
     * Monitoring with the `NATS` monitoring endpoint and `nats-surveyor`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

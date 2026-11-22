@@ -15,9 +15,11 @@ audience:
 # `GCP` Fundamentals
 
 ## Description
+
 This course provides a comprehensive introduction to the `Google Cloud Platform` (`GCP`). Participants will gain hands-on experience with the core services and capabilities of `GCP`, including compute, storage, networking, databases, serverless, and monitoring. The course is designed to build a `solid` foundation for working with `GCP` and prepares participants for more advanced cloud topics and certification paths.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a comprehensive introduction to the `Google Cloud Platform`
 * Apply deployment best practices for production workloads on `GCP`
 
 ## Outline
+
 <!-- chapter: introduction-to-gcp, duration: 3h -->
 * Introduction to `GCP`
     * What is `Cloud Computing`?
@@ -143,4 +146,5 @@ This course provides a comprehensive introduction to the `Google Cloud Platform`
     * The `Google Cloud` Well-Architected Framework
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

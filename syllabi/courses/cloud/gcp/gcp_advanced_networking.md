@@ -20,6 +20,7 @@ duration_hours: 32
 # `GCP` Advanced Networking with Labs
 
 ## Description
+
 This is a practical, hands-on course for engineers who already know the `GCP`
 basics and now need to design, build, secure, and operate production-grade
 network infrastructure on the `Google Cloud Platform`. Almost every chapter is
@@ -41,6 +42,7 @@ vendor-neutral way. Where an `AWS` or `Azure` equivalent exists (for example
 mapping is called out so the skills transfer across clouds.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -71,6 +73,7 @@ mapping is called out so the skills transfer across clouds.
 * Students are encouraged to tear down resources after each lab to control cost.
 
 ## Outline
+
 <!-- chapter: vpc-design-and-segmentation-lab, duration: 4h -->
 * `VPC` Design and Segmentation (Lab)
     * Auto mode vs custom mode `VPC` networks
@@ -142,6 +145,7 @@ mapping is called out so the skills transfer across clouds.
 * `GKE` networking internals, which are covered in a dedicated containers course.
 
 ## Installations
+
 Each student should have:
 
 * A `GCP` project with `IAM` permissions to create `VPC` networks, `Shared VPC`,
@@ -154,4 +158,5 @@ Each student should have:
 * Awareness that running labs incurs `GCP` charges; tearing down resources after each lab is recommended.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

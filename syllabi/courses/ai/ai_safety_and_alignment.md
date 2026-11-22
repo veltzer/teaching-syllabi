@@ -20,6 +20,7 @@ audience:
 # `AI` Safety and Alignment
 
 ## Description
+
 Building `AI` systems that are useful is one problem. Building `AI` systems that remain useful, honest and
 controllable across the full distribution of inputs they will see in production is a different problem, and a
 much harder one. This five day course is the technical complement to the ethics-and-policy material already
@@ -33,6 +34,7 @@ operational practices that keep a deployed system safe over time. The course is 
 public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic alignment research.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
 * read frontier alignment research critically
 
 ## Outline
+
 <!-- chapter: the-alignment-problem-precisely, duration: 3h -->
 * The alignment problem precisely
     * specification, robustness, generalization
@@ -183,4 +186,5 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
     * recommended reading: `Anthropic`, `OpenAI`, DeepMind papers, `Christian`'s book
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

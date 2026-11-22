@@ -15,9 +15,11 @@ audience:
 # `PostgreSQL` Internals
 
 ## Description
+
 This course provides a deep dive into the internal architecture and mechanisms of `PostgreSQL`. Participants will explore the process model, shared memory architecture, buffer management, write-ahead logging (WAL), and the multi-version concurrency control (MVCC) implementation. The course also covers the query planner and optimizer, index internals across multiple index types, the TOAST mechanism, vacuum and autovacuum processes, and how to extend `PostgreSQL` through custom C extensions, types, and operators.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a deep dive into the internal architecture and mechanisms o
 * Develop custom `PostgreSQL` extensions, types, and operators in C
 
 ## Outline
+
 <!-- chapter: process-architecture, duration: 2h -->
 * Process Architecture
     * `PostgreSQL` process model: postmaster, backend, and auxiliary processes
@@ -129,4 +132,5 @@ This course provides a deep dive into the internal architecture and mechanisms o
     * Debugging and testing extensions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

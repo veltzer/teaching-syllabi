@@ -16,9 +16,11 @@ audience:
 # Database Migration Strategies
 
 ## Description
+
 This course covers modern strategies and tools for managing database schema changes in production environments. Participants will learn how to perform zero-downtime migrations, implement schema versioning with tools like Flyway and `Liquibase`, apply the expand-contract pattern for backward-compatible changes, and integrate database migrations into `CI/CD` pipelines. The course also addresses data migration techniques, blue-green database deployments, rollback strategies, and testing practices for migrations.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course covers modern strategies and tools for managing database schema chan
 * Integrate database migrations into `CI/CD` pipelines
 
 ## Outline
+
 <!-- chapter: fundamentals-of-database-migrations, duration: 1h -->
 * Fundamentals of Database Migrations
     * Why database migrations are challenging
@@ -112,4 +115,5 @@ This course covers modern strategies and tools for managing database schema chan
     * Migration governance and approval workflows
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

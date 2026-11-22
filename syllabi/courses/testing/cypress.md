@@ -15,9 +15,11 @@ audience:
 # Cypress End-to-End Testing
 
 ## Description
+
 Cypress is a modern, developer-friendly end-to-end testing framework that runs directly in the browser alongside your application. This course covers everything from basic test authoring to advanced topics like network interception, custom commands, and `CI/CD` integration. Participants will learn how to write reliable, fast, and maintainable tests for web applications using Cypress, and understand how it compares to other tools like `Playwright` and `Selenium`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Cypress is a modern, developer-friendly end-to-end testing framework that runs d
 * Perform component testing and visual testing with Cypress
 
 ## Outline
+
 <!-- chapter: cypress-overview-and-architecture, duration: 1h -->
 * Cypress Overview and Architecture
     * What is Cypress and why it was created
@@ -176,4 +179,5 @@ Cypress is a modern, developer-friendly end-to-end testing framework that runs d
     * Choosing the right tool for your project
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

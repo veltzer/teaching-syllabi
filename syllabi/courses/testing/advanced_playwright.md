@@ -16,9 +16,11 @@ audience:
 # Advanced `Playwright`
 
 ## Description
+
 This two day advanced course takes participants beyond the basics of `Playwright` into production-grade testing patterns. Topics include the page object model, visual regression testing, `API` testing, network interception, parallel execution, custom fixtures, `CI/CD` integration, mobile emulation, and accessibility testing.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This two day advanced course takes participants beyond the basics of `Playwright
 * Emulate mobile devices and perform accessibility audits.
 
 ## Outline
+
 <!-- chapter: page-object-model, duration: 1h -->
 * Page Object Model
     * Structuring page objects for maintainability
@@ -100,4 +103,5 @@ This two day advanced course takes participants beyond the basics of `Playwright
     * Integrating accessibility checks into test pipelines
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

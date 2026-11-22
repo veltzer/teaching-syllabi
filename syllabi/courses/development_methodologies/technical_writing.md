@@ -14,6 +14,7 @@ audience:
 # Technical Writing
 
 ## Description
+
 Clear and effective technical writing is an essential skill for software professionals.
 This course teaches the fundamentals of writing documentation that is accurate, concise,
 and useful to its intended audience. Topics range from everyday documents like READMEs
@@ -22,6 +23,7 @@ modern tooling, documentation-as-code practices, and strategies for keeping docu
 maintainable over time.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ maintainable over time.
 * gain practical knowledge of writing clear `API` and reference documentation
 
 ## Outline
+
 <!-- chapter: technical-writing-fundamentals, duration: 1h -->
 * Technical Writing Fundamentals
     * Why technical writing matters
@@ -132,4 +135,5 @@ maintainable over time.
     * Color and contrast in documentation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -19,6 +19,7 @@ audience:
 # `ArgoCD` & `GitOps`
 
 ## Description
+
 This course introduces the `GitOps` methodology and its practical implementation using `ArgoCD`
 as a declarative `continuous delivery` tool for `Kubernetes`. Participants will learn how to manage
 application deployments through `Git` repositories as the single source of truth, configure
@@ -29,6 +30,7 @@ This course assumes participants have working knowledge of `Kubernetes` and `Git
 the operational and architectural aspects of `GitOps` rather than basic `Kubernetes` concepts.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -54,6 +56,7 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
 * gain practical knowledge of progressive delivery patterns with `GitOps`
 
 ## Outline
+
 <!-- chapter: introduction-to-gitops, duration: 1h -->
 * Introduction to `GitOps`
     * What is `GitOps` and its core principles
@@ -128,4 +131,5 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
     * Notification and alerting integration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

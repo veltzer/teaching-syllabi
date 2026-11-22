@@ -18,6 +18,7 @@ audience:
 # `Windows` Internals
 
 ## Description
+
 This course takes an in-depth look at the internal architecture and mechanisms of the
 `Windows` operating system. Students will learn how the `Windows` kernel is structured,
 how processes and `threads` are created and scheduled, how memory is managed, how the
@@ -29,6 +30,7 @@ for engineers debugging hard problems in production, for performance tuning, and
 security research on the `Windows` platform.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ security research on the `Windows` platform.
 * Done with the `Sysinternals` suite and `WinDbg` on a `Windows` virtual machine.
 
 ## Outline
+
 <!-- chapter: windows-architecture-overview, duration: 2h -->
 * `Windows` Architecture Overview
     * History and evolution of the `NT` kernel
@@ -209,6 +212,7 @@ security research on the `Windows` platform.
     * Hung system analysis
 
 ## Installations
+
 Each student should have:
 
 * A `Windows` 10 or `Windows` 11 machine, real or virtual, with administrator privileges.
@@ -219,4 +223,5 @@ Each student should have:
 * Free access to the internet from all machines for downloading tools and debugging symbols.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

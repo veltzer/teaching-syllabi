@@ -17,9 +17,11 @@ audience:
 # Working with `LLMs` Securely
 
 ## Description
+
 This one day course covers the `OWASP` Top 10 for Large Language Model Applications, providing a comprehensive understanding of the most critical security risks when building and deploying `LLM`-based systems. Students will learn to identify, exploit, and mitigate each vulnerability category through practical examples and hands-on exercises.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This one day course covers the `OWASP` Top 10 for Large Language Model Applicati
 * Design secure `LLM` integration architectures.
 
 ## Outline
+
 <!-- chapter: introduction-to-owasp-top-10-for-llms, duration: 1h -->
 * Introduction to `OWASP` Top 10 for `LLMs`
     * Overview of `OWASP` `LLM` project
@@ -99,4 +102,5 @@ This one day course covers the `OWASP` Top 10 for Large Language Model Applicati
     * Access controls and monitoring
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

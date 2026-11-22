@@ -19,6 +19,7 @@ audience:
 # `Linux` systems programming
 
 ## Description
+
 This course is about user space programming in `Linux` in C.
 It covers all major areas of programming (processes, threads, IO,
 networking, synchronization and more).
@@ -33,6 +34,7 @@ be done only for experienced developers and in this case the instructor will sho
 examples instead.
 
 ## Duration
+
 64 hours / 8 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ examples instead.
 * gain practical knowledge of Tools (this chapter is needed for the following exercises)
 
 ## Outline
+
 <!-- chapter: boot-sequence, duration: 1h -->
 * Boot sequence
     * `grub`/uboot - loading and booting the image
@@ -284,4 +287,5 @@ examples instead.
         * how to turn it off for debugging
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

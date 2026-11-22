@@ -17,6 +17,7 @@ audience:
 # Multi-Cloud Strategy
 
 ## Description
+
 This course provides a comprehensive overview of multi-cloud strategies, helping architects
 and managers `make` informed decisions about when and how to operate across multiple cloud
 providers. The course covers service mapping across `AWS`, `Azure`, and `GCP`, abstraction
@@ -25,6 +26,7 @@ organizational considerations. Participants will learn to evaluate trade-offs an
 practical multi-cloud strategies aligned with business goals.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ practical multi-cloud strategies aligned with business goals.
 * develop practical multi-cloud strategies aligned with organizational needs.
 
 ## Outline
+
 <!-- chapter: multi-cloud-motivations-and-trade-offs, duration: 1h -->
 * Multi-cloud motivations and trade-offs
     * reasons for multi-cloud adoption
@@ -131,4 +134,5 @@ practical multi-cloud strategies aligned with business goals.
     * pragmatic decision framework
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

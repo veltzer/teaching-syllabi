@@ -16,6 +16,7 @@ audience:
 # NLP with Transformers
 
 ## Description
+
 This course provides an in-depth exploration of modern Natural Language Processing using
 transformer-based architectures and the `Hugging Face` ecosystem. Participants will learn how
 `BERT`, `GPT`, and related models work under the hood, and gain practical experience with
@@ -25,6 +26,7 @@ course also covers transfer learning strategies, model evaluation techniques, an
 using `ONNX` for production environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ using `ONNX` for production environments.
 * **Deploy transformer models** to production using `ONNX` and optimization techniques
 
 ## Outline
+
 <!-- chapter: introduction-to-transformers, duration: 2h -->
 * Introduction to Transformers
     * Evolution from RNNs to transformers
@@ -143,4 +146,5 @@ using `ONNX` for production environments.
     * Production monitoring and model versioning
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

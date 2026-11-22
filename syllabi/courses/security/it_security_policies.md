@@ -18,9 +18,11 @@ audience:
 # IT Security Policies
 
 ## Description
+
 This intensive one-day training program covers essential IT security policies and best practices for organizations. The course is designed for all employees and provides fundamental knowledge of cybersecurity practices.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This intensive one-day training program covers essential IT security policies an
 * Maintain workplace security practices
 
 ## Outline
+
 <!-- chapter: foundation-of-information-security, duration: 1h -->
 * Foundation of Information Security
     * Introduction to information security
@@ -96,4 +99,5 @@ This intensive one-day training program covers essential IT security policies an
     * Third-party vendor security
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

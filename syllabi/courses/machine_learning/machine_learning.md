@@ -16,12 +16,14 @@ audience:
 # Intro to `Machine Learning` with `Python`
 
 ## Description
+
 `Machine learning` is becoming huge business in the days of big data and huge web sites. This course
 will introduce the participants to `data science` and `machine learning` in particular reviewing and
 training using the most popular algorithms. The course will teach `machine learning` using `python` and
 will emphasize the strengths and weaknesses of the most popular algorithms.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ what algorithm to apply when confront with a problem.
 * Understand the `machine learning` life cycle of a real world project.
 
 ## Exercises
+
 Using `Python`: numpy, SciPy, pandas, `Scikit-learn`.
 
 ## Outline
+
 <!-- chapter: data-science, duration: 5h -->
 * Data Science
     * Introduction
@@ -105,4 +109,5 @@ Using `Python`: numpy, SciPy, pandas, `Scikit-learn`.
 * This course does not include `deep learning` which should be taken after this course.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

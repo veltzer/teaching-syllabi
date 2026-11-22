@@ -16,6 +16,7 @@ audience:
 # `Python` and Testing
 
 ## Description
+
 In the past couple of years, `Python` popularity as an automation tool has been rising.
 `Python`, in comparison to other languages, contains less verbosity and is relatively easy to use.
 As a result of its popularity, `Python` has become one of the most used automation languages.
@@ -26,6 +27,7 @@ You will create a `Pytest` based automation project with `Selenium`, `Appium`, `
 This is a rather lengthy course for testing as most testing courses are one day long. The idea of this syllabus is that the attendees can adjust it to their needs.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This is a rather lengthy course for testing as most testing courses are one day 
 * Know how to use the various `Python` mocking libraries.
 
 ## Outline
+
 <!-- chapter: testing-theory, duration: 2h -->
 * Testing Theory
     * Why testing is important
@@ -154,4 +157,5 @@ This is a rather lengthy course for testing as most testing courses are one day 
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # Advanced `Kubernetes`
 
 ## Description
+
 The Advanced `Kubernetes` training course is designed for students with a basic understanding of `Kubernetes` wanting to venture into customizing clusters by creating business-specific components to deliver more powerful solutions. This course focuses on advanced topics such as deploying resilient applications, extending `Kubernetes`, cluster provisioning, and traffic shifting with network policies.
 
 The course begins with deploying resilient applications, extending `Kubernetes`, cluster provisioning, and ServiceMesh. Next, the course dives into three levels of `Kubernetes` administration. The course concludes with a lesson on roles and access control and a review of Serverless.
@@ -23,6 +24,7 @@ The course begins with deploying resilient applications, extending `Kubernetes`,
 The course will be code heavy using GoLang to tap into the various APIs to build enhanced `Kubernetes` powered clusters. Prerequisites include a working knowledge of `Kubernetes` as well as GoLang.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ The course will be code heavy using GoLang to tap into the various APIs to build
 * Utilize `RBAC` to regulate access to a computer or network resources based on the roles of individual users within an enterprise.
 
 ## Outline
+
 <!-- chapter: deploying-resilient-applications, duration: 4h -->
 * Deploying Resilient Applications
     * ReplicaSets
@@ -92,9 +95,11 @@ The course will be code heavy using GoLang to tap into the various APIs to build
     * `Knative`
 
 ## References
+
 [advanced-`Kubernetes`](https://www.pluralsight.com/professional-services/it-ops/advanced-kubernetes)
 
 ## Installations
+
 Each student should have:
 * An `Ubuntu` 24:04 machine
 * 8 GB `RAM` for each machine because we are going to practice `Kubernetes` with `Minikube`. This requires some `RAM`.
@@ -103,4 +108,5 @@ Each student should have:
 * [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

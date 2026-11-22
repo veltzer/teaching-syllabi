@@ -13,6 +13,7 @@ audience:
 # Introduction to Databases
 
 ## Description
+
 A unified introduction to both `SQL` and `NoSQL` databases with hands-on practice.
 This course takes students from the fundamentals of what databases are and why we
 need them, through relational database concepts and `SQL` syntax, to document databases
@@ -20,6 +21,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 `MongoDB`, and learn how to choose the right database for their use case.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 * Understand the role of Object Relational Mappers (`ORMs`)
 
 ## Outline
+
 <!-- chapter: what-are-databases, duration: 2h -->
 * What Are Databases
     * Why we need databases
@@ -118,4 +121,5 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
     * Ecosystem and community support
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

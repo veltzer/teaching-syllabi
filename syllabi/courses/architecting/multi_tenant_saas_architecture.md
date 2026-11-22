@@ -21,6 +21,7 @@ audience:
 # Multi-Tenant `SaaS` Architecture
 
 ## Description
+
 Building a `SaaS` product is not the same as building a regular web application running once per customer. Multi-tenant
 `SaaS` introduces concerns that single-tenant systems never have to face: how to share infrastructure between thousands
 of customers without leaking data, how to scale per-tenant load that varies by orders of magnitude, how to bill tenants
@@ -33,6 +34,7 @@ and per-tenant `SLOs`. Participants leave able to design a new `SaaS` from scrat
 refactor an existing single-tenant system into a viable multi-tenant product.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ refactor an existing single-tenant system into a viable multi-tenant product.
 * migrate an existing single-tenant system to multi-tenant safely
 
 ## Outline
+
 <!-- chapter: what-makes-saas-different, duration: 2h -->
 * What makes `SaaS` different
     * single-tenant, multi-instance, multi-tenant
@@ -184,4 +187,5 @@ refactor an existing single-tenant system into a viable multi-tenant product.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

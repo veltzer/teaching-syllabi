@@ -17,9 +17,11 @@ audience:
 # `RESTful APIs` Development
 
 ## Description
+
 `RESTful APIs` are the backbone of modern web applications and microservices architecture. This course covers comprehensive `REST` principles, `HTTP` verbs, status codes, and practical `API` development techniques. Participants will learn to design, implement, test, and document robust APIs using industry-standard tools like Postman and best practices for scalable `web services`.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -56,6 +58,7 @@ audience:
 * Configure CORS, rate limiting, and security best practices for production APIs
 
 ## Outline
+
 <!-- chapter: introduction-to-rest-architecture-and-principles, duration: 1h -->
 * Introduction to `REST` Architecture and Principles
     * `REST` (Representational State Transfer) architectural style overview
@@ -141,4 +144,5 @@ audience:
     * Security headers and protection against common vulnerabilities
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

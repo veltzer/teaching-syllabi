@@ -17,9 +17,11 @@ audience:
 # Advanced Bash Scripting
 
 ## Description
+
 This advanced course is designed for engineers, `DevOps` professionals, and system administrators with strong Bash scripting experience. The course covers sophisticated Bash scripting techniques, performance optimization, error handling mastery, and integration with modern tools and APIs. Students will learn to write enterprise-grade scripts that are maintainable, efficient, and production-ready.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -36,6 +38,7 @@ This advanced course is designed for engineers, `DevOps` professionals, and syst
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 Upon completion, delegates will be able to:
 * Write advanced Bash scripts using sophisticated techniques like arrays, parameter expansion, and process substitution
 * Implement robust error handling and debugging strategies in production scripts
@@ -52,6 +55,7 @@ Upon completion, delegates will be able to:
 * Developing a `CLI` utility for `REST` `API` interaction
 
 ## Outline
+
 <!-- chapter: advanced-bash-scripting-techniques, duration: 9h -->
 * Advanced Bash Scripting Techniques
     * Recap: Key Bash features (brief refresher)
@@ -117,4 +121,5 @@ Upon completion, delegates will be able to:
 * [`systemd` Timers](https://www.freedesktop.org/software/systemd/man/systemd.timer.html)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

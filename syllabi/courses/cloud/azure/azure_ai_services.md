@@ -16,9 +16,11 @@ audience:
 # `Azure` `AI` Services
 
 ## Description
+
 This course provides a comprehensive overview of artificial intelligence and `machine learning` services on `Microsoft Azure`. Participants will learn to build intelligent applications using `Azure OpenAI Service`, `Azure Machine Learning`, `Azure Cognitive Services`, and `Azure AI Search`. The course covers practical implementation of generative `AI` patterns including `RAG` (Retrieval-Augmented Generation), prompt engineering, and responsible `AI` practices, equipping participants to integrate `AI` capabilities into production applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides a comprehensive overview of artificial intelligence and `ma
 * Design `RAG`-based applications on `Azure`
 
 ## Outline
+
 <!-- chapter: azure-ai-platform-overview, duration: 1h -->
 * `Azure` `AI` Platform Overview
     * `AI` services landscape on `Azure`
@@ -137,4 +140,5 @@ This course provides a comprehensive overview of artificial intelligence and `ma
     * Monitoring and budgeting for `AI` services
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

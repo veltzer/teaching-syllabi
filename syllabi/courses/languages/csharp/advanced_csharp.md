@@ -14,9 +14,11 @@ audience:
 # Advanced `C#`
 
 ## Description
+
 This advanced course dives deep into the most powerful features of modern `C#`, equipping experienced developers with the skills to write high-performance, maintainable, and scalable code. Topics include advanced `LINQ` techniques, mastering async/await patterns, memory-efficient programming with `Span<T>` and `Memory<T>`, code generation with source generators, and sophisticated dependency injection patterns. The course also covers records, advanced pattern matching, and strategies for building high-performance `C#` applications. The course includes hands on exercises.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
 * Leverage records, pattern matching, and modern `C#` features effectively
 
 ## Outline
+
 <!-- chapter: advanced-linq, duration: 3h -->
 * Advanced `LINQ`
     * Expression trees and `IQueryable<T>`
@@ -107,4 +110,5 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
     * NativeAOT compilation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

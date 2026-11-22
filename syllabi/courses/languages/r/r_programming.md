@@ -15,9 +15,11 @@ audience:
 # R programming
 
 ## Description
+
 This course provides a hands-on introduction to the R programming language for data analysis and statistics. Students will learn R basics including data types, data structures, file `I/O`, data visualization with plotting, and fundamental statistical methods such as `hypothesis` testing and confidence intervals.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -35,6 +37,7 @@ This course provides a hands-on introduction to the R programming language for d
 * gain practical knowledge of Graphics with R
 
 ## Outline
+
 <!-- chapter: introduction-to-r, duration: 5h -->
 * Introduction to R
     * What is R?
@@ -67,4 +70,5 @@ This course provides a hands-on introduction to the R programming language for d
     * Testing for normality
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

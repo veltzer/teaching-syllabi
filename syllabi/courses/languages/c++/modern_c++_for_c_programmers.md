@@ -16,6 +16,7 @@ audience:
 # Modern `C++` for C Programmers
 
 ## Description
+
 `C++` is the standard language for implementing object-oriented designs where performance is a priority. Although long-term language stability is an important feature of `C++`, it has nevertheless continued to be developed. `C++` 11 introduced a number of significant language and library features to improve safety and performance. These features allow us to more precisely express concepts from a design directly in code.
 Although these changes could be considered incremental, in fact they allow and encourage a whole new approach to programming.
 
@@ -30,6 +31,7 @@ Delegates will gain a greater understanding of the capabilities and potential pi
 This a comprehensive five-day course with a combination of lectures and practical sessions for each chapter to reinforce the topics covered throughout the course. The practicals avoid algorithmic difficulties so that delegates can concentrate on specific `C++` features.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This a comprehensive five-day course with a combination of lectures and practica
 * Developers for which this will be the first language (in which case this course will be done slower).
 
 ## Prerequisites
+
 This is not a course for beginners. It covers a great deal of material and those who do not meet the course prerequisites will find the course moves too quickly.
 * You must have a `solid` recent experience writing `C++`.
 * First 2 days will be a refresher for the `C++` basics
@@ -62,6 +65,7 @@ This is not a course for beginners. It covers a great deal of material and those
 * Understand and use variety of `OO` call-back mechanisms
 
 ## Outline
+
 <!-- chapter: c-refresher, duration: 2h -->
 * `C++` Refresher
     * An Overview of `OO` Programming and `C++`
@@ -241,4 +245,5 @@ This is not a course for beginners. It covers a great deal of material and those
     * Modifying Sort
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

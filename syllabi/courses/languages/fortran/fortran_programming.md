@@ -14,6 +14,7 @@ audience:
 # Modern `Fortran` Programming
 
 ## Description
+
 `Fortran` remains the dominant language in high-performance computing, scientific simulation,
 and numerical analysis. Modern `Fortran` (2008/2018/2023) has evolved significantly from its
 origins, offering features such as object-oriented programming, coarrays for parallel computing,
@@ -24,6 +25,7 @@ maintainable `Fortran` code for computational science and engineering.
 The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ The course includes hands on exercises.
 * Apply performance optimization and debugging techniques
 
 ## Outline
+
 <!-- chapter: introduction-to-modern-fortran, duration: 2h -->
 * Introduction to Modern `Fortran`
     * History and evolution of `Fortran`
@@ -162,4 +165,5 @@ The course includes hands on exercises.
     * Common pitfalls and best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

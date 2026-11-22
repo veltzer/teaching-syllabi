@@ -14,9 +14,11 @@ audience:
 # `Java` Concurrency
 
 ## Description
+
 This course provides comprehensive coverage of concurrency and multithreading in `Java`, from foundational `threading` concepts through modern features like virtual threads and structured concurrency. Students will learn to write correct, performant, and scalable concurrent `Java` applications using threads, executors, CompletableFuture, concurrent collections, and the Fork/Join framework. The course also covers the `Java` memory model, synchronization mechanisms, and techniques for detecting and preventing deadlocks and other concurrency hazards.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides comprehensive coverage of concurrency and multithreading in
 * Understand the `Java` memory model and diagnose concurrency issues
 
 ## Outline
+
 <!-- chapter: threads-and-runnable, duration: 2h -->
 * Threads and Runnable
     * Creating threads with Thread and Runnable
@@ -127,4 +130,5 @@ This course provides comprehensive coverage of concurrency and multithreading in
     * Diagnosing concurrency bugs with tools
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

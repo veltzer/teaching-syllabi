@@ -20,6 +20,7 @@ audience:
 # `DNS` in Production
 
 ## Description
+
 The `DNS Deep Dive` course in the catalog covers `DNS` as a protocol. This course covers `DNS` as the
 hidden dependency that takes systems down. Most engineers can name the basic record types and roughly
 explain how recursion works; far fewer can debug a propagation issue at 2 AM, design a multi-region
@@ -34,6 +35,7 @@ dimension (cache poisoning, hijacking, takeover), and the `DNS`-based traffic ma
 multi-region systems. Participants leave able to design, operate, and debug production `DNS`.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ multi-region systems. Participants leave able to design, operate, and debug prod
 * avoid the common `DNS`-driven outage patterns
 
 ## Outline
+
 <!-- chapter: dns-as-the-hidden-dependency, duration: 2h -->
 * `DNS` as the hidden dependency
     * `DNS` in the request path
@@ -189,4 +192,5 @@ multi-region systems. Participants leave able to design, operate, and debug prod
     * recommended reading: `Liu`/Albitz `DNS and BIND`, RFCs, `IANA` resources
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # `SaltStack`
 
 ## Description
+
 `SaltStack` (now `Salt Project`) is a high-speed, scalable infrastructure automation and
 configuration management platform built around a remote execution engine. This course covers
 the full breadth of the Salt ecosystem, from the master-minion architecture and state
@@ -26,6 +27,7 @@ reactive infrastructure with the events and reactors system. The course conclude
 practical coverage of `Salt Cloud` for provisioning virtual machines across cloud providers.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 * Manage agentless targets with `Salt SSH` and provision cloud resources with `Salt Cloud`.
 
 ## Outline
+
 <!-- chapter: introduction-to-saltstack, duration: 2h -->
 * Introduction to `SaltStack`
     * What is `SaltStack` and where it fits in the `DevOps` landscape
@@ -134,4 +137,5 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
     * Bootstrapping and managing cloud instances end-to-end
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

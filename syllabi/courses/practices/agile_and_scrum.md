@@ -17,6 +17,7 @@ audience:
 # Agile & Scrum for Developers
 
 ## Description
+
 This course introduces developers to the Agile methodology and the Scrum framework. Participants
 will learn how Scrum works in practice, including sprints, standups, retrospectives, and backlog
 management. The course also covers `Kanban`, user stories, estimation techniques, and `agile` engineering
@@ -24,6 +25,7 @@ practices. By the end of the course, developers will understand how to work effe
 `agile` team and contribute to continuous improvement.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -44,6 +46,7 @@ practices. By the end of the course, developers will understand how to work effe
 * explore `agile` engineering practices that support iterative delivery
 
 ## Outline
+
 <!-- chapter: introduction-to-agile, duration: 1h -->
 * Introduction to Agile
     * The Agile manifesto and its principles
@@ -103,4 +106,5 @@ practices. By the end of the course, developers will understand how to work effe
     * The role of automation in `agile` teams
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

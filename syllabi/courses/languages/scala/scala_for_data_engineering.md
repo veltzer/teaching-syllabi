@@ -15,9 +15,11 @@ audience:
 # `Scala` for Data Engineering
 
 ## Description
+
 This course teaches `Scala` from a data engineering perspective, focusing on the functional programming features and patterns most relevant to building data pipelines and processing large-scale datasets. Participants will learn functional `Scala`, advanced collections, pattern matching, implicits, and how to integrate with `Apache Spark` for distributed data processing. The course bridges the gap between `Scala` language proficiency and practical data engineering skills. The course includes hands on exercises.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course teaches `Scala` from a data engineering perspective, focusing on the
 * Test `Scala` data applications effectively
 
 ## Outline
+
 <!-- chapter: functional-scala-foundations, duration: 2h -->
 * Functional `Scala` Foundations
     * Immutability and pure functions
@@ -99,4 +102,5 @@ This course teaches `Scala` from a data engineering perspective, focusing on the
     * Data quality assertions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

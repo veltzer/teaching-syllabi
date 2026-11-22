@@ -16,9 +16,11 @@ audience:
 # `Dagster`
 
 ## Description
+
 `Dagster` is a modern data orchestration platform built around the concept of software-defined assets. This course covers `Dagster` architecture and core abstractions including assets, ops, jobs, resources, and IO managers. Participants will learn to build, test, and deploy data pipelines with schedules, sensors, and partitions, and integrate `Dagster` with tools like `dbt`, `Spark`, and Pandas.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ audience:
 * Compare `Dagster` with `Airflow` and `Prefect`
 
 ## Outline
+
 <!-- chapter: dagster-overview-and-philosophy, duration: 1h -->
 * `Dagster` Overview and Philosophy
     * The evolution of data orchestration
@@ -154,4 +157,5 @@ audience:
     * Data quality and observability patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

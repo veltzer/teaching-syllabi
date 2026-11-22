@@ -15,11 +15,13 @@ audience:
 # `Linux` for Managers
 
 ## Description
+
 This course provides managers and technical leaders with a `solid` understanding of `Linux`, its role in modern enterprise IT, and how to make informed decisions about `Linux` adoption and strategy. Participants will learn about the open source ecosystem, distribution landscape, licensing implications, and how `Linux` compares to alternative platforms. The course requires no prior `Linux` experience and focuses on strategic and business perspectives rather than hands-on administration.
 
 The course covers the broader context of `Linux` in `cloud computing`, containers, and the modern technology stack, enabling managers to engage meaningfully with technical teams and `make` sound technology decisions.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -42,6 +44,7 @@ The course covers the broader context of `Linux` in `cloud computing`, container
 * Make informed technology decisions regarding `Linux` adoption
 
 ## Outline
+
 <!-- chapter: what-is-linux, duration: 1h -->
 * What is `Linux`
     * History and origins of `Linux`
@@ -149,4 +152,5 @@ The course covers the broader context of `Linux` in `cloud computing`, container
     * Success metrics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

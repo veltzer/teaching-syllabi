@@ -14,11 +14,13 @@ audience:
 # `Linux` Forensics
 
 ## Description
+
 OS Forensics is the ART of extracting evidence and important artifacts from a digital crime scene that can help the investigator reconstruct the chain of events. During this course, students will learn the basics of computer hardware and the `Linux`-OS filesystem. The students will learn to collect and analyze forensic evidence and write official reports.
 
 The course helps prepare for the certification exam CLFP (7Safe).
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ The course helps prepare for the certification exam CLFP (7Safe).
 * Analyze relevant case studies
 
 ## Outline
+
 <!-- chapter: computer-hardware, duration: 6h -->
 * Computer Hardware
   The first module will cover different components of
@@ -165,4 +168,5 @@ The course helps prepare for the certification exam CLFP (7Safe).
 * [Dradis Framework](https://dradisframework.com/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

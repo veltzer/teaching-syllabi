@@ -18,6 +18,7 @@ audience:
 # Cryptographic Engineering
 
 ## Description
+
 The catalog has `Cryptography Fundamentals` (the theory course), `PKI and Certificates`, `Secrets
 Management`, and the per-vendor `Vault` course. None of those is the focused course on the
 engineering of cryptography in production systems: not "what is `AES`" but "we need to encrypt
@@ -41,6 +42,7 @@ real production failures. Participants leave able to `make` the cryptographic en
 without reaching for a Stack Overflow snippet.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -65,6 +67,7 @@ without reaching for a Stack Overflow snippet.
 * plan the post-quantum migration
 
 ## Outline
+
 <!-- chapter: why-cryptographic-engineering-is-its-own-discipline, duration: 1h -->
 * Why cryptographic engineering is its own discipline
     * the algorithms are not the problem
@@ -185,4 +188,5 @@ without reaching for a Stack Overflow snippet.
     * recommended reading: `Cryptography Engineering` (Ferguson et al.), `latacora/blog`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

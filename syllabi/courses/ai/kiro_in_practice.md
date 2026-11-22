@@ -18,6 +18,7 @@ audience:
 # `Kiro` in Practice
 
 ## Description
+
 `Kiro` is `AWS`'s agentic IDE, built from the ground up around spec-driven
 development: instead of only chatting with an agent, you grow each feature
 from a requirements document, a design document and a task list that the
@@ -35,6 +36,7 @@ Each concept is exercised by configuring or running it on the student's own
 machine against a real codebase.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -62,6 +64,7 @@ machine against a real codebase.
 * **Share** a working `Kiro` configuration across a team through the repository
 
 ## Outline
+
 <!-- chapter: orientation-and-setup, duration: 1h -->
 * Orientation and Setup
     * What `Kiro` is
@@ -192,6 +195,7 @@ machine against a real codebase.
         * A checklist for rolling `Kiro` out to a team
 
 ## Installations
+
 Each student should have:
 
 * A laptop running `Linux`, `macOS` or `Windows` with permission to install
@@ -208,4 +212,5 @@ Each student should have:
   blocks `Kiro`'s endpoints or `Open VSX`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

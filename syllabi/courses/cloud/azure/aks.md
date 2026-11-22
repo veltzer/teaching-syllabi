@@ -18,9 +18,11 @@ audience:
 # `Azure` `Kubernetes` Service (AKS)
 
 ## Description
+
 This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kubernetes` offering. Participants will learn how to provision and manage AKS clusters, integrate with `Azure` `Active Directory`, configure advanced networking with `Azure` CNI, and leverage `Azure`-native services such as `Azure` Monitor, `Azure` Policy, and `Azure` Key Vault to build secure, scalable, and cost-effective `Kubernetes` environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
 * Scale workloads with KEDA and manage costs effectively.
 
 ## Outline
+
 <!-- chapter: introduction-to-aks, duration: 1h -->
 * Introduction to AKS
     * AKS overview and architecture
@@ -116,4 +119,5 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
     * Resource optimization recommendations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

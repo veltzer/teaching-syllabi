@@ -17,6 +17,7 @@ audience:
 # `VxWorks` Programming
 
 ## Description
+
 This advanced course provides comprehensive coverage of `VxWorks` real-time operating system
 programming. `VxWorks` is one of the most widely deployed RTOS platforms, used in aerospace,
 defense, industrial automation, and other safety-critical domains. Participants will learn
@@ -25,6 +26,7 @@ management, and hardware interaction. The course also covers `BSP` development, 
 system, networking, and debugging using `Wind River Workbench`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ system, networking, and debugging using `Wind River Workbench`.
 * Debug and profile `VxWorks` applications using `Wind River Workbench`.
 
 ## Outline
+
 <!-- chapter: rtos-concepts, duration: 2h -->
 * RTOS Concepts
     * Real-time systems and determinism
@@ -135,4 +138,5 @@ system, networking, and debugging using `Wind River Workbench`.
     * Remote debugging over network and JTAG
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

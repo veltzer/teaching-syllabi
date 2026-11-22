@@ -14,12 +14,14 @@ audience:
 # `Java` Servlets & JSP
 
 ## Description
+
 This course covers the fundamentals of `Java` web application development using Servlets
 and `JavaServer Pages` (JSP). Participants will learn the servlet lifecycle, request and
 response handling, session management, JSP syntax, and the MVC pattern. The course
 also addresses deployment configuration, security constraints, and `WebSocket` support.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ also addresses deployment configuration, security constraints, and `WebSocket` s
     * `WebSocket` communication in `Java`.
 
 ## Outline
+
 <!-- chapter: servlet-fundamentals, duration: 1h -->
 * Servlet Fundamentals
     * What is a servlet
@@ -119,4 +122,5 @@ also addresses deployment configuration, security constraints, and `WebSocket` s
     * Message types and encoders/decoders
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

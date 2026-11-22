@@ -24,12 +24,14 @@ audience:
 why they backfire, and what to do instead.
 
 ## The Challenge
+
 `AI` coding agents make it easy to produce a lot of code very quickly. Used carelessly, they
 produce a lot of wrong code just as quickly. Teams that adopt `AI` without documentation,
 without tests, and without guardrails get fast output they cannot trust, review, or safely
 run - and often conclude that `AI` does not work, when the real problem is how it was used.
 
 ## What This Session Covers
+
 A practical tour of the anti-patterns that show up again and again in `AI`-assisted
 development: what each one looks like in a real codebase, why it causes failures, and the
 concrete practice that replaces it.
@@ -56,9 +58,11 @@ concrete practice that replaces it.
 * Developers adopting `AI` coding assistants
 
 ## Continue the Journey
+
 This talk names the problems and their remedies. A follow-on, hands-on workshop can audit the
 team's own repositories and workflows and put documentation, tests, and guardrails in place
 for its `AI` agents.
 
 ## Speaker
+
 Mark Veltzer

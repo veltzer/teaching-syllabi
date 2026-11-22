@@ -15,9 +15,11 @@ audience:
 # Flask Web Development
 
 ## Description
+
 This course covers building web applications and `REST` APIs using Flask, the lightweight and flexible `Python` web micro-framework. Students will learn Flask fundamentals including routing, templates, blueprints, database integration with `SQLAlchemy`, form handling, authentication, and RESTful `API` development. The course emphasizes practical patterns for structuring scalable Flask applications and deploying them to production.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course covers building web applications and `REST` APIs using Flask, the li
 * Write tests for Flask applications and deploy to production
 
 ## Outline
+
 <!-- chapter: flask-fundamentals, duration: 2h -->
 * Flask Fundamentals
     * Introduction to Flask and the micro-framework philosophy
@@ -117,4 +120,5 @@ This course covers building web applications and `REST` APIs using Flask, the li
     * Overview of the Flask extensions ecosystem
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

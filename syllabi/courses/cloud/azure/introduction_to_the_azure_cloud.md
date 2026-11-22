@@ -15,9 +15,11 @@ audience:
 # Introduction to the `Azure` Cloud
 
 ## Description
+
 This course provides a comprehensive introduction to the Microsoft `Azure` cloud platform. Participants will learn about core `Azure` services, key concepts, and best practices for working in the cloud. This course is designed for individuals with little to no prior experience with `Azure`, including IT professionals, developers, and business stakeholders who want to understand the fundamentals of `cloud computing` and `Azure`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
 * Throughout the course, hands-on labs will reinforce the concepts covered in the lectures. These labs will be strategically placed within the course content to maximize learning and retention.
 
 ## Outline
+
 <!-- chapter: introduction-to-cloud-computing, duration: 3h -->
 * Introduction to `Cloud Computing`
     * What is `Cloud Computing`?
@@ -99,4 +102,5 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
     * Community Engagement
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

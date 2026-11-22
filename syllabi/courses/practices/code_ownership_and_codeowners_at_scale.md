@@ -18,6 +18,7 @@ audience:
 # Code Ownership and `CODEOWNERS` at Scale
 
 ## Description
+
 The catalog has `Code Review`, `Code Review Best Practices`, `Engineering Metrics and DORA`,
 `Technical Leadership`, and `Engineering Onboarding at Scale`. None of those is the focused course on
 the discipline of code ownership in a large repository: who owns which directory, how the
@@ -38,6 +39,7 @@ drawn from public engineering writing of `Shopify`, Stripe, Square, and the Goog
 monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a real repository.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
 * recognize the patterns that doom ownership programs
 
 ## Outline
+
 <!-- chapter: why-ownership-is-an-engineering-decision, duration: 1h -->
 * Why ownership is an engineering decision
     * the canonical incident: a critical change with no clear owner
@@ -149,4 +152,5 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
     * recommended reading: `Software Engineering at Google`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

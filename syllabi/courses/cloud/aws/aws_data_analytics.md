@@ -16,9 +16,11 @@ audience:
 # `AWS` Data Analytics
 
 ## Description
+
 This course provides a comprehensive guide to building and managing data analytics solutions on `AWS`. It covers the full analytics pipeline from data ingestion and storage through processing, analysis, and visualization. Students will learn how to design scalable data lake architectures, implement real-time and batch processing pipelines, and leverage managed analytics services to derive insights from large datasets while maintaining governance and cost efficiency.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides a comprehensive guide to building and managing data analyti
 * Apply data governance, security, and cost optimization best practices.
 
 ## Outline
+
 <!-- chapter: data-lakes-on-aws, duration: 2h -->
 * Data Lakes on `AWS`
     * Data lake concepts and architecture patterns
@@ -128,4 +131,5 @@ This course provides a comprehensive guide to building and managing data analyti
     * Right-sizing and auto-scaling strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

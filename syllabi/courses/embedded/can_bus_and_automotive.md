@@ -14,9 +14,11 @@ audience:
 # CAN Bus and Automotive Protocols
 
 ## Description
+
 This course provides a thorough exploration of the CAN bus protocol and related automotive communication technologies. Participants will learn the fundamentals of CAN signaling, frame formats, error handling, and higher-layer protocols used in automotive and industrial applications. The course also covers modern developments including `CAN FD`, `Automotive Ethernet`, and AUTOSAR, along with hands-on experience using industry-standard analysis tools.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course provides a thorough exploration of the CAN bus protocol and related 
 * Understand the role of `Automotive Ethernet` and AUTOSAR in modern vehicles
 
 ## Outline
+
 <!-- chapter: can-bus-fundamentals, duration: 1h -->
 * CAN Bus Fundamentals
     * History and motivation for CAN
@@ -155,4 +158,5 @@ This course provides a thorough exploration of the CAN bus protocol and related 
     * Secure ECU communication strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

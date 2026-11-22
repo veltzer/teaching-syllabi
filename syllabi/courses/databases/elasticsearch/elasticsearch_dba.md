@@ -20,6 +20,7 @@ duration_hours: 40
 # `Elasticsearch` DBA
 
 ## Description
+
 `Elasticsearch` is a distributed, RESTful search and analytics engine built on `Apache Lucene` that has become the heart of the `Elastic Stack`. It provides near real-time search and analytics for all types of data, whether structured or unstructured. As organizations increasingly rely on `Elasticsearch` for critical search, logging, and analytics use cases, skilled administrators who can design, deploy, and maintain performant `Elasticsearch` clusters are in high demand.
 
 This course provides comprehensive training for database and system administrators who need to deploy, configure, secure, monitor, and optimize `Elasticsearch` clusters in production environments. Participants will gain hands-on experience with cluster architecture, index management, performance tuning, security implementation, and troubleshooting complex distributed systems scenarios.
@@ -59,9 +60,11 @@ The course focuses on `Elasticsearch` version 9.x and covers both self-managed a
 * Scale clusters to meet performance requirements
 
 ## Exercises
+
 Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `Linux` virtual machines. Students will work with real-world scenarios including setting up production clusters, implementing security with `TLS` and authentication, configuring index lifecycle management, performing rolling upgrades, optimizing search performance, and troubleshooting cluster issues. Exercises include integration with other `Elastic Stack` components like `Kibana` and `Logstash` for complete solution implementation.
 
 ## Outline
+
 <!-- chapter: introduction-to-elasticsearch, duration: 1h -->
 * Introduction to `Elasticsearch`
     * `Elasticsearch` architecture and concepts
@@ -246,6 +249,7 @@ Hands-on exercises performed on multi-node `Elasticsearch` clusters running on `
     * Geospatial queries
 
 ## Installations
+
 Each student should have:
 
 * `Linux` virtual machines (`Ubuntu` 24.04 LTS or `CentOS` Stream 9 recommended) or cloud instances
@@ -264,4 +268,5 @@ Each student should have:
 * Basic familiarity with command-line tools and `SSH` for remote access
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

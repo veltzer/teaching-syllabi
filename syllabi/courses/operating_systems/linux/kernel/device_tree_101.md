@@ -17,10 +17,12 @@ audience:
 # `Device Tree` 101
 
 ## Description
+
 This short course is about the `Linux` `device tree`, what is it for and how to manipulate it with the
 object of providing board support or tuning your kernel to a specific purpose.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -41,6 +43,7 @@ object of providing board support or tuning your kernel to a specific purpose.
 * gain practical knowledge of `Device Tree` inheritance
 
 ## Outline
+
 <!-- chapter: why-the-device-tree, duration: 1h -->
 * Why the `Device Tree` ?
 <!-- chapter: basic-device-tree-syntax, duration: 1h -->
@@ -58,4 +61,5 @@ object of providing board support or tuning your kernel to a specific purpose.
 * [slides for this course](https://bootlin.com/pub/conferences/2021/webinar/petazzoni-device-tree-101/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # `LLM` Fine-Tuning and Prompt Engineering
 
 ## Description
+
 This course provides a comprehensive guide to working with large language models, covering both
 prompt engineering and fine-tuning techniques. Participants will learn how to craft effective
 prompts using zero-shot, few-shot, and chain-of-thought strategies, as well as how to fine-tune
@@ -23,6 +24,7 @@ hands-on experience with `Hugging Face Transformers`, evaluation methodologies, 
 like RLHF and DPO, and practical deployment considerations.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ like RLHF and DPO, and practical deployment considerations.
 * **Deploy fine-tuned models** to production environments while managing cost, resources, and responsible `AI` practices
 
 ## Outline
+
 <!-- chapter: llm-fundamentals, duration: 2h -->
 * `LLM` Fundamentals
     * Transformer architecture overview
@@ -293,4 +296,5 @@ like RLHF and DPO, and practical deployment considerations.
         * Usage guidelines
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

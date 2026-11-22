@@ -16,6 +16,7 @@ audience:
 # `Argo CD`
 
 ## Description
+
 In the rapidly evolving world of software development and deployment, `Continuous Delivery` (CD) plays a
 pivotal role in enabling teams to deliver high-quality applications faster and more efficiently. As
 `Kubernetes` (K8S) has become the de facto standard for container orchestration, CD into `Kubernetes` has
@@ -27,6 +28,7 @@ a deep understanding of `Argo CD's` principles, capabilities, and practical impl
 application deployments in `Kubernetes` clusters.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ application deployments in `Kubernetes` clusters.
 * Get to know how to deal with issues of `Argo CD` and in particular rollback.
 
 ## Exercises
+
 Throughout the course, participants will engage in hands-on labs to reinforce the concepts learned. Labs
 will include tasks such as:
 
@@ -55,6 +58,7 @@ will include tasks such as:
 * Creating and managing CD pipelines with `Argo Workflows`.
 
 ## Outline
+
 <!-- chapter: introduction-and-gitops-theory, duration: 1h -->
 * Introduction and `Gitops` Theory
     * Why? Advantaged and disadvantages vs older systems (`Jenkins`)...
@@ -92,4 +96,5 @@ will include tasks such as:
     * `CI/CD` workflow completion
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -21,6 +21,7 @@ audience:
 # Cloud Cost Optimization
 
 ## Description
+
 Cloud bills tend to grow quietly for years until somebody finally adds them up. Engineers are usually the only
 people who can do anything about it, but they are rarely taught how. This five day course is a hands-on, technical
 course on reducing cloud spend without breaking systems or slowing development.
@@ -33,6 +34,7 @@ leave able to find waste in their own infrastructure, prioritize the high-impact
 keep costs from creeping back.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ keep costs from creeping back.
 * build cost-awareness into engineering practice without bureaucracy
 
 ## Outline
+
 <!-- chapter: how-cloud-providers-charge-you, duration: 3h -->
 * How cloud providers charge you
     * the dimensions of cost: compute, storage, networking, data, services
@@ -184,4 +187,5 @@ keep costs from creeping back.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

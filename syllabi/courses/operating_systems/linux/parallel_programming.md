@@ -18,11 +18,13 @@ audience:
 # Parallel Programming
 
 ## Description
+
 This advanced course covers the theory and practice of parallel programming on modern multi-core systems. Participants will learn to exploit hardware parallelism using multiple programming models including `POSIX` threads, `OpenMP`, SIMD intrinsics, and `Intel TBB`. The course addresses the critical challenges of parallel software development, including memory models, cache coherency, synchronization, and common pitfalls such as race conditions, deadlocks, and false sharing.
 
 Emphasis is placed on writing correct, scalable, and performant parallel code, with thorough coverage of profiling and debugging techniques for parallel applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ Emphasis is placed on writing correct, scalable, and performant parallel code, w
 * Identify and fix race conditions, deadlocks, and false sharing
 
 ## Outline
+
 <!-- chapter: multi-core-architectures, duration: 2h -->
 * Multi-Core Architectures
     * Evolution of processor architectures
@@ -174,4 +177,5 @@ Emphasis is placed on writing correct, scalable, and performant parallel code, w
     * Best practices for correct parallel code
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,9 +16,11 @@ audience:
 # `Hadoop` Pig & Hive
 
 ## Description
+
 `Apache Pig` and `Apache Hive` are high-level abstractions over `Hadoop` `MapReduce` that simplify large-scale data processing. Pig provides a data flow scripting language (`Pig Latin`) while Hive offers a `SQL`-like interface (HiveQL) for querying data stored in `HDFS`. This course covers both tools in depth, including their optimization techniques, UDF development, and guidance on migrating workloads to `Spark`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ audience:
 * Plan migration paths from Pig/Hive to `Spark`
 
 ## Outline
+
 <!-- chapter: introduction-to-high-level-hadoop-tools, duration: 1h -->
 * Introduction to High-Level `Hadoop` Tools
     * Motivation for Pig and Hive
@@ -141,4 +144,5 @@ audience:
     * Coexistence patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

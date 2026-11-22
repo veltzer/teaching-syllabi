@@ -16,9 +16,11 @@ audience:
 # `Prefect`
 
 ## Description
+
 `Prefect` is a modern workflow orchestration framework that makes it easy to build, schedule, and monitor data pipelines. This course covers `Prefect` architecture, flows and tasks, deployments, work pools, blocks, and integration with cloud services and databases. Participants will learn to build resilient data pipelines with retries, caching, and observability, and deploy them using `Docker` and `Kubernetes`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ audience:
 * Compare `Prefect` with `Airflow` and `Dagster`
 
 ## Outline
+
 <!-- chapter: prefect-overview-and-architecture, duration: 1h -->
 * `Prefect` Overview and Architecture
     * The evolution of workflow orchestration
@@ -157,4 +160,5 @@ audience:
     * Logging best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

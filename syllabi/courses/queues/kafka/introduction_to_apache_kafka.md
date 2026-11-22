@@ -16,9 +16,11 @@ audience:
 # Introduction to `Apache Kafka`
 
 ## Description
+
 The Introduction to `Apache Kafka` training course will provide the path for how to develop a scalable and robust messaging implementation with `Kafka`, a distributed, partitioned, replicated commit log service.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ The Introduction to `Apache Kafka` training course will provide the path for how
 * Make `Kafka` scale
 
 ## Outline
+
 <!-- chapter: overview, duration: 2h -->
 * Overview
     * Use Cases
@@ -60,4 +63,5 @@ The Introduction to `Apache Kafka` training course will provide the path for how
     * Log Compaction
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

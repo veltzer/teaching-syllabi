@@ -15,12 +15,14 @@ audience:
 # `Clojure` Programming
 
 ## Description
+
 `Clojure` is a modern, dynamic Lisp dialect that runs on the `JVM`, bringing immutable persistent data structures, first-class functions, and powerful macros to `Java` platform developers.
 Its emphasis on functional programming, immutability, and simple concurrency primitives makes it an excellent choice for data transformation pipelines, concurrent applications, and systems that must evolve safely over time.
 `ClojureScript` extends the same language to the browser and `Node.js`, enabling full-stack development from a single language.
 This course provides a comprehensive introduction to `Clojure` programming, covering the language itself, its concurrency model, the macro system, `Java` interoperability, and practical project tooling with `Leiningen`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
 * Build, test, and package `Clojure` projects with `Leiningen`
 
 ## Outline
+
 <!-- chapter: introduction-to-clojure, duration: 2h -->
 * Introduction to `Clojure`
     * History and motivation: Lisp on the `JVM`
@@ -136,4 +139,5 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
     * Packaging and deploying the application
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

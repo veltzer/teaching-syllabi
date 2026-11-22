@@ -18,6 +18,7 @@ audience:
 # Feature Engineering for `Machine Learning`
 
 ## Description
+
 The quality of features fed into a `machine learning` model is often more consequential than the
 choice of algorithm, making feature engineering one of the most impactful skills a data practitioner
 can develop. This course provides a systematic, hands-on treatment of the full feature engineering
@@ -29,6 +30,7 @@ and `Tecton`, covering the operational challenges of building and monitoring pro
 pipelines.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ pipelines.
 * Monitor feature distributions for drift in production pipelines.
 
 ## Outline
+
 <!-- chapter: introduction-to-feature-engineering, duration: 2h -->
 * Introduction to Feature Engineering
     * The role of features in `ML` model performance
@@ -140,4 +143,5 @@ pipelines.
     * Root-cause analysis when model performance degrades
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

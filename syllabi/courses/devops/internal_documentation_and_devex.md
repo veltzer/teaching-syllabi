@@ -19,6 +19,7 @@ audience:
 # Internal Documentation and DevEx
 
 ## Description
+
 Engineering organizations spend extraordinary amounts on tooling and surprisingly little on the
 documentation that determines whether the tooling actually gets used. The Writing Design Documents course
 covers the design-doc artifact specifically; this course covers the broader internal documentation surface
@@ -35,6 +36,7 @@ honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documenta
 `Write the Docs` community.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documenta
 * keep documentation honest over years rather than months
 
 ## Outline
+
 <!-- chapter: why-internal-docs-decay, duration: 2h -->
 * Why internal docs decay
     * the docs-rot pattern
@@ -181,4 +184,5 @@ honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documenta
     * recommended reading: `Diátaxis`, Procida, `Write the Docs`, `GitLab` handbook
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

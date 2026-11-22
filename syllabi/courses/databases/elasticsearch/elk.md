@@ -17,6 +17,7 @@ audience:
 # `ELK Stack` (`Elasticsearch`, `Logstash`, `Kibana`)
 
 ## Description
+
 This course covers the `ELK Stack` for centralized logging, log analysis, and visualization.
 It includes hands-on setup, configuration, and real-world use cases for log aggregation,
 search, and analytics. Participants will learn to build end-to-end logging pipelines,
@@ -26,6 +27,7 @@ The course focuses on practical implementation with exercises for each major com
 and integration scenarios commonly found in production environments.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ and integration scenarios commonly found in production environments.
 * gain practical knowledge of `Elasticsearch`` Advanced
 
 ## Outline
+
 <!-- chapter: introduction-to-elk-stack, duration: 1h -->
 * Introduction to `ELK Stack`
     * What is the `ELK Stack`?
@@ -361,4 +364,5 @@ and integration scenarios commonly found in production environments.
         * `Splunk` comparison
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

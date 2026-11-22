@@ -14,6 +14,7 @@ audience:
 # `macOS` Development with Swift
 
 ## Description
+
 This course teaches developers how to build native `macOS` applications using Swift. Students
 will learn both AppKit and SwiftUI approaches to `macOS` development, covering everything
 from window management and menus to file system access, networking, and distribution.
@@ -21,6 +22,7 @@ The course emphasizes modern `macOS` development practices including sandboxing,
 and system integration.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ and system integration.
 * gain practical knowledge of system integration and accessibility
 
 ## Outline
+
 <!-- chapter: macos-development-overview, duration: 1h -->
 * `macOS` Development Overview
     * The `macOS` application model
@@ -165,4 +168,5 @@ and system integration.
     * Shortcuts and Intents
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

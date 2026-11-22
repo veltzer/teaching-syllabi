@@ -16,9 +16,11 @@ audience:
 # `AWS` CDK
 
 ## Description
+
 This course provides an in-depth look at the `AWS` Cloud Development Kit (CDK), a modern infrastructure-as-code framework that allows you to define cloud infrastructure using familiar programming languages such as `TypeScript` and `Python`. Participants will learn how to model, provision, and manage `AWS` resources using CDK constructs, stacks, and pipelines, and will understand how CDK compares to other IaC tools like `CloudFormation` and `Terraform`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides an in-depth look at the `AWS` Cloud Development Kit (CDK), 
 * Apply best practices for maintainable and scalable CDK projects.
 
 ## Outline
+
 <!-- chapter: introduction-to-aws-cdk, duration: 2h -->
 * Introduction to `AWS` CDK
     * What is infrastructure as code?
@@ -101,4 +104,5 @@ This course provides an in-depth look at the `AWS` Cloud Development Kit (CDK), 
     * Performance considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

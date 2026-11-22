@@ -15,6 +15,7 @@ audience:
 # Advanced `Java`
 
 ## Description
+
 This course teaches advanced concepts in `Java`. It teaches the more advanced aspects
 of `Java` system. It covers important topics such as memory management, collections,
 reflection, `JVM` internals, optimization, class loaders, references, NIO, multi-`threading`
@@ -23,6 +24,7 @@ The course will also present the most common pitfalls associated with the `JAVA`
 memory leaks, garbage collection issues, using `Java` in scenarios where it is not comfortable.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ production `Java` systems.
     * the `Java` compile time and run time optimizer
 
 ## Outline
+
 <!-- chapter: containers, duration: 9h -->
 * Containers
     * Available data structures and their performance tradeoffs
@@ -171,4 +174,5 @@ production `Java` systems.
     * JNI
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

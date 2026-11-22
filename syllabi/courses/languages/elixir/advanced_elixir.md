@@ -15,9 +15,11 @@ audience:
 # Advanced Elixir & `OTP`
 
 ## Description
+
 This advanced course takes experienced Elixir developers deeper into `OTP` patterns, distributed systems, `Phoenix LiveView`, and advanced Ecto techniques. Participants will learn to design robust supervision trees, build distributed Elixir clusters, create real-time user interfaces with LiveView, optimize database interactions with advanced Ecto patterns, write comprehensive tests, and package applications as production releases. The course includes hands on exercises.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This advanced course takes experienced Elixir developers deeper into `OTP` patte
 * Write comprehensive tests and build production releases
 
 ## Outline
+
 <!-- chapter: advanced-genserver-patterns, duration: 3h -->
 * Advanced GenServer Patterns
     * GenServer internals and message handling
@@ -107,4 +110,5 @@ This advanced course takes experienced Elixir developers deeper into `OTP` patte
     * `Erlang` distribution security
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

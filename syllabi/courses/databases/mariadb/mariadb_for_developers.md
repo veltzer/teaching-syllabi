@@ -17,9 +17,11 @@ audience:
 # `MariaDB` for Developers
 
 ## Description
+
 `MariaDB` is a community-developed, fully open-source relational database management system that originated as a drop-in replacement for `MySQL` and has since evolved with unique features and performance improvements. This course provides developers and database administrators with a comprehensive understanding of `MariaDB` from basic `SQL` through advanced features such as stored procedures, triggers, and full-text search. Participants will explore `MariaDB`-specific enhancements including columnar storage with `ColumnStore`, `temporal` tables, and enhanced replication capabilities. The course combines theoretical foundations with practical exercises on real-world schema design, query optimization, and production operations.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ audience:
 * Perform backup and recovery using `mysqldump` and `mariabackup`
 
 ## Exercises
+
 Hands-on labs using a local `MariaDB` server. Students will design and implement a multi-table relational schema, write queries ranging from basic SELECTs to complex multi-table joins and aggregations, create stored procedures and triggers, analyze and optimize slow queries using EXPLAIN, configure replication between two server instances, and practice backup and point-in-time recovery. Scenarios include e-commerce, content management, and reporting use cases.
 
 ## Outline
+
 <!-- chapter: introduction-to-mariadb, duration: 1h -->
 * Introduction to `MariaDB`
     * History of `MariaDB` and its relationship with `MySQL`
@@ -172,4 +176,5 @@ Hands-on labs using a local `MariaDB` server. Students will design and implement
     * Backup scheduling and retention policies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

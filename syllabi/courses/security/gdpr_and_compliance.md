@@ -18,9 +18,11 @@ audience:
 # `GDPR` and Compliance
 
 ## Description
+
 The General Data Protection Regulation (`GDPR`) fundamentally changed how organizations collect, process, and protect personal data, imposing significant obligations on any business that handles data belonging to European residents. This course provides a comprehensive and practical introduction to `GDPR` — its principles, legal bases, data subject rights, breach notification requirements, and the accountability obligations it places on both controllers and processors. Participants will also gain an overview of related global privacy regulations including `CCPA`, `HIPAA`, and emerging data protection laws, enabling them to contribute to compliance programs with confidence. The course is designed for a mixed audience of technical, managerial, and legal professionals, bridging the gap between legal text and practical implementation.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
 * Compare `GDPR` with `CCPA` and `HIPAA` to understand global privacy obligations
 
 ## Outline
+
 <!-- chapter: introduction-to-data-privacy, duration: 1h -->
 * Introduction to Data Privacy
     * Why privacy matters: individual rights, societal impact, and business trust
@@ -150,4 +153,5 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
     * Practical guidance for multi-jurisdictional organizations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

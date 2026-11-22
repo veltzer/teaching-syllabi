@@ -16,9 +16,11 @@ audience:
 # `Apache Tomcat`
 
 ## Description
+
 `Apache Tomcat` is the most widely used open-source `Java` servlet container and web server, powering countless enterprise applications. This course covers Tomcat architecture, configuration, deployment, security, and performance tuning. Students will learn to install and manage Tomcat instances, deploy web applications, configure connection pools, set up clustering, and monitor production environments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -43,6 +45,7 @@ audience:
 * Tune Tomcat for optimal performance
 
 ## Outline
+
 <!-- chapter: tomcat-architecture, duration: 1h -->
 * Tomcat Architecture
     * Tomcat components overview
@@ -157,4 +160,5 @@ audience:
     * GC logging and analysis
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -21,6 +21,7 @@ audience:
 # `API` Rate Limiting and Quota Systems
 
 ## Description
+
 Every production `API` ends up needing rate limiting, and most of them implement it badly. The naive
 approach (in-process counters, fixed `windows`) breaks the moment traffic grows or the service horizontally
 scales. The good approach (distributed limiters, fairness across tenants, separate budgets for separate
@@ -36,6 +37,7 @@ that operate large public APIs. Participants leave able to design and operate ra
 correct, fair, observable and survivable.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ correct, fair, observable and survivable.
 * avoid the most common rate-limiting failure modes
 
 ## Outline
+
 <!-- chapter: why-rate-limiting-is-everywhere, duration: 2h -->
 * Why rate limiting is everywhere
     * abuse, capacity, fairness, billing
@@ -177,4 +180,5 @@ correct, fair, observable and survivable.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

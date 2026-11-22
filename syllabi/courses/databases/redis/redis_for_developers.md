@@ -15,9 +15,11 @@ audience:
 # `Redis`: In-Memory Data Structure Store
 
 ## Description
+
 This course provides an introduction to `Redis`, an open-source, in-memory data structure store, used as a database, cache, and message broker. We cover fundamental concepts, data structures, advanced features, and practical applications of `Redis`. Students gain experience through labs and projects, enabling them to utilize `Redis` in various real-world scenarios.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 * Understand `Redis` cluster and scalability.
 
 ## Outline
+
 <!-- chapter: introduction-to-redis, duration: 2h -->
 * Introduction to `Redis`:
     * Overview of `NoSQL` and `Redis`.
@@ -103,4 +106,5 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 * Various online tutorials and articles.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,9 +16,11 @@ audience:
 # `GCP` Networking
 
 ## Description
+
 This course provides an in-depth exploration of networking services and architecture on the `Google Cloud Platform`. Participants will learn to design and implement robust network topologies using `VPC` networks, configure load balancing and traffic management, establish hybrid connectivity, and secure workloads with `Cloud Armor` and `firewall` policies. The course covers both foundational networking concepts and advanced patterns for enterprise-scale deployments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides an in-depth exploration of networking services and architec
 * Design hybrid and multi-cloud networking patterns
 
 ## Outline
+
 <!-- chapter: vpc-deep-dive, duration: 2h -->
 * `VPC` Deep Dive
     * `VPC` network architecture and modes (auto vs. custom)
@@ -151,4 +154,5 @@ This course provides an in-depth exploration of networking services and architec
     * Network segmentation and micro-segmentation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,12 +15,14 @@ audience:
 # `Java` Programming
 
 ## Description
+
 A full and comprehensive course about the `Java` programming language and environment. The course is intended for
 beginning developers and not seasoned developers. The course explains the basic workings of the `JVM`, how to
 write code in `Java`, how to structure your code and how to use the basic libraries. It also teaches the basics
 of multi-`threading` in `Java`.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ of multi-`threading` in `Java`.
 * Work with development environments for the `Java` programming language.
 
 ## Outline
+
 <!-- chapter: introduction-to-java, duration: 2h -->
 * Introduction to `Java`
     * `Java` technology
@@ -127,4 +130,5 @@ of multi-`threading` in `Java`.
     * Passing messages between threads
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

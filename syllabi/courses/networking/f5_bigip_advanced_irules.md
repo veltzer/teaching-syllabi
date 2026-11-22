@@ -22,6 +22,7 @@ audience:
 # `F5` `BIG-IP` Advanced iRules
 
 ## Description
+
 iRules are the scripting layer of the `F5` `BIG-IP` application delivery controller. They are small `Tcl`
 programs attached to a virtual server which run inside the traffic management microkernel at well defined
 points of a connection's life, and they let an engineer inspect, rewrite, route, reject and log traffic in
@@ -40,6 +41,7 @@ The course is hands on. Every chapter is practiced on a lab `BIG-IP` with real b
 iRules written during the course form a small library that students can take back to their own environment.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -65,10 +67,12 @@ iRules written during the course form a small library that students can take bac
 * implement iRule based mitigations for common web application attacks and harden `HTTP` responses
 
 ## Exercises
+
 The course is lab driven. Each student gets a `BIG-IP` Virtual Edition with a set of backend web servers
 and works on iRules that grow from a one line redirect to a complete web application defense rule.
 
 ## Outline
+
 <!-- chapter: introducing-the-big-ip-system, duration: 1h -->
 * Introducing the `BIG-IP` system
     * The `BIG-IP` platform and the traffic management microkernel (`TMM`)
@@ -169,6 +173,7 @@ and works on iRules that grow from a one line redirect to a complete web applica
     * Building and testing a complete defense iRule against a live attack
 
 ## Installations
+
 Each student needs access to a lab environment with:
 
 * A `BIG-IP` Virtual Edition (trial or lab license) with `LTM` provisioned, reachable over the management
@@ -181,4 +186,5 @@ The lab environment can be provided by the training organization or built by the
 The instructor will assist with setup on the first morning.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -13,6 +13,7 @@ audience:
 # `Windows` Administration
 
 ## Description
+
 This course provides comprehensive training in `Windows Server` administration. Students
 will learn how to install, configure, and manage `Windows Server` environments, including
 `Active Directory`, networking services, virtualization, and security. The course
@@ -20,6 +21,7 @@ emphasizes hands-on `PowerShell` administration and modern management practices 
 enterprise `Windows` infrastructure.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ enterprise `Windows` infrastructure.
 * gain practical knowledge of `Windows` security and monitoring
 
 ## Outline
+
 <!-- chapter: windows-server-architecture, duration: 2h -->
 * `Windows Server` Architecture
     * Server editions and licensing
@@ -167,4 +170,5 @@ enterprise `Windows` infrastructure.
     * Orchestration basics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # Embedded Programming for Bare Metal
 
 ## Description
+
 This intensive 4-day course introduces students to programming embedded systems without an operating system (bare metal). Students will learn fundamental concepts of microcontroller programming, hardware interaction, and real-time system design. The course combines theoretical concepts with hands-on practical exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This intensive 4-day course introduces students to programming embedded systems 
 * Digital multimeter
 
 ## Outline
+
 <!-- chapter: foundations-and-setup, duration: 8h -->
 * Foundations and Setup
     * Introduction to embedded systems
@@ -97,4 +100,5 @@ This intensive 4-day course introduces students to programming embedded systems 
     * Future learning paths
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -22,9 +22,11 @@ audience:
 # Cloud Security
 
 ## Description
+
 As organizations migrate workloads to the cloud, securing cloud infrastructure becomes a critical competency. This course covers essential cloud security topics including identity and access management best practices, network security architecture, encryption strategies, compliance frameworks, security monitoring, and incident response. Participants will learn how to design and maintain secure cloud environments across major cloud providers.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
 * Evaluate and apply shared responsibility model principles
 
 ## Outline
+
 <!-- chapter: cloud-security-fundamentals, duration: 2h -->
 * Cloud Security Fundamentals
     * `Cloud computing` models: IaaS, PaaS, `SaaS` security implications
@@ -130,4 +133,5 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
     * Communication and escalation procedures
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

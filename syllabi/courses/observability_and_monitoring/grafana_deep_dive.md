@@ -16,9 +16,11 @@ audience:
 # `Grafana` Deep Dive
 
 ## Description
+
 This course provides an in-depth exploration of `Grafana`, the leading open-source platform for monitoring and observability. Participants will learn advanced dashboard design, alerting, data source integration, log aggregation with Loki, provisioning, and organizational management. The course prepares teams to build production-grade observability solutions using `Grafana`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides an in-depth exploration of `Grafana`, the leading open-sour
 * Optimize `Grafana` performance for large-scale deployments.
 
 ## Outline
+
 <!-- chapter: grafana-architecture, duration: 1h -->
 * `Grafana` Architecture:
     * `Grafana` server components
@@ -119,4 +122,5 @@ This course provides an in-depth exploration of `Grafana`, the leading open-sour
     * Scaling `Grafana` for large teams
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

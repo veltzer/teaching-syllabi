@@ -17,9 +17,11 @@ audience:
 # `Airbyte`
 
 ## Description
+
 `Airbyte` is an open-source data integration platform that enables engineers to move data from hundreds of sources into warehouses, lakes, and other destinations using a modern `ELT` approach. This course covers the full `Airbyte` workflow, from understanding its architecture and deploying it locally or in the cloud to configuring sources, destinations, and sync modes for reliable data movement. Participants will learn to extend `Airbyte` by building custom connectors using the `Connector Development Kit (CDK)`, normalise ingested data, and orchestrate `Airbyte` syncs alongside `dbt` transformations and `Apache Airflow` DAGs. The course also covers monitoring, alerting, and operational best practices for running `Airbyte` in production.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ audience:
 * Monitor sync health, diagnose failures, and configure alerting
 
 ## Outline
+
 <!-- chapter: introduction-to-elt-and-airbyte, duration: 2h -->
 * Introduction to `ELT` and `Airbyte`
     * `ETL` vs `ELT`: paradigm shift and modern data stack implications
@@ -140,4 +143,5 @@ audience:
     * SLAs for data ingestion and operational best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

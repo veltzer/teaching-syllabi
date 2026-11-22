@@ -17,9 +17,11 @@ audience:
 # `AI` Agents Development
 
 ## Description
+
 This two day course covers the design and implementation of autonomous `AI` agents powered by large language models. Students will learn to build agents that can reason, plan, use tools, and collaborate in multi-agent systems using modern frameworks such as `LangGraph`, `CrewAI`, and `AutoGen`. The course addresses agent memory, state management, evaluation strategies, guardrails, and production deployment.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This two day course covers the design and implementation of autonomous `AI` agen
 * Deploy agents to production environments.
 
 ## Outline
+
 <!-- chapter: introduction-to-ai-agents, duration: 2h -->
 * Introduction to `AI` Agents
     * What are `AI` agents and why they matter
@@ -93,4 +96,5 @@ This two day course covers the design and implementation of autonomous `AI` agen
     * Cost management and optimization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,12 +15,14 @@ audience:
 # Effective Presentations for Engineers
 
 ## Description
+
 This course teaches software engineers and technical leaders how to create and deliver
 compelling presentations. From structuring a technical talk and designing effective slides
 to handling live demos and Q&A sessions, students will gain the skills needed to communicate
 complex ideas clearly to both technical and non-technical audiences.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -39,6 +41,7 @@ complex ideas clearly to both technical and non-technical audiences.
 * gain practical knowledge of handling Q&A and presenting with confidence
 
 ## Outline
+
 <!-- chapter: presentation-fundamentals-for-technical-audiences, duration: 1h -->
 * Presentation Fundamentals for Technical Audiences
     * What makes a technical presentation effective
@@ -135,4 +138,5 @@ complex ideas clearly to both technical and non-technical audiences.
     * Building a personal presentation style
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

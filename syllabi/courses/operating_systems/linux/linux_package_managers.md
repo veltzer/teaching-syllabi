@@ -17,6 +17,7 @@ audience:
 # `Linux` package managers
 
 ## Description
+
 This course is a tour of the package management landscape on `Linux`. Modern `Linux` systems pull software from
 many different sources: the distribution's own repositories (via `apt`, `dnf`, `yum`, `pacman` and
 their low-level peers `dpkg` and `rpm`), cross-distribution sand-boxed formats (`flatpak`, `snap`, `appimage`),
@@ -31,6 +32,7 @@ arrives on a `Linux` machine, how to install it well, how to keep it up to date,
 and how to audit what is on the system.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ and how to audit what is on the system.
 * be able to choose the right packaging tool for the right job
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction to `Linux` package management
     * What problems does a package manager solve?
@@ -173,4 +176,5 @@ and how to audit what is on the system.
     * Closing exercise: package the same small tool four different ways and compare
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

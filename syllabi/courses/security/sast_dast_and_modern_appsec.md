@@ -20,6 +20,7 @@ audience:
 # `SAST`, `DAST` and Modern AppSec
 
 ## Description
+
 The `OWASP` course in the catalog covers the vulnerability classes; this course covers the engineering
 discipline of finding them at scale. Modern application security is a tooling and workflow problem more than
 a knowledge problem. Most organizations buy `SAST`, `DAST`, `SCA` and secrets-scanning tools, integrate them
@@ -35,6 +36,7 @@ gatekeeping function. Participants leave able to design, run, and tune an AppSec
 the developers it is supposed to help.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ the developers it is supposed to help.
 * build a developer-friendly AppSec program with appropriate metrics
 
 ## Outline
+
 <!-- chapter: the-modern-appsec-landscape, duration: 2h -->
 * The modern AppSec landscape
     * AppSec as a tooling and workflow problem
@@ -188,4 +191,5 @@ the developers it is supposed to help.
     * recommended reading: `OWASP` cheat sheets, `BSIMM`, `OpenSAMM`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

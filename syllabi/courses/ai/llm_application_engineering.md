@@ -21,6 +21,7 @@ audience:
 # `LLM` Application Engineering
 
 ## Description
+
 A surprising number of `LLM` projects `make` it from prototype to production and then quietly fall apart. They are slow,
 expensive, hard to debug, drift over time, and break in ways that the original developers never imagined.
 This five day course is about everything that happens after a working prototype: the engineering discipline required
@@ -33,6 +34,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
 (`Anthropic`, `OpenAI`, `Google`) with self-hosted open-weight models.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
 * manage prompt and model lifecycle as you would any other software artifact
 
 ## Outline
+
 <!-- chapter: from-prototype-to-production, duration: 2h -->
 * From prototype to production
     * why most `LLM` prototypes fail in production
@@ -185,4 +188,5 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,12 +16,14 @@ audience:
 # `F#` Programming
 
 ## Description
+
 `F#` is a strongly typed, functional-first language on the `.NET` platform that blends functional, object-oriented, and imperative styles within a single, concise syntax.
 Its expressive type system, discriminated unions, pattern matching, and computation expressions `make` it ideal for domain modelling, data transformation, and building reliable backend services.
 `F#` runs everywhere `.NET` runs—`Windows`, `Linux`, and `macOS`—and interoperates seamlessly with the entire `C#` and `.NET` ecosystem.
 This course equips `.NET` developers with the skills to write idiomatic `F#` code, model complex domains with algebraic types, write asynchronous workflows, and integrate `F#` into existing `.NET` projects.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
 * Test `F#` code with `xUnit` or `NUnit`
 
 ## Outline
+
 <!-- chapter: introduction-to-fsharp, duration: 3h -->
 * Introduction to `F#`
     * History and motivation: functional programming on `.NET`
@@ -142,4 +145,5 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
     * Writing a simple custom type provider
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

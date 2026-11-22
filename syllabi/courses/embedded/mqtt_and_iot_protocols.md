@@ -15,6 +15,7 @@ audience:
 # `MQTT` and IoT Protocols
 
 ## Description
+
 This course provides a comprehensive introduction to messaging protocols used in the
 Internet of Things. The primary focus is on `MQTT`, the most widely adopted lightweight
 messaging protocol for IoT, but the course also covers complementary protocols such as
@@ -23,6 +24,7 @@ communication architectures using modern brokers, serialization formats, and edg
 computing patterns.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ computing patterns.
 * gain practical knowledge of securing IoT communications
 
 ## Outline
+
 <!-- chapter: iot-communication-overview, duration: 1h -->
 * IoT Communication Overview
     * The IoT landscape
@@ -109,4 +112,5 @@ computing patterns.
     * Telemetry and command patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

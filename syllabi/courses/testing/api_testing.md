@@ -17,9 +17,11 @@ audience:
 # `API` Testing
 
 ## Description
+
 This course covers the essentials of `API` testing, from manual exploration with Postman to automated testing and CI integration. Students will learn how to test `REST` and `gRPC` APIs, apply consumer-driven contract testing with Pact, build test automation frameworks, and integrate `API` tests into continuous integration pipelines for reliable and repeatable quality assurance.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course covers the essentials of `API` testing, from manual exploration with
 * Integrate `API` tests into `CI/CD` pipelines
 
 ## Outline
+
 <!-- chapter: api-testing-fundamentals, duration: 1h -->
 * `API` Testing Fundamentals
     * What is `API` testing and why it matters
@@ -99,4 +102,5 @@ This course covers the essentials of `API` testing, from manual exploration with
     * Performance gates and quality thresholds
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

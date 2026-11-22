@@ -15,10 +15,12 @@ audience:
 # GNU Make
 
 ## Description
+
 `GNU make` is the most widely used build system in the open source world but also has the most arcane syntax
 while being the most flexible and misunderstood. This course will get you started using `GNU make` correctly.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ while being the most flexible and misunderstood. This course will get you starte
 * Apply best practices in build automation
 
 ## Outline
+
 <!-- chapter: introduction-to-make, duration: 2h -->
 * Introduction to Make
     * What is Make and why use it?
@@ -98,4 +101,5 @@ while being the most flexible and misunderstood. This course will get you starte
     * Additional resources
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

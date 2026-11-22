@@ -18,6 +18,7 @@ audience:
 # Multi-Core and Multi-`Threading` for Microcontrollers
 
 ## Description
+
 Modern microcontrollers increasingly feature multiple cores and hardware `threading`
 capabilities. This course provides an in-depth look at how to write concurrent and
 parallel software for multi-core microcontrollers such as the `ARM Cortex-M` dual-core
@@ -27,6 +28,7 @@ synchronization. The course emphasizes practical, bare-metal and RTOS-based appr
 to building correct, deterministic, multi-threaded firmware.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ to building correct, deterministic, multi-threaded firmware.
 * gain practical knowledge of Cache Coherency and Memory Ordering
 
 ## Outline
+
 <!-- chapter: multi-core-microcontroller-architectures, duration: 1h -->
 * Multi-Core Microcontroller Architectures
     * Why multi-core in embedded systems
@@ -163,4 +166,5 @@ to building correct, deterministic, multi-threaded firmware.
     * Power consumption implications of running multiple cores
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

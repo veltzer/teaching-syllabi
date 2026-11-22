@@ -14,9 +14,11 @@ audience:
 # Testing theory
 
 ## Description
+
 This course provides a comprehensive introduction to software testing theory, covering the testing life-cycle, static and dynamic techniques, and various levels of testing. Students will learn control flow testing, data-flow testing, mutation testing, and how to measure software quality using different methods.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -33,6 +35,7 @@ This course provides a comprehensive introduction to software testing theory, co
 * gain practical knowledge of Control Flow Testing
 
 ## Outline
+
 <!-- chapter: introduction-to-testing, duration: 1h -->
 * Introduction to testing
     * Software testing life-cycle
@@ -72,4 +75,5 @@ This course provides a comprehensive introduction to software testing theory, co
     * Combining methods
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

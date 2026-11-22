@@ -18,9 +18,11 @@ audience:
 # `FastAPI` Development
 
 ## Description
+
 `FastAPI` is a modern, high-performance web framework for building APIs with `Python` based on standard `Python` `type-hints`. This course covers fundamental to advanced `FastAPI` concepts and teaches how to build robust, scalable, and well-documented `REST APIs` with automatic validation, serialization, and interactive documentation generation.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -56,6 +58,7 @@ audience:
 * Deploy `FastAPI` applications using `Docker`, Uvicorn, and cloud platforms
 
 ## Outline
+
 <!-- chapter: introduction-to-fastapi-and-modern-api-development, duration: 1h -->
 * Introduction to `FastAPI` and Modern `API` Development
     * Overview of `FastAPI` architecture and philosophy
@@ -134,4 +137,5 @@ audience:
     * Production deployment with Gunicorn, Uvicorn, and cloud platforms
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

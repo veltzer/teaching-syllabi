@@ -18,6 +18,7 @@ audience:
 # `Istio`
 
 ## Description
+
 This course provides a comprehensive deep dive into `Istio`, the leading service mesh platform
 for `Kubernetes` environments. Students will learn how to manage, secure, and observe
 `microservices` communication at scale using `Istio`.
@@ -28,6 +29,7 @@ experience configuring `Istio` for production workloads, including multi-cluster
 and performance tuning.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ and performance tuning.
 * Design and manage multi-cluster service mesh deployments.
 
 ## Outline
+
 <!-- chapter: service-mesh-fundamentals, duration: 2h -->
 * Service Mesh Fundamentals
     * What is a service mesh?
@@ -118,4 +121,5 @@ and performance tuning.
     * Scaling the control plane
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

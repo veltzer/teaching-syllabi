@@ -20,6 +20,7 @@ audience:
 # `LLM` Evaluation and Benchmarking
 
 ## Description
+
 The hardest part of shipping `LLM`-powered features is not building the prompt. It is knowing whether a change
 made the system better or worse, and being able to detect a regression before users do. Evaluation is the
 discipline that answers those questions, and most teams shipping `LLM` apps have not learned it yet.
@@ -34,6 +35,7 @@ leave able to design eval suites that catch regressions, defend prompt and model
 the eval traps that have produced misleading public benchmark results.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ the eval traps that have produced misleading public benchmark results.
 * avoid the major eval mistakes that produce misleading results
 
 ## Outline
+
 <!-- chapter: why-evaluation-is-the-hard-part, duration: 2h -->
 * Why evaluation is the hard part
     * the absence of a loss function in the prompt-engineering loop
@@ -189,4 +192,5 @@ the eval traps that have produced misleading public benchmark results.
     * recommended reading: `Anthropic`, `OpenAI`, `Google DeepMind` evaluation papers
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

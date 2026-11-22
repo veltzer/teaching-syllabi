@@ -15,6 +15,7 @@ audience:
 # `Docker` for developers
 
 ## Description
+
 `Docker` is the dominant container technology used today and this course is all about
 developing using that technology.
 
@@ -28,19 +29,23 @@ which is presented is how to manage your container in terms of resources, loggin
 and more.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
+
 Developers who have the need to develop application with `Docker` as the target platform.
 This is usually required by developers who need to host their apps on either a public
 cloud provider or an on premise cloud, or just developer who wish to gain more determinism
 and clarity from their development, testing and production environments.
 
 ## Prerequisites
+
 Developers of any type are welcome. Experience in developing web applications is beneficial
 but not mandatory.
 
 ## Objectives
+
 Participants will gain an understanding of what container technology is and in what
 circumstances they need it.
 Participants will be able to create `Docker` images containing their applications, run their
@@ -48,6 +53,7 @@ Participants will be able to create `Docker` images containing their application
 `Docker` containers and handle their application logs.
 
 ## Exercises
+
 The coding examples in this course will be presented in `Python`. The examples are short
 and should not present any problems for the developers. If you would like the examples
 to be tailored to the language of your choosing please let me know at <mark.veltzer@gmail.com>.
@@ -55,6 +61,7 @@ The training platform is `Linux` so prior to class arrangements should be made t
 sure that the participants have an access to `Linux` boxes.
 
 ## Outline
+
 <!-- chapter: docker-theory, duration: 6h -->
 * `Docker` Theory
     * What is `Docker`?
@@ -147,4 +154,5 @@ sure that the participants have an access to `Linux` boxes.
 * The virtual machines should have at least 4GB of memory.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

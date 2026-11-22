@@ -17,9 +17,11 @@ audience:
 # `API-First` Development
 
 ## Description
+
 `API-First` development is a design philosophy where the `API` contract is defined and agreed upon before any implementation begins, enabling parallel development, better collaboration between teams, and more consistent and well-documented interfaces. This course covers the full `API-First` workflow, from designing APIs using the `OpenAPI 3.x` specification to generating server stubs and client SDKs, setting up mock servers, and enforcing contracts through consumer-driven contract testing. Participants will learn `API` design best practices, versioning strategies, documentation tooling, and how to establish `API` governance processes that scale across large engineering organisations. By the end of the course, participants will be equipped to lead an `API-First` initiative within their teams.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ audience:
 * Establish `API` governance guidelines and style guides for organisational consistency
 
 ## Outline
+
 <!-- chapter: introduction-to-api-first-design, duration: 1h -->
 * Introduction to `API-First` Design
     * What `API-First` means and how it differs from code-first approaches
@@ -133,4 +136,5 @@ audience:
     * Building an `API` platform team and centre of excellence
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

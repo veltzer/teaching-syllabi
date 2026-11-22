@@ -18,11 +18,13 @@ audience:
 # Data Analyst Fundamentals
 
 ## Description
+
 This course provides a comprehensive foundation for aspiring and junior data analysts. Participants will
 learn the complete data analysis workflow from data acquisition and cleaning through visualization and
 reporting, using industry-standard tools including `SQL`, `Python`, Excel, and Tableau.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ reporting, using industry-standard tools including `SQL`, `Python`, Excel, and T
 * Tell compelling stories with data
 
 ## Outline
+
 <!-- chapter: data-analysis-workflow, duration: 2h -->
 * Data Analysis Workflow
     * What is data analysis and why it matters
@@ -139,4 +142,5 @@ reporting, using industry-standard tools including `SQL`, `Python`, Excel, and T
     * Recommendations and next steps
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

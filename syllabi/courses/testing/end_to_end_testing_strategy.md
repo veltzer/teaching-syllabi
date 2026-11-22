@@ -18,6 +18,7 @@ audience:
 # End-to-End Testing Strategy
 
 ## Description
+
 The catalog has tool-focused courses on `Playwright`, Cypress, `Selenium`, `Robot Framework`, plus
 the broader `Testing Theory` course. None of those is the focused course on the strategy question that
 every team has to answer: how much end-to-end testing do we do, where in the pyramid, what flows do we
@@ -37,6 +38,7 @@ drawn from public engineering writing of `Spotify`, Slack, Atlassian, and the `G
 Blog`. Participants leave able to write a coherent `E2E` testing strategy for their team.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
 * recognize when an `E2E` test is the wrong tool
 
 ## Outline
+
 <!-- chapter: the-testing-pyramid-revisited, duration: 1h -->
 * The testing pyramid revisited
     * `Mike Cohn`'s pyramid
@@ -150,4 +153,5 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
     * cross-reference to the Writing Design Documents course
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

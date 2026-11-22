@@ -21,6 +21,7 @@ audience:
 # `Google Cloud Platform` - Data Engineering
 
 ## Description
+
 This course covers data engineering on `Google Cloud Platform`. Participants will learn to design
 and build data processing systems, implement data pipelines for batch and streaming workloads,
 and manage storage and analytics solutions at scale. The course covers `BigQuery`, Dataflow,
@@ -28,6 +29,7 @@ Dataproc, Pub/Sub, and the full `GCP` data stack. It is aligned with the Profess
 Engineer certification path.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Engineer certification path.
 * Manage and automate data workloads with Cloud `Composer`
 
 ## Outline
+
 <!-- chapter: data-engineering-on-google-cloud, duration: 3h -->
 * Data Engineering on `Google Cloud`
     * `GCP` data services overview
@@ -124,4 +127,5 @@ Engineer certification path.
     * Backup, recovery, and disaster mitigation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

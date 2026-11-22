@@ -21,6 +21,7 @@ audience:
 # Edge Computing and `CDN`
 
 ## Description
+
 The edge has changed. What used to be a static-asset cache in front of an origin server is now a programmable
 runtime where a meaningful share of application logic lives: authentication, A/B testing, redirect rules,
 personalization, image transformation, even full request handlers. Engineers who learned `CDN` as "set a long
@@ -34,6 +35,7 @@ the architectural patterns that `make` the edge work or fail. Participants leave
 systems, write and operate edge functions, and reason about the cache hierarchy with discipline.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 * avoid the common edge architecture mistakes
 
 ## Outline
+
 <!-- chapter: the-modern-edge, duration: 2h -->
 * The modern edge
     * the classical `CDN`: caching, `TLS`, `DDoS`
@@ -184,4 +187,5 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

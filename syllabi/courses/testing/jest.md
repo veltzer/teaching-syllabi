@@ -17,9 +17,11 @@ audience:
 # Jest
 
 ## Description
+
 This course provides a thorough grounding in Jest, the most widely used testing framework for `JavaScript` and `TypeScript` applications. Students will learn to write unit and integration tests, leverage Jest's extensive matcher `API`, mock modules and timers, and test asynchronous code with confidence. The course also covers snapshot testing, React component testing with `React Testing Library`, and strategies for integrating Jest into CI pipelines. Participants will leave with the skills to build reliable, fast test suites for modern front-end and `Node.js` projects.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a thorough grounding in Jest, the most widely used testing 
 * Tune Jest configuration for performance in large monorepos
 
 ## Outline
+
 <!-- chapter: introduction-to-jest, duration: 1h -->
 * Introduction to Jest
     * Why Jest: design goals and ecosystem position
@@ -125,4 +128,5 @@ This course provides a thorough grounding in Jest, the most widely used testing 
     * Debugging slow tests with `--verbose` and `--detectOpenHandles`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

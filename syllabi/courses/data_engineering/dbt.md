@@ -18,9 +18,11 @@ audience:
 # `dbt` (Data Build Tool)
 
 ## Description
+
 `dbt` (Data Build Tool) is an open-source transformation framework that enables data teams to transform data in their warehouses using `SQL` and software engineering best practices. This course covers the full `dbt` workflow, including models, transformations, testing, documentation, sources, snapshots, macros, and packages. Participants will learn how to build modular, testable, and well-documented data transformation pipelines using `dbt Core` and `dbt Cloud`.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -49,6 +51,7 @@ audience:
 * Deploy `dbt` projects in production environments
 
 ## Outline
+
 <!-- chapter: introduction-to-dbt-and-the-modern-data-stack, duration: 2h -->
 * Introduction to `dbt` and the Modern Data Stack
     * The evolution of data transformation: `ETL` to `ELT`
@@ -129,4 +132,5 @@ audience:
     * Version control and `Git` workflows for `dbt` projects
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

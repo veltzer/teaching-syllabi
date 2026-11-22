@@ -16,9 +16,11 @@ audience:
 # `Saga Pattern`
 
 ## Description
+
 Distributed transactions are one of the most challenging problems in `microservices` architecture, and the Saga pattern is the industry-accepted solution for managing long-running business processes that span multiple services without using two-phase commit. This course provides a deep understanding of the Saga pattern, covering both choreography-based and orchestration-based approaches, their trade-offs, and when to apply each. Participants will learn to design compensating transactions, model failure scenarios, and build reliable distributed workflows that maintain data consistency under eventual consistency guarantees. The course includes practical guidance on tooling, testing, and debugging sagas in production.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Distributed transactions are one of the most challenging problems in `microservi
 * Test and debug sagas in development and production environments
 
 ## Outline
+
 <!-- chapter: distributed-transactions-problem, duration: 1h -->
 * The Distributed Transactions Problem
     * ACID transactions and their limitations across service boundaries
@@ -111,4 +114,5 @@ Distributed transactions are one of the most challenging problems in `microservi
     * Production debugging: replaying events and manual `saga` intervention
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

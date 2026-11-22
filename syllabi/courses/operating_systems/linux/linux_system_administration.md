@@ -18,9 +18,11 @@ audience:
 # `Linux` System Administration
 
 ## Description
+
 This intensive course covers essential `Linux` system administration concepts and practices. Students will learn to manage, secure, and maintain `Linux` systems in production environments. The course focuses on practical skills required for professional system administration.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This intensive course covers essential `Linux` system administration concepts an
 * Done on `Ubuntu` 24.04 machines, real or virtual.
 
 ## Outline
+
 <!-- chapter: core-system-architecture, duration: 4h -->
 * Core System Architecture
     * `Linux` filesystem hierarchy standard (FHS)
@@ -399,4 +402,5 @@ This intensive course covers essential `Linux` system administration concepts an
     * Best practices for isolated systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -31,6 +31,7 @@ workaround for computers that could not understand people. Now they can. What ha
 site when the user can simply say what they want?
 
 ## The Challenge
+
 Every screen in a web application is a small language the user has to learn: where the
 feature lives, what the fields mean, which of the forty filters matters. Teams spend most of
 their budget building and maintaining that language, and users spend their patience decoding
@@ -40,6 +41,7 @@ part is no longer the conversation; it is building a backend that a model can op
 and knowing where a chat box is genuinely better and where it is a regression.
 
 ## What This Session Covers
+
 A deliberately provocative, but practical, look at the conversational interface as a
 replacement for the complicated site: why stating intent beats navigating, how to build the
 chat front and the tool-based backend behind it, how to keep a model that acts on behalf of
@@ -71,9 +73,11 @@ users inside its permissions, and the honest list of cases where the old interfa
 * Frontend and backend developers wondering what they will be building next year
 
 ## Continue the Journey
+
 This talk challenges the old model. A follow-on, hands-on workshop can take one painful flow
 in the team's own product, expose its backend as tools, and put a working conversational
 interface in front of it.
 
 ## Speaker
+
 Mark Veltzer

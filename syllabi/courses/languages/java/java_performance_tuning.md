@@ -16,6 +16,7 @@ audience:
 # `Java` Performance Tuning
 
 ## Description
+
 This course provides an in-depth exploration of `Java` performance tuning techniques.
 Participants will learn how the `JVM` executes code, how garbage collection algorithms
 work, and how to use modern profiling and diagnostic tools to identify and resolve
@@ -23,6 +24,7 @@ performance bottlenecks. The course covers heap analysis, thread dump analysis,
 JIT compilation internals, and rigorous benchmarking methodologies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ JIT compilation internals, and rigorous benchmarking methodologies.
     * Rigorous benchmarking with JMH.
 
 ## Outline
+
 <!-- chapter: jvm-architecture, duration: 2h -->
 * `JVM` Architecture
     * Class loading subsystem
@@ -114,4 +117,5 @@ JIT compilation internals, and rigorous benchmarking methodologies.
     * Interpreting results
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

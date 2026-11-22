@@ -14,9 +14,11 @@ audience:
 # `Node.js` Backend Development
 
 ## Description
+
 This course provides a comprehensive guide to building backend applications and `REST APIs` with `Node.js`. Students will learn the `Node.js` runtime architecture, asynchronous programming patterns, `Express.js` framework, authentication, database integration, testing, and deployment. The course emphasizes production-ready practices including security, logging, containerization, and scaling. `TypeScript` integration is covered throughout.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ This course provides a comprehensive guide to building backend applications and 
 * Use `TypeScript` with `Node.js` for type-safe backend development
 
 ## Outline
+
 <!-- chapter: node-js-architecture-and-fundamentals, duration: 2h -->
 * `Node.js` Architecture and Fundamentals
     * What is `Node.js` and its use cases
@@ -158,4 +161,5 @@ This course provides a comprehensive guide to building backend applications and 
     * `CI/CD` pipeline considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

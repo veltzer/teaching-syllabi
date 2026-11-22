@@ -20,6 +20,7 @@ audience:
 # Property-Based Testing
 
 ## Description
+
 Most automated tests are example-based: the developer chooses a few inputs, hard-codes the expected output, and trusts
 that the chosen inputs cover the interesting behavior. Property-based testing inverts this: the developer states a
 property that must hold for *all* valid inputs, and the framework generates many inputs to try and falsify it. `When` it
@@ -33,6 +34,7 @@ and `CI` pipelines. Participants leave able to apply property-based testing to A
 machines, and entire distributed systems.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ machines, and entire distributed systems.
 * extend property-based testing to APIs, distributed systems and `concurrency`
 
 ## Outline
+
 <!-- chapter: why-property-based-testing, duration: 2h -->
 * Why property-based testing
     * the limits of example-based testing
@@ -178,4 +181,5 @@ machines, and entire distributed systems.
     * recommended reading and further study
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -14,6 +14,7 @@ audience:
 # Computer Vision with `Python`
 
 ## Description
+
 This course provides a comprehensive guide to computer vision using `Python`. Participants will progress
 from digital image fundamentals and classical image processing with `OpenCV` to modern `deep learning`
 approaches for image classification, object detection, and segmentation. The course covers feature
@@ -22,6 +23,7 @@ with YOLO and `Faster R-CNN`, image segmentation with `U-Net` and `Mask R-CNN`, 
 OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `TensorFlow`/`Keras`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
 * **Deploy computer vision models** for production use with `PyTorch` and `TensorFlow`/`Keras`
 
 ## Outline
+
 <!-- chapter: digital-image-fundamentals, duration: 2h -->
 * Digital Image Fundamentals
     * Image representation
@@ -254,4 +257,5 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
         * `TensorFlow`.js for browser
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

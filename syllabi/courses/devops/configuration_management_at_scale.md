@@ -18,6 +18,7 @@ audience:
 # Configuration Management at Scale
 
 ## Description
+
 Application configuration — feature flags, runtime parameters, per-environment values, per-tenant
 overrides, secrets — is one of the most-touched parts of any system, and one of the most likely root
 causes of an incident. The catalog has `Feature Flags and Progressive Delivery`, `Secrets Management`,
@@ -38,6 +39,7 @@ configuration changes. Participants leave able to design the configuration layer
 system.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ system.
 * recognize when configuration changes are the wrong primitive
 
 ## Outline
+
 <!-- chapter: why-configuration-causes-outages, duration: 1h -->
 * Why configuration causes outages
     * the canonical incident: a flag flip took prod down
@@ -150,4 +153,5 @@ system.
     * cross-reference to the Incident Response and Postmortems course
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

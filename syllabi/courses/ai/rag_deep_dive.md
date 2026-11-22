@@ -18,9 +18,11 @@ audience:
 # `RAG` Deep Dive
 
 ## Description
+
 This two day advanced course provides a comprehensive exploration of Retrieval-Augmented Generation (`RAG`) systems. Students will master chunking strategies, embedding models, vector databases, hybrid search, reranking, query transformation, and evaluation metrics. The course culminates in building production-grade `RAG` pipelines that deliver accurate and reliable results.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This two day advanced course provides a comprehensive exploration of Retrieval-A
 * Build end-to-end production `RAG` pipelines.
 
 ## Outline
+
 <!-- chapter: foundations-of-rag-architecture, duration: 2h -->
 * Foundations of `RAG` Architecture
     * `RAG` system components and data flow
@@ -103,4 +106,5 @@ This two day advanced course provides a comprehensive exploration of Retrieval-A
     * Scaling and cost management
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

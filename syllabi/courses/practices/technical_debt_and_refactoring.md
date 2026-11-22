@@ -20,6 +20,7 @@ audience:
 # Technical Debt and Refactoring
 
 ## Description
+
 Every codebase past its first year carries debt. Most teams either ignore that debt until it becomes a crisis or
 swing the other way and rewrite from scratch. The middle path is a learnable engineering discipline: how to
 recognize debt accurately, prioritize it against feature work, and pay it down through refactoring without
@@ -32,6 +33,7 @@ practices that prevent debt from rebounding. The course is grounded in the work 
 able to assess their own codebase, plan a debt program and execute it.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ able to assess their own codebase, plan a debt program and execute it.
 * establish team practices that prevent debt from accumulating
 
 ## Outline
+
 <!-- chapter: what-technical-debt-actually-is, duration: 3h -->
 * What technical debt actually is
     * Cunningham's original metaphor
@@ -180,4 +183,5 @@ able to assess their own codebase, plan a debt program and execute it.
     * recommended reading: `Fowler`, Feathers, Beck, Hunt/`Thomas`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

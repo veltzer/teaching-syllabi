@@ -18,6 +18,7 @@ audience:
 # Multimodal `AI` Engineering
 
 ## Description
+
 The catalog has `LLM Application Engineering`, `Computer Vision with Python`,
 `Natural Language Processing`, and `Generative AI Applications` courses. None of those covers the
 production-engineering of systems that combine modalities — vision plus text, audio plus text,
@@ -37,6 +38,7 @@ processing, voice support, and visual search. Participants leave able to ship a 
 that is debuggable, bounded, and operates within a known cost envelope.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ that is debuggable, bounded, and operates within a known cost envelope.
 * operate a multimodal pipeline in production
 
 ## Outline
+
 <!-- chapter: what-multimodal-actually-means, duration: 1h -->
 * What multimodal actually means
     * input modality vs output modality
@@ -169,4 +172,5 @@ that is debuggable, bounded, and operates within a known cost envelope.
     * recommended reading: the `Flamingo`, `BLIP-2`, `LLaVA`, CLIP papers
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

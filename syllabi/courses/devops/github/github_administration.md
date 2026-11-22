@@ -17,9 +17,11 @@ audience:
 # `GitHub` Administration
 
 ## Description
+
 This course covers the administration and governance of `GitHub` organizations. Participants will learn how to manage teams and permissions, configure branch protection rules and required reviews, set up self-hosted Actions runners, manage secrets, and leverage `GitHub` Advanced Security features including `Dependabot`, code scanning, and audit logging. The course also provides an overview of `GitHub` Enterprise Server (GHES) for on-premise deployments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course covers the administration and governance of `GitHub` organizations. 
 * Understand `GitHub` Enterprise Server deployment options.
 
 ## Outline
+
 <!-- chapter: organization-management, duration: 1h -->
 * Organization Management
     * Creating and configuring organizations
@@ -119,4 +122,5 @@ This course covers the administration and governance of `GitHub` organizations. 
     * Migrating between GHES and `GitHub`.com
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,11 +17,13 @@ audience:
 # Bash scripting
 
 ## Description
+
 Bash is the de-facto standard for scripting in the `Linux` world and is used by many and understood by few.
 This course intends to change this by explaining how `bash` works in detail and how to overcome many of the
 flaws in `bash` design to create well written, easy to maintain, reliable and deterministic scripts.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ flaws in `bash` design to create well written, easy to maintain, reliable and de
 * gain practical knowledge of Basic shell features
 
 ## Outline
+
 <!-- chapter: theory, duration: 1h -->
 * Theory
     * What is a shell ?
@@ -171,4 +174,5 @@ flaws in `bash` design to create well written, easy to maintain, reliable and de
 * Aliases
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

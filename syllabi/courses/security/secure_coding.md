@@ -26,6 +26,7 @@ audience:
 # Secure Coding
 
 ## Description
+
 This course covers the principles and practices of writing secure code across multiple languages and platforms.
 It addresses the full spectrum of secure development, from supply chain security and `CI/CD` pipeline hardening
 to hardware-based security mechanisms like secure boot and secure elements. The course also covers encryption
@@ -35,6 +36,7 @@ Examples and demonstrations are given in `Linux`, C, `C++`, and `Python`.
 Please note that this is just a review course and we will not have to deal with each topic in depth.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -58,6 +60,7 @@ Please note that this is just a review course and we will not have to deal with 
 * Understand security risks specific to `AI`/`ML` development.
 
 ## Outline
+
 <!-- chapter: supply-chain-security, duration: 1h -->
 * Supply Chain Security
     * Understanding software supply chain attacks
@@ -120,4 +123,5 @@ Please note that this is just a review course and we will not have to deal with 
     * `OWASP` guidelines for `AI`/`ML` security
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

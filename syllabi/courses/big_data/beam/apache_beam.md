@@ -15,6 +15,7 @@ audience:
 # `Apache Beam`
 
 ## Description
+
 This course provides a thorough introduction to `Apache Beam`, the unified programming model for
 both batch and streaming data processing. Participants will learn to build portable data pipelines
 using PCollections, PTransforms, windowing, and triggers, and deploy them on multiple runners
@@ -23,6 +24,7 @@ covers advanced topics such as state and timers, side inputs, cross-language tra
 and pipeline testing and monitoring.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ and pipeline testing and monitoring.
 * **Apply advanced features** including side inputs, schema-aware transforms, and `Beam SQL`
 
 ## Outline
+
 <!-- chapter: unified-batch-and-streaming-model, duration: 2h -->
 * Unified Batch and Streaming Model
     * Why `Apache Beam`
@@ -241,4 +244,5 @@ and pipeline testing and monitoring.
         * Shuffle optimization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -19,6 +19,7 @@ audience:
 # Pthreads course
 
 ## Description
+
 An in depth course looking at working with the `Linux` pthread library.
 The course covers the entire life cycle of a thread, the synchronization
 primitives available to it, the memory model that governs what threads
@@ -26,6 +27,7 @@ may and may not observe of each other, and the tools used to debug
 concurrent code, which is where most of the real difficulty lies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ concurrent code, which is where most of the real difficulty lies.
 * control thread stacks, `cpu` affinity and scheduling
 
 ## Outline
+
 <!-- chapter: the-linux-threading-model, duration: 1h -->
 * the `Linux` `threading` model.
     * the fork `API`
@@ -167,4 +170,5 @@ concurrent code, which is where most of the real difficulty lies.
       and takes over the thread group leader's `pid`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

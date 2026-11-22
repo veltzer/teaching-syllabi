@@ -14,9 +14,11 @@ audience:
 # Introduction to Architecting
 
 ## Description
+
 This one-day course introduces participants to the fundamental concepts and practices of software architecture. Attendees will learn the role of an architect, key architectural patterns, and how to `make` informed design decisions.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This one-day course introduces participants to the fundamental concepts and prac
 * Recognize the importance of non-functional requirements in architecture
 
 ## Outline
+
 <!-- chapter: fundamentals-of-software-architecture, duration: 1h -->
 * Fundamentals of Software Architecture
     * Definition and importance of software architecture
@@ -68,4 +71,5 @@ This one-day course introduces participants to the fundamental concepts and prac
     * Group discussion and analysis
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

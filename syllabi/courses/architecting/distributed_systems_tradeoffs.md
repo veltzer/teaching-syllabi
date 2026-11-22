@@ -20,6 +20,7 @@ audience:
 # Distributed Systems Tradeoffs
 
 ## Description
+
 Most courses on distributed systems either teach algorithms (Paxos, Raft, gossip) or teach a specific stack
 (`Kafka`, `Cassandra`, Spanner). This course is different. It is built around the tradeoffs that every distributed
 system has to `make` and that every engineer who works on one needs to understand: consistency vs availability,
@@ -33,6 +34,7 @@ to read a system's documentation and rapidly understand its tradeoff profile, an
 the tradeoffs surfaced rather than buried.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ the tradeoffs surfaced rather than buried.
 * design systems with explicit, surfaced tradeoff decisions
 
 ## Outline
+
 <!-- chapter: why-tradeoffs-not-algorithms, duration: 2h -->
 * Why tradeoffs, not algorithms
     * what makes distributed systems hard
@@ -171,4 +174,5 @@ the tradeoffs surfaced rather than buried.
     * recommended reading: `Kleppmann`, Brewer, Abadi, `Bailis`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

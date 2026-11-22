@@ -17,6 +17,7 @@ audience:
 # `Apache Pulsar`
 
 ## Description
+
 `Apache Pulsar` is a cloud-native, distributed messaging and streaming platform that combines the durability
 and replayability of a log-based system with the flexibility of a traditional message broker. This course
 covers Pulsar's unique multi-layer architecture separating compute from storage, its rich subscription model,
@@ -26,6 +27,7 @@ production with geo-replication and tiered storage. The course concludes with a 
 migrating from `Apache Kafka`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ migrating from `Apache Kafka`.
 * Plan and execute a migration from `Apache Kafka` to `Apache Pulsar`.
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-pulsar, duration: 2h -->
 * Introduction to `Apache Pulsar`:
     * Messaging and streaming use cases.
@@ -127,4 +130,5 @@ migrating from `Apache Kafka`.
     * Comparing operational characteristics and trade-offs.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

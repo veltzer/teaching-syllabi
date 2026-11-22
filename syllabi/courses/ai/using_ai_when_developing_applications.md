@@ -19,6 +19,7 @@ audience:
 # Using `AI` when Developing Applications
 
 ## Description
+
 `AI`-powered development tools have fundamentally transformed how modern software is built, tested, and maintained. From code generation and intelligent autocomplete to automated testing and debugging assistance, `AI` tools can dramatically accelerate development workflows while improving code quality and reducing errors. However, effective use of these tools requires understanding their capabilities, limitations, and best practices for integration into professional development environments.
 
 This course provides a comprehensive, hands-on approach to leveraging `AI` throughout the software development lifecycle. Rather than focusing on `AI` theory, the course emphasizes practical application of `AI` tools to solve real development challenges. Participants will learn to effectively prompt `AI` systems, integrate `AI`-powered tools into their existing workflows, and maintain code quality and security standards when working with `AI`-generated code.
@@ -30,6 +31,7 @@ By the end of this course, developers will be equipped to leverage `AI` tools ef
 This is an intensive three-day course combining demonstrations, hands-on workshops, and real-world case studies. Practical exercises focus on immediate applicability to participants' current development work.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This is an intensive three-day course combining demonstrations, hands-on worksho
 * Software architects exploring `AI`'s impact on system design and development processes
 
 ## Prerequisites
+
 This is a practical course for experienced developers. Participants should have:
 * `Solid` experience in at least one modern programming language (`Python`, `JavaScript`, `Java`, `C#`, Go, or similar)
 * Understanding of software development lifecycle and version control (`Git`)
@@ -69,6 +72,7 @@ This is a practical course for experienced developers. Participants should have:
 ## Outline
 
 ### Day 1: `AI` Fundamentals for Developers
+
 <!-- chapter: introduction-to-ai-powered-development, duration: 1h -->
 * **Introduction to `AI`-Powered Development**
     * Current state of `AI` in software development
@@ -99,6 +103,7 @@ This is a practical course for experienced developers. Participants should have:
     * Identifying when to accept, modify, or reject `AI` suggestions
 
 ### Day 2: Advanced `AI` Integration and Quality Control
+
 <!-- chapter: code-quality-and-ai-generated-code, duration: 1h -->
 * **Code Quality and `AI`-Generated Code**
     * Establishing review processes for `AI`-generated code
@@ -139,6 +144,7 @@ This is a practical course for experienced developers. Participants should have:
     * Security scanning and compliance checking
 
 ### Day 3: Team Workflows and Advanced Applications
+
 <!-- chapter: ai-in-software-architecture-and-design, duration: 2h -->
 * **`AI` in Software Architecture and Design**
     * Using `AI` for system design and architecture decisions
@@ -195,4 +201,5 @@ This is a practical course for experienced developers. Participants should have:
 * `OWASP` Guidelines for `AI` Security in Development
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

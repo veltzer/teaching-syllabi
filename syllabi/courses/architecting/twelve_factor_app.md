@@ -17,9 +17,11 @@ audience:
 # The Twelve-Factor App
 
 ## Description
+
 This course explores the twelve-factor methodology for building modern, cloud-native applications. Participants will learn each of the twelve factors in depth, understand the reasoning behind them, and see how they apply to real-world development using containers and `Kubernetes`. The course also covers extensions beyond the original twelve factors, including `API`-first design, telemetry, and security considerations.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course explores the twelve-factor methodology for building modern, cloud-na
 * Extend the methodology with modern practices such as `API`-first design, telemetry, and security
 
 ## Outline
+
 <!-- chapter: introduction-to-the-twelve-factor-methodology, duration: 1h -->
 * Introduction to the Twelve-Factor Methodology
     * Origins and motivation
@@ -136,4 +139,5 @@ This course explores the twelve-factor methodology for building modern, cloud-na
     * Deploying a twelve-factor application end to end
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

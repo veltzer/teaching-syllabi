@@ -18,6 +18,7 @@ audience:
 # `QUIC` in Practice
 
 ## Description
+
 The catalog has an `HTTP/2 and HTTP/3` course and a `TCP/IP Deep Dive` course. `QUIC` is the transport
 that `HTTP/3` runs on, and it is now the dominant transport for Google, Meta, `Cloudflare`, and a
 growing share of mobile and `CDN` traffic. It deserves its own course because the `HTTP/3` material does
@@ -35,6 +36,7 @@ balancing), and the cases where `QUIC` is the wrong choice. Participants leave a
 production and debug it when it misbehaves.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ production and debug it when it misbehaves.
 * recognize when to use `QUIC` and when not to
 
 ## Outline
+
 <!-- chapter: why-quic-exists, duration: 1h -->
 * Why `QUIC` exists
     * `TCP`'s head-of-line blocking
@@ -137,4 +140,5 @@ production and debug it when it misbehaves.
     * the "we adopted `QUIC` because it was new" failure
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,9 +15,11 @@ audience:
 # `Spring Boot` Development
 
 ## Description
+
 This course provides a comprehensive guide to building enterprise-grade applications with `Spring Boot`. Starting from auto-configuration and the Spring core concepts of dependency injection and bean lifecycle, the course covers `REST API` development, data persistence with `Spring Data JPA`, security with `Spring Security`, configuration management, testing, and deployment. Students will gain the skills to build robust, production-ready `Java` applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 * Deploy `Spring Boot` applications with `Docker` and production-ready practices
 
 ## Outline
+
 <!-- chapter: introduction-to-spring-boot, duration: 3h -->
 * Introduction to `Spring Boot`
     * Overview of the Spring ecosystem and `Spring Boot`
@@ -142,4 +145,5 @@ This course provides a comprehensive guide to building enterprise-grade applicat
     * Deploying to cloud platforms and container orchestrators
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

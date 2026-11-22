@@ -20,6 +20,7 @@ audience:
 # Agentic Systems Engineering
 
 ## Description
+
 The catalog has an `AI Agents Development` course that covers the conceptual side of building agents. This
 course is the production-engineering complement. Agentic systems behave very differently from chatbots: they
 take actions in the world, they fail in compounding ways, they have emergent costs, and the tooling for
@@ -35,6 +36,7 @@ Kernel`, and the engineering blogs of organizations shipping production agents. 
 ship agentic systems that are debuggable, bounded, observable, and safe.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
 * recognize the cases where an agent is the wrong tool
 
 ## Outline
+
 <!-- chapter: what-an-agent-actually-is, duration: 2h -->
 * What an agent actually is
     * the spectrum from prompt to chain to agent
@@ -179,4 +182,5 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
     * recommended reading: `ReAct`, Reflexion, Voyager, `SWE-agent` papers
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,9 +15,11 @@ audience:
 # Software Defined Networking
 
 ## Description
+
 Software Defined Networking (SDN) represents a fundamental shift in how networks are designed, built, and operated. By separating the control plane from the data plane, SDN enables programmable, flexible, and centrally managed network infrastructure. This course covers SDN architecture, protocols, controllers, network virtualization, and modern network automation techniques. Students will gain hands-on experience with SDN technologies used in data centers, cloud environments, and enterprise networks.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 * Leverage `eBPF` for high-performance network programming
 
 ## Outline
+
 <!-- chapter: sdn-concepts-and-architecture, duration: 2h -->
 * SDN Concepts and Architecture
     * Traditional networking limitations
@@ -167,4 +170,5 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
     * Continuous integration for network changes
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

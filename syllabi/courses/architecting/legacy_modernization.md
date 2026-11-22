@@ -16,9 +16,11 @@ audience:
 # Legacy Modernization
 
 ## Description
+
 This course provides a comprehensive guide to modernizing legacy systems. Participants will learn how to assess legacy systems, choose appropriate modernization strategies, and apply proven patterns such as strangler fig, anti-corruption layer, and branch by abstraction. The course covers technical, organizational, and risk management aspects of modernization, including testing strategies for legacy code, database decomposition, and incremental migration approaches. Real-world case studies illustrate both successes and pitfalls.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive guide to modernizing legacy systems. Partic
 * Manage risk, measure progress, and handle organizational challenges during modernization
 
 ## Outline
+
 <!-- chapter: legacy-system-assessment, duration: 2h -->
 * Legacy System Assessment
     * Defining legacy: what makes a system legacy
@@ -146,4 +149,5 @@ This course provides a comprehensive guide to modernizing legacy systems. Partic
     * Acceptable technical debt
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

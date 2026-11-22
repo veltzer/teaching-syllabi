@@ -18,9 +18,11 @@ audience:
 # `Linux` real time programming
 
 ## Description
+
 `Linux` has become the dominant operating system in many real work, real time applications but it is also the most complicated operating system to be used in that space and so requires quite a high degree of understanding in order to be utilized properly. This is a course designed to achieve exactly that. The course could be taught at a theoretical level with no exercises covering more ground or less theoretically with exercises for new comers to the `Linux` Real Time playing field.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ audience:
 * gain practical knowledge of Real time and being fast
 
 ## Outline
+
 <!-- chapter: definitions, duration: 2h -->
 * Definitions
     * What is realtime?
@@ -165,4 +168,5 @@ audience:
     * Hypervisors scheduling.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

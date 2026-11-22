@@ -18,9 +18,11 @@ audience:
 # Enterprise Architecture
 
 ## Description
+
 Enterprise architecture provides the strategic framework for aligning IT infrastructure with business goals. This course covers major architecture frameworks such as TOGAF and Zachman, integration patterns, service-oriented architecture, `API` management, and cloud migration strategies. Students will learn to `make` and document architecture decisions, establish governance processes, and evaluate technologies for enterprise-scale systems.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
 * Create and maintain architecture decision records
 
 ## Outline
+
 <!-- chapter: architecture-frameworks, duration: 4h -->
 * Architecture Frameworks
     * What is enterprise architecture
@@ -150,4 +153,5 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
     * Communicating technology strategy
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

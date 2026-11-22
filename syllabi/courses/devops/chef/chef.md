@@ -16,6 +16,7 @@ audience:
 # Chef
 
 ## Description
+
 Chef is a powerful infrastructure automation platform that enables teams to define
 infrastructure as code using a Ruby-based domain-specific language. This course covers
 the complete Chef ecosystem, from workstation setup and cookbook authoring to Chef Server
@@ -26,6 +27,7 @@ and will gain hands-on experience with modern testing workflows using `ChefSpec`
 at scale, enforce compliance policies, and integrate Chef into a `DevOps` pipeline.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ at scale, enforce compliance policies, and integrate Chef into a `DevOps` pipeli
 * Enforce compliance and security baselines using `Chef InSpec`.
 
 ## Outline
+
 <!-- chapter: introduction-to-chef, duration: 2h -->
 * Introduction to Chef
     * What is infrastructure as code and why it matters
@@ -126,4 +129,5 @@ at scale, enforce compliance policies, and integrate Chef into a `DevOps` pipeli
     * Integrating compliance reporting into the `DevOps` pipeline
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

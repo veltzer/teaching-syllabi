@@ -19,6 +19,7 @@ audience:
 # Event Storming and Domain Modeling
 
 ## Description
+
 Event storming is a workshop technique for rapidly exploring and modeling complex business domains together with the
 people who actually own the work. It produces a shared, visual model of how a business operates, surfaces hidden
 assumptions and edge cases, and feeds directly into bounded-context design and service decomposition.
@@ -30,6 +31,7 @@ sticky notes into bounded contexts, aggregates and read models, and how to integ
 own organizations, model unfamiliar domains effectively, and turn the output into concrete architectural decisions.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ own organizations, model unfamiliar domains effectively, and turn the output int
 * run event storming remotely as well as in person
 
 ## Outline
+
 <!-- chapter: introduction-to-event-storming, duration: 2h -->
 * Introduction to event storming
     * the origin of event storming and Alberto Brandolini's work
@@ -174,4 +177,5 @@ own organizations, model unfamiliar domains effectively, and turn the output int
     * recommended reading and further study
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # `Packer`
 
 ## Description
+
 This course covers HashiCorp `Packer`, a tool for building automated machine images across
 multiple platforms from a single source configuration. Students will learn how to create
 reproducible, version-controlled images for cloud and on-premises environments.
@@ -26,6 +27,7 @@ practical experience building images for multiple platforms, integrating `Packer
 `CI/CD` pipelines, and establishing golden image pipelines.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -49,6 +51,7 @@ practical experience building images for multiple platforms, integrating `Packer
 * Establish golden image pipelines for production environments.
 
 ## Outline
+
 <!-- chapter: image-building-concepts, duration: 1h -->
 * Image Building Concepts
     * Why automate image building?
@@ -122,4 +125,5 @@ practical experience building images for multiple platforms, integrating `Packer
     * Image lifecycle and deprecation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

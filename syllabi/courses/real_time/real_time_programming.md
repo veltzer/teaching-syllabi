@@ -16,12 +16,14 @@ audience:
 # Real Time Programming
 
 ## Description
+
 Real time programming is a difficult subject since it requires understanding systems
 from top to bottom. This course attempts to address precisely this difficulty and explain
 all the topics involved with real time programming. This course is tailored to C programmers
 and is accompanied with exercises in `Linux` as demonstration of the various issues involved.
 
 ## Duration
+
 56 hours / 7 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
 * gain practical knowledge of The connections between real time systems and operating systems
 
 ## Outline
+
 <!-- chapter: definitions, duration: 2h -->
 * Definitions
     * The definition of a real time system
@@ -97,4 +100,5 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
     * Interrupts causing problems to real time systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

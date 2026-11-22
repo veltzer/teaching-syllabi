@@ -15,9 +15,11 @@ audience:
 # Cryptography Fundamentals
 
 ## Description
+
 Cryptography is the foundation of modern information security. This course provides a comprehensive introduction to cryptographic concepts, algorithms, and protocols. Topics include symmetric and asymmetric encryption, hash functions, digital signatures, key exchange, `TLS`/`SSL`, `PKI`, password storage, and post-quantum cryptography. Participants will gain both theoretical understanding and practical experience using libraries such as `OpenSSL`, libsodium, and NaCl.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Cryptography is the foundation of modern information security. This course provi
 * Understand the landscape of post-quantum cryptography
 
 ## Outline
+
 <!-- chapter: cryptography-concepts, duration: 1h -->
 * Cryptography Concepts
     * History and evolution of cryptography
@@ -184,4 +187,5 @@ Cryptography is the foundation of modern information security. This course provi
     * Keeping libraries updated and monitoring advisories
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # `Apache Superset`
 
 ## Description
+
 `Apache Superset` is a modern, open-source data exploration and visualization platform. This course covers installation, configuration, connecting to various databases, building charts and dashboards, using `SQL Lab`, configuring security, and deploying Superset at scale. Participants will learn to create compelling data visualizations and share insights across their organization.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ audience:
 * Deploy Superset with `Docker` and `Kubernetes`
 
 ## Outline
+
 <!-- chapter: apache-superset-overview, duration: 1h -->
 * `Apache Superset` Overview
     * What is `Apache Superset` and its history
@@ -154,4 +157,5 @@ audience:
     * Monitoring Superset performance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

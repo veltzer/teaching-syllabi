@@ -19,6 +19,7 @@ audience:
 # Backend for Frontend (`BFF`) Pattern
 
 ## Description
+
 The catalog covers `API` design, `API` gateway patterns, and `microservices` architecture. None of those are
 the same conversation as the `BFF` pattern. The `BFF` pattern sits between a single client (a mobile app,
 a web `SPA`, a desktop client) and the rest of the system. It exists because a generic `API` is rarely the
@@ -34,6 +35,7 @@ running per-client `BFF` services. Examples are drawn from public engineering wr
 decide when to introduce a `BFF`, who should own it, and how to keep it from collapsing into a `monolith`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ decide when to introduce a `BFF`, who should own it, and how to keep it from col
 * compare the `BFF` pattern to `GraphQL` federation
 
 ## Outline
+
 <!-- chapter: what-the-bff-pattern-is, duration: 1h -->
 * What the `BFF` pattern is
     * the canonical Sam Newman article
@@ -135,4 +138,5 @@ decide when to introduce a `BFF`, who should own it, and how to keep it from col
     * recommended reading: Newman's `BFF` writing, the SoundCloud and `Netflix` posts
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

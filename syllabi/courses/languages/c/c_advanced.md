@@ -13,9 +13,11 @@ audience:
 # C Advanced
 
 ## Description
+
 This course covers advanced C programming topics for experienced developers working on `Linux`. Topics include advanced debugging with `gdb`, memory allocation strategies and leak detection, dynamic shared objects, performance measurement and optimization, multi-`threading` with pthreads, and managing large C projects. The course also covers `C99` features and the C pre-processor in depth.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -33,6 +35,7 @@ This course covers advanced C programming topics for experienced developers work
 * gain practical knowledge of Memory leaks and memory corruption
 
 ## Outline
+
 <!-- chapter: debugging-using-gdb-and-friends, duration: 2h -->
 * Debugging using `gdb` and friends
     * configuring source code locations.
@@ -134,4 +137,5 @@ This course covers advanced C programming topics for experienced developers work
 * [`C99`](https://en.wikipedia.org/wiki/C99)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

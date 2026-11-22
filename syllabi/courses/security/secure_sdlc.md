@@ -17,9 +17,11 @@ audience:
 # Secure `SDLC`
 
 ## Description
+
 The Secure Software Development Lifecycle (Secure `SDLC`) integrates security practices into every phase of software development. This course covers security requirements gathering, threat modeling in design, secure coding guidelines, static and dynamic analysis, software composition analysis, secrets scanning, penetration testing, and `DevSecOps` practices. Participants will also learn about vulnerability management, security champions programs, compliance frameworks, and maturity models.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Understand compliance frameworks (`PCI`-DSS, SOC2, `ISO 27001`) and maturity models (`BSIMM`, `OWASP SAMM`)
 
 ## Outline
+
 <!-- chapter: secure-sdlc-overview, duration: 1h -->
 * Secure `SDLC` Overview
     * Traditional `SDLC` vs Secure `SDLC`
@@ -176,4 +179,5 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
     * Benchmarking against industry peers
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

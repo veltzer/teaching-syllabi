@@ -15,11 +15,13 @@ audience:
 # Rust Topics for Embedded Systems Programming
 
 ## Description
+
 This course focuses on applying Rust to embedded systems development. It covers embedded-specific features, patterns, and tools in the Rust ecosystem, assuming prior knowledge of the Rust programming language.
 
 Note: This syllabus assumes familiarity with Rust language features and focuses solely on embedded-specific applications and patterns.
 
 ## Duration
+
 4 days / 32 hours
 
 ## Intended Audience
@@ -53,6 +55,7 @@ Note: This syllabus assumes familiarity with Rust language features and focuses 
     * probe-rs suite
 
 ## Outline
+
 <!-- chapter: embedded-rust-foundations, duration: 4h -->
 * Embedded Rust Foundations
     * The embedded-hal trait system
@@ -124,4 +127,5 @@ Note: This syllabus assumes familiarity with Rust language features and focuses 
     * Testing embedded code
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

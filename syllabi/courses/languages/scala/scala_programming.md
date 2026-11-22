@@ -15,11 +15,13 @@ audience:
 # `Scala` Programming
 
 ## Description
+
 `Scala` is a modern, multi-paradigm programming language that runs on the `JVM` and seamlessly integrates object-oriented and functional programming. Designed to be concise, elegant, and type-safe, `Scala` is used extensively in data engineering, distributed systems, and backend development. Its powerful type system, pattern matching, and functional programming features `make` it a compelling choice for building robust and scalable applications.
 
 This course covers the `Scala` language comprehensively, from basic syntax through advanced type system features, functional programming patterns, concurrency with Futures and Akka, and interoperability with `Java`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course covers the `Scala` language comprehensively, from basic syntax throu
 * Interoperate seamlessly with existing `Java` code
 
 ## Outline
+
 <!-- chapter: getting-started-with-scala, duration: 2h -->
 * Getting Started with `Scala`
     * What is `Scala` and why use it?
@@ -178,4 +181,5 @@ This course covers the `Scala` language comprehensively, from basic syntax throu
     * Working with `Java` libraries
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

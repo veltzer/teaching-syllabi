@@ -16,6 +16,7 @@ audience:
 # `PowerShell`
 
 ## Description
+
 `PowerShell` is a cross-platform task automation and configuration management framework
 consisting of a command-line shell and scripting language built on `.NET`. Unlike traditional
 shells that work with text, `PowerShell` operates on objects, making it exceptionally powerful
@@ -26,6 +27,7 @@ cross-platform usage with `PowerShell` Core.
 The course includes hands on exercises.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ The course includes hands on exercises.
 * Write tests with Pester and apply scripting best practices
 
 ## Outline
+
 <!-- chapter: introduction-to-powershell, duration: 1h -->
 * Introduction to `PowerShell`
     * What is `PowerShell` and its history
@@ -186,4 +189,5 @@ The course includes hands on exercises.
     * Common scripting patterns and anti-patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # `Robot Framework`
 
 ## Description
+
 This course provides a thorough introduction to `Robot Framework`, the keyword-driven acceptance testing and automation framework widely adopted for both web UI and `API` testing. Students will learn to write readable test cases using built-in and external libraries, create reusable keywords, manage variables, and drive data-driven testing at scale. The course covers browser automation with `SeleniumLibrary`, `REST API` testing with `RequestsLibrary`, and writing custom `Python` libraries to extend the framework for domain-specific needs. Participants will also set up `Robot Framework` in a CI environment and produce meaningful reports for stakeholders.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
 * Read and interpret `Robot Framework` reports and debug failing tests
 
 ## Outline
+
 <!-- chapter: introduction-to-robot-framework, duration: 2h -->
 * Introduction to `Robot Framework`
     * What `Robot Framework` is and where it fits in the testing landscape
@@ -144,4 +147,5 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
     * Maintainability patterns for large test portfolios
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

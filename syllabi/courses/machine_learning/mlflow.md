@@ -18,6 +18,7 @@ audience:
 # `MLflow` for `ML` Lifecycle Management
 
 ## Description
+
 `MLflow` is the leading open-source platform for managing the end-to-end `machine learning` lifecycle,
 from experiment tracking and reproducibility through model versioning and deployment. This course
 provides comprehensive, hands-on coverage of every major `MLflow` component, enabling teams to
@@ -28,6 +29,7 @@ big-data tools. By the end of the course, participants will be equipped to estab
 `ML` lifecycle management practices in their organisations.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ big-data tools. By the end of the course, participants will be equipped to estab
 * Integrate `MLflow` with `Apache Spark` and `Delta Lake` for large-scale workflows.
 
 ## Outline
+
 <!-- chapter: introduction-to-mlflow-and-ml-lifecycle, duration: 1h -->
 * Introduction to `MLflow` and the `ML` Lifecycle
     * Challenges of managing `ML` experiments without tooling
@@ -119,4 +122,5 @@ big-data tools. By the end of the course, participants will be equipped to estab
     * Organisational best practices for `ML` lifecycle governance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

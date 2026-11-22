@@ -18,9 +18,11 @@ audience:
 # `QEMU`
 
 ## Description
+
 This intensive one-day course introduces embedded developers to `QEMU` (Quick Emulator), focusing on its application in embedded systems development. Participants will gain a thorough understanding of `QEMU`'s capabilities, architecture, and use cases in embedded software development.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
 * gain practical knowledge of `QEMU` for `ARM``-based Systems
 
 ## Outline
+
 <!-- chapter: introduction-to-qemu, duration: 1h -->
 * Introduction to `QEMU`
     * Overview of `QEMU` and its role in embedded development
@@ -102,4 +105,5 @@ This intensive one-day course introduces embedded developers to `QEMU` (Quick Em
     * `QEMU` in continuous integration and testing environments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

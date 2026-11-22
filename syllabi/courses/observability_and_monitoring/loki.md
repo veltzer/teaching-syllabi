@@ -17,9 +17,11 @@ audience:
 # `Grafana Loki`: Log Aggregation System
 
 ## Description
+
 This course covers `Grafana Loki`, a horizontally scalable, highly available log aggregation system inspired by `Prometheus`. Participants will learn the Loki architecture, LogQL query language, label design best practices, log collection, storage configuration, alerting, and integration with `Grafana`. The course emphasizes practical skills for deploying and operating Loki in production environments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course covers `Grafana Loki`, a horizontally scalable, highly available log
 * Integrate Loki with `Grafana` for log exploration and correlation.
 
 ## Outline
+
 <!-- chapter: introduction-to-loki, duration: 1h -->
 * Introduction to Loki:
     * What is Loki and its design philosophy
@@ -132,4 +135,5 @@ This course covers `Grafana Loki`, a horizontally scalable, highly available log
     * Resource sizing and capacity planning
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

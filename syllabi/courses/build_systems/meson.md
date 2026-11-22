@@ -18,6 +18,7 @@ audience:
 # `Meson`
 
 ## Description
+
 `Meson` is a modern, fast, and user-friendly build system designed for C, `C++`, and a growing number of other
 languages, with a focus on speed and developer experience. This course teaches participants to configure and
 maintain `Meson`-based projects from small libraries to large multi-target codebases, covering dependency
@@ -26,6 +27,7 @@ development. Participants will compare `Meson` with `CMake` and leave with the p
 existing projects or start new ones confidently.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ existing projects or start new ones confidently.
 * Evaluate `Meson` vs `CMake` for new and existing projects.
 
 ## Outline
+
 <!-- chapter: introduction-to-meson, duration: 1h -->
 * Introduction to `Meson`:
     * Why `Meson`? Problems with Autotools, Make, and `CMake`.
@@ -110,4 +113,5 @@ existing projects or start new ones confidently.
     * Community and long-term support considerations.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

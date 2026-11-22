@@ -15,6 +15,7 @@ audience:
 # `ETL` Pipeline Design
 
 ## Description
+
 This course covers the design and implementation of robust `ETL` and `ELT` data pipelines. Participants
 will learn pipeline architecture patterns for batch, micro-batch, and streaming workloads, as well as
 data extraction, transformation, and loading strategies. The course explores orchestration tools
@@ -22,6 +23,7 @@ such as `Airflow`, `Prefect`, and `Dagster`, and covers critical production conc
 handling, idempotency, data validation, schema evolution, monitoring, and performance optimization.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
 * **Optimize pipeline performance** with partitioning, parallelism, and incremental processing
 
 ## Outline
+
 <!-- chapter: etl-vs-elt-concepts, duration: 1h -->
 * `ETL` vs `ELT` Concepts
     * Traditional `ETL`
@@ -272,4 +275,5 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
         * Compression strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

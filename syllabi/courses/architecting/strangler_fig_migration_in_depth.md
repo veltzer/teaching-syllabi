@@ -18,6 +18,7 @@ audience:
 # Strangler Fig Migration in Depth
 
 ## Description
+
 The Strangler Fig is the canonical pattern for migrating a legacy system to a new system without a big-bang
 cutover. The catalog has `Legacy Modernization` and `Code Modernization and Legacy Rescue`. Both touch the
 strangler pattern; neither covers it as a full engineering discipline. The strangler is more than "route
@@ -37,6 +38,7 @@ the migration is succeeding. Examples are drawn from the public engineering writ
 strangler migration.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ strangler migration.
 * connect the migration to organizational change
 
 ## Outline
+
 <!-- chapter: what-the-strangler-fig-actually-is, duration: 1h -->
 * What the Strangler Fig actually is
     * Martin Fowler's original article
@@ -157,4 +160,5 @@ strangler migration.
     * picking another approach instead
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

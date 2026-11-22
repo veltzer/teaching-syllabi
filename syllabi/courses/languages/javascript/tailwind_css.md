@@ -13,9 +13,11 @@ audience:
 # `Tailwind CSS` Development
 
 ## Description
+
 `Tailwind CSS` is a utility-first `CSS` framework that enables rapid UI development by composing pre-built utility classes directly in markup. Unlike traditional `CSS` frameworks, Tailwind provides low-level building blocks rather than opinionated components, allowing developers to create custom designs without writing custom `CSS`. This course covers `Tailwind CSS` from installation to advanced customization and integration with modern front-end frameworks.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ audience:
 * Optimize production builds by purging unused `CSS`
 
 ## Outline
+
 <!-- chapter: introduction-to-utility-first-css, duration: 2h -->
 * Introduction to Utility-First `CSS`
     * The utility-first philosophy and how it differs from traditional `CSS`
@@ -120,4 +123,5 @@ audience:
     * Analyzing and minimizing the final `CSS` bundle
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Modern Software Architecture
 
 ## Description
+
 This course provides a comprehensive overview of modern software architecture principles and patterns.
 It covers the transition from monolithic to `microservices`-based systems, distributed systems theory,
 `domain-driven design`, cloud-native architecture, and the operational practices that support them.
@@ -25,6 +26,7 @@ Participants will learn how to evaluate architectural trade-offs, apply establis
 and architect systems for resiliency, observability, and `continuous delivery`.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ and architect systems for resiliency, observability, and `continuous delivery`.
 * This is a theoretical course, it does not include exercises.
 
 ## Outline
+
 <!-- chapter: foundations-and-communication-patterns, duration: 11h -->
 * Foundations and Communication Patterns
     * Introduction to Modern Software Architecture
@@ -108,4 +111,5 @@ and architect systems for resiliency, observability, and `continuous delivery`.
         * The role of the Architect in the `DevOps` lifecycle
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

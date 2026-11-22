@@ -14,11 +14,13 @@ audience:
 # `Apache Cassandra` for Developers
 
 ## Description
+
 `Apache Cassandra` is a highly scalable, distributed `NoSQL` database designed to handle large volumes of data across many commodity servers with no single point of failure. This course equips developers and data scientists with the knowledge and skills to design, build, and optimize applications powered by `Cassandra`. Participants will learn `Cassandra`'s unique architecture, data modeling techniques, and application integration patterns.
 
 The course emphasizes practical data modeling strategies that align with `Cassandra`'s distributed nature, helping participants avoid common pitfalls and build applications that scale effectively.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ The course emphasizes practical data modeling strategies that align with `Cassan
 * Integrate `Cassandra` with application code using modern drivers
 
 ## Exercises
+
 Hands-on exercises using a multi-node `Cassandra` cluster. Students will design data models for real-world use cases, write CQL queries, build application integrations using `Cassandra` drivers, configure consistency levels, analyze performance with tracing, and use nodetool for cluster inspection. Scenarios cover time-series data, user activity tracking, and product catalog use cases.
 
 ## Outline
+
 <!-- chapter: distributed-database-concepts, duration: 1h -->
 * Distributed Database Concepts
     * CAP theorem and trade-offs
@@ -179,4 +183,5 @@ Hands-on exercises using a multi-node `Cassandra` cluster. Students will design 
     * Hardware and configuration considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

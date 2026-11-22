@@ -15,9 +15,11 @@ audience:
 # `Domain-Driven Design`
 
 ## Description
+
 This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as a methodology for tackling complexity in software systems. Participants will learn both strategic and tactical `DDD` patterns, from defining bounded contexts and ubiquitous language to implementing entities, aggregates, and domain events. The course also covers event storming as a collaborative modeling technique, advanced patterns like `CQRS` and `event sourcing`, and practical guidance on applying `DDD` within `microservices` and hexagonal architectures.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 * Refactor existing codebases toward deeper domain insight
 
 ## Outline
+
 <!-- chapter: strategic-domain-driven-design, duration: 3h -->
 * Strategic `Domain-Driven Design`
     * Introduction to `DDD` and the problem of software complexity
@@ -118,4 +121,5 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
     * Building a culture of continuous domain modeling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

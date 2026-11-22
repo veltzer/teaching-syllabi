@@ -17,6 +17,7 @@ duration_hours: 40
 # `Elasticsearch` for Developers
 
 ## Description
+
 This course covers `Elasticsearch` from a developer's perspective, focusing on integrating search
 and analytics capabilities into applications. It includes hands-on exercises for data modeling,
 query development, search relevance tuning, and application integration patterns.
@@ -51,6 +52,7 @@ languages and real-world search scenarios commonly encountered in application de
 * gain practical knowledge of Data Modeling and Mappings
 
 ## Outline
+
 <!-- chapter: introduction-to-elasticsearch, duration: 1h -->
 * Introduction to `Elasticsearch`
     * What is `Elasticsearch`?
@@ -510,4 +512,5 @@ languages and real-world search scenarios commonly encountered in application de
         * Documentation practices [long]
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

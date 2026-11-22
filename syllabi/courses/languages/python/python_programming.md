@@ -20,6 +20,7 @@ audience:
 # `Python` Programming
 
 ## Description
+
 `Python` is an easy-to-use interpreted language that has steadily gained in
 popularity over the last few years in a wide spectrum of applications,
 ranging from `AI` to `Web Services`.
@@ -31,6 +32,7 @@ programming language, as well as the most common `Python` application domains an
 This course deals with `Python` version 3. `Python` version 2 is not discussed.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 * Done with `PyCharm` community on either `Windows` or `Linux` as the students need.
 
 ## Outline
+
 <!-- chapter: introduction-to-python, duration: 2h -->
 * Introduction to `Python` (1 hour)
     * History of `Python`
@@ -212,6 +215,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
     * Using `virtualenv` and other tools
 
 ## Installations
+
 Each student should have:
 
 * The most recommended is an `Ubuntu` 24:04 machine, real or virtual.
@@ -232,4 +236,5 @@ may not work correctly on `Windows` but impacts this beginners course very littl
 * Recommended development environments: `vscode` with `Python` plugins, `PyCharm` community edition from `JetBrains`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

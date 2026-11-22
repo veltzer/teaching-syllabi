@@ -23,6 +23,7 @@ audience:
 # Zero Trust Networking and `mTLS`
 
 ## Description
+
 The classic perimeter security model is dead. Modern systems run across clouds, regions, vendors and edges, with
 no meaningful "inside the network". Zero trust networking replaces the perimeter with strong workload identity,
 mutual `TLS` everywhere, and explicit authorization on every request.
@@ -35,6 +36,7 @@ that `make` zero trust workable in practice. Participants leave able to design a
 their own workloads.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ their own workloads.
 * operate zero trust systems with appropriate observability and incident tooling
 
 ## Outline
+
 <!-- chapter: the-zero-trust-model, duration: 2h -->
 * The zero trust model
     * the failure of perimeter security
@@ -187,4 +190,5 @@ their own workloads.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

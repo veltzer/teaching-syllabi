@@ -16,11 +16,13 @@ audience:
 # Object-Oriented Programming
 
 ## Description
+
 This course provides a thorough foundation in object-oriented programming principles and practices. Participants will learn to think in terms of objects and classes, understand the four pillars of `OOP`, and apply design principles that lead to maintainable and extensible software. The course uses examples in both `Python` and `Java` to illustrate concepts across different language paradigms.
 
 The course bridges theory and practice, covering everything from basic class design through `SOLID` principles and `UML` class diagrams, equipping participants to write well-structured object-oriented code.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ The course bridges theory and practice, covering everything from basic class des
 * Recognize and avoid common `OOP` pitfalls
 
 ## Outline
+
 <!-- chapter: introduction-to-object-oriented-thinking, duration: 1h -->
 * Introduction to Object-Oriented Thinking
     * Procedural vs object-oriented paradigms
@@ -149,4 +152,5 @@ The course bridges theory and practice, covering everything from basic class des
     * Real-world case studies in `Python` and `Java`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

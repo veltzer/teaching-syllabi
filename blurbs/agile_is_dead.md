@@ -26,6 +26,7 @@ problems that `AI` is making disappear. What is left of Agile when writing code 
 the bottleneck?
 
 ## The Challenge
+
 Agile was born in 2001 as a response to a specific world: code was expensive to write, slow
 to change, and the main constraint on every project was developer time. Sprints, story points,
 estimation sessions, stand-ups, and the preference for working software over documentation
@@ -34,6 +35,7 @@ running the same rituals are optimizing for a bottleneck that no longer exists -
 real bottlenecks of the `AI` era go ignored.
 
 ## What This Session Covers
+
 A deliberately provocative, but practical, re-examination of Agile in the age of `AI`: which of
 its ideas were tied to the cost of writing code, which of them `AI` makes obsolete or even
 harmful, which ones survive, and what engineering teams should build in their place.
@@ -60,9 +62,11 @@ harmful, which ones survive, and what engineering teams should build in their pl
 * Developers who have lived through too many sprint plannings
 
 ## Continue the Journey
+
 This talk challenges the old model. A follow-on, hands-on workshop can examine the team's
 own process, identify which rituals still earn their keep, and design a workflow built
 around `AI` agents.
 
 ## Speaker
+
 Mark Veltzer

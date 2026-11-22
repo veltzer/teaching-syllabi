@@ -18,6 +18,7 @@ audience:
 # Red Team Operations
 
 ## Description
+
 Red team operations are end-to-end adversary emulation engagements: instead of finding a vulnerability and
 reporting it, a red team simulates a real attacker over a sustained period to test the organization's
 ability to detect and respond. The catalog has `Network Penetration Testing`, `Web Application Penetration
@@ -39,6 +40,7 @@ leave able to plan, execute, and report on a red team engagement against an auth
 > is for defensive understanding and authorized offensive use only.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ leave able to plan, execute, and report on a red team engagement against an auth
 * understand the legal and ethical perimeter
 
 ## Outline
+
 <!-- chapter: red-team-versus-pen-test, duration: 2h -->
 * Red team versus pen test
     * the question each answers
@@ -170,4 +173,5 @@ leave able to plan, execute, and report on a red team engagement against an auth
     * what to do when the engagement uncovers a real intrusion
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

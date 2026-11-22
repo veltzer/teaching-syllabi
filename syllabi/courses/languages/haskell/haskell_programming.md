@@ -14,11 +14,13 @@ audience:
 # `Haskell` Programming
 
 ## Description
+
 `Haskell` is a purely functional, statically typed programming language known for its strong type system, lazy evaluation, and mathematical foundations. Named after the logician `Haskell` Curry, the language emphasizes correctness, conciseness, and abstraction. `Haskell` has profoundly influenced modern programming language design, and its concepts such as monads, type classes, and algebraic data types have been adopted by many other languages.
 
 This course teaches `Haskell` from foundational functional programming concepts through advanced topics such as monads, functors, and applicatives. Students will learn to think functionally, leverage `Haskell`'s powerful type system, and build real-world applications using the `Haskell` ecosystem. The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course teaches `Haskell` from foundational functional programming concepts 
 * Write property-based tests with QuickCheck
 
 ## Outline
+
 <!-- chapter: introduction-to-functional-programming, duration: 3h -->
 * Introduction to Functional Programming
     * What is functional programming?
@@ -146,4 +149,5 @@ This course teaches `Haskell` from foundational functional programming concepts 
     * Common `design patterns` in `Haskell`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

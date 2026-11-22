@@ -16,9 +16,11 @@ audience:
 # `Clean Architecture` and `Hexagonal Architecture`
 
 ## Description
+
 `Clean Architecture` and `Hexagonal Architecture` (also known as `Ports and Adapters`) are two closely related architectural patterns that promote the design of software systems where business logic is independent of frameworks, databases, user interfaces, and external services. This course explores the foundational principles behind both patterns, including the dependency rule, layer separation, ports and adapters, and the role of dependency injection in keeping the core domain decoupled from infrastructure concerns. Participants will learn to apply `SOLID` principles in the context of these architectures, implement each layer in a real application, and write highly testable code. The course also examines how Clean and `Hexagonal Architecture` compare with layered, onion, and other common patterns.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ audience:
 * Refactor existing code toward a cleaner, more maintainable architectural structure
 
 ## Outline
+
 <!-- chapter: introduction-to-clean-architecture, duration: 2h -->
 * Introduction to `Clean Architecture`
     * The origins and goals of `Clean Architecture` (Robert C. Martin)
@@ -132,4 +135,5 @@ audience:
     * Governance and team adoption: enforcing architectural boundaries at scale
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

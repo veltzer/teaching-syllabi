@@ -13,6 +13,7 @@ audience:
 # `COBOL` Programming
 
 ## Description
+
 `COBOL` (Common Business-Oriented Language) remains one of the most widely deployed programming
 languages in the world, powering critical systems in banking, insurance, and government.
 Despite being over six decades old, billions of lines of `COBOL` code continue to process
@@ -23,6 +24,7 @@ on mainframe environments and explore strategies for modernizing legacy `COBOL` 
 The course includes hands on exercises.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ The course includes hands on exercises.
 * Evaluate strategies for modernizing `COBOL` applications
 
 ## Outline
+
 <!-- chapter: introduction-to-cobol, duration: 3h -->
 * Introduction to `COBOL`
     * History and evolution of `COBOL`
@@ -151,4 +154,5 @@ The course includes hands on exercises.
     * Planning a modernization roadmap
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

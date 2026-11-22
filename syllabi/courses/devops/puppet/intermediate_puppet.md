@@ -16,6 +16,7 @@ audience:
 # Intermediate Puppet
 
 ## Description
+
 Puppet is a leading open source infrastructure automation and delivery tool used for
 configuration management. Puppet makes it easier for developers, system administrators and
 `Devops` engineers to manage large server deployments as they scale their products/services
@@ -31,6 +32,7 @@ get more familiar with Facter and understand how to use it with Puppet. Finally,
 into Hiera and `rspec` ending with exercises to test their manifests.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ improve your application delivery process.
 * Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
+
 <!-- chapter: from-zero-to-puppet, duration: 2h -->
 * From zero to Puppet
     * Configuration Management
@@ -108,4 +111,5 @@ improve your application delivery process.
         * Type Aliases
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

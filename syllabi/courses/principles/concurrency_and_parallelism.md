@@ -21,6 +21,7 @@ audience:
 # Concurrency and Parallelism
 
 ## Description
+
 Concurrency and parallelism are two of the hardest topics in software engineering and two of the most poorly taught.
 Most developers learn them piecemeal through a single language's `threading` library, then re-learn the same ideas
 incompletely when they switch languages. This five day course is a unified, language-agnostic treatment of the
@@ -34,6 +35,7 @@ able to reason about concurrent code regardless of language and to choose the ri
 in front of them.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ in front of them.
 * design data-parallel and task-parallel programs that scale
 
 ## Outline
+
 <!-- chapter: concurrency-vs-parallelism-vs-asynchrony, duration: 2h -->
 * Concurrency vs parallelism vs asynchrony
     * the textbook distinction
@@ -186,4 +189,5 @@ in front of them.
     * recommended reading: `Goetz`, Herlihy, Williams, `Drepper`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

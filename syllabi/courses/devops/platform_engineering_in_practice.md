@@ -21,6 +21,7 @@ audience:
 # Platform Engineering In Practice
 
 ## Description
+
 Most organizations that build internal platforms rebuild them every two years. The pattern is familiar: a
 platform team gets formed, a year of building goes by, the platform ships, half the engineers ignore it, the
 other half complain about the parts they actually use, and eventually a reorg dissolves the team and the next
@@ -35,6 +36,7 @@ organizational shape that makes platform teams successful. Participants leave ab
 operate a platform that engineers actually want to use.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ operate a platform that engineers actually want to use.
 * avoid the failure modes that kill most platform programs
 
 ## Outline
+
 <!-- chapter: what-platform-engineering-actually-is, duration: 2h -->
 * What platform engineering actually is
     * platform engineering vs `DevOps` vs `SRE`
@@ -181,4 +184,5 @@ operate a platform that engineers actually want to use.
     * recommended reading: `Skelton`/Pais, `CNCF` whitepaper, `Bottcher`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

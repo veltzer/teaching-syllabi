@@ -15,9 +15,11 @@ audience:
 # Next.js Development
 
 ## Description
+
 This course provides a thorough guide to building modern web applications with Next.js and the App Router architecture. Students will learn React Server Components, advanced routing patterns, data fetching strategies, rendering techniques (SSR, SSG, ISR, streaming), authentication, styling, and deployment. The course emphasizes building production-grade applications with optimal performance and developer experience.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ This course provides a thorough guide to building modern web applications with N
 * Write tests for Next.js applications
 
 ## Outline
+
 <!-- chapter: introduction-to-next-js-and-the-app-router, duration: 2h -->
 * Introduction to Next.js and the App Router
     * Overview of Next.js and its evolution
@@ -138,4 +141,5 @@ This course provides a thorough guide to building modern web applications with N
     * Performance monitoring and Core Web Vitals
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

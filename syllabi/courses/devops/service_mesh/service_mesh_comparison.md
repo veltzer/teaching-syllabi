@@ -16,6 +16,7 @@ audience:
 # Service Mesh Comparison
 
 ## Description
+
 This course provides a thorough comparison of the leading service mesh technologies available
 for `Kubernetes` environments. Participants will study the architecture, features, and trade-offs
 of `Istio`, `Linkerd`, `Cilium Service Mesh`, and `Consul Connect`. The course covers traffic
@@ -23,6 +24,7 @@ management, security (mTLS), observability, multi-cluster capabilities, and prac
 on selecting and migrating to a service mesh.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ on selecting and migrating to a service mesh.
 * `make` informed decisions about service mesh adoption and migration.
 
 ## Outline
+
 <!-- chapter: service-mesh-concepts-and-architecture, duration: 1h -->
 * Service mesh concepts and architecture
     * what is a service mesh
@@ -139,4 +142,5 @@ on selecting and migrating to a service mesh.
     * rollback and risk mitigation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

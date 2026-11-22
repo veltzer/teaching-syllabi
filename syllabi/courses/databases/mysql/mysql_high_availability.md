@@ -18,11 +18,13 @@ audience:
 # `MySQL` High Availability
 
 ## Description
+
 This advanced course covers the design and implementation of highly available `MySQL` architectures. Participants will learn to configure and manage `MySQL` replication topologies, `InnoDB Cluster`, and proxy-based routing solutions. The course addresses failover strategies, monitoring, and disaster recovery planning to ensure maximum uptime for mission-critical database workloads.
 
 The course provides hands-on experience with modern `MySQL` HA technologies including `Group Replication`, `MySQL Router`, and ProxySQL, preparing participants to build resilient database infrastructure.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ The course provides hands-on experience with modern `MySQL` HA technologies incl
 * Plan and execute disaster recovery procedures
 
 ## Outline
+
 <!-- chapter: replication-fundamentals, duration: 1h -->
 * Replication Fundamentals
     * Binary log formats (statement, row, mixed)
@@ -147,4 +150,5 @@ The course provides hands-on experience with modern `MySQL` HA technologies incl
     * Recovery procedures and validation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

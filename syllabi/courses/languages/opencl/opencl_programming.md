@@ -15,6 +15,7 @@ audience:
 # `OpenCL` Programming
 
 ## Description
+
 `OpenCL` programming provides a comprehensive
 introduction to the `OpenCL` standard for heterogeneous parallel computing.
 The training offers a detailed walk-through of the different models defined by the
@@ -23,6 +24,7 @@ The focus is on `GPU` devices, and best practices will be discussed such as how 
 suit an algorithm to `GPU` and optimization guidelines.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ the development of an `OpenCL` project.
 * Write correct and efficient `OpenCL` code.
 
 ## Outline
+
 <!-- chapter: parallel-computing-introduction, duration: 1h -->
 * Parallel computing - introduction
     * Flinn's taxonomy
@@ -148,4 +151,5 @@ the development of an `OpenCL` project.
             * Host application execution optimizations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

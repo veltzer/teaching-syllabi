@@ -20,6 +20,7 @@ audience:
 # `GitHub Copilot` in Practice
 
 ## Description
+
 This course is a hands-on, tool-specific guide to `GitHub Copilot`. It does not
 re-teach the general theory of `AI`-assisted development — context windows,
 prompt engineering, verification discipline and the limitations of `LLMs` are
@@ -65,6 +66,7 @@ an organization.
 * **Administer** Copilot in an organization: policies, content exclusion and usage metrics
 
 ## Outline
+
 <!-- chapter: orientation-and-setup, duration: 1h -->
 * Orientation and Setup
     * The Copilot product family
@@ -242,6 +244,7 @@ an organization.
         * A checklist of decisions every organization must make
 
 ## Installations
+
 Each student should have:
 
 * A laptop with `VS Code` installed and permission to install extensions.
@@ -261,4 +264,5 @@ Each student should have:
   blocks `GitHub` or the Copilot endpoints.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

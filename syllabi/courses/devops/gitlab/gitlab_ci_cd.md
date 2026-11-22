@@ -15,6 +15,7 @@ audience:
 # `GitLab` `CI/CD`
 
 ## Description
+
 This course provides a comprehensive guide to `GitLab` `CI/CD`, covering everything from
 basic pipeline configuration to advanced deployment strategies. Students will learn how to
 write and maintain .`gitlab`-ci.yml files, configure runners, manage artifacts and secrets,
@@ -24,6 +25,7 @@ building strategies, and `Auto DevOps`. By the end of the course, participants w
 to design and implement robust `CI/CD` pipelines using `GitLab`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
 * Integrate security scanning (`SAST`, `DAST`, dependency scanning) into pipelines.
 
 ## Outline
+
 <!-- chapter: gitlab-overview, duration: 1h -->
 * `GitLab` Overview
     * What is `GitLab`?
@@ -148,4 +151,5 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
     * Audit and reporting
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

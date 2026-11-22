@@ -17,6 +17,7 @@ audience:
 # Consul
 
 ## Description
+
 Consul by `HashiCorp` is a multi-networking tool that provides service discovery, health
 checking, a distributed key-value store, and a full-featured service mesh in a single,
 unified platform. This course covers Consul from first principles, beginning with its
@@ -28,6 +29,7 @@ distributed tracing. The course closes with practical guidance on deploying and 
 Consul on `Kubernetes` using the official Helm chart and the Consul on `Kubernetes` `CLI`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Consul on `Kubernetes` using the official Helm chart and the Consul on `Kubernet
 * Federate Consul across multiple datacenters and operate Consul on `Kubernetes`.
 
 ## Outline
+
 <!-- chapter: introduction-to-service-mesh-and-service-discovery, duration: 2h -->
 * Introduction to Service Mesh and Service Discovery
     * Challenges of service-to-service communication in distributed systems
@@ -130,4 +133,5 @@ Consul on `Kubernetes` using the official Helm chart and the Consul on `Kubernet
     * Integrating Consul with Vault for certificate management on `Kubernetes`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

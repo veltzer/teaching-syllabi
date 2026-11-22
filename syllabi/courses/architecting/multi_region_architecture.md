@@ -18,6 +18,7 @@ audience:
 # Multi-Region Architecture
 
 ## Description
+
 Going multi-region is one of the most consequential architectural decisions a system can `make`. It is also
 one of the most commonly made for the wrong reason. The catalog covers `Disaster Recovery`,
 `Distributed Systems Tradeoffs`, and `Multi-Cloud Networking`. None of those covers the specific
@@ -37,6 +38,7 @@ able to `make` the multi-region decision deliberately, design the data layer cor
 result.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ result.
 * avoid the common multi-region failure modes
 
 ## Outline
+
 <!-- chapter: why-go-multi-region, duration: 1h -->
 * Why `go` multi-region
     * latency to users
@@ -163,4 +166,5 @@ result.
     * the staged path to multi-region
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

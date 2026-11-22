@@ -19,6 +19,7 @@ audience:
 # Vector Databases Engineering
 
 ## Description
+
 Vector databases store embeddings and answer "which vectors are closest to this one?" at low latency.
 Every modern `RAG` system, semantic search engine, recommendation system, and multimodal application
 depends on one. The catalog has `RAG Applications`, `LLM Application Engineering`, and
@@ -38,6 +39,7 @@ indexing and serving sides correctly, measure recall honestly, and operate a vec
 load.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ load.
 * choose between Pinecone, `Qdrant`, `Weaviate`, `Milvus`, `pgvector`, and a managed offering
 
 ## Outline
+
 <!-- chapter: what-a-vector-database-actually-is, duration: 2h -->
 * What a vector database actually is
     * the similarity-search problem and why it is not a `SQL` `WHERE` clause
@@ -155,4 +158,5 @@ load.
     * the "we re-embedded everything and it took two weeks" failure
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

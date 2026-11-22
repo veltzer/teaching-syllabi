@@ -15,6 +15,7 @@ audience:
 # `Apache Spark` with `Scala`
 
 ## Description
+
 `Apache Spark` is a fast and general engine for large-scale data processing, and arguably the first
 open source software that makes distributed programming truly accessible to data scientists.
 Using `Apache Spark` you can write applications quickly using `Java`, `Scala`, `Python`, and R.
@@ -27,6 +28,7 @@ Starting with the fundamentals of `Spark` and `Scala`, the course progresses thr
 such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph processing with `GraphX`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 * Gain introductory knowledge of `machine learning` concepts and their implementation using `Spark`'s `MLlib`
 
 ## Outline
+
 <!-- chapter: scala-refresher-if-needed, duration: 3h -->
 * `Scala` refresher (if needed)
     * Basic syntax
@@ -112,4 +115,5 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
     * Cluster configuration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Post-Quantum Cryptography
 
 ## Description
+
 The catalog has `Cryptography Fundamentals`, `Cryptographic Engineering`, `PKI and Certificates`, and
 `Web3 and Blockchain Security`. None of those is the focused course on the post-quantum (`PQ`)
 transition: what `NIST` standardized in 2024, what the harvest-now-decrypt-later threat actually
@@ -39,6 +40,7 @@ cover real `PQ` deployments. Participants leave able to plan and execute a `PQ` 
 systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ systems.
 * recognize the patterns that doom `PQ` migrations
 
 ## Outline
+
 <!-- chapter: the-quantum-threat-in-practical-terms, duration: 1h -->
 * The quantum threat in practical terms
     * `Shor`'s algorithm and what it breaks
@@ -150,4 +153,5 @@ systems.
     * the "we used a non-standard implementation" trap
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

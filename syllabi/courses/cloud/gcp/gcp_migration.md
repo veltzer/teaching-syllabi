@@ -17,9 +17,11 @@ audience:
 # Migrating to `GCP`
 
 ## Description
+
 This course provides a comprehensive guide to planning and executing migrations to the `Google Cloud Platform`. Participants will learn migration strategies and methodologies, use `Google Cloud` migration tools for virtual machines, containers, databases, and storage, and apply best practices for application modernization. The course covers the full migration lifecycle from assessment and planning through execution and optimization, including hybrid and multi-cloud scenarios with `Anthos`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a comprehensive guide to planning and executing migrations 
 * Estimate costs and perform `TCO` analysis for migration projects
 
 ## Outline
+
 <!-- chapter: migration-planning-and-strategies, duration: 2h -->
 * Migration Planning and Strategies
     * Migration types: lift-and-shift, move-and-improve, rip-and-replace
@@ -132,4 +135,5 @@ This course provides a comprehensive guide to planning and executing migrations 
     * Post-migration optimization and right-sizing
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -22,6 +22,7 @@ audience:
 # `F5` `BIG-IP` `LTM` Fundamentals
 
 ## Description
+
 The `F5` `BIG-IP` Local Traffic Manager (`LTM`) is the application delivery controller that sits in front of
 many enterprise applications. It terminates client connections, load balances them across pools of servers,
 translates addresses, offloads `TCP` and `HTTP` processing from the servers, and applies traffic policies on
@@ -42,6 +43,7 @@ The course is hands on. Every topic is practiced on lab `BIG-IP` systems with re
 the natural prerequisite for the `F5` `BIG-IP` Advanced iRules course.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -71,11 +73,13 @@ the natural prerequisite for the `F5` `BIG-IP` Advanced iRules course.
 * build a high availability pair with device trust, config sync and failover
 
 ## Exercises
+
 The course is lab driven. Each student gets two `BIG-IP` Virtual Edition systems with a set of backend web
 servers, sets the first one up from the initial configuration, builds an application delivery configuration
 step by step, and finally joins the second system to form a high availability pair.
 
 ## Outline
+
 <!-- chapter: setting-up-the-big-ip-system, duration: 2h -->
 * Setting up the `BIG-IP` system
     * Introducing the `BIG-IP` system
@@ -185,6 +189,7 @@ step by step, and finally joins the second system to form a high availability pa
     * Testing failover and verifying that traffic keeps flowing
 
 ## Installations
+
 Each student needs access to a lab environment with:
 
 * Two `BIG-IP` Virtual Edition systems (trial or lab licenses) with `LTM` provisioned, access to their
@@ -197,4 +202,5 @@ The lab environment can be provided by the training organization or built by the
 The instructor will assist with setup on the first morning.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

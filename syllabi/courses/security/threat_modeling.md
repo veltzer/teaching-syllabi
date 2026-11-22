@@ -17,9 +17,11 @@ audience:
 # Threat Modeling
 
 ## Description
+
 Threat modeling is a structured approach to identifying, quantifying, and addressing security risks in software systems. This course covers the major threat modeling methodologies including STRIDE, DREAD, PASTA, and LINDDUN, along with practical techniques for creating data flow diagrams, identifying trust boundaries, and building attack trees. Participants will apply these techniques to real-world architectures including `microservices`, cloud, and APIs.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
 * Use threat modeling tools effectively
 
 ## Outline
+
 <!-- chapter: threat-modeling-fundamentals, duration: 1h -->
 * Threat Modeling Fundamentals
     * What is threat modeling and why it matters
@@ -168,4 +171,5 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
     * Validating mitigations through testing
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,12 +15,14 @@ audience:
 # Crystal Programming
 
 ## Description
+
 Crystal is a statically typed, compiled systems programming language with a syntax inspired by Ruby, offering the elegance of a dynamic language with the safety and performance of a compiled one.
 Its type inference engine eliminates most explicit annotations, while macros enable powerful compile-time metaprogramming.
 Crystal compiles to native code via `LLVM` and features built-in fibers and channels for lightweight concurrency.
 This course covers Crystal from first programs through its type system, concurrency model, macros, and web development with the `Kemal` framework.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course covers Crystal from first programs through its type system, concurre
 * Build `web services` with `Kemal`
 
 ## Outline
+
 <!-- chapter: introduction-to-crystal, duration: 2h -->
 * Introduction to Crystal
     * History and design philosophy
@@ -129,4 +132,5 @@ This course covers Crystal from first programs through its type system, concurre
     * Deploying Crystal applications
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

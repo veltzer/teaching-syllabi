@@ -18,9 +18,11 @@ audience:
 # `DevSecOps`
 
 ## Description
+
 `DevSecOps` integrates security practices directly into the software development lifecycle, shifting responsibility for security left toward developers and making it a shared, continuous concern across engineering teams. This course teaches the principles, tooling, and cultural changes needed to embed security gates, automated scanning, and threat awareness into modern `CI/CD` pipelines. Participants will gain hands-on experience with industry-standard tools including `Semgrep`, `SonarQube`, `CodeQL`, `OWASP ZAP`, `Trivy`, and secrets management systems, learning how to identify and remediate vulnerabilities early without slowing down delivery. By the end of this course, attendees will be equipped to build and operate a mature `DevSecOps` program that reduces risk while maintaining engineering velocity.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ audience:
 * Build an organizational `DevSecOps` program with defined roles, processes, and tooling
 
 ## Outline
+
 <!-- chapter: introduction-to-devsecops, duration: 2h -->
 * Introduction to `DevSecOps`
     * The evolution from `DevOps` to `DevSecOps`
@@ -161,4 +164,5 @@ audience:
     * Roadmap planning and executive sponsorship for `DevSecOps` transformation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

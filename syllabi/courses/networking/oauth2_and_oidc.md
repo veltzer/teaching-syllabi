@@ -18,9 +18,11 @@ audience:
 # `OAuth2` and `OpenID Connect`
 
 ## Description
+
 `OAuth2` and `OpenID Connect` (`OIDC`) are the foundation of modern identity and access management, enabling secure delegated authorization and federated authentication across web, mobile, and service-to-service applications. Together they define how applications obtain access tokens, verify user identity, and integrate with external identity providers such as `Keycloak`, `Auth0`, and `Okta` without handling user credentials directly. This course provides a thorough technical understanding of both specifications, exploring every grant type, token format, and security consideration that practitioners encounter in real-world deployments. Participants will implement and secure `OAuth2` flows, deeply understand `JWT` structure and validation, and learn how to avoid common vulnerabilities and pitfalls that lead to authentication bypasses and privilege escalation.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ audience:
 * Integrate with real-world identity providers: `Keycloak`, `Auth0`, and `Okta`
 
 ## Outline
+
 <!-- chapter: introduction-to-authn-and-authz, duration: 1h -->
 * Introduction to Authentication and Authorization
     * Defining authentication (AuthN) and authorization (AuthZ)
@@ -134,4 +137,5 @@ audience:
     * Federated identity: connecting identity providers together
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

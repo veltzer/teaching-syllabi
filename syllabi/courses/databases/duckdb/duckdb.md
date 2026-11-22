@@ -18,9 +18,11 @@ audience:
 # `DuckDB`
 
 ## Description
+
 `DuckDB` is an in-process analytical database designed for high-performance OLAP workloads directly within your application process, eliminating the need for a separate database server. It delivers vectorized query execution and columnar storage, making it exceptionally fast for analytical queries over large datasets. This course provides a comprehensive introduction to `DuckDB`, covering everything from installation and basic `SQL` to advanced analytics, file format integration, and performance tuning. Participants will learn how to leverage `DuckDB` in data engineering pipelines, data science workflows, and application backends using `Python`, R, and other languages.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,9 +48,11 @@ audience:
 * Apply `DuckDB` to common data engineering and analytics patterns
 
 ## Exercises
+
 Hands-on labs using `DuckDB` via both the `CLI` and `Python` `API`. Students will load and query datasets from `Parquet` and `CSV` files, write complex analytical `SQL`, build multi-step transformations using CTEs, install and use extensions such as `httpfs` and `spatial`, integrate results with Pandas DataFrames, and profile queries to identify bottlenecks. Real-world scenarios include log analytics, financial aggregations, and geospatial data processing.
 
 ## Outline
+
 <!-- chapter: introduction-to-duckdb, duration: 1h -->
 * Introduction to `DuckDB`
     * What is `DuckDB` and the in-process analytics paradigm
@@ -134,4 +138,5 @@ Hands-on labs using `DuckDB` via both the `CLI` and `Python` `API`. Students wil
     * Operational patterns and best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

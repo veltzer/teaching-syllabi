@@ -17,9 +17,11 @@ audience:
 # `SOLID` Principles and Clean Code
 
 ## Description
+
 `SOLID` principles and clean code practices are fundamental to writing maintainable, scalable, and robust software. This course covers the five `SOLID` principles of object-oriented design along with essential `clean` code techniques that improve code readability, reduce complexity, and enhance long-term maintainability across different programming languages.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -56,6 +58,7 @@ audience:
 * Apply code review techniques to identify quality issues and improvements
 
 ## Outline
+
 <!-- chapter: introduction-to-software-quality-and-design-principles, duration: 1h -->
 * Introduction to Software Quality and Design Principles
     * What makes code "`clean`" and maintainable
@@ -130,4 +133,5 @@ audience:
     * Legacy code refactoring strategies and techniques
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

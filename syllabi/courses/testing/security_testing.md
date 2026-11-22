@@ -19,9 +19,11 @@ audience:
 # Security Testing
 
 ## Description
+
 This two day course provides a practical, hands-on approach to security testing throughout the software development lifecycle. Participants will learn to use industry-standard tools for static and dynamic analysis, dependency scanning, fuzzing, secret detection, and container image scanning, all integrated into `CI/CD` pipelines.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This two day course provides a practical, hands-on approach to security testing 
 * Manage and prioritize vulnerabilities effectively.
 
 ## Outline
+
 <!-- chapter: introduction-to-security-testing, duration: 1h -->
 * Introduction to Security Testing
     * Security testing in the `SDLC`
@@ -99,4 +102,5 @@ This two day course provides a practical, hands-on approach to security testing 
     * Continuous improvement and metrics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

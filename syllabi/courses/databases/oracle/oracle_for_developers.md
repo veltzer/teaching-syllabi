@@ -14,9 +14,11 @@ audience:
 # Oracle for Developers
 
 ## Description
+
 This course is designed to provide students with a comprehensive understanding of Oracle Database and its development environment. Students will learn how to design, implement, and manage databases using Oracle's tools and technologies. The course covers various aspects of database development, including `SQL`, `PL/SQL`, database administration, and performance tuning.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -28,6 +30,7 @@ This course is designed to provide students with a comprehensive understanding o
 * Familiarity with relational database management systems (RDBMS)
 
 ## Objectives
+
 Upon successful completion of this course, students will be able to:
 * Understand the architecture and components of Oracle Database
 * Design and create database objects (tables, views, indexes, etc.)
@@ -39,6 +42,7 @@ Upon successful completion of this course, students will be able to:
 * Integrate Oracle Database with various development environments and tools
 
 ## Outline
+
 <!-- chapter: introduction-to-oracle-database, duration: 2h -->
 * Introduction to Oracle Database
     * Overview of Oracle Database
@@ -100,4 +104,5 @@ Upon successful completion of this course, students will be able to:
 * Online resources (Oracle Learning Library, Oracle Developer Community, etc.)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # `Kustomize`
 
 ## Description
+
 `Kustomize` is a `Kubernetes`-native configuration management tool that allows teams to
 customize application manifests without templates or forking, using a purely declarative,
 patch-based approach. This one-day course teaches participants how to structure `Kustomize`
@@ -26,6 +27,7 @@ literals, and compose Helm charts with `Kustomize` post-rendering. The course en
 practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOps` workflows.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -48,6 +50,7 @@ practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOp
 * Integrate `Kustomize` into automated deployment pipelines and `GitOps` tools.
 
 ## Outline
+
 <!-- chapter: introduction-to-kustomize, duration: 1h -->
 * Introduction to `Kustomize`
     * Why configuration management matters for `Kubernetes`
@@ -91,4 +94,5 @@ practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOp
     * `Kustomize` as a `Flux` and `ArgoCD` rendering engine
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

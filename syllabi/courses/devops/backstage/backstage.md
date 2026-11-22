@@ -15,6 +15,7 @@ audience:
 # Backstage
 
 ## Description
+
 This course covers Backstage, the open-source developer portal platform originally created
 by Spotify. Participants will learn how to set up, customize, and extend Backstage to create
 an internal developer portal that unifies software catalog management, documentation,
@@ -22,6 +23,7 @@ software templates, and integrations with infrastructure and `CI/CD` systems. Th
 includes building custom plugins and deploying Backstage in production environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ includes building custom plugins and deploying Backstage in production environme
 * deploy and maintain Backstage in production.
 
 ## Outline
+
 <!-- chapter: developer-portal-concepts, duration: 1h -->
 * Developer portal concepts
     * what is a developer portal
@@ -143,4 +146,5 @@ includes building custom plugins and deploying Backstage in production environme
     * extending the UI
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

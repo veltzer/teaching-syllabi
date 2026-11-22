@@ -17,6 +17,7 @@ audience:
 # `Linux` fundamentals
 
 ## Description
+
 This course is about the `Linux` as a `UNIX` operating systems structure. It deals with how the system
 is build together, from what components, how basic security works etc. Because this subject
 is very theoretical, and because in practice people who deal with `UNIX` need knowledge of
@@ -30,6 +31,7 @@ If you are in need of such a course consider some `UNIX` (systems) programming c
 usually better undertaken with the knowledge of this course already internalized.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ usually better undertaken with the knowledge of this course already internalized
 * gain practical knowledge of file system
 
 ## Outline
+
 <!-- chapter: introduction-to-unix, duration: 4h -->
 * Introduction to `UNIX`
     * What is `UNIX`
@@ -167,4 +170,5 @@ The vi text editor
     * writing your own `/etc/init.d` script
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

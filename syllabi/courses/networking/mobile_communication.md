@@ -16,11 +16,13 @@ audience:
 # Mobile Communication
 
 ## Description
+
 This course provides a comprehensive overview of mobile communication technologies, from foundational cellular concepts through the latest `5G NR` architecture. Participants will learn the evolution of cellular networks across generations, understand radio access technologies, and explore the architecture of modern mobile systems. The course covers network planning fundamentals, spectrum management, and emerging topics such as network slicing and IoT connectivity.
 
 The course is designed for professionals who need a `solid` understanding of mobile communication systems for development, architecture, or integration work.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ The course is designed for professionals who need a `solid` understanding of mob
 * Evaluate IoT connectivity options (NB-IoT, LTE-M)
 
 ## Outline
+
 <!-- chapter: cellular-network-architecture, duration: 1h -->
 * Cellular Network Architecture
     * Cellular concept and cell planning
@@ -158,4 +161,5 @@ The course is designed for professionals who need a `solid` understanding of mob
     * Tools and methodologies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,9 +16,11 @@ audience:
 # `CMake`
 
 ## Description
+
 `CMake` is one of the leading tools for building C based software.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -35,6 +37,7 @@ audience:
 * gain practical knowledge of In-Depth Syntax
 
 ## Outline
+
 <!-- chapter: introduction-to-cmake, duration: 4h -->
 * Introduction to `CMake`
     * `CMake` History
@@ -80,4 +83,5 @@ audience:
     * Executing processes during `CMake` execution
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

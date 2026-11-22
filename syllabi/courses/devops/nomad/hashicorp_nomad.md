@@ -16,9 +16,11 @@ audience:
 # `HashiCorp Nomad`: Workload Orchestrator
 
 ## Description
+
 This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible workload orchestrator that deploys and manages containers, legacy applications, and batch jobs. Participants will learn Nomad architecture, job specifications, scheduling strategies, networking, service discovery, secrets management, and multi-region federation. The course includes comparisons with `Kubernetes` and practical migration strategies.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
 * Operate multi-region federated Nomad clusters.
 
 ## Outline
+
 <!-- chapter: introduction-to-nomad, duration: 1h -->
 * Introduction to Nomad:
     * What is Nomad and why use it
@@ -145,4 +148,5 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
     * Gradual adoption patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

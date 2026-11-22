@@ -14,6 +14,7 @@ audience:
 # Reinforcement Learning
 
 ## Description
+
 This course provides a deep dive into reinforcement learning, from foundational concepts to modern
 deep RL algorithms. Participants will learn the mathematical framework of Markov Decision Processes,
 value-based methods, policy gradient methods, and actor-critic architectures. The course covers
@@ -21,6 +22,7 @@ practical implementation using `OpenAI Gymnasium` and `Stable Baselines3`, inclu
 A2C, and model-based RL, with applications in robotics, games, and recommendation systems.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
 * **Design RL solutions** for real-world applications in robotics, games, and recommendation systems
 
 ## Outline
+
 <!-- chapter: rl-fundamentals, duration: 2h -->
 * RL Fundamentals
     * Introduction to reinforcement learning
@@ -308,4 +311,5 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
         * NLP and dialogue systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

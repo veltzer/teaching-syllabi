@@ -22,6 +22,7 @@ audience:
 # Load Balancing In Depth
 
 ## Description
+
 Load balancing is one of the most-used and least-understood pieces of infrastructure. Almost every production
 system depends on it, but the choice between `L4` and `L7`, between sticky sessions and stateless requests,
 between client-side and server-side balancing, between `DNS`-based global balancing and anycast, has more
@@ -34,6 +35,7 @@ hashing), health checking, session persistence, `TLS` termination, traffic shapi
 failure modes, and the architectural patterns that `make` load balancing scale and survive incidents.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ failure modes, and the architectural patterns that `make` load balancing scale a
 * avoid the most common load-balancing failure modes
 
 ## Outline
+
 <!-- chapter: load-balancing-fundamentals, duration: 2h -->
 * Load balancing fundamentals
     * why we load balance
@@ -179,4 +182,5 @@ failure modes, and the architectural patterns that `make` load balancing scale a
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

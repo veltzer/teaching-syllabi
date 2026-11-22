@@ -17,6 +17,7 @@ audience:
 # `Federated Learning`
 
 ## Description
+
 `Federated Learning` enables `machine learning` models to be trained across many decentralized devices
 or data silos without transferring raw data to a central server, making it a foundational technology
 for privacy-preserving `AI`. This course provides a thorough grounding in the theory, algorithms, and
@@ -27,6 +28,7 @@ scenarios in healthcare, mobile, and financial domains. The course also covers t
 research challenges and practical limitations that practitioners encounter in production.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ research challenges and practical limitations that practitioners encounter in pr
 * Assess the practical challenges of deploying `federated learning` at scale.
 
 ## Outline
+
 <!-- chapter: introduction-to-federated-learning, duration: 2h -->
 * Introduction to `Federated Learning`
     * From centralized to federated `machine learning`
@@ -110,4 +113,5 @@ research challenges and practical limitations that practitioners encounter in pr
     * Case studies: mobile keyboard prediction, medical imaging, financial fraud detection
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

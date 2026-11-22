@@ -15,12 +15,14 @@ audience:
 # `OCaml` Programming
 
 ## Description
+
 `OCaml` is a statically typed, functional programming language with a powerful module system, algebraic data types, and a sophisticated type inference engine.
 It is widely used in industry for safety-critical applications, including financial trading systems at Jane Street, verification tools at Meta, and compiler development.
 `OCaml` combines functional, imperative, and object-oriented paradigms while delivering native-code performance competitive with C and `C++`.
 This course guides developers from `OCaml` fundamentals through its advanced module system, concurrent programming with `Lwt` and `Eio`, and practical tooling with `opam` and dune.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 * `Bind` to C libraries using the foreign function interface
 
 ## Outline
+
 <!-- chapter: introduction-to-ocaml, duration: 2h -->
 * Introduction to `OCaml`
     * History and design philosophy
@@ -144,4 +147,5 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
     * Interfacing with databases
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

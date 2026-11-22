@@ -16,9 +16,11 @@ audience:
 # Basics of Micro-controller Programming and Testing
 
 ## Description
+
 This course provides a comprehensive introduction to programming and testing microcontrollers. Students will learn fundamental concepts of embedded programming, how to interact with microcontroller peripherals, and essential testing methodologies for embedded systems. The course covers practical programming techniques, debugging strategies, and best practices for developing reliable microcontroller-based applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course provides a comprehensive introduction to programming and testing mic
 * gain practical knowledge of Embedded C Programming Fundamentals
 
 ## Outline
+
 <!-- chapter: introduction-to-microcontrollers, duration: 2h -->
 * Introduction to Microcontrollers
     * What is a microcontroller?
@@ -151,4 +154,5 @@ This course provides a comprehensive introduction to programming and testing mic
     * Testing and validation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

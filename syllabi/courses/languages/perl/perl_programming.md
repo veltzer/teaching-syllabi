@@ -14,11 +14,13 @@ audience:
 # `Perl` Programming
 
 ## Description
+
 `Perl` is a highly capable, feature-rich programming language with a long history of use in text processing, system administration, web development, and bioinformatics. Known for its powerful regular expression support and the motto "There's more than one way to do it," `Perl` remains a practical choice for many scripting and automation tasks.
 
 This course covers `Perl` from the basics through advanced topics including object-oriented programming with Moose/Moo, CPAN module usage, text processing, and modern `Perl` best practices. Students will gain hands-on experience writing real-world `Perl` scripts and applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course covers `Perl` from the basics through advanced topics including obje
 * Write tests with Test::More
 
 ## Outline
+
 <!-- chapter: getting-started-with-perl, duration: 1h -->
 * Getting Started with `Perl`
     * What is `Perl` and its history
@@ -173,4 +176,5 @@ This course covers `Perl` from the basics through advanced topics including obje
     * Version-specific features
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

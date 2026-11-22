@@ -18,6 +18,7 @@ audience:
 # `MongoDB` DBA
 
 ## Description
+
 `MongoDB` is a leading `NoSQL` document database that provides high performance, high availability, and automatic scaling for modern applications. As organizations increasingly adopt `MongoDB` for their critical applications, the need for skilled database administrators who can effectively manage, optimize, and secure `MongoDB` deployments has become essential.
 
 This course provides comprehensive training for database administrators who need to deploy, maintain, monitor, and optimize `MongoDB` databases in production environments. Participants will gain hands-on experience with installation, configuration, backup strategies, performance tuning, security implementation, and troubleshooting of `MongoDB` clusters.
@@ -25,6 +26,7 @@ This course provides comprehensive training for database administrators who need
 The course focuses on `MongoDB` version 7 and covers both on-premise and cloud deployment scenarios.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -54,9 +56,11 @@ The course focuses on `MongoDB` version 7 and covers both on-premise and cloud d
 * Implement disaster recovery procedures
 
 ## Exercises
+
 Hands-on exercises performed on `Linux` virtual machines with `MongoDB` Community or Enterprise Edition. Students will work with replica sets, sharded clusters, and various administrative tools including `MongoDB Compass`, mongosh, and monitoring solutions. Real-world scenarios include setting up production-grade clusters, performing backups and restores, implementing security, and troubleshooting performance issues.
 
 ## Outline
+
 <!-- chapter: introduction-to-mongodb-architecture, duration: 2h -->
 * Introduction to `MongoDB` Architecture
     * Document model and BSON
@@ -196,6 +200,7 @@ Hands-on exercises performed on `Linux` virtual machines with `MongoDB` Communit
     * Aggregation pipeline administration
 
 ## Installations
+
 Each student should have:
 
 * A `Linux` virtual machine (`Ubuntu` 24.04 LTS recommended) or access to cloud instances
@@ -211,4 +216,5 @@ Each student should have:
 * For `MacOS` users: Native `MongoDB` installation is fully supported
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,11 +16,13 @@ audience:
 # `Jenkins`
 
 ## Description
+
 `Jenkins` is a very wide spread software building, testing and deployment tool. It enabled `CI/CD`
 pipelines and `agile` development, can utilize such technologies as the public cloud, `git` and
 `Docker` and has many plugins making it tunable to many environments.
 
 ## Duration
+
 16 hours / 1 days
 
 ## Intended Audience
@@ -30,6 +32,7 @@ pipelines and `agile` development, can utilize such technologies as the public c
 * Anyone with some programming experience in the software industry.
 
 ## Prerequisites
+
 No programming skills are required but are certainly welcome.
 A year of experience in the software industry in any technical position is required.
 
@@ -44,6 +47,7 @@ A year of experience in the software industry in any technical position is requi
 * Describe `Jenkins` best practices.
 
 ## Outline
+
 <!-- chapter: how-to-install-jenkins-3-possible-ways, duration: 1h -->
 * How to install `Jenkins` (3 possible ways)
 <!-- chapter: continuous-integration-ci-concepts, duration: 1h -->
@@ -100,4 +104,5 @@ A year of experience in the software industry in any technical position is requi
 * The user should have `sudo` privileges on those machines.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

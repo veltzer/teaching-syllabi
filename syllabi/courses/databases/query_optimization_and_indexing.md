@@ -19,6 +19,7 @@ audience:
 # Query Optimization and Indexing
 
 ## Description
+
 Most production database performance problems are bad queries against bad indexes. The fix is rarely a hardware
 upgrade or a database change; it is the engineer learning to read execution plans, understand the optimizer's
 cost model, and choose the right index for the workload. The skills are learnable in a structured way and
@@ -33,6 +34,7 @@ Participants leave able to diagnose and fix slow queries, design indexes that ea
 discipline that keeps query performance predictable.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ discipline that keeps query performance predictable.
 * build a query-performance discipline on a team
 
 ## Outline
+
 <!-- chapter: the-mental-model-of-a-query, duration: 2h -->
 * The mental model of a query
     * how a query becomes an execution plan
@@ -183,4 +186,5 @@ discipline that keeps query performance predictable.
     * recommended reading: `Greene`, Winand, `PostgreSQL` and `MySQL` docs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

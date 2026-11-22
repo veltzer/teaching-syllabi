@@ -18,6 +18,7 @@ audience:
 # Introduction to `Kubernetes`
 
 ## Description
+
 `Kubernetes` (k8s) is fast becoming the industry standard for container orchestration and this is an introductory
 course to that technology. The course takes the participants from no knowledge of containers and container
 orchestration to a beginner level in using `docker` and orchestrating docker containers with `Kubernetes`.
@@ -27,6 +28,7 @@ The course includes training on real live systems and orchestrating real live cl
 The course covers `Kubernetes` from installation and configuration through resources, pods, and controllers. The course ends with a look into services, volumes, and cluster administration.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ more cloud specific offering.
 * Have a basic understanding of the various techniques to upgrade `Kubernetes` application at production
 
 ## Outline
+
 <!-- chapter: intro-to-kubernetes, duration: 2h -->
 * Intro to `Kubernetes`
     * Containers
@@ -203,6 +206,7 @@ more cloud specific offering.
     * Service mesh overview (`Istio`/`Linkerd`)
 
 ## Installations
+
 Each student should have:
 
 * An `Ubuntu` 24:04 machine
@@ -212,4 +216,5 @@ Each student should have:
 * [https://www.linuxvmimages.com/images/ubuntu-2204/](https://www.linuxvmimages.com/images/ubuntu-2204/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

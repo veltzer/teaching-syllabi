@@ -17,12 +17,15 @@ audience:
 # Hive
 
 ## Description
+
 This course provides a comprehensive introduction to `Apache Hive` and its role within the `Hadoop` ecosystem. Participants will learn how to use HiveQL for querying and managing large datasets stored in `HDFS`, as well as how to optimize query performance. The course also covers related tools such as Pig and `ETL` workflows for bringing data into `Hadoop`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
+
 Developers and data scientists who need to query and analyze large-scale data using `SQL`-like interfaces on top of `Hadoop`.
 
 ## Prerequisites
@@ -37,6 +40,7 @@ Developers and data scientists who need to query and analyze large-scale data us
 * Optimize Hive query performance using partitioning, bucketing, and indexing
 
 ## Outline
+
 <!-- chapter: introduction-to-hadoop, duration: 3h -->
 * Introduction to `Hadoop`
     * Why `Hadoop`?
@@ -93,4 +97,5 @@ Developers and data scientists who need to query and analyze large-scale data us
     * Indexing
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

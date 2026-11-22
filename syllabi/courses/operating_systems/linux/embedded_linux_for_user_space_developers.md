@@ -18,6 +18,7 @@ audience:
 # Embedded `Linux` for user space developers
 
 ## Description
+
 This course introduces the participants to embedded development and embedded development in `Linux` in particular.
 The course teaches the theoretical aspects of embedded and real time systems as well as the practical implications of those aspects and their implementation in `Linux`.
 
@@ -28,6 +29,7 @@ real time development.
 This is a practical course with exercises covering most topics.
 
 ## Duration
+
 56 hours / 7 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This is a practical course with exercises covering most topics.
 * gain practical knowledge of `Linux`` as a real time operating system
 
 ## Outline
+
 <!-- chapter: how-protected-operating-systems-work, duration: 2h -->
 * How protected operating systems work?
     * How preemption works
@@ -141,4 +144,5 @@ This is a practical course with exercises covering most topics.
     * BIT mandates in certain industries or hardware devices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

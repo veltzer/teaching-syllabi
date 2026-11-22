@@ -14,11 +14,13 @@ audience:
 # Swift Programming
 
 ## Description
+
 Swift is a powerful and intuitive programming language developed by Apple for building apps across `iOS`, `macOS`, watchOS, and tvOS. It combines modern language features with safety-first design, making it accessible to beginners while remaining powerful enough for experienced developers. Swift emphasizes clarity, performance, and safety through features like optionals, type inference, and automatic memory management via ARC.
 
 This course covers the Swift language from the ground up, including its type system, object-oriented and protocol-oriented programming paradigms, modern concurrency model, and an introduction to building user interfaces with SwiftUI.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course covers the Swift language from the ground up, including its type sys
 * Write unit tests with XCTest
 
 ## Outline
+
 <!-- chapter: getting-started-with-swift, duration: 2h -->
 * Getting Started with Swift
     * What is Swift and why use it?
@@ -169,4 +172,5 @@ This course covers the Swift language from the ground up, including its type sys
     * Test-driven development workflow
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

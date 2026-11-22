@@ -16,9 +16,11 @@ audience:
 # Oracle for Administrators
 
 ## Description
+
 This course is designed to provide students with the knowledge and skills necessary to effectively administer and maintain Oracle databases. Students will learn about the architecture, configuration, security, backup and recovery, performance tuning, and troubleshooting of Oracle databases. The course covers various aspects of database administration, including installation, configuration, user management, and database maintenance tasks.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -33,6 +35,7 @@ This course is designed to provide students with the knowledge and skills necess
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 Upon successful completion of this course, students will be able to:
 * Understand the architecture and components of Oracle Database
 * Install and configure Oracle Database software
@@ -44,6 +47,7 @@ Upon successful completion of this course, students will be able to:
 * Automate administrative tasks using scripts and tools
 
 ## Outline
+
 <!-- chapter: introduction-to-oracle-database, duration: 4h -->
 * Introduction to Oracle Database
     * Overview of Oracle Database
@@ -96,4 +100,5 @@ Upon successful completion of this course, students will be able to:
 * Online resources (Oracle Learning Library, Oracle Support Community, etc.)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

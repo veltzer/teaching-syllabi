@@ -20,6 +20,7 @@ audience:
 # Claude Workshop
 
 ## Description
+
 This one day workshop is a hands-on, end-to-end tour of working effectively with
 Claude, with a focus on `Claude Code` as a daily driver for software engineering work.
 The workshop walks through the moving parts that determine how Claude behaves
@@ -33,6 +34,7 @@ something on the student's own machine and seeing how that change shows up in
 Claude's behavior on a real codebase.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -61,6 +63,7 @@ Claude's behavior on a real codebase.
   when `RAG` is the right tool versus long context or fine tuning
 
 ## Outline
+
 <!-- chapter: introduction-and-orientation, duration: 1h -->
 * Introduction and Orientation (1 hour)
     * What Claude is and what Claude is not
@@ -245,6 +248,7 @@ Claude's behavior on a real codebase.
       agent building
 
 ## Installations
+
 Each student should have:
 
 * A laptop running `Linux`, `macOS` or `Windows` with administrator rights to
@@ -263,4 +267,5 @@ Each student should have:
 * For the `RAG` section: a working `Python` 3 environment with pip.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

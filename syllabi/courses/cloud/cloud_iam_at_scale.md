@@ -18,6 +18,7 @@ audience:
 # Cloud `IAM` at Scale
 
 ## Description
+
 The catalog has `Identity and Access Management`, `Cloud Security`, and the per-cloud security courses
 (`AWS Security`, `Azure Security`, `GCP Security`), all of which touch `IAM`. None of them is the
 focused course on operating cloud identity at scale: hundreds of accounts, thousands of roles, multi-account
@@ -37,6 +38,7 @@ Security Pillar. Participants leave able to design and run `IAM` for an organiza
 than one team.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ than one team.
 * migrate sprawled `IAM` to a managed program
 
 ## Outline
+
 <!-- chapter: why-iam-breaks-at-scale, duration: 1h -->
 * Why `IAM` breaks at scale
     * the canonical sprawl: `500` roles, no clear ownership
@@ -158,4 +161,5 @@ than one team.
     * the audit-friendly logging story
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

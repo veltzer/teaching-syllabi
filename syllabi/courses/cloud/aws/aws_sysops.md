@@ -15,9 +15,11 @@ audience:
 # `AWS` Systems Operations
 
 ## Description
+
 This course covers the essential skills for operating and managing workloads on `AWS`. Students will learn how to monitor, automate, secure, and optimize `AWS` environments at scale. The course focuses on day-to-day operational tasks including monitoring and observability, configuration management, patch management, incident response, and cost control using native `AWS` services and best practices.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course covers the essential skills for operating and managing workloads on 
 * Troubleshoot common operational issues and optimize costs.
 
 ## Outline
+
 <!-- chapter: amazon-cloudwatch-monitoring-and-observability, duration: 3h -->
 * `Amazon CloudWatch` Monitoring and Observability
     * `CloudWatch` metrics, namespaces, and custom metrics
@@ -141,4 +144,5 @@ This course covers the essential skills for operating and managing workloads on 
     * Automating incident response with `EventBridge` and `Lambda`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,11 +16,13 @@ audience:
 # `Jenkins` Basics
 
 ## Description
+
 `Jenkins` is a very wide spread software building, testing and deployment tool. It enabled `CI/CD`
 pipelines and `agile` development, can utilize such technologies as the public cloud, `git` and
 `Docker` and has many plugins making it tunable to many environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ pipelines and `agile` development, can utilize such technologies as the public c
 * Describe `Jenkins` best practices.
 
 ## Outline
+
 <!-- chapter: continuous-integration-ci-concepts, duration: 1h -->
 * Continuous Integration (CI) Concepts
 <!-- chapter: ci-and-automated-testing, duration: 1h -->
@@ -66,4 +69,5 @@ pipelines and `agile` development, can utilize such technologies as the public c
 * Best Practices in `CI/CD` process with `Jenkins`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

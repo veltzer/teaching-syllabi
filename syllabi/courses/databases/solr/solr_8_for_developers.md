@@ -16,11 +16,13 @@ audience:
 # Solr 8 for Developers
 
 ## Description
+
 Solr is one of the prominent solutions for text searching databases and is rapidly developing.
 The purpose of this course is to teach students what about what free text database search engines
 are, how they work, how Solr works and how to use Solr effectively in a production system.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
 * Manage free text queries effective: boosting, faceting, joining and more
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-lucene, duration: 4h -->
 * Introduction to Apache `Lucene`
     * What is Search
@@ -118,4 +121,5 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
     * Learn about Solr Cloud: Introduction, Features, Architecture, Exploring Solr Cloud
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

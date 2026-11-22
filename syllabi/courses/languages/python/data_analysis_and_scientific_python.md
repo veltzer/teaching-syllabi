@@ -19,6 +19,7 @@ duration_hours: 32
 # Data Analysis and Scientific `Python`
 
 ## Description
+
 `Python` is an easy to learn and powerful programming language that is used in many
 computer science areas.
 This course covers the power and flexibility of `NumPy`, SciPy and `Matplotlib` when dealing
@@ -48,6 +49,7 @@ and other roles responsible for analyzing the organization's data.
 * Get familiar with how to visualize data using `Python`.
 
 ## Outline
+
 <!-- chapter: python-refresher-crash-course-long, duration: 2h -->
 * `Python` Refresher / Crash Course [long]
     * Introduction
@@ -189,4 +191,5 @@ and other roles responsible for analyzing the organization's data.
     * Examples
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

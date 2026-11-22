@@ -17,6 +17,7 @@ audience:
 # `MSBuild`
 
 ## Description
+
 `MSBuild` is the foundational build engine for the entire `.NET` ecosystem, powering `Visual Studio`, the
 `dotnet` `CLI`, and enterprise-scale `C#` and `F#` projects. This course demystifies the `MSBuild` project file
 format, teaching participants to read, write, and extend `SDK`-style project files, create custom tasks, and
@@ -25,6 +26,7 @@ multi-platform targeting, and run `MSBuild`-driven pipelines in modern `CI/CD` s
 and `GitHub Actions`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ and `GitHub Actions`.
 * Integrate `MSBuild` into `CI/CD` pipelines for automated delivery.
 
 ## Outline
+
 <!-- chapter: introduction-to-msbuild, duration: 2h -->
 * Introduction to `MSBuild`:
     * The role of `MSBuild` in the `.NET` toolchain.
@@ -105,4 +108,5 @@ and `GitHub Actions`.
     * Code signing and artifact publishing.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

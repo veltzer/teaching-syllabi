@@ -15,6 +15,7 @@ audience:
 # Julia Programming
 
 ## Description
+
 Julia is a high-level, high-performance programming language designed for technical computing.
 It combines the ease of use of `Python` with the speed of C, making it ideal for scientific
 computing, data science, and `machine learning`. This course covers Julia from its fundamentals
@@ -25,6 +26,7 @@ language's unique strengths.
 The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ The course includes hands on exercises.
 * Create and publish Julia packages
 
 ## Outline
+
 <!-- chapter: getting-started-with-julia, duration: 2h -->
 * Getting Started with Julia
     * What is Julia and why use it?
@@ -169,4 +172,5 @@ The course includes hands on exercises.
     * Publishing to the General registry
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

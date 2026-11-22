@@ -22,6 +22,7 @@ audience:
 # `Google Cloud Platform` - Cloud Engineer
 
 ## Description
+
 This course prepares participants to deploy applications, monitor operations, and manage
 enterprise solutions on `Google Cloud Platform`. It covers core infrastructure services
 including compute, networking, storage, and databases, along with identity management,
@@ -29,6 +30,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
 `GCP` services aligned with the Associate Cloud Engineer certification path.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ security, and infrastructure as code. Participants will gain hands-on experience
 * Monitor and troubleshoot `GCP` workloads using Cloud Operations
 
 ## Outline
+
 <!-- chapter: introduction-to-google-cloud-platform, duration: 3h -->
 * Introduction to `Google Cloud Platform`
     * `GCP` global infrastructure: regions, zones, and edge locations
@@ -128,4 +131,5 @@ security, and infrastructure as code. Participants will gain hands-on experience
     * Active Assist and Gemini Cloud Assist
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

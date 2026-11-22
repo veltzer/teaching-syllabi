@@ -15,9 +15,11 @@ audience:
 # `RabbitMQ` for Developers
 
 ## Description
+
 This course provides a comprehensive introduction to `RabbitMQ` for software developers. It covers the `AMQP` protocol, core messaging concepts such as exchanges, queues, and bindings, as well as advanced routing patterns, pub/sub, RPC, dead letter queues, message persistence, and client libraries. Students will learn to design and implement reliable messaging solutions and test their messaging infrastructure.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive introduction to `RabbitMQ` for software dev
 * Test and debug messaging workflows.
 
 ## Outline
+
 <!-- chapter: introduction-to-rabbitmq-and-amqp, duration: 2h -->
 * Introduction to `RabbitMQ` and `AMQP`:
     * Message broker concepts and use cases.
@@ -99,4 +102,5 @@ This course provides a comprehensive introduction to `RabbitMQ` for software dev
     * Performance and load testing.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

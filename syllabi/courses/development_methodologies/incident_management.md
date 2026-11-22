@@ -17,6 +17,7 @@ audience:
 # Incident Management
 
 ## Description
+
 Effective incident management is critical for maintaining reliable systems and services.
 This course covers the full incident lifecycle, from detection and response through
 resolution and post-incident learning. Students will learn how to build robust on-call
@@ -24,6 +25,7 @@ processes, run effective incident responses, conduct blameless postmortems, and 
 a culture of reliability using SRE principles.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ a culture of reliability using SRE principles.
 * gain practical knowledge of SLOs, SLIs, and error budgets
 
 ## Outline
+
 <!-- chapter: incident-management-lifecycle, duration: 1h -->
 * Incident Management Lifecycle
     * What is an incident
@@ -146,4 +149,5 @@ a culture of reliability using SRE principles.
     * Building a culture of reliability
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

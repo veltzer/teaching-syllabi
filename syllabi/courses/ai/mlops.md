@@ -15,6 +15,7 @@ audience:
 # `MLOps`
 
 ## Description
+
 This course provides a comprehensive guide to `MLOps`, the discipline of operationalizing machine
 learning models in production environments. Participants will learn how to manage the full `ML`
 lifecycle including experiment tracking, data versioning, model registry, serving, monitoring, and
@@ -23,6 +24,7 @@ governance. The course covers industry-standard tools such as `MLflow`, `Weights
 and scalable `ML` pipelines.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ and scalable `ML` pipelines.
 * **Design scalable `ML` infrastructure** using `Kubernetes`, `Kubeflow`, and `GPU` management with cost optimization
 
 ## Outline
+
 <!-- chapter: mlops-lifecycle, duration: 3h -->
 * `MLOps` Lifecycle
     * What is `MLOps`
@@ -362,4 +365,5 @@ and scalable `ML` pipelines.
         * Continuous compliance monitoring
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

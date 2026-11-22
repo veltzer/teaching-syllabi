@@ -14,9 +14,11 @@ audience:
 # `Kotlin` for `Android`
 
 ## Description
+
 This course teaches modern `Android` application development using `Kotlin` and the latest Jetpack libraries. Students will learn how to build robust, maintainable `Android` applications using `Kotlin` coroutines for asynchronous programming, `Jetpack Compose` for declarative UI, Room for local persistence, Hilt for dependency injection, and other essential `Android` architecture components. The course emphasizes best practices, testability, and modern `Android` development patterns.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course teaches modern `Android` application development using `Kotlin` and 
 * Write effective tests for `Android` applications built with `Kotlin`
 
 ## Outline
+
 <!-- chapter: kotlin-coroutines-on-android, duration: 2h -->
 * `Kotlin` Coroutines on `Android`
     * Coroutine basics and structured concurrency
@@ -118,4 +121,5 @@ This course teaches modern `Android` application development using `Kotlin` and 
     * Test best practices and patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

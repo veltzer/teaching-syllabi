@@ -15,9 +15,11 @@ audience:
 # `Great Expectations`
 
 ## Description
+
 `Great Expectations` is an open-source data quality framework that helps teams validate, document, and profile their data. This course covers the architecture and usage of `Great Expectations`, including defining expectation suites, running validations, generating data docs, and integrating with Pandas, `Spark`, and `SQL` backends. Participants will also learn to integrate data quality checks into `CI/CD` pipelines and compare `Great Expectations` with other data quality tools.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -49,6 +51,7 @@ audience:
 * Compare `Great Expectations` with Soda and `dbt` tests
 
 ## Outline
+
 <!-- chapter: data-quality-concepts, duration: 1h -->
 * Data Quality Concepts
     * Why data quality matters in modern data systems
@@ -133,4 +136,5 @@ audience:
     * Scaling data quality validation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Logging, Monitoring and Observability in the `Google Cloud`
 
 ## Description
+
 Learn how to monitor, troubleshoot, and improve your infrastructure and application performance.
 Guided by the principles of Site Reliability Engineering (SRE), this course features a combination
 of lectures, demos, hands-on labs, and real-world case studies. In this course, you'll gain
@@ -25,6 +26,7 @@ experience with full-stack monitoring, real-time log management and analysis, de
 production, and profiling `CPU` and memory usage.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ production, and profiling `CPU` and memory usage.
 * Optimize monitoring costs
 
 ## Outline
+
 <!-- chapter: introduction-to-monitoring-in-google-cloud, duration: 2h -->
 * Introduction to Monitoring in `Google Cloud`
 In this module, we will take some time to do a high-level overview of the various products which
@@ -115,4 +118,5 @@ within `Google Cloud`, and implement best practices for controlling the cost of 
 `Google Cloud`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

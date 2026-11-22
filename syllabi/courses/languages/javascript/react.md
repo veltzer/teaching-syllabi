@@ -15,9 +15,11 @@ audience:
 # React Development
 
 ## Description
+
 This course provides a comprehensive guide to building modern web applications with React. Starting from core fundamentals like JSX, components, props, and state, the course progresses through hooks, advanced component patterns, routing, state management, data fetching, styling strategies, testing, and performance optimization. Students will also learn how to use `TypeScript` with React and get an introduction to Next.js for production-grade applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ This course provides a comprehensive guide to building modern web applications w
 * Build server-rendered applications with Next.js
 
 ## Outline
+
 <!-- chapter: react-fundamentals, duration: 3h -->
 * React Fundamentals
     * What is React and why use it
@@ -153,4 +156,5 @@ This course provides a comprehensive guide to building modern web applications w
     * Environment variables and production configuration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

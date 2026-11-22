@@ -17,11 +17,13 @@ audience:
 # `MySQL` Performance Tuning
 
 ## Description
+
 This advanced course provides comprehensive training in `MySQL` performance optimization, covering query tuning, indexing strategies, and server configuration. Participants will learn to diagnose and resolve performance bottlenecks using EXPLAIN plan analysis, `Performance Schema`, and the sys schema. The course addresses both query-level and system-level optimization techniques for InnoDB-based deployments.
 
 The course emphasizes practical, data-driven approaches to performance tuning, enabling participants to systematically identify and resolve the most impactful performance issues in production `MySQL` environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ The course emphasizes practical, data-driven approaches to performance tuning, e
 * Configure connection pooling for high-concurrency environments
 
 ## Outline
+
 <!-- chapter: query-optimization, duration: 1h -->
 * Query Optimization
     * Query execution lifecycle in `MySQL`
@@ -149,4 +152,5 @@ The course emphasizes practical, data-driven approaches to performance tuning, e
     * Tuning max_connections and related variables
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

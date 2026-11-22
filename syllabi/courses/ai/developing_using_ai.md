@@ -17,6 +17,7 @@ duration_hours: 24
 # Development Using `AI`
 
 ## Description
+
 This course covers practical `AI` integration for modern software development, focusing on leveraging
 `AI` tools to enhance developer productivity, code quality, and development workflows. It includes
 hands-on experience with `AI`-powered coding assistants, automated code generation, intelligent
@@ -52,6 +53,7 @@ can accelerate development cycles, improve code quality, and transform tradition
 * **Establish team workflows and best practices** for responsible `AI` integration in collaborative software development environments
 
 ## Outline
+
 <!-- chapter: introduction-to-ai-assisted-development, duration: 1h -->
 * Introduction to `AI`-Assisted Development
     * Current state of `AI` for developers
@@ -509,4 +511,5 @@ can accelerate development cycles, improve code quality, and transform tradition
         * Innovation mindset
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

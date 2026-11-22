@@ -15,9 +15,11 @@ audience:
 # Advanced Spring
 
 ## Description
+
 `SOLID`, Spring Reactive, `gRPC`
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -36,6 +38,7 @@ audience:
 * Gain understanding of `gRPC` and it's implementation in Spring.
 
 ## Outline
+
 <!-- chapter: solid-software, duration: 4h -->
 * `Solid` Software (6 hours)
     * Design Principles
@@ -118,4 +121,5 @@ audience:
         * Demo
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

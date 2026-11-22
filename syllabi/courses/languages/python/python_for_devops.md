@@ -18,9 +18,11 @@ audience:
 # `Python` for `DevOps`
 
 ## Description
+
 This two day course teaches `DevOps` engineers how to leverage `Python` for infrastructure automation, cloud management, and operational tooling. Students will learn to build `CLI` tools, automate `AWS` resources with Boto3, manage subprocesses, parse logs, and integrate with monitoring and external APIs to streamline day-to-day operations.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This two day course teaches `DevOps` engineers how to leverage `Python` for infr
 * Integrate with external APIs and monitoring systems.
 
 ## Outline
+
 <!-- chapter: python-scripting-for-devops, duration: 2h -->
 * `Python` Scripting for `DevOps`
     * Scripting best practices and project structure
@@ -109,4 +112,5 @@ This two day course teaches `DevOps` engineers how to leverage `Python` for infr
     * Error handling and resilience patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

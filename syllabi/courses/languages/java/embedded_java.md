@@ -17,6 +17,7 @@ audience:
 # Embedded `Java`
 
 ## Description
+
 This course covers three distinct approaches to using `Java` in embedded and real-time systems.
 The first approach focuses on creating custom `Linux` distributions for embedded devices that
 support `Java` execution. The second approach explores `Java`'s real-time capabilities where the
@@ -26,6 +27,7 @@ in C, `C++`, or Rust. Students will gain practical experience with each approach
 when to apply each technique based on system requirements and constraints.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ when to apply each technique based on system requirements and constraints.
 * gain practical knowledge of Part 3: `Java` Integration with Native Real-Time Processes
 
 ## Outline
+
 <!-- chapter: part-1-creating-linux-distributions-for-embedded-java, duration: 10h -->
 * Part 1: Creating `Linux` Distributions for Embedded `Java`
     * Introduction to Embedded `Linux`
@@ -152,4 +155,5 @@ when to apply each technique based on system requirements and constraints.
         * Graceful degradation and failover
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

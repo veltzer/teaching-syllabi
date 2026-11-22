@@ -15,6 +15,7 @@ audience:
 # `Pulumi`
 
 ## Description
+
 This course covers `Pulumi`, a modern infrastructure as code platform that allows
 engineers to define and manage cloud infrastructure using general-purpose programming
 languages such as `TypeScript`, `Python`, and Go. The course begins with foundational
@@ -25,6 +26,7 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
 `Pulumi` into `CI/CD` workflows.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
 * Enforce policies with CrossGuard and integrate `Pulumi` into `CI/CD` pipelines.
 
 ## Outline
+
 <!-- chapter: infrastructure-as-code-concepts, duration: 1h -->
 * Infrastructure as Code Concepts
     * What is infrastructure as code?
@@ -147,4 +150,5 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
     * Migration planning and execution
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

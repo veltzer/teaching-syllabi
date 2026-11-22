@@ -16,9 +16,11 @@ audience:
 # Advanced C Programming
 
 ## Description
+
 This course provides a deep dive into advanced C programming techniques for developers who need to write high-performance, portable, and maintainable systems-level code. Topics include mastery of pointer arithmetic, function pointers, memory management strategies, bit manipulation, preprocessor techniques, variadic functions, signal handling, and modern C11/`C17` features. The course also covers static analysis tools and portability considerations across platforms.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a deep dive into advanced C programming techniques for deve
 * Use static analysis tools to detect bugs and improve code quality
 
 ## Outline
+
 <!-- chapter: pointer-arithmetic-mastery, duration: 2h -->
 * Pointer Arithmetic Mastery
     * Pointer types, sizes, and alignment
@@ -126,4 +129,5 @@ This course provides a deep dive into advanced C programming techniques for deve
     * Integrating static analysis into `CI/CD` pipelines
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

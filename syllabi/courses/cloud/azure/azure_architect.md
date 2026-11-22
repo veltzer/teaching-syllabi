@@ -17,9 +17,11 @@ audience:
 # `Azure` Solutions Architect
 
 ## Description
+
 This advanced course prepares participants to design comprehensive solutions on `Microsoft Azure` following the `Azure Well-Architected Framework`. Participants will learn to `make` informed architectural decisions across compute, data, networking, identity, and security domains. The course covers real-world `design patterns`, migration strategies, governance at scale, and cost optimization, equipping architects with the knowledge to build reliable, secure, and performant cloud solutions.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This advanced course prepares participants to design comprehensive solutions on 
 * Implement governance and cost management at enterprise scale
 
 ## Outline
+
 <!-- chapter: azure-well-architected-framework, duration: 4h -->
 * `Azure Well-Architected Framework`
     * Reliability pillar (fault tolerance, recovery, testing)
@@ -134,4 +137,5 @@ This advanced course prepares participants to design comprehensive solutions on 
     * Cost allocation and chargeback models
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

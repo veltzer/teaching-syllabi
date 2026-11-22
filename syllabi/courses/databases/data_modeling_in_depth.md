@@ -22,6 +22,7 @@ audience:
 # Data Modeling in Depth
 
 ## Description
+
 Data modeling is one of the few engineering skills whose mistakes follow you for years. The schema you ship in
 year one shapes the queries, joins, indexes, migrations and integrations you will be paying for in year five.
 Most developers learn modeling by osmosis from a single language and a single relational database, then apply
@@ -35,6 +36,7 @@ between domain models and database models, and the operational realities of evol
 Participants leave able to model new domains correctly across paradigms and to read existing schemas critically.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ Participants leave able to model new domains correctly across paradigms and to r
 * avoid the modeling mistakes that cause years of pain
 
 ## Outline
+
 <!-- chapter: why-modeling-matters, duration: 2h -->
 * Why modeling matters
     * the long shadow of the first schema
@@ -184,4 +187,5 @@ Participants leave able to model new domains correctly across paradigms and to r
     * recommended reading: `Kleppmann`, Kimball, Linstedt, `Codd`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

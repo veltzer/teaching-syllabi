@@ -18,6 +18,7 @@ audience:
 # Hardware Security and Trusted Execution
 
 ## Description
+
 Hardware-rooted security — the `TPM`, the secure element, the `HSM`, the `TEE`, confidential
 computing on `SEV-SNP`, TDX, and the `Apple Secure Enclave` — has gone from "the right thing for
 some specialized cases" to "the foundation of consumer device security and increasingly of cloud
@@ -40,6 +41,7 @@ have hardware-backed security" from "we have a checkbox." Examples cover real pr
 Participants leave able to design a system that uses hardware trust deliberately.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -64,6 +66,7 @@ Participants leave able to design a system that uses hardware trust deliberately
 * compare the major `TEE` platforms
 
 ## Outline
+
 <!-- chapter: the-hardware-primitives, duration: 2h -->
 * The hardware primitives
     * `TPM 2.0` and what a `TPM` is
@@ -167,4 +170,5 @@ Participants leave able to design a system that uses hardware trust deliberately
     * recommended reading: `CCC` whitepapers, RATS `RFC`s
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

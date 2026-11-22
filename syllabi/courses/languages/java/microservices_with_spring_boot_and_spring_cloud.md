@@ -17,6 +17,7 @@ duration_hours: 16
 # Micro-services with `Spring Boot` and `Spring Cloud`
 
 ## Description
+
 The Spring Framework is the world's most popular open source framework for `Java` developers.
 Spring facilitates a dynamic framework for high productivity, modular and maintainable applications
 and system development.
@@ -49,6 +50,7 @@ Boot, and `Spring Cloud`.
 * gain practical knowledge of Spring Beans Exercises
 
 ## Outline
+
 <!-- chapter: refresher-introduction-to-the-spring-framework, duration: 4h -->
 * Refresher: Introduction to the Spring Framework
     * Course introduction
@@ -135,4 +137,5 @@ Boot, and `Spring Cloud`.
     * Service discovery exercise
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

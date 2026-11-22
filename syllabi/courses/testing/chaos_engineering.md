@@ -16,9 +16,11 @@ audience:
 # Chaos Engineering
 
 ## Description
+
 Chaos engineering is the discipline of experimenting on distributed systems to build confidence in their ability to withstand turbulent conditions in production. This course covers the principles and practices of chaos engineering, from foundational concepts to hands-on experience with tools like `Chaos Monkey`, `Litmus Chaos`, `Chaos Mesh`, and Gremlin. Participants will learn how to design and run chaos experiments, inject various types of failures, observe system behavior under stress, and integrate chaos practices into their development lifecycle.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
 * Drive organizational adoption of chaos engineering practices
 
 ## Outline
+
 <!-- chapter: chaos-engineering-principles, duration: 1h -->
 * Chaos Engineering Principles
     * What is chaos engineering and why it matters
@@ -154,4 +157,5 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
     * Communicating results and building confidence
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # `Jaeger` Distributed Tracing
 
 ## Description
+
 As microservice architectures grow in complexity, understanding the flow of a single request across dozens of services becomes a critical operational challenge. `Jaeger` is a battle-tested, open-source end-to-end distributed tracing system originally built by Uber and now hosted by the Cloud Native Computing Foundation. This course teaches participants how to deploy and operate `Jaeger`, instrument their applications using `OpenTelemetry`, and use the `Jaeger` UI to diagnose latency issues and understand service dependencies. Students will also learn advanced topics including sampling configuration, storage backend selection, and integration with `Prometheus` and `Grafana` to build a comprehensive observability stack.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ As microservice architectures grow in complexity, understanding the flow of a si
 * Integrate `Jaeger` with `Prometheus` and `Grafana` for unified observability dashboards
 
 ## Outline
+
 <!-- chapter: introduction-to-distributed-tracing, duration: 2h -->
 * Introduction to Distributed Tracing
     * Observability in microservice architectures
@@ -119,4 +122,5 @@ As microservice architectures grow in complexity, understanding the flow of a si
     * Building a unified observability workflow
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

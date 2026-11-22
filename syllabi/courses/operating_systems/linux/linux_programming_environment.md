@@ -17,9 +17,11 @@ audience:
 # `Linux` programming environment
 
 ## Description
+
 Course is intended for C/`C++` programmers who want to find their way in the `Linux` programming environment.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ Course is intended for C/`C++` programmers who want to find their way in the `Li
 * gain practical knowledge of libraries:
 
 ## Outline
+
 <!-- chapter: the-shell, duration: 2h -->
 * The shell:
     * Basic organization of the file system.
@@ -90,4 +93,5 @@ Course is intended for C/`C++` programmers who want to find their way in the `Li
 * The `Linux` kernel or user space (glibc?) APIs and their correct usage.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

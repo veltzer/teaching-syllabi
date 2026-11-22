@@ -15,9 +15,11 @@ audience:
 # Scrum
 
 ## Description
+
 This course provides a thorough introduction to the Scrum framework for `agile` software development. Students will learn Scrum roles, ceremonies, and artifacts, as well as practical skills in estimation, sprint planning, release planning, and scaling Scrum across teams and organizations.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ This course provides a thorough introduction to the Scrum framework for `agile` 
 * gain practical knowledge of Product Backlog and User Stories
 
 ## Outline
+
 <!-- chapter: agile-principles-scrum-overview, duration: 3h -->
 * Agile Principles & Scrum Overview
     * Agile Principles
@@ -96,4 +99,5 @@ This course provides a thorough introduction to the Scrum framework for `agile` 
     * Distributed Teams
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

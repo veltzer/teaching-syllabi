@@ -14,9 +14,11 @@ audience:
 # Solr 6 for Developers
 
 ## Description
+
 This course provides developers with a thorough understanding of `Apache Solr` 6, covering schema design, text analysis, data indexing, and advanced query techniques. Students will learn to build, configure, and optimize Solr-based search solutions, including faceting, highlighting, clustering, and SolrCloud deployment.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
 * gain practical knowledge of Mastering Text Analysis Methodologies
 
 ## Outline
+
 <!-- chapter: fundamentals-and-getting-started-with-solr-6, duration: 4h -->
 * Fundamentals and Getting Started with Solr 6
     * What is new in Solr 6
@@ -88,4 +91,5 @@ This course provides developers with a thorough understanding of `Apache Solr` 6
     * Performance statistics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

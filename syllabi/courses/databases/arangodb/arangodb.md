@@ -17,9 +17,11 @@ audience:
 # `ArangoDB`
 
 ## Description
+
 `ArangoDB` is a native multi-model database that supports document, key-value, and graph data models within a single engine, allowing teams to avoid the operational complexity of maintaining separate stores for different data access patterns. Using the expressive `AQL` (`ArangoDB` Query Language), developers can query and join across all three models in a single query. This course provides a deep and practical guide to `ArangoDB` — from its architecture and document store operations through advanced graph modeling, traversals, and shortest-path algorithms. Participants will also learn about indexing, multi-document transactions, cluster deployment, and performance monitoring, leaving them ready to design and operate `ArangoDB`-backed applications in production.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -47,9 +49,11 @@ audience:
 * Monitor cluster health and tune performance
 
 ## Exercises
+
 Hands-on labs using a local `ArangoDB` instance and the `arangosh` shell. Students will create databases and collections, import and query document datasets, build a social graph with vertex and edge collections, execute traversal queries to find relationships, implement shortest-path and k-nearest-neighbors queries, create persistent and `TTL` indexes, run multi-collection transactions, use `Foxx` `microservices` for server-side logic, and deploy a two-shard cluster with `Docker Compose`. Scenarios include social network analysis, product recommendation graphs, and supply chain tracking.
 
 ## Outline
+
 <!-- chapter: introduction-to-multi-model-databases, duration: 2h -->
 * Introduction to Multi-Model Databases
     * The proliferation of specialized databases and its costs
@@ -160,4 +164,5 @@ Hands-on labs using a local `ArangoDB` instance and the `arangosh` shell. Studen
     * Capacity planning and hardware recommendations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,9 +18,11 @@ audience:
 # `AWS` Developer
 
 ## Description
+
 This course is designed for developers who want to build and deploy applications on `AWS`. It covers the core developer services and serverless technologies that enable modern cloud-native application development. Participants will learn how to use `Lambda`, `DynamoDB`, `API Gateway`, infrastructure-as-code tools like SAM and CDK, messaging services, orchestration with `Step Functions`, and observability with `X-Ray`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course is designed for developers who want to build and deploy applications
 * Instrument and debug applications using `AWS X-Ray`.
 
 ## Outline
+
 <!-- chapter: introduction-to-aws-for-developers, duration: 2h -->
 * Introduction to `AWS` for Developers
     * `AWS` developer ecosystem overview
@@ -129,4 +132,5 @@ This course is designed for developers who want to build and deploy applications
     * Monitoring and operational excellence
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

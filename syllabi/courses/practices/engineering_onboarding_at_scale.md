@@ -17,6 +17,7 @@ audience:
 # Engineering Onboarding at Scale
 
 ## Description
+
 The catalog has `Effective Remote Engineering`, `Pair and Mob Programming`, and `Technical Leadership`,
 but does not cover the operational discipline of bringing new engineers up to productivity. Onboarding is
 the most leveraged investment a team can `make` and the most commonly under-engineered one. The cost of
@@ -34,6 +35,7 @@ the public engineering writing of Stripe, `GitLab`, Shopify, Atlassian, and `Mic
 Participants leave with the framework to build or rebuild their team's onboarding program.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ Participants leave with the framework to build or rebuild their team's onboardin
 * measure the onboarding feedback loop and act on it
 
 ## Outline
+
 <!-- chapter: what-onboarding-is-actually-for, duration: 1h -->
 * What onboarding is actually for
     * the goal as defined output, not "feeling welcome"
@@ -143,4 +146,5 @@ Participants leave with the framework to build or rebuild their team's onboardin
     * the relationship to retention
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

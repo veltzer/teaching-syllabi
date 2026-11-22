@@ -16,11 +16,13 @@ audience:
 # Development Methodologies from the professionals
 
 ## Description
+
 Ever wonder why there is one developer who can do the work of 5 others? What do they know that you don't?
 This one day course is all about those things that you don't want to hear but which will `make` you a better
 developer and your development environment more productive.
 
 ## Duration
+
 24 hours (1 day)
 
 ## Intended Audience
@@ -37,6 +39,7 @@ developer and your development environment more productive.
 * gain practical knowledge of Documentation
 
 ## Outline
+
 <!-- chapter: script-everything, duration: 1h -->
 * Script everything
     * This means even things you do once every year
@@ -177,4 +180,5 @@ developer and your development environment more productive.
     * Simplicity
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

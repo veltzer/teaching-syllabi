@@ -24,6 +24,7 @@ audience:
 coding agent can learn about a codebase, and how to choose and combine them.
 
 ## The Challenge
+
 An `AI` coding agent is only as good as the context it works with. Tools and vendors offer
 very different answers to how that context should be found: plain text search, retrieval
 over embeddings, hand-written documentation, or real language parsers. Each is promoted as
@@ -31,6 +32,7 @@ the solution, each has blind spots, and choosing the wrong one leads to agents t
 relevant code, drown in irrelevant code, or confidently follow outdated guidance.
 
 ## What This Session Covers
+
 A practical, technical comparison of text search, retrieval-augmented generation (`RAG`),
 documentation, and language parsers as sources of context for `AI` agents: how each one
 works, what it is good and bad at, what it costs to set up and maintain, and how they fit
@@ -57,8 +59,10 @@ together in a real development workflow.
 * Developers adopting `AI` coding assistants
 
 ## Continue the Journey
+
 This talk compares the approaches. A follow-on, hands-on workshop can measure them against
 the team's own codebase and set up the combination that fits it best.
 
 ## Speaker
+
 Mark Veltzer

@@ -14,9 +14,11 @@ audience:
 # Go Concurrency Deep Dive
 
 ## Description
+
 This course provides an in-depth exploration of Go's concurrency model, going well beyond the basics of goroutines and channels. Participants will master the context package, errgroup, synchronization primitives, and advanced concurrency patterns used in production Go systems. The course covers race detection, debugging concurrent code, and designing robust concurrent architectures including pipeline, fan-out/fan-in, and worker pool patterns. The course includes hands on exercises.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course provides an in-depth exploration of Go's concurrency model, going we
 * Design and build concurrent data pipelines
 
 ## Outline
+
 <!-- chapter: goroutines-in-depth, duration: 1h -->
 * Goroutines in Depth
     * The Go scheduler and GOMAXPROCS
@@ -105,4 +108,5 @@ This course provides an in-depth exploration of Go's concurrency model, going we
     * Bridge channel pattern
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

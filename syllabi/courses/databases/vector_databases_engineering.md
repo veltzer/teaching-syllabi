@@ -21,6 +21,7 @@ audience:
 # Vector Databases Engineering
 
 ## Description
+
 The catalog has a `vector_databases` directory of tool-specific overviews. This course is the engineering
 companion: how vector search actually works, how to engineer it for production, and how to operate it at
 scale. It is the course you wish you had read before shipping your `RAG` prototype.
@@ -34,6 +35,7 @@ recommendation, and deduplication systems. Participants leave able to design, sh
 production vector-search system.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ production vector-search system.
 * avoid the most common production vector-search mistakes
 
 ## Outline
+
 <!-- chapter: embeddings-and-similarity-fundamentals, duration: 3h -->
 * Embeddings and similarity fundamentals
     * what an embedding actually represents
@@ -173,4 +176,5 @@ production vector-search system.
     * recommended reading: `Faiss` papers, `HNSW` paper, vector-database engineering blogs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

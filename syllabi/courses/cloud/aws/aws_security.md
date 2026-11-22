@@ -19,9 +19,11 @@ audience:
 # `AWS` Security
 
 ## Description
+
 This course provides a comprehensive deep dive into securing workloads on `AWS`. It covers identity and access management, threat detection, data protection, network security, and compliance automation. Students will learn how to design and implement a robust security posture on `AWS` using native services and best practices, and how to respond effectively to security incidents in cloud environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides a comprehensive deep dive into securing workloads on `AWS`.
 * Plan and execute incident response procedures on `AWS`.
 
 ## Outline
+
 <!-- chapter: identity-and-access-management-deep-dive, duration: 3h -->
 * Identity and Access Management Deep Dive
     * `IAM` users, groups, and roles
@@ -107,4 +110,5 @@ This course provides a comprehensive deep dive into securing workloads on `AWS`.
     * `AWS` support and abuse reporting
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

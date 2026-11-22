@@ -15,9 +15,11 @@ audience:
 # C Programming
 
 ## Description
+
 C is and has been for years the world's best language for low level, systems and embedded programming. This course covers this language and teaches how to program in it.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ C is and has been for years the world's best language for low level, systems and
 * gain practical knowledge of Control Flow
 
 ## Outline
+
 <!-- chapter: introduction-to-c, duration: 2h -->
 * Introduction to C
     * History and importance of C
@@ -139,4 +142,5 @@ C is and has been for years the world's best language for low level, systems and
     * Common C programming pitfalls
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

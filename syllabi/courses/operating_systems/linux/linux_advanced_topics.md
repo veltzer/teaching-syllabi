@@ -18,6 +18,7 @@ audience:
 # `Linux` Advanced Topics
 
 ## Description
+
 This seminar deals with several `Linux` topics:
 advanced APIs (zero copy, multiplexing, io_uring and more)
 locking (or the avoidance of it)
@@ -26,6 +27,7 @@ advanced APIs for segregation
 IO advanced APIs
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ IO advanced APIs
 * gain practical knowledge of advanced synchronization topics:
 
 ## Outline
+
 <!-- chapter: the-io-layer-and-it-s-lies, duration: 1h -->
 * the IO layer and it's lies.
     * flush, sync and batteries.
@@ -85,4 +88,5 @@ IO advanced APIs
     * vmsplice
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

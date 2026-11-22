@@ -16,10 +16,12 @@ audience:
 # `Assembly` programming using gas
 
 ## Description
+
 This comprehensive course on `Assembly` Programming on `Linux` using GAS (GNU Assembler) offers a deep dive into the world of low-level programming. Designed for both beginners and those with some programming experience,
 the course takes students on a journey from the fundamentals of `assembly` language to advanced topics in system-level programming. Starting with an introduction to `assembly` concepts and the `x86`/`x86`-64 architectures, learners will quickly progress to writing and debugging their first `assembly` programs. The curriculum covers crucial areas such as data manipulation, arithmetic operations, control flow, and memory management, all within the context of the `Linux` operating system. Students will have gained practical experience in writing efficient `assembly` code, interfacing with C programs, and leveraging advanced features like SIMD instructions. With a strong emphasis on hands-on projects and real-world applications, this course equips participants with the skills needed to optimize performance-critical code, understand system internals, and even venture into areas like reverse engineering and low-level security analysis.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ the course takes students on a journey from the fundamentals of `assembly` langu
 * gain practical knowledge of Basic `Assembly` Concepts
 
 ## Outline
+
 <!-- chapter: introduction-to-assembly-language, duration: 1h -->
 * Introduction to `Assembly` Language
     * What is `assembly` language?
@@ -135,4 +138,5 @@ the course takes students on a journey from the fundamentals of `assembly` langu
     * Emerging architectures and instruction sets
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

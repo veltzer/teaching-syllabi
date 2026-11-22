@@ -14,9 +14,11 @@ audience:
 # `PHP` Programming
 
 ## Description
+
 `PHP` is one of the most widely used server-side programming languages, powering a large portion of the web. Modern `PHP` (8.x) is a significantly improved language with strong typing features, attributes, fibers, and a rich ecosystem. This course covers `PHP` from fundamentals through modern best practices, including object-oriented programming, the composer ecosystem, and integration with web frameworks.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -36,6 +38,7 @@ audience:
 * Interact with databases from `PHP`
 
 ## Outline
+
 <!-- chapter: introduction-to-php, duration: 2h -->
 * Introduction to `PHP`
     * History and evolution of `PHP`
@@ -141,4 +144,5 @@ audience:
     * Test-driven development
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -20,6 +20,7 @@ audience:
 # `Web3` and Blockchain Security
 
 ## Description
+
 Smart contracts deploy code that holds money to a public, immutable, adversarial environment, and most of them
 do it badly. The history of `Web3` is mostly the history of avoidable bugs causing nine-figure losses. The
 security skills required to ship safe smart contracts and to audit other people's smart contracts are
@@ -35,6 +36,7 @@ from public audit reports, post-mortem analyses of major exploits, and the audit
 non-`EVM` systems where it matters.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ non-`EVM` systems where it matters.
 * contribute to the bug-bounty ecosystem responsibly
 
 ## Outline
+
 <!-- chapter: the-smart-contract-threat-model, duration: 2h -->
 * The smart contract threat model
     * what makes smart contracts different from web apps
@@ -201,4 +204,5 @@ non-`EVM` systems where it matters.
     * recommended reading: `Mastering Ethereum`, public `Trail of Bits` reports
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

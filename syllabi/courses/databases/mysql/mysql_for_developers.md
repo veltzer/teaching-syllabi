@@ -15,9 +15,11 @@ audience:
 # `MySQL` for Developers
 
 ## Description
+
 This course provides developers with comprehensive training on `MySQL`, one of the world's most popular relational database management systems. Participants will learn how to write efficient queries, design performant schemas, and leverage advanced `MySQL` features such as `JSON` support, stored procedures, triggers, and views. The course also covers indexing strategies, transactions, replication basics, and performance tuning techniques essential for building production-grade applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides developers with comprehensive training on `MySQL`, one of t
 * Apply best practices for schema design and query optimization
 
 ## Outline
+
 <!-- chapter: introduction-to-mysql-architecture, duration: 2h -->
 * Introduction to `MySQL` Architecture
     * `MySQL` server architecture overview
@@ -155,4 +158,5 @@ This course provides developers with comprehensive training on `MySQL`, one of t
     * Monitoring tools and metrics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

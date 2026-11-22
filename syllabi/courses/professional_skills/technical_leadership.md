@@ -18,6 +18,7 @@ audience:
 # Technical Leadership
 
 ## Description
+
 Technical leadership is what happens after you stop being measured purely on the code you ship. The staff and
 principal engineer roles, the tech lead role, and the architect role all require a different set of skills:
 shaping technical strategy, influencing without authority, making decisions that span multiple teams,
@@ -32,6 +33,7 @@ in the work of `Will Larson`, `Tanya Reilly`, `Camille Fournier` and the public 
 high-functioning organizations.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ high-functioning organizations.
 * build the credibility that makes the `rest` possible
 
 ## Outline
+
 <!-- chapter: what-technical-leadership-actually-is, duration: 2h -->
 * What technical leadership actually is
     * the difference between management and technical leadership
@@ -180,4 +183,5 @@ high-functioning organizations.
     * recommended reading: `Larson`, Reilly, Fournier, `Hoover/Oshineye`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -19,6 +19,7 @@ audience:
 # Embedded Systems Security
 
 ## Description
+
 Embedded systems are increasingly attractive targets, increasingly connected, and increasingly subject to
 regulation that did not exist a decade ago. The security techniques that work for cloud workloads do not
 transfer cleanly: there is no `WAF` in front of a thermostat, no centralized identity provider for a fleet
@@ -34,6 +35,7 @@ leave able to design and ship embedded systems with a coherent security story ra
 unrelated mitigations.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ unrelated mitigations.
 * respond to a deployed-fleet security incident
 
 ## Outline
+
 <!-- chapter: the-embedded-threat-model, duration: 2h -->
 * The embedded threat model
     * the attacker has the hardware
@@ -178,4 +181,5 @@ unrelated mitigations.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

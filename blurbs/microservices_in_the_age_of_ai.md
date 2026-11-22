@@ -25,6 +25,7 @@ microservices - what they make easier, what they make harder, and how to design 
 that both people and agents can work with.
 
 ## The Challenge
+
 `Microservices` were adopted to let many teams build and deploy independently, at the price of
 distributed-systems complexity. `AI` coding agents shift that trade-off in both directions.
 A small, well-bounded service fits neatly into an agent's context, while a change that cuts
@@ -33,6 +34,7 @@ teams leave much of the value of `AI` on the table - and some of the old reasons
 a system no longer apply.
 
 ## What This Session Covers
+
 A practical, technical look at microservice architecture when much of the code is written,
 tested, and operated with the help of `AI` agents: service boundaries as context boundaries,
 contracts as the agent's interface, cross-service changes, testing and operations, and a fresh
@@ -60,8 +62,10 @@ look at the monolith-versus-microservices decision.
 * Developers building or maintaining microservice systems
 
 ## Continue the Journey
+
 This talk examines the architecture. A follow-on, hands-on workshop can review the team's own
 services, contracts, and workflows and adapt them for effective work with `AI` agents.
 
 ## Speaker
+
 Mark Veltzer

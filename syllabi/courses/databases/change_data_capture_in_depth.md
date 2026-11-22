@@ -18,6 +18,7 @@ audience:
 # Change Data Capture in Depth
 
 ## Description
+
 Change Data Capture (`CDC`) is the discipline of turning a database's change history into a stream that
 other systems can consume. It is what powers most modern data integration: data lakes hydrated from
 operational databases, search indexes that stay in sync, caches that invalidate themselves, microservice
@@ -34,6 +35,7 @@ schema-skew), and the data-governance story. Participants leave able to choose a
 the consumer side correctly, and operate a `CDC` pipeline that does not break the source database.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
 * compare `CDC` to `event sourcing`
 
 ## Outline
+
 <!-- chapter: what-cdc-is-and-what-it-is-not, duration: 1h -->
 * What `CDC` is and what it is not
     * the change log as a primary source
@@ -152,4 +155,5 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
     * audit and lineage
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

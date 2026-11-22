@@ -15,6 +15,7 @@ audience:
 # Zephyr RTOS
 
 ## Description
+
 Zephyr is a scalable, open-source real-time operating system designed for
 resource-constrained devices. This course provides a thorough exploration of the Zephyr
 RTOS, from its build system and kernel fundamentals to advanced topics such as networking,
@@ -22,6 +23,7 @@ security, and porting to new hardware. Students will gain the skills needed to d
 test, and debug embedded applications on Zephyr-supported platforms.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ test, and debug embedded applications on Zephyr-supported platforms.
 * gain practical knowledge of device drivers and networking in Zephyr
 
 ## Outline
+
 <!-- chapter: zephyr-overview-and-architecture, duration: 2h -->
 * Zephyr Overview and Architecture
     * What is Zephyr RTOS
@@ -137,4 +140,5 @@ test, and debug embedded applications on Zephyr-supported platforms.
     * Writing board-specific code
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

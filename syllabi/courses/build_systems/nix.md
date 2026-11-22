@@ -18,6 +18,7 @@ audience:
 # `Nix`
 
 ## Description
+
 `Nix` is a purely functional package manager and build system that guarantees reproducible, declarative, and
 reliable software environments across development, staging, and production. This advanced course teaches
 participants the `Nix` expression language, the `Nix` store model, and the derivation-based build system,
@@ -26,6 +27,7 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 `Nix`-based builds into `CI/CD` pipelines and container workflows.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 * Build and deploy software inside containers using `Nix`.
 
 ## Outline
+
 <!-- chapter: introduction-to-nix, duration: 2h -->
 * Introduction to `Nix` and Reproducible Builds:
     * The reproducibility problem in software engineering.
@@ -126,4 +129,5 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
     * `OCI` image standards and multi-architecture builds.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

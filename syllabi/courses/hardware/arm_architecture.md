@@ -15,12 +15,14 @@ audience:
 # `ARM` Architecture
 
 ## Description
+
 This course provides a comprehensive exploration of the `ARM` architecture, from the instruction
 set and register model through memory management, security extensions, and bare-metal programming.
 Students will work with both Cortex-M microcontrollers and Cortex-A application processors,
 gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and the boot process.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
 * gain practical knowledge of bare-metal programming and debugging on `ARM` targets
 
 ## Outline
+
 <!-- chapter: arm-architecture-overview, duration: 2h -->
 * `ARM` Architecture Overview
     * History and evolution of `ARM`
@@ -150,4 +153,5 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
     * CMSIS-Pack and software distribution
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

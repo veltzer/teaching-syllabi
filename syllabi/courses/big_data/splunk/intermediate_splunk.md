@@ -16,11 +16,13 @@ audience:
 # Intermediate `Splunk`
 
 ## Description
+
 This course is intended for `Splunk` users who would like to understand `Splunk` better.
 It does with some of the more advanced features of `Splunk` and is intended for users who use
 `Splunk` regularly.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ It does with some of the more advanced features of `Splunk` and is intended for 
 * Learn about data models.
 
 ## Outline
+
 <!-- chapter: course-introduction, duration: 1h -->
 * Course Introduction
 <!-- chapter: beyond-search-fundamentals, duration: 1h -->
@@ -71,4 +74,5 @@ It does with some of the more advanced features of `Splunk` and is intended for 
 * DevelopIntelligence/*
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

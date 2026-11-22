@@ -19,6 +19,7 @@ audience:
 # `Terraform` / Infrastructure as Code
 
 ## Description
+
 This course provides a comprehensive introduction to `Terraform` and the Infrastructure as Code
 (IaC) paradigm. Participants will learn how to define, provision, and manage cloud infrastructure
 using `Terraform`'s declarative configuration language (HCL). The course covers providers,
@@ -30,6 +31,7 @@ This course is practical and cloud-agnostic in its approach, though examples wil
 attending.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ attending.
 * gain practical knowledge of Terragrunt and advanced deployment patterns
 
 ## Outline
+
 <!-- chapter: introduction-to-infrastructure-as-code, duration: 1h -->
 * Introduction to Infrastructure as Code
     * What is Infrastructure as Code and why it matters
@@ -165,4 +168,5 @@ attending.
     * Cost management and resource lifecycle
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

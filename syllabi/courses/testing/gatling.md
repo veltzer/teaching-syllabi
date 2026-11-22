@@ -17,9 +17,11 @@ audience:
 # `Gatling`
 
 ## Description
+
 This course covers `Gatling`, a powerful open-source load testing tool built on `Scala` and the Akka actor model, designed for high-concurrency simulation at scale. Students will learn to structure realistic simulations, configure the `HTTP` protocol, model user behaviour with scenarios and feeders, and validate results with assertions and automated reports. Advanced topics include request chaining, session variables, dynamic data injection, distributed testing, and the managed `Gatling Enterprise` platform. Participants will gain practical skills to run production-grade performance tests and integrate them into `continuous delivery` workflows.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 * Integrate `Gatling` into `CI/CD` pipelines with failure gates
 
 ## Outline
+
 <!-- chapter: introduction-to-gatling, duration: 1h -->
 * Introduction to `Gatling`
     * Why `Gatling`: reactive architecture and non-blocking `I/O`
@@ -129,4 +132,5 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
     * Scheduling regular regression performance tests
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

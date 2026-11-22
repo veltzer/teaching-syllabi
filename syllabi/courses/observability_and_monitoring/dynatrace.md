@@ -17,9 +17,11 @@ audience:
 # `Dynatrace`
 
 ## Description
+
 `Dynatrace` is an `AI`-powered, full-stack observability and application performance management platform that provides automatic and intelligent monitoring across cloud-native, on-premise, and hybrid environments. By deploying a single `OneAgent`, organizations gain end-to-end visibility into applications, infrastructure, user experience, and business metrics without manual instrumentation or configuration effort. This course provides comprehensive coverage of the `Dynatrace` platform, from initial deployment to advanced use cases including `AI`-assisted anomaly detection with `Davis AI`, synthetic monitoring, log analytics, and `Kubernetes` observability with `DynaKube`. Participants will develop the skills to operate `Dynatrace` as an enterprise observability platform and leverage its automation and intelligence features to reduce mean time to resolution.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ audience:
 * Monitor `Kubernetes` clusters with `DynaKube` and cloud-native observability
 
 ## Outline
+
 <!-- chapter: introduction-to-dynatrace, duration: 2h -->
 * Introduction to `Dynatrace`
     * The evolution from APM to full-stack observability
@@ -154,4 +157,5 @@ audience:
     * `Istio` and service mesh observability
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

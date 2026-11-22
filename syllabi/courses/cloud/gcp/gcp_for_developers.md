@@ -16,9 +16,11 @@ audience:
 # `GCP` for Developers
 
 ## Description
+
 This course teaches developers how to build, deploy, and manage applications on the `Google Cloud Platform`. It covers key developer-facing services including `Cloud Run`, `Cloud Functions`, `Firestore`, Pub/Sub, `Cloud Build`, and `BigQuery`. Participants will gain practical experience with serverless computing, `NoSQL` data storage, event-driven messaging, `CI/CD` pipelines, and data analytics on `GCP`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course teaches developers how to build, deploy, and manage applications on 
 * Run analytical queries on large datasets with `BigQuery`.
 
 ## Outline
+
 <!-- chapter: introduction-to-gcp-for-developers, duration: 2h -->
 * Introduction to `GCP` for Developers
     * `GCP` developer ecosystem overview
@@ -105,4 +108,5 @@ This course teaches developers how to build, deploy, and manage applications on 
     * Monitoring and logging with Cloud Operations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,6 +17,7 @@ audience:
 # Diffusion Models
 
 ## Description
+
 Diffusion models have rapidly become the dominant paradigm in generative `AI`, powering breakthrough
 systems such as `Stable Diffusion`, `DALL-E`, and Sora. This course provides a thorough treatment
 of the mathematics, architectures, and practical engineering of diffusion models, from the original
@@ -28,6 +29,7 @@ video and audio generation, and addresses the important ethical, safety, and int
 considerations that practitioners must navigate when deploying generative systems.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ considerations that practitioners must navigate when deploying generative system
 * Reason about the safety, ethical, and copyright implications of generative `AI` systems.
 
 ## Outline
+
 <!-- chapter: introduction-to-generative-models, duration: 2h -->
 * Introduction to Generative Models
     * The generative modelling landscape: VAEs, GANs, normalising flows, and diffusion
@@ -135,4 +138,5 @@ considerations that practitioners must navigate when deploying generative system
     * Responsible deployment: content policies and governance frameworks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

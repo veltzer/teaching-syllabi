@@ -16,9 +16,11 @@ audience:
 # `API` Design Best Practices
 
 ## Description
+
 This course covers the principles and best practices for designing robust, scalable, and developer-friendly APIs. Participants will learn how to design `REST` APIs that are intuitive, consistent, and maintainable, covering topics from URL structure and versioning to authentication, error handling, and `API` governance. The course emphasizes practical patterns used in production systems and prepares participants to build APIs that stand the test of time.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course covers the principles and best practices for designing robust, scala
 * Establish `API` governance practices and deprecation strategies
 
 ## Outline
+
 <!-- chapter: api-design-principles, duration: 1h -->
 * `API` Design Principles
     * What makes a good `API`
@@ -130,4 +133,5 @@ This course covers the principles and best practices for designing robust, scala
     * Organizational standards and consistency
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

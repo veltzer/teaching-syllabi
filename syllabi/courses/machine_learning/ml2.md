@@ -15,6 +15,7 @@ audience:
 ## Description
 
 ## Duration
+
 56 hours / 7 days
 
 ## Intended Audience
@@ -35,6 +36,7 @@ audience:
 * gain practical knowledge of `Deep learning` basics
 
 ## Outline
+
 <!-- chapter: basics-and-supervised-learning, duration: 13h -->
 * Basics and supervised learning
     * Intro to `ML`
@@ -96,4 +98,5 @@ audience:
     * Tips and tricks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

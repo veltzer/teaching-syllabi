@@ -17,9 +17,11 @@ audience:
 # Designing Relational Databases
 
 ## Description
+
 Relational database design is the foundation of effective data management and application development. This course covers essential principles, methodologies, and best practices for designing robust, scalable, and maintainable relational database systems using proper normalization techniques and Entity-Relationship modeling.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -57,6 +59,7 @@ Relational database design is the foundation of effective data management and ap
 * Document database schemas and maintain design integrity over time
 
 ## Outline
+
 <!-- chapter: introduction-to-database-design-principles, duration: 1h -->
 * Introduction to Database Design Principles
     * Overview of relational database theory and ACID properties
@@ -128,4 +131,5 @@ Relational database design is the foundation of effective data management and ap
     * Compliance requirements (`GDPR`, `HIPAA`) impact on design
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

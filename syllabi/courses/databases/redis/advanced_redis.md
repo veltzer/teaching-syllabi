@@ -17,9 +17,11 @@ audience:
 # Advanced `Redis`
 
 ## Description
+
 This advanced course dives deep into `Redis` features and operational patterns for engineers who already have foundational `Redis` knowledge. Participants will master `Redis` clustering, `Redis Streams` for event-driven architectures, `Lua` scripting for atomic operations, and advanced pub/sub patterns. The course also covers persistence strategies, `Redis Sentinel` for high availability, custom modules, memory optimization techniques, and security hardening for production deployments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ This advanced course dives deep into `Redis` features and operational patterns f
 * Optimize memory usage and apply security best practices
 
 ## Outline
+
 <!-- chapter: redis-clustering, duration: 2h -->
 * `Redis` Clustering
     * Cluster architecture and hash slots
@@ -153,4 +156,5 @@ This advanced course dives deep into `Redis` features and operational patterns f
     * Securing `Redis` in production environments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,11 +16,13 @@ audience:
 # `Git`
 
 ## Description
+
 `Git` is the de-facto standard source control system for the tech industry and is one of the most flexible software tools to be found. Any developer or devops person probably needs at least a basic understanding of `Git` to get going and this course is intended for that purpose.
 This course covers all of the fundamental operations an experienced coder would use on a daily basis. The course begins with an introduction to `Git` and a comparison of `Git` to other version control systems. It then transitions into the nuts-and-bolts of working with `Git`, including everything from setting up a repository to advanced topics like branching and merging.
 Because the industry sometimes misuses `git` this course is also focuses on clearing up muddled understanding of `git`: the staging area, merge vs rebase, history management, branching and more
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 * Decide on which workflows to use when using `Git`
 
 ## Outline
+
 <!-- chapter: introduction-to-git, duration: 1h -->
 * Introduction to `Git`
     * History of `Git`
@@ -251,4 +254,5 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 -->
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

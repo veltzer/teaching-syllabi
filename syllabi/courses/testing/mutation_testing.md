@@ -17,9 +17,11 @@ audience:
 # Mutation Testing
 
 ## Description
+
 This course introduces mutation testing, a powerful technique for evaluating the quality and effectiveness of an existing test suite by deliberately introducing small faults into the source code and checking whether tests detect them. Students will learn how mutation operators work, how to use `PIT (Pitest)` for `Java` projects and `mutmut` for `Python` projects, and how to interpret mutation scores to identify gaps in test coverage. The course goes beyond measuring quality to guiding improvements: participants will practice strengthening tests based on surviving mutants. Cost management and `CI/CD` integration strategies ensure the technique remains practical at scale.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course introduces mutation testing, a powerful technique for evaluating the
 * Integrate mutation testing into a `CI/CD` pipeline with appropriate thresholds
 
 ## Outline
+
 <!-- chapter: introduction-to-mutation-testing, duration: 1h -->
 * Introduction to Mutation Testing
     * What mutation testing is and where it came from
@@ -106,4 +109,5 @@ This course introduces mutation testing, a powerful technique for evaluating the
     * Balancing thoroughness with feedback cycle speed
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

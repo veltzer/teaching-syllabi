@@ -16,6 +16,7 @@ audience:
 # `Earthly`
 
 ## Description
+
 This course covers `Earthly`, a build automation tool that combines the best of `Dockerfile`
 and `Makefile` syntax to create reproducible, containerized build pipelines. Participants will
 learn how to write Earthfiles, manage artifacts and images, leverage caching, handle
@@ -23,6 +24,7 @@ multi-platform builds, and integrate `Earthly` with existing CI systems. The cou
 compares `Earthly` with alternative build tools and approaches.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -45,6 +47,7 @@ compares `Earthly` with alternative build tools and approaches.
 * integrate `Earthly` into existing CI systems.
 
 ## Outline
+
 <!-- chapter: earthly-overview, duration: 1h -->
 * `Earthly` overview
     * what is `Earthly`
@@ -131,4 +134,5 @@ compares `Earthly` with alternative build tools and approaches.
     * build reproducibility troubleshooting
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

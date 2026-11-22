@@ -16,11 +16,13 @@ audience:
 # `PostgreSQL` Administration
 
 ## Description
+
 This course provides comprehensive training in `PostgreSQL` database administration, covering everything from initial installation and configuration through advanced topics like replication, high availability, and performance tuning. Participants will gain the skills needed to deploy, manage, monitor, and optimize `PostgreSQL` in production environments.
 
 The course emphasizes practical, hands-on experience with real-world administrative scenarios, preparing DBAs and system administrators to maintain reliable, secure, and performant `PostgreSQL` deployments.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,9 +52,11 @@ The course emphasizes practical, hands-on experience with real-world administrat
 * Plan and execute version upgrades
 
 ## Exercises
+
 Hands-on lab exercises covering installation, configuration, backup and recovery, replication setup, monitoring, and performance tuning. Students will configure `postgresql`.conf and pg_hba.conf, perform point-in-time recovery, set up streaming replication, configure monitoring dashboards, analyze and resolve performance bottlenecks, and implement security hardening. Exercises simulate realistic production scenarios and failure conditions.
 
 ## Outline
+
 <!-- chapter: installation-and-configuration, duration: 2h -->
 * Installation and Configuration
     * Installing `PostgreSQL` on `Linux` and other platforms
@@ -191,4 +195,5 @@ Hands-on lab exercises covering installation, configuration, backup and recovery
     * Creating custom extensions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

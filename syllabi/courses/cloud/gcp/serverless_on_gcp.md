@@ -15,6 +15,7 @@ audience:
 # Serverless on `GCP`
 
 ## Description
+
 This course covers the full range of serverless computing options available on `Google Cloud Platform`.
 Participants will learn how to build, deploy, and manage serverless applications using `Cloud Functions`,
 `Cloud Run`, and `App Engine`, along with supporting services such as Eventarc, `Cloud Tasks`, and
@@ -22,6 +23,7 @@ Participants will learn how to build, deploy, and manage serverless applications
 monitoring, and cost optimization strategies for serverless workloads.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ monitoring, and cost optimization strategies for serverless workloads.
 * implement security, monitoring, and cost optimization for serverless applications.
 
 ## Outline
+
 <!-- chapter: serverless-concepts-on-gcp, duration: 2h -->
 * Serverless concepts on `GCP`
     * what is serverless computing
@@ -117,4 +120,5 @@ monitoring, and cost optimization strategies for serverless workloads.
     * migration paths between services
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

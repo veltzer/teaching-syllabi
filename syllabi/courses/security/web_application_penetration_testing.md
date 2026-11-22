@@ -17,11 +17,13 @@ audience:
 # Web Application Penetration Testing
 
 ## Description
+
 This advanced course provides hands-on training in web application penetration testing, covering the full pentesting lifecycle from reconnaissance through exploitation and reporting. Participants will learn to use industry-standard tools such as `Burp Suite` and `OWASP ZAP` to identify and exploit common web application vulnerabilities. The course follows the `OWASP` Testing Guide methodology and emphasizes responsible disclosure practices.
 
 The course covers both manual and automated testing techniques, equipping participants with the skills needed to assess the security posture of modern web applications and APIs.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ The course covers both manual and automated testing techniques, equipping partic
 * Practice responsible disclosure procedures
 
 ## Outline
+
 <!-- chapter: pentesting-methodology, duration: 2h -->
 * Pentesting Methodology
     * Penetration testing standards and frameworks
@@ -151,4 +154,5 @@ The course covers both manual and automated testing techniques, equipping partic
     * Communication with stakeholders
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

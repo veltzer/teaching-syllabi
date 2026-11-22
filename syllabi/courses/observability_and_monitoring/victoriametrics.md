@@ -17,9 +17,11 @@ audience:
 # `VictoriaMetrics`
 
 ## Description
+
 `VictoriaMetrics` is a high-performance, cost-efficient, and scalable time-series database that serves as a long-term storage and query engine for `Prometheus`-compatible metrics. Purpose-built for high-cardinality workloads, `VictoriaMetrics` delivers significantly better resource utilization than `Prometheus` alone, making it suitable for large-scale production environments. This course covers the full lifecycle of operating `VictoriaMetrics`, from installation and data ingestion to advanced querying with `MetricsQL`, cluster deployments, and integration with `Grafana`. Participants will gain the knowledge to migrate from `Prometheus` to `VictoriaMetrics` and to build robust, scalable metrics pipelines.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ audience:
 * Build `Grafana` dashboards backed by `VictoriaMetrics`
 
 ## Outline
+
 <!-- chapter: introduction-to-victoriametrics, duration: 1h -->
 * Introduction to `VictoriaMetrics`
     * Limitations of `Prometheus` at scale
@@ -130,4 +133,5 @@ audience:
     * Best practices for dashboard performance with large datasets
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

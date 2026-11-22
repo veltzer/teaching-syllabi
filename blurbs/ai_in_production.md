@@ -28,6 +28,7 @@ audience:
 real users: measured, guarded, observable, and affordable.
 
 ## The Challenge
+
 An `AI` demo takes an afternoon; an `AI` feature that survives production takes engineering.
 The model's output is non-deterministic, its failures look like plausible answers rather than
 stack traces, its bill grows with every request, and the provider can change its behavior
@@ -35,6 +36,7 @@ under you. Teams that ship the demo as-is discover these properties from their u
 invoice, or their security team - after release instead of before it.
 
 ## What This Session Covers
+
 A practical, technical walk through the engineering that separates a prototype from a
 production `AI` system: how to evaluate output you cannot predict, how to contain a component
 that can be talked into misbehaving, how to see what it is doing, and how to keep it fast,
@@ -64,8 +66,10 @@ affordable, and stable as models and prompts change.
 * Site reliability engineers operating them
 
 ## Continue the Journey
+
 This talk maps the territory. A follow-on, hands-on workshop can take one of the team's own
 `AI` features and put an evaluation suite, guardrails, tracing, and a rollout plan around it.
 
 ## Speaker
+
 Mark Veltzer

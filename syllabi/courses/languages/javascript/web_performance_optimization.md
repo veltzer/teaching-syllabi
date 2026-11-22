@@ -17,9 +17,11 @@ audience:
 # Web Performance Optimization
 
 ## Description
+
 This course provides a comprehensive guide to measuring, analyzing, and improving web application performance. Participants will learn how to optimize Core Web Vitals, leverage browser rendering efficiently, implement lazy loading and code splitting, optimize assets, and establish performance budgets. The course covers both the theory behind web performance and practical tools and techniques for achieving fast, responsive web experiences.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides a comprehensive guide to measuring, analyzing, and improvin
 * Establish and enforce performance budgets.
 
 ## Outline
+
 <!-- chapter: core-web-vitals, duration: 1h -->
 * Core Web Vitals
     * Largest Contentful Paint (LCP)
@@ -114,4 +117,5 @@ This course provides a comprehensive guide to measuring, analyzing, and improvin
     * Performance culture and team practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

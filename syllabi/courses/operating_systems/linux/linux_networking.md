@@ -19,6 +19,7 @@ audience:
 # `Linux` networking
 
 ## Description
+
 `Linux` is the premiere operation system used in today's tech world and it's networking support is extensive.
 There are many tasks to be done in administering and configuring `Linux` networking: setting up device drivers,
 tuning them, bonding, bridging, load balancing, firewalling and much more.
@@ -27,6 +28,7 @@ This course is for those who wish to understand the `Linux` networking stack fro
 administration levels.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ administration levels.
 * gain practical knowledge of Command line and information about the network stack in real time
 
 ## Outline
+
 <!-- chapter: networking-for-programmers, duration: 2h -->
 * Networking for programmers
     * Introduction to `TCP`/`IP`
@@ -134,4 +137,5 @@ administration levels.
 * [vj_channels](http://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

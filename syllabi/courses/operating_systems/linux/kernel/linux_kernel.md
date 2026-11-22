@@ -18,6 +18,7 @@ audience:
 # `Linux` Kernel
 
 ## Description
+
 This `Linux` kernel is now the most widely used operating system on the planet and many development
 teams need to know how to add device support to it, understand it's performance characteristics,
 tune it, compile it, reduce it's size, provide board support for it, develop platforms based on it,
@@ -30,6 +31,7 @@ No kernel prior knowledge is required but knowledge of `Linux` user space `API` 
 required.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ required.
 * gain practical knowledge of Compiling
 
 ## Outline
+
 <!-- chapter: linux-kernel-introduction, duration: 2h -->
 * `Linux` Kernel Introduction
     * System and kernel overview
@@ -213,4 +216,5 @@ required.
 * The machine should have at least 15GB free disk space.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

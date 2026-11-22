@@ -15,6 +15,7 @@ audience:
 # Advanced `Python`
 
 ## Description
+
 Advanced `Python` is a course intended for people who are working with `Python` as a primary
 programming language, and not just as an integration language. The course dwells on
 such topics are the correct use of the data structures, standard libraries, functional
@@ -30,6 +31,7 @@ The syllabus for this course is intended so that it will be customized to specif
 and for that there is a time marking on each chapter.
 
 ## Duration
+
 56 hours / 7 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ and for that there is a time marking on each chapter.
 * Integrate `Python` with C code.
 
 ## Outline
+
 <!-- chapter: python-refresher, duration: 1h -->
 * `Python` refresher (2 hours)
     * `Python` basic types
@@ -221,6 +224,7 @@ and for that there is a time marking on each chapter.
     * Locking
 
 ## Installations
+
 Each student should have:
 
 * An `Ubuntu` 24:04 machine, real or virtual
@@ -231,4 +235,5 @@ Each student should have:
 * Users who want to exercise on `Windows` or on `MacOS` are welcome to do so and I will help them to fix issues but a minority of the more advanced exercises may not work on those machine.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

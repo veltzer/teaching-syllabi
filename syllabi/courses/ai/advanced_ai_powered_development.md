@@ -22,6 +22,7 @@ audience:
 # Advanced `AI`-Powered Development
 
 ## Description
+
 `AI`-powered development has rapidly evolved beyond simple code completion into a rich ecosystem of
 agents, tools, skills, `MCP` servers, `RAG` pipelines, and autonomous coding workflows. Modern developers
 must understand how to harness these capabilities to work effectively with large codebases, monoliths,
@@ -37,6 +38,7 @@ All topics reflect the state of the art as of early 2026, covering the latest to
 patterns that are actively used in production environments.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -68,6 +70,7 @@ patterns that are actively used in production environments.
 * Build custom agents for specialized development tasks
 
 ## Outline
+
 <!-- chapter: the-modern-ai-development-landscape, duration: 2h -->
 * The Modern `AI` Development Landscape
     * Evolution from code completion to agentic development
@@ -320,4 +323,5 @@ patterns that are actively used in production environments.
         * Building internal `AI` development platforms
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

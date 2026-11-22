@@ -15,11 +15,13 @@ audience:
 # `ClickHouse` for Developers
 
 ## Description
+
 This course provides comprehensive training in `ClickHouse`, a high-performance column-oriented database for online analytical processing (OLAP). Participants will learn how to design schemas, write efficient queries, optimize performance, and integrate `ClickHouse` into their data pipelines and analytics workflows.
 
 The course emphasizes practical experience with real-world analytical scenarios, preparing developers and data scientists to leverage `ClickHouse` for large-scale data analysis and reporting.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ The course emphasizes practical experience with real-world analytical scenarios,
 * Integrate `ClickHouse` with external tools and data sources
 
 ## Exercises
+
 Hands-on lab exercises covering schema design, data ingestion, query writing, materialized views, dictionaries, and performance optimization. Students will create tables with various `MergeTree` engine variants, load and transform large datasets, write complex analytical queries, build materialized views for real-time aggregation, configure dictionaries for data enrichment, and analyze query performance. Exercises use realistic analytical datasets and workloads.
 
 ## Outline
+
 <!-- chapter: column-oriented-database-concepts, duration: 1h -->
 * Column-Oriented Database Concepts
     * Row-oriented vs column-oriented storage
@@ -195,4 +199,5 @@ Hands-on lab exercises covering schema design, data ingestion, query writing, ma
     * `REST` `API` and `HTTP` interface
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

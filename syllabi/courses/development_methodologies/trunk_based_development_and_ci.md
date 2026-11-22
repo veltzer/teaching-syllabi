@@ -21,6 +21,7 @@ audience:
 # Trunk-Based Development and `CI`
 
 ## Description
+
 Most teams that say they do continuous integration do not. Long-lived feature branches, manual gating,
 end-of-sprint integration crunches and week-long merge battles are still the norm in many places. Trunk-based
 development (`TBD`) is the workflow that the highest-performing teams in the `DORA` and `Accelerate` research
@@ -34,6 +35,7 @@ from `Google`, Facebook, Etsy, Stripe and `LinkedIn`. Participants leave able to
 trunk-based development on their own teams and to design the `CI` discipline that backs it.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
 * recognize the organizational changes `TBD` requires
 
 ## Outline
+
 <!-- chapter: what-trunk-based-development-is, duration: 2h -->
 * What trunk-based development is
     * the original definition (Paul Hammant)
@@ -182,4 +185,5 @@ trunk-based development on their own teams and to design the `CI` discipline tha
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -21,6 +21,7 @@ audience:
 # Data Quality and Validation
 
 ## Description
+
 Bad data ships silently. A pipeline that runs to completion every night and writes a `clean`-looking row count
 into a destination table can be quietly wrong for months before anybody downstream notices. By that point the
 mistakes are baked into reports, models, and customer communications, and the cost of repair dwarfs the cost
@@ -34,6 +35,7 @@ from "we should do that someday" into a continuous, observable property of the d
 drawn from analytical, operational and `ML` data systems.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ drawn from analytical, operational and `ML` data systems.
 * embed data quality into the development workflow rather than bolt it on
 
 ## Outline
+
 <!-- chapter: why-data-quality-fails-silently, duration: 2h -->
 * Why data quality fails silently
     * the absence of failures as evidence of correctness, falsely
@@ -186,4 +189,5 @@ drawn from analytical, operational and `ML` data systems.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,9 +18,11 @@ audience:
 # `Apache Druid`
 
 ## Description
+
 `Apache Druid` is a high-performance, real-time analytics database designed for sub-second OLAP queries on large-scale event and time-series datasets. Originally developed at MetaMarkets and open-sourced in 2012, Druid is widely used for powering interactive dashboards, user-facing analytics products, and operational monitoring systems at companies such as Netflix, Airbnb, and LinkedIn. This course provides a comprehensive understanding of Druid's unique architecture, ingestion model, data model, and query capabilities. Participants will learn how to ingest data from batch sources and streaming systems like `Kafka`, write efficient `Druid SQL` and native queries, operate and tune clusters, and integrate Druid into broader data platform architectures.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ audience:
 * Monitor cluster health and diagnose performance issues
 
 ## Exercises
+
 Hands-on labs using a local Druid cluster deployed with `Docker Compose`. Students will ingest `CSV` and `Parquet` batch data, set up a `Kafka`-based streaming ingestion spec, query data with `Druid SQL` using the Druid console and `API`, configure rollup and aggregation at ingest time, inspect segment metadata, run compaction tasks, configure `TLS` and basic authentication, set up `Prometheus` metrics export, and integrate a `Spark` job to write to Druid. Scenarios cover clickstream analytics, ad impression tracking, and application performance monitoring.
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-druid, duration: 2h -->
 * Introduction to `Apache Druid`
     * What is `Apache Druid` and its design goals
@@ -157,4 +161,5 @@ Hands-on labs using a local Druid cluster deployed with `Docker Compose`. Studen
     * Coordinator duty logs and segment balancing issues
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

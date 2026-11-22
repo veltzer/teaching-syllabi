@@ -18,6 +18,7 @@ audience:
 # Explainable `AI`
 
 ## Description
+
 As `machine learning` models are deployed in high-stakes domains such as healthcare, finance, and
 criminal justice, the need to explain and justify model decisions has become critical. This course
 covers the theory and practice of `Explainable AI` (XAI), equipping participants with tools and
@@ -27,6 +28,7 @@ explainability techniques to both classical `ML` models and deep neural networks
 addresses fairness, bias detection, and the growing regulatory landscape around `AI` transparency.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ addresses fairness, bias detection, and the growing regulatory landscape around 
 * Understand regulatory requirements such as `GDPR` right-to-explanation and EU `AI` Act obligations.
 
 ## Outline
+
 <!-- chapter: introduction-to-explainability, duration: 1h -->
 * Introduction to Explainability
     * What is Explainable `AI` and why it matters
@@ -113,4 +116,5 @@ addresses fairness, bias detection, and the growing regulatory landscape around 
     * Building an explainability strategy for production systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

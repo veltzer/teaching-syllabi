@@ -18,10 +18,12 @@ audience:
 # `Gdb`
 
 ## Description
+
 This course is intended for C/`C++` developers who wish to learn how to better
 use the `Linux` `gdb` debugger and get better at debugging in general.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ use the `Linux` `gdb` debugger and get better at debugging in general.
 * gain practical knowledge of the toolchain and its tools
 
 ## Outline
+
 <!-- chapter: definitions, duration: 1h -->
 * definitions
 <!-- chapter: gdb-intro, duration: 1h -->
@@ -100,4 +103,5 @@ use the `Linux` `gdb` debugger and get better at debugging in general.
     * `eclipse`+CDT
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

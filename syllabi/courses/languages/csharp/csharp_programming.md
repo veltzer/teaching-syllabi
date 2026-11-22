@@ -14,11 +14,13 @@ audience:
 # `C#` Programming
 
 ## Description
+
 `C#` is a modern, object-oriented programming language developed by Microsoft as part of the `.NET` platform. It combines the power of `C++` with the productivity of higher-level languages, offering strong typing, garbage collection, and rich standard libraries. `C#` is widely used for building enterprise applications, `web services`, desktop applications, games with `Unity`, and cloud-native solutions on `Azure`.
 
 This course teaches `C#` from the ground up, covering the language fundamentals, object-oriented programming, modern language features such as `LINQ` and async/await, and practical application development with `ASP.NET Core` and `Entity Framework Core`. The course includes hands on exercises.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
 * Understand the basics of `ASP.NET Core` and `Entity Framework Core`
 
 ## Outline
+
 <!-- chapter: getting-started-with-c, duration: 2h -->
 * Getting Started with `C#`
     * What is `C#` and the `.NET` ecosystem?
@@ -150,4 +153,5 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
     * Basic `CRUD` operations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

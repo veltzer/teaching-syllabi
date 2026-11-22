@@ -14,9 +14,11 @@ audience:
 # `PHP` with Laravel
 
 ## Description
+
 Laravel is the most popular `PHP` framework, providing an elegant and expressive syntax for building modern web applications. This course covers the full Laravel ecosystem, from MVC architecture and `Eloquent ORM` to Blade templates, routing, middleware, authentication, queues, events, testing, and deployment. Participants will learn to build robust, maintainable web applications following Laravel best practices and conventions. The course includes hands on exercises.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ Laravel is the most popular `PHP` framework, providing an elegant and expressive
 * Write tests and deploy Laravel applications
 
 ## Outline
+
 <!-- chapter: introduction-to-laravel, duration: 2h -->
 * Introduction to Laravel
     * What is Laravel and why use it?
@@ -125,4 +128,5 @@ Laravel is the most popular `PHP` framework, providing an elegant and expressive
     * Monitoring and logging in production
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

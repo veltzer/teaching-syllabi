@@ -15,9 +15,11 @@ audience:
 # `HTTP`/2 and `HTTP`/3
 
 ## Description
+
 `HTTP`/2 and `HTTP`/3 represent major evolutions of the web's foundational protocol, addressing performance limitations of `HTTP`/1.1 through binary framing, multiplexing, header compression, and the move to QUIC and `UDP`. This course provides a thorough understanding of both protocols, their performance benefits, server configuration, client support, and practical migration strategies. Participants will learn how these protocols work under the hood and how to take full advantage of them in production environments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -47,6 +49,7 @@ audience:
 * Plan and execute migration from `HTTP`/1.1 to `HTTP`/2 and `HTTP`/3
 
 ## Outline
+
 <!-- chapter: http-1-1-limitations, duration: 1h -->
 * `HTTP`/1.1 Limitations
     * Head-of-line blocking in `HTTP`/1.1
@@ -149,4 +152,5 @@ audience:
     * `Firewall` and network considerations for QUIC (`UDP` port 443)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

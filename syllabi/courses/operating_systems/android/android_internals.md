@@ -19,6 +19,7 @@ audience:
 # `Android` Internals
 
 ## Description
+
 `Android` provides a rich application framework that allows you to build innovative apps and games
 for mobile devices in a `Java` and native languages. We can also find `Android` OS on many embedded
 systems as a good replacement to Embedded `Linux`. Using `android` as an "improved `Linux`" saves time
@@ -28,6 +29,7 @@ environment, how to access hardware and handling interrupts all over the `androi
 data flows from the `java` application down to the kernel driver and the hardware.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ data flows from the `java` application down to the kernel driver and the hardwar
 * Learn how to create a system/user app
 
 ## Outline
+
 <!-- chapter: android-overview, duration: 6h -->
 * `Android` Overview
     * `Android` history
@@ -134,4 +137,5 @@ data flows from the `java` application down to the kernel driver and the hardwar
     * Debugging code in AOSP (application & libraries)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

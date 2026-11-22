@@ -16,9 +16,11 @@ audience:
 # Networking Basics
 
 ## Description
+
 Networking fundamentals are essential for understanding how computers communicate across networks and the internet. This course covers core networking concepts, protocols, and technologies including the OSI model, `TCP`/`IP` stack, `HTTP` protocols, headers, cookies, and network security basics that form the foundation of modern web applications and distributed systems.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -54,6 +56,7 @@ Networking fundamentals are essential for understanding how computers communicat
 * Configure basic network services and analyze network traffic patterns
 
 ## Outline
+
 <!-- chapter: introduction-to-computer-networking, duration: 1h -->
 * Introduction to Computer Networking
     * What is computer networking and why it matters
@@ -138,4 +141,5 @@ Networking fundamentals are essential for understanding how computers communicat
     * Common network problems and systematic troubleshooting approaches
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

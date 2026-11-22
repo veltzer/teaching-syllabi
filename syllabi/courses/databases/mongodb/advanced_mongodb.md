@@ -16,9 +16,11 @@ audience:
 # Advanced `MongoDB`
 
 ## Description
+
 This advanced course is designed for developers and database professionals who already have working knowledge of `MongoDB` and need to master its most powerful features. Participants will dive deep into the aggregation framework, sharding for horizontal scalability, change streams for real-time data processing, and `MongoDB Atlas` cloud platform capabilities. The course also covers multi-document transactions, advanced schema `design patterns`, sophisticated indexing strategies, and production monitoring techniques.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This advanced course is designed for developers and database professionals who a
 * Monitor and troubleshoot `MongoDB` deployments in production
 
 ## Outline
+
 <!-- chapter: advanced-aggregation-pipelines, duration: 2h -->
 * Advanced Aggregation Pipelines
     * Pipeline architecture and optimization
@@ -149,4 +152,5 @@ This advanced course is designed for developers and database professionals who a
     * Operational best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

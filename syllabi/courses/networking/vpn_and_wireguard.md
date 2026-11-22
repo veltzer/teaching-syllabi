@@ -18,9 +18,11 @@ audience:
 # `VPN` and `WireGuard`
 
 ## Description
+
 Virtual Private Networks are a cornerstone of secure remote access, site-to-site connectivity, and network segmentation, enabling organizations to extend trusted network boundaries across untrusted infrastructure. This course covers the full landscape of modern `VPN` technologies, from the classical `IPSec`/`IKEv2` suite used in enterprise and carrier-grade deployments to `OpenVPN` and the next-generation `WireGuard` protocol. `WireGuard` in particular has revolutionized `VPN` design with its minimal codebase, modern cryptography, and dramatically simplified configuration model. Participants will gain both theoretical understanding and hands-on skills to deploy, configure, and troubleshoot `VPN` solutions for remote access, site-to-site connectivity, and containerized environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
 * Monitor `VPN` health and diagnose connectivity and performance issues
 
 ## Outline
+
 <!-- chapter: introduction-to-vpn-technologies, duration: 1h -->
 * Introduction to `VPN` Technologies
     * What `VPN`s solve: confidentiality, integrity, and tunnel abstraction
@@ -129,4 +132,5 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
     * Exporting `VPN` metrics to `Prometheus` and `Grafana`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

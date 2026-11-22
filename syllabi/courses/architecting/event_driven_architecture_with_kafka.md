@@ -17,6 +17,7 @@ audience:
 # `Event-Driven Architecture` with `Kafka`
 
 ## Description
+
 This course provides an in-depth exploration of `event-driven architecture` using `Apache Kafka` as the
 central event backbone. Participants will learn how to design and implement systems based on event
 sourcing and `CQRS` patterns, handle schema evolution, achieve exactly-once semantics, and apply
@@ -24,6 +25,7 @@ advanced patterns such as the `saga` pattern and the outbox pattern. The course 
 concerns including dead letter topics and monitoring strategies for production `Kafka` deployments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ concerns including dead letter topics and monitoring strategies for production `
 * set up monitoring and handle failure scenarios with dead letter topics
 
 ## Outline
+
 <!-- chapter: introduction-to-event-driven-architecture, duration: 1h -->
 * introduction to `event-driven architecture`
     * event-driven vs request-driven architectures
@@ -110,4 +113,5 @@ concerns including dead letter topics and monitoring strategies for production `
     * operational best practices for production deployments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

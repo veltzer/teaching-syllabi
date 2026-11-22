@@ -14,11 +14,13 @@ audience:
 # Ruby Programming
 
 ## Description
+
 Ruby is a dynamic, open-source programming language with a focus on simplicity and productivity. Created by Yukihiro "Matz" Matsumoto, Ruby features an elegant syntax that is natural to read and easy to write. It is a pure object-oriented language where everything is an object, and it supports multiple programming paradigms including procedural and functional programming.
 
 This course covers Ruby from the fundamentals through advanced topics such as metaprogramming and the `Ruby on Rails` framework. Students will learn to write idiomatic Ruby code, work with blocks and iterators, build well-structured object-oriented programs, and leverage the Ruby ecosystem for testing and web development. The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course covers Ruby from the fundamentals through advanced topics such as me
 * Understand the basics of `Ruby on Rails` web development
 
 ## Outline
+
 <!-- chapter: getting-started-with-ruby, duration: 2h -->
 * Getting Started with Ruby
     * What is Ruby and why use it?
@@ -150,4 +153,5 @@ This course covers Ruby from the fundamentals through advanced topics such as me
     * Tools for code quality (RuboCop, Reek)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

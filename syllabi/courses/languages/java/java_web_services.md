@@ -15,6 +15,7 @@ audience:
 # `Java` `Web Services`
 
 ## Description
+
 This course covers building and consuming `web services` in `Java` using both `REST` and
 `SOAP` approaches. Participants will learn to create `RESTful APIs` with JAX-RS, work with
 `SOAP` services using JAX-WS, handle `JSON` and `XML` data formats, and apply best
@@ -22,6 +23,7 @@ practices for authentication, error handling, and `API` design including `HATEOA
 `OpenAPI`/Swagger documentation.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ practices for authentication, error handling, and `API` design including `HATEOA
     * Document APIs using `OpenAPI`/Swagger.
 
 ## Outline
+
 <!-- chapter: introduction-to-web-services, duration: 2h -->
 * Introduction to `Web Services`
     * `REST` vs `SOAP` paradigms
@@ -96,4 +99,5 @@ practices for authentication, error handling, and `API` design including `HATEOA
     * Interactive `API` exploration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

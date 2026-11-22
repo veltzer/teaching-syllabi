@@ -15,9 +15,11 @@ audience:
 # Identity and Access Management
 
 ## Description
+
 This course provides a comprehensive exploration of identity and access management (`IAM`) concepts, protocols, and implementations. Participants will learn how modern authentication and authorization systems work, from foundational protocols like `LDAP` and `Kerberos` to contemporary standards such as `OAuth2` and `OpenID Connect`. The course covers directory services, identity federation, authorization models, `API` security, cloud `IAM`, and identity governance, equipping teams to design and implement robust identity solutions.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a comprehensive exploration of identity and access manageme
 * Address compliance and governance requirements in identity management
 
 ## Outline
+
 <!-- chapter: iam-fundamentals-and-authentication-protocols, duration: 4h -->
 * `IAM` Fundamentals and Authentication Protocols
     * Identity and access management core concepts and terminology
@@ -119,4 +122,5 @@ This course provides a comprehensive exploration of identity and access manageme
     * Building an identity governance program
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

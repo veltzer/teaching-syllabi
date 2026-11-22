@@ -14,9 +14,11 @@ audience:
 # `Java` Maven
 
 ## Description
+
 This course provides a thorough exploration of `Apache Maven` as the standard build and project management tool for `Java` applications. Starting from `POM` structure and lifecycle fundamentals, the course progresses through dependency management, plugin development, multi-module projects, and CI integration. Students will gain the skills to manage complex `Java` builds with confidence and set up professional release workflows.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
 * Integrate Maven builds into `CI/CD` pipelines
 
 ## Outline
+
 <!-- chapter: introduction-to-maven, duration: 1h -->
 * Introduction to Maven
     * What is Maven and why use it
@@ -116,4 +119,5 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
     * Reproducible builds
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

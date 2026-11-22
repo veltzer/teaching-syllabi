@@ -19,9 +19,11 @@ audience:
 # Disaster Recovery and Business Continuity
 
 ## Description
+
 This course covers the principles and practices of disaster recovery (DR) and business continuity planning. Participants will learn how to design, implement, and test DR strategies that ensure organizational resilience against outages, data loss, and catastrophic failures. The course spans traditional and cloud-native approaches across `AWS`, `Azure`, and `GCP`, and includes hands-on development of runbooks and recovery procedures.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course covers the principles and practices of disaster recovery (DR) and bu
 * Understand compliance and regulatory requirements for disaster recovery.
 
 ## Outline
+
 <!-- chapter: fundamentals-of-disaster-recovery, duration: 2h -->
 * Fundamentals of Disaster Recovery
     * Business continuity vs disaster recovery
@@ -96,4 +99,5 @@ This course covers the principles and practices of disaster recovery (DR) and bu
     * Communication plans during incidents
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

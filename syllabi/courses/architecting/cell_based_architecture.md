@@ -18,6 +18,7 @@ audience:
 # Cell-Based Architecture
 
 ## Description
+
 Cell-based architecture is the pattern that gives a large system a hard upper bound on blast `radius`. Instead
 of running one large service that, when something goes wrong, takes down every customer at once, the system
 is partitioned into independent `cells`. Each cell is a complete, self-contained unit. Customers are routed
@@ -37,6 +38,7 @@ patterns that `make` cells work or fail. Examples are drawn from `AWS`'s public 
 able to design a cell-based system, decide on the cell size, and operate a fleet of cells.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
 * compare cell-based to multi-region and to `microservices`
 
 ## Outline
+
 <!-- chapter: what-a-cell-actually-is, duration: 1h -->
 * What a cell actually is
     * a complete, self-contained vertical slice
@@ -156,4 +159,5 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
     * the staged path to cells
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

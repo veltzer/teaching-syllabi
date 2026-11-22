@@ -19,12 +19,14 @@ audience:
 # Embedded `Linux` topics for `Linux` user space developers
 
 ## Description
+
 This is a course that covers embedded `Linux` topics that user space developers need to know.
 These include: `CPU` affinity, real time apis, avoiding page faults, avoiding swap, using `mmap`, using your
 own `malloc` implementation, talking to device drivers, using `mmap` with device drivers, `Linux` hotplug or
 the lack thereof and others.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ the lack thereof and others.
 * apply Embedded `Linux` topics for `Linux` user space developers techniques and best practices in real-world scenarios
 
 ## Outline
+
 <!-- chapter: programming-topics-for-embedded, duration: 15h -->
 * Programming topics for embedded
     * `Linux` support for real time: the real time patch.
@@ -80,4 +83,5 @@ the lack thereof and others.
         * uboot, lilo, `grub`, syslinux, xloader.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

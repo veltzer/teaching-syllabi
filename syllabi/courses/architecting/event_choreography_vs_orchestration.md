@@ -18,6 +18,7 @@ audience:
 # Event Choreography vs Orchestration
 
 ## Description
+
 The catalog has `Event-Driven Architecture`, `Event-Driven Architecture with Kafka`, `Saga Pattern`,
 `Event Sourcing in Practice`, and `Event Storming and Domain Modeling`. None of those addresses the
 specific architectural decision that any team building a multi-service workflow has to `make`: do the
@@ -36,6 +37,7 @@ the canonical e-commerce checkout flow, the airline-reservation flow, the loan-a
 the `data` pipeline flow. Participants leave able to `make` the decision for their next workflow.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
 * avoid the anti-patterns of each
 
 ## Outline
+
 <!-- chapter: the-distinction, duration: 1h -->
 * The distinction
     * choreography: services `react` to events
@@ -132,4 +135,5 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
     * the "we picked one because the conference talk said to" anti-pattern
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

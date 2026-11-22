@@ -16,9 +16,11 @@ audience:
 # Contract Testing
 
 ## Description
+
 Contract testing ensures that services in a distributed system communicate correctly by verifying that both consumers and providers adhere to a shared contract. This course covers consumer-driven contract testing with Pact, bi-directional contract testing, and contract testing for `REST`, `GraphQL`, and messaging systems. Participants will learn how to integrate contract testing into their workflows and understand when to use it versus integration testing.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -49,6 +51,7 @@ Contract testing ensures that services in a distributed system communicate corre
 * Determine when contract testing is appropriate versus integration testing
 
 ## Outline
+
 <!-- chapter: contract-testing-concepts, duration: 2h -->
 * Contract Testing Concepts
     * What is contract testing and why it matters
@@ -141,4 +144,5 @@ Contract testing ensures that services in a distributed system communicate corre
     * Common pitfalls and how to avoid them
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

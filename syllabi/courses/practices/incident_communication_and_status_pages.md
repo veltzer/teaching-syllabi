@@ -17,6 +17,7 @@ audience:
 # Incident Communication and Status Pages
 
 ## Description
+
 The catalog has `Incident Response and Postmortems`, `Incident Management`, and `Site Reliability
 Engineering`. None is the focused course on the customer-facing-and-internal-stakeholder
 communication side of an incident: who tells whom what when, the status page, the customer email,
@@ -37,6 +38,7 @@ bad. Examples include real public incident-communications (good and bad). Partic
 run the comms side of an incident.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ run the comms side of an incident.
 * recognize the patterns that destroy customer trust
 
 ## Outline
+
 <!-- chapter: why-comms-is-its-own-engineering-concern, duration: 1h -->
 * Why comms is its own engineering concern
     * the canonical bad incident: silence
@@ -139,4 +142,5 @@ run the comms side of an incident.
     * the long-term reliability narrative
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

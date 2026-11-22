@@ -13,6 +13,7 @@ audience:
 # `Design patterns`
 
 ## Description
+
 A "Design pattern" describes a solution to a problem which occurs over and over again
 in software development. This solution is given a name, a rationale, advantages and
 disadvantages compared to other solution and can be used a million times over,
@@ -28,6 +29,7 @@ This course is usually taught tied to a specific programming languages, usually
 an object oriented one like `Java`, `C#`, `Python` or `C++`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ an object oriented one like `Java`, `C#`, `Python` or `C++`.
 * you will get to a more appropriate granularity of your classes that model a particular domain
 
 ## Outline
+
 <!-- chapter: overview, duration: 3h -->
 * Overview
     * What are `design patterns`?
@@ -87,4 +90,5 @@ an object oriented one like `Java`, `C#`, `Python` or `C++`.
     * Visitor
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

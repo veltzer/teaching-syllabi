@@ -14,9 +14,11 @@ audience:
 # `Android` Application Development
 
 ## Description
+
 `Android` is the world's most widely used mobile operating system, powering billions of devices globally. This course provides a comprehensive guide to building modern `Android` applications using `Kotlin` and `Android Studio`. Students will learn to design responsive user interfaces, manage application lifecycle, persist data, communicate over the network, and follow modern architectural patterns including MVVM and `Jetpack Compose`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ audience:
 * Handle permissions and prepare apps for publishing
 
 ## Outline
+
 <!-- chapter: introduction-to-android-development, duration: 2h -->
 * Introduction to `Android` Development
     * The `Android` platform and ecosystem
@@ -126,4 +129,5 @@ audience:
     * Versioning strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

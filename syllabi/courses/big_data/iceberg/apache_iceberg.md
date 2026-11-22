@@ -17,9 +17,11 @@ audience:
 # `Apache Iceberg`
 
 ## Description
+
 `Apache Iceberg` is an open table format designed for huge analytic datasets. This course covers the architecture, features, and practical usage of Iceberg, including schema and partition evolution, time travel, snapshot management, and integration with popular query engines such as `Spark`, `Trino`, Presto, and `Flink`. Participants will also learn about catalog options, migration strategies, and performance optimization techniques.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ audience:
 * Plan and execute migrations from existing table formats to Iceberg
 
 ## Outline
+
 <!-- chapter: open-table-format-concepts, duration: 1h -->
 * Open Table Format Concepts
     * The data lakehouse paradigm
@@ -132,4 +135,5 @@ audience:
     * Monitoring and profiling Iceberg table performance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

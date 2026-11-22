@@ -17,9 +17,11 @@ audience:
 # OpenStack
 
 ## Description
+
 This course provides a comprehensive exploration of OpenStack, the leading open-source platform for building and managing private and hybrid clouds. Participants will learn the architecture and core services of OpenStack, including identity management, compute, networking, storage, and orchestration. The course covers both operational knowledge and hands-on deployment using DevStack and Kolla, preparing participants to deploy, manage, and troubleshoot production OpenStack environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
 * Monitor and operate an OpenStack cloud in production.
 
 ## Outline
+
 <!-- chapter: private-cloud-concepts, duration: 2h -->
 * Private Cloud Concepts
     * Public, private, and hybrid cloud models
@@ -123,4 +126,5 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
     * Backup and disaster recovery
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

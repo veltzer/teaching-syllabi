@@ -16,9 +16,11 @@ audience:
 # Advanced `Git`
 
 ## Description
+
 This course dives deep into advanced `Git` workflows and techniques for experienced developers. Topics include rebasing strategies, interactive rebase, cherry-pick, bisect, hooks, subtrees, submodules, monorepo strategies, reflog, worktrees, and advanced merge conflict resolution. Students will gain the expertise needed to manage complex version control scenarios and optimize team workflows.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course dives deep into advanced `Git` workflows and techniques for experien
 * Resolve complex merge conflicts with advanced techniques.
 
 ## Outline
+
 <!-- chapter: rebasing-strategies, duration: 2h -->
 * Rebasing Strategies:
     * Rebase vs. merge workflows.
@@ -97,4 +100,5 @@ This course dives deep into advanced `Git` workflows and techniques for experien
     * Rerere: reuse recorded resolution.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -12,12 +12,14 @@ audience:
 # Introduction to Programming Concepts
 
 ## Description
+
 A language-agnostic introduction to programming for absolute beginners entering training programs
 or starting their journey in software development. This course covers the fundamental
 building blocks of programming that apply across all languages, giving students a `solid`
 conceptual foundation before they dive into a specific programming language.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ conceptual foundation before they dive into a specific programming language.
 * Have a foundation to begin learning any specific programming language
 
 ## Outline
+
 <!-- chapter: what-is-programming, duration: 1h -->
 * What Is Programming
     * What is a program
@@ -120,4 +123,5 @@ conceptual foundation before they dive into a specific programming language.
     * Using print statements to trace execution
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

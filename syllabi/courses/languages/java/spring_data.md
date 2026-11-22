@@ -16,9 +16,11 @@ audience:
 # `Spring Data`
 
 ## Description
+
 This course provides a focused exploration of `Spring Data JPA` for building data access layers in `Java` applications. Covering repository abstractions, query derivation methods, specifications for dynamic queries, projections, auditing, pagination, and working with multiple data sources, the course equips developers with the skills to implement efficient and maintainable data persistence with `Spring Boot`.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 * Set up and manage multiple data sources in a single application
 
 ## Outline
+
 <!-- chapter: introduction-to-spring-data-jpa, duration: 1h -->
 * Introduction to `Spring Data JPA`
     * Overview of the `Spring Data` project and module ecosystem
@@ -113,4 +116,5 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
     * Testing with multiple data sources
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

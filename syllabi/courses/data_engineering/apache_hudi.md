@@ -18,9 +18,11 @@ audience:
 # `Apache Hudi`
 
 ## Description
+
 `Apache Hudi` (`Hadoop` Upserts Deletes and Incrementals) is an open-source transactional data lake platform that brings database-like capabilities — upserts, deletes, ACID transactions, and incremental processing — to cloud object storage and `HDFS`. This course provides a thorough grounding in `Hudi`'s architecture, table types, and write/read APIs, enabling participants to build reliable, scalable lakehouse solutions on top of `Amazon S3`, `ADLS`, or `HDFS`. Participants will learn to integrate `Hudi` with `Apache Spark` and `Apache Flink`, perform schema evolution, configure compaction and clustering for performance, and run incremental pipelines that efficiently process only changed data. The course concludes with a comparative analysis of `Apache Hudi`, `Delta Lake`, and `Apache Iceberg` to help participants choose the right open table format for their use case.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -54,6 +56,7 @@ audience:
 * Compare `Apache Hudi`, `Delta Lake`, and `Apache Iceberg` for lakehouse architecture decisions
 
 ## Outline
+
 <!-- chapter: introduction-to-data-lake-challenges, duration: 2h -->
 * Introduction to Data Lake Challenges
     * The data lake promise: cheap, scalable storage for raw data
@@ -168,4 +171,5 @@ audience:
     * `Hudi` upgrade and migration procedures between major versions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -13,9 +13,11 @@ audience:
 # `SOC` Analyst Training
 
 ## Description
+
 This course prepares security professionals for roles in a Security Operations Center (`SOC`). It covers the full spectrum of SOC analyst responsibilities including security monitoring, log analysis, threat detection, incident triage, and response procedures. Participants will gain hands-on experience with industry-standard `SIEM` tools, learn to apply the `MITRE ATT&CK` framework, and develop the analytical skills needed to identify and respond to security incidents effectively.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course prepares security professionals for roles in a Security Operations C
 * Write clear and actionable incident reports
 
 ## Outline
+
 <!-- chapter: soc-operations-fundamentals, duration: 5h -->
 * `SOC` Operations Fundamentals
     * `SOC` mission, structure, and operating models
@@ -116,4 +119,5 @@ This course prepares security professionals for roles in a Security Operations C
     * Continuous improvement and process refinement
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

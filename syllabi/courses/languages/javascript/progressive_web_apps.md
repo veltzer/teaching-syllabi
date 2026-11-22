@@ -14,9 +14,11 @@ audience:
 # Progressive Web Apps (PWA)
 
 ## Description
+
 This course covers the design and development of Progressive Web Apps (PWA), which combine the reach of the web with the capabilities of native applications. Participants will learn how to build fast, reliable, and installable web experiences using service workers, caching strategies, push notifications, and offline-first architecture. The course includes practical use of the Workbox library and performance auditing with Lighthouse.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course covers the design and development of Progressive Web Apps (PWA), whi
 * Audit and improve PWA quality with Lighthouse.
 
 ## Outline
+
 <!-- chapter: introduction-to-progressive-web-apps, duration: 1h -->
 * Introduction to Progressive Web Apps
     * What makes a web app progressive
@@ -104,4 +107,5 @@ This course covers the design and development of Progressive Web Apps (PWA), whi
     * Continuous auditing in `CI/CD`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

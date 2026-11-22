@@ -16,12 +16,15 @@ audience:
 # Rust for Web Development
 
 ## Description
+
 This course teaches web development using the Rust programming language. Participants will learn how to build production-ready web applications and `REST` APIs using the leading Rust web frameworks `Actix Web` and Axum. The course covers asynchronous programming with `Tokio`, database integration using SQLx and Diesel, authentication, middleware, testing strategies, and deployment considerations.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
+
 Rust developers who want to build web applications and `REST` APIs using modern Rust web frameworks and the async ecosystem.
 
 ## Prerequisites
@@ -39,6 +42,7 @@ Rust developers who want to build web applications and `REST` APIs using modern 
 * Deploy Rust `web services` to production environments
 
 ## Outline
+
 <!-- chapter: introduction-to-web-development-in-rust, duration: 2h -->
 * Introduction to Web Development in Rust
     * The Rust web ecosystem overview
@@ -113,4 +117,5 @@ Rust developers who want to build web applications and `REST` APIs using modern 
     * `CI/CD` pipeline considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

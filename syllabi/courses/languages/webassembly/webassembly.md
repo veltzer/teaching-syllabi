@@ -14,6 +14,7 @@ audience:
 # WebAssembly
 
 ## Description
+
 WebAssembly (Wasm) is a portable binary instruction format that enables near-native
 performance for web applications and beyond. This course provides an in-depth exploration
 of WebAssembly, from its binary and text formats to compilation toolchains, `JavaScript`
@@ -21,6 +22,7 @@ interop, and emerging standards like WASI and the component model. Students will
 to leverage Wasm for performance-critical applications on the web, server side, and edge.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ to leverage Wasm for performance-critical applications on the web, server side, 
 * gain practical knowledge of WASI and server-side WebAssembly
 
 ## Outline
+
 <!-- chapter: webassembly-concepts-and-motivation, duration: 1h -->
 * WebAssembly Concepts and Motivation
     * Why WebAssembly exists
@@ -142,4 +145,5 @@ to leverage Wasm for performance-critical applications on the web, server side, 
     * Comparing Wasm vs native performance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

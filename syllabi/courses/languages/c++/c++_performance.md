@@ -14,10 +14,12 @@ audience:
 # `C++` Performance
 
 ## Description
+
 This course deals with how to write `C++` code with emphasis on performance.
 We deal with the cost of various `C++` features and with interacting efficiently with the operating system.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ We deal with the cost of various `C++` features and with interacting efficiently
 * gain practical knowledge of Is efficiency important?
 
 ## Outline
+
 <!-- chapter: micro-optimizations, duration: 2h -->
 * Micro optimizations
 <!-- chapter: c-efficiency-compared-to-c-and-assembly, duration: 2h -->
@@ -52,4 +55,5 @@ We deal with the cost of various `C++` features and with interacting efficiently
 * Efficiency topics
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -23,12 +23,14 @@ audience:
 # `DevOps` Engineering on `AWS`
 
 ## Description
+
 This course covers `DevOps` principles and practices on the `AWS` platform. Participants will learn how
 to build and manage `CI/CD` pipelines, automate infrastructure provisioning, implement monitoring and
 logging strategies, and operate containerized workloads at scale. The course emphasizes automation,
 infrastructure as code, and operational best practices for running production systems on `AWS`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ infrastructure as code, and operational best practices for running production sy
 * Apply `DevOps` best practices for security, compliance, and cost management
 
 ## Outline
+
 <!-- chapter: devops-culture-and-practices-on-aws, duration: 3h -->
 * `DevOps` Culture and Practices on `AWS`
     * `DevOps` principles: automation, collaboration, measurement, sharing
@@ -123,4 +126,5 @@ infrastructure as code, and operational best practices for running production sy
     * Cost optimization in `DevOps` workflows
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

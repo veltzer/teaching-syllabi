@@ -15,6 +15,7 @@ audience:
 # `Kotlin` Programming
 
 ## Description
+
 `Kotlin` is a statically typed, general-purpose programming language developed by `JetBrains`,
 that has built world-class `IDEs` like `IntelliJ IDEA`, `PhpStorm`, Appcode, etc.
 It was first introduced by `JetBrains` in 2011 and is a new language for the `JVM`.
@@ -25,6 +26,7 @@ but still be fully interoperable with `Java` code.
 `Android` Development in 2017.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ but still be fully interoperable with `Java` code.
 * Build `Android` applications using `Kotlin`
 
 ## Outline
+
 <!-- chapter: overview, duration: 2h -->
 * Overview
     * Introduction
@@ -146,4 +149,5 @@ but still be fully interoperable with `Java` code.
     * `Android` Project folder Structure
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

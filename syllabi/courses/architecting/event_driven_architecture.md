@@ -16,9 +16,11 @@ audience:
 # `Event-Driven Architecture`
 
 ## Description
+
 This course provides a comprehensive guide to designing, building, and operating event-driven systems. Participants will learn the fundamental concepts behind `event-driven architecture`, explore various messaging patterns and broker technologies, and understand how to apply patterns such as `event sourcing`, `CQRS`, and sagas in production systems. The course addresses practical concerns including schema evolution, idempotency, delivery guarantees, testing, monitoring, and common anti-patterns to avoid.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course provides a comprehensive guide to designing, building, and operating
 * Monitor, observe, and troubleshoot event-driven systems in production
 
 ## Outline
+
 <!-- chapter: event-driven-architecture-fundamentals, duration: 3h -->
 * `Event-Driven Architecture` Fundamentals
     * What is `event-driven architecture` and why it matters
@@ -121,4 +124,5 @@ This course provides a comprehensive guide to designing, building, and operating
     * Performance considerations: throughput, latency, and scaling strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

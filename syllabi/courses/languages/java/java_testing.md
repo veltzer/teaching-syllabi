@@ -14,9 +14,11 @@ audience:
 # `Java` Testing
 
 ## Description
+
 This course covers the full spectrum of testing in the `Java` ecosystem. From `JUnit 5` architecture and assertions through mocking with `Mockito`, integration testing with `Spring Boot` Test and `TestContainers`, to code coverage analysis with JaCoCo and mutation testing. Students will learn how to write effective, maintainable tests and adopt `TDD` as a development practice.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
 * Understand and apply mutation testing to evaluate test suite quality
 
 ## Outline
+
 <!-- chapter: introduction-to-java-testing, duration: 1h -->
 * Introduction to `Java` Testing
     * Why testing matters
@@ -134,4 +137,5 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
     * Improving test suites based on mutation results
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

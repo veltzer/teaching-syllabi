@@ -16,9 +16,11 @@ audience:
 # Advanced Zephyr RTOS
 
 ## Description
+
 This advanced course takes participants beyond the basics of Zephyr RTOS into its more sophisticated subsystems and workflows. Topics include the device driver model, power management, `Bluetooth` stack (BLE and Mesh), sensor subsystem, networking protocols (`LwM2M`, `CoAP`, `MQTT`), custom board porting, and establishing `CI/CD` pipelines for Zephyr projects. The course is designed for engineers who already have introductory Zephyr experience and want to build production-grade firmware.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This advanced course takes participants beyond the basics of Zephyr RTOS into it
 * Set up `CI/CD` pipelines for Zephyr firmware projects.
 
 ## Outline
+
 <!-- chapter: zephyr-device-driver-model, duration: 2h -->
 * Zephyr Device Driver Model
     * Driver architecture and lifecycle
@@ -115,4 +118,5 @@ This advanced course takes participants beyond the basics of Zephyr RTOS into it
     * Release and versioning strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,12 +16,14 @@ audience:
 # Working with Hardware
 
 ## Description
+
 Low level developers usually need to interact with hardware. This course explains
 the various types of hardware devices that are out there and how to work with these
 devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt less communication,
 `i2c`, interrupt mitigation and other subjects.
 
 ## Duration
+
 12 days / 96 hours
 
 ## Intended Audience
@@ -44,6 +46,7 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
 * gain practical knowledge of Interrupts
 
 ## Outline
+
 <!-- chapter: basics-of-hardware-design, duration: 9h -->
 * Basics of hardware design
     * Traditional `CPU`
@@ -123,4 +126,5 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
     * JTAG
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

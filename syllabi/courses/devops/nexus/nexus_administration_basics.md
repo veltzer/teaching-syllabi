@@ -17,9 +17,11 @@ audience:
 # Nexus Administration Basics
 
 ## Description
+
 This course is designed to provide new customers with the first steps towards optimizing their Nexus Repository Manager configuration. Specifically, it provides critical, high-level theory, best practice, and practical application related to understanding specific concepts and terminology related to Nexus Repository Manager.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -37,6 +39,7 @@ This course is designed to provide new customers with the first steps towards op
 * Learn the best practices of using Nexus
 
 ## Outline
+
 <!-- chapter: functions-of-a-repository-manager, duration: 5h -->
 * Functions of a Repository Manager
     * Functions of a Repository Manager
@@ -50,4 +53,5 @@ This course is designed to provide new customers with the first steps towards op
 * Repository Planning Checklist
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

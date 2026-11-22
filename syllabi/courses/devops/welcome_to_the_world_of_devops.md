@@ -17,6 +17,7 @@ audience:
 # Welcome to the World of `DevOps`
 
 ## Description
+
 This introductory course provides an overview of `DevOps`, exploring its principles,
 practices, and the latest technological advancements in the field. Participants will gain
 a foundational understanding of how `DevOps` bridges the gap between development
@@ -24,6 +25,7 @@ and operations teams to enhance collaboration, efficiency, and product quality. 
 course will also discuss current trends and future directions in the `DevOps` landscape.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ course will also discuss current trends and future directions in the `DevOps` la
 * Apply `DevOps` practices to improve software development lifecycle
 
 ## Outline
+
 <!-- chapter: what-is-devops, duration: 3h -->
 * What is `DevOps`?
     * Definition and Origin
@@ -165,4 +168,5 @@ course will also discuss current trends and future directions in the `DevOps` la
         * Lessons learned and best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

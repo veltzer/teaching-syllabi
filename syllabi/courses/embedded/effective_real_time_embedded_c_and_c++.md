@@ -16,6 +16,7 @@ audience:
 # Effective Real Time Embedded C and `C++`
 
 ## Description
+
 Many software engineers work with C and `C++` programming languages for real time and embedded
 development. This course aims to give them a fuller appreciation of the more advanced aspects of the
 languages in the real time and embedded environments.
@@ -27,9 +28,11 @@ relevant to `C++` and object oriented are also presented.
 The course is specifically aimed at issues relevant to real-time embedded software engineers.
 
 ## Duration
+
 4 days / 32 hours
 
 ## Intended Audience
+
 The course is designed for software engineers who want to improve their use of the C and / or `C++`
 programming languages in a real time, embedded environment.
 
@@ -44,6 +47,7 @@ programming languages in a real time, embedded environment.
 * gain practical knowledge of Elements of C/```C++``
 
 ## Outline
+
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: embedded-c, duration: 1h -->
@@ -188,4 +192,5 @@ programming languages in a real time, embedded environment.
 [//1]: <> (Logtel course # 3411)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

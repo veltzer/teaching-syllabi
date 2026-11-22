@@ -13,12 +13,15 @@ audience:
 # Advanced Rust
 
 ## Description
+
 This course dwells on the more advanced aspects of Rust and is suitable for programmers who have at least a year of experience with Rust.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
+
 Experienced Rust developers looking to deepen their knowledge of advanced language features and patterns.
 
 ## Prerequisites
@@ -34,6 +37,7 @@ Experienced Rust developers looking to deepen their knowledge of advanced langua
 * Safely use unsafe blocks and FFI to interface with C/`C++` code
 
 ## Outline
+
 <!-- chapter: advanced-ownership, duration: 2h -->
 * Advanced Ownership
     * Understanding lifetimes and borrowing
@@ -97,4 +101,5 @@ Experienced Rust developers looking to deepen their knowledge of advanced langua
     * Strategies for handling edge cases and unusual behavior
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

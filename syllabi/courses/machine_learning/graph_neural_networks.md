@@ -17,6 +17,7 @@ audience:
 # Graph Neural Networks
 
 ## Description
+
 Graph-structured data is ubiquitous in the real world, appearing in social networks, molecules,
 knowledge bases, recommendation systems, and financial transaction networks. Graph Neural Networks
 (GNNs) extend `deep learning` to this irregular data structure and have produced state-of-the-art
@@ -28,6 +29,7 @@ Autoencoders. Participants will gain extensive hands-on experience implementing 
 link prediction, graph classification, fraud detection, and recommendation.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ link prediction, graph classification, fraud detection, and recommendation.
 * Apply GNNs to real-world problems including fraud detection and recommendation.
 
 ## Outline
+
 <!-- chapter: introduction-to-graphs-in-ml, duration: 2h -->
 * Introduction to Graphs in `ML`
     * Graph-structured data: social networks, molecules, knowledge graphs, citation networks
@@ -127,4 +130,5 @@ link prediction, graph classification, fraud detection, and recommendation.
     * Production deployment considerations for large-scale graphs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

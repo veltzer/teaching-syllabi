@@ -17,9 +17,11 @@ audience:
 # Migrating to `AWS`
 
 ## Description
+
 This course covers the strategies, tools, and best practices for migrating workloads to `AWS`. Students will learn how to plan and execute migrations of varying complexity, from simple lift-and-shift to full re-architecture. The course addresses server, database, and storage migrations using native `AWS` migration services, and covers organizational readiness including landing zone setup, cost estimation, and post-migration optimization.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course covers the strategies, tools, and best practices for migrating workl
 * Estimate costs and optimize workloads post-migration.
 
 ## Outline
+
 <!-- chapter: cloud-migration-strategies, duration: 2h -->
 * Cloud Migration Strategies
     * The 7 Rs of migration (rehost, replatform, repurchase, refactor, retire, retain, relocate)
@@ -135,4 +138,5 @@ This course covers the strategies, tools, and best practices for migrating workl
     * Tagging strategy for cost allocation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,10 +15,12 @@ audience:
 # Real Time `Design Patterns`
 
 ## Description
+
 This course is about how to design the internals of a Real Time system correctly based on tried and proven
 `design patterns` prevalent in the industry.
 
 ## Duration
+
 2 days / 16 hours
 
 ## Intended Audience
@@ -36,6 +38,7 @@ This course is about how to design the internals of a Real Time system correctly
 * gain practical knowledge of Resource Management Patterns
 
 ## Outline
+
 <!-- chapter: introduction-to-real-time-systems-and-design-patterns, duration: 2h -->
 * Introduction to Real-Time Systems and `Design Patterns`
     * Characteristics of real-time systems
@@ -76,4 +79,5 @@ This course is about how to design the internals of a Real Time system correctly
 * [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.pdf)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

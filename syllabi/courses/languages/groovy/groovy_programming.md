@@ -16,6 +16,7 @@ audience:
 # Groovy Programming
 
 ## Description
+
 Groovy is a powerful, optionally typed, dynamic language for the `Java` platform. It integrates
 seamlessly with existing `Java` code and libraries while offering concise syntax, closures,
 and metaprogramming capabilities that `boost` developer productivity. Groovy is widely used in
@@ -25,6 +26,7 @@ such as metaprogramming, DSL creation, and practical usage in `Gradle` and `Jenk
 The course includes hands on exercises.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ The course includes hands on exercises.
 * Create domain-specific languages
 
 ## Outline
+
 <!-- chapter: groovy-basics, duration: 2h -->
 * Groovy Basics
     * Introduction to Groovy and its place in the `JVM` ecosystem
@@ -136,4 +139,5 @@ The course includes hands on exercises.
     * Deploying Groovy applications
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

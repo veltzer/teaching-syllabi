@@ -20,11 +20,13 @@ audience:
 # ELK Deep Dive
 
 ## Description
+
 The `ELK stack`, comprised of `Elasticsearch`, `Logstash`, and `Kibana`, is one of the most widely adopted platforms for centralized logging, search, and analytics. Organizations use it to aggregate logs from diverse sources, perform powerful full-text searches, and build rich visualizations and dashboards for operational and business intelligence.
 
 This deep dive course goes beyond the basics and covers the internals of `Elasticsearch`, advanced `Logstash` pipeline configurations, `Kibana` dashboard creation, index lifecycle management, Beats data shippers, and security. Participants will gain the skills needed to design, operate, and troubleshoot production-grade ELK deployments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This deep dive course goes beyond the basics and covers the internals of `Elasti
 * Secure an `ELK stack` deployment
 
 ## Outline
+
 <!-- chapter: introduction-to-the-elk-stack, duration: 1h -->
 * Introduction to the `ELK Stack`
     * Overview and architecture
@@ -140,4 +143,5 @@ This deep dive course goes beyond the basics and covers the internals of `Elasti
     * Field-level and document-level security
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

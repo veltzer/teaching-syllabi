@@ -19,6 +19,7 @@ audience:
 # Network Observability Engineering
 
 ## Description
+
 The catalog has `Network Troubleshooting`, `Networking Basics`, the per-cloud networking courses,
 and `OpenTelemetry Deep Dive` for general observability. None of them is the focused course on the
 discipline of making a network observable: instrumenting the data path, capturing flows, tracing
@@ -38,6 +39,7 @@ cannot. Examples include real production debugging walkthroughs. Participants le
 instrument and operate network observability across cloud, on-prem, and edge.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ instrument and operate network observability across cloud, on-prem, and edge.
 * operate the observability stack itself
 
 ## Outline
+
 <!-- chapter: what-network-observability-actually-covers, duration: 1h -->
 * What network observability actually covers
     * the boundary with system observability
@@ -159,4 +162,5 @@ instrument and operate network observability across cloud, on-prem, and edge.
     * recommended reading: `Cilium`, Pixie, and `Brendan Gregg`'s materials
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

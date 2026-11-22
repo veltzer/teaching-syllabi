@@ -15,9 +15,11 @@ audience:
 # Advanced `Perl`
 
 ## Description
+
 `Perl` remains a powerful language for text processing, system administration, and rapid prototyping. This advanced course dives deep into `Perl`'s sophisticated features including references, complex data structures, object-oriented programming with Moose/Moo, and the rich CPAN ecosystem. Students will master regular expressions, learn effective testing practices, and optimize `Perl` code for production use.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ audience:
 * Optimize `Perl` code for performance
 
 ## Outline
+
 <!-- chapter: references-and-complex-data-structures, duration: 2h -->
 * References and Complex Data Structures
     * Scalar, `array`, and hash references
@@ -124,4 +127,5 @@ audience:
     * Identifying and resolving bottlenecks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

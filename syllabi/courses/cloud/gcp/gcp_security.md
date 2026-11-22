@@ -17,6 +17,7 @@ audience:
 # `GCP` Security
 
 ## Description
+
 This course provides a comprehensive look at security on `Google Cloud Platform`.
 Participants will gain deep understanding of `GCP` identity and access management,
 network security, data protection, and threat detection. The course covers
@@ -25,6 +26,7 @@ key services such as `VPC Service Controls`, `Security Command Center`,
 for audit logging, compliance, and incident response.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ for audit logging, compliance, and incident response.
 * Establish audit logging, compliance controls, and incident response procedures.
 
 ## Outline
+
 <!-- chapter: gcp-security-foundations, duration: 1h -->
 * `GCP` Security Foundations
     * Shared responsibility model
@@ -105,4 +108,5 @@ for audit logging, compliance, and incident response.
     * Integration with `SIEM` and SOAR tools
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Model Context Protocol and Agent Interoperability
 
 ## Description
+
 The Model Context Protocol (`MCP`), introduced by `Anthropic` in late 2024 and rapidly adopted, is
 the emerging standard for how `LLM` applications expose tools, resources, and prompts to model
 clients in a language-and-vendor-neutral way. Around it, a small ecosystem of related interop
@@ -38,6 +39,7 @@ Participants leave able to build an `MCP` server, integrate one into a host, and
 agent-interop choices.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ agent-interop choices.
 * recognize the patterns that work and the ones that do not
 
 ## Outline
+
 <!-- chapter: what-mcp-actually-is, duration: 1h -->
 * What `MCP` actually is
     * the open-protocol idea
@@ -135,4 +138,5 @@ agent-interop choices.
     * the read-only-by-default pattern
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

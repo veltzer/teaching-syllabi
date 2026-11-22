@@ -15,9 +15,11 @@ audience:
 # `C++` `STL` and Boost
 
 ## Description
+
 This course various topics related to `STL` and Boost which are commonly used in the industry and their pitfalls.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ This course various topics related to `STL` and Boost which are commonly used in
 * gain practical knowledge of Exercises
 
 ## Outline
+
 <!-- chapter: stl, duration: 7h -->
 * `STL`
     * Performance of various `STL` data structures.
@@ -62,4 +65,5 @@ This course various topics related to `STL` and Boost which are commonly used in
 * Each topic will be expounded by examples
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

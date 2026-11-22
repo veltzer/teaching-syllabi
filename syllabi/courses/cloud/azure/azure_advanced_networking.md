@@ -20,6 +20,7 @@ duration_hours: 32
 # `Azure` Advanced Networking with Labs
 
 ## Description
+
 This is a practical, hands-on course for engineers who already know the `Azure`
 basics and now need to design, build, secure, and operate production-grade
 network infrastructure on `Microsoft Azure`. Almost every chapter is built
@@ -42,6 +43,7 @@ in a vendor-neutral way. Where an `AWS` or `GCP` equivalent exists (for example
 called out so the skills transfer across clouds.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -72,6 +74,7 @@ called out so the skills transfer across clouds.
 * Students are encouraged to tear down resources after each lab to control cost.
 
 ## Outline
+
 <!-- chapter: vnet-design-and-segmentation-lab, duration: 4h -->
 * `VNet` Design and Segmentation (Lab)
     * `VNet` address spaces and `CIDR` planning at scale
@@ -143,6 +146,7 @@ called out so the skills transfer across clouds.
 * `AKS` networking internals, which are covered in a dedicated containers course.
 
 ## Installations
+
 Each student should have:
 
 * An `Azure` subscription with permissions to create `VNets`, peerings, load
@@ -155,4 +159,5 @@ Each student should have:
 * Awareness that running labs incurs `Azure` charges; tearing down resources after each lab is recommended.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

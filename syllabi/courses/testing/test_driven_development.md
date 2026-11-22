@@ -17,9 +17,11 @@ audience:
 # Test-Driven Development
 
 ## Description
+
 This course covers the principles and practices of Test-Driven Development (`TDD`), guiding developers through the red-green-refactor cycle and beyond. Students will learn how to write effective tests first, use test doubles and mocking strategies, apply Behavior-Driven Development (`BDD`), and design robust test architectures that support continuous refactoring and long-term code quality.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course covers the principles and practices of Test-Driven Development (`TDD
 * Refactor production code safely with comprehensive test coverage
 
 ## Outline
+
 <!-- chapter: introduction-to-tdd, duration: 1h -->
 * Introduction to `TDD`
     * What is Test-Driven Development
@@ -124,4 +127,5 @@ This course covers the principles and practices of Test-Driven Development (`TDD
     * Code review practices for test quality
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Distributed Tracing in Practice
 
 ## Description
+
 The catalog has `OpenTelemetry`, `OpenTelemetry Deep Dive`, `Jaeger`, and `Datadog`. Each touches
 distributed tracing. None is the focused course on the engineering practice of operating distributed
 tracing in a real production system: how to instrument across the stack, how to propagate context
@@ -38,6 +39,7 @@ proxies and load balancers, and the patterns that `make` tracing actually used. 
 production debugging walkthroughs. Participants leave able to deploy and exploit distributed tracing.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ production debugging walkthroughs. Participants leave able to deploy and exploit
 * recognize the patterns that `make` tracing useless
 
 ## Outline
+
 <!-- chapter: the-span-model, duration: 1h -->
 * The span model
     * `trace_id`, `span_id`, parent
@@ -157,4 +160,5 @@ production debugging walkthroughs. Participants leave able to deploy and exploit
     * the validation tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,9 +15,11 @@ audience:
 # Rust For System Programming
 
 ## Description
+
 Rust is a powerful systems programming language known for its emphasis on memory safety, concurrency, and performance. With its modern syntax and strong type system, Rust provides developers with a reliable and efficient tool for building system-level software.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ Rust is a powerful systems programming language known for its emphasis on memory
 * Understand the advantaged and disadvantages of Rust when compared to other programming languages.
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * What is Rust?
@@ -99,4 +102,5 @@ Rust is a powerful systems programming language known for its emphasis on memory
     * Troubleshooting common issues in systems programming
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

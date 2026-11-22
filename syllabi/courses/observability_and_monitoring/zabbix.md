@@ -17,9 +17,11 @@ audience:
 # `Zabbix` Enterprise Monitoring
 
 ## Description
+
 `Zabbix` is a mature, open-source enterprise monitoring platform capable of monitoring the availability and performance of IT infrastructure components including servers, networks, applications, cloud resources, and services. Unlike lightweight cloud-native monitoring tools, `Zabbix` provides an all-in-one solution covering data collection, storage, visualization, alerting, and automation from a single platform with no per-host licensing costs. This course provides comprehensive training on deploying and operating `Zabbix` in enterprise environments, covering everything from basic host and item configuration to advanced topics such as `SNMP` integration, distributed monitoring with proxies, and automation through the `Zabbix` `API`. Participants will leave with the skills to design and maintain production-grade monitoring for complex heterogeneous infrastructures.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ audience:
 * Automate `Zabbix` configuration and integrate with external systems using the `API`
 
 ## Outline
+
 <!-- chapter: introduction-to-zabbix, duration: 2h -->
 * Introduction to `Zabbix`
     * Enterprise monitoring challenges and requirements
@@ -147,4 +150,5 @@ audience:
     * Sending custom data with `zabbix_sender`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

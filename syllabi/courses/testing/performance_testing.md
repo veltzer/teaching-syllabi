@@ -19,9 +19,11 @@ audience:
 # Performance Testing
 
 ## Description
+
 This course provides a focused introduction to performance testing, covering load testing, profiling, benchmarking, and capacity planning. Students will gain hands-on experience with industry tools such as `k6`, Locust, and `Gatling`, and learn how to define and validate SLAs, identify bottlenecks, and ensure applications meet performance requirements under realistic conditions.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a focused introduction to performance testing, covering loa
 * Define, validate, and report against SLAs
 
 ## Outline
+
 <!-- chapter: performance-testing-fundamentals, duration: 1h -->
 * Performance Testing Fundamentals
     * What is performance testing and why it matters
@@ -129,4 +132,5 @@ This course provides a focused introduction to performance testing, covering loa
     * Communicating findings to stakeholders
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

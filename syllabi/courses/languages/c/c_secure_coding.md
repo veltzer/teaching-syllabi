@@ -14,10 +14,12 @@ audience:
 # Coding securely in C
 
 ## Description
+
 This course was designed for users of the `clang` tool-chain.
 For `GCC` modifications need to be made.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ For `GCC` modifications need to be made.
 * gain practical knowledge of Integer security
 
 ## Outline
+
 <!-- chapter: motivation-for-secure-programming, duration: 1h -->
 * Motivation for Secure Programming
     * In User Space/Kernel Space systems
@@ -129,4 +132,5 @@ For `GCC` modifications need to be made.
     * Insecure usage of shared directories
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

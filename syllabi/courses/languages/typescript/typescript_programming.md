@@ -14,9 +14,11 @@ audience:
 # `TypeScript` Programming
 
 ## Description
+
 `TypeScript` is a strongly typed superset of `JavaScript` developed by Microsoft that compiles to plain `JavaScript`. It has become the standard for large-scale `JavaScript` development, providing type safety, better tooling, and improved maintainability. This course covers the `TypeScript` language from the ground up, including its type system, advanced types, and integration with modern development workflows.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ audience:
 * Integrate `TypeScript` into existing `JavaScript` projects
 
 ## Outline
+
 <!-- chapter: introduction-to-typescript, duration: 3h -->
 * Introduction to `TypeScript`
     * Why `TypeScript`?
@@ -121,4 +124,5 @@ audience:
     * Testing `TypeScript` code
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

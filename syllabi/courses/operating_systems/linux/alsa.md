@@ -19,9 +19,11 @@ audience:
 # `ALSA` - Advanced `Linux` Sound Architecture
 
 ## Description
+
 The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designed for developers who want to master audio programming in `Linux` environments. This comprehensive course covers the fundamentals of `ALSA`, including its architecture, core concepts, and `API`. Students will learn how to initialize sound devices, manage audio streams, and handle various audio formats. The curriculum progresses through topics such as PCM (Pulse-Code Modulation) handling, mixer controls, MIDI interfaces, and asynchronous audio programming. Practical sessions include writing C programs to capture and playback audio, implement volume controls, and create custom audio effects. Advanced topics cover low-latency audio processing, multi-channel audio, and integration with other `Linux` audio systems like PulseAudio. Participants will acquire the skills to develop sophisticated audio applications for `Linux` using `ALSA`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
 * gain practical knowledge of Looking at `ALSA` from user space into kernel
 
 ## Outline
+
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
     * Glossary
@@ -94,4 +97,5 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
     * Other existing applications
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

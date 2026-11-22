@@ -16,9 +16,11 @@ audience:
 # `RabbitMQ` for `DevOps`
 
 ## Description
+
 This course covers `RabbitMQ` from a `DevOps` perspective, focusing on deployment, configuration, clustering, security, and operational management. Students will learn about `AMQP` messaging topology, quorum queues, network partition handling, performance optimization, monitoring, and upgrade strategies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This course covers `RabbitMQ` from a `DevOps` perspective, focusing on deploymen
 * gain practical knowledge of Messaging topology
 
 ## Outline
+
 <!-- chapter: rabbitmq-use-cases, duration: 1h -->
 * `RabbitMQ` use cases
 <!-- chapter: amqp, duration: 1h -->
@@ -73,4 +76,5 @@ This course covers `RabbitMQ` from a `DevOps` perspective, focusing on deploymen
 * Upgrading `RabbitMQ`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

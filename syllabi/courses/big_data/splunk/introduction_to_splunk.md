@@ -19,6 +19,7 @@ duration_hours: 16
 # Introduction to `Splunk`
 
 ## Description
+
 This course introduces `Splunk`, a powerful platform for operational intelligence and log management. Students will learn how to navigate the `Splunk` interface, run basic searches, understand search results, and create reports. The course covers stats, tags, event types, and dashboards.
 
 ## Duration
@@ -43,6 +44,7 @@ This course introduces `Splunk`, a powerful platform for operational intelligenc
 * Create reports and dashboards.
 
 ## Outline
+
 <!-- chapter: getting-started-with-splunk, duration: 3h -->
 * Getting Started with `Splunk`
     * What is `Splunk` and why use it
@@ -90,4 +92,5 @@ This course introduces `Splunk`, a powerful platform for operational intelligenc
     * Alerts and scheduled searches [long]
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

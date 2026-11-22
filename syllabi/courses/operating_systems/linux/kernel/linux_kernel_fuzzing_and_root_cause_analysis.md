@@ -20,9 +20,11 @@ audience:
 # `Linux` Kernel Fuzzing and Root Cause Analysis
 
 ## Description
+
 This advanced course is designed for security researchers, experienced penetration testers, exploit developers, and kernel developers with strong `Linux` and programming backgrounds. The course provides comprehensive training in kernel fuzzing methodologies, crash analysis techniques, and exploitability assessment. Students will learn to identify, analyze, and develop exploits for kernel vulnerabilities through hands-on fuzzing campaigns and real-world case studies.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This advanced course is designed for security researchers, experienced penetrati
 * Basic understanding of virtualization technologies
 
 ## Objectives
+
 Upon completion, delegates will be able to:
 * Set up and configure comprehensive kernel fuzzing environments
 * Implement advanced fuzzing techniques for kernel components and drivers
@@ -60,6 +63,7 @@ Upon completion, delegates will be able to:
 * End-to-end vulnerability discovery and exploitation lab
 
 ## Outline
+
 <!-- chapter: introduction-to-kernel-fuzzing, duration: 9h -->
 * Introduction to Kernel Fuzzing
     * Overview of `Linux` kernel architecture and attack surface
@@ -129,4 +133,5 @@ Upon completion, delegates will be able to:
 * [`Linux` Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

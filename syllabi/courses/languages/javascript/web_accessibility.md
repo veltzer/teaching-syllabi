@@ -14,9 +14,11 @@ audience:
 # Web Accessibility
 
 ## Description
+
 Web accessibility ensures that websites and web applications are usable by everyone, including people with disabilities. This course provides a comprehensive understanding of accessibility principles, standards, and practical techniques for building inclusive web experiences. It covers `WCAG 2.2` guidelines, ARIA specifications, assistive technology compatibility, testing strategies, and legal requirements, with hands-on application in modern front-end frameworks.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ Web accessibility ensures that websites and web applications are usable by every
 * Establish accessibility workflows and standards within development teams
 
 ## Outline
+
 <!-- chapter: introduction-to-web-accessibility, duration: 1h -->
 * Introduction to Web Accessibility
     * What is web accessibility and why it matters
@@ -135,4 +138,5 @@ Web accessibility ensures that websites and web applications are usable by every
     * Establishing accessibility guidelines for development teams
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

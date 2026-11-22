@@ -15,6 +15,7 @@ audience:
 # Dojo Framework
 
 ## Description
+
 The Dojo Toolkit is an open-source library of `JavaScript` code that
 leverages methodologies including the Ajax technique. In this course
 you will explore the Dojo Toolkit, create a feature-rich web application
@@ -22,6 +23,7 @@ based with the Dojo toolkit, implementing features typically difficult for
 Ajax-enabled applications and more.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ Ajax-enabled applications and more.
 * gain practical knowledge of Programmatic vs. Declarative Dojo
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * what is Dojo ?
@@ -118,4 +121,5 @@ Ajax-enabled applications and more.
 * Firefox with firebug installed for debugging and understanding
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

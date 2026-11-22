@@ -17,9 +17,11 @@ audience:
 # Embedded Rust Programming
 
 ## Description
+
 This course is intended for Rust developers who wish to delve deeper into Rust because they are using Rust in an embedded context. This course covers topics such as how to use Rust in a "bare-metal" or "no-os" context, how to embed `rust` code in a C/`C++` program/context and how to call C/`C++` code from a Rust context
 
 ## Duration
+
 8 hours / 1 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ This course is intended for Rust developers who wish to delve deeper into Rust b
 * Learn some of the pitfalls when mixing and matching C and Rust
 
 ## Outline
+
 <!-- chapter: calling-rust-from-c, duration: 1h -->
 * Calling Rust from C
     * types
@@ -64,4 +67,5 @@ This course is intended for Rust developers who wish to delve deeper into Rust b
 * [Using C libraries in Rust](https://medium.com/dwelo-r-d/using-c-libraries-in-rust-13961948c72a)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

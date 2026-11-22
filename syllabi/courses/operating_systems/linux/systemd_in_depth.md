@@ -18,6 +18,7 @@ audience:
 # `systemd` in Depth
 
 ## Description
+
 The catalog has `Linux Fundamentals`, `Linux for Developers`, `Linux System Administration`,
 `Embedded Linux for User Space Developers`, and several `Linux` debugging and performance courses.
 None of those is the focused course on `systemd` — the init system, service manager, dependency
@@ -41,6 +42,7 @@ production deployments. Participants leave able to write, debug, and operate `sy
 work and that fail safely.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -65,6 +67,7 @@ work and that fail safely.
 * debug a misbehaving `systemd` unit
 
 ## Outline
+
 <!-- chapter: what-systemd-actually-is, duration: 1h -->
 * What `systemd` actually is
     * init system, service manager, and more
@@ -163,4 +166,5 @@ work and that fail safely.
     * the "we removed `systemd` for size" trade-off
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # Message Queues
 
 ## Description
+
 Message queues are arguably the most important tool in a software architects toolbox. Sadly though they
 are not discussed seriously enough in architecting classes and software development courses.
 This lecture is intended to fill some knowledge gap and explain when you should use this tool, when you
@@ -22,6 +23,7 @@ should not, and what Message Queue features would be of interest to an architect
 scalable, durable and efficient system.
 
 ## Duration
+
 1 hour
 
 ## Intended Audience
@@ -38,6 +40,7 @@ scalable, durable and efficient system.
 * gain practical knowledge of features of message queues
 
 ## Outline
+
 <!-- chapter: when-to-use-a-message-queue-from-an-architecture-perspective, duration: 1h -->
 * when to use a message queue from an architecture perspective
     * mq vs `API` vs other queue like features (internet of things messaging)
@@ -66,4 +69,5 @@ scalable, durable and efficient system.
     * `Kafka`, `ActiveMQ`, `RabbitMQ`, Pulsar, `Azure` queues.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

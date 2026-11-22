@@ -21,6 +21,7 @@ audience:
 # Disaster Recovery In Practice
 
 ## Description
+
 The architecting/disaster_recovery course in the catalog covers the conceptual side: `RPO`, `RTO`, multi-region
 patterns, the cold-warm-hot spectrum. This course is the implementation complement. It is about the actual
 engineering work: backups that are tested, runbooks that have been used, failover that has been rehearsed,
@@ -34,6 +35,7 @@ game-day patterns that build muscle memory, the regulatory dimension, and the op
 leave able to design, run and prove a `DR` capability rather than just document one.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
 * meet the regulatory and audit dimension without ceremony
 
 ## Outline
+
 <!-- chapter: dr-vs-ha-vs-business-continuity, duration: 2h -->
 * `DR` vs `HA` vs business continuity
     * the difference between resilience and disaster recovery
@@ -188,4 +191,5 @@ leave able to design, run and prove a `DR` capability rather than just document 
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

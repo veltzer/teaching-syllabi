@@ -19,6 +19,7 @@ audience:
 # Spec-Driven Development with `AI`
 
 ## Description
+
 Prompting a coding agent turn by turn works for small tasks and falls apart
 for large ones: the agent forgets earlier decisions, the developer loses
 track of what was agreed, and the resulting code matches nobody's intent.
@@ -39,6 +40,7 @@ The course assumes participants already develop with `AI` assistance day to
 day. It does not re-teach prompt engineering or how coding agents work.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -64,6 +66,7 @@ day. It does not re-teach prompt engineering or how coding agents work.
 * **Judge** when `SDD` pays off and when it is ceremony
 
 ## Outline
+
 <!-- chapter: from-vibe-coding-to-specs, duration: 1h -->
 * From Vibe Coding to Specs
     * How prompt-by-prompt development fails at scale
@@ -166,6 +169,7 @@ day. It does not re-teach prompt engineering or how coding agents work.
         * A checklist for the first month
 
 ## Installations
+
 Each student should have:
 
 * A laptop with a modern editor (`VS Code` or similar) and permission to
@@ -181,4 +185,5 @@ Each student should have:
   blocks the student's `AI` provider.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,9 +18,11 @@ audience:
 # `Azure DevOps`
 
 ## Description
+
 This course provides a comprehensive overview of the `Azure DevOps` platform and its core services. Participants will learn how to plan work with boards, manage source code with repos, build `CI/CD` pipelines, manage packages with artifacts, create test plans, and implement release management strategies. The course is designed for teams looking to adopt `Azure DevOps` as their end-to-end software delivery platform.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course provides a comprehensive overview of the `Azure DevOps` platform and
 * Implement release management and deployment strategies.
 
 ## Outline
+
 <!-- chapter: introduction-to-azure-devops, duration: 2h -->
 * Introduction to `Azure DevOps`
     * `Azure DevOps` services overview
@@ -104,4 +107,5 @@ This course provides a comprehensive overview of the `Azure DevOps` platform and
     * Monitoring deployments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

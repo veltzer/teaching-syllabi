@@ -20,6 +20,7 @@ audience:
 # Code Review
 
 ## Description
+
 Code review is one of the highest-leverage activities a software team performs and one of the most poorly taught. Done
 well, it catches defects, spreads knowledge, mentors juniors and shapes architecture. Done poorly, it slows delivery,
 demoralizes contributors and produces inconsistent codebases.
@@ -31,6 +32,7 @@ The course also covers security-aware review, performance-aware review, and the 
 `AI`-generated code. Participants will leave able to give and receive review that improves both code and people.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ The course also covers security-aware review, performance-aware review, and the 
 * design and tune a team's code review process
 
 ## Outline
+
 <!-- chapter: why-code-review-and-what-its-actually-for, duration: 2h -->
 * Why code review and what it's actually for
     * the multiple goals of review: defects, design, mentoring, ownership
@@ -194,4 +197,5 @@ The course also covers security-aware review, performance-aware review, and the 
     * recommended reading and further study
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

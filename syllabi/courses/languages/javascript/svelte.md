@@ -14,9 +14,11 @@ audience:
 # Svelte and SvelteKit Development
 
 ## Description
+
 Svelte is a modern front-end framework that shifts work from the browser to the compile step, producing highly optimized vanilla `JavaScript` with no virtual DOM overhead. Combined with SvelteKit, its full-stack application framework, developers can build fast, server-rendered, and statically generated web applications. This course covers Svelte fundamentals through advanced patterns and full-stack development with SvelteKit.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 * Deploy SvelteKit applications to various hosting platforms
 
 ## Outline
+
 <!-- chapter: introduction-to-svelte, duration: 2h -->
 * Introduction to Svelte
     * What is Svelte and how it differs from React and Vue
@@ -140,4 +143,5 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
     * Building for production and bundle analysis
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # `C++` Debugging
 
 ## Description
+
 This course provides comprehensive training in debugging `C++` applications using industry-standard tools. Participants will master `GDB`, `Valgrind`, sanitizers, and reverse debugging techniques. The course covers debugging multi-threaded code, template-heavy codebases, and production systems, equipping developers with the skills to diagnose and resolve the most challenging `C++` bugs efficiently.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides comprehensive training in debugging `C++` applications usin
 * Debug multi-threaded and template-heavy `C++` code effectively
 
 ## Outline
+
 <!-- chapter: gdb-mastery, duration: 3h -->
 * `GDB` Mastery
     * Compiling for debugging: -g, -Og, and debug info levels
@@ -118,4 +121,5 @@ This course provides comprehensive training in debugging `C++` applications usin
     * Remote debugging from an IDE
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # `HashiCorp Vault`
 
 ## Description
+
 This course covers `HashiCorp Vault`, the industry-standard tool for secrets management,
 encryption as a service, and identity-based access. Students will learn how to deploy,
 configure, and operate Vault in production environments.
@@ -26,6 +27,7 @@ with dynamic secrets, the transit engine, Vault Agent, and integrations with `Ku
 and `Terraform`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ and `Terraform`.
 * Design highly available and disaster-recoverable Vault deployments.
 
 ## Outline
+
 <!-- chapter: secrets-management-concepts, duration: 1h -->
 * Secrets Management Concepts
     * The secrets sprawl problem
@@ -141,4 +144,5 @@ and `Terraform`.
     * Pod identity and authentication
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

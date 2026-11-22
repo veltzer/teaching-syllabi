@@ -20,6 +20,7 @@ audience:
 # Intel Compiler Optimization for `Linux`
 
 ## Description
+
 The "Intel Compiler Optimization for `Linux`" course is an advanced program designed for software developers and performance engineers seeking to maximize application performance on Intel architectures.
 This comprehensive course delves into the intricacies of the Intel `C++` Compiler (ICC) and Intel `FORTRAN` Compiler (IFC) within `Linux` environments.
 Participants will explore compiler-based optimization techniques, including vectorization, parallelization, and interprocedural optimization.
@@ -30,6 +31,7 @@ The course also covers advanced topics like offloading computations to Intel GPU
 Attendees will be equipped to significantly enhance the performance of their `Linux` applications using Intel's cutting-edge compiler technologies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ Attendees will be equipped to significantly enhance the performance of their `Li
 * gain practical knowledge of Vectorization
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * Overview of Intel Compiler Suite
@@ -105,4 +108,5 @@ Attendees will be equipped to significantly enhance the performance of their `Li
 * [Intel Compiler](http://denali.princeton.edu/IntelXe2011/compiler_c/main_cls/index.htm#bldaps_cls/common/bldaps_pch_comm.htm)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,6 +17,7 @@ audience:
 # Multi Core Programming
 
 ## Description
+
 C/`C++` projects are hard to develop and maintain but provide performance gains relative to other
 programming languages. But they also offer the ability to tune your application to the hardware architecture
 that you are running on top of. Failure to do this tuning will result is application under performance.
@@ -46,6 +47,7 @@ program efficiently when running on this platform.
 * gain practical knowledge of multi-core vs multi-`cpu`
 
 ## Outline
+
 <!-- chapter: basics-of-scaling-hardware, duration: 1h -->
 * Basics of scaling hardware
     * Why is Moore's law outdated
@@ -119,4 +121,5 @@ program efficiently when running on this platform.
     * Semaphore
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

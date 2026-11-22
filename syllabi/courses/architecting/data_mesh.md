@@ -17,9 +17,11 @@ audience:
 # Data Mesh
 
 ## Description
+
 This course provides a comprehensive exploration of the data mesh paradigm, a decentralized approach to data architecture and organizational design. Participants will learn the four core principles of data mesh: domain-oriented data ownership, data as a product, self-serve data platform, and federated computational governance. The course covers practical aspects of designing data products, establishing data contracts, ensuring data quality, driving organizational change, and building platform engineering capabilities for data. Comparisons with traditional data lake and data warehouse approaches provide context for adoption decisions.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a comprehensive exploration of the data mesh paradigm, a de
 * Plan and execute organizational change for data mesh adoption
 
 ## Outline
+
 <!-- chapter: introduction-to-data-mesh, duration: 1h -->
 * Introduction to Data Mesh
     * The challenges of centralized data architectures
@@ -129,4 +132,5 @@ This course provides a comprehensive exploration of the data mesh paradigm, a de
     * Maturity model for data mesh adoption
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

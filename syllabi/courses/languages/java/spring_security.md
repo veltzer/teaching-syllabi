@@ -18,9 +18,11 @@ audience:
 # `Spring Security`
 
 ## Description
+
 This course provides an in-depth exploration of `Spring Security` for building secure `Java` applications. Covering authentication and authorization mechanisms, `OAuth2` and `OpenID Connect` integration, `JWT`-based stateless authentication, method-level security, and protection against common web vulnerabilities, the course equips developers with the knowledge to implement robust security in `Spring Boot` applications.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
 * Customize security filters and build custom authentication mechanisms
 
 ## Outline
+
 <!-- chapter: spring-security-architecture, duration: 2h -->
 * `Spring Security` Architecture
     * Overview of `Spring Security` and its role in the Spring ecosystem
@@ -123,4 +126,5 @@ This course provides an in-depth exploration of `Spring Security` for building s
     * Security best practices and common vulnerabilities
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

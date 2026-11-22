@@ -18,6 +18,7 @@ audience:
 # Introduction to `Selenium`
 
 ## Description
+
 `Selenium` is a tool that allows developers to automate actions in a web browser and save them as automated tests for replay at a later time. The Introduction to `Selenium` course teaches developers to leverage `Selenium` and related tooling to test applications in browsers.
 
 `Selenium` is a tool that allows developers to automate actions in a web browser and save them as automated tests for replay at a later time. The Introduction to `Selenium` course teaches developers to leverage `Selenium` and related tooling to test applications in browsers.
@@ -25,6 +26,7 @@ audience:
 The Introduction to `Selenium` course begins with an exploration of web testing, the history of web testing, and the `Selenium` project and its many facets. The course then transitions into discussing the `Selenium` integrated development environment (IDE), `Selenium` Commands, and the `Selenium` Web Driver. The course concludes with a discussion and hands-on exercises around `Selenium` Remote Control, `Selenium` Grid, and using `Selenium` in real life. The course would be valuable for developers and developer teams who need to robustly test their web application UIs.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
 * Use Web Driver with `Selenium` to create and run unit tests.
 
 ## Outline
+
 <!-- chapter: an-overview-of-selenium, duration: 1h -->
 * An Overview of `Selenium`
     * Web Testing
@@ -119,4 +122,5 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
     * Key Features
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

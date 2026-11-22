@@ -15,12 +15,14 @@ audience:
 # Serverless on `Azure`
 
 ## Description
+
 This course covers the serverless computing landscape on `Microsoft Azure`. Participants will
 learn to build event-driven, scalable applications using `Azure Functions`, `Logic Apps`, and
 supporting services. The course addresses integration with `Azure` data and messaging services,
 security best practices, monitoring, `CI/CD`, and cost management for serverless workloads.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ security best practices, monitoring, `CI/CD`, and cost management for serverless
 * implement security, monitoring, and `CI/CD` for serverless applications.
 
 ## Outline
+
 <!-- chapter: azure-serverless-overview, duration: 1h -->
 * `Azure` serverless overview
     * what is serverless on `Azure`
@@ -132,4 +135,5 @@ security best practices, monitoring, `CI/CD`, and cost management for serverless
     * migration considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

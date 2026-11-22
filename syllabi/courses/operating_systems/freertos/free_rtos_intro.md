@@ -17,11 +17,13 @@ audience:
 # `FreeRTOS` intro
 
 ## Description
+
 `FreeRTOS` is fast becoming an industry standard as an operating system for Real Time
 systems on micro controllers and small microprocessors. This course introduces developers
 to `FreeRTOS` and teaches how write effective software for this OS kernel.
 
 ## Duration
+
 80 hours / 10 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * gain practical knowledge of Tasks
 
 ## Outline
+
 <!-- chapter: demo-projects, duration: 5h -->
 * Demo projects
 <!-- chapter: coding-standard, duration: 5h -->
@@ -75,4 +78,5 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 * Hook functions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

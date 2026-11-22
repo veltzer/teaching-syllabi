@@ -16,6 +16,7 @@ audience:
 # `Design Patterns` and Advanced Object-Oriented Design for `Python` Developers
 
 ## Description
+
 `Design patterns` are solutions to software design problems that recur during real-world application development and that apply good software design principles.
 Through the use of patterns developers and architects reuse the valuable experience gained by others who have successfully solved similar problems.
 The design pattern terminology also serves as a common language to succinctly describe parts of system design.
@@ -27,6 +28,7 @@ For each of studied patterns you will learn the motivation and context of the pa
 The study of each pattern will be accompanied by real-world examples and a lab in which you will practice applying the pattern in the `Java` programming language.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ The study of each pattern will be accompanied by real-world examples and a lab i
 * Learn when, how and which pattern to use, if appropriate for a new problem
 
 ## Outline
+
 <!-- chapter: object-orientation-refresher, duration: 11h -->
 * Object Orientation Refresher
     * What is the Object Oriented Paradigm
@@ -167,4 +170,5 @@ The study of each pattern will be accompanied by real-world examples and a lab i
         * Overview of other GOF and non GOF patterns
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

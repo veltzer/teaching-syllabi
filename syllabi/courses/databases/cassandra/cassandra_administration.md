@@ -16,9 +16,11 @@ audience:
 # `Cassandra` Administration
 
 ## Description
+
 This course provides comprehensive training on administering `Apache Cassandra` clusters in production environments. Participants will learn how to manage day-to-day cluster operations, perform repairs, configure compaction strategies, and monitor cluster health. The course also covers backup and restore procedures, security hardening, multi-datacenter deployments, and performance tuning techniques essential for maintaining reliable and high-performing `Cassandra` infrastructure.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course provides comprehensive training on administering `Apache Cassandra` 
 * Diagnose and resolve performance bottlenecks
 
 ## Outline
+
 <!-- chapter: cluster-operations, duration: 2h -->
 * Cluster Operations
     * `Cassandra` architecture review
@@ -148,4 +151,5 @@ This course provides comprehensive training on administering `Apache Cassandra` 
     * Benchmarking with `cassandra`-stress
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

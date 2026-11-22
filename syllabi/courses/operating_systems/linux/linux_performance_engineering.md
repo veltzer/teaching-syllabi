@@ -22,6 +22,7 @@ audience:
 # `Linux` Performance Engineering
 
 ## Description
+
 This five day course is a deep dive into `Linux` performance engineering. It covers the full performance lifecycle:
 methodology and goal-setting, profiling and tracing, subsystem-by-subsystem analysis and tuning of `CPU`, memory, `I/O`,
 filesystems and networking, application-level optimization, kernel tuning, resource isolation with `cgroups`,
@@ -33,6 +34,7 @@ optimizations at the application, kernel and hardware levels. The course assumes
 moves quickly into deep technical material.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ moves quickly into deep technical material.
 * communicate performance findings effectively
 
 ## Outline
+
 <!-- chapter: performance-engineering-methodology, duration: 2h -->
 * Performance engineering methodology
     * defining performance goals and `SLAs`
@@ -195,4 +198,5 @@ moves quickly into deep technical material.
     * further study: `eBPF` programming, kernel internals
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

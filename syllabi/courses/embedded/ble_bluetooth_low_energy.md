@@ -14,12 +14,14 @@ audience:
 # BLE - `Bluetooth` Low Energy
 
 ## Description
+
 This course provides a thorough understanding of `Bluetooth` Low Energy (BLE), covering the
 full protocol stack, GATT-based services, security mechanisms, and practical development on
 embedded and mobile platforms. Students will learn to design, implement, and debug BLE
 applications with a focus on power efficiency and interoperability.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ applications with a focus on power efficiency and interoperability.
 * gain practical knowledge of BLE development on embedded and mobile platforms
 
 ## Outline
+
 <!-- chapter: ble-overview, duration: 1h -->
 * BLE Overview
     * `Bluetooth` evolution and BLE motivation
@@ -149,4 +152,5 @@ applications with a focus on power efficiency and interoperability.
     * Isochronous channels (BLE 5.2+)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

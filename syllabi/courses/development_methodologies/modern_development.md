@@ -17,12 +17,14 @@ audience:
 # Modern Development
 
 ## Description
+
 This course discusses some of the leading topics of development from the experience
 of professional developers: Configuration management, Build systems, Modern QA and Team leading.
 It discusses when some of these tools and/or ideas help you do more and when and why they sometimes
 fail.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -39,6 +41,7 @@ fail.
 * gain practical knowledge of Modern QA
 
 ## Outline
+
 <!-- chapter: configuration-management, duration: 1h -->
 * Configuration management
     * comparing various tools (`git`, ClearCase, aegis, CVS, BitKeeper, `subversion`).
@@ -86,4 +89,5 @@ fail.
     * not inventing the wheel.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

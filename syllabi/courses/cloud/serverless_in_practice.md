@@ -21,6 +21,7 @@ audience:
 # Serverless In Practice
 
 ## Description
+
 Serverless platforms `make` it easy to ship a working endpoint and hard to ship a production system. The first
 deployment takes minutes; the operational reality of cold starts, concurrency limits, packaging, eventing
 `glue`, observability gaps, error handling and cost surprises shows up after a feature ships and the bill
@@ -34,6 +35,7 @@ local development, security boundaries, cost engineering, and the realistic limi
 leave able to ship serverless systems that are fast, observable, debuggable and not surprisingly expensive.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 * identify when serverless is the wrong choice
 
 ## Outline
+
 <!-- chapter: the-serverless-model, duration: 2h -->
 * The serverless model
     * the execution model: invoke, run, freeze, recycle
@@ -182,4 +185,5 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

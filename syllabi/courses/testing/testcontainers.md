@@ -15,9 +15,11 @@ audience:
 # `Testcontainers`
 
 ## Description
+
 This course explores `Testcontainers`, the open-source library that enables developers to run real service dependencies inside `Docker` containers as part of automated integration tests. Students will learn to replace fragile in-memory fakes with production-equivalent databases, message brokers, and other infrastructure, making integration tests reliable and portable across developer machines and CI environments. The course covers `Java`, `Python`, and Go flavours of the library, as well as advanced topics such as network configuration, `Docker` Compose support, and parallelism. Participants will leave with a practical approach to writing integration tests that test the whole stack without shared external environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course explores `Testcontainers`, the open-source library that enables deve
 * Integrate `Testcontainers` into `CI/CD` pipelines reliably
 
 ## Outline
+
 <!-- chapter: introduction-to-integration-testing-challenges, duration: 1h -->
 * Introduction to Integration Testing Challenges
     * The testing pyramid and the role of integration tests
@@ -124,4 +127,5 @@ This course explores `Testcontainers`, the open-source library that enables deve
     * `Testcontainers Cloud` as a CI-friendly alternative
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # NLP with `Python`
 
 ## Description
+
 This course provides a comprehensive guide to Natural Language Processing using `Python`. Participants
 will progress from classical text processing techniques through modern transformer-based models,
 covering tokenization, embeddings, text classification, named entity recognition, sequence models,
@@ -23,6 +24,7 @@ the attention mechanism, and the `Hugging Face` ecosystem. The course includes h
 answering, and text generation.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ answering, and text generation.
 * **Deploy NLP models** for production text processing applications
 
 ## Outline
+
 <!-- chapter: nlp-fundamentals, duration: 3h -->
 * NLP Fundamentals
     * Text preprocessing
@@ -287,4 +290,5 @@ answering, and text generation.
         * Monitoring model performance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

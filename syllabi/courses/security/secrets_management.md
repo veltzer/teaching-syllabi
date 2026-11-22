@@ -21,6 +21,7 @@ audience:
 # Secrets Management
 
 ## Description
+
 Almost every breach disclosure mentions a leaked or mismanaged secret. `API keys` committed to repositories, long-lived
 database passwords copied between systems, certificates that nobody knows how to rotate, and `.env` files passed around
 in chat. Secrets are everywhere, and most organizations manage them poorly.
@@ -33,6 +34,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 `AWS KMS`/`Secrets Manager`, `Google Cloud KMS`, `Azure Key Vault`, or a combination.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 * build a secrets program with policies, audit and compliance
 
 ## Outline
+
 <!-- chapter: the-secrets-problem, duration: 2h -->
 * The secrets problem
     * what counts as a secret
@@ -195,4 +198,5 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

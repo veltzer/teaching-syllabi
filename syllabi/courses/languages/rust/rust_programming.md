@@ -15,11 +15,13 @@ audience:
 # Rust Programming
 
 ## Description
+
 Rust is an open-source Systems Programming language that focuses on speed, memory safety, and parallelism. Developers use Rust to create a wide range of new software applications, such as game engines, operating systems, file systems, browser components and simulation engines for virtual reality.
 This course teaches you how to install Rust and then familiarize yourself with basic concepts like variables, data types, method syntax, enums, and more. Discover how the unique Ownership Principles of Rust impact the language. Data Handling, Pattern Matching, and Error Handling are also covered. The course also demonstrates use of generic types and traits, `File` `I/O`, Iterators and Closure. Then we explore Smart Pointers, Concurrency and Object-Oriented programming in Rust.
 The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ The course includes hands on exercises.
 * Debug and test Rust applications
 
 ## Outline
+
 <!-- chapter: getting-started-with-rust, duration: 3h -->
 * Getting Started with Rust
     * What is Rust and why use it?
@@ -122,4 +125,5 @@ The course includes hands on exercises.
     * Common tools and utilities
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

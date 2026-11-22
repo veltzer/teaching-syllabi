@@ -17,10 +17,12 @@ audience:
 # `Gradle`
 
 ## Description
+
 `Gradle` is a widely adopted build system which allows for building complex pieces of software in various
 languages, testing them and deploying.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -30,6 +32,7 @@ languages, testing them and deploying.
 * Anyone with some programming experience in the software industry.
 
 ## Prerequisites
+
 This course will involve hands on programming and fiddling so participants either be programmers
 or one who are capable of programming at a non advanced level at a minimum.
 
@@ -47,6 +50,7 @@ or one who are capable of programming at a non advanced level at a minimum.
 * Create and use configurations in `Gradle`
 
 ## Outline
+
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: groovy-basics, duration: 1h -->
@@ -75,4 +79,5 @@ or one who are capable of programming at a non advanced level at a minimum.
 * Multi project Builds
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # `RAG` Applications
 
 ## Description
+
 This course covers the design, implementation, and deployment of Retrieval-Augmented Generation
 (`RAG`) applications. Participants will learn how to build systems that ground `LLM` responses in
 external knowledge by combining document processing, embedding models, vector databases, and
@@ -23,6 +24,7 @@ advanced `RAG` patterns such as multi-hop and self-`RAG`, evaluation techniques,
 deployment best practices including monitoring, observability, and hallucination mitigation.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ deployment best practices including monitoring, observability, and hallucination
 * **Deploy and monitor** production `RAG` systems with strategies to handle hallucinations, data drift, and performance degradation
 
 ## Outline
+
 <!-- chapter: rag-architecture-overview, duration: 2h -->
 * `RAG` Architecture Overview
     * What is Retrieval-Augmented Generation
@@ -337,4 +340,5 @@ deployment best practices including monitoring, observability, and hallucination
         * Fallback responses
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

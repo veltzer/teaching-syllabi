@@ -16,9 +16,11 @@ audience:
 # `AWS` Advanced Networking
 
 ## Description
+
 This course provides an in-depth exploration of networking services and architectures on `AWS`. Students will learn how to design, implement, and troubleshoot complex network topologies including multi-`VPC`, hybrid, and global architectures. The course covers core networking primitives, advanced routing and load balancing, edge networking, and network security to prepare students for building production-grade network infrastructure on `AWS`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides an in-depth exploration of networking services and architec
 * Monitor and troubleshoot network connectivity issues.
 
 ## Outline
+
 <!-- chapter: vpc-deep-dive, duration: 2h -->
 * `VPC` Deep Dive
     * `VPC` architecture and design principles
@@ -148,4 +151,5 @@ This course provides an in-depth exploration of networking services and architec
     * Migration strategies for on-premises networks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

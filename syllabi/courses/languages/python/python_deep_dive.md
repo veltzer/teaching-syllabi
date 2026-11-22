@@ -15,6 +15,7 @@ audience:
 # `Python` Deep Dive for Programmers
 
 ## Description
+
 `Python` is a high-level interpreted language that comes with a rich set of data types, support
 for object-oriented and functional programming, and a versatile library. Combined with a
 large and active worldwide community of users, it is no surprise that `Python` is one of the
@@ -29,6 +30,7 @@ libraries and frameworks are chosen for simplicity and demonstration of the prog
 techniques acquired
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ techniques acquired
 * Apply Test-driven design with `Python` unit-testing.
 
 ## Outline
+
 <!-- chapter: python-refresher, duration: 3h -->
 * `Python` refresher
     * Types
@@ -149,4 +152,5 @@ techniques acquired
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

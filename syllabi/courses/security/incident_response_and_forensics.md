@@ -21,6 +21,7 @@ audience:
 # Security Incident Response and Forensics
 
 ## Description
+
 A security incident is not the same as a production outage. The clock is different, the stakeholders are
 different, and the wrong move in the first hour (rebooting a host, deleting a suspicious file, locking out an
 attacker who is being watched) can destroy the evidence you need to understand what happened. This five day
@@ -36,6 +37,7 @@ Participants leave able to lead a security incident, preserve evidence, and reco
 defensible rigor.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ defensible rigor.
 * build the program-level `IR` capability for an organization
 
 ## Outline
+
 <!-- chapter: a-security-incident-is-different, duration: 2h -->
 * A security incident is different
     * outage vs security incident: clock, scope, evidence
@@ -210,4 +213,5 @@ defensible rigor.
     * recommended reading: `SANS` papers, `Mandiant` reports
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

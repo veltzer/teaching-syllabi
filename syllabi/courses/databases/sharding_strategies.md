@@ -18,6 +18,7 @@ audience:
 # Sharding Strategies
 
 ## Description
+
 At some scale every database has to be sharded. The catalog covers `Database Design`, `Database
 Internals`, `Database Migration Strategies`, `Query Optimization and Indexing`, and several
 distributed-database courses (`CockroachDB`, `Cassandra`, `ScyllaDB`, `DynamoDB`). It does not have a
@@ -35,6 +36,7 @@ horizontal `Postgres` sharding, and Pinterest's `MySQL` sharding history. Partic
 `make` the sharding decision deliberately and avoid the migrations that have killed organizations.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ horizontal `Postgres` sharding, and Pinterest's `MySQL` sharding history. Partic
 * compare horizontal sharding to alternatives
 
 ## Outline
+
 <!-- chapter: when-to-shard-and-when-not-to, duration: 2h -->
 * `When` to shard and when not to
     * the "we are at the single-node ceiling" sign
@@ -147,4 +150,5 @@ horizontal `Postgres` sharding, and Pinterest's `MySQL` sharding history. Partic
     * what each got right and what they got wrong
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -19,6 +19,7 @@ audience:
 # `API` Evolution and Versioning
 
 ## Description
+
 Public and internal APIs are contracts. Once a client depends on an `API`, every change becomes a coordination problem
 between teams, organizations and sometimes thousands of unknown consumers. This five day course is dedicated entirely
 to the discipline of evolving APIs over time without breaking the people who depend on them.
@@ -30,6 +31,7 @@ predictable engineering process. Participants leave with a toolkit they can appl
 APIs with many consumers, and to the painful job of stabilizing a sprawling, inconsistent internal `API` landscape.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -54,6 +56,7 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 * govern an `API` portfolio with style guides, review boards and tooling
 
 ## Outline
+
 <!-- chapter: why-api-evolution-is-hard, duration: 2h -->
 * Why `API` evolution is hard
     * APIs as durable contracts
@@ -181,4 +184,5 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

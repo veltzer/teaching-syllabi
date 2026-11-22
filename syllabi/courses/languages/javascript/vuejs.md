@@ -14,9 +14,11 @@ audience:
 # `Vue.js` Development
 
 ## Description
+
 This course provides a comprehensive guide to building modern web applications with `Vue 3`. Starting from core fundamentals like the Composition `API`, reactivity, and component architecture, the course progresses through routing, state management with Pinia, form handling, `HTTP` integration, `TypeScript` support, testing, and server-side rendering with Nuxt.js. Students will gain the skills to build scalable, maintainable single-page applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ This course provides a comprehensive guide to building modern web applications w
 * Understand server-side rendering concepts with Nuxt.js
 
 ## Outline
+
 <!-- chapter: vue-3-fundamentals, duration: 4h -->
 * `Vue 3` Fundamentals
     * Introduction to `Vue.js` and the `Vue 3` ecosystem
@@ -136,4 +139,5 @@ This course provides a comprehensive guide to building modern web applications w
     * Performance optimization and lazy loading
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

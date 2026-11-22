@@ -18,6 +18,7 @@ audience:
 # Visual Regression Testing
 
 ## Description
+
 Visual regression testing — taking a screenshot of a page or component and comparing it to a stored
 baseline — has matured from a brittle hobby into a reliable engineering practice. The catalog has
 `Playwright`, `Advanced Playwright`, Cypress, `Selenium`, Jest, and `End-to-End Testing Strategy`,
@@ -38,6 +39,7 @@ visual-test setups. Participants leave able to introduce visual regression testi
 without making the test suite hostile.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ without making the test suite hostile.
 * recognize when visual tests are the wrong tool
 
 ## Outline
+
 <!-- chapter: what-visual-tests-catch, duration: 1h -->
 * What visual tests catch
     * the `CSS` regression
@@ -157,4 +160,5 @@ without making the test suite hostile.
     * the "we cancelled the contract because it was too expensive" outcome
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

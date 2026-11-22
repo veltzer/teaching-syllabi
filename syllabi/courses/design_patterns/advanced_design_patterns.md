@@ -16,6 +16,7 @@ audience:
 # Advanced `design patterns`
 
 ## Description
+
 `Design patterns` are solutions to software design problems that recur during real-world application
 development and that apply good software design principles.
 Through the use of patterns developers and architects reuse the valuable experience gained by
@@ -34,6 +35,7 @@ and a lab in which you will practice applying the pattern in the some programmin
 This is the full version of the `Design Patterns` Course covering all 24 GOF patterns.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
 * Learn when, how and which pattern to use, if appropriate for a new problem
 
 ## Outline
+
 <!-- chapter: advanced-object-oriented-design-guideline, duration: 7h -->
 * Advanced Object Oriented Design Guideline
     * Object Oriented Refresher
@@ -198,7 +201,9 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
     * Overview of other GOF and non GOF patterns
 
 ## Notes
+
 This course could can be done with `Java`, `C#`, `Python` or `C++` materials.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

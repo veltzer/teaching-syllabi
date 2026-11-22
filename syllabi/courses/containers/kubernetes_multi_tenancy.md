@@ -19,6 +19,7 @@ audience:
 # `Kubernetes` Multi-Tenancy
 
 ## Description
+
 Once a `Kubernetes` cluster is shared by more than one team, multi-tenancy becomes the dominant
 operational concern. The catalog has `Kubernetes`, `Kubernetes for Developers`,
 `Kubernetes Troubleshooting`, `Kubernetes Security`, and the `Container and Kubernetes Security`
@@ -38,6 +39,7 @@ multi-tenant clusters at scale. Examples are drawn from public engineering writi
 a `Kubernetes` multi-tenancy strategy.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ a `Kubernetes` multi-tenancy strategy.
 * recognize when multi-cluster is the right answer
 
 ## Outline
+
 <!-- chapter: tenancy-models, duration: 2h -->
 * Tenancy models
     * soft multi-tenancy: trusted users, shared cluster
@@ -159,4 +162,5 @@ a `Kubernetes` multi-tenancy strategy.
     * recommended reading: `CNCF Multi-Tenancy WG`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # `Tekton`
 
 ## Description
+
 `Tekton` is a cloud-native, `Kubernetes`-native framework for building `CI/CD` systems,
 providing first-class `Kubernetes` custom resources for defining and running pipelines
 entirely within the cluster. This course introduces participants to the complete `Tekton`
@@ -28,6 +29,7 @@ comparison of `Tekton` against `Jenkins` and `GitHub Actions` to help teams choo
 right tool for their context.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ right tool for their context.
 * Secure pipelines with `RBAC` and software supply chain attestations via `Tekton Chains`.
 
 ## Outline
+
 <!-- chapter: introduction-to-cloud-native-ci-cd, duration: 1h -->
 * Introduction to Cloud-Native `CI/CD`
     * Evolution from traditional `CI/CD` servers to cloud-native approaches
@@ -125,4 +128,5 @@ right tool for their context.
     * Decision framework: when to choose `Tekton`, `Jenkins`, or `GitHub Actions`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

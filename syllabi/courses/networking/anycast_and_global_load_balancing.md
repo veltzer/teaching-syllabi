@@ -18,6 +18,7 @@ audience:
 # Anycast and Global Load Balancing
 
 ## Description
+
 The catalog has `Load Balancing in Depth`, `TCP/IP Deep Dive`, `Edge Computing and CDN`, and
 `Multi-Cloud Networking`. None of those covers the specific subject of routing user traffic to the
 right server across the world: anycast as the routing primitive, `BGP` as the substrate, the load
@@ -36,6 +37,7 @@ patterns that work versus the ones that look right but are not. Participants lea
 operate global routing for a service that serves users in more than one region.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ operate global routing for a service that serves users in more than one region.
 * compare `DNS`-based and `IP`-based global routing
 
 ## Outline
+
 <!-- chapter: unicast-multicast-anycast, duration: 1h -->
 * Unicast, multicast, anycast
     * the three routing models
@@ -148,4 +151,5 @@ operate global routing for a service that serves users in more than one region.
     * recommended reading: `Cloudflare` engineering blog, `BGP` `RFC` 4271
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

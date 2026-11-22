@@ -14,9 +14,11 @@ audience:
 # `Git` Advanced Topics
 
 ## Description
+
 This course covers advanced `Git` topics for developers who already know the basics. Students will explore different branching workflows, cherry-picking, merge tools, and techniques for editing history and recovering lost commits in emergency situations.
 
 ## Duration
+
 8 hours (1 day)
 
 ## Intended Audience
@@ -34,6 +36,7 @@ This course covers advanced `Git` topics for developers who already know the bas
 * gain practical knowledge of In case of emergency (never do this)
 
 ## Outline
+
 <!-- chapter: workflows, duration: 4h -->
 * Workflows
     * Centralized Workflow
@@ -52,4 +55,5 @@ This course covers advanced `Git` topics for developers who already know the bas
     * Push to feature branch before update from master
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

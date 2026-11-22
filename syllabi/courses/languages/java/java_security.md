@@ -16,6 +16,7 @@ audience:
 # `Java` Security
 
 ## Description
+
 This course provides a comprehensive overview of security in `Java` applications. Participants
 will learn the `Java` security architecture, cryptography APIs, secure coding practices, and
 how to defend against the `OWASP` `Top` 10 vulnerabilities. The course covers input validation,
@@ -23,6 +24,7 @@ authentication and authorization mechanisms, secure communications with `TLS`/`S
 dependency vulnerability scanning, and serialization security.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ dependency vulnerability scanning, and serialization security.
     * Configure secure communications using `TLS`/`SSL`.
 
 ## Outline
+
 <!-- chapter: java-security-architecture, duration: 1h -->
 * `Java` Security Architecture
     * Security model overview
@@ -119,4 +122,5 @@ dependency vulnerability scanning, and serialization security.
     * `JSON` and `XML` serialization security
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

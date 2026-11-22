@@ -16,9 +16,11 @@ audience:
 # `Azure` Data Engineering
 
 ## Description
+
 This course covers the design and implementation of data solutions on `Microsoft Azure`. Participants will learn to build end-to-end data pipelines using `Azure Data Factory`, process large-scale data with `Azure Synapse Analytics` and `Azure Databricks`, and implement real-time streaming with `Azure Stream Analytics` and `Event Hubs`. The course also addresses data governance, `Delta Lake`, and modern data architecture patterns including data mesh on `Azure`.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ This course covers the design and implementation of data solutions on `Microsoft
 * Optimize data solutions for performance and cost
 
 ## Outline
+
 <!-- chapter: azure-data-platform-overview, duration: 2h -->
 * `Azure` Data Platform Overview
     * Data services landscape on `Azure`
@@ -126,4 +129,5 @@ This course covers the design and implementation of data solutions on `Microsoft
     * Compute auto-scaling strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

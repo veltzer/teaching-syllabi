@@ -18,9 +18,11 @@ audience:
 # Load Testing Deep Dive
 
 ## Description
+
 This two day course provides an in-depth exploration of load testing methodology and tooling. Participants will gain hands-on experience with `k6` and Locust, learn test design best practices including correlation, parameterization, and think times, and integrate load testing into `CI/CD` pipelines for continuous performance validation.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This two day course provides an in-depth exploration of load testing methodology
 * Analyze results and derive capacity planning recommendations.
 
 ## Outline
+
 <!-- chapter: load-testing-fundamentals, duration: 1h -->
 * Load Testing Fundamentals
     * Types of performance tests: load, stress, soak, spike
@@ -109,4 +112,5 @@ This two day course provides an in-depth exploration of load testing methodology
     * Communicating capacity recommendations to stakeholders
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

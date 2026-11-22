@@ -19,6 +19,7 @@ audience:
 # `LLM` Application Development
 
 ## Description
+
 This course teaches developers how to build production-ready applications powered by large language
 models. Participants will learn prompt engineering techniques, retrieval-augmented generation (`RAG`),
 working with embeddings and vector databases, fine-tuning strategies, and how to build autonomous
@@ -26,6 +27,7 @@ agents with function calling. The course also covers evaluation methodologies to
 applications are reliable and effective.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ applications are reliable and effective.
 * Evaluate `LLM` application quality using appropriate metrics and frameworks.
 
 ## Outline
+
 <!-- chapter: introduction-to-llms, duration: 2h -->
 * Introduction to `LLMs`
     * How large language models work
@@ -99,4 +102,5 @@ applications are reliable and effective.
     * Safety, bias, and responsible `AI` considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

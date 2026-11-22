@@ -17,12 +17,15 @@ audience:
 # FinOps / Cloud Cost Optimization
 
 ## Description
+
 This course provides a comprehensive guide to managing and optimizing cloud costs using FinOps principles and practices. Participants will learn how to implement effective tagging strategies, rightsize resources, leverage reserved instances and savings plans, set up budgets and alerts, utilize spot instances, and apply cost optimization tools. The course also covers organizational best practices for establishing a FinOps culture.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
+
 Cloud architects, `DevOps` engineers, engineering managers, and finance stakeholders who are responsible for managing or optimizing cloud spending across the organization.
 
 ## Prerequisites
@@ -44,6 +47,7 @@ Cloud architects, `DevOps` engineers, engineering managers, and finance stakehol
 * Establish organizational best practices for cloud cost management
 
 ## Outline
+
 <!-- chapter: introduction-to-finops, duration: 1h -->
 * Introduction to FinOps
     * What is FinOps and the FinOps lifecycle
@@ -102,4 +106,5 @@ Cloud architects, `DevOps` engineers, engineering managers, and finance stakehol
     * Continuous improvement and benchmarking
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

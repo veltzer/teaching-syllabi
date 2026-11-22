@@ -18,9 +18,11 @@ audience:
 # Offensive `Linux`
 
 ## Description
+
 This intensive course is designed for experienced penetration testers seeking to enhance their offensive capabilities in `Linux` environments. The course covers advanced exploitation techniques, privilege escalation methods, persistence mechanisms, and lateral movement strategies. Students will develop practical skills in exploiting `Linux` systems through hands-on scenarios and real-world attack simulations, preparing them for complex penetration testing engagements.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -54,6 +56,7 @@ This intensive course is designed for experienced penetration testers seeking to
 * Real-world penetration testing scenarios
 
 ## Outline
+
 <!-- chapter: offensive-linux-foundations, duration: 5h -->
 * Offensive `Linux` Foundations
     * `Linux` distributions for offensive operations
@@ -103,4 +106,5 @@ This intensive course is designed for experienced penetration testers seeking to
 * [Exploit Database](https://www.exploit-db.com/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

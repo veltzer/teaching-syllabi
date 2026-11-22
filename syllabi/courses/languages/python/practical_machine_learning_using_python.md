@@ -17,6 +17,7 @@ duration_hours: 40
 # Practical `Machine Learning` Using `Python`
 
 ## Description
+
 `Machine learning` is the science of getting computers to act without being explicitly
 programmed. Autonomic cars, face recognition, effective web search, and analyzing human
 genome are all examples of `Machine Learning` Solutions.
@@ -50,6 +51,7 @@ and have completed the data science course.
 * gain practical knowledge of Supervised Learning
 
 ## Outline
+
 <!-- chapter: python-refresher-crash-course-long, duration: 3h -->
 * `Python` Refresher/Crash Course [long]
     * Introduction
@@ -187,4 +189,5 @@ and have completed the data science course.
     * Ensemble methods
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

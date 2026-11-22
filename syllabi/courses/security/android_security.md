@@ -17,12 +17,14 @@ audience:
 # `Android` Security
 
 ## Description
+
 This course provides an in-depth exploration of `Android` platform security, covering the security model,
 application sandboxing, secure coding practices, and defenses against reverse engineering and malware.
 Participants will learn how to build secure `Android` applications and assess the security posture of
 existing apps.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ existing apps.
 * Identify and mitigate common `Android` vulnerabilities
 
 ## Outline
+
 <!-- chapter: android-security-model, duration: 1h -->
 * `Android` Security Model
     * `Android` platform architecture and security layers
@@ -125,4 +128,5 @@ existing apps.
     * Biometric security considerations and limitations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

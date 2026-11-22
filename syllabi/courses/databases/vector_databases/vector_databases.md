@@ -20,9 +20,11 @@ audience:
 # Vector Databases
 
 ## Description
+
 Vector databases are purpose-built data stores that index and retrieve high-dimensional vector embeddings using approximate nearest-neighbor algorithms, enabling fast semantic search, recommendation, and retrieval-augmented generation (`RAG`) at scale. As `AI` and large language model applications become mainstream, vector databases have emerged as a critical infrastructure component for storing and querying the numerical representations of text, images, audio, and code. This course provides a thorough grounding in the theory of embeddings and similarity search, followed by hands-on coverage of leading platforms including Pinecone, `Weaviate`, and `Qdrant`. Participants will learn how to architect and deploy vector search solutions and integrate them with `LLM` frameworks such as `LangChain` and `LlamaIndex`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,9 +51,11 @@ Vector databases are purpose-built data stores that index and retrieve high-dime
 * Scale and monitor vector database deployments in production
 
 ## Exercises
+
 Hands-on labs using `Python` notebooks and local/cloud deployments of vector databases. Students will generate embeddings using `OpenAI` and `sentence-transformers`, index document collections in Pinecone, `Weaviate`, and `Qdrant`, perform semantic similarity searches and hybrid searches, build a complete `RAG` chatbot with `LangChain`, apply metadata filtering for multi-tenant scenarios, and benchmark query latency and recall across platforms. Scenarios cover document search, image similarity, and `LLM`-powered Q&A.
 
 ## Outline
+
 <!-- chapter: introduction-to-vector-databases, duration: 2h -->
 * Introduction to Vector Databases
     * The semantic search problem and limitations of keyword search
@@ -137,4 +141,5 @@ Hands-on labs using `Python` notebooks and local/cloud deployments of vector dat
     * Cost optimization: quantization, tier selection, and caching
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

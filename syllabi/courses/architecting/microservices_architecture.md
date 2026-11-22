@@ -19,9 +19,11 @@ audience:
 # `Microservices` Architecture
 
 ## Description
+
 This course covers the principles, patterns, and practices of `microservices` architecture. Starting from the challenges of monolithic applications, the course guides participants through the process of decomposing systems into well-defined microservices, designing effective inter-service communication, managing distributed data, and building resilient systems. Participants will learn how to apply industry-proven patterns for service discovery, fault tolerance, deployment, testing, and observability in `microservices`-based systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course covers the principles, patterns, and practices of `microservices` ar
 * plan deployment, testing, and observability strategies for `microservices`
 
 ## Outline
+
 <!-- chapter: from-monolith-to-microservices, duration: 1h -->
 * from `monolith` to `microservices`
     * `monolith` architecture and its problems
@@ -146,4 +149,5 @@ This course covers the principles, patterns, and practices of `microservices` ar
     * performance optimization strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

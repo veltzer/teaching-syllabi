@@ -15,6 +15,7 @@ audience:
 # Helm
 
 ## Description
+
 This course provides a thorough introduction to Helm, the package manager for `Kubernetes`.
 Students will learn how to create, manage, and deploy Helm charts, use template functions
 and pipelines, manage chart dependencies, and work with chart repositories. The course also
@@ -23,6 +24,7 @@ covers release management, hooks, chart testing, Helmfile for managing multiple 
 verification.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -46,6 +48,7 @@ verification.
 * Apply security best practices including chart signing and provenance verification.
 
 ## Outline
+
 <!-- chapter: helm-overview-and-architecture, duration: 1h -->
 * Helm Overview and Architecture
     * What is Helm?
@@ -149,4 +152,5 @@ verification.
     * Documentation and NOTES.txt
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

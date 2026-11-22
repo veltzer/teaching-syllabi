@@ -16,9 +16,11 @@ audience:
 # Advanced `C++`
 
 ## Description
+
 This course covers the most advanced features of modern `C++`, including `C++17` and `C++20` additions. Participants will gain deep understanding of move semantics, template metaprogramming, concepts, modules, coroutines, and ranges. The course emphasizes practical application of advanced idioms such as CRTP, type erasure, and the Pimpl pattern, enabling developers to write highly performant and expressive `C++` code.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course covers the most advanced features of modern `C++`, including `C++17`
 * Implement advanced design idioms including CRTP, type erasure, and Pimpl
 
 ## Outline
+
 <!-- chapter: move-semantics-and-perfect-forwarding, duration: 2h -->
 * Move Semantics and Perfect Forwarding
     * Rvalue references and value categories
@@ -122,4 +125,5 @@ This course covers the most advanced features of modern `C++`, including `C++17`
     * Trade-offs and alternatives
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,11 +18,13 @@ audience:
 # Embedded `Linux` Platform Development with `Buildroot`
 
 ## Description
+
 `Buildroot` is still one of the most heavily used tools to build embedded systems based on the `Linux` kernel.
 This course introduces `buildroot` to embedded software engineers and explains how to configure and use the tool
 correctly, as well as it's advantages and disadvantages when compared to other tools or approaches being used to build embedded `Linux` systems.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 * Be able to interact with the `Buildroot` open-source community, and to understand the internals of `Buildroot`
 
 ## Outline
+
 <!-- chapter: embedded-linux-and-build-system-introduction, duration: 1h -->
 * Embedded `Linux` and build system introduction
     * The general architecture of an embedded `Linux` system
@@ -142,4 +145,5 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 * [slides for this course](https://bootlin.com/doc/training/buildroot/)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

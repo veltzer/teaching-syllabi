@@ -18,9 +18,11 @@ audience:
 # Software Supply Chain Security
 
 ## Description
+
 Software supply chain attacks have become one of the most significant threats facing modern organizations, as demonstrated by incidents like `SolarWinds`, `Codecov`, and the `XZ Utils` backdoor. This course provides a thorough grounding in the threats, frameworks, and tools used to secure the software supply chain from source code through to deployment. Participants will learn to apply the `SLSA` framework, generate and consume SBOMs, sign artifacts with `Sigstore` and `Cosign`, and enforce supply chain policies using `OPA` and `Kyverno`. By the end of the course, attendees will be able to evaluate their organization's supply chain risk posture and implement concrete controls at every stage of the build and delivery pipeline.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ Software supply chain attacks have become one of the most significant threats fa
 * Enforce supply chain policy using `OPA` and `Kyverno` in `Kubernetes` environments
 
 ## Outline
+
 <!-- chapter: introduction-to-software-supply-chain-threats, duration: 2h -->
 * Introduction to Software Supply Chain Threats
     * Defining the software supply chain: source, build, dependencies, delivery
@@ -129,4 +132,5 @@ Software supply chain attacks have become one of the most significant threats fa
     * Integrating policy enforcement into `GitOps` workflows with `Flux` and `ArgoCD`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

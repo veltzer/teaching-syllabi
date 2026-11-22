@@ -15,9 +15,11 @@ audience:
 # `.NET` Development
 
 ## Description
+
 This course provides a comprehensive introduction to modern `.NET` development with `C#`. Starting from `C#` language fundamentals, the course covers building web applications and APIs with `ASP.NET Core`, data access with `Entity Framework Core`, dependency injection, middleware pipelines, `Minimal APIs`, and an overview of Blazor for interactive web UIs. Students will gain the skills to build full-featured `.NET` applications from the ground up.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
 * Gain an overview of Blazor for building interactive web UIs with `C#`
 
 ## Outline
+
 <!-- chapter: c-fundamentals, duration: 4h -->
 * `C#` Fundamentals
     * Introduction to `.NET` platform and the CLR
@@ -137,4 +140,5 @@ This course provides a comprehensive introduction to modern `.NET` development w
     * `When` to choose Blazor and its trade-offs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

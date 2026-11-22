@@ -17,9 +17,11 @@ audience:
 # `GitHub` Workflows
 
 ## Description
+
 `GitHub Actions` and `GitHub Workflows` provide powerful automation capabilities for continuous integration, continuous deployment, and general task automation. This course covers fundamental to advanced workflow concepts and teaches how to effectively automate software development processes using `GitHub's` native `CI/CD` platform.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -52,6 +54,7 @@ audience:
 * Apply best practices for workflow organization and maintainability
 
 ## Outline
+
 <!-- chapter: introduction-to-github-actions-and-workflows, duration: 1h -->
 * Introduction to `GitHub Actions` and Workflows
     * Overview of `CI/CD` concepts and benefits
@@ -123,4 +126,5 @@ audience:
     * Version control for workflow files
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

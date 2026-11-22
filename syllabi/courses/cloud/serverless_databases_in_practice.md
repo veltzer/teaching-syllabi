@@ -19,6 +19,7 @@ audience:
 # Serverless Databases in Practice
 
 ## Description
+
 Serverless databases — `Aurora Serverless v2`, `DynamoDB`, Neon, PlanetScale, ```Cloud SQL`` with
 serverless`, `Upstash `Redis``, `Cloudflare D1`, `Turso` — promise no-capacity-planning, pay-per-use,
 scale-to-zero relational and key-value storage. The catalog has individual database courses
@@ -39,6 +40,7 @@ several real cost scenarios. Participants leave able to `make` the serverless-da
 deliberately.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ deliberately.
 * avoid the patterns that `make` serverless expensive
 
 ## Outline
+
 <!-- chapter: what-makes-a-database-serverless, duration: 1h -->
 * What makes a database serverless
     * scale-to-zero or near-zero
@@ -144,4 +147,5 @@ deliberately.
     * the cost shape across regions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

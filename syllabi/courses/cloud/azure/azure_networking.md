@@ -16,9 +16,11 @@ audience:
 # `Azure` Networking
 
 ## Description
+
 This course provides an in-depth exploration of networking in `Microsoft Azure`. Participants will learn how to design, implement, and manage virtual networks, load balancers, firewalls, `VPN` connections, and hybrid networking solutions. The course covers both foundational networking concepts and advanced topics such as `Azure Virtual WAN`, `ExpressRoute`, and network security patterns, enabling participants to build robust and secure network architectures on `Azure`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides an in-depth exploration of networking in `Microsoft Azure`.
 * Monitor and troubleshoot network issues using `Network Watcher`
 
 ## Outline
+
 <!-- chapter: virtual-networks-deep-dive, duration: 2h -->
 * Virtual Networks Deep Dive
     * `VNet` address spaces and planning
@@ -139,4 +142,5 @@ This course provides an in-depth exploration of networking in `Microsoft Azure`.
     * On-premises to `Azure` migration networking
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

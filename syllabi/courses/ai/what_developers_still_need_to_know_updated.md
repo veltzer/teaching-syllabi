@@ -23,6 +23,7 @@ audience:
 # What Every Developer Needs to Know About Working with `AI` (Updated)
 
 ## Description
+
 `AI` coding agents no longer complete the line you are typing. They read the
 repository, run the build, query the database, write the code, write the tests
 and open the pull request. The developer's job has moved accordingly: from
@@ -41,6 +42,7 @@ The lecture is opinionated and practical. Every topic is presented as something
 you can change in your own repository the next morning.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -67,6 +69,7 @@ you can change in your own repository the next morning.
 * Short guided demonstrations and discussions throughout the day; students who bring a laptop can follow along with their own `AI` agent on their own repository.
 
 ## Outline
+
 <!-- chapter: what-changed-for-developers, duration: 1h -->
 * What changed for developers
     * From autocomplete to agents: what the tools do today
@@ -227,6 +230,7 @@ you can change in your own repository the next morning.
     * What to change in your repository tomorrow morning
 
 ## Installations
+
 This is a lecture; no installation is required. Students who want to follow the demonstrations should have:
 
 * A laptop with a working development environment for their primary language.
@@ -235,4 +239,5 @@ This is a lecture; no installation is required. Students who want to follow the 
 * A repository with a build and tests that they are allowed to experiment on.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

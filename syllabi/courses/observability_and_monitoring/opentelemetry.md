@@ -18,11 +18,13 @@ audience:
 # `OpenTelemetry`
 
 ## Description
+
 Modern distributed systems are composed of many services communicating over the network, making it increasingly difficult to understand system behavior, diagnose issues, and ensure reliability. `OpenTelemetry` is the industry-standard, vendor-neutral framework for collecting telemetry data including traces, metrics, and logs from distributed applications. It provides a unified set of APIs, SDKs, and tools for instrumenting, generating, collecting, and exporting observability data.
 
 This course provides a comprehensive understanding of `OpenTelemetry` and its three pillars of observability. Participants will learn how to instrument applications, configure collectors and exporters, propagate context across service boundaries, and leverage auto-instrumentation to gain deep visibility into their systems with minimal code changes.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ This course provides a comprehensive understanding of `OpenTelemetry` and its th
 * Leverage auto-instrumentation for rapid integration
 
 ## Outline
+
 <!-- chapter: introduction-to-observability, duration: 2h -->
 * Introduction to Observability
     * Why observability matters in distributed systems
@@ -120,4 +123,5 @@ This course provides a comprehensive understanding of `OpenTelemetry` and its th
     * Migrating existing instrumentation to `OpenTelemetry`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

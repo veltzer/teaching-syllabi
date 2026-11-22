@@ -20,6 +20,7 @@ audience:
 # `Linux` Debugging
 
 ## Description
+
 `Linux` Debugging and Troubleshooting is a comprehensive course focused on mastering the art and science of debugging complex C/`C++` applications on `Linux` systems. From basic debugging techniques to hunting elusive Heisenbugs, this course covers the full spectrum of debugging methodologies, tools, and strategies used by professional developers to diagnose and fix the most challenging software defects.
 Participants will learn to use industry-standard debugging tools, analyze complex runtime issues, debug multi-threaded and distributed applications, and tackle non-deterministic bugs that appear only in production environments.
 This course emphasizes practical, real-world debugging scenarios including memory corruption, race conditions, performance bottlenecks, and system-level issues that affect application behavior.
@@ -27,6 +28,7 @@ This course emphasizes practical, real-world debugging scenarios including memor
 This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debugging tools. Legacy debugging techniques and deprecated tools are not discussed.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -336,4 +338,5 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 -->
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

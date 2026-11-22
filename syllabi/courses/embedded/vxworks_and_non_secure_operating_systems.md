@@ -13,6 +13,7 @@ audience:
 # `VxWorks` and Non-Secure Embedded Operating Systems
 
 ## Description
+
 This course covers the principles and practice of non-secure (non-`MMU`) embedded
 operating systems, with a focus on `VxWorks`. Students will learn how these systems
 differ from secure operating systems like `Linux` and `Windows`, and gain hands-on
@@ -21,6 +22,7 @@ handling, and inter-task communication. The course also covers comparisons with
 other popular embedded `RTOS` platforms such as `FreeRTOS` and Zephyr.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and Zephyr.
 * Compare `VxWorks` with `FreeRTOS` and Zephyr
 
 ## Outline
+
 <!-- chapter: principles-of-non-secure-operating-systems, duration: 1h -->
 * Principles of Non-Secure (Non-`MMU`) Operating Systems
     * What is a non-secure operating system
@@ -145,4 +148,5 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and Zephyr.
     * Choosing between `VxWorks`, `FreeRTOS`, and Zephyr
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

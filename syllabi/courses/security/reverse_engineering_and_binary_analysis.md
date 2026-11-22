@@ -15,9 +15,11 @@ audience:
 # Reverse Engineering and Binary Analysis
 
 ## Description
+
 This course provides an in-depth exploration of reverse engineering and binary analysis techniques used by security professionals. Participants will learn to analyze compiled binaries across multiple platforms, use industry-standard disassembly and debugging tools, and apply both static and dynamic analysis methodologies. The course covers anti-reverse engineering countermeasures, vulnerability discovery, exploit development fundamentals, and malware analysis workflows, culminating in hands-on CTF-style challenges.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course provides an in-depth exploration of reverse engineering and binary a
 * Analyze firmware images and extract embedded components
 
 ## Outline
+
 <!-- chapter: binary-formats-and-assembly-foundations, duration: 5h -->
 * Binary Formats and `Assembly` Foundations
     * Overview of executable binary formats
@@ -119,4 +122,5 @@ This course provides an in-depth exploration of reverse engineering and binary a
     * Applying reverse engineering skills to capture-the-flag scenarios
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

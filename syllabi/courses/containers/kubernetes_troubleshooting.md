@@ -16,9 +16,11 @@ audience:
 # `Kubernetes` Troubleshooting
 
 ## Description
+
 This two day advanced course equips engineers with the skills to diagnose and resolve common and complex issues in `Kubernetes` clusters. Students will learn systematic approaches to debugging pods, networking, `DNS`, resource constraints, and node-level problems using built-in tools such as `kubectl debug` and ephemeral containers, as well as strategies for cluster recovery.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This two day advanced course equips engineers with the skills to diagnose and re
 * Perform cluster recovery procedures after failures.
 
 ## Outline
+
 <!-- chapter: troubleshooting-methodology, duration: 1h -->
 * Troubleshooting Methodology
     * Systematic approach to `Kubernetes` debugging
@@ -111,4 +114,5 @@ This two day advanced course equips engineers with the skills to diagnose and re
     * Disaster recovery planning and runbooks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

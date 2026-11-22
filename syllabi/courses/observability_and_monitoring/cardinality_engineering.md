@@ -18,6 +18,7 @@ audience:
 # Cardinality Engineering
 
 ## Description
+
 Cardinality is the silent killer of observability budgets. The catalog has `Prometheus and Grafana`,
 `Advanced Prometheus`, `Prometheus Deep Dive`, `OpenTelemetry`, `OpenTelemetry Deep Dive`,
 `VictoriaMetrics`, `Grafana` (basic and deep dive), Loki, Datadog, and `Dynatrace`. Each touches
@@ -39,6 +40,7 @@ cardinality engineering a habit. Examples include real production cost-explosion
 Participants leave able to control cardinality without losing the signal they need.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ Participants leave able to control cardinality without losing the signal they ne
 * connect cardinality engineering to cost discipline
 
 ## Outline
+
 <!-- chapter: what-cardinality-actually-is, duration: 1h -->
 * What cardinality actually is
     * the unique-label-combination count
@@ -139,4 +142,5 @@ Participants leave able to control cardinality without losing the signal they ne
     * the periodic cardinality review
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

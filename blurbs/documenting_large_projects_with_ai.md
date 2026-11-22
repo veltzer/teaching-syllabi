@@ -25,6 +25,7 @@ codebases far too large to fit in any context window - and for keeping that docu
 accurate.
 
 ## The Challenge
+
 Large codebases are where documentation is needed most and where it is most often missing or
 out of date. `AI` agents can write documentation quickly, but asking an agent to "document the
 whole project" fails: the codebase does not fit in its context, cross-module relationships are
@@ -32,6 +33,7 @@ lost, and the result is shallow, inconsistent, or simply invented. Documenting a
 with `AI` needs a method, not a single prompt.
 
 ## What This Session Covers
+
 A step-by-step approach to documenting very large projects with `AI` agents: working bottom-up
 from folders small enough to understand completely, rolling the results up into higher-level
 descriptions, running several passes to resolve circular dependencies, documenting services and
@@ -59,8 +61,10 @@ environments, and verifying and maintaining the output as the code changes.
 * Developers working on large codebases
 
 ## Continue the Journey
+
 This talk presents the method. A follow-on, hands-on workshop can apply it to the team's own
 codebase and produce a first, verified layer of documentation together.
 
 ## Speaker
+
 Mark Veltzer

@@ -20,6 +20,7 @@ audience:
 # `Crossplane`
 
 ## Description
+
 This course provides a comprehensive introduction to `Crossplane`, a `Kubernetes`-native
 infrastructure as code framework. Participants will learn how to use `Crossplane` to provision
 and manage cloud infrastructure across `AWS`, `Azure`, and `GCP` using `Kubernetes` APIs. The
@@ -27,6 +28,7 @@ course covers providers, managed resources, compositions, composite resource def
 and production deployment patterns, along with a comparison to traditional tools like `Terraform`.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ and production deployment patterns, along with a comparison to traditional tools
 * deploy and operate `Crossplane` in production environments.
 
 ## Outline
+
 <!-- chapter: crossplane-overview, duration: 1h -->
 * `Crossplane` overview
     * what is `Crossplane`
@@ -136,4 +139,5 @@ and production deployment patterns, along with a comparison to traditional tools
     * troubleshooting common issues
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

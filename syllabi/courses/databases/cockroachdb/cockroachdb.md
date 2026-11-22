@@ -17,9 +17,11 @@ audience:
 # `CockroachDB`
 
 ## Description
+
 `CockroachDB` is a cloud-native distributed `SQL` database engineered for horizontal scalability, strong consistency, and automatic resilience to node and datacenter failures. Drawing its name from the cockroach's legendary survivability, it provides full `PostgreSQL`-compatible `SQL` while transparently distributing data across nodes and regions. This course equips developers, architects, and DBAs with the knowledge to deploy, operate, and build applications on `CockroachDB`. Participants will explore its unique architecture, understand how distributed transactions achieve serializable isolation, and learn best practices for schema design, multi-region topologies, and operational management.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,9 +50,11 @@ audience:
 * Plan and execute cluster operations including upgrades and scaling
 
 ## Exercises
+
 Hands-on labs using local `CockroachDB` clusters provisioned with `Docker Compose` or the `cockroach` binary. Students will create a multi-node cluster, model schemas for distributed access patterns, execute transactions and observe isolation behaviors, configure geo-partitioned and regional-by-row tables, set up changefeeds to `Kafka`, analyze query plans, and use the DB Console for performance investigation. Scenarios cover multi-tenant `SaaS`, e-commerce, and globally distributed application patterns.
 
 ## Outline
+
 <!-- chapter: introduction-to-distributed-sql, duration: 2h -->
 * Introduction to Distributed `SQL`
     * The CAP and PACELC theorems in practice
@@ -163,4 +167,5 @@ Hands-on labs using local `CockroachDB` clusters provisioned with `Docker Compos
     * Cluster log collection and debug `zip`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

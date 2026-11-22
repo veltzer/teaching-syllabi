@@ -16,6 +16,7 @@ audience:
 # Employability and Career Skills for Tech
 
 ## Description
+
 This course prepares technology professionals with the essential soft skills and
 career development strategies needed to succeed in today's competitive job market.
 Covering everything from communication and teamwork to resume building and interview
@@ -25,6 +26,7 @@ a professional identity, networking effectively, and navigating the hiring proce
 with confidence.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ with confidence.
 * Apply goal-setting frameworks to career planning and development.
 
 ## Outline
+
 <!-- chapter: communication-skills, duration: 3h -->
 * Communication Skills
     * Written communication in professional settings
@@ -128,4 +131,5 @@ with confidence.
     * Building confidence through practice
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

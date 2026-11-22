@@ -19,6 +19,7 @@ audience:
 # `eBPF` in Production
 
 ## Description
+
 `eBPF` is the most consequential `Linux` kernel innovation of the past decade. It lets you run sandboxed
 programs inside the kernel — for observability, networking, and security — without writing kernel
 modules and without restarting the system. The catalog has `Linux Performance Engineering`,
@@ -38,6 +39,7 @@ kernel-version skew, performance regressions), and the security model of running
 Participants leave able to write, ship, and operate `eBPF` programs in production.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -62,6 +64,7 @@ Participants leave able to write, ship, and operate `eBPF` programs in productio
 * recognize when `eBPF` is the wrong tool
 
 ## Outline
+
 <!-- chapter: what-ebpf-actually-is, duration: 2h -->
 * What `eBPF` actually is
     * the in-kernel virtual machine
@@ -168,4 +171,5 @@ Participants leave able to write, ship, and operate `eBPF` programs in productio
     * recommended reading: `Brendan Gregg`'s `BPF Performance Tools`, the `Cilium` docs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

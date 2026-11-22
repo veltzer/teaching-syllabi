@@ -16,9 +16,11 @@ audience:
 # `Playwright` End-to-End Testing
 
 ## Description
+
 `Playwright` is a powerful, multi-browser end-to-end testing framework developed by Microsoft that provides auto-waiting, reliable selectors, and built-in tooling for debugging and tracing. This course covers the full range of `Playwright` capabilities, from writing basic tests to advanced features like network mocking, authentication state management, and visual comparisons. Participants will also explore `Playwright` support for multiple languages and mobile emulation.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ audience:
 * Understand `Playwright` support for `Python`, `Java`, and `.NET`
 
 ## Outline
+
 <!-- chapter: playwright-overview-and-architecture, duration: 1h -->
 * `Playwright` Overview and Architecture
     * What is `Playwright` and its design goals
@@ -176,4 +179,5 @@ audience:
     * `Playwright` vs Cypress vs `Selenium`: choosing the right tool
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

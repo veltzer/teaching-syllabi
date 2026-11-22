@@ -18,6 +18,7 @@ audience:
 # Architecting in the Cloud
 
 ## Description
+
 The cloud, either public or private, is the new development environment for web or other types of
 applications. As a new environment is espouses new paradigms and ideas and requires architects that
 have a good grasp of these new paradigms and ideas. This course teaches these paradigms and ideas.
@@ -26,6 +27,7 @@ with the right tools, paradigms and `design patterns` that should be used for sc
 frugal and efficient application in the cloud.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ frugal and efficient application in the cloud.
 * Describe the benefits of various PAAS systems and decide when to use them and when to build their own.
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * Advantages of `cloud computing`
@@ -127,4 +130,5 @@ frugal and efficient application in the cloud.
     * `AI`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

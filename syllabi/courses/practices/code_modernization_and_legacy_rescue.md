@@ -20,6 +20,7 @@ audience:
 # Code Modernization and Legacy Rescue
 
 ## Description
+
 The catalog has `Legacy Modernization` (architectural-scale) and `Technical Debt and Refactoring` (code-scale).
 This course is the missing middle: rescuing a single team's legacy codebase. The codebase that nobody wants
 to touch, that fails subtly in production, that survives because three people understand it and is
@@ -35,6 +36,7 @@ Examples are drawn across `Java`, `Python`, `C++`, `JavaScript`, and `C#`. Parti
 inherit a legacy codebase and get it under control.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ inherit a legacy codebase and get it under control.
 * prevent the next legacy codebase from forming
 
 ## Outline
+
 <!-- chapter: what-makes-code-legacy, duration: 2h -->
 * What makes code legacy
     * `Feathers`'s definition: code without tests
@@ -190,4 +193,5 @@ inherit a legacy codebase and get it under control.
     * recommended reading: `Feathers`, Fowler, `Hunt/Thomas`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,6 +16,7 @@ audience:
 # Distributed Systems Fundamentals
 
 ## Description
+
 This course provides a comprehensive foundation in the theory and practice of distributed systems.
 Participants will study the fundamental theorems, consistency models, and consensus algorithms that
 underpin modern distributed architectures. The course covers distributed clocks, conflict-free
@@ -24,6 +25,7 @@ various failure modes that distributed systems must handle. This knowledge is es
 architects and developers building reliable, scalable distributed applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ architects and developers building reliable, scalable distributed applications.
 * identify and mitigate common failure modes in distributed systems
 
 ## Outline
+
 <!-- chapter: introduction-to-distributed-systems, duration: 2h -->
 * introduction to distributed systems
     * what makes a system distributed
@@ -131,4 +134,5 @@ architects and developers building reliable, scalable distributed applications.
     * designing for failure (chaos engineering principles)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

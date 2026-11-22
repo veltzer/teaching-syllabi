@@ -16,9 +16,11 @@ audience:
 # Podman: Daemonless Container Engine
 
 ## Description
+
 This course covers Podman, a daemonless and rootless container engine for developing, managing, and running `OCI` containers. Participants will learn how to build images, run containers, work with pods, and integrate with `systemd`. The course also covers `Buildah`, `Skopeo`, and migration strategies from `Docker`.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course covers Podman, a daemonless and rootless container engine for develo
 * Generate `Kubernetes` `YAML` from Podman pods.
 
 ## Outline
+
 <!-- chapter: introduction-to-podman, duration: 1h -->
 * Introduction to Podman:
     * Podman overview and history
@@ -127,4 +130,5 @@ This course covers Podman, a daemonless and rootless container engine for develo
     * Rootless containers in CI environments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

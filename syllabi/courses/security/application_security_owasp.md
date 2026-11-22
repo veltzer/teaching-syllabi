@@ -21,9 +21,11 @@ audience:
 # Application Security (`OWASP`)
 
 ## Description
+
 Application security is essential for building resilient software that withstands modern attack vectors. This course provides a comprehensive understanding of the `OWASP Top 10` vulnerabilities, threat modeling methodologies, static and dynamic application security testing, secrets management, secure software development lifecycle practices, and dependency scanning. Participants will learn how to integrate security into every phase of the development process.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ Application security is essential for building resilient software that withstand
 * Develop security champions programs and foster security-aware culture
 
 ## Outline
+
 <!-- chapter: introduction-to-application-security, duration: 2h -->
 * Introduction to Application Security
     * The evolving application threat landscape
@@ -131,4 +134,5 @@ Application security is essential for building resilient software that withstand
     * Responding to zero-day vulnerabilities in dependencies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

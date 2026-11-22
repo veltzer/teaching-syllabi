@@ -15,9 +15,11 @@ audience:
 # `Ruby on Rails`
 
 ## Description
+
 `Ruby on Rails` is a full-stack web application framework built on the Ruby programming language, following convention over configuration and the MVC architectural pattern. This course covers the essential components of Rails development from routing and controllers through ActiveRecord `ORM`, views, testing, and deployment. Students will learn to build robust, maintainable web applications using modern Rails practices.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ audience:
 * Deploy Rails applications to production
 
 ## Outline
+
 <!-- chapter: introduction-to-ruby-on-rails, duration: 2h -->
 * Introduction to `Ruby on Rails`
     * Rails philosophy (convention over configuration, DRY)
@@ -140,4 +143,5 @@ audience:
     * Security best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

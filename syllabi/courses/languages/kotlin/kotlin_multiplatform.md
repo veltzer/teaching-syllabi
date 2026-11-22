@@ -15,9 +15,11 @@ audience:
 # `Kotlin Multiplatform` Development
 
 ## Description
+
 `Kotlin Multiplatform` (KMP) allows developers to share business logic across `Android`, `iOS`, desktop, and web platforms while maintaining native user experiences. This course covers the full KMP ecosystem, from shared code architecture with expect/actual declarations to `Compose Multiplatform` for shared UI, networking with Ktor, and deploying to multiple targets. Students will learn to build and maintain production-grade multiplatform projects.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ audience:
 * Build and deploy applications targeting `Android`, `iOS`, desktop, and web
 
 ## Outline
+
 <!-- chapter: introduction-to-kotlin-multiplatform, duration: 2h -->
 * Introduction to `Kotlin Multiplatform`
     * The KMP vision: shared logic with native UI
@@ -131,4 +134,5 @@ audience:
     * Publishing shared libraries and managing artifact distribution
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

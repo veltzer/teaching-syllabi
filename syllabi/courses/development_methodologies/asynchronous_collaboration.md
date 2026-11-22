@@ -17,6 +17,7 @@ audience:
 # Asynchronous Collaboration
 
 ## Description
+
 The catalog has `Effective Remote Engineering`, which is the broader course on remote work as a
 practice. This course is the focused complement on the specific skill of asynchronous collaboration:
 the ability to `make` progress on shared work without everyone being available at the same time. `Async`
@@ -36,6 +37,7 @@ heard, the chat-stream-of-consciousness). Examples are drawn from the public wri
 meetings.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ meetings.
 * avoid the failure modes that turn async into chaos
 
 ## Outline
+
 <!-- chapter: the-two-mode-model, duration: 1h -->
 * The two-mode model
     * sync mode and async mode
@@ -162,4 +165,5 @@ meetings.
     * recommended reading: `GitLab Handbook`, Automattic posts, Doist's `async-first` writing
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -21,9 +21,11 @@ audience:
 # `Kubernetes` Security
 
 ## Description
+
 Securing `Kubernetes` clusters requires deep knowledge of the platform's security primitives and best practices. This course covers pod security standards, network policies, admission controllers, role-based access control, secrets management, container image scanning, and runtime security. Participants will learn how to harden `Kubernetes` environments against real-world threats and implement defense-in-depth strategies for containerized workloads.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
 * Harden `Kubernetes` cluster components and `API` server configurations
 
 ## Outline
+
 <!-- chapter: kubernetes-security-fundamentals, duration: 2h -->
 * `Kubernetes` Security Fundamentals
     * `Kubernetes` attack surface and threat landscape
@@ -137,4 +140,5 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
     * Automated response and workload isolation strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

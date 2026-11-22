@@ -18,6 +18,7 @@ audience:
 # Cost-Aware Architecture
 
 ## Description
+
 The catalog already has a `Cloud Cost Optimization` course and a `FinOps` course. Both treat cost as
 something to be measured and reduced after a system exists. This course is the architectural complement.
 It treats cost as an input to design, not a thing to optimize after the fact. It is the difference between
@@ -32,6 +33,7 @@ economics. Examples are drawn from the public engineering blogs of `Netflix`, Ho
 the cost case for an architectural decision before they ship it, not after the bill arrives.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ the cost case for an architectural decision before they ship it, not after the b
 * communicate cost trade-offs to non-engineering stakeholders
 
 ## Outline
+
 <!-- chapter: why-cost-is-an-architectural-concern, duration: 1h -->
 * Why cost is an architectural concern
     * the bill as a leading indicator of bad architecture
@@ -142,4 +145,5 @@ the cost case for an architectural decision before they ship it, not after the b
     * how to push back on a request that is too expensive
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

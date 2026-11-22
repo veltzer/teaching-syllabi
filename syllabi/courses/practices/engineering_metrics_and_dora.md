@@ -20,6 +20,7 @@ audience:
 # Engineering Metrics and `DORA`
 
 ## Description
+
 "You can't manage what you don't measure" gets used to justify a lot of bad engineering metrics. The honest
 version is harder: most things that matter in software engineering are difficult to measure, and most things
 that are easy to measure mislead you. The `DORA`, SPACE and `DX` frameworks are the best public
@@ -34,6 +35,7 @@ team without making it worse, to read someone else's metrics critically, and to 
 deserve pushing back on.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ deserve pushing back on.
 * read public engineering benchmarks critically
 
 ## Outline
+
 <!-- chapter: why-engineering-metrics-are-hard, duration: 2h -->
 * Why engineering metrics are hard
     * the productivity-as-output trap
@@ -181,4 +184,5 @@ deserve pushing back on.
     * recommended reading: `Forsgren`/Humble/Kim, DX papers, `Reinertsen`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

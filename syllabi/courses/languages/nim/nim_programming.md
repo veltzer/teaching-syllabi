@@ -16,12 +16,14 @@ audience:
 # Nim Programming
 
 ## Description
+
 Nim is a statically typed, compiled systems programming language that combines the readability of `Python`, the performance of C, and a uniquely powerful macro system for compile-time metaprogramming.
 Nim transpiles to C, `C++`, or `JavaScript`, enabling deployment targets ranging from microcontrollers to web browsers.
 Its hygienic macros and template system allow developers to extend the language itself and build zero-overhead abstractions.
 This course covers Nim from first programs through its type system, memory management options, async/await concurrency, C interoperability, and practical tooling.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course covers Nim from first programs through its type system, memory manag
 * Write concurrent programs using async/await
 
 ## Outline
+
 <!-- chapter: introduction-to-nim, duration: 2h -->
 * Introduction to Nim
     * History and design goals
@@ -130,4 +133,5 @@ This course covers Nim from first programs through its type system, memory manag
     * Real-world use cases
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

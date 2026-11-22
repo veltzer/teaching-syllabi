@@ -18,6 +18,7 @@ audience:
 # Writing Design Documents
 
 ## Description
+
 Design documents are the unit of work for technical leaders. They are how new systems get justified, how risk
 gets surfaced before it becomes an outage, how teams reach alignment without an exhausting sequence of meetings,
 and how decisions get preserved past the memory of their authors. Most engineers receive no formal training in
@@ -32,6 +33,7 @@ organizations. Participants leave able to write a design doc that gets read, rev
 build the design-doc culture on a team that does not have one.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -54,6 +56,7 @@ build the design-doc culture on a team that does not have one.
 * recognize and fix the most common design-doc anti-patterns
 
 ## Outline
+
 <!-- chapter: why-design-docs, duration: 2h -->
 * Why design docs
     * the meeting tax that good docs replace
@@ -181,4 +184,5 @@ build the design-doc culture on a team that does not have one.
     * recommended reading: `Williams`, McMurrey, Gallo, `Strunk and White`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

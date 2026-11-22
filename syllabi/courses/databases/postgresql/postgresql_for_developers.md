@@ -16,9 +16,11 @@ audience:
 # `PostgreSQL` for Developers
 
 ## Description
+
 This course provides developers with a deep understanding of `PostgreSQL`, one of the most powerful and feature-rich open-source relational databases. Participants will `go` beyond basic `SQL` to master advanced querying techniques, indexing strategies, JSONB document storage, stored procedures with PL/pgSQL, table partitioning, and performance optimization. The course emphasizes practical, real-world patterns that developers encounter when building production applications backed by `PostgreSQL`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides developers with a deep understanding of `PostgreSQL`, one o
 * Apply best practices for schema design and performance tuning
 
 ## Outline
+
 <!-- chapter: postgresql-architecture-and-internals, duration: 2h -->
 * `PostgreSQL` Architecture and Internals
     * `PostgreSQL` process model and memory architecture
@@ -144,4 +147,5 @@ This course provides developers with a deep understanding of `PostgreSQL`, one o
     * Performance monitoring tools
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

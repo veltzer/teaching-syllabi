@@ -15,12 +15,14 @@ audience:
 # `Java` Hibernate/`JPA`
 
 ## Description
+
 This course provides comprehensive coverage of `Java` persistence using Hibernate and
 the `JPA` specification. Participants will learn entity mapping, relationship modeling,
 querying strategies, caching, and performance optimization techniques. The course also
 covers integration with `Spring Data JPA` and database migration strategies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -41,6 +43,7 @@ covers integration with `Spring Data JPA` and database migration strategies.
     * Integration with `Spring Data JPA`.
 
 ## Outline
+
 <!-- chapter: jpa-specification, duration: 2h -->
 * `JPA` Specification
     * `JPA` architecture and providers
@@ -120,4 +123,5 @@ covers integration with `Spring Data JPA` and database migration strategies.
     * Auditing support
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

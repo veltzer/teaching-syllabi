@@ -17,9 +17,11 @@ audience:
 # Site Reliability Engineering
 
 ## Description
+
 This course provides a comprehensive introduction to Site Reliability Engineering (SRE) as pioneered by Google. Participants will learn the core principles, practices, and cultural aspects of SRE, including defining and implementing SLOs, managing error budgets, reducing toil, and building a healthy on-call and incident management culture. The course bridges the gap between development and operations, equipping teams to balance reliability with the pace of innovation.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ This course provides a comprehensive introduction to Site Reliability Engineerin
 * Implement SRE practices and team structures within an organization
 
 ## Outline
+
 <!-- chapter: sre-principles, duration: 1h -->
 * SRE Principles
     * What is Site Reliability Engineering
@@ -162,4 +165,5 @@ This course provides a comprehensive introduction to Site Reliability Engineerin
     * Complementary aspects of both approaches
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

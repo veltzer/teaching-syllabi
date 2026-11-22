@@ -17,9 +17,11 @@ audience:
 # Introduction to `Hadoop`
 
 ## Description
+
 `Apache Hadoop` is the foundational framework for distributed storage and processing of large datasets across clusters of commodity hardware. This course introduces the core components of the `Hadoop` ecosystem including `HDFS`, `YARN`, and `MapReduce`, along with an overview of the broader ecosystem tools. Students will understand how `Hadoop` solves big data challenges and gain hands-on experience with cluster setup and basic data processing.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ audience:
 * Set up a basic `Hadoop` cluster
 
 ## Outline
+
 <!-- chapter: big-data-fundamentals, duration: 2h -->
 * Big Data Fundamentals
     * What is big data (volume, velocity, variety, veracity)
@@ -100,4 +103,5 @@ audience:
     * Basic troubleshooting
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

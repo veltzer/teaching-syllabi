@@ -21,6 +21,7 @@ audience:
 # Data Mesh In Practice
 
 ## Description
+
 The architecting course on data mesh in the catalog covers the philosophical model: domain ownership, data
 as a product, self-serve platform, federated computational governance. This course is the implementation
 companion. It is for engineers who have to ship the mesh, not just argue for it.
@@ -33,6 +34,7 @@ the failure modes. The course is grounded in the original `Zhamak Dehghani` writ
 case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizations.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizatio
 * avoid the most common mesh program failure modes
 
 ## Outline
+
 <!-- chapter: what-data-mesh-actually-is, duration: 2h -->
 * What data mesh actually is
     * the four principles revisited
@@ -170,4 +173,5 @@ case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizatio
     * recommended reading: `Dehghani`, `Zalando` and `Netflix` blog posts
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

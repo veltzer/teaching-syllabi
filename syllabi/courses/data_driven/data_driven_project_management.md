@@ -14,12 +14,14 @@ audience:
 # Data Driven Project Management
 
 ## Description
+
 This course is introduces how to manage a project using a data driven approach. This approach
 which has been promulgated by successful corporations such as Google and Apple has shown
 great success being used from the startup level where it is critical since resources are limited,
 through the enterprise level and up to the corporate level.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -29,6 +31,7 @@ to understand both the theory and the practical aspects of the approach.
 more complete understanding of the approach and current tools in the space.
 
 ## Prerequisites
+
 Any of the following
 * Experience in product management
 * Experience in project management
@@ -43,6 +46,7 @@ Any of the following
 * gain practical knowledge of Frameworks (4 hours)
 
 ## Outline
+
 <!-- chapter: the-data-drive-approach, duration: 3h -->
 * The Data Drive approach (4 hours)
     * What is it?
@@ -136,4 +140,5 @@ Any of the following
 * There are preparation hints in the form of Quiz slides at ends of chapters
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

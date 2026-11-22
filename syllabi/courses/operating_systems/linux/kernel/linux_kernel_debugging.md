@@ -19,6 +19,7 @@ audience:
 # `Linux` Kernel Debugging
 
 ## Description
+
 This course is a `Linux` Kernel Debugging course and explores the various tools
 and techniques that enable efficient debugging of code in the `Linux` kernel.
 
@@ -27,6 +28,7 @@ and techniques that enable efficient debugging of code in the `Linux` kernel.
 * 5 days for non experienced programmers.
 
 ## Intended Audience
+
 This course is intended for kernel developers which either do not have many
 years experience in `Linux` kernel development or for developers who want to
 expand their knowledge about the tools and techniques for debugging code
@@ -44,6 +46,7 @@ in the `Linux` kernel.
 * gain practical knowledge of Techniques for finding the problem
 
 ## Outline
+
 <!-- chapter: basics, duration: 1h -->
 * Basics
     * Procedures
@@ -143,6 +146,7 @@ in the `Linux` kernel.
     * `netlink` Messages
 
 ## Notes
+
 Several of the chapters in this course are based on chapters from
 [`linux`-kernel-debugging-and_security](https://training.linuxfoundation.org/training/linux-kernel-debugging-and-security).
 Other chapters are written by [me](mailto:mark.veltzer@gmail.com).
@@ -151,4 +155,5 @@ is assumed and should have been acquired in a previous course or some years with
 on experience in kernel programming.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,9 +15,11 @@ audience:
 # LoRaWAN and LPWAN
 
 ## Description
+
 This course provides a comprehensive exploration of Low-Power Wide-Area Network (LPWAN) technologies with a primary focus on LoRaWAN. Participants will learn the `LoRa` physical layer, LoRaWAN network architecture, device classes, security model, and practical device development. The course also covers competing LPWAN technologies including Sigfox, NB-IoT, and LTE-M, enabling participants to `make` informed technology choices for their IoT projects.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course provides a comprehensive exploration of Low-Power Wide-Area Network 
 * Optimize power consumption and range for real-world deployments
 
 ## Outline
+
 <!-- chapter: lpwan-concepts-and-comparison, duration: 2h -->
 * LPWAN Concepts and Comparison
     * What is LPWAN and why it matters for IoT
@@ -155,4 +158,5 @@ This course provides a comprehensive exploration of Low-Power Wide-Area Network 
     * Industrial monitoring and predictive maintenance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

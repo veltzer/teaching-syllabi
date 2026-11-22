@@ -15,9 +15,11 @@ audience:
 # `AWS Lambda` and Serverless
 
 ## Description
+
 This course provides a deep dive into serverless computing on `Amazon Web Services`, with a primary focus on `AWS Lambda` and its surrounding ecosystem. Participants will learn to design, build, deploy, and operate serverless applications using a variety of `AWS` services. The course covers event-driven architectures, orchestration, monitoring, security, and cost optimization, giving participants the skills to build production-ready serverless solutions.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course provides a deep dive into serverless computing on `Amazon Web Servic
 * Implement cost optimization strategies for serverless workloads
 
 ## Outline
+
 <!-- chapter: introduction-to-serverless-computing, duration: 1h -->
 * Introduction to Serverless Computing
     * What is Serverless?
@@ -153,4 +156,5 @@ This course provides a deep dive into serverless computing on `Amazon Web Servic
     * `AWS` `Cost Explorer` and budgets for serverless
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

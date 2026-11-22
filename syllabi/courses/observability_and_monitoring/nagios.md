@@ -17,6 +17,7 @@ audience:
 # `Nagios` Monitoring
 
 ## Description
+
 `Nagios` is one of the most widely adopted open source monitoring systems,
 providing comprehensive infrastructure monitoring through host and service checks,
 alerting, and performance data collection. This course covers the core concepts
@@ -26,6 +27,7 @@ how to build a robust monitoring solution using `Nagios` that provides full
 visibility into their infrastructure.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -51,6 +53,7 @@ visibility into their infrastructure.
 * Collect and visualize performance data using `Nagios` dashboards.
 
 ## Outline
+
 <!-- chapter: introduction-to-nagios, duration: 1h -->
 * Introduction to `Nagios`
     * Overview of monitoring and observability
@@ -104,4 +107,5 @@ visibility into their infrastructure.
     * High availability considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

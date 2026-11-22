@@ -15,6 +15,7 @@ audience:
 # Introduction to CloudFoundry
 
 ## Description
+
 The course will introduce the cloud to cloud newbie developers.
 It will explain the theory behind modern cloud environments, why
 they are needed, what they are good at, what deficiencies do they
@@ -26,9 +27,11 @@ micro-services. Theory of these will be discussed and hands on
 practice will follow.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
+
 Web and enterprise developers with understanding of web application
 design and implementation on any platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 
@@ -49,6 +52,7 @@ platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * gain practical knowledge of `Microservices` theory
 
 ## Outline
+
 <!-- chapter: theory, duration: 17h -->
 * Theory
     * Cloud Development Philosophy and trends
@@ -71,4 +75,5 @@ platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * This can be changed.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

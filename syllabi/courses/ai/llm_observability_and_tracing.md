@@ -19,6 +19,7 @@ audience:
 # `LLM` Observability and Tracing
 
 ## Description
+
 The catalog has `LLM Application Engineering`, `LLM Evaluation and Benchmarking`,
 `Agentic Systems Engineering`, and `Working with LLMs Securely`. Each touches observability; none is
 the focused engineering of making an `LLM`-powered system observable. `LLM` systems break in ways
@@ -39,6 +40,7 @@ retrieval-collapsed bug, the agent-cost-runaway. Participants leave able to `mak
 observable enough to debug.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ observable enough to debug.
 * connect `LLM` observability to evaluation
 
 ## Outline
+
 <!-- chapter: why-llm-observability-is-its-own-thing, duration: 1h -->
 * Why `LLM` observability is its own thing
     * the trace as the unit, not the request
@@ -165,4 +168,5 @@ observable enough to debug.
     * recommended reading: `OpenTelemetry GenAI` SIG, LangSmith/`Langfuse` docs
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

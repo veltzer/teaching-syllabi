@@ -18,6 +18,7 @@ audience:
 # `Hadoop`
 
 ## Description
+
 `Apache Hadoop` is an open-source distributed fault-tolerant system that leverages commodity hardware to achieve large-scale `agile` data storage and processing. `Hadoop` empowers applications to work with thousands of nodes and petabytes of data without exposing the complexity of clustering to the end user.
 
 This course discusses the design principles behind `Apache Hadoop` and explains the architecture of its core sub-systems: `HDFS` and Map-Reduce
@@ -29,9 +30,11 @@ This course is intended for developers, architects and technical managers who wi
 This course assumes no prior knowledge of `Hadoop`. Participants should be comfortable with `Java` code and familiar with DWH concepts
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
+
 Developers, architects, and technical managers who wish to understand `Hadoop`'s architecture and its core subsystems.
 
 ## Prerequisites
@@ -45,6 +48,7 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
 * Compare `Hadoop` with traditional large-scale data storage and processing approaches
 
 ## Outline
+
 <!-- chapter: big-data-brief-overview, duration: 3h -->
 * Big Data Brief Overview
     * Big Data Characteristics and Use-Cases
@@ -76,4 +80,5 @@ Developers, architects, and technical managers who wish to understand `Hadoop`'s
     * Common Utilities: `Sqoop`, `Flume`, `Zookeeper`, etc.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

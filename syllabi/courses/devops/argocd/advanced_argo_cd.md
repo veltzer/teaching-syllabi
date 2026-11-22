@@ -17,6 +17,7 @@ audience:
 # Advanced `Argo CD`
 
 ## Description
+
 This advanced course takes students deep into `Argo CD`, the declarative `GitOps` continuous
 delivery tool for `Kubernetes`. The course goes beyond basic application deployment to cover
 enterprise-grade patterns, multi-cluster management, and advanced deployment strategies.
@@ -27,6 +28,7 @@ covers high availability, security, notifications, and operational best practice
 running `Argo CD` at scale.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ running `Argo CD` at scale.
 * Apply `GitOps` best practices at organizational scale.
 
 ## Outline
+
 <!-- chapter: argo-cd-architecture-deep-dive, duration: 1h -->
 * `Argo CD` Architecture Deep Dive
     * Application controller internals
@@ -173,4 +176,5 @@ running `Argo CD` at scale.
     * Governance and compliance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

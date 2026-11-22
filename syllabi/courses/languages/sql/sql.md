@@ -14,9 +14,11 @@ audience:
 # `SQL`
 
 ## Description
+
 `SQL` (Structured Query Language) is the standard language for managing and manipulating relational databases. This course covers fundamental to advanced `SQL` concepts and teaches how to effectively query, update, and manage database systems across different platforms.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ audience:
 * Troubleshoot common `SQL` problems and performance issues
 
 ## Outline
+
 <!-- chapter: introduction-to-sql-and-databases, duration: 3h -->
 * Introduction to `SQL` and Databases
     * History and evolution of `SQL`
@@ -158,4 +161,5 @@ audience:
     * Common `SQL` antipatterns and pitfalls
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

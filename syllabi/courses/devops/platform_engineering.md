@@ -18,12 +18,15 @@ audience:
 # Platform Engineering
 
 ## Description
+
 This course covers the discipline of platform engineering, focusing on building internal developer platforms (IDPs) that improve developer experience and productivity. Participants will learn how to design golden paths, implement self-service infrastructure, build service catalogs and developer portals using Backstage, and establish platform teams that serve the broader engineering organization.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
+
 `DevOps` engineers, platform engineers, software architects, and engineering leaders who are responsible for building or improving internal developer platforms and tooling.
 
 ## Prerequisites
@@ -40,6 +43,7 @@ This course covers the discipline of platform engineering, focusing on building 
 * Establish and operate effective platform teams
 
 ## Outline
+
 <!-- chapter: introduction-to-platform-engineering, duration: 2h -->
 * Introduction to Platform Engineering
     * What is platform engineering and why it matters
@@ -99,4 +103,5 @@ This course covers the discipline of platform engineering, focusing on building 
     * Scaling platform engineering across the organization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

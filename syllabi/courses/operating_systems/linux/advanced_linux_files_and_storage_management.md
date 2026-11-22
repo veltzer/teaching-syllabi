@@ -20,9 +20,11 @@ audience:
 # Advanced `Linux` Files and Storage Management
 
 ## Description
+
 This advanced course is designed for experienced `Linux` system administrators, `DevOps` engineers, and security professionals with `solid` foundational knowledge of `Linux`. The course covers comprehensive file system architecture, advanced storage technologies, logical volume management, networked storage solutions, and performance optimization. Students will gain expertise in enterprise-level storage management, troubleshooting, and security practices.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This advanced course is designed for experienced `Linux` system administrators, 
 * Apply best practices for enterprise `Linux` storage management
 
 ## Outline
+
 <!-- chapter: linux-file-system-architecture-and-concepts, duration: 5h -->
 * `Linux` `File` System Architecture and Concepts
     * Overview of `Linux` file system hierarchy and standards (FHS)
@@ -130,4 +133,5 @@ This advanced course is designed for experienced `Linux` system administrators, 
 * [LUKS Disk Encryption](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

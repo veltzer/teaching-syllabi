@@ -18,6 +18,7 @@ audience:
 # Webhooks Engineering
 
 ## Description
+
 Webhooks are how a `SaaS` product tells its customers that something happened. They look like a small
 detail and they are not. The catalog covers `API` design, `API` gateways, message queues, event-driven
 architecture, and idempotency, but does not cover the specific engineering of producing and consuming
@@ -37,6 +38,7 @@ documented engineering posts about building them. Participants leave able to des
 webhook system.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ webhook system.
 * compare webhooks to alternatives (`SSE`, polling, queues)
 
 ## Outline
+
 <!-- chapter: what-a-webhook-actually-is, duration: 1h -->
 * What a webhook actually is
     * a `POST` from the producer to the consumer's `URL`
@@ -141,4 +144,5 @@ webhook system.
     * recommended reading: Stripe engineering blog, `Webhooks.fyi`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # `AI` Ethics and Responsible `AI`
 
 ## Description
+
 This course provides a comprehensive overview of ethical considerations and responsible practices in
 `AI` development and deployment. Participants will learn about bias and fairness in `AI` systems,
 explainability and interpretability techniques such as `LIME` and `SHAP`, privacy-preserving methods,
@@ -23,6 +24,7 @@ structures. The course addresses real-world applications of `AI` in hiring, lend
 justice, as well as emerging challenges like deepfakes and `AI` safety.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
 * **Build organizational governance frameworks** for ethical `AI` development and deployment
 
 ## Outline
+
 <!-- chapter: ai-ethics-fundamentals, duration: 1h -->
 * `AI` Ethics Fundamentals
     * Why `AI` ethics matters
@@ -317,4 +320,5 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
         * Evolving with regulation and best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

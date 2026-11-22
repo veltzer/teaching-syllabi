@@ -21,6 +21,7 @@ audience:
 # Cloud Misconfiguration and `CSPM`
 
 ## Description
+
 Most cloud breaches are not novel exploits. They are public buckets, over-permissive `IAM`, exposed
 management interfaces, forgotten compute instances, and snapshots accessible to the world. The cloud
 security course in the catalog is a broader treatment; this course is the focused, hands-on companion on
@@ -36,6 +37,7 @@ Participants leave able to assess a cloud environment, prioritize fixes, and bui
 program that keeps a fixed environment fixed.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ program that keeps a fixed environment fixed.
 * avoid the noise-and-fatigue trap that kills `CSPM` programs
 
 ## Outline
+
 <!-- chapter: the-misconfiguration-threat-landscape, duration: 2h -->
 * The misconfiguration threat landscape
     * the public breach pattern: misconfig, not zero-day
@@ -181,4 +184,5 @@ program that keeps a fixed environment fixed.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

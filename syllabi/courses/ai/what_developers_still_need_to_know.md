@@ -19,6 +19,7 @@ audience:
 # What Developers Using `AI` Still Need to Know About Programming
 
 ## Description
+
 `AI` coding assistants can now write functions, whole modules, tests and even
 architectures on demand. This has led many developers to believe that the
 fundamentals no longer matter. The opposite is true. The moment the machine
@@ -40,6 +41,7 @@ but how we should organize the work around it — including retiring much of the
 ceremony of Agile in favor of tight, test-anchored iteration.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -65,6 +67,7 @@ ceremony of Agile in favor of tight, test-anchored iteration.
 * Hands-on throughout, using the student's own `AI` assistant against real code, both reviewing machine output and building the tests and design constraints that keep it honest.
 
 ## Outline
+
 <!-- chapter: what-changed-and-what-did-not, duration: 2h -->
 * What `AI` changed and what it did not
     * The shift from writing code to judging code
@@ -162,6 +165,7 @@ ceremony of Agile in favor of tight, test-anchored iteration.
     * A working model for `AI`-era teams
 
 ## Installations
+
 Each student should have:
 
 * A working development environment for their primary language, on `Linux`, `Windows` or `MacOS`.
@@ -171,4 +175,5 @@ Each student should have:
 * A real codebase they can experiment on is a strong advantage.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

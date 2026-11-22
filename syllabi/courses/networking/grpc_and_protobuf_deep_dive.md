@@ -19,6 +19,7 @@ audience:
 # `gRPC` and `Protobuf` Deep Dive
 
 ## Description
+
 `gRPC` is the default `RPC` framework for service-to-service communication in much of the modern cloud-native ecosystem,
 and `Protobuf` is the schema language and serialization format underneath it. This five day course goes well past the
 basics of "define a service, call a method" into the parts of `gRPC` that matter once a system goes to production:
@@ -30,6 +31,7 @@ able to design `gRPC` APIs that survive long-term schema evolution, build resili
 in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and message-based alternatives.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -54,6 +56,7 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 * choose between `gRPC`, `gRPC-Web`, Connect, `REST` and `GraphQL`
 
 ## Outline
+
 <!-- chapter: rpc-history-and-where-grpc-fits, duration: 1h -->
 * `RPC` history and where `gRPC` fits
     * brief history: `Sun RPC`, CORBA, Thrift, `gRPC`
@@ -189,4 +192,5 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

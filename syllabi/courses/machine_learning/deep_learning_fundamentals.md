@@ -18,6 +18,7 @@ audience:
 # `Deep Learning` Fundamentals
 
 ## Description
+
 This course covers the foundations and practical application of `deep learning`. Participants will learn
 how neural networks work, and gain hands-on experience building and training models using `PyTorch`
 and `TensorFlow`. The course progresses from basic feedforward networks through convolutional and
@@ -25,6 +26,7 @@ recurrent architectures to modern topics including transformers, transfer learni
 adversarial networks.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ adversarial networks.
 * Understand the principles behind GANs and generative models.
 
 ## Outline
+
 <!-- chapter: neural-network-foundations, duration: 4h -->
 * Neural Network Foundations
     * Biological inspiration and the perceptron
@@ -103,4 +106,5 @@ adversarial networks.
     * Introduction to diffusion models
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

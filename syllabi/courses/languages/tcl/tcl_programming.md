@@ -16,9 +16,11 @@ audience:
 # Tcl/Tk Programming
 
 ## Description
+
 Tcl (Tool Command Language) is a dynamic scripting language widely used in embedded systems, test automation, and rapid prototyping. Paired with Tk, it provides a cross-platform GUI toolkit. This course covers the Tcl language from fundamentals through advanced topics including namespaces, packages, GUI development with Tk, automation with Expect, and embedding Tcl in C applications.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
 * Embed Tcl as a scripting engine in C programs
 
 ## Outline
+
 <!-- chapter: introduction-to-tcl, duration: 1h -->
 * Introduction to Tcl
     * History and design philosophy
@@ -140,4 +143,5 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
     * Building loadable extensions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

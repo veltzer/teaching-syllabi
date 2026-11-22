@@ -17,6 +17,7 @@ audience:
 # Maven
 
 ## Description
+
 `Apache Maven` is the de-facto standard build and project management tool for `Java` and `JVM`-based projects.
 This course provides a thorough understanding of Maven's build lifecycle, dependency resolution, and plugin
 ecosystem, enabling developers to manage complex multi-module projects with confidence. Participants will learn
@@ -25,6 +26,7 @@ to work with Maven repositories, configure environment-specific profiles, and in
 tooling decisions.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ tooling decisions.
 * Evaluate trade-offs between Maven and `Gradle`.
 
 ## Outline
+
 <!-- chapter: introduction-to-maven, duration: 2h -->
 * Introduction to Maven:
     * History and motivation behind Maven.
@@ -123,4 +126,5 @@ tooling decisions.
     * Choosing the right tool for your project.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

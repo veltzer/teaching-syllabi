@@ -14,9 +14,11 @@ audience:
 # `C#` for `Unity`
 
 ## Description
+
 This course teaches `C#` programming in the context of `Unity` game engine development. Students will learn the `Unity` engine architecture, the MonoBehaviour lifecycle, physics, input handling, UI systems, and animation. The course covers essential patterns for game development including ScriptableObjects, coroutines, audio, particle systems, and optimization techniques. By the end of the course, students will be able to build, optimize, and deploy `Unity` projects using `C#`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course teaches `C#` programming in the context of `Unity` game engine devel
 * Build and deploy `Unity` projects to target platforms
 
 ## Outline
+
 <!-- chapter: unity-engine-overview, duration: 2h -->
 * `Unity` Engine Overview
     * `Unity` editor and workspace layout
@@ -135,4 +138,5 @@ This course teaches `C#` programming in the context of `Unity` game engine devel
     * Post-build testing and validation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

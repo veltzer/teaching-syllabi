@@ -17,6 +17,7 @@ audience:
 # Intermediate `Jenkins`
 
 ## Description
+
 The Intermediate `Jenkins` training course is designed to help developers learn more about the
 features of `Jenkins` Pipelines as they automate more of their `CI/CD` process on their `DevOps`
 journey.
@@ -38,6 +39,7 @@ well as uncover some lessons learned from instructors with years of experience w
 * Testing
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ well as uncover some lessons learned from instructors with years of experience w
 * Use `Docker` agents within your pipelines
 
 ## Outline
+
 <!-- chapter: refresher-on-jenkins, duration: 1h -->
 * Refresher on `Jenkins`
     * What is CI?
@@ -137,8 +140,10 @@ well as uncover some lessons learned from instructors with years of experience w
     * Ways to optimize your pipelines
 
 ## References
+
 [building-a-modern-ci-cd-pipeline-with-`Jenkins`](https://www.pluralsight.com/courses/building-modern-ci-cd-pipeline-jenkins)
 [automating-`Jenkins`-with-groovy](https://www.pluralsight.com/courses/automating-jenkins-groovy)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -20,6 +20,7 @@ audience:
 # Idempotency and Distributed Consistency
 
 ## Description
+
 The single most underrated topic in distributed systems is idempotency. Most production bugs in distributed systems
 trace back to it: duplicate payments, double-booked seats, replayed webhooks, drifted counters, lost messages
 that turn out not to be lost. The fix is rarely difficult once you know the pattern, and almost always painful
@@ -34,6 +35,7 @@ payments, e-commerce, messaging and streaming systems. Participants leave able t
 workflows that survive every retry `storm`, network partition and replay scenario their users can throw at them.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ workflows that survive every retry `storm`, network partition and replay scenari
 * avoid the most common distributed correctness pitfalls
 
 ## Outline
+
 <!-- chapter: why-idempotency-is-the-most-underrated-topic, duration: 2h -->
 * Why idempotency is the most underrated topic
     * the universal retry problem
@@ -181,4 +184,5 @@ workflows that survive every retry `storm`, network partition and replay scenari
     * recommended reading and further study
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

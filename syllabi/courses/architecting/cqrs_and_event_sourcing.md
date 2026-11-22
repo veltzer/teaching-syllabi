@@ -16,9 +16,11 @@ audience:
 # `CQRS` and `Event Sourcing`
 
 ## Description
+
 `CQRS` (Command Query Responsibility Segregation) and `Event Sourcing` are two complementary architectural patterns that address the challenges of building scalable, auditable, and maintainable distributed systems. This course covers the theory, design principles, and practical implementation of both patterns, from separating command and query models to persisting application state as an immutable sequence of events. Participants will explore how these patterns integrate with `Domain-Driven Design` and microservices, and how to tackle real-world concerns such as eventual consistency, projections, snapshotting, and testing. By the end of the course, participants will be equipped to evaluate when and how to apply `CQRS` and `Event Sourcing` in production systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ audience:
 * Write effective tests for command handlers, projections, and event-sourced aggregates
 
 ## Outline
+
 <!-- chapter: introduction-to-cqrs, duration: 2h -->
 * Introduction to `CQRS`
     * What is `CQRS` and why it was introduced
@@ -139,4 +142,5 @@ audience:
     * Common testing pitfalls in event-sourced systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,6 +17,7 @@ audience:
 # `AWS` Containers (`ECS`/`EKS`)
 
 ## Description
+
 This course covers container orchestration on `AWS`, focusing on both `Amazon ECS`
 and `Amazon EKS`. Participants will learn how to build, deploy, and manage
 containerized applications using `AWS` container services including Fargate,
@@ -24,6 +25,7 @@ containerized applications using `AWS` container services including Fargate,
 auto-scaling, monitoring, and `CI/CD` pipelines for container workloads on `AWS`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ auto-scaling, monitoring, and `CI/CD` pipelines for container workloads on `AWS`
 * Design and implement `CI/CD` pipelines for container deployments on `AWS`.
 
 ## Outline
+
 <!-- chapter: introduction-to-containers-on-aws, duration: 2h -->
 * Introduction to Containers on `AWS`
     * Overview of container services on `AWS`
@@ -108,4 +111,5 @@ auto-scaling, monitoring, and `CI/CD` pipelines for container workloads on `AWS`
     * Image promotion across environments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

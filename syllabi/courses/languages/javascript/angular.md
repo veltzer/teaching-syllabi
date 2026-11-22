@@ -13,9 +13,11 @@ audience:
 # Angular Development
 
 ## Description
+
 This course offers a thorough exploration of the Angular framework for building scalable, enterprise-grade web applications. Starting with Angular architecture and a `TypeScript` refresher, the course covers components, templates, data binding, directives, services, dependency injection, routing, forms, `HTTP` communication, `RxJS`, state management with NgRx, testing, and deployment. Students will gain the skills to build, test, and deploy production-ready Angular applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ This course offers a thorough exploration of the Angular framework for building 
 * Style applications using `Angular Material`
 
 ## Outline
+
 <!-- chapter: angular-architecture-and-setup, duration: 2h -->
 * Angular Architecture and Setup
     * Overview of the Angular framework and its philosophy
@@ -174,4 +177,5 @@ This course offers a thorough exploration of the Angular framework for building 
     * Performance monitoring and optimization techniques
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

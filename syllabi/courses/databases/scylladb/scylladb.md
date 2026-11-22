@@ -18,9 +18,11 @@ audience:
 # `ScyllaDB`
 
 ## Description
+
 `ScyllaDB` is a high-performance, `Apache Cassandra`-compatible wide-column `NoSQL` database rebuilt in `C++` around a shard-per-core architecture that dramatically reduces latency and increases throughput compared to `Cassandra`. Designed to handle millions of operations per second on commodity hardware, `ScyllaDB` is used by organizations that require ultra-low latency at massive scale. This course covers `ScyllaDB`'s architecture, data modeling philosophy, CQL usage, operational management, and performance tuning. Participants will also learn about `ScyllaDB`'s unique capabilities including the Alternator `DynamoDB`-compatible `API`, materialized views, and advanced compaction strategies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,9 +52,11 @@ audience:
 * Use the Alternator `API` for `DynamoDB`-compatible workloads
 
 ## Exercises
+
 Hands-on labs using a multi-node `ScyllaDB` cluster provisioned with `Docker Compose`. Students will design and implement data models for real-world use cases, execute CQL from the `cqlsh` shell and `Python` driver, configure compaction strategies and observe their effects, set consistency levels and observe trade-offs, create materialized views, use `scyllatop` and `nodetool` for monitoring, run benchmarks with `cassandra-stress`, and practice a rolling migration from `Cassandra`. Scenarios include user activity feeds, IoT telemetry, and leaderboard systems.
 
 ## Outline
+
 <!-- chapter: introduction-to-scylladb, duration: 2h -->
 * Introduction to `ScyllaDB`
     * The scalability and latency challenges `ScyllaDB` addresses
@@ -168,4 +172,5 @@ Hands-on labs using a multi-node `ScyllaDB` cluster provisioned with `Docker Com
     * Migration from `DynamoDB` to `ScyllaDB`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

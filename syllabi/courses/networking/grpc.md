@@ -15,9 +15,11 @@ audience:
 # `gRPC` Development
 
 ## Description
+
 `gRPC` is a high-performance, open-source remote procedure call framework built on `HTTP`/2 and `Protocol Buffers`. This course covers the full range of `gRPC` development, from defining services with `protobuf` to implementing all four communication patterns (unary, server streaming, client streaming, bidirectional streaming). Participants will learn about advanced topics including interceptors, authentication, load balancing, `gRPC`-Web, and `gRPC`-Gateway for `REST` transcoding.
 
 ## Duration
+
 24 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ audience:
 * Use `gRPC`-Web and `gRPC`-Gateway to expose services to web clients and `REST` consumers
 
 ## Outline
+
 <!-- chapter: grpc-fundamentals, duration: 2h -->
 * `gRPC` Fundamentals
     * What is `gRPC` and its design goals
@@ -180,4 +183,5 @@ audience:
     * `gRPC` vs `REST` performance comparison
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

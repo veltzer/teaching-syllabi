@@ -18,6 +18,7 @@ audience:
 # `LLM` Guardrails and Safety Engineering
 
 ## Description
+
 The catalog has `AI Safety and Alignment` (the research-and-policy course),
 `AI Ethics and Responsible AI`, `Working with LLMs Securely`, and `LLM Application Engineering`.
 None of those covers the day-to-day engineering of putting guardrails on an `LLM`-powered product:
@@ -39,6 +40,7 @@ Examples include real production deployments. Participants leave able to design 
 guardrail layer for an `LLM` product.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -63,6 +65,7 @@ guardrail layer for an `LLM` product.
 * recognize when guardrails are over-engineered
 
 ## Outline
+
 <!-- chapter: the-threat-model, duration: 2h -->
 * The threat model
     * jailbreak attempts
@@ -160,4 +163,5 @@ guardrail layer for an `LLM` product.
     * picking the right level
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -20,6 +20,7 @@ audience:
 # Streaming Data Systems
 
 ## Description
+
 Modern data platforms are increasingly built around continuous streams rather than nightly batches. Streaming
 systems are powerful but full of subtle traps: time semantics, late data, exactly-once delivery, stateful
 processing, schema evolution and recovery from failure each have non-obvious correct answers, and getting any of
@@ -33,6 +34,7 @@ required to run streaming workloads in production. Participants leave able to de
 streaming pipelines and to choose the right engine for a given workload.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ streaming pipelines and to choose the right engine for a given workload.
 * avoid the most common streaming pipeline failure modes
 
 ## Outline
+
 <!-- chapter: streaming-fundamentals, duration: 2h -->
 * Streaming fundamentals
     * batch vs streaming vs micro-batch
@@ -180,4 +183,5 @@ streaming pipelines and to choose the right engine for a given workload.
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

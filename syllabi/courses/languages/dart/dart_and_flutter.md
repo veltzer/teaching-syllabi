@@ -14,11 +14,13 @@ audience:
 # Dart and `Flutter`
 
 ## Description
+
 Dart is a client-optimized programming language developed by Google for building fast applications on any platform. `Flutter` is Google's UI toolkit built with Dart for creating natively compiled applications for mobile, web, and desktop from a single codebase. Together, Dart and `Flutter` provide a productive and modern framework for cross-platform development.
 
 This course covers the Dart language in depth, followed by comprehensive `Flutter` framework training. Students will learn to build responsive, beautiful applications with state management, networking, animations, and deployment to both `iOS` and `Android`.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
 * Test, build, and deploy apps for `iOS` and `Android`
 
 ## Outline
+
 <!-- chapter: dart-language-fundamentals, duration: 2h -->
 * Dart Language Fundamentals
     * Introduction to Dart
@@ -173,4 +176,5 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
     * Continuous integration and delivery
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

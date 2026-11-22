@@ -16,6 +16,7 @@ audience:
 # `Java` `Design Patterns`
 
 ## Description
+
 This course covers the classic Gang of Four `design patterns` and their practical application
 in `Java`. Participants will learn how to apply creational, structural, and behavioral patterns,
 understand `SOLID` principles, recognize anti-patterns, and refactor existing code toward
@@ -23,6 +24,7 @@ well-known patterns. The course emphasizes real-world examples and enterprise pa
 commonly used in `Java` applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ commonly used in `Java` applications.
     * Refactoring techniques to evolve code toward patterns.
 
 ## Outline
+
 <!-- chapter: solid-principles, duration: 3h -->
 * `SOLID` Principles
     * Single Responsibility Principle
@@ -102,4 +105,5 @@ commonly used in `Java` applications.
     * Real-world case studies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

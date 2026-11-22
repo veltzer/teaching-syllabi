@@ -16,6 +16,7 @@ audience:
 # Snowflake
 
 ## Description
+
 Snowflake is a cloud-native data platform that provides a fully managed data warehouse,
 data lake, and data sharing solution. With its unique multi-cluster shared data architecture,
 Snowflake separates compute from storage, enabling near-unlimited scalability and concurrency
@@ -27,6 +28,7 @@ data loading, querying, advanced features like time travel and data sharing, and
 optimization strategies.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ optimization strategies.
 * Optimize performance and manage costs
 
 ## Outline
+
 <!-- chapter: introduction-to-cloud-data-warehousing, duration: 1h -->
 * Introduction to Cloud Data Warehousing
     * Traditional vs cloud data warehouses
@@ -160,4 +163,5 @@ optimization strategies.
     * Partner Connect
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

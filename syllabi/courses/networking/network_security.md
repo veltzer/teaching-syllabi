@@ -15,9 +15,11 @@ audience:
 # Network Security
 
 ## Description
+
 Network security is a critical discipline in today's interconnected world, where organizations face increasingly sophisticated threats targeting their network infrastructure. This course provides a comprehensive understanding of network security principles, technologies, and practices. Students will learn how to protect networks using firewalls, VPNs, encryption, and intrusion detection systems, as well as how to analyze traffic, respond to incidents, and design secure network architectures following modern zero trust principles.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ Network security is a critical discipline in today's interconnected world, where
 * Develop incident response procedures for network security events
 
 ## Outline
+
 <!-- chapter: network-security-fundamentals, duration: 1h -->
 * Network Security Fundamentals
     * Security principles: confidentiality, integrity, availability
@@ -187,4 +190,5 @@ Network security is a critical discipline in today's interconnected world, where
     * Documentation and policy requirements
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

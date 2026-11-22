@@ -18,9 +18,11 @@ audience:
 # Embedded `Linux` boot time optimization
 
 ## Description
+
 This intensive one-day course focuses on techniques and strategies to reduce `Linux` kernel boot time. Participants will learn to analyze, optimize, and streamline the boot process for improved system performance.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
 * Be able to use advanced and alternatives techniques of boot time optimization.
 
 ## Outline
+
 <!-- chapter: principles, duration: 1h -->
 * Principles
     * How to measure boot time
@@ -111,4 +114,5 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
     * `Find` the best kernel compression solution for our system
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

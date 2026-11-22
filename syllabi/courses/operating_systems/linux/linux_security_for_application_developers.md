@@ -17,9 +17,11 @@ audience:
 # `Linux` security for application developers
 
 ## Description
+
 This course is intended to introduce the participants to `Linux` security issues, explain the various security threats that C/`C++` programs are subject to on the `Linux` platform and introduce the host of ways to combat these issues.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -38,9 +40,11 @@ This course is intended to introduce the participants to `Linux` security issues
 * gain practical knowledge of How to combat C level vulnerabilities
 
 ## Exercises
+
 This course is an instructor led course, with demos by the instructor and no exercises.
 
 ## Outline
+
 <!-- chapter: basic-linux-security, duration: 2h -->
 * Basic `Linux` security
     * `/etc/passwd` and user login
@@ -100,4 +104,5 @@ This course is an instructor led course, with demos by the instructor and no exe
         * How to disable it for various purposes (debugging, ...)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

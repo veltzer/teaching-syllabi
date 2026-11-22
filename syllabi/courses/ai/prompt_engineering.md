@@ -16,9 +16,11 @@ audience:
 # Prompt Engineering Masterclass
 
 ## Description
+
 This one day course provides a systematic approach to prompt engineering for large language models. Students will learn proven prompting techniques including chain-of-thought, few-shot, and system prompt design. The course covers structured output generation, prompt evaluation and testing, prompt management strategies, and model comparison to help participants get reliable, high-quality results from `LLMs`.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This one day course provides a systematic approach to prompt engineering for lar
 * Compare model capabilities and select the right model for each task.
 
 ## Outline
+
 <!-- chapter: foundations-of-prompt-engineering, duration: 1h -->
 * Foundations of Prompt Engineering
     * How `LLMs` process and respond to prompts
@@ -84,4 +87,5 @@ This one day course provides a systematic approach to prompt engineering for lar
     * Adapting prompts across models
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

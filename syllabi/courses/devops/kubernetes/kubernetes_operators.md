@@ -15,6 +15,7 @@ audience:
 # `Kubernetes` Operators
 
 ## Description
+
 This course provides an in-depth exploration of the `Kubernetes` Operator pattern, teaching
 participants how to extend `Kubernetes` by building custom controllers and operators. The course
 covers the full lifecycle of operator development, from understanding the `Kubernetes` `API` and
@@ -24,6 +25,7 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 `Operator Lifecycle Manager`.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 * test and deploy operators in production environments.
 
 ## Outline
+
 <!-- chapter: operator-pattern-concepts, duration: 2h -->
 * Operator pattern concepts
     * what is an operator
@@ -118,4 +121,5 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
     * multi-tenant considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

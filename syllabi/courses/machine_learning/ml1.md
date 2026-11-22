@@ -13,9 +13,11 @@ audience:
 # `Machine Learning` Theory and `Deep Learning`
 
 ## Description
+
 This comprehensive course covers the theory and practice of `Machine Learning`, from supervised and unsupervised learning through `deep learning` and advanced neural network architectures. Topics include regression, classification, clustering, dimensionality reduction, convolutional and recurrent neural networks, and recent advances in the field.
 
 ## Duration
+
 56 hours / 7 days
 
 ## Intended Audience
@@ -36,6 +38,7 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
 * gain practical knowledge of `Deep learning` basics
 
 ## Outline
+
 <!-- chapter: supervised-learning, duration: 15h -->
 * Supervised learning
     * Introduction to `Machine Learning`
@@ -100,4 +103,5 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
     * Summary
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

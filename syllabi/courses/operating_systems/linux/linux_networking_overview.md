@@ -20,12 +20,14 @@ audience:
 # `Linux` networking overview
 
 ## Description
+
 This is a comprehensive course about the various subsystems in `Linux` which have to do with networking.
 It scans both the user space APIs and the networking stack in the kernel including the role of the network
 device driver itself. It also teaching about other technologies that have an interaction with networking like
 `eBPF`, `iptables`, `netfilter`, namespaces and more
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ device driver itself. It also teaching about other technologies that have an int
 * gain practical knowledge of Network C Programming essentials
 
 ## Outline
+
 <!-- chapter: tcp-ip-essentials, duration: 2h -->
 * `TCP`/`IP` essentials
     * Introduction to `TCP`/`IP`
@@ -124,4 +127,5 @@ device driver itself. It also teaching about other technologies that have an int
     * Off the shelf `eBPF` program collections
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

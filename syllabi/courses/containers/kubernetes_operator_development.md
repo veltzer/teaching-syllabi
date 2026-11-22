@@ -18,6 +18,7 @@ audience:
 # `Kubernetes` Operator Development
 
 ## Description
+
 The catalog has `Kubernetes`, `Kubernetes for Developers`, `Kubernetes Troubleshooting`, and the
 related Helm, `Kustomize`, `ArgoCD` material. None of those covers the discipline of building a
 `Kubernetes` operator: a controller that extends `Kubernetes` with custom resources and automates the
@@ -37,6 +38,7 @@ that other teams will run. Examples are drawn from the `Strimzi` (`Kafka`), `Clo
 ship an operator that respects `Kubernetes` conventions and survives contact with users.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -61,6 +63,7 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
 * recognize the patterns that `make` operators succeed in production
 
 ## Outline
+
 <!-- chapter: what-an-operator-actually-is, duration: 1h -->
 * What an operator actually is
     * controller plus `CRD` plus operational knowledge
@@ -170,4 +173,5 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
     * recommended reading: `controller-runtime` docs, `Kubernetes` `API` conventions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

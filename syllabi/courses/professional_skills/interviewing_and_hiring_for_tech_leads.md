@@ -13,6 +13,7 @@ audience:
 # Interviewing and Hiring for Tech Leads
 
 ## Description
+
 This course equips technical leaders and engineering managers with the skills to design and
 run effective hiring processes. From defining role requirements and writing job descriptions
 through conducting structured interviews and making fair hiring decisions, students will learn
@@ -20,6 +21,7 @@ how to build a consistent, bias-aware pipeline that identifies strong candidates
 a positive candidate experience.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ a positive candidate experience.
 * gain practical knowledge of building inclusive and bias-aware hiring pipelines
 
 ## Outline
+
 <!-- chapter: defining-role-requirements, duration: 1h -->
 * Defining Role Requirements
     * Identifying team needs
@@ -146,4 +149,5 @@ a positive candidate experience.
     * Compliance with anti-discrimination regulations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

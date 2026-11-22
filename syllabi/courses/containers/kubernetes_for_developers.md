@@ -17,6 +17,7 @@ audience:
 # `Kubernetes` for Developers
 
 ## Description
+
 This advanced course is designed for developers who want to build `Kubernetes`-native
 applications. Students will learn how to extend `Kubernetes` by writing custom operators,
 Custom Resource Definitions (`CRDs`), and admission webhooks. The course covers the
@@ -26,6 +27,7 @@ students will be able to design, implement, and deploy their own `Kubernetes` op
 and controllers.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ and controllers.
 * Apply best practices for testing and deploying `Kubernetes`-native applications
 
 ## Outline
+
 <!-- chapter: the-kubernetes-api-and-extension-model, duration: 2h -->
 * The `Kubernetes` `API` and Extension Model
     * Review of `Kubernetes` architecture from a developer perspective
@@ -106,4 +109,5 @@ and controllers.
     * Versioning and upgrade strategies
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

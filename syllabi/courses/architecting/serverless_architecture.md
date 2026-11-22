@@ -17,9 +17,11 @@ audience:
 # Serverless Architecture
 
 ## Description
+
 This course covers the principles and patterns of serverless architecture in a cloud-agnostic manner. Students will learn how to design, build, and operate event-driven applications using Functions as a Service (FaaS) and Backend as a Service (BaaS) offerings. The course addresses real-world challenges such as cold starts, state management, testing strategies, and cost optimization, and compares serverless platforms across major cloud providers.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ This course covers the principles and patterns of serverless architecture in a c
 * Compare serverless offerings across major cloud vendors.
 
 ## Outline
+
 <!-- chapter: introduction-to-serverless, duration: 1h -->
 * Introduction to Serverless
     * What serverless means and what it does not
@@ -119,4 +122,5 @@ This course covers the principles and patterns of serverless architecture in a c
     * Versioning and alias management
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

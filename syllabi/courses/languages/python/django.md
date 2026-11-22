@@ -15,9 +15,11 @@ audience:
 # `Django` Web Development
 
 ## Description
+
 This course provides a comprehensive guide to building full-featured web applications with `Django`, the high-level `Python` web framework. Starting from project setup and the MTV (Model-Template-View) architecture, the course covers URL routing, views, templates, the `Django` `ORM`, forms, the admin interface, authentication, `REST` APIs with `Django REST Framework`, and deployment. Students will gain the skills to build secure, scalable, production-ready web applications.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ This course provides a comprehensive guide to building full-featured web applica
 * Deploy `Django` applications using WSGI, Gunicorn, and `Nginx`
 
 ## Outline
+
 <!-- chapter: introduction-to-django-and-project-setup, duration: 3h -->
 * Introduction to `Django` and Project Setup
     * Overview of `Django` architecture and the MTV pattern
@@ -153,4 +156,5 @@ This course provides a comprehensive guide to building full-featured web applica
     * Containerization with `Docker`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

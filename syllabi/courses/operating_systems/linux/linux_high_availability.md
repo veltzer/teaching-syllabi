@@ -18,11 +18,13 @@ audience:
 # `Linux` High Availability
 
 ## Description
+
 This advanced course covers the design and implementation of highly available `Linux` infrastructure using industry-standard clustering technologies. Participants will learn to deploy and manage Pacemaker clusters with Corosync, configure DRBD for replicated storage, and implement fencing mechanisms to ensure data integrity. The course addresses both active/passive and active/active cluster configurations for various workloads.
 
 The course provides hands-on experience with real-world HA scenarios, equipping participants to build and maintain resilient `Linux` infrastructure that meets stringent uptime requirements.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
 * Monitor and troubleshoot cluster health and split-brain scenarios
 
 ## Outline
+
 <!-- chapter: pacemaker-cluster-manager, duration: 1h -->
 * Pacemaker Cluster Manager
     * Pacemaker architecture and components
@@ -145,4 +148,5 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
     * Post-incident analysis and prevention
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

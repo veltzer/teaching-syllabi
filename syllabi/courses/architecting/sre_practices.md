@@ -18,9 +18,11 @@ audience:
 # SRE Practices
 
 ## Description
+
 This two day course covers the core practices of Site Reliability Engineering as pioneered by Google. Participants will learn to define and measure service reliability through SLIs, SLOs, and SLAs, manage error budgets, reduce toil, plan capacity, handle incidents, conduct postmortems, and build reliable release engineering and on-call practices.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This two day course covers the core practices of Site Reliability Engineering as
 * Design release engineering processes that balance velocity and reliability.
 
 ## Outline
+
 <!-- chapter: introduction-to-sre, duration: 1h -->
 * Introduction to SRE
     * SRE principles and philosophy
@@ -107,4 +110,5 @@ This two day course covers the core practices of Site Reliability Engineering as
     * Measuring automation effectiveness
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

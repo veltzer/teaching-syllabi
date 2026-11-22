@@ -14,9 +14,11 @@ audience:
 # Data Analytics for Managers
 
 ## Description
+
 As time passes organizations have either the ability to collect large amounts of data from their applications and clients or are already doing it at an unprecedented rate. This data could be used for a wide variety of purposes: marketing, retaining clients, better products, better client communication, better understanding of how products are used, better future planning and better strategies for dealing with competitors. Unfortunately the potential of this vast amount of data remains untapped. Gartner estimates that organizations only use 0.5% of the data at their disposal. This course aims to explain the value of data and the tools that are needed to collect and analyze the data.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -26,6 +28,7 @@ organization.
 * Data engineers and developers who would like to get better understanding of what the data they are gathering is used for and how.
 
 ## Prerequisites
+
 Any of the following:
 * Experience in product management is a plus
 * Experience in project management is a plus
@@ -46,6 +49,7 @@ Any of the following:
 * Learn about `machine learning` and in what ares it could be applied successfully.
 
 ## Outline
+
 <!-- chapter: the-value-of-data, duration: 2h -->
 * The value of Data
     * The various ways it is stored
@@ -123,4 +127,5 @@ Any of the following:
       Service Meshes, Virtual machines vs containers, web functions. (1 hour)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

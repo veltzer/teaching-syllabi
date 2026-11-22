@@ -19,9 +19,11 @@ audience:
 # Web Security Fundamentals
 
 ## Description
+
 Web security is critical for protecting applications, user data, and business operations from cyber threats. This course covers essential web security principles, common vulnerabilities, and defensive techniques including authentication mechanisms, encryption, secure coding practices, and modern security protocols used in web application development.
 
 ## Duration
+
 8 hours / 1 day
 
 ## Intended Audience
@@ -57,6 +59,7 @@ Web security is critical for protecting applications, user data, and business op
 * Design security architecture following defense-in-depth principles
 
 ## Outline
+
 <!-- chapter: introduction-to-web-security-landscape, duration: 1h -->
 * Introduction to Web Security Landscape
     * Current threat landscape and common attack vectors
@@ -131,4 +134,5 @@ Web security is critical for protecting applications, user data, and business op
     * Security metrics and continuous security improvement
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

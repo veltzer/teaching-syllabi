@@ -17,9 +17,11 @@ audience:
 # Network Troubleshooting
 
 ## Description
+
 This course teaches a systematic approach to diagnosing and resolving network issues. Participants will work through the OSI model layer by layer, learning to use industry-standard tools such as `Wireshark`, `tcpdump`, dig, and `openssl` to identify and fix connectivity, performance, and security-related network problems. The course also covers network monitoring solutions for proactive issue detection.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course teaches a systematic approach to diagnosing and resolving network is
 * Configure network monitoring tools for proactive detection.
 
 ## Outline
+
 <!-- chapter: systematic-troubleshooting-methodology, duration: 1h -->
 * Systematic Troubleshooting Methodology
     * Problem identification and scoping
@@ -125,4 +128,5 @@ This course teaches a systematic approach to diagnosing and resolving network is
     * Integrating monitoring into incident response
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

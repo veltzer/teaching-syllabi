@@ -16,12 +16,14 @@ audience:
 # `Erlang` Programming
 
 ## Description
+
 `Erlang` is a functional, concurrent programming language originally developed by `Ericsson` for building highly available, fault-tolerant telecom systems.
 Its actor-based concurrency model, lightweight processes, and share-nothing message passing `make` it exceptionally well-suited for distributed systems that must handle millions of concurrent connections.
 The `OTP` (Open Telecom Platform) framework builds on `Erlang` to provide battle-tested patterns for building robust supervisors, workers, and stateful servers.
 This course gives developers a thorough grounding in `Erlang` syntax, the actor model, `OTP` behaviours, fault tolerance strategies, and distributed deployment techniques.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
 * Write and run tests using `EUnit` and `Common Test`
 
 ## Outline
+
 <!-- chapter: introduction-to-erlang, duration: 2h -->
 * Introduction to `Erlang`
     * History and origin at `Ericsson`
@@ -139,4 +142,5 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
     * Deploying and operating the application
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

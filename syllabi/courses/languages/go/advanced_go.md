@@ -15,9 +15,11 @@ audience:
 # Advanced Go
 
 ## Description
+
 This course covers advanced Go topics for experienced developers who want to deepen their expertise. It explores concurrency patterns, generics, testing strategies, performance profiling, reflection, the unsafe package, and advanced build tooling including code generation and build tags.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course covers advanced Go topics for experienced developers who want to dee
 * Leverage reflection, unsafe, and code generation for advanced use cases
 
 ## Outline
+
 <!-- chapter: advanced-concurrency-patterns, duration: 3h -->
 * Advanced Concurrency Patterns
     * Review of goroutines and channels
@@ -115,4 +118,5 @@ This course covers advanced Go topics for experienced developers who want to dee
     * Best practices for generated code
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

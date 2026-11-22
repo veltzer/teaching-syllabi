@@ -15,9 +15,11 @@ audience:
 # `HTML`, `CSS`, and `JavaScript` Fundamentals
 
 ## Description
+
 This course provides a `solid` foundation in the three core technologies of the web: `HTML`, `CSS`, and `JavaScript`. Students will learn to structure web pages with semantic HTML5, style them with modern CSS3 including Flexbox and Grid, and add interactivity with `JavaScript`. The course covers `ES6`+ features, DOM manipulation, event handling, asynchronous programming, and essential tooling to prepare students for modern frontend development.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a `solid` foundation in the three core technologies of the 
 * Understand modern web development tooling with `npm` and bundlers
 
 ## Outline
+
 <!-- chapter: introduction-to-the-web-and-html-basics, duration: 2h -->
 * Introduction to the Web and `HTML` Basics
     * How the web works: browsers, servers, `HTTP`, and URLs
@@ -175,4 +178,5 @@ This course provides a `solid` foundation in the three core technologies of the 
     * Version control basics with `Git`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

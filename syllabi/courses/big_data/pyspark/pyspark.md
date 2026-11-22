@@ -16,9 +16,11 @@ audience:
 # `PySpark`
 
 ## Description
+
 `PySpark` is the `Python` `API` for `Apache Spark`, enabling large-scale data processing using familiar `Python` syntax. This course covers the full `PySpark` stack from RDDs and DataFrames through `Spark SQL`, streaming, and `machine learning` with `MLlib`. Students will learn to write efficient distributed data pipelines, optimize performance, and deploy `Spark` applications in production environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -43,6 +45,7 @@ audience:
 * Apply basic `machine learning` with `MLlib`
 
 ## Outline
+
 <!-- chapter: introduction-to-pyspark, duration: 2h -->
 * Introduction to `PySpark`
     * `Apache Spark` architecture overview
@@ -116,4 +119,5 @@ audience:
     * Configuration best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

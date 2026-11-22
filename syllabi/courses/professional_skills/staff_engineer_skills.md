@@ -17,6 +17,7 @@ audience:
 # Staff Engineer Skills
 
 ## Description
+
 The catalog has `Technical Leadership`, `Interviewing and Hiring for Tech Leads`, and `Effective
 Presentations for Engineers`, all of which are useful background but none of which is the staff
 engineer playbook. The staff engineer role — and the principal/distinguished levels above it — is the
@@ -37,6 +38,7 @@ than you found it. Participants leave with a clearer picture of what the role ac
 do it well.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ do it well.
 * recognize the role's failure modes
 
 ## Outline
+
 <!-- chapter: what-the-staff-role-actually-is, duration: 1h -->
 * What the staff role actually is
     * the senior `IC` track
@@ -161,4 +164,5 @@ do it well.
     * recommended reading: `Staff Engineer`, `The Staff Engineer's Path`, `staffeng.com`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

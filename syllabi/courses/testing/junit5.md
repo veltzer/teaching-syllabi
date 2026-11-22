@@ -16,9 +16,11 @@ audience:
 # `JUnit 5`
 
 ## Description
+
 This course provides a comprehensive introduction to `JUnit 5`, the modern testing framework for `Java` applications, covering its modular architecture and powerful new features. Students will learn to write expressive tests using the `JUnit Jupiter` `API`, apply parameterized and lifecycle-aware testing, and extend the framework through its extension model. Integration with `Mockito` for mocking and best practices for integration testing patterns are also covered. The course closes with a practical guide to migrating existing `JUnit 4` test suites to the new platform.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 * Migrate a `JUnit 4` test suite to `JUnit 5` systematically
 
 ## Outline
+
 <!-- chapter: junit5-architecture-overview, duration: 1h -->
 * `JUnit 5` Architecture Overview
     * The three sub-projects: `JUnit Platform`, `JUnit Jupiter`, `JUnit Vintage`
@@ -124,4 +127,5 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
     * Common pitfalls and how to avoid them
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

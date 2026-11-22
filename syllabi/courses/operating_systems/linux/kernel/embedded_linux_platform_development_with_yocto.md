@@ -21,6 +21,7 @@ audience:
 # Embedded `Linux` Platform Development with `Yocto`
 
 ## Description
+
 The `Yocto` Project has emerged as the industry standard for creating custom embedded `Linux` distributions, powering everything from IoT devices to automotive systems. This comprehensive course teaches participants how to leverage `Yocto`'s powerful build system to create maintainable, reproducible, and production-ready embedded `Linux` systems.
 
 Unlike traditional approaches to embedded `Linux` development, `Yocto` provides a structured, metadata-driven framework that scales from single-board prototypes to complex multi-platform product lines. This course emphasizes practical, hands-on experience with modern `Yocto` workflows, including containerized builds, `CI/CD` integration, and security hardening.
@@ -28,6 +29,7 @@ Unlike traditional approaches to embedded `Linux` development, `Yocto` provides 
 Participants will learn not just how to use `Yocto`, but how to architect sustainable build systems that can evolve with their products over years of development and deployment.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -58,6 +60,7 @@ Participants will learn not just how to use `Yocto`, but how to architect sustai
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 Upon completion of this course, participants will be able to:
 * Design and implement production-ready embedded `Linux` systems using the `Yocto` Project
 * Create custom layers and recipes following industry best practices
@@ -118,6 +121,7 @@ Upon completion of this course, participants will be able to:
     * Testing update and rollback procedures
 
 ## Outline
+
 <!-- chapter: foundation-architecture, duration: 2h -->
 * Foundation & Architecture
     * Introduction to Embedded `Linux` Build Systems
@@ -518,4 +522,5 @@ Upon completion of this course, participants will be able to:
 * Quick reference cards for `BitBake` syntax and common tasks
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

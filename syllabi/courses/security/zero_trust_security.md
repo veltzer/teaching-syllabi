@@ -18,9 +18,11 @@ audience:
 # Zero Trust Security
 
 ## Description
+
 Zero Trust is a security model built on the principle of "never trust, always verify," eliminating implicit trust granted by network location or user credentials alone. This course provides a comprehensive understanding of Zero Trust architecture, covering its core principles, practical implementation patterns, and the tooling and frameworks used to enforce it at scale. Participants will learn how to apply Zero Trust controls across identity, devices, networks, applications, and data, with reference to real-world deployments such as `BeyondCorp` and the `NIST SP 800-207` standard. By the end of the course, attendees will be able to assess their organization's current security posture and chart a roadmap toward a Zero Trust architecture.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ Zero Trust is a security model built on the principle of "never trust, always ve
 * Develop a phased Zero Trust implementation roadmap aligned with organizational maturity
 
 ## Outline
+
 <!-- chapter: traditional-perimeter-security-vs-zero-trust, duration: 2h -->
 * Traditional Perimeter Security vs Zero Trust
     * The castle-and-moat model and its assumptions
@@ -128,4 +131,5 @@ Zero Trust is a security model built on the principle of "never trust, always ve
     * Common pitfalls and anti-patterns in Zero Trust deployments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

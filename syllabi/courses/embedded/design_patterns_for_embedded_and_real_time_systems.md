@@ -16,6 +16,7 @@ audience:
 # `Design Patterns` for Embedded and Real Time Systems
 
 ## Description
+
 The design of Real Time and embedded systems must be powerful, efficient, and highly
 reliable. The constraints of processor and memory resources add to this challenge.
 Sophisticated developers rely on `design patterns` for building fail-safe RTE systems.
@@ -29,6 +30,7 @@ Key topics:
 * Mapping subsystem and component architectures to underlying hardware
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ Key topics:
 * gain practical knowledge of Implementing Object Oriented Concepts with C
 
 ## Outline
+
 <!-- chapter: overview, duration: 2h -->
 * Overview
     * Real time systems design
@@ -113,4 +116,5 @@ Key topics:
     * Case study: Embedded system design with `UML`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

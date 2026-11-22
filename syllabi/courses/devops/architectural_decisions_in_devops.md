@@ -17,6 +17,7 @@ audience:
 # Architectural Decisions in `DevOps`
 
 ## Description
+
 This course explores the key architectural decisions that `DevOps` teams face when designing and
 evolving their software delivery pipelines, infrastructure, and operational practices. Rather than
 prescribing a single "right" approach, this course examines the tradeoffs, constraints, and
@@ -29,6 +30,7 @@ tool and process choices so that teams can `make` informed decisions that align 
 organizational context, scale, and maturity.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ organizational context, scale, and maturity.
 * gain practical knowledge of `CI/CD`` Pipeline Architecture
 
 ## Outline
+
 <!-- chapter: decision-frameworks-for-devops, duration: 1h -->
 * Decision Frameworks for `DevOps`
     * What makes a decision "architectural" in `DevOps`
@@ -250,4 +253,5 @@ organizational context, scale, and maturity.
         * Observability-driven testing
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

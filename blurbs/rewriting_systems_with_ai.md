@@ -28,6 +28,7 @@ career-ending gamble into a realistic project. How to choose the new stack, move
 and arrive with the business intact.
 
 ## The Challenge
+
 For decades the advice was never to rewrite: the old system holds years of undocumented
 behavior, the new one takes longer than promised, and the business stands still while both
 are maintained. `AI` coding agents change the arithmetic - translating a codebase is now
@@ -37,6 +38,7 @@ or a migration that loses a fraction of the records. Writing the new code has be
 part; deciding what to build and proving that it behaves like the old system has not.
 
 ## What This Session Covers
+
 A practical, technical guide to replacing a whole system with the help of `AI` agents: how to
 recover what the old system really does, how to choose the new language, database
 architecture, and web architecture when agents write most of the code, how to move the data
@@ -65,9 +67,11 @@ without losing it, and how to cut over without betting the company on a single w
 * Developers maintaining systems that are due for replacement
 
 ## Continue the Journey
+
 This talk covers the whole journey at altitude. A follow-on, hands-on workshop can take one of
 the team's own systems, recover its behavior into tests, and plan the target stack, the data
 migration, and the cut-over with it.
 
 ## Speaker
+
 Mark Veltzer

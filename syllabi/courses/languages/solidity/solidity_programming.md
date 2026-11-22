@@ -17,12 +17,14 @@ audience:
 # Solidity Programming
 
 ## Description
+
 Solidity is the primary smart contract programming language for the `Ethereum` blockchain and EVM-compatible networks.
 It enables developers to write self-executing contracts that manage digital assets, implement decentralised protocols, and encode business logic directly on-chain.
 Writing secure Solidity requires deep understanding of the EVM execution model, gas economics, and common vulnerability patterns such as reentrancy and integer overflow.
 This course takes developers from Solidity syntax through token standards, security patterns, and deployment workflows with Hardhat.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course takes developers from Solidity syntax through token standards, secur
 * Use `OpenZeppelin` libraries for production-grade contract development
 
 ## Outline
+
 <!-- chapter: introduction-to-blockchain-and-ethereum, duration: 2h -->
 * Introduction to Blockchain and `Ethereum`
     * How blockchains work — consensus, blocks, transactions
@@ -134,4 +137,5 @@ This course takes developers from Solidity syntax through token standards, secur
     * Governance contracts
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

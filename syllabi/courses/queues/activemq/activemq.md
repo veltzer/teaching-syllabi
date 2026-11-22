@@ -17,6 +17,7 @@ audience:
 # `ActiveMQ`
 
 ## Description
+
 `Apache ActiveMQ` is one of the most widely deployed open-source message brokers, implementing the
 `Java Message Service` (`JMS`) specification and supporting a broad range of messaging protocols
 including `AMQP`, `STOMP`, `MQTT`, and `OpenWire`. This course provides a thorough grounding in
@@ -27,6 +28,7 @@ will leave with practical skills for migrating and interoperating between broker
 competing products.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -55,6 +57,7 @@ competing products.
 * Plan and execute migrations and interoperability between broker implementations.
 
 ## Outline
+
 <!-- chapter: introduction-to-enterprise-messaging, duration: 2h -->
 * Introduction to Enterprise Messaging:
     * Why enterprise messaging? Decoupling, resilience, and scalability.
@@ -141,4 +144,5 @@ competing products.
     * Phased migration strategies for production systems.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

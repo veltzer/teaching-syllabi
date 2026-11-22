@@ -14,9 +14,11 @@ audience:
 # `FPGA` Programming
 
 ## Description
+
 This course provides a thorough introduction to `FPGA` programming, covering digital design fundamentals, hardware description languages (VHDL and Verilog), and the complete `FPGA` development workflow from design to deployment. Participants will learn `FPGA` architecture, simulation, synthesis, timing analysis, and debugging techniques. The course also covers advanced topics including HLS (high-level synthesis), communication interfaces, and `SoC` integration with platforms such as Xilinx Zynq and Intel `SoC` `FPGA`.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
 * Apply HLS techniques to accelerate development from C/`C++` code
 
 ## Outline
+
 <!-- chapter: fpga-architecture, duration: 3h -->
 * `FPGA` Architecture
     * `FPGA` vs `ASIC` vs microcontroller
@@ -182,4 +185,5 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
     * Boot process and system configuration
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

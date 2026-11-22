@@ -14,9 +14,11 @@ audience:
 # Effective `C++`
 
 ## Description
+
 This course is based on the Scott Meyers book of the same title.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -33,6 +35,7 @@ This course is based on the Scott Meyers book of the same title.
 * gain practical knowledge of Templates
 
 ## Outline
+
 <!-- chapter: preface, duration: 3h -->
 * Preface
     * What is effective `C++`
@@ -107,4 +110,5 @@ This course is based on the Scott Meyers book of the same title.
     * Iterator categories
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

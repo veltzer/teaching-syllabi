@@ -18,6 +18,7 @@ audience:
 # `Ansible`
 
 ## Description
+
 This course provides a thorough introduction to `Ansible` as a configuration management and
 automation tool. Participants will learn how to write playbooks, organize code with roles, manage
 inventory, use modules effectively, and understand the principle of idempotency. The course also
@@ -28,6 +29,7 @@ This course is practical and assumes participants have basic `Linux` system admi
 It focuses on real-world automation scenarios rather than abstract concepts.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 * gain practical knowledge of idempotent automation patterns
 
 ## Outline
+
 <!-- chapter: introduction-to-ansible, duration: 1h -->
 * Introduction to `Ansible`
     * What is `Ansible` and why agentless matters
@@ -162,4 +165,5 @@ It focuses on real-world automation scenarios rather than abstract concepts.
     * Scaling `Ansible` for large environments
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

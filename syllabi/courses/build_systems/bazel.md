@@ -15,9 +15,11 @@ audience:
 # `Bazel`
 
 ## Description
+
 `Bazel` is a fast, scalable, multi-language build system originally developed by Google. It is designed for large codebases and monorepos, providing hermetic builds, remote caching, and remote execution. This course covers `Bazel` from the ground up, including its build model, rule system, and integration into real-world development workflows.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ audience:
 * Integrate `Bazel` into `CI/CD` pipelines
 
 ## Outline
+
 <!-- chapter: introduction-to-bazel, duration: 2h -->
 * Introduction to `Bazel`
     * History and motivation (from Google's Blaze to open-source `Bazel`)
@@ -86,4 +89,5 @@ audience:
     * Build event protocol and build observability
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

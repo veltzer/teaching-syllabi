@@ -15,9 +15,11 @@ audience:
 # Advanced `Gradle`
 
 ## Description
+
 This advanced course dives deep into `Gradle`'s most powerful features for building, managing, and optimizing large-scale `Java` and `Kotlin` projects. Participants will learn to write custom plugins, leverage local and remote build caches, master variant-aware dependency management, and apply performance optimization techniques to significantly reduce build times. The course also covers the `Gradle` `Kotlin` DSL, composite builds, and artifact publishing.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This advanced course dives deep into `Gradle`'s most powerful features for build
 * Publish artifacts to local and remote repositories.
 
 ## Outline
+
 <!-- chapter: custom-plugins, duration: 2h -->
 * Custom Plugins
     * Plugin development fundamentals
@@ -114,4 +117,5 @@ This advanced course dives deep into `Gradle`'s most powerful features for build
     * Publishing multi-variant libraries
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

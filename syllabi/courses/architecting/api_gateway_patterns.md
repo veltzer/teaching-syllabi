@@ -17,6 +17,7 @@ audience:
 # `API Gateway` Patterns
 
 ## Description
+
 This course covers the design and implementation of `API gateway` patterns in modern distributed
 architectures. Participants will explore different gateway architectures, work with popular gateway
 solutions such as Kong and `AWS API Gateway`, and learn how to implement cross-cutting concerns
@@ -25,6 +26,7 @@ and monitoring. The course provides practical guidance for selecting and configu
 in `microservices` environments.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -46,6 +48,7 @@ in `microservices` environments.
 * set up caching strategies and monitoring for `API` gateways
 
 ## Outline
+
 <!-- chapter: introduction-to-api-gateways, duration: 1h -->
 * introduction to `API` gateways
     * the role of an `API gateway` in `microservices`
@@ -109,4 +112,5 @@ in `microservices` environments.
     * alerting on error rates and latency
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

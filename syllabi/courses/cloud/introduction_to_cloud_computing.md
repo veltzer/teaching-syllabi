@@ -15,6 +15,7 @@ audience:
 # Introduction to `Cloud Computing`
 
 ## Description
+
 A cloud-provider-agnostic introduction to `cloud computing` concepts. This course gives
 participants a thorough understanding of what `cloud computing` is, how it works, and how
 to evaluate cloud services and providers. It covers the essential terminology, service
@@ -22,6 +23,7 @@ models, deployment models, and security considerations that every technology pro
 needs to know in today's cloud-first world.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -44,6 +46,7 @@ needs to know in today's cloud-first world.
 * Know how cloud supports modern `DevOps` practices
 
 ## Outline
+
 <!-- chapter: what-is-cloud-computing, duration: 2h -->
 * What Is `Cloud Computing`
     * Definition and core characteristics
@@ -130,4 +133,5 @@ needs to know in today's cloud-first world.
     * Certifications and learning paths
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

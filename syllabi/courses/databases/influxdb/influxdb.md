@@ -17,9 +17,11 @@ audience:
 # `InfluxDB`
 
 ## Description
+
 `InfluxDB` is a purpose-built time-series database optimized for high-write-throughput ingestion of metrics, events, and IoT sensor data. This course covers `InfluxDB` from its core architecture and data model through to production deployment, monitoring, and integration with visualization tools like `Grafana`. Participants will learn both the classic `InfluxDB` 1.x concepts and the modern `InfluxDB` 2.x and 3.x platform, including the `Flux` scripting language for powerful data transformations. By the end of the course, attendees will be equipped to design time-series solutions, write efficient queries, implement downsampling strategies, and set up alerting pipelines.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,9 +48,11 @@ audience:
 * Understand clustering, high availability, and capacity planning for `InfluxDB`
 
 ## Exercises
+
 Hands-on labs using a local `InfluxDB` 2.x instance. Students will set up `Telegraf` to collect system metrics, write data using the line protocol and `Python` client library, query and transform time-series data with `Flux`, create downsampling tasks with continuous queries, configure alert checks and notification endpoints, and build dashboards in `Grafana`. Scenarios include infrastructure monitoring, application performance tracking, and IoT sensor data pipelines.
 
 ## Outline
+
 <!-- chapter: introduction-to-time-series-databases, duration: 1h -->
 * Introduction to Time-Series Databases
     * What is time-series data and its characteristics
@@ -135,4 +139,5 @@ Hands-on labs using a local `InfluxDB` 2.x instance. Students will set up `Teleg
     * Capacity planning and scaling considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

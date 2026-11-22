@@ -14,11 +14,13 @@ audience:
 # Zig Programming
 
 ## Description
+
 Zig is a modern systems programming language designed to be a practical alternative to C and `C++`. It emphasizes simplicity, explicit control over memory and behavior, and compile-time evaluation through its powerful comptime feature. Zig provides manual memory management without hidden control flow, no hidden allocations, and seamless interoperability with C code and ABI.
 
 This course covers Zig from its design philosophy through practical systems programming, including its unique compile-time features, error handling model, memory management with allocators, C interoperability, and the built-in build system and test framework.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -44,6 +46,7 @@ This course covers Zig from its design philosophy through practical systems prog
 * Compare Zig's approach to those of C, `C++`, and Rust
 
 ## Outline
+
 <!-- chapter: zig-philosophy-and-design-goals, duration: 1h -->
 * Zig Philosophy and Design Goals
     * Why Zig exists
@@ -170,4 +173,5 @@ This course covers Zig from its design philosophy through practical systems prog
     * `When` to choose Zig
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

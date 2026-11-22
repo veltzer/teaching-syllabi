@@ -19,6 +19,7 @@ duration_hours: 40
 # Web Application Hacking
 
 ## Description
+
 This course is a practical guide to discovering and exploiting security flaws in web applications. By "web applications" we mean those that are accessed using a web browser to communicate with a web server. We examine a wide variety of different technologies, such as databases, file systems, and `web services`, but only in the context in which these are employed by web applications. Throughout the course, we spell out the specific steps you need to follow to detect each type of vulnerability, and how to exploit it to perform unauthorized actions.
 
 ## Duration
@@ -56,6 +57,7 @@ This course is a practical guide to discovering and exploiting security flaws in
 * Learn about web application filters and firewalls
 
 ## Exercises
+
 We will use common hacking practice sites to exercise (see below)
 These are the exercises that we will do:
 
@@ -66,6 +68,7 @@ These are the exercises that we will do:
 * Security Misconfiguration
 
 ## Outline
+
 <!-- chapter: web-application-in-security, duration: 3h -->
 * Web application (in)security
     * Server OS platforms
@@ -157,4 +160,5 @@ These are the exercises that we will do:
 * [CTFlearn](https://ctflearn.com)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

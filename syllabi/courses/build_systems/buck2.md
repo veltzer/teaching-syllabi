@@ -15,9 +15,11 @@ audience:
 # Buck2
 
 ## Description
+
 Buck2 is a high-performance, large-scale build system developed by Meta. It is a ground-up rewrite of the original Buck, written in Rust, and designed for speed, correctness, and scalability. This course covers Buck2's architecture, its Starlark-based rule system, and how to use it effectively for multi-language monorepo development.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
 * Integrate Buck2 into `CI/CD` pipelines
 
 ## Outline
+
 <!-- chapter: introduction-to-buck2, duration: 2h -->
 * Introduction to Buck2
     * History and motivation (from Buck to Buck2)
@@ -86,4 +89,5 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
     * Build observability and logging
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # Advanced `Spark` with `Python`
 
 ## Description
+
 This course is designed for data engineers and data scientists who have a basic understanding of `Apache Spark` and `Python`. It covers advanced topics in `Spark` programming using `PySpark`, focusing on performance optimization, advanced analytics, and real-world applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -47,6 +49,7 @@ This course is designed for data engineers and data scientists who have a basic 
 * Optimize `Spark SQL` queries and understand the Catalyst optimizer
 
 ## Outline
+
 <!-- chapter: advanced-rdd-and-dataframe-operations, duration: 3h -->
 * Advanced `RDD` and DataFrame Operations
     * Complex transformations and actions
@@ -95,4 +98,5 @@ This course is designed for data engineers and data scientists who have a basic 
 * "High Performance `Spark`: Best Practices for Scaling and Optimizing `Apache Spark`" by Holden Karau and Rachel Warren
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

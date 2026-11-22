@@ -15,6 +15,7 @@ audience:
 # Code Review Best Practices
 
 ## Description
+
 Code review is one of the most effective practices for improving software quality and
 fostering team growth. This course covers the entire code review process, from setting
 goals and structuring pull requests to giving constructive feedback and building a
@@ -22,6 +23,7 @@ healthy review culture. Students will learn practical techniques for making revi
 efficient, consistent, and valuable for both authors and reviewers.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -40,6 +42,7 @@ efficient, consistent, and valuable for both authors and reviewers.
 * gain practical knowledge of building a sustainable review culture
 
 ## Outline
+
 <!-- chapter: why-code-review-matters, duration: 1h -->
 * Why Code Review Matters
     * Catching bugs early
@@ -140,4 +143,5 @@ efficient, consistent, and valuable for both authors and reviewers.
     * Documentation and standards
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

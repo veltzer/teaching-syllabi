@@ -18,6 +18,7 @@ audience:
 # Feature Store Engineering
 
 ## Description
+
 A feature store is the system that produces, materializes, serves, and governs the features that machine
 learning models consume. It is the boundary between a data engineering pipeline and an `ML` model. The
 catalog has `MLOps` and `Feature Engineering` courses but neither covers the engineering of the feature
@@ -34,6 +35,7 @@ team-ownership question. Participants leave able to choose between buy and build
 and online sides correctly, and operate a feature store at production scale.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ and online sides correctly, and operate a feature store at production scale.
 * choose between Feast, `Tecton`, and a managed offering
 
 ## Outline
+
 <!-- chapter: what-a-feature-store-actually-is, duration: 2h -->
 * What a feature store actually is
     * the boundary between data engineering and `ML`
@@ -142,4 +145,5 @@ and online sides correctly, and operate a feature store at production scale.
     * the migration story when you replace the feature store
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

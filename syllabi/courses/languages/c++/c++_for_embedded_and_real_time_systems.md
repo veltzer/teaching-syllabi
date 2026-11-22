@@ -16,6 +16,7 @@ audience:
 # `C++` for Embedded and Real Time Systems
 
 ## Description
+
 This course introduces the `C++` language for use on Real Time and embedded applications.
 The course covers object oriented programming and the `C++` language, highlighting areas of
 concern for Real Time and embedded development. The course also covers the application of
@@ -26,9 +27,11 @@ During labs, students will solve exercises by writing programs that will illustr
 principles. Approximately 40% of the course is practical work.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
+
 The course is designed for Real Time engineers who are embarking on a project using `C++`
 for the first time. It is also targeted at developers currently reluctant to move to `C++` from C
 as they believe it poses too great an overhead. This course will clearly demonstrate both the
@@ -47,6 +50,7 @@ Embedded/Real Time programming.
 * Real time and Embedded considerations with `C++` code
 
 ## Outline
+
 <!-- chapter: a-course-introduction, duration: 2h -->
 * A Course Introduction
     * Course Prerequisites
@@ -150,4 +154,5 @@ Embedded/Real Time programming.
         * Embedded / Real Time considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

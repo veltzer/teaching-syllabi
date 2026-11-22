@@ -18,6 +18,7 @@ audience:
 # `SLOs` and Error Budgets
 
 ## Description
+
 Service-level objectives (`SLOs`) and error budgets are the most important reliability tool the
 `SRE` movement produced and the most commonly misapplied. The catalog has Site Reliability Engineering
 and `SRE Practices` courses; this course is the deep dive into the specific discipline of designing
@@ -36,6 +37,7 @@ that ship `SLO` programs that actually work. Participants leave able to set up `
 will respect and the business will trust.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ will respect and the business will trust.
 * connect `SLOs` to release engineering and incident response
 
 ## Outline
+
 <!-- chapter: what-an-slo-actually-is, duration: 1h -->
 * What an `SLO` actually is
     * `SLI`, SLO, `SLA` — the three layers
@@ -146,4 +149,5 @@ will respect and the business will trust.
     * what to do in the first 90 days of fixing it
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

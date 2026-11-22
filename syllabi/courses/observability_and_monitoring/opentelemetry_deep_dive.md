@@ -21,6 +21,7 @@ audience:
 # `OpenTelemetry` Deep Dive
 
 ## Description
+
 `OpenTelemetry` has become the de facto standard for instrumenting distributed systems, and at first glance it looks
 like a thin `SDK` you drop in and configure. In practice, running `OpenTelemetry` well at scale is a substantial
 engineering effort: deciding what to instrument and what to ignore, choosing sampling strategies that preserve
@@ -34,6 +35,7 @@ production system, sampling strategies, semantic conventions and `instrumentatio
 across language ecosystems, and the migration story from legacy observability stacks.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ across language ecosystems, and the migration story from legacy observability st
 * govern an `OpenTelemetry` rollout with policies, ownership and lifecycle
 
 ## Outline
+
 <!-- chapter: opentelemetry-architecture-revisited, duration: 2h -->
 * `OpenTelemetry` architecture revisited
     * `API`, `SDK`, `Collector`, exporters, backends
@@ -188,4 +191,5 @@ across language ecosystems, and the migration story from legacy observability st
     * recommended reading and tooling
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

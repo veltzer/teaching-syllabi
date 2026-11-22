@@ -16,9 +16,11 @@ audience:
 # Advanced `pytest`
 
 ## Description
+
 This course takes developers and QA engineers beyond the basics of `pytest` and into its advanced capabilities for building robust, scalable, and maintainable test suites. Students will gain deep mastery of fixtures, parameterization, mocking, async testing, and plugin development. The course also covers coverage measurement, performance profiling of test runs, and configuration strategies for large projects. By the end, participants will be equipped to design sophisticated test architectures and leverage the full power of the `pytest` ecosystem.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
 * Measure and improve test coverage with `pytest-cov` and analyse performance bottlenecks
 
 ## Outline
+
 <!-- chapter: pytest-fundamentals-recap, duration: 1h -->
 * `pytest` Fundamentals Recap
     * Test discovery and collection rules
@@ -116,4 +119,5 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
     * Setting coverage thresholds and failing builds on regression
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

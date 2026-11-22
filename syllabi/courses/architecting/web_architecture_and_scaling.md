@@ -19,9 +19,11 @@ audience:
 # Web Architecture & Scaling
 
 ## Description
+
 This course provides a comprehensive exploration of web application architecture and the strategies used to scale web systems to handle growing traffic and data demands. Starting from the fundamentals of the client-server model and the `HTTP` protocol, the course progresses through web server configuration, reverse proxies, load balancing, caching strategies, and database scaling patterns. Participants will learn how to design and evolve web architectures that can scale horizontally and vertically, applying proven patterns used by large-scale web applications.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course provides a comprehensive exploration of web application architecture
 * design web-scale architectures using proven patterns
 
 ## Outline
+
 <!-- chapter: web-application-architecture-fundamentals, duration: 1h -->
 * web application architecture fundamentals
     * the client-server model
@@ -121,4 +124,5 @@ This course provides a comprehensive exploration of web application architecture
     * evolution from `monolith` to distributed architecture
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

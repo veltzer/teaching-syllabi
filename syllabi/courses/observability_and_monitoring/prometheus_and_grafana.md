@@ -18,6 +18,7 @@ audience:
 # `Prometheus` and `Grafana`
 
 ## Description
+
 As current deployed applications and systems are becoming more complex with tools like `Kubernetes` and large cloud deployments, the need to understand how a system is performing and understand the source of problems as they appear becomes more important. In order to achieve all this new solutions are appearing, both for collecting distributed data about system status and for visualizing it for system engineers to digest.
 
 `Prometheus` is a widely used time series database for storing online performance data of running systems and allow to create alerts in cases of issues. `Prometheus` is used in conjunction with other visualization solution in order to visualize on line and historic data to system engineers.
@@ -25,6 +26,7 @@ As current deployed applications and systems are becoming more complex with tool
 `Grafana` is a widely used visualization solution used to create dashboards and panels that let engineers penetrate the complexity of today's deployments. It is fairly easy to use and flexible and allow end user, even those without programming experience, to modify panels and dashboards and get at the information that they need.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ As current deployed applications and systems are becoming more complex with tool
 * Visualization with `Grafana`
 
 ## Outline
+
 <!-- chapter: introduction, duration: 2h -->
 * Introduction
     * Why is Monitoring important?
@@ -110,4 +113,5 @@ As current deployed applications and systems are becoming more complex with tool
     * Publishing dashboards / snapshots
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

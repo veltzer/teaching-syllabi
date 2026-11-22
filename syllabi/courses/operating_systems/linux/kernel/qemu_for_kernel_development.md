@@ -18,9 +18,11 @@ audience:
 # `QEMU` for Kernel Developers
 
 ## Description
+
 This course is designed for experienced kernel developers who want to leverage `QEMU` (Quick Emulator) for kernel development, debugging, and testing. It covers `QEMU`'s architecture, usage, and advanced features specifically relevant to kernel development.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This course is designed for experienced kernel developers who want to leverage `
 * gain practical knowledge of `QEMU`` Networking
 
 ## Outline
+
 <!-- chapter: introduction-to-qemu, duration: 2h -->
 * Introduction to `QEMU`
     * Overview of `QEMU` and its importance in kernel development
@@ -86,4 +89,5 @@ This course is designed for experienced kernel developers who want to leverage `
     * Contributing to `QEMU`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

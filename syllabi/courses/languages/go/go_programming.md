@@ -14,9 +14,11 @@ audience:
 # Go Programming
 
 ## Description
+
 Go is a statically typed, compiled language designed at Google for simplicity, reliability, and efficiency. It excels at building networked services, command-line tools, and concurrent systems. This course covers the Go language from fundamentals through advanced topics like concurrency, interfaces, and production patterns.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -35,6 +37,7 @@ Go is a statically typed, compiled language designed at Google for simplicity, r
 * Manage dependencies with Go modules
 
 ## Outline
+
 <!-- chapter: introduction-to-go, duration: 2h -->
 * Introduction to Go
     * History and design philosophy
@@ -132,4 +135,5 @@ Go is a statically typed, compiled language designed at Google for simplicity, r
     * Linting and static analysis (`go` vet, staticcheck, golangci-lint)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

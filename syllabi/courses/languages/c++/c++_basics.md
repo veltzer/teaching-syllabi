@@ -14,10 +14,12 @@ audience:
 # `C++` Basics
 
 ## Description
+
 This is a basic course for `C++` developers introducing the `C++` language to them and going over the basic
 concepts of the language.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ concepts of the language.
 * gain practical knowledge of Classes, Constructors, Destructors
 
 ## Outline
+
 <!-- chapter: introduction, duration: 1h -->
 * Introduction
 <!-- chapter: what-are-objects, duration: 1h -->
@@ -93,4 +96,5 @@ concepts of the language.
     * Safe `STL`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

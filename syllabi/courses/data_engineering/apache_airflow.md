@@ -18,9 +18,11 @@ audience:
 # `Apache Airflow`
 
 ## Description
+
 `Apache Airflow` is an open-source platform for programmatically authoring, scheduling, and monitoring workflows. This course covers the core concepts of `Airflow`, including DAGs, operators, sensors, scheduling, XComs, connections, and monitoring. Participants will learn how to design and implement robust data pipelines, manage dependencies between tasks, and apply best practices for building production-grade workflow orchestration systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ audience:
 * Apply best practices for production-grade `Airflow` deployments
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-airflow, duration: 1h -->
 * Introduction to `Apache Airflow`
     * What is workflow orchestration
@@ -133,4 +136,5 @@ audience:
     * Resource management and cost optimization
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -16,9 +16,11 @@ audience:
 # JBoss/WildFly Administration
 
 ## Description
+
 This course covers the administration and management of JBoss/WildFly application servers. Students will learn the architecture of WildFly, how to install and configure it in standalone and domain modes, deploy applications, configure datasources and `JMS`, set up clustering and session replication, manage security, and tune performance. The course prepares administrators and developers to run production-grade `Java EE` environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course covers the administration and management of JBoss/WildFly applicatio
 * Monitor and tune WildFly for production performance
 
 ## Outline
+
 <!-- chapter: introduction-to-jboss-wildfly, duration: 1h -->
 * Introduction to JBoss/WildFly
     * History: from JBoss to WildFly
@@ -142,4 +145,5 @@ This course covers the administration and management of JBoss/WildFly applicatio
     * Capacity planning considerations
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

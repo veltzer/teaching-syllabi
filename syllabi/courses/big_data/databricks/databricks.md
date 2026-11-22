@@ -16,6 +16,7 @@ audience:
 # `Databricks`
 
 ## Description
+
 This course provides a comprehensive introduction to the `Databricks` Lakehouse Platform, covering
 workspace management, compute configuration, `Delta Lake`, `Spark` integration, `SQL` analytics, and
 data governance with `Unity Catalog`. Participants will learn to build production-grade data pipelines
@@ -24,6 +25,7 @@ streaming ingestion with `Auto Loader`. The course also addresses collaboration,
 management best practices on the `Databricks` platform.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ management best practices on the `Databricks` platform.
 * **Design production jobs and streaming pipelines** using `Databricks` workflows and `Auto Loader`
 
 ## Outline
+
 <!-- chapter: databricks-platform-overview, duration: 3h -->
 * `Databricks` Platform Overview
     * What is `Databricks`
@@ -226,4 +229,5 @@ management best practices on the `Databricks` platform.
         * Budget alerts
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

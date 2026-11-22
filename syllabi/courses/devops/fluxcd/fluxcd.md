@@ -17,6 +17,7 @@ audience:
 # `Flux CD`
 
 ## Description
+
 `Flux CD` is a `CNCF` graduated tool that implements `GitOps` for `Kubernetes`, keeping
 cluster state continuously synchronized with configuration stored in `Git` repositories.
 This course provides a comprehensive introduction to `Flux v2`, covering its modular
@@ -27,6 +28,7 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
 `Flagger` and positions `Flux` against `ArgoCD` to help teams `make` informed tooling decisions.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
 * Apply progressive delivery patterns with `Flagger` for safe automated rollouts.
 
 ## Outline
+
 <!-- chapter: introduction-to-gitops, duration: 1h -->
 * Introduction to `GitOps`
     * `GitOps` principles: declarative, versioned, automated, and continuously reconciled
@@ -120,4 +123,5 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
     * Observing canary rollout progress and handling failures
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

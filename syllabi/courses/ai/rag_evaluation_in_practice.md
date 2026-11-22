@@ -18,6 +18,7 @@ audience:
 # `RAG` Evaluation in Practice
 
 ## Description
+
 The catalog has `RAG Applications`, `RAG Deep Dive`, `LLM Evaluation and Benchmarking`, and `Vector
 Databases Engineering`. None is the focused course on the specific discipline of evaluating a ``RAG``
 system in production. `RAG` evaluation is harder than general `LLM` evaluation because the failure can
@@ -36,6 +37,7 @@ specific failures their evaluation caught. Participants leave able to set up a `
 that catches regressions before users do.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ that catches regressions before users do.
 * recognize the patterns that doom `RAG` evaluation
 
 ## Outline
+
 <!-- chapter: why-rag-evaluation-is-its-own-thing, duration: 1h -->
 * Why `RAG` evaluation is its own thing
     * the two-axis problem
@@ -147,4 +150,5 @@ that catches regressions before users do.
     * the bigger system-design problem
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

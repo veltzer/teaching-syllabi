@@ -18,9 +18,11 @@ audience:
 # `DNS` Deep Dive
 
 ## Description
+
 The Domain Name System (`DNS`) is one of the most critical and yet least understood components of internet and enterprise infrastructure, translating human-readable names into addresses that power every networked application. Despite its ubiquity, `DNS` misconfigurations and vulnerabilities are responsible for a significant share of outages, security incidents, and performance problems in production environments. This course goes far beyond the basics, covering `DNS` resolution internals, all major record types, zone management, `DNSSEC`, modern privacy-preserving protocols (`DoH` and `DoT`), split-horizon architectures, and the full spectrum of `DNS`-based attacks and mitigations. Participants will emerge with the deep knowledge necessary to design, operate, secure, and troubleshoot `DNS` infrastructure at any scale.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
 * Use standard tools to diagnose and resolve `DNS` incidents effectively
 
 ## Outline
+
 <!-- chapter: dns-fundamentals-and-resolution, duration: 2h -->
 * `DNS` Fundamentals and Resolution Process
     * The purpose of `DNS` and the namespace hierarchy
@@ -147,4 +150,5 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
     * Using `Wireshark` to capture and analyze `DNS` packets
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

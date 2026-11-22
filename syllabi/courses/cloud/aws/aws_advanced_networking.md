@@ -20,6 +20,7 @@ duration_hours: 32
 # `AWS` Advanced Networking with Labs
 
 ## Description
+
 This is a practical, hands-on course for engineers who already know the `AWS`
 basics and now need to design, build, secure, and operate production-grade
 network infrastructure on `AWS`. Almost every chapter is built around a guided
@@ -41,6 +42,7 @@ vendor-neutral way. Where a `GCP` or `Azure` equivalent exists (for example
 mapping is called out so the skills transfer across clouds.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -71,6 +73,7 @@ mapping is called out so the skills transfer across clouds.
 * Students are encouraged to tear down resources after each lab to control cost.
 
 ## Outline
+
 <!-- chapter: vpc-design-and-segmentation-lab, duration: 4h -->
 * `VPC` Design and Segmentation (Lab)
     * `CIDR` planning and `IP` address management at scale
@@ -143,6 +146,7 @@ mapping is called out so the skills transfer across clouds.
 * `Kubernetes` (`EKS`) networking internals, which are covered in a dedicated containers course.
 
 ## Installations
+
 Each student should have:
 
 * An `AWS` account with `IAM` permissions to create `VPCs`, `Transit Gateways`,
@@ -155,4 +159,5 @@ Each student should have:
 * Awareness that running labs incurs `AWS` charges; tearing down resources after each lab is recommended.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

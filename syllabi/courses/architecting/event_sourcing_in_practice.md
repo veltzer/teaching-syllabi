@@ -19,6 +19,7 @@ audience:
 # `Event Sourcing` In Practice
 
 ## Description
+
 `Event sourcing` is one of those architectural choices that looks simple on the whiteboard and reveals all of
 its complexity in production. Storing every state change as an immutable event gives you a perfect audit log,
 deterministic replay, free history, and a beautifully decoupled read side; it also gives you event versioning,
@@ -32,6 +33,7 @@ systems maintainable over years. Examples are drawn from `EventStoreDB`, Kurrent
 custom-on-`Postgres`/`Kafka` implementations.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ custom-on-`Postgres`/`Kafka` implementations.
 * recognize when `event sourcing` is and is not the right choice
 
 ## Outline
+
 <!-- chapter: what-event-sourcing-actually-is, duration: 2h -->
 * What `event sourcing` actually is
     * events as the source of truth, state as derived
@@ -181,4 +184,5 @@ custom-on-`Postgres`/`Kafka` implementations.
     * recommended reading: `Vernon`, Young, `Fowler`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -15,6 +15,7 @@ audience:
 # Advanced `Docker`
 
 ## Description
+
 `Docker` is an open-source project that automates the deployment of
 application inside software containers. `Docker` provides an integrated
 technology suite that enables development and IT operations teams to build,
@@ -22,9 +23,11 @@ ship, and run distributed applications anywhere. `Docker` lets you run
 your software components on any platform that supports `Docker` containers.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
+
 This course is for developers and IT operations teams who already use `Docker`
 and wish to acquire a deeper understanding of underlying infrastructure in
 order to improve the way they operate containerized workloads.
@@ -42,6 +45,7 @@ order to improve the way they operate containerized workloads.
 * Understand the more advanced aspects of `Docker` container deployment like volumes and networking.
 
 ## Outline
+
 <!-- chapter: docker-internals-and-architecture, duration: 2h -->
 * `Docker` Internals and Architecture
     * `Docker` engine architecture deep dive
@@ -111,4 +115,5 @@ order to improve the way they operate containerized workloads.
 * The virtual machines should have at least 4GB of memory.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

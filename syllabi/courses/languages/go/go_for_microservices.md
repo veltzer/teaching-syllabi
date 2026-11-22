@@ -19,9 +19,11 @@ audience:
 # Go for `Microservices`
 
 ## Description
+
 This course teaches how to build production-ready `microservices` in Go. It covers building `gRPC` and `REST` APIs, containerization with `Docker`, deployment to `Kubernetes`, observability, middleware patterns, dependency injection, database integration, and testing strategies for distributed systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course teaches how to build production-ready `microservices` in Go. It cove
 * Write effective tests for `microservices` including integration and end-to-end tests
 
 ## Outline
+
 <!-- chapter: rest-api-development, duration: 2h -->
 * `REST API` Development
     * Designing `RESTful APIs` in Go
@@ -114,4 +117,5 @@ This course teaches how to build production-ready `microservices` in Go. It cove
     * Load testing with `k6` or vegeta
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

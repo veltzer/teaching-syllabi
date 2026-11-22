@@ -18,6 +18,7 @@ duration_hours: 56
 # Cyber Threats and Attack Vectors
 
 ## Description
+
 This course surveys and demonstrates many of the prevalent attack threats, methods and vectors used by today's
 hackers. The course starts with introductory material that is needed to understand the technical aspects of
 the following chapters and then goes into the various attack vectors. Each attack method is explained, analyzed
@@ -41,6 +42,7 @@ and demonstrated.
 * gain practical knowledge of Networking background
 
 ## Outline
+
 <!-- chapter: hacking-landscape-overview, duration: 5h -->
 * Hacking landscape overview
     * Who are the hackers?
@@ -306,4 +308,5 @@ and demonstrated.
 * [Web Development Tools](https://en.wikipedia.org/wiki/Web_development_tools)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Release Engineering and Progressive Delivery
 
 ## Description
+
 Release engineering is the discipline of getting code from a merged pull request to a happy customer.
 The catalog has a `Feature Flags and Progressive Delivery` course that covers feature flags as a tool;
 this course covers the broader release engineering picture into which flags fit. It is the difference
@@ -34,6 +35,7 @@ engineering and incident response. Examples are drawn from the public engineerin
 reliability. Participants leave able to design a release process that the team will actually follow.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ reliability. Participants leave able to design a release process that the team w
 * connect release engineering to incident response
 
 ## Outline
+
 <!-- chapter: what-release-engineering-actually-covers, duration: 1h -->
 * What release engineering actually covers
     * the path from `merge` to user
@@ -147,4 +150,5 @@ reliability. Participants leave able to design a release process that the team w
     * recommended reading: `Google SRE` book release chapters, `Accelerate`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -22,12 +22,14 @@ audience:
 deliver better results.
 
 ## The Challenge
+
 `AI` coding agents can read code, but they do not automatically understand your team's
 conventions, architecture, development workflows, or constraints. Without reliable context,
 they can make confident but incorrect assumptions - slowing delivery and undermining trust
 in `AI`-assisted development.
 
 ## What This Session Covers
+
 A practical, technical introduction to documentation designed for `AI`-assisted software
 development: what to document, how to structure agent-facing project guidance, and how to
 keep that guidance useful as the codebase evolves.
@@ -53,9 +55,11 @@ keep that guidance useful as the codebase evolves.
 * Developers adopting `AI` coding assistants
 
 ## Continue the Journey
+
 This talk introduces the foundations. A follow-on, hands-on workshop can apply the concepts
 to the team's own repositories, project conventions, agent instructions, and documentation
 workflows.
 
 ## Speaker
+
 Mark Veltzer

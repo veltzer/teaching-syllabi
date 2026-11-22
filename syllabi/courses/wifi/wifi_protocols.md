@@ -16,11 +16,13 @@ audience:
 # Wi-Fi Protocols
 
 ## Description
+
 `WiFi` communication is probably the most common communication used by end users today. This course
 introduces engineers to wireless networking protocols and centers mostly around 802.11 and
 specifically 802.11b.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -37,6 +39,7 @@ specifically 802.11b.
 * To understand the basics of security under these protocols.
 
 ## Outline
+
 <!-- chapter: underlying-ideas, duration: 4h -->
 * Underlying ideas
     * OFDM
@@ -70,4 +73,5 @@ specifically 802.11b.
         * `WPA3`.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

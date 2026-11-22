@@ -16,6 +16,7 @@ audience:
 # Dependency Management
 
 ## Description
+
 This course covers the principles and practices of managing software dependencies effectively
 and securely. Participants will learn about versioning strategies, vulnerability scanning,
 automated dependency updates, supply chain security, and license compliance. The course
@@ -23,6 +24,7 @@ provides practical guidance on configuring tools like `Dependabot`, Renovate, an
 and addresses the growing importance of software supply chain security.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -45,6 +47,7 @@ and addresses the growing importance of software supply chain security.
 * manage license compliance and software bill of materials.
 
 ## Outline
+
 <!-- chapter: dependency-management-fundamentals, duration: 1h -->
 * Dependency management fundamentals
     * why dependency management matters
@@ -134,4 +137,5 @@ and addresses the growing importance of software supply chain security.
     * organizational policies and governance
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

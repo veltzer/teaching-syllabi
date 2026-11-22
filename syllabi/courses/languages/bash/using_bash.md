@@ -16,11 +16,13 @@ audience:
 # Using Bash
 
 ## Description
+
 Bash is the de-facto shell for `Linux` and by extension of the modern cloud.
 This course teaches how to use that shell effectively and explains topics such
 as environment variables, configuration files, filesystem layout and many more.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ as environment variables, configuration files, filesystem layout and many more.
 * gain practical knowledge of How is a shell better than a GUI?
 
 ## Outline
+
 <!-- chapter: what-is-a-shell, duration: 1h -->
 * What is a shell?
 <!-- chapter: why-do-we-need-a-shell, duration: 1h -->
@@ -93,4 +96,5 @@ as environment variables, configuration files, filesystem layout and many more.
 * Writing `bash` functions (introduction)
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

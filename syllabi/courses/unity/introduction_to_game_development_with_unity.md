@@ -15,9 +15,11 @@ audience:
 # Introduction to Game Development with `Unity`
 
 ## Description
+
 This course will provide a comprehensive introduction to game development using the `Unity` game engine. Students will learn the core concepts of game design, 3D modeling, scripting, animation, and user interface design, culminating in the creation of their own interactive projects.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course will provide a comprehensive introduction to game development using 
 * Build and deploy their own `Unity` projects
 
 ## Outline
+
 <!-- chapter: introduction-to-unity, duration: 3h -->
 * Introduction to `Unity`
     * Overview of the `Unity` interface
@@ -88,4 +91,5 @@ This course will provide a comprehensive introduction to game development using 
 * Additional resources will be provided throughout the course.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

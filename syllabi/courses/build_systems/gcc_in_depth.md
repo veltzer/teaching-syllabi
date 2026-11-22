@@ -19,6 +19,7 @@ audience:
 # `GCC` in Depth
 
 ## Description
+
 This advanced course provides an in-depth exploration of the GNU Compiler Collection (`GCC`),
 covering the full compilation pipeline from preprocessing through linking. Participants will
 learn how to leverage `GCC`'s powerful optimization capabilities, sanitizers, and diagnostic
@@ -27,6 +28,7 @@ link-time optimization, profile-guided optimization, and static analysis, equipp
 with the knowledge to get the most out of their toolchain.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -52,6 +54,7 @@ with the knowledge to get the most out of their toolchain.
 * Leverage `GCC` static analysis and diagnostic features for code quality.
 
 ## Outline
+
 <!-- chapter: the-gcc-compiler-pipeline, duration: 1h -->
 * The `GCC` Compiler Pipeline
     * Overview of compilation stages
@@ -135,4 +138,5 @@ with the knowledge to get the most out of their toolchain.
     * Managing ABI stability in shared libraries
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

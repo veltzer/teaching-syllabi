@@ -19,6 +19,7 @@ audience:
 # `Kubernetes`
 
 ## Description
+
 This course provides a thorough introduction to `Kubernetes`, the industry-standard
 container orchestration platform. Students will learn how to deploy, manage, and scale
 containerized applications on a `Kubernetes` cluster. The course covers core concepts
@@ -28,6 +29,7 @@ By the end of the course, students will have the practical skills needed to oper
 and manage production-grade `Kubernetes` environments.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ and manage production-grade `Kubernetes` environments.
 * Monitor and observe `Kubernetes` workloads
 
 ## Outline
+
 <!-- chapter: introduction-to-kubernetes, duration: 3h -->
 * Introduction to `Kubernetes`
     * What is container orchestration?
@@ -144,4 +147,5 @@ and manage production-grade `Kubernetes` environments.
     * Alerting strategies and best practices
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

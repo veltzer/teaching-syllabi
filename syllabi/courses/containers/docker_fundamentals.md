@@ -17,6 +17,7 @@ audience:
 # `Docker` Fundamentals
 
 ## Description
+
 This course provides a comprehensive introduction to `Docker` and containerization technology.
 Students will learn how to build, ship, and run applications using `Docker` containers.
 The course covers everything from basic container concepts to advanced topics such as
@@ -25,6 +26,7 @@ course, students will be able to confidently containerize applications and manag
 container-based environments.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ container-based environments.
 * Apply security best practices when building and running containers
 
 ## Outline
+
 <!-- chapter: introduction-to-containers-and-docker, duration: 1h -->
 * Introduction to Containers and `Docker`
     * What are containers and why do we need them?
@@ -122,4 +125,5 @@ container-based environments.
     * Security considerations for the `Docker` daemon
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

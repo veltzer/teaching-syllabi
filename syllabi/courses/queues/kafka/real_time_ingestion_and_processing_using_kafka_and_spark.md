@@ -17,6 +17,7 @@ audience:
 # Real-Time Ingestion & Processing Using `Kafka` & `Spark`
 
 ## Description
+
 The Real-Time Ingestion & Processing Using `Kafka` & `Spark` training course focuses on Data Ingestion and Processing using `Kafka` and `Spark Streaming`. The course covers `Kafka` Fundamentals, Architecture, `API`, `Kafka` Connect, `Kafka` Streams, `Spark` Micro-batch processing, and `Structured Streaming` Processing.
 
 The course begins with students gaining an understanding of `Kafka` fundamentals and internals. The course then covers `Zookeeper`, integration, and the `API`. The course concludes with lessons on `Spark Streaming` and `Kafka` Streams.
@@ -24,6 +25,7 @@ The course begins with students gaining an understanding of `Kafka` fundamentals
 The course utilizes a mixture of lectures and hands-on exercises to reinforce learning. Hands-on exercises related to `Kafka` APIs will be in `Java`/`Scala` and `Scala` language will be used for `Spark` related exercises.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ The course utilizes a mixture of lectures and hands-on exercises to reinforce le
 * Perform `Structured Streaming` processing
 
 ## Outline
+
 <!-- chapter: introduction-to-apache-kafka, duration: 1h -->
 * Introduction to `Apache Kafka`
     * `Kafka` Overview
@@ -94,4 +97,5 @@ The course utilizes a mixture of lectures and hands-on exercises to reinforce le
     * Why `Kafka` Streams
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

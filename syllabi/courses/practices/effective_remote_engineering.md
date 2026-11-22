@@ -17,6 +17,7 @@ audience:
 # Effective Remote Engineering
 
 ## Description
+
 Remote and hybrid work has become the default for a large share of software engineering, but most teams
 operate as if everyone is still in the office and a few people happen to be elsewhere. The result is silent
 inefficiency: meetings that exclude time zones, decisions made in side channels, written records that never
@@ -31,6 +32,7 @@ able to operate effectively as a remote engineer, lead remote teams, and influen
 remote practices.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ remote practices.
 * recognize and recover from the most common remote failure modes
 
 ## Outline
+
 <!-- chapter: why-remote-needs-a-different-discipline, duration: 2h -->
 * Why remote needs a different discipline
     * the silent failures of "office-by-default with some remote"
@@ -173,4 +176,5 @@ remote practices.
     * recommended reading: `GitLab` handbook, Basecamp `Shape Up`, Doist, `Automattic`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

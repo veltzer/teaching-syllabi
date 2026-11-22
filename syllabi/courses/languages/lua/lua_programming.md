@@ -14,11 +14,13 @@ audience:
 # `Lua` Programming
 
 ## Description
+
 `Lua` is a lightweight, high-performance, embeddable scripting language. It is widely used in game development, embedded systems, and as a configuration and extension language in many applications. `Lua` combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics via metatables.
 
 This course teaches `Lua` from the fundamentals through advanced topics including metatables, coroutines, the C `API`, and embedding `Lua` in applications. Students will also learn about LuaJIT and using `Lua` as a scripting language in game engines.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
 * Script game engines and applications with `Lua`
 
 ## Outline
+
 <!-- chapter: getting-started-with-lua, duration: 1h -->
 * Getting Started with `Lua`
     * What is `Lua` and why use it?
@@ -152,4 +155,5 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
     * `When` to use LuaJIT vs standard `Lua`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

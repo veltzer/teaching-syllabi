@@ -23,6 +23,7 @@ audience:
 # `Google Cloud Platform` - Cloud Architect
 
 ## Description
+
 This advanced course teaches participants how to design, plan, and manage solutions on
 `Google Cloud Platform`. It covers enterprise-grade architecture patterns including high
 availability, disaster recovery, security, and compliance. Participants will learn to
@@ -31,6 +32,7 @@ Well-Architected Framework to real-world scenarios. The course is aligned with t
 Professional Cloud Architect certification path.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ Professional Cloud Architect certification path.
 * Implement governance, compliance, and cost management strategies
 
 ## Outline
+
 <!-- chapter: solution-design-and-planning, duration: 3h -->
 * Solution Design and Planning
     * Business requirements analysis: use cases, `KPI`s, and `ROI`
@@ -136,4 +139,5 @@ Professional Cloud Architect certification path.
     * Resource labeling and cost allocation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

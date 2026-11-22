@@ -15,11 +15,13 @@ audience:
 # Elixir Programming
 
 ## Description
+
 Elixir is a dynamic, functional programming language built on the `Erlang` VM (BEAM), designed for building scalable and maintainable applications. Created by Jose Valim, Elixir leverages the battle-tested `Erlang` ecosystem while providing a modern, approachable syntax and powerful metaprogramming capabilities. Elixir excels at building distributed, fault-tolerant systems and real-time applications.
 
 This course covers Elixir from the fundamentals through advanced topics including `OTP`, concurrency patterns, and the Phoenix web framework. Students will learn functional programming with Elixir, build concurrent applications using lightweight processes, and understand the fault tolerance patterns that `make` BEAM-based systems highly reliable. The course includes hands on exercises.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ This course covers Elixir from the fundamentals through advanced topics includin
 * Understand the basics of the Phoenix framework and LiveView
 
 ## Outline
+
 <!-- chapter: getting-started-with-elixir, duration: 2h -->
 * Getting Started with Elixir
     * What is Elixir and the BEAM VM?
@@ -157,4 +160,5 @@ This course covers Elixir from the fundamentals through advanced topics includin
     * Considerations for distributed systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

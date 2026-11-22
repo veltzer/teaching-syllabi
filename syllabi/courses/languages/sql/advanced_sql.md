@@ -14,9 +14,11 @@ audience:
 # Advanced `SQL`
 
 ## Description
+
 This course covers advanced `SQL` techniques including analytic functions, window aggregates, complex joins, subqueries, stored procedures, user-defined functions, and index optimization strategies. Students will gain the skills needed to write efficient and maintainable `SQL` for production databases.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -34,6 +36,7 @@ This course covers advanced `SQL` techniques including analytic functions, windo
 * gain practical knowledge of Multiple Table Access: JOINs and UNION
 
 ## Outline
+
 <!-- chapter: analytic-for-reporting, duration: 1h -->
 * Analytic for Reporting
 <!-- chapter: windows-aggregate-function, duration: 1h -->
@@ -66,4 +69,5 @@ This course covers advanced `SQL` techniques including analytic functions, windo
 * Stored Procedures and compilation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

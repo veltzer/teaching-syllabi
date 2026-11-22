@@ -14,9 +14,11 @@ audience:
 # C `API` Design
 
 ## Description
+
 This course teaches how to design `clean`, sustainable, and extensible `API`s in the C programming language. Topics include opaque pointers, object-oriented techniques in C such as inheritance and composition, runtime method overloading, type information systems, exception handling, and techniques for minimizing client recompilation.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -33,6 +35,7 @@ This course teaches how to design `clean`, sustainable, and extensible `API`s in
 * gain practical knowledge of ensuring type safetiness on opaque pointers.
 
 ## Outline
+
 <!-- chapter: designing-a-sustainable-api-in-c, duration: 1h -->
 * designing a sustainable `API` in C.
 <!-- chapter: using-opaque-pointers, duration: 1h -->
@@ -63,4 +66,5 @@ This course teaches how to design `clean`, sustainable, and extensible `API`s in
 * exception handling in C.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

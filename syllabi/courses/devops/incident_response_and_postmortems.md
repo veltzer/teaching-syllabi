@@ -20,6 +20,7 @@ audience:
 # Incident Response and Postmortems
 
 ## Description
+
 The difference between organizations that handle outages well and organizations that handle them badly is rarely
 a difference in technology. It is a difference in process, communication and culture. This five day course is a
 deep treatment of incident response as a learnable engineering discipline.
@@ -32,6 +33,7 @@ able to be on-call effectively, run an incident as commander, write a postmortem
 program-level practices that prevent the same incident from happening again.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ program-level practices that prevent the same incident from happening again.
 * establish program-level practices: severity definitions, `SLOs`, error budgets
 
 ## Outline
+
 <!-- chapter: what-an-incident-is-and-is-not, duration: 2h -->
 * What an incident is and is not
     * the spectrum from minor degradation to full outage
@@ -180,4 +183,5 @@ program-level practices that prevent the same incident from happening again.
     * recommended reading: `Google` SRE books, `Kepner-Tregoe`, `STELLA Report`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

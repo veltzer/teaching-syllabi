@@ -17,9 +17,11 @@ audience:
 # Advanced `Spark` with `Scala`
 
 ## Description
+
 This course is designed for data engineers and developers who have a basic understanding of `Apache Spark` and `Scala`. It covers advanced topics in `Spark` programming using the native `Scala` `API`, focusing on performance optimization, advanced analytics, and real-world applications. Since `Spark` is written in `Scala`, this course also covers `Scala`-specific advantages such as direct access to the `Spark` internals and idiomatic functional programming patterns.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ This course is designed for data engineers and developers who have a basic under
 * Leverage `Scala`-specific patterns for idiomatic `Spark` development
 
 ## Outline
+
 <!-- chapter: advanced-rdd-and-dataset-operations, duration: 5h -->
 * Advanced `RDD` and Dataset Operations
     * Complex transformations and actions
@@ -100,4 +103,5 @@ This course is designed for data engineers and developers who have a basic under
 * "High Performance `Spark`: Best Practices for Scaling and Optimizing `Apache Spark`" by Holden Karau and Rachel Warren
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

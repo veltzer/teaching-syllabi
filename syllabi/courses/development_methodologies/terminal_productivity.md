@@ -14,9 +14,11 @@ audience:
 # Terminal Productivity
 
 ## Description
+
 This course teaches developers how to become highly productive in the terminal by mastering modern command-line tools, shell customization, and terminal workflows. Participants will learn to configure their shell environment, use tmux for multiplexing, replace traditional `Unix` tools with modern alternatives, manage dotfiles, and build personal automation scripts. The course emphasizes practical, immediately applicable techniques that compound into significant productivity gains.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This course teaches developers how to become highly productive in the terminal b
 * Build personal automation scripts and workflows for common development tasks
 
 ## Outline
+
 <!-- chapter: shell-customization, duration: 1h -->
 * Shell Customization
     * Comparing `bash`, zsh, and `fish`
@@ -145,4 +148,5 @@ This course teaches developers how to become highly productive in the terminal b
     * Measuring and improving your own productivity
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

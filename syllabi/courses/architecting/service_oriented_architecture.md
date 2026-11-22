@@ -20,6 +20,7 @@ audience:
 # `Service-Oriented Architecture`
 
 ## Description
+
 This course is a comprehensive five day introduction to `Service-Oriented Architecture` (`SOA`).
 `SOA` is an architectural style in which business capabilities are exposed as reusable, contract-based services that
 are composed to form larger systems. Although `microservices` have largely succeeded `SOA` as the dominant style for
@@ -33,6 +34,7 @@ service-oriented systems, integrate them with legacy assets, and `make` informed
 or a hybrid is the appropriate choice.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ or a hybrid is the appropriate choice.
 * identify and avoid the most common `SOA` anti-patterns and failure modes
 
 ## Outline
+
 <!-- chapter: introduction-to-soa, duration: 3h -->
 * Introduction to `SOA`
     * what is a service
@@ -194,4 +197,5 @@ or a hybrid is the appropriate choice.
     * recommended reading and further study
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

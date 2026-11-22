@@ -19,9 +19,11 @@ audience:
 # Introduction to `DevOps`
 
 ## Description
+
 This 40-hour course introduces students to the principles and practices of `DevOps`. Students will learn about the culture, methodologies, and tools used in `DevOps` to improve collaboration between development and operations teams, increase efficiency, and deliver high-quality software faster.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -51,6 +53,7 @@ This 40-hour course introduces students to the principles and practices of `DevO
 * Apply `DevOps` practices to improve software development lifecycle
 
 ## Outline
+
 <!-- chapter: what-is-devops, duration: 3h -->
 * What is `DevOps`?
     * Definition and history
@@ -111,4 +114,5 @@ This 40-hour course introduces students to the principles and practices of `DevO
 * `Continuous Delivery` by Jez Humble and David Farley
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

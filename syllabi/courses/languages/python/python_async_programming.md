@@ -14,9 +14,11 @@ audience:
 # `Python` `Async` Programming
 
 ## Description
+
 This course provides a deep dive into asynchronous programming in `Python` using `asyncio` and related tools. Students will learn how the event loop works, how to write coroutines, manage tasks and futures, and build high-performance async applications. The course covers advanced topics including structured concurrency with TaskGroup, async generators, synchronization primitives, and integration with concurrent.futures for mixed async/threaded workloads. Emphasis is placed on debugging techniques and performance patterns for real-world async systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ This course provides a deep dive into asynchronous programming in `Python` using
 * Debug and profile async code to identify bottlenecks and common pitfalls
 
 ## Outline
+
 <!-- chapter: the-asyncio-event-loop, duration: 1h -->
 * The `asyncio` Event Loop
     * How the event loop works
@@ -113,4 +116,5 @@ This course provides a deep dive into asynchronous programming in `Python` using
     * Benchmarking async vs synchronous approaches
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -17,9 +17,11 @@ audience:
 # `JMeter`
 
 ## Description
+
 This course covers `Apache JMeter`, the open-source load testing tool, from basic test creation through advanced capabilities. Students will learn to record, build, and run load tests, analyze results, handle high loads with distributed testing, and test `HTTP`, `FTP`, and database endpoints.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
 * gain practical knowledge of Real test cases
 
 ## Outline
+
 <!-- chapter: high-level-intro-to-load-testing, duration: 1h -->
 * High level intro to load testing
 <!-- chapter: jmeter-basics, duration: 3h -->
@@ -81,4 +84,5 @@ This course covers `Apache JMeter`, the open-source load testing tool, from basi
     * Practice time - hands on time to do some real tests with the `JMeter` on our Application.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

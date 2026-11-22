@@ -28,6 +28,7 @@ audience:
 # `C++` in the Age of `AI`
 
 ## Description
+
 `AI` coding assistants now write a large fraction of the `C++` that reaches production.
 This changes what a `C++` developer's job actually is. It does not remove the need for
 `C++` expertise, it relocates it: away from typing out loops and boilerplate, and towards
@@ -57,6 +58,7 @@ enormous and `C++` correctness harder, and that closing the resulting gap is now
 professional skill.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -89,12 +91,14 @@ professional skill.
 * Establish team-level policy, tooling and review practice for `AI`-generated `C++`
 
 ## Exercises
+
 Every chapter is paired with hands-on work at the keyboard with a live `AI` assistant.
 The exercises are deliberately adversarial: students are repeatedly asked to accept
 generated code, then to find what is wrong with it. Several exercises are built around
 code that compiles without warnings and passes its tests while still being incorrect.
 
 ## Outline
+
 <!-- chapter: what-actually-changed, duration: 2h -->
 * What Actually Changed
     * The state of `AI` `C++` generation as of 2026
@@ -346,6 +350,7 @@ code that compiles without warnings and passes its tests while still being incor
     * Group discussion of what was caught, what was missed, and what only the compiler found
 
 ## Installations
+
 Each student should have:
 
 * A `Linux` machine, real or virtual, `Ubuntu` 24.04 or later recommended.
@@ -365,4 +370,5 @@ starts, as this is the most common cause of lost time on day one.
 and several exercises depend on it.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

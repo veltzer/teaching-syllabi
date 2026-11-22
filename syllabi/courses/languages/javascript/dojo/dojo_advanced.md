@@ -14,12 +14,15 @@ audience:
 # Dojo Advanced
 
 ## Description
+
 This course covers advanced Dojo toolkit topics including custom widget development, data handling with stores, application architecture, internationalization, and performance optimization. Students will gain hands-on experience building complex widget-based web applications.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
+
 Web developers with basic Dojo experience who need to build advanced widget-based applications.
 
 ## Prerequisites
@@ -36,6 +39,7 @@ Web developers with basic Dojo experience who need to build advanced widget-base
 * gain practical knowledge of advanced topics
 
 ## Outline
+
 <!-- chapter: classes-in-dojo-multi-inheritance, duration: 5h -->
 * classes in dojo, multi inheritance
     * dojo - quick overview on different widgets
@@ -68,4 +72,5 @@ Web developers with basic Dojo experience who need to build advanced widget-base
     * i18n in general and in widget
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

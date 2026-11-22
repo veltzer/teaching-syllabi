@@ -17,6 +17,7 @@ audience:
 # Architecting
 
 ## Description
+
 This course about architecting in a modern computing environment, either on a cloud or on premise.
 It presents all the major topics that a modern systems architect needs to know such as micro-service architecture,
 queues, `CI/CD`, data lakes, various data store types and much more.
@@ -24,6 +25,7 @@ The course teaches which tradeoffs exist between various requirements and how to
 pick the right tradeoff for your case.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -39,6 +41,7 @@ pick the right tradeoff for your case.
 * Promote a holistic approach to system design
 
 ## Outline
+
 <!-- chapter: introduction-to-modern-software-architecture, duration: 1h -->
 * Introduction to Modern Software Architecture
     * Evolution of software architecture
@@ -300,4 +303,5 @@ pick the right tradeoff for your case.
     * Blockchain and distributed systems
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

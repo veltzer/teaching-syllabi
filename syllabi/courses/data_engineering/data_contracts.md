@@ -18,6 +18,7 @@ audience:
 # Data Contracts
 
 ## Description
+
 A `data contract` is the agreement between the producer of data and the consumer of data: schema, semantics,
 quality guarantees, ownership, and the way changes happen. The catalog has `Data Mesh`, `Data Mesh in
 Practice`, `Data Quality and Validation`, `Data Modeling in Depth`, and `Data Governance and Quality`.
@@ -36,6 +37,7 @@ succeed. Examples are drawn from the public engineering writing of `GoCardless`,
 contracts into an organization and operate them without slowing the team down.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -60,6 +62,7 @@ contracts into an organization and operate them without slowing the team down.
 * connect contracts to data mesh and data products
 
 ## Outline
+
 <!-- chapter: what-a-data-contract-is, duration: 1h -->
 * What a data contract is
     * the analogy to an `API` contract
@@ -141,4 +144,5 @@ contracts into an organization and operate them without slowing the team down.
     * recommended reading: `Data Contracts` ecosystem
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

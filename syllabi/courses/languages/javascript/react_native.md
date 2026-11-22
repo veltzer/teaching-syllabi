@@ -14,9 +14,11 @@ audience:
 # `React Native` Mobile Development
 
 ## Description
+
 `React Native` enables developers to build native mobile applications for `iOS` and `Android` using `JavaScript` and React. This course covers the full spectrum of `React Native` development, from core components and navigation to native modules, animations, and deployment. Students will learn to build production-ready mobile applications with modern tooling including Expo, `React Navigation`, Reanimated, and testing frameworks.
 
 ## Duration
+
 32 hours / 4 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ audience:
 * Build, sign, and deploy applications to the `App Store` and `Google Play`
 
 ## Outline
+
 <!-- chapter: introduction-to-react-native, duration: 3h -->
 * Introduction to `React Native`
     * What is `React Native` and how it bridges to native platforms
@@ -147,4 +150,5 @@ audience:
     * Over-the-air updates and staged rollouts
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

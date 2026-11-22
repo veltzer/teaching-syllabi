@@ -19,9 +19,11 @@ audience:
 # Data Lakehouse
 
 ## Description
+
 The data lakehouse architecture combines the flexibility and cost-efficiency of data lakes with the reliability and performance of data warehouses. This course covers the key technologies and concepts behind the lakehouse paradigm, including `Delta Lake`, `Apache Iceberg`, open table formats, time travel, schema evolution, ACID transactions, and query optimization. Participants will learn how to design, implement, and optimize lakehouse architectures for modern analytical and `machine learning` workloads.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * Build production-ready lakehouse pipelines with best practices
 
 ## Outline
+
 <!-- chapter: introduction-to-the-data-lakehouse-architecture, duration: 1h -->
 * Introduction to the Data Lakehouse Architecture
     * Evolution of data architectures: data warehouse, data lake, lakehouse
@@ -140,4 +143,5 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
     * Migration strategies from existing data platforms
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

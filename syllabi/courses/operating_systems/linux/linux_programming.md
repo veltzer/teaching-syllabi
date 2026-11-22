@@ -19,10 +19,12 @@ audience:
 # `Linux` programming
 
 ## Description
+
 `Linux` is the widest protected operating system in use today and this course teaching you how to write system programs
 over it in C or `C++` which `make` efficient use of it.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -40,6 +42,7 @@ over it in C or `C++` which `make` efficient use of it.
 * gain practical knowledge of `Linux`` multi-processing
 
 ## Outline
+
 <!-- chapter: protected-os-fundamentals, duration: 6h -->
 * Protected OS fundamentals
     * Definition of protected operating system.
@@ -112,4 +115,5 @@ over it in C or `C++` which `make` efficient use of it.
     * Logging approaches and the system logger.
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

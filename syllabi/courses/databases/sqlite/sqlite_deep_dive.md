@@ -14,9 +14,11 @@ audience:
 # `SQLite` Deep Dive
 
 ## Description
+
 This course provides a comprehensive deep dive into `SQLite`, the most widely deployed database engine in the world. Participants will learn the architecture, `SQL` dialect, advanced features, and practical applications of `SQLite` in embedded systems, mobile apps, and desktop applications. The course covers everything from basic operations to advanced topics such as full-text search, `JSON` support, and performance tuning.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -42,6 +44,7 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
 * Implement backup and recovery strategies.
 
 ## Outline
+
 <!-- chapter: introduction-to-sqlite, duration: 1h -->
 * Introduction to `SQLite`:
     * What is `SQLite` and why it matters
@@ -124,4 +127,5 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
     * Corruption detection and recovery
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

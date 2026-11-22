@@ -24,6 +24,7 @@ criteria for choosing a programming language no longer hold. What matters now, a
 should your next project be written in?
 
 ## The Challenge
+
 Teams have always chosen languages by weighing productivity, learning curve, hiring,
 performance, and ecosystem. `AI` coding agents change almost every one of those factors.
 Verbose languages are no longer slow to write, difficult languages are no longer as hard to
@@ -33,6 +34,7 @@ human ever reads the code, and how easy the result is to review. Choosing by the
 risks the wrong choice for the next decade.
 
 ## What This Session Covers
+
 A practical, technical look at language selection when much of the code is produced by `AI`
 agents: which traditional criteria lose their weight, which new criteria emerge, how type
 systems and tooling become verification for agent output, and how cheap rewrites change
@@ -60,9 +62,11 @@ long-term technology strategy.
 * Developers choosing the stack for a new project
 
 ## Continue the Journey
+
 This talk examines the criteria. A follow-on, hands-on workshop can evaluate candidate
 languages against the team's own projects, or plan an `AI`-assisted migration of an existing
 codebase.
 
 ## Speaker
+
 Mark Veltzer

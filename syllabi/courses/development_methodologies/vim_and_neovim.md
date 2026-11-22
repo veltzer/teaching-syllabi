@@ -13,9 +13,11 @@ audience:
 # Vim and `Neovim`
 
 ## Description
+
 This course introduces Vim and `Neovim` as powerful, efficient text editors built around the philosophy of modal editing. Participants will learn core Vim navigation and editing commands, progress to advanced features such as macros and registers, and then explore `Neovim`-specific enhancements including `Lua`-based configuration, modern plugin management, and LSP integration. By the end of the course, participants will be able to use `Neovim` as a full-featured development environment.
 
 ## Duration
+
 16 hours / 2 day
 
 ## Intended Audience
@@ -38,6 +40,7 @@ This course introduces Vim and `Neovim` as powerful, efficient text editors buil
 * Apply Vim motions in other editors such as `VS Code` and `JetBrains` `IDEs`
 
 ## Outline
+
 <!-- chapter: vim-philosophy, duration: 1h -->
 * Vim Philosophy
     * Why modal editing
@@ -159,4 +162,5 @@ This course introduces Vim and `Neovim` as powerful, efficient text editors buil
     * `When` to use Vim motions vs a full `Neovim` setup
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

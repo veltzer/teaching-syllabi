@@ -14,9 +14,11 @@ audience:
 # `Java` `TDD`
 
 ## Description
+
 This course covers Test Driven Development (`TDD`) in `Java`, combining testing theory with hands-on practice using `JUnit` and related tools. Students will learn `agile` and XP methodologies, unit testing techniques, mock objects, code refactoring for testability, and tools such as DbUnit, JMockit, and PMD.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -27,6 +29,7 @@ This course covers Test Driven Development (`TDD`) in `Java`, combining testing 
 * Development in `Java` for at least one year
 
 ## Objectives
+
 People completing this course will have strong
 understanding of what `TDD` and Agile programming is all about
 with the knowledge to implement these development methodologies
@@ -36,6 +39,7 @@ skills to use the tools that `Java` provides for these methodologies:
 third party tools that will be discussed in the development section.
 
 ## Outline
+
 <!-- chapter: theory, duration: 13h -->
 * Theory
     * Software Testing Overview
@@ -138,4 +142,5 @@ third party tools that will be discussed in the development section.
             * Using PMD from `eclipse`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

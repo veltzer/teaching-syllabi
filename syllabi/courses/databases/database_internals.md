@@ -21,6 +21,7 @@ audience:
 # Database Internals
 
 ## Description
+
 Databases are the most heavily engineered piece of software most developers will ever depend on, and they are also
 the most opaque. This five day course opens the box. It is not a course about how to use any specific database; it is
 a course about what every relational and `NoSQL` system is doing under the hood and why.
@@ -33,6 +34,7 @@ documentation critically, debug production performance issues from first princip
 `PostgreSQL`, `MySQL`, `Cassandra`, `RocksDB`, `CockroachDB` and similar systems.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -57,6 +59,7 @@ documentation critically, debug production performance issues from first princip
 * `make` informed architectural decisions between database options
 
 ## Outline
+
 <!-- chapter: anatomy-of-a-database, duration: 2h -->
 * Anatomy of a database
     * the layered architecture of a typical database
@@ -174,4 +177,5 @@ documentation critically, debug production performance issues from first princip
     * end-to-end walkthrough of a single query through a real engine
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

@@ -18,6 +18,7 @@ audience:
 # Lakehouse Table Formats Compared: Iceberg, `Delta Lake`, `Hudi`
 
 ## Description
+
 The catalog has `Apache Iceberg`, `Delta Lake`, and `Apache Hudi` as separate courses, plus `Data
 Lakehouse` for the broader concept. None of those is the focused architecture decision: which table
 format should a team pick for a new lakehouse, and on what basis. The decision matters: each format has
@@ -35,6 +36,7 @@ schema-evolution capabilities, time travel, copy-on-write vs merge-on-read, dele
 the open-source distributions of each. Participants leave able to `make` the format decision deliberately.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -59,6 +61,7 @@ the open-source distributions of each. Participants leave able to `make` the for
 * recognize the patterns that doom a lakehouse
 
 ## Outline
+
 <!-- chapter: what-an-open-table-format-actually-is, duration: 2h -->
 * What an open table format actually is
     * the limits of `Parquet`-on-`S3`
@@ -154,4 +157,5 @@ the open-source distributions of each. Participants leave able to `make` the for
     * the "we wanted to migrate and could not afford it" reality
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

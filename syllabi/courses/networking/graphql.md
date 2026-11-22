@@ -17,9 +17,11 @@ audience:
 # `GraphQL`
 
 ## Description
+
 This course provides a thorough exploration of `GraphQL` as a query language and runtime for APIs. Participants will learn to design schemas, implement resolvers, and build full-featured `GraphQL` services supporting queries, mutations, and subscriptions. The course also covers advanced topics including `Apollo Federation` for composing distributed graphs, performance optimization with DataLoader, authentication and authorization patterns, and production deployment strategies.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -53,6 +55,7 @@ This course provides a thorough exploration of `GraphQL` as a query language and
 * Deploy and monitor production `GraphQL` services with performance optimization
 
 ## Outline
+
 <!-- chapter: introduction-to-graphql, duration: 1h -->
 * Introduction to `GraphQL`
     * What is `GraphQL` and its design philosophy
@@ -163,4 +166,5 @@ This course provides a thorough exploration of `GraphQL` as a query language and
     * `GraphQL` over `HTTP`: GET vs POST, batched queries, content negotiation
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

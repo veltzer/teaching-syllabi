@@ -16,6 +16,7 @@ audience:
 # Data Visualization with `Python`
 
 ## Description
+
 This course covers the essential `Python` libraries and techniques for creating compelling
 data visualizations. Participants will learn to build static, statistical, and interactive
 charts using `Matplotlib`, `Seaborn`, Plotly, and Dash. The course emphasizes choosing
@@ -24,6 +25,7 @@ principles, creating publication-quality figures, and building interactive web d
 Geospatial visualization techniques are also covered for location-based data analysis.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -45,6 +47,7 @@ Geospatial visualization techniques are also covered for location-based data ana
 * **Visualize geospatial data** using mapping libraries in `Python`
 
 ## Outline
+
 <!-- chapter: matplotlib-fundamentals, duration: 2h -->
 * `Matplotlib` Fundamentals
     * Figure and axes architecture
@@ -122,4 +125,5 @@ Geospatial visualization techniques are also covered for location-based data ana
     * Coordinate systems and projections
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

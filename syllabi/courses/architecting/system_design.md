@@ -17,9 +17,11 @@ audience:
 # System Design
 
 ## Description
+
 This course teaches the principles and practices of designing large-scale, distributed systems. Participants will learn how to analyze requirements, perform back-of-envelope estimations, and `make` informed architectural decisions. The course covers fundamental building blocks such as load balancers, caching strategies, database sharding, message queues, and consistent hashing. Real-world case studies including a URL shortener, chat system, news feed, and search engine provide practical design experience.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course teaches the principles and practices of designing large-scale, distr
 * Design complete systems through real-world case studies
 
 ## Outline
+
 <!-- chapter: requirements-analysis-and-estimation, duration: 2h -->
 * Requirements Analysis and Estimation
     * Gathering functional and non-functional requirements
@@ -138,4 +141,5 @@ This course teaches the principles and practices of designing large-scale, distr
     * Scaling search across multiple data centers
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

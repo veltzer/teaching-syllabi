@@ -14,6 +14,7 @@ audience:
 # `MongoDB` for Developers
 
 ## Description
+
 `MongoDB` is a leading `NoSQL` document database that enables developers to build modern, scalable applications with flexible data models. This course provides comprehensive training for developers who need to design, build, and optimize applications using `MongoDB`. Participants will learn modern development patterns, performance optimization techniques, and best practices for building production-ready applications.
 
 The course covers both fundamental concepts for newcomers to `NoSQL` and advanced techniques for experienced developers, focusing on practical application development rather than database administration.
@@ -21,6 +22,7 @@ The course covers both fundamental concepts for newcomers to `NoSQL` and advance
 This course targets `MongoDB` version 7 and includes coverage of `MongoDB Atlas` cloud platform.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -52,9 +54,11 @@ This course targets `MongoDB` version 7 and includes coverage of `MongoDB Atlas`
 * Handle real-time data with change streams
 
 ## Exercises
+
 Hands-on coding exercises using popular `MongoDB` drivers in the student's preferred programming language. Students will build a complete application from scratch, implementing features like user authentication, data validation, complex queries, aggregation pipelines, transactions, and real-time updates. Exercises include working with `MongoDB Atlas`, implementing proper error handling, optimizing query performance, and integrating with modern web frameworks. Real-world scenarios cover e-commerce, social media, and IoT application patterns.
 
 ## Outline
+
 <!-- chapter: introduction-to-mongodb-for-developers, duration: 1h -->
 * Introduction to `MongoDB` for Developers
     * `NoSQL` vs `SQL` paradigms
@@ -218,6 +222,7 @@ Hands-on coding exercises using popular `MongoDB` drivers in the student's prefe
     * Production best practices
 
 ## Installations
+
 Each student should have:
 
 * Development machine with 8 GB `RAM` minimum
@@ -237,4 +242,5 @@ Each student should have:
 * Sample datasets will be provided during the course
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

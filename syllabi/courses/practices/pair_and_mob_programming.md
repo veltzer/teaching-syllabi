@@ -19,6 +19,7 @@ audience:
 # Pair and Mob Programming
 
 ## Description
+
 Pairing and mob (or ensemble) programming sound simple: more than one person at the keyboard. In practice they
 are subtle social and technical disciplines that change the economics of software development in non-obvious
 ways. Done well, they collapse review cycles, spread knowledge, eliminate single-points-of-failure on a team
@@ -33,6 +34,7 @@ Participants leave able to pair and mob effectively, coach others, and judge whe
 for the work in front of them.
 
 ## Duration
+
 40 hours / 5 days
 
 ## Intended Audience
@@ -56,6 +58,7 @@ for the work in front of them.
 * introduce these practices to a team without forcing them
 
 ## Outline
+
 <!-- chapter: why-pairing-and-mobbing, duration: 2h -->
 * Why pairing and mobbing
     * the evidence base, such as it is
@@ -180,4 +183,5 @@ for the work in front of them.
     * recommended reading: `Williams`, `Falco`, `Zuill`
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

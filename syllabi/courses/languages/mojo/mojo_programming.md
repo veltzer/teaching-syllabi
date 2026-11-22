@@ -18,12 +18,14 @@ audience:
 # Mojo Programming
 
 ## Description
+
 Mojo is a new programming language designed by Modular to bridge the gap between `Python`'s productivity and the performance of systems languages like `C++` and Rust.
 It is a strict superset of `Python`, meaning all valid `Python` code is valid Mojo, while adding def/fn distinctions, ownership semantics, SIMD intrinsics, and zero-cost abstractions for hardware acceleration.
 Mojo is purpose-built for `AI` and high-performance computing workloads, enabling developers to write kernels, neural network layers, and numerical algorithms that run at full hardware speed without leaving the `Python` ecosystem.
 This course takes `Python` developers through Mojo's type system, memory ownership model, SIMD programming, and practical patterns for accelerating `ML` workloads.
 
 ## Duration
+
 24 hours / 3 days
 
 ## Intended Audience
@@ -46,6 +48,7 @@ This course takes `Python` developers through Mojo's type system, memory ownersh
 * Benchmark and optimise Mojo code for `ML` inference tasks
 
 ## Outline
+
 <!-- chapter: introduction-to-mojo, duration: 2h -->
 * Introduction to Mojo
     * Design goals — why `Python` is not enough for `AI` infrastructure
@@ -131,4 +134,5 @@ This course takes `Python` developers through Mojo's type system, memory ownersh
     * Integrating Mojo kernels into `PyTorch` workflows
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

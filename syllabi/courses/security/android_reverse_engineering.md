@@ -17,11 +17,13 @@ audience:
 # `Android` Reverse Engineering
 
 ## Description
+
 This course covers the techniques and tools used to reverse engineer `Android` applications. Participants
 will learn to decompile, instrument, and analyze `Android` apps for security research, vulnerability
 assessment, and malware analysis purposes.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -48,6 +50,7 @@ assessment, and malware analysis purposes.
 * Conduct malware analysis on `Android` samples
 
 ## Outline
+
 <!-- chapter: apk-structure, duration: 2h -->
 * APK Structure
     * APK file format and contents
@@ -122,4 +125,5 @@ assessment, and malware analysis purposes.
     * Documenting and reporting findings
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

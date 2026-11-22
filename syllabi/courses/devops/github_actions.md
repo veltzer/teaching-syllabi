@@ -18,6 +18,7 @@ audience:
 # `GitHub Actions` & `GitLab CI`
 
 ## Description
+
 This course covers modern `CI/CD` pipeline design and implementation using `GitHub Actions` and
 `GitLab CI`. Participants will learn how to author workflows, configure runners, manage artifacts
 and environments, and leverage advanced features such as matrix builds and reusable workflows.
@@ -29,6 +30,7 @@ software development workflows. It focuses on practical pipeline construction ra
 abstract `CI/CD` theory.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -50,6 +52,7 @@ abstract `CI/CD` theory.
 * gain practical knowledge of matrix builds and reusable workflows
 
 ## Outline
+
 <!-- chapter: introduction-to-modern-ci-cd, duration: 1h -->
 * Introduction to Modern `CI/CD`
     * Evolution of `CI/CD` tooling
@@ -179,4 +182,5 @@ abstract `CI/CD` theory.
     * Least privilege for workflow permissions
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

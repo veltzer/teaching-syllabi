@@ -17,9 +17,11 @@ audience:
 # `Datadog`
 
 ## Description
+
 `Datadog` is a comprehensive cloud-based monitoring and analytics platform that provides full-stack observability for modern applications and infrastructure. This course covers the complete Datadog platform, from agent installation and infrastructure monitoring through APM, log management, synthetics, and Real User Monitoring. Students will learn how to build effective dashboards, set up alerting strategies, and leverage `Datadog` to gain deep visibility into their systems.
 
 ## Duration
+
 16 hours / 2 days
 
 ## Intended Audience
@@ -49,6 +51,7 @@ audience:
 * Manage `Datadog` costs through tagging strategies and usage optimization
 
 ## Outline
+
 <!-- chapter: datadog-overview, duration: 1h -->
 * `Datadog` Overview
     * What is `Datadog` and the observability landscape
@@ -159,4 +162,5 @@ audience:
     * Usage attribution and chargeback
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026

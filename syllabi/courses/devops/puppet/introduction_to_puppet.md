@@ -16,11 +16,13 @@ audience:
 # Introduction to Puppet
 
 ## Description
+
 Puppet is a commonly used `DevOps` tool for configuration management and deployment of complex
 applications. This course introduces the participants to `puppet` and it's main concepts and
 allows them to start working with it.
 
 ## Duration
+
 16 hours / 1 day
 
 ## Intended Audience
@@ -39,6 +41,7 @@ allows them to start working with it.
 * Use `rspec` in order to test that their manifests are correct.
 
 ## Outline
+
 <!-- chapter: from-zero-to-puppet, duration: 1h -->
 * From zero to Puppet
     * Configuration Management
@@ -90,4 +93,5 @@ allows them to start working with it.
 * Q/A
 
 ## Copyright
+
 Mark Veltzer [mark.veltzer@gmail.com](mailto:mark.veltzer@gmail.com), © 2026
