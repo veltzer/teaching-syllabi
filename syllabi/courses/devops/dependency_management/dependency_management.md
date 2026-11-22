@@ -28,19 +28,23 @@ and addresses the growing importance of software supply chain security.
 16 hours / 1 day
 
 ## Intended Audience
+
 * developers responsible for maintaining project dependencies.
 * `devops` engineers managing build pipelines and security scanning.
 * security-minded engineers focused on supply chain integrity.
 
 ## Prerequisites
+
 * experience with at least one package manager (`npm`, pip, Maven, `Go modules`, etc.).
 * basic understanding of `CI/CD` pipelines.
 * familiarity with `Git` and pull request workflows.
 
 ## Required Knowledge
+
 * Go Programming (or equivalent experience)
 
 ## Objectives
+
 * understand dependency management fundamentals and versioning strategies.
 * configure automated dependency update tools.
 * implement vulnerability scanning and supply chain security practices.

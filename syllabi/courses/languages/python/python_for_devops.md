@@ -26,20 +26,24 @@ This two day course teaches `DevOps` engineers how to leverage `Python` for infr
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers looking to enhance their automation skills with `Python`
 * System administrators transitioning to infrastructure-as-code practices
 * Site reliability engineers building operational tooling
 
 ## Prerequisites
+
 * Basic `Python` programming knowledge (variables, functions, loops, modules)
 * Familiarity with `Linux` command-line tools
 * Basic understanding of `DevOps` concepts and workflows
 * An `AWS` account for hands-on cloud exercises
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Write `Python` scripts for infrastructure automation tasks.
 * Use Boto3 to manage `AWS` resources programmatically.
 * Build professional `CLI` tools with Click and Typer.

@@ -23,6 +23,7 @@ audience:
 16 hours / 1 day
 
 ## Intended Audience
+
 * Data engineers responsible for pipeline reliability
 * Data scientists who need to ensure data quality
 * Analytics engineers building trusted data models
@@ -30,6 +31,7 @@ audience:
 * QA engineers extending testing to data validation
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Familiarity with Pandas DataFrames
 * Basic understanding of `SQL`
@@ -37,9 +39,11 @@ audience:
 * Basic command-line interface usage
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand data quality concepts and why they matter
 * Navigate the `Great Expectations` architecture and components
 * Create and manage expectation suites with built-in and custom expectations

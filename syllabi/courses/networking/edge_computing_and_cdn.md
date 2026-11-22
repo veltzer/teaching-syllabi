@@ -39,6 +39,7 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers building or operating web and `API` workloads at scale
 * `DevOps` engineers operating `CDN` and edge infrastructure
 * network engineers handling global traffic
@@ -46,12 +47,14 @@ systems, write and operate edge functions, and reason about the cache hierarchy 
 * engineers diagnosing latency or correctness issues that touch the edge
 
 ## Prerequisites
+
 * working knowledge of `HTTP`, `TLS` and `DNS`
 * exposure to at least one `CDN` (Cloudflare, Fastly, Akamai, `CloudFront`)
 * basic familiarity with at least one programming language with edge support
 * some experience operating production `web services`
 
 ## Objectives
+
 * describe the modern `CDN` and edge architecture
 * design cache strategies at the edge that are correct and performant
 * write and operate edge functions across the major platforms

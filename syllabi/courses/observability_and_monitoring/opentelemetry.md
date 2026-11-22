@@ -28,19 +28,23 @@ This course provides a comprehensive understanding of `OpenTelemetry` and its th
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers, SREs, and `DevOps` engineers who want to implement observability in distributed systems using `OpenTelemetry`.
 * Platform engineers responsible for building and maintaining observability infrastructure.
 
 ## Prerequisites
+
 * Experience with at least one programming language (e.g., `Python`, `Java`, Go, `JavaScript`).
 * Familiarity with distributed systems and `microservices` architecture.
 * Basic understanding of `HTTP` and networking concepts.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the three pillars of observability: traces, metrics, and logs
 * Instrument applications using the `OpenTelemetry` `SDK`
 * Configure and deploy `OpenTelemetry` Collectors

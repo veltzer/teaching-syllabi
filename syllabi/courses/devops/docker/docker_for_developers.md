@@ -146,6 +146,7 @@ sure that the participants have an access to `Linux` boxes.
     * Health checks implementation
 
 ## Installations
+
 * A real `Ubuntu` >= 22.04 running on a laptop.
 * A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on top. This could be done using `Hyper-V` or Oracle `VirtualBox`.
 * Access to a remote `Ubuntu` >= 22.04 machine via `ssh` (command line, putty, MobaXterm, ...). The machine could be in a company private cloud or a public cloud.

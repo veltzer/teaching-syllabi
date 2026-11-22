@@ -26,14 +26,17 @@ of multi-`threading` in `Java`.
 40 hours / 5 days
 
 ## Intended Audience
+
 * People with no programming experience.
 * Developers who wish to study the basics of the `Java` programming language.
 
 ## Prerequisites
+
 * Tech affinity.
 * Any experience in any other programming language is an advantage.
 
 ## Objectives
+
 * Write, test and debug `Java` applications.
 * Use the `Java` standard libraries.
 * Use the basic `Java` data structures supplied with the standard library.

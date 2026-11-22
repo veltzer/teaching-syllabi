@@ -26,6 +26,7 @@ The course emphasizes practical, hands-on experience with real-world administrat
 32 hours / 4 days
 
 ## Intended Audience
+
 * Database administrators managing `PostgreSQL` instances
 * System administrators responsible for database infrastructure
 * `DevOps` engineers deploying and maintaining `PostgreSQL`
@@ -33,15 +34,18 @@ The course emphasizes practical, hands-on experience with real-world administrat
 * Infrastructure engineers designing database architectures
 
 ## Prerequisites
+
 * Basic understanding of relational database concepts
 * Familiarity with `SQL` fundamentals
 * `Linux` command line proficiency
 * Basic networking knowledge (`TCP`/`IP`, ports, firewalls)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install, configure, and manage `PostgreSQL` instances
 * Implement robust backup and recovery strategies
 * Configure streaming and logical replication

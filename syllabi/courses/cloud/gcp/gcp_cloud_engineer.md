@@ -34,18 +34,21 @@ security, and infrastructure as code. Participants will gain hands-on experience
 32 hours / 4 days
 
 ## Intended Audience
+
 * Cloud engineers deploying and managing applications on `GCP`
 * System administrators transitioning to cloud operations
 * `DevOps` engineers working with `Google Cloud Platform`
 * Developers who need to understand `GCP` infrastructure
 
 ## Prerequisites
+
 * Basic understanding of `cloud computing` concepts
 * Familiarity with `Linux` command line
 * Basic networking knowledge (`TCP`/`IP`, `DNS`, `HTTP`)
 * Experience with at least one programming language
 
 ## Objectives
+
 * Set up and configure `GCP` projects, billing, and `IAM`
 * Deploy and manage compute resources: VMs, `GKE`, `Cloud Run`
 * Design and implement `VPC` networks with security controls

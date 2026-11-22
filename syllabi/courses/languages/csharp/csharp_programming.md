@@ -24,20 +24,24 @@ This course teaches `C#` from the ground up, covering the language fundamentals,
 40 hours / 5 days
 
 ## Intended Audience
+
 * Software developers who want to learn `C#` for enterprise or web application development.
 * Programmers experienced in other languages who want to transition to the `.NET` ecosystem.
 * Developers interested in building cross-platform applications with `.NET`.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Java`, `Python`, `C++`, or `JavaScript`.
 * Understanding of basic computer science concepts.
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `C#` syntax, type system, and core language features
 * Write object-oriented `C#` code using classes, interfaces, and inheritance
 * Use generics, `LINQ`, and async/await effectively

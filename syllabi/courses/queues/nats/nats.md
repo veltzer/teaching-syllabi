@@ -30,16 +30,19 @@ clustering and leaf node topologies.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building `microservices`, edge computing, or IoT applications.
 * Platform and `DevOps` engineers evaluating lightweight messaging infrastructure.
 * Architects designing cloud-native systems that require low-latency communication.
 
 ## Prerequisites
+
 * `Solid` programming experience in at least one language (Go, `Python`, `JavaScript`, or similar).
 * Basic understanding of networking and client-server communication.
 * Familiarity with publish-subscribe patterns is helpful but not required.
 
 ## Objectives
+
 * Understand the `NATS` subject hierarchy and core messaging model.
 * Implement publish-subscribe and fan-out messaging patterns.
 * Build synchronous request-reply workflows over `NATS`.

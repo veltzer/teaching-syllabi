@@ -24,17 +24,20 @@ This course provides an in-depth exploration of networking services and architec
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building network-aware applications on `GCP`
 * System administrators managing cloud network infrastructure
 * Cloud architects designing enterprise networking solutions
 
 ## Prerequisites
+
 * Basic understanding of `GCP` core services
 * Familiarity with `TCP/IP` networking fundamentals
 * Understanding of `DNS`, `HTTP`, and `TLS` concepts
 * Experience with command-line tools
 
 ## Objectives
+
 * Design and implement `VPC` networks with subnets, routes, and `firewall` rules
 * Configure `Shared VPC` and `VPC` peering for multi-project architectures
 * Deploy and manage `Cloud Load Balancing` for various traffic patterns

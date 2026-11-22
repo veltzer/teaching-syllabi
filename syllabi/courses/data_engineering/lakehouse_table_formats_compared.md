@@ -40,18 +40,21 @@ the open-source distributions of each. Participants leave able to `make` the for
 24 hours / 3 days
 
 ## Intended Audience
+
 * data engineers picking a table format for a new lakehouse
 * data architects evaluating a migration between formats
 * senior developers operating a lakehouse
 * architects designing a multi-engine analytics stack
 
 ## Prerequisites
+
 * working experience with at least one of Iceberg, `Delta Lake`, `Hudi`
 * familiarity with the Data Lakehouse course
 * exposure to `Spark` or `Trino`
 * basic understanding of `Parquet`
 
 ## Objectives
+
 * explain what an open table format provides
 * compare Iceberg, `Delta Lake`, and `Hudi` on the dimensions that matter
 * pick a format for a given workload

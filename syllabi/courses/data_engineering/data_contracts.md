@@ -41,18 +41,21 @@ contracts into an organization and operate them without slowing the team down.
 16 hours / 2 days
 
 ## Intended Audience
+
 * data engineers introducing contracts to their pipelines
 * senior developers producing data that another team consumes
 * architects designing data interfaces
 * data architects rolling out data mesh
 
 ## Prerequisites
+
 * working data-engineering experience
 * exposure to the Data Mesh in Practice course
 * familiarity with at least one schema-evolution system
 * basic understanding of `CI/CD`
 
 ## Objectives
+
 * explain what belongs in a data contract
 * express a contract in a chosen language
 * enforce contracts on the producer side

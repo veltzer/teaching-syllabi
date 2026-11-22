@@ -36,18 +36,21 @@ detections, run productive hunts, and contribute to a defensive program rather t
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers building or tuning detections
 * `SOC` analysts moving up into detection engineering or threat hunting
 * developers and `SREs` cross-training into defensive security
 * security architects designing detection and hunting programs
 
 ## Prerequisites
+
 * working knowledge of `Linux` and `Windows` system internals at the user level
 * basic familiarity with networking (`TCP`/`IP`, `DNS`, `HTTP`)
 * exposure to at least one `SIEM` or log aggregation platform
 * basic scripting in `Python` or `PowerShell`
 
 ## Objectives
+
 * describe the threat landscape using the `MITRE ATT&CK` framework
 * enumerate and reason about the data sources defenders rely on
 * write detections that are actionable, maintainable and reviewed

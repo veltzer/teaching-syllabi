@@ -24,17 +24,20 @@ This course provides a comprehensive exploration of `AI` and `machine learning` 
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers looking to integrate `AI` and `ML` capabilities into cloud applications
 * Data scientists seeking to leverage `GCP` managed `ML` services
 * Engineers interested in deploying and managing `ML` models at scale
 
 ## Prerequisites
+
 * Basic understanding of `GCP` core services
 * Familiarity with `Python` programming
 * Basic knowledge of `machine learning` concepts
 * Experience with `SQL` and data manipulation
 
 ## Objectives
+
 * Understand the `Google Cloud` `AI` and `ML` service landscape
 * Build and train custom models using `Vertex AI`
 * Use `AutoML` to create models without extensive `ML` expertise

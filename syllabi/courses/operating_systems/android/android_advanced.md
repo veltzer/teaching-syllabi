@@ -25,18 +25,22 @@ This course provides an in-depth exploration of the `Android` platform across al
 16 hours / 2 days
 
 ## Intended Audience
+
 * mobile application developers
 * software engineers interested in `Android` development
 
 ## Prerequisites
+
 * working experience with `android``
 * experience with `Java` programming
 * familiarity with object-oriented programming
 
 ## Required Knowledge
+
 * `Java` Programming (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Android`` Advanced
 * gain practical knowledge of `Android`` platform overview
 * gain practical knowledge of Exploring your `Android` device
@@ -169,6 +173,7 @@ This course provides an in-depth exploration of the `Android` platform across al
     * exercise: writing your own native service and adding it to the `android` platform.
 
 ## Notes
+
 * I am not sure that all of these topics are necessary. Remove any you do not really need.
 I think that you guys will be most interested in the HAL layer but I really don't know.
 * The course has 3 parts: `Java`, native and kernel each with it's own pre-requisites.

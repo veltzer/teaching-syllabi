@@ -26,20 +26,24 @@ The course bridges theory and practice, covering everything from basic class des
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers seeking a `solid` `OOP` foundation
 * Developers transitioning from procedural to object-oriented programming
 * Testers who need to understand object-oriented codebases
 * Programmers preparing for `design patterns` study
 
 ## Prerequisites
+
 * Proficiency in at least one programming language
 * Basic understanding of functions, variables, and control flow
 * Familiarity with either `Python` or `Java` is helpful but not required
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the core principles of object-oriented programming
 * Design classes with proper encapsulation and clear interfaces
 * Apply inheritance and polymorphism effectively

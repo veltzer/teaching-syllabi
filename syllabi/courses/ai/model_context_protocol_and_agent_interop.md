@@ -43,18 +43,21 @@ agent-interop choices.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `ML` engineers building agent-tool integrations
 * senior developers exposing systems to `LLMs`
 * developers integrating `MCP` servers into their products
 * architects evaluating agent-interop standards
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * exposure to the `LLM Application Engineering` course
 * working knowledge of `Python` or `TypeScript`
 * familiarity with `JSON-RPC` is helpful
 
 ## Objectives
+
 * explain the `MCP` architecture and its primitives
 * build an `MCP` server in `Python` or `TypeScript`
 * integrate an `MCP` server into a host

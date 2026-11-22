@@ -39,17 +39,20 @@ the consumer side correctly, and operate a `CDC` pipeline that does not break th
 24 hours / 3 days
 
 ## Intended Audience
+
 * data engineers building integration pipelines from operational databases
 * senior developers introducing `CDC` into a production system
 * architects designing event-driven systems on top of relational data
 * platform engineers running `CDC` as a paved-road service
 
 ## Prerequisites
+
 * working knowledge of at least one relational database
 * familiarity with `Kafka` or a comparable message system
 * exposure to the Streaming Data Systems course is helpful
 
 ## Objectives
+
 * choose between log-based, query-based, and trigger-based `CDC`
 * operate `Debezium` against a production database safely
 * handle schema evolution end-to-end

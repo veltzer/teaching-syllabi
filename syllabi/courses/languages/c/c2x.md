@@ -26,10 +26,12 @@ This course covers the `C2x` standard (formally C23), the latest major revision 
 C developers who want to understand and adopt the newest features and improvements introduced in the `C2x` (C23) standard.
 
 ## Prerequisites
+
 * `Solid` working knowledge of C programming.
 * Familiarity with C11 and `C17` features is recommended.
 
 ## Objectives
+
 * understand the core concepts and principles of `C2x`
 * gain practical knowledge of Overview of `C2x` and its goals
 * gain practical knowledge of New language features: `typeof`, auto, `constexpr`, `nullptr`, `bool` as keyword
@@ -51,6 +53,7 @@ C developers who want to understand and adopt the newest features and improvemen
 * Compiler support for `C2x` in `GCC` and `Clang`
 
 ## References
+
 * [`C2x` at Wikipedia](https://en.wikipedia.org/wiki/C2x)
 
 ## Copyright

@@ -43,18 +43,21 @@ a `Kubernetes` multi-tenancy strategy.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers running shared `Kubernetes` clusters
 * security engineers reviewing tenant isolation
 * architects designing internal `PaaS`
 * senior developers building multi-tenant `SaaS` on `Kubernetes`
 
 ## Prerequisites
+
 * `solid` `Kubernetes` knowledge
 * exposure to `Kubernetes Security` and the Container and `Kubernetes` Security course
 * familiarity with at least one cluster operator
 * basic understanding of `Linux` namespaces and `cgroups`
 
 ## Objectives
+
 * explain the multi-tenancy models and pick one
 * design namespace-as-tenant correctly
 * enforce network and pod-security boundaries

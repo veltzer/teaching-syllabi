@@ -24,19 +24,23 @@ This course provides a deep dive into advanced C programming techniques for deve
 24 hours / 3 days
 
 ## Intended Audience
+
 * Experienced C developers seeking mastery of advanced language features
 * Embedded and firmware engineers writing low-level systems code
 * Systems programmers working on performance-critical applications
 
 ## Prerequisites
+
 * `Solid` working experience with C programming
 * Familiarity with basic pointer usage and memory concepts
 * Experience with a `Unix`/`Linux` development environment
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Master pointer arithmetic, `void-pointers`, and function pointers for flexible `API` design
 * Implement robust memory management strategies using `malloc`, `calloc`, `realloc`, and free
 * Write efficient bit manipulation code for hardware interaction and data packing

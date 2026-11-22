@@ -23,6 +23,7 @@ This course provides a comprehensive guide to building full-featured web applica
 32 hours / 4 days
 
 ## Intended Audience
+
 * `Python` developers looking to build full-stack web applications
 * Backend developers transitioning from other web frameworks to `Django`
 * Full-stack developers who want to leverage `Django` for rapid development
@@ -30,6 +31,7 @@ This course provides a comprehensive guide to building full-featured web applica
 * `DevOps` engineers deploying and maintaining `Django` applications
 
 ## Prerequisites
+
 * Intermediate proficiency in `Python` programming (functions, classes, modules)
 * Basic understanding of `HTTP` protocol and web development concepts
 * Familiarity with `HTML`, `CSS`, and basic `JavaScript`
@@ -38,10 +40,12 @@ This course provides a comprehensive guide to building full-featured web applica
 * Experience with `Python` package management (pip, virtual environments)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `Django` architecture and the MTV design pattern
 * Set up and configure `Django` projects and applications
 * Build dynamic web pages using the `Django` template language with inheritance and filters

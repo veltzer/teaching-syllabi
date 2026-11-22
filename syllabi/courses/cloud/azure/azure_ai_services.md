@@ -24,16 +24,19 @@ This course provides a comprehensive overview of artificial intelligence and `ma
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building `AI`-powered applications on `Azure`
 * Data scientists deploying models on `Azure` infrastructure
 
 ## Prerequisites
+
 * Basic understanding of `Azure` services and the `Azure` portal
 * Programming experience in `Python`
 * Familiarity with basic `machine learning` concepts
 * Understanding of `REST` APIs and `JSON`
 
 ## Objectives
+
 * Build generative `AI` applications using `Azure OpenAI Service`
 * Train and deploy `machine learning` models with `Azure Machine Learning`
 * Integrate `Azure Cognitive Services` for vision, speech, and language capabilities

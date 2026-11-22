@@ -28,14 +28,17 @@ JIT compilation internals, and rigorous benchmarking methodologies.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Experienced `Java` developers who want to optimize application performance.
 * Performance engineers responsible for tuning `Java` applications in production.
 
 ## Prerequisites
+
 * `Solid` experience programming in `Java`.
 * Familiarity with `JVM` basics and command-line tools.
 
 ## Objectives
+
 * Participants will gain a deep understanding of
     * `JVM` architecture and how it affects performance.
     * Garbage collection algorithms and how to tune them.

@@ -26,10 +26,12 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
 32 hours / 4 days
 
 ## Intended Audience
+
 * software developers building intelligent agents and decision systems
 * data scientists exploring reinforcement learning techniques
 
 ## Prerequisites
+
 * Strong proficiency in `Python` programming
 * `Solid` understanding of `machine learning` fundamentals (supervised learning, neural networks)
 * Knowledge of probability and statistics
@@ -37,9 +39,11 @@ A2C, and model-based RL, with applications in robotics, games, and recommendatio
 * Basic calculus and linear algebra
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Formulate sequential decision problems** as Markov Decision Processes with states, actions, and rewards
 * **Implement value-based methods** including dynamic programming, Monte Carlo, TD learning, and Q-learning
 * **Build Deep Q-Networks** with experience replay, target networks, and advanced DQN variants

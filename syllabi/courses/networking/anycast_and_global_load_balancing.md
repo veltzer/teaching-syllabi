@@ -41,18 +41,21 @@ operate global routing for a service that serves users in more than one region.
 16 hours / 2 days
 
 ## Intended Audience
+
 * network engineers operating global services
 * senior developers shipping a service to multiple regions
 * architects designing edge-routing
 * `DevOps` engineers running `CDN` and global load balancers
 
 ## Prerequisites
+
 * `solid` `TCP/IP` knowledge
 * exposure to the Load Balancing in Depth course
 * familiarity with `DNS`
 * basic understanding of `BGP`
 
 ## Objectives
+
 * explain anycast and the role of `BGP`
 * design an anycast service deployment
 * compare global load balancers across major clouds

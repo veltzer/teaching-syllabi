@@ -25,14 +25,17 @@ and `NoSQL` paradigms. Students will gain practical experience with both `MySQL`
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who need to work with databases in their applications
 * `DevOps` engineers who need to manage and maintain database infrastructure
 
 ## Prerequisites
+
 * Basic programming experience in any language
 * Familiarity with the command line
 
 ## Objectives
+
 * Understand fundamental database concepts and terminology
 * Write `SQL` queries to create, read, update, and delete data
 * Install, configure, and perform basic administration of `MySQL`

@@ -36,6 +36,7 @@ and how to audit what is on the system.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Linux` users who want to understand where their software comes from.
 * sysadmins who maintain `Linux` machines, fleets or images.
 * `devops` engineers who build base images, `CI` pipelines or installation scripts.
@@ -43,11 +44,13 @@ and how to audit what is on the system.
 * anyone who has ever been confused about whether to install something with `apt`, pip, `snap`, or from `GitHub`.
 
 ## Prerequisites
+
 * Familiarity with the `Linux` command line.
 * Basic `Linux` filesystem knowledge (`/usr`, `/etc`, `/var`, `$HOME`).
 * Comfort editing text files and running commands as `root` or via `sudo`.
 
 ## Objectives
+
 * understand the model of a package manager and the problems it solves
 * gain practical knowledge of the `Debian` family tools (`dpkg`, `apt`)
 * gain practical knowledge of the `Red Hat` family tools (`rpm`, `yum`, `dnf`)

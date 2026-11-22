@@ -23,6 +23,7 @@ Network security is a critical discipline in today's interconnected world, where
 24 hours / 3 days
 
 ## Intended Audience
+
 * Security professionals responsible for protecting network infrastructure
 * System administrators managing firewalls, VPNs, and network devices
 * Network engineers transitioning to security-focused roles
@@ -30,6 +31,7 @@ Network security is a critical discipline in today's interconnected world, where
 * `DevOps` engineers implementing network security in cloud environments
 
 ## Prerequisites
+
 * `Solid` understanding of `TCP`/`IP` networking fundamentals
 * Familiarity with `Linux` and `Windows` command-line tools
 * Basic understanding of network protocols (`HTTP`, `DNS`, `DHCP`)
@@ -37,9 +39,11 @@ Network security is a critical discipline in today's interconnected world, where
 * Understanding of basic cryptographic concepts is helpful
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `TCP`/`IP` security vulnerabilities and attack vectors
 * Configure and manage firewalls including next-generation firewalls
 * Deploy and manage `VPN` technologies (`IPSec`, `WireGuard`, `OpenVPN`)

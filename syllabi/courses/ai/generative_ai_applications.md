@@ -27,15 +27,19 @@ and Safety. Generative `AI` applications
 40 hours / 5 days
 
 ## Intended Audience
+
 * `Machine Learning` practitioners
 
 ## Prerequisites
+
 * `Python` programming
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Generative `AI` applications
 * gain practical knowledge of An overview of Generative ```AI``
 * gain practical knowledge of APIs` of generative models

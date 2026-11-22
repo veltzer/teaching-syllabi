@@ -24,12 +24,14 @@ This course provides a comprehensive introduction to programming and testing mic
 32 hours / 4 days
 
 ## Intended Audience
+
 * Software developers transitioning to embedded systems
 * Hardware engineers who need to write firmware
 * Students pursuing embedded systems development
 * Engineers working on IoT devices
 
 ## Prerequisites
+
 * C programming (mandatory)
 * Basic understanding of digital logic
 * Familiarity with binary and hexadecimal number systems
@@ -37,6 +39,7 @@ This course provides a comprehensive introduction to programming and testing mic
 * Understanding of computer architecture is helpful
 
 ## Objectives
+
 * understand the core concepts and principles of Basics of Micro-controller Programming and Testing
 * gain practical knowledge of Introduction to Microcontrollers
 * gain practical knowledge of Development Environment Setup

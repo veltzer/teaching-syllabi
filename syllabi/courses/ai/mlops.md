@@ -28,10 +28,12 @@ and scalable `ML` pipelines.
 32 hours / 4 days
 
 ## Intended Audience
+
 * software developers building `ML`-powered systems
 * data scientists transitioning models from research to production
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `machine learning` workflows (training, evaluation, deployment)
 * Familiarity with `Docker` and containerization concepts
@@ -39,10 +41,12 @@ and scalable `ML` pipelines.
 * Basic knowledge of `CI/CD` concepts
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Implement experiment tracking and reproducibility** using `MLflow` and `Weights & Biases` for model development workflows
 * **Version datasets and manage features** using DVC and feature store patterns for consistent training and serving
 * **Package and serve models** using TorchServe, `TensorFlow Serving`, and Triton with containerized deployments

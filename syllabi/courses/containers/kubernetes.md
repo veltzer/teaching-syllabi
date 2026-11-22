@@ -33,22 +33,26 @@ and manage production-grade `Kubernetes` environments.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who want to deploy and manage their applications on `Kubernetes`.
 * System administrators and infrastructure engineers adopting `Kubernetes`.
 * `DevOps` engineers building and maintaining `Kubernetes`-based platforms.
 * Anyone with basic container knowledge who wants to learn container orchestration.
 
 ## Prerequisites
+
 * Working knowledge of `Docker` and containerization concepts.
 * Familiarity with the `Linux` command line.
 * Basic understanding of networking (`TCP`/`IP`, `DNS`, `HTTP`).
 * Some experience with `YAML` syntax.
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `Kubernetes` architecture and its core components
 * Deploy and manage applications using pods, deployments, and ReplicaSets
 * Configure service discovery and load balancing with `Kubernetes` services

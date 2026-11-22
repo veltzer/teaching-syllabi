@@ -22,14 +22,17 @@ Go is a statically typed, compiled language designed at Google for simplicity, r
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers learning Go for backend services or systems programming
 * Developers coming from `Python`, `Java`, C, or other languages
 * Teams adopting Go for `microservices` or cloud-native development
 
 ## Prerequisites
+
 * Programming experience in any language
 
 ## Objectives
+
 * Write idiomatic Go code
 * Understand Go's concurrency model with goroutines and channels
 * Build and test Go applications

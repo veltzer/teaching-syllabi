@@ -32,14 +32,17 @@ optimization strategies.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers and data scientists who want to build and manage data solutions on the Snowflake cloud data platform
 
 ## Prerequisites
+
 * `Solid` understanding of `SQL`
 * Basic knowledge of data warehousing concepts
 * Familiarity with `cloud computing` fundamentals
 
 ## Objectives
+
 * Understand Snowflake's unique architecture and how it differs from traditional data warehouses
 * Create and manage databases, schemas, and tables effectively
 * Load data into Snowflake using various methods including `COPY INTO` and Snowpipe

@@ -43,18 +43,21 @@ production debugging walkthroughs. Participants leave able to deploy and exploit
 24 hours / 3 days
 
 ## Intended Audience
+
 * senior developers instrumenting services
 * `DevOps` and `SREs` operating the tracing stack
 * performance engineers using traces for analysis
 * developers debugging tail-latency incidents
 
 ## Prerequisites
+
 * working experience with at least one distributed system
 * exposure to the `OpenTelemetry` Deep Dive course
 * familiarity with at least one observability stack
 * basic understanding of `HTTP` and `gRPC`
 
 ## Objectives
+
 * explain the span model and the trace structure
 * propagate context across all boundaries
 * instrument with `OpenTelemetry` in at least one language

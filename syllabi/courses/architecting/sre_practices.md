@@ -26,19 +26,23 @@ This two day course covers the core practices of Site Reliability Engineering as
 16 hours / 2 days
 
 ## Intended Audience
+
 * Site reliability engineers and platform engineers
 * `DevOps` engineers adopting SRE principles
 * Development team leads responsible for service reliability
 
 ## Prerequisites
+
 * Experience operating production systems
 * Basic understanding of monitoring and alerting
 * Familiarity with `Linux` system administration
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Define meaningful SLIs, SLOs, and SLAs for services.
 * Implement and manage error budget policies.
 * Identify and systematically reduce toil.

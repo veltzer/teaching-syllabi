@@ -29,19 +29,23 @@ The course includes hands on exercises.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Scientists and engineers who need to write high-performance numerical code.
 * Developers maintaining or extending existing `Fortran` codebases.
 * HPC practitioners looking to leverage modern `Fortran` features.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as C, `Python`, or `MATLAB`.
 * Basic understanding of linear algebra and numerical concepts.
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Write `clean`, modern `Fortran` code using current standards
 * Use arrays and `array` operations effectively for numerical computation
 * Create modular programs with procedures, modules, and derived types

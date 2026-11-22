@@ -23,12 +23,14 @@ audience:
 24 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers building `microservices` and distributed systems
 * Software engineers designing inter-service communication
 * Platform engineers evaluating RPC frameworks
 * Full-stack developers working with `API` layers
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (Go, `Python`, `Java`, `C++`, or `C#`)
 * Understanding of client-server architecture and networking fundamentals
 * Familiarity with `REST APIs` and `HTTP` protocol
@@ -36,9 +38,11 @@ audience:
 * Command-line experience
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `gRPC` fundamentals and the role of `HTTP`/2 and `Protocol Buffers`
 * Define services and messages using `protobuf` syntax
 * Implement unary, server streaming, client streaming, and bidirectional streaming RPCs

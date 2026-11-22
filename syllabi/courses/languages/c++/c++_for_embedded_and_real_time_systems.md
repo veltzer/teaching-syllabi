@@ -38,10 +38,12 @@ as they believe it poses too great an overhead. This course will clearly demonst
 strengths and weaknesses of `C++` versus C.
 
 ## Prerequisites
+
 * Delegates should have a working knowledge of C and `C++` basics, and some knowledge of
 Embedded/Real Time programming.
 
 ## Objectives
+
 * The core `C++` syntax and semantics.
 * Object Oriented Advantages, and Principles
 * How to write safe, efficient `C++` code

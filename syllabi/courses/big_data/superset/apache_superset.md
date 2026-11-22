@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data analysts and business intelligence professionals
 * Data engineers building self-service analytics platforms
 * Software developers creating data-driven applications
@@ -33,6 +34,7 @@ audience:
 * `DevOps` engineers deploying and maintaining Superset
 
 ## Prerequisites
+
 * Basic knowledge of `SQL`
 * Understanding of relational database concepts
 * Familiarity with web browsers and web application usage
@@ -40,9 +42,11 @@ audience:
 * Optional: experience with `Docker` for deployment topics
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and configure `Apache Superset` for development and production
 * Connect Superset to various databases (`PostgreSQL`, `MySQL`, `ClickHouse`, `BigQuery`, Snowflake)
 * Write and execute queries in `SQL Lab`

@@ -42,18 +42,21 @@ result.
 24 hours / 3 days
 
 ## Intended Audience
+
 * architects deciding whether to `go` multi-region
 * senior developers building multi-region services
 * platform engineers operating multi-region infrastructure
 * tech leads accountable for `RTO` and `RPO`
 
 ## Prerequisites
+
 * `solid` distributed systems background
 * exposure to the Distributed Systems Tradeoffs course
 * working experience with at least one cloud provider
 * familiarity with the Disaster Recovery course is helpful
 
 ## Objectives
+
 * decide whether multi-region is justified for the system at hand
 * choose the right topology for the workload
 * design the data layer for the chosen topology

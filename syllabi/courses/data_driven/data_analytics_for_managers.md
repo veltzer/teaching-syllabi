@@ -22,6 +22,7 @@ As time passes organizations have either the ability to collect large amounts of
 32 hours / 4 days
 
 ## Intended Audience
+
 * Managers who wish to utilize the data of their product and organization to advance either products, revenue or business goals.
 * `Top` managers who wish to understand the data driven/analytical approach to better understand how to utilize these in their
 organization.
@@ -30,6 +31,7 @@ organization.
 ## Prerequisites
 
 Any of the following:
+
 * Experience in product management is a plus
 * Experience in project management is a plus
 * Experience in team leading is a plus
@@ -40,6 +42,7 @@ Any of the following:
 * Experience with the big data ecosystem of tools is a plus
 
 ## Objectives
+
 * Get acquainted with real world case studies of data analysis in various fields like marketing, product improvement, management and more
 * Learn about the problems of collecting data in organizations and ways of overcoming those problems.
 * Raise awareness of the important of data collection and analysis in organization and how to set it as a goal and measure it's success.

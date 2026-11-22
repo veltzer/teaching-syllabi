@@ -28,19 +28,23 @@ like RLHF and DPO, and practical deployment considerations.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working with `AI` and NLP
 * data scientists building `LLM`-powered applications
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `machine learning` concepts
 * Familiarity with neural networks and `deep learning` fundamentals
 * Experience with `PyTorch` or `TensorFlow` is recommended
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Understand the architecture** of large language models including transformer blocks, self-attention, and tokenization
 * **Apply prompt engineering techniques** including zero-shot, few-shot, chain-of-thought, and `ReAct` patterns to solve diverse tasks
 * **Fine-tune `LLMs`** using full fine-tuning and parameter-efficient methods (`LoRA`, QLoRA, PEFT) with `Hugging Face Transformers`

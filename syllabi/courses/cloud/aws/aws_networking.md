@@ -24,16 +24,19 @@ This course provides an in-depth exploration of networking services and architec
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building distributed applications that require advanced networking on `AWS`.
 * System administrators responsible for `AWS` network infrastructure.
 * Architects designing multi-region and hybrid cloud network architectures.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `VPC`, `IAM`).
 * `Solid` understanding of `TCP`/`IP` networking, `DNS`, and routing fundamentals.
 * Familiarity with the `AWS` Management Console and `CLI`.
 
 ## Objectives
+
 * Design and implement complex `VPC` architectures with multiple subnets and route tables.
 * Configure hybrid connectivity using `Direct Connect` and `VPN`.
 * Implement advanced load balancing and traffic distribution strategies.

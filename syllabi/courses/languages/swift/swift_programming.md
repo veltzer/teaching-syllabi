@@ -24,20 +24,24 @@ This course covers the Swift language from the ground up, including its type sys
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers who want to build `iOS` and `macOS` applications
 * Programmers transitioning from other languages to the Apple ecosystem
 * Mobile developers looking to learn native Apple platform development
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Java`, `Python`, `C#`, or `JavaScript`
 * Basic understanding of object-oriented programming concepts
 * Access to a Mac with `Xcode` installed
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand Swift syntax, type system, and core language features
 * Write safe and expressive code using optionals and error handling
 * Apply object-oriented and protocol-oriented programming techniques

@@ -36,6 +36,7 @@ problem and to understand new techniques as they emerge.
 64 hours / 8 days
 
 ## Intended Audience
+
 * software developers building text-driven applications
 * data scientists working with textual data
 * `machine learning` engineers extending models to new domains
@@ -43,6 +44,7 @@ problem and to understand new techniques as they emerge.
 * researchers seeking a structured overview of the field
 
 ## Prerequisites
+
 * `solid` programming experience in any modern language
 * basic linear algebra (vectors, matrices, `dot` products)
 * basic probability and statistics
@@ -50,10 +52,12 @@ problem and to understand new techniques as they emerge.
 * exposure to `deep learning` concepts is helpful but not required
 
 ## Required Knowledge
+
 * `Machine Learning` Fundamentals (or equivalent experience)
 * Basic Linear Algebra and Probability (or equivalent experience)
 
 ## Objectives
+
 * understand the linguistic and statistical foundations that `make` text processing distinctive
 * apply tokenization, morphological analysis, and normalization to diverse languages and scripts
 * build and evaluate language models from `n`-grams through transformers

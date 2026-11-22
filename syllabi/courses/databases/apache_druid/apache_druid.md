@@ -26,6 +26,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data engineers building real-time analytics pipelines
 * Backend developers powering user-facing analytics and dashboards
 * Data platform architects evaluating OLAP stores for sub-second query requirements
@@ -33,12 +34,14 @@ audience:
 * DBAs and operations staff managing large-scale Druid deployments
 
 ## Prerequisites
+
 * Familiarity with `SQL` and relational database concepts
 * Basic understanding of distributed systems and big data concepts
 * Experience with at least one of `Kafka`, `Spark`, or `Hadoop` is helpful
 * Basic `Linux` system administration skills
 
 ## Objectives
+
 * Understand Druid's architecture and how it delivers sub-second analytical queries
 * Ingest data from batch files and streaming sources including `Kafka`
 * Model data in Druid using dimensions, metrics, and timestamp columns effectively

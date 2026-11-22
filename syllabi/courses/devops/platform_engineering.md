@@ -30,11 +30,13 @@ This course covers the discipline of platform engineering, focusing on building 
 `DevOps` engineers, platform engineers, software architects, and engineering leaders who are responsible for building or improving internal developer platforms and tooling.
 
 ## Prerequisites
+
 * Experience with `DevOps` practices and `CI/CD` pipelines
 * Familiarity with cloud infrastructure and containerization
 * Basic understanding of `microservices` architecture
 
 ## Objectives
+
 * Understand the principles and goals of platform engineering
 * Design golden paths that accelerate developer workflows
 * Build and configure a developer portal using Backstage

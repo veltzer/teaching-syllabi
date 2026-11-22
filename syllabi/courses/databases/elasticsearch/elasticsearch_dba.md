@@ -28,10 +28,12 @@ This course provides comprehensive training for database and system administrato
 The course focuses on `Elasticsearch` version 9.x and covers both self-managed and `Elastic Cloud` deployment models.
 
 ## Duration
+
 * Short: 24 hours / 3 days
 * Long: 40 hours / 5 days
 
 ## Intended Audience
+
 * Database administrators expanding into search and analytics platforms
 * System administrators responsible for `Elasticsearch` infrastructure
 * `DevOps` engineers managing `Elasticsearch` in production
@@ -40,6 +42,7 @@ The course focuses on `Elasticsearch` version 9.x and covers both self-managed a
 * Technical architects designing `Elasticsearch`-based solutions
 
 ## Prerequisites
+
 * Understanding of distributed systems concepts
 * Familiarity with `Linux` command line and system administration
 * Basic knowledge of `JSON` and `RESTful APIs`
@@ -47,9 +50,11 @@ The course focuses on `Elasticsearch` version 9.x and covers both self-managed a
 * Experience with any database or search system is beneficial
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Design and deploy production-ready `Elasticsearch` clusters
 * Configure and optimize `Elasticsearch` for various use cases
 * Implement comprehensive security and access control

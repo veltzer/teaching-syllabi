@@ -28,10 +28,12 @@ get started using `Terraform` and compares `Terraform` to other solution tacklin
 same problems.
 
 ## Duration
+
 * Short: 8 hours / 1 day
 * Long: 24 hours / 3 days
 
 ## Intended Audience
+
 * Aspiring `DevOps` who would like to study `Terraform` as their first `DevOps` tool.
 * `Devops` who want to start using `Terraform`
 * `Devops` who have been using `Terraform` but have not had any formal education on
@@ -40,11 +42,13 @@ how to use it correctly.
 * Any other interested party such as team leaders, managers etc.
 
 ## Prerequisites
+
 * No special experience is required.
 * Experience with any type of cloud is beneficial but not required.
 * Tech affinity is required.
 
 ## Objectives
+
 * Participants will be able to understand what the main problem that `Terraform` solves is,
 and how it compares with competing or other tools in the `DevOps` space.
 * Participants will be able to use `Terraform` to build simple architectures.

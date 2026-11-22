@@ -40,11 +40,13 @@ machine against a real codebase.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers adopting `Kiro` as their daily IDE
 * Team leads deciding how `Kiro` should be configured and shared across a team
 * Developers already using another `AI` IDE who want to transfer their workflow to `Kiro`
 
 ## Prerequisites
+
 * The Development Using `AI` course or equivalent practical experience with `AI`-assisted development
 * Familiarity with spec-driven development concepts is an advantage
 * Proficiency in at least one programming language
@@ -52,9 +54,11 @@ machine against a real codebase.
 * A working `Kiro` installation with a logged-in account
 
 ## Required Knowledge
+
 * Development Using `AI` (or equivalent experience)
 
 ## Objectives
+
 * **Set up** `Kiro` properly: accounts, pricing tiers, imported settings and model selection
 * **Choose** deliberately between vibe sessions and spec sessions, and between supervised and autopilot execution
 * **Drive** the full spec workflow in `Kiro`: requirements, design, tasks and task-by-task execution

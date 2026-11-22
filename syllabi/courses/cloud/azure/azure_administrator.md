@@ -26,21 +26,25 @@ The course balances conceptual understanding with hands-on practice, ensuring pa
 32 hours / 4 days
 
 ## Intended Audience
+
 * System administrators transitioning to cloud infrastructure
 * `DevOps` engineers working with `Azure` environments
 * Cloud architects designing `Azure` solutions
 * IT professionals preparing for the AZ-104 certification
 
 ## Prerequisites
+
 * Basic understanding of networking concepts (`IP` addressing, `DNS`, `TCP`/`IP`)
 * Experience with operating system administration (`Windows` or `Linux`)
 * Familiarity with virtualization concepts
 * Basic understanding of `PowerShell` or `Azure CLI`
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Manage `Azure Active Directory` identities and governance
 * Configure and manage `Azure` storage solutions
 * Deploy and manage `Azure` compute resources

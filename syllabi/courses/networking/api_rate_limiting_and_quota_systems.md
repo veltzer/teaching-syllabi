@@ -41,17 +41,20 @@ correct, fair, observable and survivable.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers and architects designing public or internal `APIs`
 * `DevOps` and `SRE` engineers operating rate-limited platforms
 * engineers fixing a rate-limiting incident or migrating to a better system
 * engineers designing the abuse-prevention story for an `API`
 
 ## Prerequisites
+
 * working knowledge of `HTTP`, `APIs`, and at least one cache or key-value store
 * basic familiarity with at least one cloud or `Kubernetes` environment
 * exposure to at least one production rate-limited `API` from either side
 
 ## Objectives
+
 * describe the major rate-limiting algorithms and pick the right one
 * design a distributed rate limiter with appropriate consistency and fairness
 * implement quota systems aligned to billing

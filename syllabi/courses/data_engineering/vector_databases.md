@@ -43,17 +43,20 @@ load.
 24 hours / 3 days
 
 ## Intended Audience
+
 * data engineers introducing a vector database into an organization
 * `ML` engineers building `RAG`, semantic search, or recommendation systems
 * backend engineers asked to "just add semantic search"
 * platform engineers building paved roads for `AI` applications
 
 ## Prerequisites
+
 * working knowledge of `SQL` and at least one operational database
 * basic linear algebra: dot product, cosine similarity, Euclidean distance
 * exposure to embeddings (the `LLM Application Engineering` or `RAG Applications` course is helpful)
 
 ## Objectives
+
 * explain why a vector database is necessary and when a regular database suffices
 * choose between `HNSW`, `IVF`, `IVF-PQ`, and `DiskANN` based on recall, latency, and memory budgets
 * design the embedding pipeline without skew between indexing and querying

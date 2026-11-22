@@ -25,22 +25,27 @@ This course is about the multi-core architecture, it's advantages and disadvanta
 program efficiently when running on this platform.
 
 ## Duration
+
 * 2 days for all topics.
 * 1 day for some of the topics (you can pick).
 * first four topics are a must.
 
 ## Intended Audience
+
 * Seasoned C/`C++` developers who are not familiar with this information and the techniques presented.
 * `Java` and other programming language programmers are also welcome and will benefit from the course but not as much as C/`C++` developers.
 
 ## Prerequisites
+
 * experience with C programming
 * familiarity with `Linux` command line
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Multi Core Programming
 * gain practical knowledge of Basics of scaling hardware
 * gain practical knowledge of Basics of `CPU` design (how did we get here)

@@ -24,16 +24,19 @@ This course dives deep into advanced `Git` workflows and techniques for experien
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers who use `Git` daily and want to deepen their expertise
 * Team leads responsible for branching strategies and code integration
 * `DevOps` engineers managing complex repository structures
 
 ## Prerequisites
+
 * `Solid` working knowledge of `Git` fundamentals (commit, branch, merge, push, pull).
 * Experience working with remote repositories.
 * Familiarity with command-line interfaces.
 
 ## Objectives
+
 * Master rebasing strategies including interactive rebase for `clean` commit history.
 * Use cherry-pick to selectively apply commits across branches.
 * Debug regressions efficiently using `git bisect`.

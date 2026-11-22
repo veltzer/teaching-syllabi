@@ -24,6 +24,7 @@ This course provides a comprehensive guide to modernizing legacy systems. Partic
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers working with or replacing legacy systems
 * Software architects planning modernization initiatives
 * Engineering managers responsible for modernization budgets and timelines
@@ -31,6 +32,7 @@ This course provides a comprehensive guide to modernizing legacy systems. Partic
 * Decision-makers evaluating modernization options
 
 ## Prerequisites
+
 * Several years of professional software development experience
 * Understanding of distributed systems and `microservices` concepts
 * Familiarity with common architectural patterns (layered, service-oriented)
@@ -38,6 +40,7 @@ This course provides a comprehensive guide to modernizing legacy systems. Partic
 * Basic understanding of database design and data migration concepts
 
 ## Objectives
+
 * Assess legacy systems to determine their modernization readiness and risk profile
 * Select the appropriate modernization strategy from the 7 Rs (retain, rehost, replatform, refactor, rearchitect, rebuild, replace)
 * Apply the strangler fig pattern for incremental replacement of legacy functionality

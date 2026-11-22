@@ -25,23 +25,27 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers who need to monitor and observe their applications
 * `DevOps` and SRE engineers building monitoring infrastructure
 * System administrators responsible for infrastructure health
 * Platform engineers evaluating or adopting `Datadog`
 
 ## Prerequisites
+
 * Basic understanding of `Linux` command line
 * Familiarity with web applications and distributed systems
 * Basic knowledge of monitoring concepts (metrics, logs, traces)
 * Experience with `Docker` or `Kubernetes` is helpful but not required
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * Introduction to `Kubernetes` (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and configure the `Datadog Agent` across different environments
 * Monitor infrastructure health including hosts, containers, and cloud services
 * Implement APM and distributed tracing for application performance visibility

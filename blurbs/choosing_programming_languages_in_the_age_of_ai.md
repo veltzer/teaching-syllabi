@@ -41,6 +41,7 @@ systems and tooling become verification for agent output, and how cheap rewrites
 long-term technology strategy.
 
 ## Agenda
+
 * **The Question Has Changed** (10 min): The classic criteria for choosing a language, and which of them `AI` agents weaken or overturn.
 * **What the Agent Knows** (15 min): Why agents write popular languages better than niche ones, and what that means for new, rare, and in-house languages.
 * **The Compiler as a Reviewer** (20 min): Static types and strict compilers as a first line of verification for agent output; what `TypeScript` and Rust catch that `Python` and `JavaScript` do not.
@@ -51,11 +52,13 @@ long-term technology strategy.
 * **Key Takeaways and Q&A** (10 min): A practical checklist for choosing a language for your next project.
 
 ## Takeaways
+
 * A clear understanding of how `AI` agents change the trade-offs between programming languages
 * New criteria for language selection: agent proficiency, compile-time verification, ease of review, and tooling
 * A practical framework for language choices, migrations, and long-term technology strategy
 
 ## Who Should Attend
+
 * Software architects
 * Engineering managers
 * Tech leads

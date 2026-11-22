@@ -25,18 +25,21 @@ This course teaches the principles and practices of designing large-scale, distr
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers preparing for system design discussions and interviews
 * Software architects designing scalable distributed systems
 * Technical leads making architectural decisions for growing applications
 * Engineers transitioning from single-server to distributed architectures
 
 ## Prerequisites
+
 * Several years of software development experience
 * Familiarity with web application architecture and `HTTP`
 * Basic understanding of databases and `SQL`
 * Experience with at least one backend programming language
 
 ## Objectives
+
 * Analyze functional and non-functional requirements for system design
 * Perform back-of-envelope estimations for capacity, storage, and bandwidth
 * Design systems that scale horizontally to handle millions of users

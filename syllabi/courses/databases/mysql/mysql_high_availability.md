@@ -28,21 +28,25 @@ The course provides hands-on experience with modern `MySQL` HA technologies incl
 16 hours / 2 days
 
 ## Intended Audience
+
 * Database administrators building highly available `MySQL` deployments
 * System administrators managing database infrastructure
 * `DevOps` engineers automating database failover and recovery
 * Architects designing resilient data tier solutions
 
 ## Prerequisites
+
 * Experience administering `MySQL` in production environments
 * Understanding of InnoDB storage engine fundamentals
 * Basic networking knowledge (`TCP`/`IP`, `DNS`)
 * Familiarity with `Linux` system administration
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Configure and manage asynchronous, semi-synchronous, and GTID-based replication
 * Deploy `MySQL Group Replication` for automatic failover
 * Set up `InnoDB Cluster` with `MySQL Shell` and `MySQL Router`

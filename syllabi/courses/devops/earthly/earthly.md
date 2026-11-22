@@ -28,19 +28,23 @@ compares `Earthly` with alternative build tools and approaches.
 16 hours / 1 day
 
 ## Intended Audience
+
 * developers looking for reproducible and portable build pipelines.
 * `devops` engineers seeking to simplify `CI/CD` build definitions.
 * teams dealing with complex build processes across multiple projects.
 
 ## Prerequisites
+
 * familiarity with `Docker` and `Dockerfile` syntax.
 * experience with build tools (Make, `npm`, Maven, etc.).
 * basic understanding of `CI/CD` concepts.
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand `Earthly` concepts and how it differs from traditional build tools.
 * write Earthfiles to define reproducible build pipelines.
 * leverage caching, secrets, and multi-platform builds.

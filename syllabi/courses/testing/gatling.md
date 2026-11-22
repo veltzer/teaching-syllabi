@@ -25,16 +25,19 @@ This course covers `Gatling`, a powerful open-source load testing tool built on 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers and QA engineers responsible for service performance
 * `DevOps` engineers who need to add performance gates to `CI/CD` pipelines
 * Teams running `JVM`-based systems who want a code-first load testing approach
 
 ## Prerequisites
+
 * Basic familiarity with the `JVM` ecosystem and Maven or `sbt`
 * Working knowledge of `HTTP` and `REST` APIs
 * No prior `Scala` experience is required, though basic familiarity is helpful
 
 ## Objectives
+
 * Explain `Gatling`'s architecture and advantages over thread-based load tools
 * Install `Gatling` and set up a simulation project with Maven or `sbt`
 * Write simulations using the `Gatling` DSL for scenarios and virtual users

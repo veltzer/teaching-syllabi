@@ -35,17 +35,20 @@ APIs with many consumers, and to the painful job of stabilizing a sprawling, inc
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers building or maintaining APIs that other teams or customers depend on
 * architects responsible for `API` strategy across an organization
 * platform and developer-experience teams running internal `API` programs
 * team leads coordinating client and server release cadences
 
 ## Prerequisites
+
 * `solid` working knowledge of `HTTP` and at least one `API` style (`REST`, `gRPC` or `GraphQL`)
 * basic understanding of `JSON` and `JSON Schema` or `Protobuf`
 * experience consuming or producing at least one `API` in production
 
 ## Objectives
+
 * precisely define what is and is not a breaking change for each major `API` style
 * design `API` contracts that are easy to evolve from day one
 * apply versioning strategies (`URL`, header, media type, schema-based) and judge their trade-offs

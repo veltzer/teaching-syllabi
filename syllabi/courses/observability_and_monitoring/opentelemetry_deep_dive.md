@@ -39,18 +39,21 @@ across language ecosystems, and the migration story from legacy observability st
 40 hours / 5 days
 
 ## Intended Audience
+
 * `SRE`s and platform engineers running `OpenTelemetry` infrastructure
 * senior developers leading `instrumentation` standards across multiple teams
 * observability platform team members
 * architects choosing between observability vendors and building portable strategies
 
 ## Prerequisites
+
 * practical experience with `OpenTelemetry` `SDK` in at least one language
 * working knowledge of `Kubernetes` and containerized deployments
 * familiarity with at least one observability backend (`Prometheus`, `Jaeger`, Tempo, `Datadog`, etc.)
 * basic understanding of distributed systems and `microservices`
 
 ## Objectives
+
 * explain the `OpenTelemetry` data model for traces, metrics and logs in depth
 * design `instrumentation` strategies across an organization
 * operate the `Collector` as a production system with `HA` and capacity planning

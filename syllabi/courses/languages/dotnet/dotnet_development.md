@@ -23,6 +23,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers new to the `.NET` ecosystem looking to build modern applications
 * Programmers with experience in other languages transitioning to `C#` and `.NET`
 * Software engineers who want to build web applications and APIs with `ASP.NET Core`
@@ -30,6 +31,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
 * Students and professionals seeking a `solid` foundation in `.NET` development
 
 ## Prerequisites
+
 * Basic programming experience in any language (variables, loops, functions, classes)
 * Understanding of object-oriented programming concepts
 * Familiarity with `HTTP` protocol and basic web concepts
@@ -38,6 +40,7 @@ This course provides a comprehensive introduction to modern `.NET` development w
 * A development environment with `.NET SDK` installed (or willingness to install it)
 
 ## Objectives
+
 * Understand `C#` language fundamentals including types, classes, interfaces, generics, and `LINQ`
 * Build `RESTful APIs` and web applications using `ASP.NET Core`
 * Implement data access and persistence with `Entity Framework Core`

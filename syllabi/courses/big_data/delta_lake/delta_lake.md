@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building and maintaining data pipelines
 * Software developers working with data lake architectures
 * Data scientists who need reliable and versioned data access
@@ -32,6 +33,7 @@ audience:
 * `DevOps` engineers supporting data platforms
 
 ## Prerequisites
+
 * Working knowledge of `SQL`
 * Basic understanding of `Apache Spark` and distributed computing concepts
 * Familiarity with data lake storage (`S3`, `ADLS`, `GCS`)
@@ -39,6 +41,7 @@ audience:
 * Basic command-line interface usage
 
 ## Objectives
+
 * Understand the `Delta Lake` architecture and transaction log
 * Leverage ACID transactions for reliable data lake operations
 * Use time travel for data auditing, recovery, and reproducibility

@@ -28,12 +28,14 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
 16 hours / 2 days
 
 ## Intended Audience
+
 * System administrators building highly available `Linux` infrastructure
 * `DevOps` engineers automating cluster deployments
 * Architects designing fault-tolerant systems
 * Site reliability engineers responsible for uptime and availability
 
 ## Prerequisites
+
 * Strong `Linux` system administration skills
 * Experience with `Linux` networking configuration
 * Familiarity with storage concepts (block devices, file systems)
@@ -41,6 +43,7 @@ The course provides hands-on experience with real-world HA scenarios, equipping 
 * Command line proficiency
 
 ## Objectives
+
 * Deploy and configure Pacemaker and Corosync clusters
 * Set up DRBD for replicated block-level storage
 * Implement fencing and STONITH for data protection

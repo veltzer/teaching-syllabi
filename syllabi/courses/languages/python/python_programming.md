@@ -36,6 +36,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Developers who need a flexible and multi purpose scripting language at their disposal
 * System administrators who need the powerful scripting capabilities of `Python`.
 * `DevOps` people who need `Python` for their day to day operations.
@@ -43,9 +44,11 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 * Data scientists and `Machine Learning` experts who wish to enhance their toolkits with `Python`.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as Go, `Java`, `C#` or C/`C++` is an advantage.
 
 ## Objectives
+
 * Understand how `Python` works behind the scenes
 * Write short scripts for automation and testing
 * Get the basic skills to start writing larger `Python` systems
@@ -54,6 +57,7 @@ This course deals with `Python` version 3. `Python` version 2 is not discussed.
 * Will have the basic knowledge to start developing large systems using `Python`
 
 ## Exercises
+
 * Done with `PyCharm` community on either `Windows` or `Linux` as the students need.
 
 ## Outline

@@ -25,16 +25,19 @@ This course covers the administration and governance of `GitHub` organizations. 
 16 hours / 1 day
 
 ## Intended Audience
+
 * `DevOps` engineers responsible for managing `GitHub` organizations and repositories.
 * System administrators overseeing `GitHub` infrastructure and access control.
 * Team leads managing development workflows and repository policies.
 * Security professionals implementing code security and compliance on `GitHub`.
 
 ## Prerequisites
+
 * Basic familiarity with `Git` and version control concepts.
 * Experience working in software development teams.
 
 ## Objectives
+
 * Configure and manage `GitHub` organizations, teams, and permissions.
 * Set up branch protection rules and enforce code review policies.
 * Deploy and manage Actions self-hosted runners.

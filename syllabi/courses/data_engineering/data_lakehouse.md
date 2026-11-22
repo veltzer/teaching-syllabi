@@ -27,6 +27,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers designing and building modern data platforms
 * Data architects evaluating lakehouse strategies
 * Platform engineers managing large-scale data infrastructure
@@ -34,6 +35,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * Software engineers transitioning to data-intensive applications
 
 ## Prerequisites
+
 * Understanding of data warehousing and data lake concepts
 * Familiarity with `SQL` and distributed query engines
 * Basic knowledge of `Apache Spark` and `PySpark`
@@ -42,6 +44,7 @@ The data lakehouse architecture combines the flexibility and cost-efficiency of 
 * Basic understanding of distributed systems concepts
 
 ## Objectives
+
 * Understand the lakehouse architecture and its advantages over traditional approaches
 * Compare and evaluate open table formats (`Delta Lake`, `Apache Iceberg`, `Apache Hudi`)
 * Implement ACID transactions on data lake storage

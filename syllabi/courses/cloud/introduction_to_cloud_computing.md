@@ -27,16 +27,19 @@ needs to know in today's cloud-first world.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers who want to understand cloud infrastructure and services
 * System administrators transitioning to cloud environments
 * `DevOps` engineers who need a `solid` cloud foundation
 * Managers and decision makers evaluating cloud strategies
 
 ## Prerequisites
+
 * Basic understanding of computer networking concepts
 * Familiarity with operating systems (`Linux` or `Windows`)
 
 ## Objectives
+
 * Understand what `cloud computing` is and how it evolved
 * Distinguish between the different cloud service models (`IaaS`, PaaS, `SaaS`, `FaaS`)
 * Understand cloud deployment models and when to use each

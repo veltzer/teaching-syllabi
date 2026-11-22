@@ -44,18 +44,21 @@ systems.
 16 hours / 2 days
 
 ## Intended Audience
+
 * security engineers planning a `PQ` migration
 * senior developers shipping cryptographic systems
 * architects designing systems with long-confidentiality requirements
 * developers in regulated industries facing a `PQ` deadline
 
 ## Prerequisites
+
 * exposure to the Cryptography Fundamentals course
 * familiarity with the Cryptographic Engineering course
 * basic understanding of `TLS` and `PKI`
 * working knowledge of at least one general-purpose language
 
 ## Objectives
+
 * explain the quantum threat and its real timeline
 * identify systems vulnerable to harvest-now-decrypt-later
 * pick the right `NIST` standard for a given use case

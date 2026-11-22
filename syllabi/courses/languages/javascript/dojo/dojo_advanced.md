@@ -26,13 +26,16 @@ This course covers advanced Dojo toolkit topics including custom widget developm
 Web developers with basic Dojo experience who need to build advanced widget-based applications.
 
 ## Prerequisites
+
 * Working knowledge of `JavaScript` and `HTML`/`CSS`
 * Basic experience with the Dojo toolkit
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Dojo Advanced
 * gain practical knowledge of classes in dojo, multi inheritance
 * gain practical knowledge of data handling, dojo.data, dojo.io

@@ -23,16 +23,19 @@ This course teaches `Scala` from a data engineering perspective, focusing on the
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers who need to work with `Scala`-based data processing frameworks.
 * Developers building data pipelines with `Apache Spark`.
 * Software engineers transitioning into data engineering roles using the `Scala` ecosystem.
 
 ## Prerequisites
+
 * Programming experience in `Scala`, `Java`, or another object-oriented language.
 * Basic understanding of data processing concepts.
 * Familiarity with `SQL` and relational databases.
 
 ## Objectives
+
 * Write functional `Scala` code using immutable data structures and higher-order functions
 * Use advanced `Scala` collections for data transformation
 * Apply pattern matching and implicits in practical scenarios

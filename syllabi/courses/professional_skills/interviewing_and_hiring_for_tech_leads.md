@@ -25,15 +25,18 @@ a positive candidate experience.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Engineering managers responsible for growing their teams.
 * Tech leads involved in the interview process.
 * HR partners working closely with engineering teams.
 
 ## Prerequisites
+
 * Experience working in a software development organization.
 * Basic familiarity with the software development lifecycle.
 
 ## Objectives
+
 * understand the core concepts and principles of effective technical hiring
 * gain practical knowledge of designing structured interview processes
 * gain practical knowledge of evaluating candidates fairly and consistently

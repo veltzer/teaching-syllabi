@@ -37,6 +37,7 @@ development: what each one looks like in a real codebase, why it causes failures
 concrete practice that replaces it.
 
 ## Agenda
+
 * **Why Bad Practices Spread So Fast** (10 min): How the speed and confidence of `AI` output hide problems that used to surface early.
 * **Using `AI` Without Documentation** (20 min): Agents guessing at conventions, architecture, and workflows; why missing project context produces confident but wrong code.
 * **Using `AI` Without Tests** (20 min): Why untested `AI` output cannot be trusted, how agents "fix" failing tests by weakening them, and why tests are the agent's feedback loop.
@@ -47,11 +48,13 @@ concrete practice that replaces it.
 * **Key Takeaways and Q&A** (10 min): A checklist of practices for engineering teams adopting `AI` agents.
 
 ## Takeaways
+
 * A clear picture of the most common `AI` anti-patterns and the damage each one causes
 * An understanding of why documentation, tests, and guardrails are prerequisites for reliable `AI` output
 * A practical checklist for reviewing how your team uses `AI` coding agents today
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

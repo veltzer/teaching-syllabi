@@ -37,18 +37,21 @@ custom-on-`Postgres`/`Kafka` implementations.
 40 hours / 5 days
 
 ## Intended Audience
+
 * architects designing or evaluating event-sourced systems
 * senior developers building or maintaining event-sourced applications
 * engineers migrating an existing system to `event sourcing`
 * engineers who have shipped one event-sourced system and want to do the next one better
 
 ## Prerequisites
+
 * `solid` backend development experience
 * working knowledge of at least one database and at least one message broker
 * basic familiarity with `domain-driven design`
 * exposure to event-driven architectures is helpful
 
 ## Objectives
+
 * describe `event sourcing` precisely and distinguish it from related patterns
 * design aggregates, commands and events for an event-sourced domain
 * implement and operate the write side with proper consistency guarantees

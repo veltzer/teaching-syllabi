@@ -28,11 +28,13 @@ This course teaches web development using the Rust programming language. Partici
 Rust developers who want to build web applications and `REST` APIs using modern Rust web frameworks and the async ecosystem.
 
 ## Prerequisites
+
 * `Solid` understanding of Rust fundamentals (ownership, borrowing, traits, generics)
 * Basic knowledge of `HTTP` and `REST` concepts
 * Familiarity with `SQL` and relational databases
 
 ## Objectives
+
 * Build `REST` APIs using `Actix Web` and Axum
 * Write asynchronous Rust code using `Tokio` and async/await
 * Integrate databases using SQLx and Diesel

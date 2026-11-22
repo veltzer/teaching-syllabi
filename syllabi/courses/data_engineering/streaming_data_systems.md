@@ -38,18 +38,21 @@ streaming pipelines and to choose the right engine for a given workload.
 40 hours / 5 days
 
 ## Intended Audience
+
 * data engineers building or maintaining streaming pipelines
 * backend developers integrating with streaming platforms
 * architects designing event-driven and analytical systems
 * engineers migrating workloads from batch to streaming
 
 ## Prerequisites
+
 * `solid` programming experience in `Java`/`Scala`/`Python`
 * working knowledge of at least one message broker (`Kafka`, Pulsar, `Kinesis`)
 * basic familiarity with `SQL` and one analytical store
 * basic distributed systems concepts (replication, partitioning, consensus)
 
 ## Objectives
+
 * describe the streaming data model and its trade-offs vs batch
 * reason about event time, processing time, watermarks and lateness
 * design windowed and stateful streaming computations correctly

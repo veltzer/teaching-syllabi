@@ -22,12 +22,14 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 16 hours / 1 day
 
 ## Intended Audience
+
 * Full-stack developers building real-time web applications
 * Backend developers implementing `WebSocket` servers
 * Frontend developers consuming `WebSocket` connections
 * Software engineers working on chat, collaboration, or streaming systems
 
 ## Prerequisites
+
 * Proficiency in `JavaScript` and at least one server-side language (`Node.js`, `Python`, or Go)
 * Understanding of `HTTP` protocol and client-server communication
 * Familiarity with `HTML`, `CSS`, and browser developer tools
@@ -35,11 +37,13 @@ WebSockets provide full-duplex, bidirectional communication between clients and 
 * Experience with asynchronous programming and event-driven patterns
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Understand the `WebSocket` protocol, handshake, and frame structure
 * Compare WebSockets with `HTTP` long polling and `Server-Sent Events`
 * Implement `WebSocket` clients using the browser `API`

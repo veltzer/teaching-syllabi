@@ -23,6 +23,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 24 hours / 3 days
 
 ## Intended Audience
+
 * Network engineers looking to adopt programmable networking
 * Software developers building network-aware applications
 * System administrators managing cloud and data center networks
@@ -30,6 +31,7 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 * Architects evaluating SDN solutions for their organizations
 
 ## Prerequisites
+
 * Strong understanding of `TCP`/`IP` networking and routing protocols
 * Familiarity with `Linux` networking and command-line tools
 * Basic programming experience (`Python` recommended)
@@ -37,10 +39,12 @@ Software Defined Networking (SDN) represents a fundamental shift in how networks
 * Experience with cloud platforms is helpful
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand SDN architecture and the separation of control and data planes
 * Work with OpenFlow protocol and SDN controllers
 * Design and implement overlay networks using `VXLAN`, GRE, and Geneve

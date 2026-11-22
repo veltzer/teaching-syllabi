@@ -26,20 +26,24 @@ This two day advanced course provides a comprehensive exploration of Retrieval-A
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building `LLM`-powered applications
 * Data engineers designing search and retrieval systems
 * Software architects planning `RAG`-based solutions
 
 ## Prerequisites
+
 * Strong proficiency in `Python` programming
 * Working knowledge of `LLMs` and their APIs
 * Basic understanding of NLP concepts and embeddings
 * Familiarity with basic `RAG` concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Design and implement effective chunking strategies for diverse document types.
 * Select and fine-tune embedding models for domain-specific use cases.
 * Deploy and query vector databases in production environments.

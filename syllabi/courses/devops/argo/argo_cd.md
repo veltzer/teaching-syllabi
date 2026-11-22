@@ -32,17 +32,21 @@ application deployments in `Kubernetes` clusters.
 16 hours / 2 days
 
 ## Intended Audience
+
 * System administrators
 * Developers
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes`
 * Experience with software deployment
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
+
 * Understand the theory behind `Argo CD`, what problems it solves and why it is needed.
 * Get hands on experience in deploying applications using `Argo CD`.
 * Get to know how to deal with issues of `Argo CD` and in particular rollback.

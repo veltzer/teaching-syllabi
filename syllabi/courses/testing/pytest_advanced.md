@@ -24,16 +24,19 @@ This course takes developers and QA engineers beyond the basics of `pytest` and 
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Python` developers who already use `pytest` and want to deepen their expertise
 * QA engineers responsible for building and maintaining automated test suites
 * Team leads seeking to standardize testing practices across `Python` projects
 
 ## Prerequisites
+
 * `Solid` experience writing `Python` applications
 * Familiarity with basic `pytest` usage: writing test functions, running tests, and reading output
 * Basic understanding of unit testing concepts such as arrange-act-assert
 
 ## Objectives
+
 * Recall and consolidate core `pytest` mechanics before moving to advanced topics
 * Design reusable and composable fixtures using scoping, factories, and autouse
 * Apply parameterization and property-based testing with Hypothesis to maximise coverage

@@ -23,6 +23,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 24 hours / 3 days
 
 ## Intended Audience
+
 * Senior software developers building complex business applications
 * Software architects designing service boundaries and domain models
 * Technical leads responsible for system decomposition decisions
@@ -30,6 +31,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 * Engineers working with or transitioning to `microservices` architectures
 
 ## Prerequisites
+
 * Several years of experience in software development
 * `Solid` understanding of object-oriented programming principles
 * Familiarity with common `design patterns` (factory, repository, strategy)
@@ -37,6 +39,7 @@ This course provides a thorough exploration of `Domain-Driven Design` (`DDD`) as
 * Experience with at least one web framework and database technology
 
 ## Objectives
+
 * Apply strategic `DDD` to identify bounded contexts, subdomains, and context mappings
 * Establish and maintain a ubiquitous language within development teams
 * Implement tactical `DDD` building blocks: entities, value objects, aggregates, and domain services

@@ -24,20 +24,24 @@ This course covers Ruby from the fundamentals through advanced topics such as me
 32 hours / 4 days
 
 ## Intended Audience
+
 * Software developers who want to learn Ruby for web development or scripting.
 * Programmers experienced in other languages who want to explore Ruby's expressive syntax and object model.
 * Developers interested in building web applications with `Ruby on Rails`.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Python`, `Java`, `JavaScript`, or C.
 * Understanding of basic computer science concepts.
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand Ruby syntax, type system, and core language features
 * Write idiomatic Ruby code using blocks, procs, and lambdas
 * Build object-oriented programs with classes, modules, and mixins

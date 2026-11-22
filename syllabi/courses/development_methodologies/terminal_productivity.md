@@ -22,17 +22,20 @@ This course teaches developers how to become highly productive in the terminal b
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers who spend significant time working in the terminal
 * Engineers looking to modernize their command-line tooling
 * Developers setting up new development environments
 * Anyone seeking to improve their day-to-day terminal workflow
 
 ## Prerequisites
+
 * Basic familiarity with the command line and shell usage
 * Experience navigating the file system and running commands in a terminal
 * No advanced shell scripting experience required
 
 ## Objectives
+
 * Customize shell environments using `bash`, zsh, or `fish` with modern prompt frameworks
 * Use tmux effectively for session management, window splitting, and persistent workflows
 * Replace traditional command-line tools with modern alternatives (`fzf`, `ripgrep`, fd, bat, `eza`)

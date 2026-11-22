@@ -24,12 +24,14 @@ This course provides comprehensive training on administering `Apache Cassandra` 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Database administrators managing `Cassandra` clusters
 * `DevOps` engineers responsible for `Cassandra` infrastructure
 * Site reliability engineers supporting `Cassandra` deployments
 * System administrators expanding into `NoSQL` database management
 
 ## Prerequisites
+
 * Basic understanding of `Cassandra` architecture and data model
 * Familiarity with `Linux` system administration
 * Command-line proficiency
@@ -37,9 +39,11 @@ This course provides comprehensive training on administering `Apache Cassandra` 
 * Understanding of distributed systems fundamentals
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Perform routine cluster operations including scaling and topology changes
 * Execute and manage repair processes for data consistency
 * Select and configure compaction strategies for different workloads

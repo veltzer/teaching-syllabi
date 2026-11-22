@@ -25,6 +25,7 @@ The course emphasizes practical experience with real-world analytical scenarios,
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building analytics and reporting applications
 * Data scientists working with large-scale analytical data
 * Data engineers designing data pipelines
@@ -32,15 +33,18 @@ The course emphasizes practical experience with real-world analytical scenarios,
 * Analytics engineers transitioning to `ClickHouse`
 
 ## Prerequisites
+
 * `Solid` understanding of `SQL` fundamentals
 * Basic understanding of database concepts
 * Familiarity with `Linux` command line
 * Experience with at least one programming language
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand column-oriented database concepts and `ClickHouse` architecture
 * Design efficient table schemas using appropriate engines
 * Write optimized `SQL` queries for analytical workloads

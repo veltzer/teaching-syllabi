@@ -39,6 +39,7 @@ trunk-based development on their own teams and to design the `CI` discipline tha
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers and tech leads adopting or stabilizing trunk-based development
 * `DevOps` engineers building the CI pipeline that `TBD` requires
 * engineering managers driving a workflow change
@@ -46,11 +47,13 @@ trunk-based development on their own teams and to design the `CI` discipline tha
 * engineers stuck in `GitFlow` and wondering why everything is hard
 
 ## Prerequisites
+
 * working knowledge of `Git`
 * basic familiarity with at least one `CI` system (`GitHub Actions`, `GitLab CI`, `Jenkins`, etc.)
 * some experience working on a team with a shared codebase
 
 ## Objectives
+
 * describe trunk-based development precisely and the variants that count
 * design a `CI` pipeline that makes `TBD` viable
 * apply the techniques (feature flags, branch by abstraction, expand-and-contract) that hide work in progress

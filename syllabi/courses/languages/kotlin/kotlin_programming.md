@@ -30,13 +30,16 @@ but still be fully interoperable with `Java` code.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Anyone intending to write `Android` applications in `Kotlin`.
 * Anyone who want's to expand his computer language knowledge by yet another language.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as Go, `Java`, `C#` or C/`C++` is an advantage.
 
 ## Objectives
+
 * Understand `Kotlin` syntax, type system, and core language features
 * Write object-oriented and functional `Kotlin` code with confidence
 * Leverage `Kotlin`'s null safety and interoperability with `Java`

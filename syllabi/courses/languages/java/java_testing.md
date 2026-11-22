@@ -22,17 +22,20 @@ This course covers the full spectrum of testing in the `Java` ecosystem. From `J
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who want to improve their testing skills and code quality
 * Software engineers adopting test-driven development practices
 * Team leads seeking to establish testing standards in their teams
 
 ## Prerequisites
+
 * Intermediate `Java` programming skills (classes, interfaces, generics, annotations)
 * Basic understanding of object-oriented design principles
 * Familiarity with a build tool such as Maven or `Gradle`
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
+
 * Master the `JUnit 5` architecture and its extension model
 * Write clear, maintainable unit tests with expressive assertions
 * Use `Mockito` to isolate units under test with test doubles

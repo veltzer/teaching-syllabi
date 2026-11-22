@@ -21,14 +21,17 @@ This course covers advanced C programming topics for experienced developers work
 24 hours / 3 days
 
 ## Intended Audience
+
 * C programmers
 * embedded and systems software developers
 
 ## Prerequisites
+
 * working experience with `c`
 * `solid` experience with C programming
 
 ## Objectives
+
 * understand the core concepts and principles of C Advanced
 * gain practical knowledge of Debugging using `gdb` and friends
 * gain practical knowledge of Various ways of allocation memory
@@ -134,6 +137,7 @@ This course covers advanced C programming topics for experienced developers work
     * transactional memory (new in core i7)
 
 ## References
+
 * [`C99`](https://en.wikipedia.org/wiki/C99)
 
 ## Copyright

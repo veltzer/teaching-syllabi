@@ -40,18 +40,21 @@ non-`EVM` systems where it matters.
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers expanding into `Web3` and smart contract security
 * blockchain developers wanting to ship safer contracts
 * auditors building or refining their methodology
 * engineers preparing for `Code4rena` or similar audit contests
 
 ## Prerequisites
+
 * working knowledge of Solidity or another smart-contract language
 * basic familiarity with `Ethereum` and the `EVM`
 * basic understanding of cryptographic primitives (hashes, signatures)
 * exposure to at least one general-purpose security course is helpful
 
 ## Objectives
+
 * describe the smart-contract threat model precisely
 * recognize and exploit the major vulnerability classes
 * run a complete smart-contract audit from kickoff to report

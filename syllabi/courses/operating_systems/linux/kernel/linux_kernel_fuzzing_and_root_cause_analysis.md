@@ -28,6 +28,7 @@ This advanced course is designed for security researchers, experienced penetrati
 40 hours / 5 days
 
 ## Intended Audience
+
 * Security researchers
 * Experienced penetration testers
 * Exploit developers
@@ -35,6 +36,7 @@ This advanced course is designed for security researchers, experienced penetrati
 * Vulnerability researchers
 
 ## Prerequisites
+
 * Strong `Linux` and programming background
 * Understanding of operating system internals
 * Experience with C programming and `assembly` language
@@ -45,6 +47,7 @@ This advanced course is designed for security researchers, experienced penetrati
 ## Objectives
 
 Upon completion, delegates will be able to:
+
 * Set up and configure comprehensive kernel fuzzing environments
 * Implement advanced fuzzing techniques for kernel components and drivers
 * Perform systematic crash triage and root cause analysis
@@ -55,6 +58,7 @@ Upon completion, delegates will be able to:
 * Scale fuzzing campaigns for continuous security testing
 
 ## Exercises
+
 * Building custom kernel configurations for fuzzing
 * Implementing coverage-guided fuzzing campaigns
 * Crash analysis and debugging exercises
@@ -123,6 +127,7 @@ Upon completion, delegates will be able to:
     * Next steps: advanced research topics and tools
 
 ## References
+
 * [syzkaller - kernel fuzzer](https://github.com/google/syzkaller)
 * [Trinity - `Linux` system call fuzzer](https://github.com/kernelslacker/trinity)
 * [AFL - American Fuzzy Lop](https://lcamtuf.coredump.cx/afl/)

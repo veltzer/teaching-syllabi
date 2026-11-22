@@ -31,6 +31,7 @@ when to apply each technique based on system requirements and constraints.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Embedded systems developers looking to incorporate `Java` into their projects
 * `Java` developers transitioning to embedded or real-time systems development
 * Systems architects evaluating `Java` for embedded solutions
@@ -38,15 +39,18 @@ when to apply each technique based on system requirements and constraints.
 * Developers needing to integrate `Java` with native real-time components
 
 ## Prerequisites
+
 * `Solid` understanding of `Java` programming
 * Basic knowledge of `Linux` system administration
 * Familiarity with embedded systems concepts
 * Basic understanding of C/`C++` (helpful for Part 3)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Embedded ```Java``
 * gain practical knowledge of Part 1: Creating `Linux` Distributions for Embedded ```Java``
 * gain practical knowledge of Part 2: Real-Time ```Java``

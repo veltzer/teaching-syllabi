@@ -22,16 +22,19 @@ This advanced course dives deep into the most powerful features of modern `C#`, 
 24 hours / 3 days
 
 ## Intended Audience
+
 * Experienced `C#` developers who want to deepen their understanding of advanced language features.
 * Software engineers building high-performance `.NET` applications.
 * Developers who want to leverage modern `C#` patterns for production systems.
 
 ## Prerequisites
+
 * `Solid` experience with `C#` and the `.NET` ecosystem.
 * Understanding of object-oriented programming, generics, and basic `LINQ`.
 * Familiarity with async/await fundamentals.
 
 ## Objectives
+
 * Master advanced `LINQ` techniques including custom providers and expression trees
 * Write correct and efficient asynchronous code with advanced async/await patterns
 * Use `Span<T>` and `Memory<T>` for high-performance memory management

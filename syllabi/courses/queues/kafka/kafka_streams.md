@@ -24,12 +24,15 @@ The course begins with an introduction to `Kafka` and it's components. The cours
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and developer teams looking to learn to leverage `Kafka` Streams.
 
 ## Prerequisites
+
 * `Java` programming
 
 ## Objectives
+
 * Describe `Kafka` and its uses
 * Demonstrate an understanding of components such as Topics Partitions Brokers Producers `Zookeeper` Consumer and Controller by creating a personal `Kafka` development environment
 * Create producers and consumers to interact with `Kafka`

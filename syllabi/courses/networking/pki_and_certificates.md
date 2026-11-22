@@ -27,20 +27,24 @@ Public Key Infrastructure (`PKI`) underpins the security of virtually every encr
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who need to understand `TLS` configuration, certificate validation, and mutual `TLS` for their applications and services.
 * `DevOps` engineers and system administrators responsible for provisioning, renewing, and rotating certificates across infrastructure.
 * Security engineers performing `PKI` design, certificate policy authoring, and audit of `TLS` configurations.
 
 ## Prerequisites
+
 * Understanding of `TCP/IP` networking and `HTTP`/`HTTPS` basics.
 * `Linux` command-line proficiency, including working with files and running administrative commands.
 * Basic familiarity with concepts like encryption and hashing is helpful but not required — the course covers cryptographic fundamentals.
 
 ## Required Knowledge
+
 * `Linux` command-line proficiency
 * `Networking` fundamentals (`TCP/IP`, `HTTP`)
 
 ## Objectives
+
 * Explain the mathematical foundations of asymmetric cryptography relevant to `PKI`
 * Describe the structure and trust model of a Public Key Infrastructure
 * Read and interpret `X.509` certificates, extensions, and certificate chains

@@ -24,18 +24,22 @@ This advanced course takes participants beyond the basics of Zephyr RTOS into it
 24 hours / 3 days
 
 ## Intended Audience
+
 * Embedded engineers developing production firmware on Zephyr.
 * Firmware developers extending Zephyr with custom drivers and board support packages.
 
 ## Prerequisites
+
 * Experience with real-time and embedded systems concepts.
 * Familiarity with build systems and version control.
 
 ## Required Knowledge
+
 * Zephyr RTOS (intro)
 * C Programming
 
 ## Objectives
+
 * Develop custom device drivers using the Zephyr driver model.
 * Configure and optimize Zephyr power management for battery-powered devices.
 * Implement `Bluetooth` Low Energy and `Bluetooth` Mesh applications.

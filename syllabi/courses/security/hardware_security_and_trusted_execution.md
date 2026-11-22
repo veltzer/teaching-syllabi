@@ -45,18 +45,21 @@ Participants leave able to design a system that uses hardware trust deliberately
 24 hours / 3 days
 
 ## Intended Audience
+
 * security engineers designing systems with hardware-backed trust
 * senior developers shipping confidential computing or remote attestation
 * architects responsible for trust boundaries
 * embedded developers using `TPMs`, `HSMs`, or secure elements
 
 ## Prerequisites
+
 * exposure to the Cryptography Fundamentals course
 * familiarity with `PKI` and Certificates course
 * basic understanding of `Linux` boot and `UEFI`
 * working experience with at least one cloud provider helps
 
 ## Objectives
+
 * explain the hardware primitives and their differences
 * design a system that uses a `TPM`, `HSM`, or `TEE` correctly
 * implement remote attestation

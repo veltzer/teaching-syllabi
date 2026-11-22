@@ -38,17 +38,20 @@ keep costs from creeping back.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers and `SREs` whose teams are responsible for their own cloud bill
 * tech leads and architects designing systems on the cloud with a cost lens
 * `DevOps` engineers operating cloud infrastructure
 * engineers tasked with a cost-reduction initiative
 
 ## Prerequisites
+
 * working knowledge of at least one cloud provider (`AWS`, `GCP` or `Azure`)
 * basic familiarity with containers, virtual machines and `cloud storage`
 * some experience operating production workloads
 
 ## Objectives
+
 * read and reason about a cloud bill at the resource level
 * identify the high-impact waste in a typical cloud environment
 * apply rightsizing, scheduling and lifecycle tactics across compute and storage

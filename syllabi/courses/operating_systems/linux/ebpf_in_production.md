@@ -43,18 +43,21 @@ Participants leave able to write, ship, and operate `eBPF` programs in productio
 32 hours / 4 days
 
 ## Intended Audience
+
 * senior developers extending observability or networking
 * platform engineers operating `eBPF`-based infrastructure
 * `SRE` debugging production with `eBPF` tools
 * security engineers using `eBPF` for runtime defense
 
 ## Prerequisites
+
 * `solid` `Linux` knowledge (the `Linux Fundamentals` and `Linux Programming` courses)
 * working C or Go experience
 * exposure to the `Linux Networking` course is helpful
 * basic understanding of `Linux` kernel concepts
 
 ## Objectives
+
 * explain the `eBPF` execution model and the verifier
 * write `eBPF` programs in C with `libbpf` and `CO-RE`
 * use `bpftrace` for ad-hoc kernel observability

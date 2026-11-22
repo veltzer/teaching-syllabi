@@ -24,20 +24,24 @@ This course provides a comprehensive guide to `HashiCorp Nomad`, a flexible work
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers evaluating or adopting Nomad for workload orchestration
 * Infrastructure engineers managing distributed systems
 * Platform teams looking for a simpler alternative to `Kubernetes`
 
 ## Prerequisites
+
 * Familiarity with containerization concepts (`Docker` or similar).
 * Basic understanding of distributed systems.
 * Experience with `Linux` command line and HCL or `JSON` configuration.
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the Nomad architecture including servers, clients, regions, and datacenters.
 * Write and deploy job specifications using HCL.
 * Configure task drivers for containers, binaries, and batch jobs.

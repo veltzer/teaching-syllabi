@@ -37,10 +37,12 @@ The course is designed for software engineers who want to improve their use of t
 programming languages in a real time, embedded environment.
 
 ## Prerequisites
+
 * A good grasp of the fundamentals of C and/or `C++`
 * A good grasp of real time and embedded is an advantage.
 
 ## Objectives
+
 * understand the core concepts and principles of Effective Real Time Embedded C and `C++`
 * gain practical knowledge of Introduction
 * gain practical knowledge of Embedded C

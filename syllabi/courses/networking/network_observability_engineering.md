@@ -43,18 +43,21 @@ instrument and operate network observability across cloud, on-prem, and edge.
 24 hours / 3 days
 
 ## Intended Audience
+
 * network engineers extending observability
 * `DevOps` and `SREs` debugging cross-service network issues
 * senior developers operating distributed systems
 * engineers responsible for tail-latency `SLOs`
 
 ## Prerequisites
+
 * `solid` `TCP/IP` knowledge
 * exposure to the Network Troubleshooting course
 * familiarity with at least one observability stack
 * basic understanding of `Linux` networking
 
 ## Objectives
+
 * identify the canonical network observability signals
 * deploy and use `eBPF`-based network observability tools
 * capture and analyze flows in cloud environments

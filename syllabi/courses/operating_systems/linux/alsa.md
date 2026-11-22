@@ -27,19 +27,23 @@ The "Advanced `Linux` Sound Architecture (`ALSA`) Programming" course is designe
 16 hours / 2 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * C programming (for almost all sections of this course)
 * `Linux` Kernel programming (needed for the big section about writing `ALSA` drivers)
   This means *`Linux`* kernel programming. kernel programming in other
   operating systems does not count here.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `ALSA` - Advanced `Linux` Sound Architecture
 * gain practical knowledge of Introduction
 * gain practical knowledge of `ALSA` overview

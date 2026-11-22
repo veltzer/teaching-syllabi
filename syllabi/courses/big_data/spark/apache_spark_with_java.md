@@ -35,12 +35,15 @@ The course will include exercises for all the major topics explained with best p
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers who would like to start using `Spark`
 
 ## Prerequisites
+
 * `Java` programming is a must
 
 ## Objectives
+
 * Learn how to use the Dataset `API` correctly.
 * Learn and understand the MR `API`.
 * Learn how to use transformations correctly.

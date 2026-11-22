@@ -21,17 +21,20 @@ This course introduces Vim and `Neovim` as powerful, efficient text editors buil
 16 hours / 2 day
 
 ## Intended Audience
+
 * Developers looking to improve their text editing efficiency
 * Engineers who frequently work in terminal-based environments
 * Developers interested in using `Neovim` as their primary IDE
 * Anyone who wants to leverage Vim motions in their existing editor
 
 ## Prerequisites
+
 * Basic familiarity with using a terminal and command line
 * Experience with at least one programming language
 * No prior Vim experience required
 
 ## Objectives
+
 * Understand Vim's modal editing philosophy and its benefits
 * Navigate and edit text efficiently using motions, text objects, and operators
 * Use registers, macros, and advanced editing techniques for repetitive tasks

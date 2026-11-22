@@ -44,18 +44,21 @@ deliberately.
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers picking a database for a new service
 * data engineers operating a small-to-medium data store
 * `DevOps` evaluating the operational reduction
 * architects designing for spiky workloads
 
 ## Prerequisites
+
 * working experience with at least one relational or key-value database
 * exposure to the Serverless in Practice course
 * familiarity with at least one cloud provider
 * basic understanding of database connection management
 
 ## Objectives
+
 * explain what makes a database serverless
 * compute the cost of a workload on at least three serverless options
 * recognize the workloads where serverless is the right choice

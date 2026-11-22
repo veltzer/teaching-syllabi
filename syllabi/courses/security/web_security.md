@@ -27,6 +27,7 @@ Web security is critical for protecting applications, user data, and business op
 8 hours / 1 day
 
 ## Intended Audience
+
 * Web developers and software engineers
 * `DevOps` engineers and system administrators
 * Security engineers and penetration testers
@@ -35,6 +36,7 @@ Web security is critical for protecting applications, user data, and business op
 * Anyone responsible for building or maintaining web applications
 
 ## Prerequisites
+
 * Understanding of web technologies (`HTTP`/`HTTPS`, `HTML`, `CSS`, `JavaScript`)
 * Basic knowledge of server-side programming (any language)
 * Familiarity with database concepts and `SQL` queries
@@ -44,9 +46,11 @@ Web security is critical for protecting applications, user data, and business op
 * Basic command-line interface usage
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Identify and mitigate common web vulnerabilities from the `OWASP Top 10`
 * Implement secure authentication systems using `JWT` tokens and `OAuth2`
 * Apply proper encryption techniques for data protection (`AES`, `RSA`, hashing)

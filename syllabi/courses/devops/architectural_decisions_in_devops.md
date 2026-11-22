@@ -34,6 +34,7 @@ organizational context, scale, and maturity.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers and platform engineers making infrastructure and pipeline decisions.
 * Software architects who need to understand the operational implications of their designs.
 * Engineering managers and tech leads responsible for tooling and process choices.
@@ -41,11 +42,13 @@ organizational context, scale, and maturity.
 * Anyone involved in designing or evolving a software delivery organization.
 
 ## Prerequisites
+
 * Basic familiarity with software development workflows (version control, `CI/CD` concepts).
 * General understanding of `cloud computing` and containerization concepts.
 * Experience working in a team that delivers software to production.
 
 ## Objectives
+
 * understand the core concepts and principles of Architectural Decisions in ```DevOps``
 * gain practical knowledge of Decision Frameworks for ```DevOps``
 * gain practical knowledge of Source Code Management Strategy

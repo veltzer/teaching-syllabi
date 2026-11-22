@@ -41,18 +41,21 @@ that catches regressions before users do.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `ML` engineers shipping a `RAG` feature
 * senior developers maintaining a `RAG` pipeline
 * `QA` engineers extending evaluation to `RAG`
 * developers debugging weird `RAG` answers
 
 ## Prerequisites
+
 * practical experience with `RAG`
 * exposure to the `RAG Applications` or `RAG Deep Dive` course
 * familiarity with the `LLM Evaluation and Benchmarking` course
 * working knowledge of `Python`
 
 ## Objectives
+
 * decompose `RAG` failure into retrieval vs generation
 * compute retrieval metrics (`recall@k`, MRR, `nDCG`)
 * compute generation metrics (groundedness, faithfulness)

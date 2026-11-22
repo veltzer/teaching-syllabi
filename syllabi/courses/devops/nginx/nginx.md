@@ -31,18 +31,22 @@ scenarios and learn how to monitor and troubleshoot `Nginx` in production enviro
 24 hours / 2 days
 
 ## Intended Audience
+
 * Developers, system administrators, and `DevOps` engineers who deploy and manage web applications and APIs.
 * Teams looking to improve the performance, security, and reliability of their web infrastructure.
 
 ## Prerequisites
+
 * Basic understanding of `HTTP` protocol and web server concepts.
 * Familiarity with `Linux` command-line administration.
 * Basic understanding of networking concepts (`DNS`, ```TCP``/``IP```, `TLS`).
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `Nginx` architecture and its event-driven model.
 * Configure `Nginx` for serving static content and virtual hosting.
 * Set up reverse proxy and load balancing configurations.

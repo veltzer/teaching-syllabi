@@ -23,6 +23,7 @@ This course provides an in-depth exploration of reverse engineering and binary a
 40 hours / 5 days
 
 ## Intended Audience
+
 * Security researchers and analysts
 * Penetration testers and red team operators
 * Malware analysts and incident responders
@@ -30,6 +31,7 @@ This course provides an in-depth exploration of reverse engineering and binary a
 * Embedded systems engineers concerned with firmware security
 
 ## Prerequisites
+
 * `Solid` understanding of operating system concepts (processes, memory management, file systems)
 * Basic knowledge of C and `C++` programming
 * Familiarity with command-line tools on `Linux` and `Windows`
@@ -37,9 +39,11 @@ This course provides an in-depth exploration of reverse engineering and binary a
 * Basic networking knowledge
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Analyze binary formats including `ELF`, `PE`, and Mach-O structures
 * Read and interpret `x86`/`x64` `assembly` code fluently
 * Use disassemblers and decompilers such as `Ghidra`, IDA, and `Binary Ninja` effectively

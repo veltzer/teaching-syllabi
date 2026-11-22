@@ -25,21 +25,25 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers and SREs responsible for production reliability who need a comprehensive, low-friction observability solution.
 * Application developers seeking deep performance insights, code-level visibility, and fast diagnosis of regressions.
 * Platform and cloud infrastructure teams managing `Kubernetes`, cloud services, and hybrid deployments at scale.
 
 ## Prerequisites
+
 * Experience with cloud-native concepts: `Kubernetes`, containers, `microservices`.
 * Familiarity with application performance concepts: response time, throughput, error rates.
 * Basic understanding of `HTTP`, databases, and distributed architectures.
 * Exposure to `Prometheus`, `Grafana`, or similar observability tools is helpful but not required.
 
 ## Required Knowledge
+
 * `Kubernetes` fundamentals (or equivalent experience)
 * Cloud infrastructure basics
 
 ## Objectives
+
 * Navigate the `Dynatrace` platform and understand its core observability capabilities
 * Deploy `OneAgent` across hosts, containers, and `Kubernetes` clusters
 * Understand Smartscape topology and the automatic service dependency mapping

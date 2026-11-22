@@ -32,19 +32,23 @@ The short version is intended for people who are already familiar with `Python`
 and have completed the data science course.
 
 ## Duration
+
 * Short: 16 hours / 2 days
 * Long: 40 hours / 5 days
 
 ## Intended Audience
+
 * Professionals, Data Engineers, and other roles responsible for analyzing the organization's data.
 * Basic understanding of Programming concepts
 * intended for Data Analysts, Developers, Business Intelligence
 
 ## Prerequisites
+
 * experience with `Python` programming
 * For the short version: basic `Python` proficiency and `Python` Data Science training
 
 ## Objectives
+
 * understand the core concepts and principles of Practical `Machine Learning` Using `Python`
 * gain practical knowledge of `Machine Learning` Basic Concepts
 * gain practical knowledge of Data Preparation

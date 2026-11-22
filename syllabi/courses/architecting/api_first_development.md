@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software architects and technical leads defining `API` strategies
 * Backend and full-stack developers building web APIs and integrations
 * Platform and developer experience engineers managing internal `API` ecosystems
@@ -32,6 +33,7 @@ audience:
 * Teams adopting `microservices` and needing clear service boundaries
 
 ## Prerequisites
+
 * Familiarity with `REST API` concepts: `HTTP` methods, status codes, headers, and request/response bodies
 * Basic understanding of `JSON` and `YAML` formats
 * Experience with at least one programming language (e.g., `Python`, `Java`, `TypeScript`, Go)
@@ -39,9 +41,11 @@ audience:
 * Familiarity with version control using `Git`
 
 ## Required Knowledge
+
 * `REST API` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the principles and benefits of `API-First` development
 * Write complete and well-structured `OpenAPI 3.x` specifications
 * Apply `API` design best practices for resources, naming, error handling, and pagination

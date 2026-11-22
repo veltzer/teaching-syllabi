@@ -25,6 +25,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building globally distributed or highly available systems
 * Database architects evaluating distributed `SQL` for `microservices` and cloud-native platforms
 * Database administrators managing or migrating to `CockroachDB`
@@ -32,12 +33,14 @@ audience:
 * Site reliability engineers responsible for database resilience and operations
 
 ## Prerequisites
+
 * Working knowledge of `SQL` and relational database concepts
 * Familiarity with distributed systems concepts is helpful
 * Basic `Linux` command-line skills
 * Experience with `PostgreSQL` or another relational database is advantageous
 
 ## Objectives
+
 * Understand `CockroachDB`'s distributed `SQL` architecture and consensus protocol
 * Deploy single-node and multi-node `CockroachDB` clusters locally and in the cloud
 * Use `CockroachDB`'s `SQL` dialect including `PostgreSQL`-compatible extensions

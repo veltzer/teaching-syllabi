@@ -38,6 +38,7 @@ moves quickly into deep technical material.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers writing high-performance applications on `Linux`
 * system administrators and `DevOps` engineers responsible for tuning production systems
 * `SREs` who own service performance and capacity
@@ -45,12 +46,14 @@ moves quickly into deep technical material.
 * architects who need to understand the performance implications of their designs
 
 ## Prerequisites
+
 * `solid` `Linux` fundamentals and command-line proficiency
 * C/`C++` programming experience is a strong advantage
 * familiarity with operating system concepts (processes, threads, virtual memory, filesystems)
 * basic understanding of computer architecture (caches, NUMA)
 
 ## Objectives
+
 * apply a systematic performance methodology to real problems
 * use `perf`, `ftrace`, `eBPF`/bpftrace and BCC to identify bottlenecks
 * understand how the `Linux` kernel manages `CPU`, memory, `I/O` and networking

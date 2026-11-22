@@ -28,16 +28,19 @@ This course takes developers from Solidity syntax through token standards, secur
 24 hours / 3 days
 
 ## Intended Audience
+
 * Backend developers entering the blockchain and `Web3` space
 * Smart contract developers seeking a structured foundation
 * Architects designing decentralised applications (`dApps`)
 
 ## Prerequisites
+
 * Proficiency in at least one programming language such as `JavaScript`, `Python`, or `Java`
 * Basic understanding of cryptography and hashing concepts
 * Familiarity with how blockchains work at a conceptual level
 
 ## Objectives
+
 * Write and deploy Solidity smart contracts to EVM-compatible networks
 * Understand the EVM execution model and gas mechanics
 * Implement the most common token standards — ERC-20, ERC-721, ERC-1155

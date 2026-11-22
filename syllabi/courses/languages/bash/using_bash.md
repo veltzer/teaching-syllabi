@@ -26,16 +26,20 @@ as environment variables, configuration files, filesystem layout and many more.
 16 hours / 2 days
 
 ## Intended Audience
+
 * system administrators and `DevOps` engineers
 * developers who want to automate tasks using shell scripts
 
 ## Prerequisites
+
 * familiarity with the `Linux` command line
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Using ``Bash`
 * gain practical knowledge of What is a shell?
 * gain practical knowledge of Why do we need a shell?

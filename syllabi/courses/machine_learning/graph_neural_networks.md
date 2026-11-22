@@ -33,21 +33,25 @@ link prediction, graph classification, fraud detection, and recommendation.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `ML` engineers and data scientists who work with relational or graph-structured data.
 * Researchers and practitioners building models for social networks, molecules, or knowledge graphs.
 * Developers seeking to apply `deep learning` to domains where graph structure encodes important information.
 
 ## Prerequisites
+
 * Strong `Python` programming skills.
 * `Solid` understanding of `deep learning` fundamentals: feedforward networks, backpropagation, and optimisation.
 * Familiarity with `PyTorch` and tensor operations.
 * Basic linear algebra: matrix multiplication, eigenvalues, and graph Laplacians.
 
 ## Required Knowledge
+
 * `Deep Learning` fundamentals (or equivalent experience)
 * `PyTorch` (or equivalent experience)
 
 ## Objectives
+
 * Represent real-world problems as graphs and reason about their properties.
 * Understand the message-passing framework that underlies most GNN architectures.
 * Implement and train Graph Convolutional Networks and Graph Attention Networks.

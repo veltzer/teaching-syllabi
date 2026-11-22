@@ -25,6 +25,7 @@ This course is designed for data engineers and developers who have a basic under
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data engineers and developers who already have a basic understanding of `Apache Spark` and `Scala`.
 * Professionals who have some experience with `Spark` and are looking to deepen their knowledge and skills.
 * Developers who want to optimize their `Spark` applications and learn advanced techniques.
@@ -36,11 +37,13 @@ This course is designed for data engineers and developers who have a basic under
 * Anyone looking to gain expertise in performance tuning and optimization of `Spark` applications.
 
 ## Prerequisites
+
 * Basic knowledge of `Scala` programming
 * Familiarity with `Spark` core concepts and the `Scala` `Spark` `API`
 * Understanding of distributed computing principles
 
 ## Objectives
+
 * Implement advanced `Spark` optimizations and tuning techniques
 * Develop complex data processing pipelines using `Spark`
 * Apply `machine learning` algorithms at scale using `Spark MLlib`
@@ -99,6 +102,7 @@ This course is designed for data engineers and developers who have a basic under
     * Security considerations in `Spark` applications
 
 ## References
+
 * "Learning `Spark`: Lightning-Fast Data Analytics" by Jules S. Damji et al.
 * "High Performance `Spark`: Best Practices for Scaling and Optimizing `Apache Spark`" by Holden Karau and Rachel Warren
 

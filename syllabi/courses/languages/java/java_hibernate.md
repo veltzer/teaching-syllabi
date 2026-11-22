@@ -26,14 +26,17 @@ covers integration with `Spring Data JPA` and database migration strategies.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers who need to work with relational databases.
 * Backend developers building data-driven applications with `Java`.
 
 ## Prerequisites
+
 * `Solid` experience in `Java` programming.
 * Basic understanding of relational databases and `SQL`.
 
 ## Objectives
+
 * Participants will gain a thorough understanding of
     * The `JPA` specification and its relationship to Hibernate.
     * Entity mapping and relationship modeling.

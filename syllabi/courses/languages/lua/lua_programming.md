@@ -24,21 +24,25 @@ This course teaches `Lua` from the fundamentals through advanced topics includin
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who want to embed a scripting language in their applications
 * Game developers looking to use `Lua` for game scripting
 * Systems programmers who need a lightweight extension language
 * Anyone who wants to learn a fast and flexible scripting language
 
 ## Prerequisites
+
 * Prior programming experience in another language such as C, `Python`, or `JavaScript`
 * Basic understanding of programming concepts (variables, loops, functions)
 * Familiarity with C is helpful for the C `API` sections
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Write `Lua` programs using tables, functions, and closures
 * Implement object-oriented patterns with metatables
 * Use coroutines for cooperative multitasking

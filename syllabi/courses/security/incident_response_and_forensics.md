@@ -41,6 +41,7 @@ defensible rigor.
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers responding to incidents
 * `SOC` analysts moving up into incident response
 * forensics investigators expanding from one platform to multi-platform
@@ -48,12 +49,14 @@ defensible rigor.
 * engineers establishing or rebuilding their organization's `IR` capability
 
 ## Prerequisites
+
 * working knowledge of `Linux`, `Windows` and at least one cloud platform
 * basic familiarity with `TCP`/`IP` networking and `HTTP`
 * exposure to at least one `SIEM` or `EDR` platform
 * basic scripting in `Python` or `PowerShell`
 
 ## Objectives
+
 * describe the security `IR` lifecycle and operate within each phase
 * preserve evidence on `Linux`, `Windows`, cloud and `Kubernetes` hosts
 * triage malware safely

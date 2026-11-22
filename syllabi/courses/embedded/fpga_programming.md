@@ -22,21 +22,25 @@ This course provides a thorough introduction to `FPGA` programming, covering dig
 40 hours / 5 days
 
 ## Intended Audience
+
 * Embedded developers transitioning to `FPGA`-based designs
 * Hardware engineers looking to deepen their `FPGA` expertise
 * Software engineers working on hardware/software co-design projects
 * Engineers developing high-performance or real-time systems with FPGAs
 
 ## Prerequisites
+
 * `Solid` understanding of digital logic fundamentals (gates, flip-flops, combinational and sequential circuits)
 * Experience with at least one programming language (C, `C++`, or `Python`)
 * Basic understanding of computer architecture (registers, memory, buses)
 * Familiarity with binary and hexadecimal number systems
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `FPGA` architecture and how it differs from processors and ASICs
 * Design and implement digital circuits using VHDL and Verilog
 * Write simulation testbenches and verify designs before synthesis

@@ -40,6 +40,7 @@ their own workloads.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers building services that need to authenticate other services
 * `DevOps` and platform engineers operating zero trust infrastructure
 * security engineers implementing zero trust networking
@@ -47,12 +48,14 @@ their own workloads.
 * network engineers transitioning from perimeter-based to identity-based models
 
 ## Prerequisites
+
 * working knowledge of `TLS`, `PKI` and public-key cryptography
 * familiarity with `Kubernetes` and modern cloud platforms
 * basic understanding of `JWT`, `OAuth2` and `OIDC`
 * experience operating at least one production service
 
 ## Objectives
+
 * explain the zero trust model and how it differs from perimeter security
 * implement workload identity using `SPIFFE`/`SPIRE` or cloud-native equivalents
 * deploy and operate `mTLS` at scale, including rotation and bootstrapping

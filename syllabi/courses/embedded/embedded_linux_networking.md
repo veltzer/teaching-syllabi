@@ -25,19 +25,23 @@ This advanced course covers networking on embedded `Linux` platforms, from the k
 16 hours / 2 days
 
 ## Intended Audience
+
 * Embedded engineers building networked `Linux` devices.
 * Firmware developers integrating network capabilities into embedded platforms.
 * Developers working on IoT and connected device software.
 
 ## Prerequisites
+
 * `Solid` understanding of networking fundamentals (`TCP`/`IP`, sockets).
 * Experience with embedded systems development.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals
 * C Programming
 
 ## Objectives
+
 * Understand the `Linux` kernel network stack on embedded platforms.
 * Implement socket-based communication for embedded applications.
 * Configure and deploy lightweight embedded web servers.

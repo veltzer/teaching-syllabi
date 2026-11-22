@@ -28,10 +28,12 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 24 hours / 3 days
 
 ## Intended Audience
+
 * Companies already using or interested in using `Buildroot` to build their embedded `Linux` systems.
 * Embedded software engineers familiar with other embedded operating system and wish to learn about the `Linux` way of doing things.
 
 ## Prerequisites
+
 * Knowledge and practice of `UNIX` or GNU/`Linux` commands.
 * Some embedded experience (in `Linux` or other systems) is a must.
 * Kernel `Linux` programming is an advantage.
@@ -39,6 +41,7 @@ correctly, as well as it's advantages and disadvantages when compared to other t
 * Knowledge in Building `Linux` images with other tools (`Yocto`?) is an advantage.
 
 ## Objectives
+
 * Be able to understand the role and principle of an embedded `Linux` build system, and compare `Buildroot` to other tools offering similar functionality.
 * Be able to create a simple embedded `Linux` system with `Buildroot`: create a configuration, run the build, install the result on an embedded platform.
 * Be able to adjust the `Buildroot` configuration to build an embedded `Linux` system tailored to specific needs: choice of the cross compilation toolchain, management of the `Linux` kernel configuration, customization of the root filesystem contents, etc.
@@ -142,6 +145,7 @@ correctly, as well as it's advantages and disadvantages when compared to other t
     * Contributing: understanding the development process, how to submit patches
 
 ## References
+
 * [slides for this course](https://bootlin.com/doc/training/buildroot/)
 
 ## Copyright

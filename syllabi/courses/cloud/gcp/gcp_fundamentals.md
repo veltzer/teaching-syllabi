@@ -23,16 +23,19 @@ This course provides a comprehensive introduction to the `Google Cloud Platform`
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers looking to build and deploy applications on `GCP`
 * System administrators transitioning to cloud infrastructure
 * `DevOps` engineers seeking to manage cloud-based environments
 
 ## Prerequisites
+
 * Basic understanding of networking and operating systems
 * Familiarity with command-line tools
 * No prior `GCP` experience is required
 
 ## Objectives
+
 * Understand the core concepts and architecture of the `Google Cloud Platform`
 * Create and manage virtual machines using `Compute Engine`
 * Configure and use `Cloud Storage` for object storage needs

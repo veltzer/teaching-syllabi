@@ -26,16 +26,19 @@ This course provides a comprehensive overview of the `Azure DevOps` platform and
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and `DevOps` engineers adopting `Azure DevOps` for their software delivery workflow.
 * Team leads and project managers who want to manage work items and track progress with `Azure Boards`.
 * QA engineers responsible for testing strategy and test plan management.
 
 ## Prerequisites
+
 * Basic understanding of software development lifecycle concepts.
 * Familiarity with version control (e.g., `Git`).
 * Experience with `CI/CD` concepts is helpful but not required.
 
 ## Objectives
+
 * Navigate and configure `Azure DevOps` projects and organizations.
 * Manage work items, sprints, and backlogs using `Azure Boards`.
 * Use `Azure Repos` for source control with `Git`.

@@ -38,18 +38,21 @@ public work from `Anthropic`, `OpenAI`, `Google DeepMind`, `Meta`, and academic 
 40 hours / 5 days
 
 ## Intended Audience
+
 * `ML` engineers building or deploying `LLM`-powered systems
 * security engineers working on model abuse and red-teaming
 * senior engineers responsible for production `AI` quality
 * architects designing systems with `AI` components in the loop
 
 ## Prerequisites
+
 * working knowledge of `LLM` `APIs` and prompts
 * basic familiarity with `Python` and at least one `ML` framework
 * basic understanding of model training and fine-tuning concepts
 * exposure to evaluation and testing in `ML` is helpful
 
 ## Objectives
+
 * describe the alignment problem and its three sub-problems precisely
 * compare the major alignment techniques and their tradeoffs
 * design and run safety evaluations including red-team exercises

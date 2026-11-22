@@ -22,18 +22,22 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * `JavaScript` developers who want to add type safety to their code
 * Frontend and backend developers building large-scale applications
 * Developers new to `TypeScript` who want a comprehensive introduction
 
 ## Prerequisites
+
 * Basic `JavaScript` knowledge
 * Familiarity with a code editor
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `TypeScript`'s type system and how it builds on `JavaScript`
 * Write type-safe code using interfaces, generics, and utility types
 * Configure and use the `TypeScript` compiler

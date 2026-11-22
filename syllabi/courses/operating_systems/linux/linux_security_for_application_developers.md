@@ -25,15 +25,18 @@ This course is intended to introduce the participants to `Linux` security issues
 8 hours / 1 day
 
 ## Intended Audience
+
 * Experienced C application developers.
 * `Linux` programming experience is recommended by not a must.
 
 ## Prerequisites
+
 * C programming
 * `UNIX` `API` familiarity is a plus
 * If no such knowledge exists then the course could be made longer to accommodate with an intro about `UNIX`/`Linux` philosophy, command line usage, boot process and more.
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` security for application developers
 * gain practical knowledge of Basic `Linux` security
 * gain practical knowledge of C level security

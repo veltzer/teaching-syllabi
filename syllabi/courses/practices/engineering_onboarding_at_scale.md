@@ -39,17 +39,20 @@ Participants leave with the framework to build or rebuild their team's onboardin
 16 hours / 2 days
 
 ## Intended Audience
+
 * engineering managers responsible for new-hire ramp time
 * tech leads designing the onboarding for their team
 * senior developers asked to "be the buddy" and not given a playbook
 * platform engineers building paved-road developer experience
 
 ## Prerequisites
+
 * experience either being onboarded badly or onboarding others
 * familiarity with at least one developer-environment tool
 * exposure to the `Internal Documentation and DevEx` course is helpful
 
 ## Objectives
+
 * define the goal of onboarding as a measurable outcome
 * design first-day, first-week, first-month milestones
 * build a starter-task pipeline that survives team turnover

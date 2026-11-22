@@ -23,13 +23,16 @@ This course various topics related to `STL` and Boost which are commonly used in
 24 hours / 3 days
 
 ## Intended Audience
+
 * `C++` developers
 * software engineers working on performance-critical applications
 
 ## Prerequisites
+
 * experience with `C++` programming
 
 ## Objectives
+
 * understand the core concepts and principles of `C++` `STL` and ``Boost`
 * gain practical knowledge of `STL`
 * gain practical knowledge of Boost
@@ -62,6 +65,7 @@ This course various topics related to `STL` and Boost which are commonly used in
     * use Flyweight to hold the objects.
 
 ## Notes
+
 * Each topic will be expounded by examples
 
 ## Copyright

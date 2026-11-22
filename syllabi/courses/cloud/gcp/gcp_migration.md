@@ -25,18 +25,21 @@ This course provides a comprehensive guide to planning and executing migrations 
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers involved in migrating applications to `GCP`
 * System administrators managing infrastructure migration projects
 * Cloud architects designing migration strategies and landing zones
 * `DevOps` engineers automating migration workflows
 
 ## Prerequisites
+
 * Basic understanding of `GCP` core services
 * Familiarity with on-premises infrastructure concepts
 * Experience with virtual machines and containerization
 * Understanding of database and storage fundamentals
 
 ## Objectives
+
 * Develop a migration plan using the `Google Cloud Adoption Framework`
 * Assess workloads and select appropriate migration strategies
 * Migrate virtual machines using `Migrate to Virtual Machines`

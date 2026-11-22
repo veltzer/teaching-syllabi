@@ -27,16 +27,19 @@ This course takes developers from Temporal fundamentals through advanced workflo
 24 hours / 3 days
 
 ## Intended Audience
+
 * Backend developers building long-running or multi-step business processes
 * Architects designing reliable distributed systems and microservice orchestration
 * Engineers replacing fragile cron jobs, queues, or ad-hoc retry logic with durable workflows
 
 ## Prerequisites
+
 * `Solid` experience in at least one of Go, `Java`, `Python`, or `TypeScript`
 * Familiarity with distributed systems and `microservices` concepts
 * Basic understanding of message queues and async processing
 
 ## Objectives
+
 * Understand Temporal's durable execution model and how it differs from queues and schedulers
 * Write workflows and activities using the Temporal `SDK`
 * Model complex long-running processes with signals, queries, and timers

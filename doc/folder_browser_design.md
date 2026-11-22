@@ -19,6 +19,7 @@ Three approaches were considered:
 3. **Replace** - The folder browser replaces the current filter UI entirely.
 
 **Chosen: option 2 (integrated breadcrumb).** Rationale:
+
 - Least disruptive to the existing UI that already works.
 - Filters become more useful when scoped to a folder (e.g., browse to `languages`,
   then filter by level).

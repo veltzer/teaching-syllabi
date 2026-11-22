@@ -41,17 +41,20 @@ meetings.
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers wanting more focus time and fewer meetings
 * tech leads coordinating across time zones
 * engineering managers running distributed teams
 * senior developers introducing async habits to a sync team
 
 ## Prerequisites
+
 * working experience on a software team
 * exposure to the Effective Remote Engineering course is helpful but not required
 * familiarity with at least one chat tool and one document tool
 
 ## Objectives
+
 * recognize when work belongs sync vs async
 * run an async design review
 * run an async code review

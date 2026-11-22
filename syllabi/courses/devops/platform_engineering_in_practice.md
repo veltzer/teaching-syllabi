@@ -40,6 +40,7 @@ operate a platform that engineers actually want to use.
 40 hours / 5 days
 
 ## Intended Audience
+
 * `DevOps` and `SRE` engineers transitioning into platform roles
 * platform team members building or operating an internal platform
 * tech leads designing the platform their organization needs
@@ -47,12 +48,14 @@ operate a platform that engineers actually want to use.
 * engineers tasked with adopting a platform that already exists
 
 ## Prerequisites
+
 * `solid` `DevOps` or `SRE` experience
 * working knowledge of `Kubernetes`, at least one cloud, IaC, CI/`CD`
 * experience operating production services
 * basic familiarity with `Backstage` or another `IDP` is helpful but not required
 
 ## Objectives
+
 * describe the platform-as-product mindset and apply it
 * design golden paths that match real developer workflows
 * build and operate an internal developer platform

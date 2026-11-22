@@ -46,18 +46,21 @@ work and that fail safely.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `sysadmins` operating modern `Linux`
 * `DevOps` engineers writing service deployments
 * senior developers shipping `Linux` services
 * embedded developers using `systemd` for the system layer
 
 ## Prerequisites
+
 * `solid` `Linux` knowledge
 * exposure to the `Linux Fundamentals` course
 * working experience as either developer or `sysadmin` on a modern distribution
 * basic shell knowledge
 
 ## Objectives
+
 * explain `systemd`'s architecture and purpose
 * write a `systemd` service unit correctly
 * use `systemd` activation models (`socket`, `path`, `timer`)

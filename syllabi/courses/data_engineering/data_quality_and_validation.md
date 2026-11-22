@@ -39,6 +39,7 @@ drawn from analytical, operational and `ML` data systems.
 40 hours / 5 days
 
 ## Intended Audience
+
 * data engineers building or maintaining production pipelines
 * analytics engineers responsible for trusted data models
 * `ML` engineers whose models depend on input data quality
@@ -46,12 +47,14 @@ drawn from analytical, operational and `ML` data systems.
 * engineers responding to a "the data is wrong" incident
 
 ## Prerequisites
+
 * working knowledge of `SQL` and at least one analytical store
 * basic familiarity with at least one `ETL`/`ELT` tool
 * exposure to a workflow orchestrator (`Airflow`, `Dagster`, `Prefect`)
 * some experience operating data pipelines in production
 
 ## Objectives
+
 * enumerate the dimensions of data quality and define each precisely
 * design data contracts between producers and consumers
 * implement schema-, value- and statistical-level validation

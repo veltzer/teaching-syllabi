@@ -25,17 +25,20 @@ This course provides a comprehensive exploration of the data mesh paradigm, a de
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software and data architects evaluating decentralized data architectures
 * Data engineers building and operating data platforms
 * Technical leads overseeing data strategy and data team structures
 * Engineering managers responsible for data-related organizational decisions
 
 ## Prerequisites
+
 * Experience with data architecture and data infrastructure
 * Understanding of distributed systems concepts
 * Familiarity with data warehousing and data lake concepts
 
 ## Objectives
+
 * Articulate the four core principles of data mesh and their rationale
 * Design domain-oriented data ownership structures aligned with business domains
 * Define and build data products with clear interfaces and quality guarantees

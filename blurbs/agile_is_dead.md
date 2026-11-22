@@ -41,6 +41,7 @@ its ideas were tied to the cost of writing code, which of them `AI` makes obsole
 harmful, which ones survive, and what engineering teams should build in their place.
 
 ## Agenda
+
 * **The Provocation** (10 min): Why Agile was a brilliant answer to the problems of 2001, and why that is exactly its weakness today.
 * **What Agile Was Really Solving** (15 min): Expensive code, slow feedback, and big-batch delivery; the economic assumptions hidden in the Agile Manifesto.
 * **When Code Becomes Cheap** (20 min): `AI` agents collapse the cost of implementation; prototypes in hours, rewrites instead of refactors, and what that does to planning.
@@ -51,11 +52,13 @@ harmful, which ones survive, and what engineering teams should build in their pl
 * **Debate and Q&A** (10 min): An open challenge to the audience - defend your favorite Agile practice.
 
 ## Takeaways
+
 * A clear view of which Agile practices were tied to the cost of writing code and why `AI` undermines them
 * An understanding of the new bottlenecks in `AI`-assisted development
 * Concrete ideas for rethinking team processes, planning, and roles for the `AI` era
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads and Scrum masters
 * Product and project managers

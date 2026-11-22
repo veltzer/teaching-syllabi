@@ -26,6 +26,7 @@ audience:
 16 hours / 1 day
 
 ## Intended Audience
+
 * Data engineers building transformation layers in data warehouses
 * Analytics engineers developing data models for business intelligence
 * Data analysts seeking to adopt software engineering practices for `SQL`
@@ -33,6 +34,7 @@ audience:
 * Data platform engineers integrating `dbt` into existing pipelines
 
 ## Prerequisites
+
 * Intermediate proficiency in `SQL` (joins, aggregations, window functions, CTEs)
 * Basic understanding of data warehousing concepts
 * Familiarity with `Git` version control
@@ -41,6 +43,7 @@ audience:
 * Understanding of `ETL`/`ELT` concepts
 
 ## Objectives
+
 * Understand the `dbt` ecosystem and its role in the modern data stack
 * Build and organize `dbt` models using best practices
 * Implement data transformations with `SQL` and Jinja templating

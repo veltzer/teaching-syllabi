@@ -27,19 +27,23 @@ handling, idempotency, data validation, schema evolution, monitoring, and perfor
 16 hours / 2 days
 
 ## Intended Audience
+
 * software developers building data integration pipelines
 * data scientists who need to manage data preparation workflows
 
 ## Prerequisites
+
 * Proficiency in `Python` or `SQL`
 * Basic understanding of databases and data warehouses
 * Familiarity with `REST` APIs and file formats (`CSV`, `JSON`, `Parquet`)
 * Experience with version control (`Git`)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Design pipeline architectures** for batch, micro-batch, streaming, `lambda`, and kappa patterns
 * **Implement data extraction strategies** from APIs, databases, files, and change data capture sources
 * **Apply transformation patterns** for cleaning, enrichment, aggregation, and normalization

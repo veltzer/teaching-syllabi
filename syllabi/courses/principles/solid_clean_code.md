@@ -25,6 +25,7 @@ audience:
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers and engineers at all levels
 * Technical leads and software architects
 * Code reviewers and quality assurance engineers
@@ -33,6 +34,7 @@ audience:
 * Anyone responsible for maintaining or extending existing codebases
 
 ## Prerequisites
+
 * Proficiency in at least one object-oriented programming language (`Java`, `C#`, `Python`, `JavaScript`, `C++`)
 * Understanding of basic `OOP` concepts (classes, objects, inheritance, polymorphism)
 * Experience with writing and modifying code in a team environment
@@ -42,10 +44,12 @@ audience:
 * Ability to read and analyze existing code
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Apply all five `SOLID` principles (SRP, OCP, LSP, ISP, DIP) in practical coding scenarios
 * Identify and refactor code violations of `SOLID` principles
 * Write `clean`, readable code following established naming conventions and formatting standards

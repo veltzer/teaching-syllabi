@@ -25,17 +25,20 @@ The course equips managers to `make` informed decisions about `DevOps` investmen
 16 hours / 1 day
 
 ## Intended Audience
+
 * Engineering managers overseeing development or operations teams
 * Team leads considering `DevOps` transformation
 * Project managers involved in software delivery
 * Technical directors evaluating `DevOps` adoption
 
 ## Prerequisites
+
 * General understanding of software development lifecycle
 * Management or leadership experience in a technology organization
 * No deep technical or coding skills required
 
 ## Objectives
+
 * Understand the core principles and values of `DevOps`
 * Recognize the cultural changes required for `DevOps` transformation
 * Explain `CI/CD` concepts and their business benefits

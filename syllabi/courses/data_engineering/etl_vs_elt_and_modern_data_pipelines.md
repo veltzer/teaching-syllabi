@@ -39,6 +39,7 @@ the ones they inherited.
 40 hours / 5 days
 
 ## Intended Audience
+
 * data engineers building or maintaining production pipelines
 * analytics engineers using `dbt` and modern warehouses
 * developers integrating with data platforms
@@ -46,12 +47,14 @@ the ones they inherited.
 * engineers migrating from `ETL` tools to `ELT` workflows
 
 ## Prerequisites
+
 * working knowledge of `SQL` and at least one analytical store
 * basic familiarity with at least one orchestrator (`Airflow`, `Dagster`, `Prefect`)
 * exposure to `dbt` is helpful but not required
 * some experience operating data pipelines in production
 
 ## Objectives
+
 * compare `ETL` and `ELT` and pick the right architecture for a workload
 * design pipelines that are idempotent and reprocessable
 * operate the major orchestrators with appropriate patterns

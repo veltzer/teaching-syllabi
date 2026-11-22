@@ -32,6 +32,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 40 hours / 5 days
 
 ## Intended Audience
+
 * C/`C++` developers debugging complex applications
 * System programmers dealing with low-level bugs
 * `DevOps` engineers troubleshooting production issues
@@ -40,6 +41,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 * Technical leads responsible for code quality and reliability
 
 ## Prerequisites
+
 * Strong C/`C++` programming experience
 * Understanding of `Linux` system programming
 * Familiarity with multi-threaded programming
@@ -47,6 +49,7 @@ This course covers `GDB` 12+, modern `Valgrind`, LLDB, and current `Linux` debug
 * Command line proficiency in `Linux`
 
 ## Objectives
+
 * Master `GDB` and advanced debugging techniques
 * Identify and fix memory-related bugs efficiently
 * Debug multi-threaded and concurrent applications

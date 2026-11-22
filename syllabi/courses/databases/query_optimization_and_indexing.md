@@ -38,17 +38,20 @@ discipline that keeps query performance predictable.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers writing production `SQL` against any major engine
 * `DBAs` and senior engineers tuning production queries
 * data engineers writing pipeline `SQL` against analytical stores
 * engineers responding to "the database is slow" incidents
 
 ## Prerequisites
+
 * `solid` `SQL` and at least basic exposure to one relational database
 * basic understanding of indexes, transactions and joins
 * working knowledge of at least one programming language
 
 ## Objectives
+
 * read and interpret execution plans across major engines
 * design indexes from real access patterns
 * rewrite queries for performance without changing their results

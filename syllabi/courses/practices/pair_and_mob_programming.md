@@ -38,17 +38,20 @@ for the work in front of them.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers wanting to pair or mob more effectively
 * tech leads adopting these practices on their teams
 * engineering managers evaluating pairing and mobbing for their organization
 * coaches and consultants introducing these practices to client teams
 
 ## Prerequisites
+
 * at least two years of professional software development experience
 * working knowledge of at least one mainstream language and `IDE`
 * some test-writing experience helps but is not required
 
 ## Objectives
+
 * describe the major pairing and mobbing styles and pick between them
 * run a productive pairing or mobbing session
 * recognize and recover from common pairing failure modes

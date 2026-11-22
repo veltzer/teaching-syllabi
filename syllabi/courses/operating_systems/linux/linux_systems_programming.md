@@ -38,13 +38,16 @@ examples instead.
 64 hours / 8 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * Experience in C programming is a must.
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` systems programming
 * gain practical knowledge of Boot sequence
 * gain practical knowledge of Protected operating system theory

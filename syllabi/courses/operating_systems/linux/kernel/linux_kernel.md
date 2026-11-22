@@ -35,14 +35,17 @@ required.
 40 hours / 5 days
 
 ## Intended Audience
+
 * embedded systems engineers and kernel developers
 * system programmers working on low-level software
 
 ## Prerequisites
+
 * experience with C programming
 * familiarity with `Linux` system administration
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` Kernel
 * gain practical knowledge of `Linux`` Kernel Introduction
 * gain practical knowledge of Kernel Sources
@@ -205,9 +208,11 @@ required.
     * Identifying drivers, notifying programs and users
 
 ## References
+
 * [slides for this course](https://bootlin.com/doc/training/linux-kernel/)
 
 ## Installations
+
 * A real, virtual or remote machine running `Ubuntu` >= 22.04
 * The machine should have *free* access to the internet to install software.
 * The students should have an account on the machines with `sudo` privileges.

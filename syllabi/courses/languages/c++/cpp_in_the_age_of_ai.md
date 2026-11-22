@@ -62,6 +62,7 @@ professional skill.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `C++` developers who already use `AI` assistants and are uneasy about how much they are accepting without understanding
 * Senior developers and tech leads who must set team policy on `AI`-generated `C++`
 * Systems programmers working where `undefined behavior`, lifetime bugs and ABI breaks are expensive
@@ -69,6 +70,7 @@ professional skill.
 * Reviewers who now spend more time reading `C++` than writing it
 
 ## Prerequisites
+
 * This is not an introductory `C++` course and not an introductory `AI` course
 * You must be a working `C++` developer, comfortable with classes, templates, the `STL`, inheritance and `virtual-functions`
 * You must be comfortable with pointers, references, and `new-and-delete-operators`
@@ -76,10 +78,12 @@ professional skill.
 * Some prior use of any `AI` coding assistant is expected, at the level of having asked it for code and used the answer
 
 ## Required Knowledge
+
 * `C++` Basics (or equivalent experience)
 * Modern `C++` for C Programmers (or equivalent experience)
 
 ## Objectives
+
 * Decide deliberately which `C++` design decisions to retain and which to delegate to an `AI`
 * Write specifications and constraints precise enough that generated `C++` is reviewable
 * Define and enforce a `C++` subset for `AI` generation that eliminates whole classes of defects by construction

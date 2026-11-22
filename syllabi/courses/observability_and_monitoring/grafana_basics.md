@@ -27,9 +27,11 @@ This course provides a hands-on introduction to `Grafana`, the popular open-sour
 `DevOps` engineers and system administrators who need to build monitoring dashboards and visualize infrastructure and application metrics.
 
 ## Prerequisites
+
 * Tech affinity.
 
 ## Objectives
+
 * Integrate data sources with `Grafana` and create queries against them
 * Build and customize graph panels with visualization options, fields, overrides, and transformations
 * Use variables to create dynamic, reusable dashboards

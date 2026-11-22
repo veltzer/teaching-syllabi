@@ -25,6 +25,7 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building secure applications
 * Security engineers and analysts
 * Software and solution architects
@@ -33,6 +34,7 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
 * Product managers who need to understand security risks
 
 ## Prerequisites
+
 * Understanding of software architecture and `design patterns`
 * Basic knowledge of web application architecture (`HTTP`, `REST`, databases)
 * Familiarity with common security concepts (authentication, authorization, encryption)
@@ -40,6 +42,7 @@ Threat modeling is a structured approach to identifying, quantifying, and addres
 * Experience with at least one software development lifecycle
 
 ## Objectives
+
 * Understand threat modeling fundamentals and when to apply them
 * Create data flow diagrams and identify trust boundaries
 * Apply the STRIDE methodology to systematically identify threats

@@ -25,6 +25,7 @@ This course provides a comprehensive introduction to Site Reliability Engineerin
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers responsible for production reliability
 * `DevOps` engineers transitioning to or adopting SRE practices
 * Engineering managers building or leading SRE teams
@@ -32,6 +33,7 @@ This course provides a comprehensive introduction to Site Reliability Engineerin
 * Technical leads balancing feature velocity with system reliability
 
 ## Prerequisites
+
 * Experience developing or operating production software systems
 * Basic understanding of distributed systems concepts
 * Familiarity with monitoring and logging tools
@@ -39,9 +41,11 @@ This course provides a comprehensive introduction to Site Reliability Engineerin
 * Awareness of `CI/CD` and deployment practices
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the core principles and philosophy of SRE
 * Define and implement SLIs, SLOs, and SLAs for services
 * Use error budgets to `make` data-driven decisions about reliability vs velocity

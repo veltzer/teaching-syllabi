@@ -35,12 +35,15 @@ and for that there is a time marking on each chapter.
 56 hours / 7 days
 
 ## Intended Audience
+
 * Software developers who are already working with `Python` for a year.
 
 ## Prerequisites
+
 * Students should have working knowledge of `Python` prior to the course.
 
 ## Objectives
+
 * Learn how to write more idiomatic `Python`.
 * Improve the knowledge of the standard libraries.
 * Improve the understanding of how `Python` works under the hood.

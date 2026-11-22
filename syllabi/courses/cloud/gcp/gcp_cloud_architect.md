@@ -36,18 +36,21 @@ Professional Cloud Architect certification path.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Cloud architects designing systems on `GCP`
 * Senior engineers responsible for infrastructure decisions
 * Technical leads evaluating cloud migration strategies
 * Solutions architects who need to design enterprise-grade cloud solutions
 
 ## Prerequisites
+
 * Working experience with `GCP` core services or equivalent cloud platform
 * Understanding of networking, storage, and compute fundamentals
 * Experience with distributed systems and multi-tier architectures
 * Familiarity with `IAM`, security, and compliance concepts
 
 ## Objectives
+
 * Design cloud solutions using the `GCP` Well-Architected Framework
 * Plan and execute cloud migrations
 * Architect highly available, scalable, and secure systems

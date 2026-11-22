@@ -47,18 +47,21 @@ the natural prerequisite for the `F5` `BIG-IP` Advanced iRules course.
 24 hours / 3 days
 
 ## Intended Audience
+
 * data communications and network engineers who are starting to administer `BIG-IP` `LTM`
 * system administrators responsible for applications delivered through `BIG-IP`
 * `DevOps` engineers who need to understand how their traffic is load balanced and processed
 * anyone who has inherited a `BIG-IP` deployment and needs to understand how it is configured
 
 ## Prerequisites
+
 * solid understanding of `TCP/IP` networking: addressing, subnets, routing, `VLAN`s and `ARP`
 * basic understanding of `HTTP`: methods, headers, status codes and cookies
 * basic familiarity with `SSL/TLS` and certificates
 * comfort working on a `Linux` command line is helpful. No prior `BIG-IP` experience is required
 
 ## Objectives
+
 * set up a `BIG-IP` system: management interface, license, provisioning, network, `NTP` and `DNS`
 * archive the `BIG-IP` configuration and use `F5` support resources and tools
 * configure virtual servers and pools and choose a load balancing method

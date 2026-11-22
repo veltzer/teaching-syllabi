@@ -28,13 +28,16 @@ suit an algorithm to `GPU` and optimization guidelines.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software engineers with no, or little, `OpenCL` background, which about to embark on
 the development of an `OpenCL` project.
 
 ## Prerequisites
+
 * Knowledge of lower level programming is required: `Assembly`, C or `C++`.
 
 ## Objectives
+
 * Understand the main idioms for `OpenCL`.
 * Write correct and efficient `OpenCL` code.
 

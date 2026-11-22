@@ -24,12 +24,14 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend and platform developers building distributed systems
 * `DevOps` and SRE engineers responsible for system reliability
 * Infrastructure engineers managing `Kubernetes` and cloud environments
 * Technical leads driving reliability and resilience initiatives
 
 ## Prerequisites
+
 * Experience with distributed systems or `microservices` architectures
 * Familiarity with `Kubernetes` and container orchestration
 * Basic understanding of monitoring and observability tools
@@ -37,9 +39,11 @@ Chaos engineering is the discipline of experimenting on distributed systems to b
 * Comfort with command-line tools and scripting
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
+
 * Understand the principles and goals of chaos engineering
 * Design chaos experiments with a steady state `hypothesis` and controlled blast `radius`
 * Use `Chaos Monkey`, `Litmus Chaos`, `Chaos Mesh`, and Gremlin to inject failures

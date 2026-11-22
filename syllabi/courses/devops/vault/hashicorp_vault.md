@@ -31,18 +31,22 @@ and `Terraform`.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers, `DevOps` engineers, and security professionals who need to manage secrets and sensitive data in their infrastructure.
 * Teams adopting zero-trust security models and looking to centralize secrets management.
 
 ## Prerequisites
+
 * Basic understanding of security concepts (encryption, authentication, authorization).
 * Familiarity with command-line tools.
 * Experience with `Linux` systems administration is helpful.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand secrets management challenges and how Vault addresses them.
 * Install, configure, and unseal a Vault server.
 * Use multiple secret engines for different use cases.

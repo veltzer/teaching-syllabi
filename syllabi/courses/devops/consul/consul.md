@@ -33,17 +33,20 @@ Consul on `Kubernetes` using the official Helm chart and the Consul on `Kubernet
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` and platform engineers responsible for service networking and infrastructure.
 * Developers building distributed `microservices` who need to understand service discovery.
 * Solution architects evaluating service mesh and service discovery technologies.
 
 ## Prerequisites
+
 * `Solid` understanding of networking fundamentals (`TCP`/`IP`, `DNS`, `TLS` certificates).
 * Experience with `Linux` system administration and the command line.
 * Basic familiarity with distributed systems concepts.
 * Exposure to `Kubernetes` is beneficial for the final chapter.
 
 ## Objectives
+
 * Understand Consul's architecture including the gossip protocol, Raft consensus, and agent roles.
 * Register services and perform health-based service discovery.
 * Use the Consul KV store for dynamic configuration and leader election.

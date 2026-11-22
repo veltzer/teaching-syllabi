@@ -44,18 +44,21 @@ leave able to plan, execute, and report on a red team engagement against an auth
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers moving from pen testing into red team work
 * internal red teams scaling up their practice
 * security managers commissioning red team engagements
 * senior developers who want to understand how attackers actually operate
 
 ## Prerequisites
+
 * completion of `Network Penetration Testing` and `Web Application Penetration Testing` or equivalent
 * working familiarity with `Linux`, `Windows`, `Active Directory`
 * exposure to the `Cyber Threats and Attack Vectors` course
 * employer authorization to use these techniques
 
 ## Objectives
+
 * plan a red team engagement end-to-end
 * map techniques to the `MITRE ATT&CK` matrix
 * set up red team infrastructure that survives an engagement

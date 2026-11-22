@@ -22,17 +22,21 @@ This course covers advanced ExtJS topics including WebWorkers, custom widget dev
 8 hours / 1 day
 
 ## Intended Audience
+
 * front-end developers
 * web application developers
 
 ## Prerequisites
+
 * `JavaScript` basic knowledge
 * Some object oriented `JavaScript`
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Extjs Advanced Topics
 * gain practical knowledge of WebWorkers in Extjs context or not.
 * gain practical knowledge of Custom widgets with DOM construction in Extjs.

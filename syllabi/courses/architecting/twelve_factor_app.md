@@ -25,21 +25,25 @@ This course explores the twelve-factor methodology for building modern, cloud-na
 16 hours / 1 day
 
 ## Intended Audience
+
 * Software developers building cloud-native applications
 * Software architects designing deployment-ready systems
 * `DevOps` engineers seeking to align development practices with operational needs
 * Technical leads guiding teams toward modern application design
 
 ## Prerequisites
+
 * Experience developing web applications or backend services
 * Basic familiarity with `Docker` and containerization concepts
 * Understanding of environment variables and configuration management
 * General awareness of cloud deployment models
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the motivation and principles behind the twelve-factor methodology
 * Apply each of the twelve factors to application design and development
 * Identify violations of twelve-factor principles in existing applications

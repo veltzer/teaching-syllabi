@@ -24,6 +24,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 8 hours / 1 day
 
 ## Intended Audience
+
 * `Java` developers building data-driven backend applications
 * `Spring Boot` developers who need to implement efficient data access layers
 * Software engineers working with relational databases in the Spring ecosystem
@@ -31,6 +32,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 * Developers maintaining applications with complex query and data requirements
 
 ## Prerequisites
+
 * Intermediate proficiency in `Java` programming (classes, interfaces, generics, annotations)
 * Working knowledge of `Spring Boot` and dependency injection
 * `Solid` understanding of relational databases and `SQL`
@@ -39,6 +41,7 @@ This course provides a focused exploration of `Spring Data JPA` for building dat
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
+
 * Understand the `Spring Data` repository abstraction and its layered architecture
 * Create and customize `JPA` repositories with derived query methods
 * Build dynamic queries using Specification and `Criteria API`

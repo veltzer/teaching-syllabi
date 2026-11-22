@@ -23,16 +23,19 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building web applications with `Ruby on Rails`
 * Backend developers learning a full-stack framework
 * Developers migrating from other web frameworks to Rails
 
 ## Prerequisites
+
 * Basic Ruby programming knowledge
 * Familiarity with `HTML`, `CSS`, and `HTTP`
 * Basic understanding of relational databases and `SQL`
 
 ## Objectives
+
 * Understand the MVC architecture in Rails
 * Build data models with ActiveRecord and migrations
 * Create RESTful routes, controllers, and views

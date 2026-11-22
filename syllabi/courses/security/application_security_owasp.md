@@ -29,6 +29,7 @@ Application security is essential for building resilient software that withstand
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers and engineers
 * `DevOps` and `DevSecOps` engineers
 * Security engineers and architects
@@ -37,6 +38,7 @@ Application security is essential for building resilient software that withstand
 * Anyone responsible for application security in their organization
 
 ## Prerequisites
+
 * `Solid` experience with at least one programming language
 * Understanding of web application architecture and `REST APIs`
 * Familiarity with `HTTP`/`HTTPS` protocols
@@ -45,6 +47,7 @@ Application security is essential for building resilient software that withstand
 * Basic command-line interface usage
 
 ## Objectives
+
 * Identify and mitigate all `OWASP Top 10` vulnerabilities in real-world applications
 * Apply threat modeling techniques such as STRIDE and DREAD to assess application risks
 * Integrate `SAST` and `DAST` tools into the development workflow

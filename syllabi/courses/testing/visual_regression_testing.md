@@ -43,18 +43,21 @@ without making the test suite hostile.
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers wanting to catch visual regressions
 * `QA` engineers extending automation to visual coverage
 * frontend developers maintaining a design system
 * developers adopting `Storybook` or component-driven development
 
 ## Prerequisites
+
 * working experience with at least one of `Playwright`, Cypress, or `Selenium`
 * familiarity with frontend development
 * exposure to `Storybook` is helpful but not required
 * basic `CI/CD` knowledge
 
 ## Objectives
+
 * explain what visual tests catch and what they do not
 * deploy at least one visual-test platform
 * integrate visual tests into a `CI` pipeline

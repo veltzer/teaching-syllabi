@@ -25,6 +25,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 24 hours / 3 days
 
 ## Intended Audience
+
 * Security professionals and security architects
 * Software developers working with containerized applications
 * `DevOps` and platform engineers managing `Kubernetes` clusters
@@ -33,6 +34,7 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Anyone responsible for securing container-based infrastructure
 
 ## Prerequisites
+
 * Working knowledge of `Docker` and container fundamentals
 * Basic understanding of `Kubernetes` architecture (pods, deployments, services)
 * Familiarity with `Linux` command-line and system administration
@@ -42,10 +44,12 @@ Containers and `Kubernetes` have become the standard for deploying modern applic
 * Understanding of basic security principles (authentication, authorization, encryption)
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Identify and mitigate security risks across the container lifecycle
 * Build secure container images following `Dockerfile` best practices
 * Understand and leverage `Linux` security primitives that underpin container isolation

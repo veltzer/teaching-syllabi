@@ -28,19 +28,23 @@ existing apps.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Android` developers who want to build more secure applications
 * Security professionals assessing `Android` application security
 * Testers performing security testing on `Android` apps
 
 ## Prerequisites
+
 * Experience with `Android` application development
 * Familiarity with `Java` or `Kotlin`
 * Basic understanding of security concepts
 
 ## Required Knowledge
+
 * `Kotlin` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the `Android` security model and its layered architecture
 * Implement proper permission handling and app sandboxing
 * Apply secure storage and network communication techniques

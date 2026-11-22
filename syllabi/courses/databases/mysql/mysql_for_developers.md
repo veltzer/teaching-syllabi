@@ -23,18 +23,21 @@ This course provides developers with comprehensive training on `MySQL`, one of t
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers working with `MySQL` databases
 * Backend developers building data-driven applications
 * Full-stack developers needing relational database skills
 * Software engineers optimizing database performance
 
 ## Prerequisites
+
 * Basic understanding of relational database concepts
 * Familiarity with `SQL` syntax (SELECT, INSERT, UPDATE, DELETE)
 * Experience with at least one programming language
 * Basic command-line skills
 
 ## Objectives
+
 * Write complex queries using joins, subqueries, and common table expressions
 * Design and implement effective indexing strategies
 * Leverage `MySQL` `JSON` support for semi-structured data

@@ -28,16 +28,20 @@ The course will be code heavy using GoLang to tap into the various APIs to build
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers and developer teams needing a better way to manage containers.
 * People who are already familiar with `Kubernetes` basics.
 
 ## Prerequisites
+
 * Some knowledge of `go` is required
 
 ## Required Knowledge
+
 * Go Programming (or equivalent experience)
 
 ## Objectives
+
 * Design and deploy resilient applications.
 * Apply next-level command-line tools like Kube-scheduler, cloud-controller-manager, operators, and more.
 * Provision clusters with Kube-admin and cluster `API`.
@@ -101,6 +105,7 @@ The course will be code heavy using GoLang to tap into the various APIs to build
 ## Installations
 
 Each student should have:
+
 * An `Ubuntu` 24:04 machine
 * 8 GB `RAM` for each machine because we are going to practice `Kubernetes` with `Minikube`. This requires some `RAM`.
 * Free, wide band, access to the internet from all machines with no weird corporate firewalls that might stop us from installing software.

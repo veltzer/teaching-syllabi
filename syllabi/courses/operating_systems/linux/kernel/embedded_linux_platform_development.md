@@ -32,17 +32,20 @@ Major topics which are a must for embedded platform developers such as filesyste
 40 hours / 5 days
 
 ## Intended Audience
+
 * People developing devices using the `Linux` kernel
 * People supporting embedded `Linux` system developers
 * Embedded `Linux` engineers who have never created a `Linux` image on their own
 * Kernel developers who would like a better understanding of how embedded `Linux` systems are built
 
 ## Prerequisites
+
 * Knowledge and practice of `UNIX` or GNU/`Linux` commands
 * Some embedded experience (in `Linux` or other systems) is a must.
 * Kernel `Linux` programming is an advantage.
 
 ## Objectives
+
 * Be able to understand the overall architecture of Embedded `Linux` systems.
 * Be able to choose, build, setup and use a cross-compilation toolchain.
 * Be able to understand the booting sequence of an embedded `Linux` system, and to set up and use the `U-Boot` bootloader.
@@ -165,9 +168,11 @@ versions
     * International conferences
 
 ## References
+
 * [slides for this course](https://bootlin.com/doc/training/embedded-linux/)
 
 ## Installations
+
 * A real, virtual or remote machine running `Ubuntu` LTS >= 22.04
 * The machine should have *free* access to the internet to install software.
 * The students should have an account on the machines with `sudo` privileges.

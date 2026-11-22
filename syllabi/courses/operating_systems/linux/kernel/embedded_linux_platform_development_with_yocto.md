@@ -33,6 +33,7 @@ Participants will learn not just how to use `Yocto`, but how to architect sustai
 24 hours / 3 days
 
 ## Intended Audience
+
 * Embedded software engineers transitioning to `Linux`-based systems
 * `Linux` developers seeking structured approaches to embedded development
 * `DevOps` engineers responsible for embedded build infrastructure
@@ -43,12 +44,14 @@ Participants will learn not just how to use `Yocto`, but how to architect sustai
 ## Prerequisites
 
 ### Required
+
 * Proficiency with `Linux` command line and shell scripting
 * Understanding of compilation, linking, and build processes
 * `Git` version control fundamentals
 * Basic understanding of `Linux` system architecture (bootloader, kernel, rootfs)
 
 ### Recommended
+
 * Experience with any embedded development (RTOS, bare-metal, or `Linux`)
 * Familiarity with Makefiles, `CMake`, or other build systems
 * Basic `Python` scripting knowledge
@@ -56,12 +59,14 @@ Participants will learn not just how to use `Yocto`, but how to architect sustai
 * Experience with virtualization (`QEMU`, `Docker`)
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
 
 Upon completion of this course, participants will be able to:
+
 * Design and implement production-ready embedded `Linux` systems using the `Yocto` Project
 * Create custom layers and recipes following industry best practices
 * Optimize build performance and implement efficient `CI/CD` pipelines
@@ -72,6 +77,7 @@ Upon completion of this course, participants will be able to:
 * Make informed decisions about when to use `Yocto` versus alternatives
 
 ## Exercises
+
 * Lab 1: First Build Experience
     * Setting up build environment
     * Building core-image-minimal for `QEMU`
@@ -514,6 +520,7 @@ Upon completion of this course, participants will be able to:
             * Long-term support options
 
 ## Links
+
 * Official `Yocto` Project documentation (latest release)
 * `OpenEmbedded` layer index
 * Bootlin's embedded `Linux` training materials

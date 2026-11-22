@@ -27,16 +27,19 @@ This course provides a comprehensive deep dive into securing workloads on `AWS`.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Cloud engineers responsible for securing `AWS` environments.
 * Security professionals transitioning to cloud security.
 * `DevOps` engineers looking to integrate security into their pipelines.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `VPC`, `Lambda`).
 * Basic understanding of networking and security concepts.
 * Familiarity with the `AWS` Management Console and `CLI`.
 
 ## Objectives
+
 * Design and implement fine-grained access control using `IAM`.
 * Configure threat detection and continuous monitoring across `AWS` accounts.
 * Protect data at `rest` and in transit using `AWS` encryption services.

@@ -38,18 +38,21 @@ drivers.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers writing or maintaining kernel modules and drivers
 * systems programmers crossing into kernel work
 * embedded engineers working at the `Linux`-driver layer
 * engineers debugging kernel-level issues that require module-level changes
 
 ## Prerequisites
+
 * `solid` C programming experience
 * working knowledge of `Linux` user-space programming
 * basic familiarity with computer architecture (interrupts, `MMU`, caches)
 * exposure to a `Linux` kernel build is helpful
 
 ## Objectives
+
 * build, load, and unload kernel modules cleanly
 * use the kernel programming environment correctly
 * implement character, block, and network drivers

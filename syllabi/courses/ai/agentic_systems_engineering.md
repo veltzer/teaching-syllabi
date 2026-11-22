@@ -40,18 +40,21 @@ ship agentic systems that are debuggable, bounded, observable, and safe.
 40 hours / 5 days
 
 ## Intended Audience
+
 * `ML` engineers shipping agentic features in production
 * senior developers introducing agents into existing products
 * architects designing systems with autonomous components
 * engineers responsible for the cost or safety of an agent in production
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * working knowledge of `Python` (or comparable language)
 * exposure to the `LLM` Application Engineering and `LLM` Evaluation courses is helpful
 * basic familiarity with prompts, embeddings and tool use
 
 ## Objectives
+
 * describe the agent loop and pick a variant for the problem
 * design tools so that an agent can use them reliably
 * implement budget and recovery semantics for agents

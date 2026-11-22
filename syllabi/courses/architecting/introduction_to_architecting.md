@@ -22,17 +22,20 @@ This one-day course introduces participants to the fundamental concepts and prac
 8 hours / 1 day
 
 ## Intended Audience
+
 * Those who wish to participate in more professional architecting courses like
     * Architecting in the close
     * Architecting on `AWS`/`Azure`/`GCP`
     * Large scale architecting
 
 ## Prerequisites
+
 * Tech experience of some sort
 * Basic understanding of software development concepts
 * Familiarity with at least one programming language
 
 ## Objectives
+
 * Define software architecture and its importance
 * Identify key responsibilities of a software architect
 * Understand common architectural styles and patterns

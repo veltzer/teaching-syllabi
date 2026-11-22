@@ -41,17 +41,20 @@ size and operate a connection-management layer that does not collapse under load
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers configuring connection pools
 * `DBAs` and `DevOps` running database proxies
 * developers debugging "why is the app slow" incidents
 * engineers operating a serverless application against a relational database
 
 ## Prerequisites
+
 * working experience with at least one relational database
 * basic familiarity with database concepts
 * exposure to the Database Internals course is helpful
 
 ## Objectives
+
 * explain why `Postgres` and `MySQL` connections are expensive
 * configure a client-side connection pool correctly
 * deploy and operate `PgBouncer` or `RDS Proxy`

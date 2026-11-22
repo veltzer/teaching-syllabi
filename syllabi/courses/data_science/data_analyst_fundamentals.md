@@ -28,16 +28,19 @@ reporting, using industry-standard tools including `SQL`, `Python`, Excel, and T
 24 hours / 3 days
 
 ## Intended Audience
+
 * Aspiring data analysts looking to build foundational skills
 * Developers transitioning into data analysis roles
 * Managers who want to understand data analysis processes and outputs
 
 ## Prerequisites
+
 * Basic computer literacy
 * Familiarity with spreadsheets
 * Logical thinking and basic math skills
 
 ## Objectives
+
 * Understand the end-to-end data analysis workflow
 * Write `SQL` queries to extract and manipulate data
 * Clean and prepare data for analysis

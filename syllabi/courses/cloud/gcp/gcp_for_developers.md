@@ -24,20 +24,24 @@ This course teaches developers how to build, deploy, and manage applications on 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building or migrating applications to `GCP`.
 * Backend engineers looking to adopt serverless and cloud-native patterns on `Google Cloud`.
 * `DevOps` engineers who want to understand `GCP` developer services and `CI/CD` tooling.
 
 ## Prerequisites
+
 * Experience in at least one programming language (`Python`, Go, or `Node.js` recommended).
 * Basic understanding of cloud concepts and containerization.
 * Familiarity with command-line tools.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Deploy containerized applications with `Cloud Run` and event-driven functions with `Cloud Functions`.
 * Model and query data using `Firestore`.
 * Implement asynchronous messaging patterns with Pub/Sub.

@@ -23,20 +23,24 @@ This course provides a deep dive into the internal architecture and mechanisms o
 24 hours / 3 days
 
 ## Intended Audience
+
 * Senior database developers seeking to understand `PostgreSQL` at a deeper level
 * Database administrators responsible for performance tuning and troubleshooting
 * Engineers building `PostgreSQL` extensions or custom data types
 * Backend developers working with complex `PostgreSQL` deployments
 
 ## Prerequisites
+
 * `Solid` understanding of relational database concepts
 * Experience with `SQL` query writing and optimization
 * Familiarity with C programming (for the extension development module)
 
 ## Required Knowledge
+
 * `PostgreSQL` for Developers (or equivalent `PostgreSQL` experience)
 
 ## Objectives
+
 * Understand the `PostgreSQL` process architecture and shared memory layout
 * Explain how MVCC provides transaction isolation and concurrency
 * Analyze write-ahead logging (WAL) and its role in crash recovery and replication

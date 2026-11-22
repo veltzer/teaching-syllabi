@@ -24,20 +24,24 @@ This course covers Zig from its design philosophy through practical systems prog
 24 hours / 3 days
 
 ## Intended Audience
+
 * Systems programmers looking for a modern alternative to C/`C++`
 * Developers interested in low-level programming with better safety guarantees
 * C/`C++` programmers who want more explicit and predictable behavior
 * Rust developers curious about a different approach to systems programming
 
 ## Prerequisites
+
 * Prior programming experience in C, `C++`, Rust, or a similar systems language
 * Understanding of pointers, memory layout, and manual memory management
 * Familiarity with command-line build tools
 
 ## Required Knowledge
+
 * Rust Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand Zig's design philosophy and goals
 * Write Zig programs using its type system, error handling, and comptime features
 * Manage memory explicitly using Zig's allocator model

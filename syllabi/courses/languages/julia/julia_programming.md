@@ -30,19 +30,23 @@ The course includes hands on exercises.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers looking to adopt a high-performance language for technical computing.
 * Data scientists seeking a faster alternative to `Python` or R.
 * Researchers and engineers working on numerical simulation, optimization, or `machine learning`.
 
 ## Prerequisites
+
 * Programming experience in at least one language such as `Python`, `MATLAB`, R, or C.
 * Basic understanding of linear algebra and statistics is helpful.
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Write idiomatic and performant Julia code
 * Leverage multiple dispatch and the type system effectively
 * Use metaprogramming to generate efficient code

@@ -26,20 +26,24 @@ The Domain Name System (`DNS`) is one of the most critical and yet least underst
 16 hours / 2 days
 
 ## Intended Audience
+
 * System administrators and `DevOps` engineers managing internal and external `DNS` for organizations of any size.
 * Network engineers responsible for naming infrastructure, zone delegation, and network service reliability.
 * Developers who build applications that depend on `DNS` and need to understand resolution behavior, caching, and failure modes.
 
 ## Prerequisites
+
 * `Solid` understanding of `TCP/IP` networking: `IP` addressing, routing, and `UDP`/`TCP`.
 * Familiarity with `Linux` command-line tools: dig, `nslookup`, ping, `netstat`.
 * Basic knowledge of networking services and how internet infrastructure is organized.
 
 ## Required Knowledge
+
 * `TCP/IP` networking fundamentals
 * `Linux` command-line proficiency
 
 ## Objectives
+
 * Trace the full `DNS` resolution process from recursive query to authoritative answer
 * Understand every major `DNS` record type and when to use each
 * Configure and operate authoritative `DNS` servers and manage zones

@@ -32,13 +32,16 @@ administration levels.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * familiarity with `Linux` command line and system administration
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` networking
 * gain practical knowledge of Networking for programmers
 * gain practical knowledge of C user level `API` for networking.
@@ -133,6 +136,7 @@ administration levels.
     * raw sockets.
 
 ## References
+
 * [ku-latency](http://vilimpoc.org/research/ku-latency/)
 * [vj_channels](http://vger.kernel.org/~davem/cgi-bin/blog.cgi/2006/01/27#vj_channels)
 

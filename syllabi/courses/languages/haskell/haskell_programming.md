@@ -24,20 +24,24 @@ This course teaches `Haskell` from foundational functional programming concepts 
 32 hours / 4 days
 
 ## Intended Audience
+
 * Software developers who want to learn functional programming through `Haskell`.
 * Programmers experienced in imperative or object-oriented languages who want to expand their paradigm knowledge.
 * Developers interested in building correct, reliable software using strong type systems.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Python`, `Java`, C, or `JavaScript`.
 * Basic understanding of mathematical concepts (functions, sets, logic).
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand functional programming principles and how they apply in `Haskell`
 * Write `Haskell` programs using algebraic data types, pattern matching, and type classes
 * Use higher-order functions and recursion effectively

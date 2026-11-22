@@ -27,16 +27,19 @@ This course covers the principles and practices of disaster recovery (DR) and bu
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software architects responsible for system resilience and availability.
 * `DevOps` and SRE engineers designing and maintaining infrastructure.
 * System administrators managing production environments.
 * Managers overseeing IT operations and compliance.
 
 ## Prerequisites
+
 * Several years of experience in software development or IT operations.
 * Basic understanding of `cloud computing` concepts.
 
 ## Objectives
+
 * Define and calculate RPO and RTO for various systems and business requirements.
 * Design and implement backup strategies including full, incremental, and differential approaches.
 * Architect multi-region and multi-cloud DR solutions.

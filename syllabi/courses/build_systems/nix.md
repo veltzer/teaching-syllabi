@@ -31,18 +31,21 @@ include `Nix` Flakes for hermetic, versioned dependencies, overlay patterns for 
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who need truly reproducible build environments across teams and machines.
 * `DevOps` and platform engineers managing complex software delivery infrastructure.
 * System administrators interested in declarative system configuration with `NixOS`.
 * Anyone frustrated by "works on my machine" problems and seeking a principled solution.
 
 ## Prerequisites
+
 * Strong comfort with the `Linux` command line and shell scripting.
 * Experience with at least one functional or dynamically typed language is helpful.
 * Familiarity with package management concepts (`apt`, `brew`, pip, etc.).
 * Some exposure to system administration or `DevOps` practices is assumed.
 
 ## Objectives
+
 * Explain the `Nix` store model and how it guarantees reproducibility.
 * Read and write `Nix` expressions using the `Nix` language.
 * Write derivations to package software from source.

@@ -24,6 +24,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software architects designing maintainable and testable systems
 * Senior developers working to improve the structure of complex applications
 * Technical leads introducing architectural standards across engineering teams
@@ -31,6 +32,7 @@ audience:
 * Developers refactoring legacy codebases toward cleaner designs
 
 ## Prerequisites
+
 * `Solid` proficiency in at least one object-oriented language (e.g., `Java`, `C#`, `Python`, `TypeScript`)
 * Familiarity with `SOLID` principles and object-oriented design
 * Experience with layered or `MVC` architectures in production systems
@@ -38,10 +40,12 @@ audience:
 * Familiarity with unit testing and test-driven development concepts
 
 ## Required Knowledge
+
 * Object-Oriented Design Fundamentals (or equivalent experience)
 * Software Architecture Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the goals and principles behind `Clean Architecture` and `Hexagonal Architecture`
 * Apply the dependency rule to enforce separation between domain and infrastructure layers
 * Design entities, use cases, and interface adapters for a real application

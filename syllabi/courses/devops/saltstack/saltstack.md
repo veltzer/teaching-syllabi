@@ -31,17 +31,20 @@ practical coverage of `Salt Cloud` for provisioning virtual machines across clou
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers who need to automate configuration management across large fleets.
 * System administrators looking to replace manual operations with repeatable automation.
 * Platform engineers evaluating configuration management tools for their organization.
 
 ## Prerequisites
+
 * `Solid` `Linux` system administration skills (packages, services, networking).
 * Familiarity with the command line and `SSH`.
 * Basic understanding of `YAML` and `Jinja2` templating.
 * Experience with version control (`Git`).
 
 ## Objectives
+
 * Understand the Salt master-minion architecture and communication model.
 * Write `SLS` state files that configure systems idempotently.
 * Use grains and pillars to separate node data from configuration logic.

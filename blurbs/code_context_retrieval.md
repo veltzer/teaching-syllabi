@@ -39,6 +39,7 @@ works, what it is good and bad at, what it costs to set up and maintain, and how
 together in a real development workflow.
 
 ## Agenda
+
 * **The Context Problem** (10 min): Why agents need help finding the right code, and the criteria for comparing approaches: precision, recall, freshness, cost, and maintenance.
 * **Text Search: `grep` and `ripgrep`** (20 min): Why agents rely on plain search so heavily, where exact matching shines, and where it breaks down on naming variation and conceptual questions.
 * **Retrieval-Augmented Generation** (25 min): Embeddings, chunking, and vector search over code; finding code by meaning, and the cost of stale indexes and plausible but wrong matches.
@@ -48,11 +49,13 @@ together in a real development workflow.
 * **Key Takeaways and Q&A** (10 min): Actionable next steps for engineering teams.
 
 ## Takeaways
+
 * A clear understanding of how text search, `RAG`, documentation, and language parsers each give context to `AI` agents
 * The strengths, blind spots, and maintenance costs of each approach
 * A practical framework for choosing and combining approaches for your own codebase
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

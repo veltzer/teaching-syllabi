@@ -22,18 +22,22 @@ This course provides a deep dive into asynchronous programming in `Python` using
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Python` developers building `I/O`-bound or network-heavy applications
 * Backend developers seeking to improve throughput with asynchronous patterns
 * Developers working with async web frameworks such as `FastAPI` or aiohttp
 
 ## Prerequisites
+
 * `Solid` understanding of functions, generators, and decorators
 * Familiarity with networking and `I/O` concepts
 
 ## Required Knowledge
+
 * `Python` Programming
 
 ## Objectives
+
 * Understand the `asyncio` event loop and its execution model
 * Write correct and efficient coroutines using async/await syntax
 * Manage concurrent work with tasks, futures, and TaskGroup

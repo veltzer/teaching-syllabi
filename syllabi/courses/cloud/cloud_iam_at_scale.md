@@ -42,18 +42,21 @@ than one team.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers running multi-account cloud environments
 * security engineers operating identity programs
 * architects designing the cloud landing zone
 * senior developers facing the "we have `500` roles" reality
 
 ## Prerequisites
+
 * working experience with at least one major cloud provider's `IAM`
 * exposure to the Identity and Access Management course
 * familiarity with at least one identity provider (`Okta`, `Entra ID`, `Google Workspace`)
 * basic understanding of `SSO`
 
 ## Objectives
+
 * design a multi-account cloud topology
 * federate identity from a single source of truth
 * enforce permission boundaries across the organization

@@ -25,17 +25,21 @@ Course is intended for C/`C++` programmers who want to find their way in the `Li
 16 hours / 2 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * experience with C programming
 * familiarity with `Linux` command line
 
 ## Required Knowledge
+
 * Introduction to `Git` (or equivalent `Git` experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` programming environment
 * gain practical knowledge of The shell:
 * gain practical knowledge of The compiler (`GCC`/g++):
@@ -88,6 +92,7 @@ Course is intended for C/`C++` programmers who want to find their way in the `Li
     * handling dependencies
 
 ## We will not cover
+
 * The C/`C++` languages themselves.
 * The peculiarities of `GCC`/g++ as regards the C/`C++` standard.
 * The `Linux` kernel or user space (glibc?) APIs and their correct usage.

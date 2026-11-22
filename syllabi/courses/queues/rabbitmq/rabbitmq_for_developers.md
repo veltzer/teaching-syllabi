@@ -23,20 +23,24 @@ This course provides a comprehensive introduction to `RabbitMQ` for software dev
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building distributed applications
 * Backend engineers integrating messaging into their systems
 * Architects designing event-driven and microservice architectures
 
 ## Prerequisites
+
 * `Solid` programming experience in at least one language (`Python`, `Java`, `JavaScript`, or similar).
 * Basic understanding of networking and client-server communication.
 * Familiarity with distributed systems concepts is helpful but not required.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `AMQP` protocol and `RabbitMQ` architecture.
 * Configure and work with exchanges, queues, and bindings.
 * Implement common messaging patterns including pub/sub and RPC.

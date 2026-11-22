@@ -31,16 +31,19 @@ This is a rather lengthy course for testing as most testing courses are one day 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Automation developers
 * Manual QA with development background
 * `Python` developers that wish to expand their skills to testing
 
 ## Prerequisites
+
 * Programming experience with any programming language
 * Basic background in automation development
 * Working knowledge of `Python`.
 
 ## Objectives
+
 * Be able to test simple and complex systems.
 * Acquire the skill to write robust tests.
 * Know how to use the various `Python` mocking libraries.
@@ -153,6 +156,7 @@ This is a rather lengthy course for testing as most testing courses are one day 
     * Beautiful soup
 
 ## Installations
+
 * Each student should have a machine with python3 installed on it
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
 

@@ -28,16 +28,19 @@ answering, and text generation.
 32 hours / 4 days
 
 ## Intended Audience
+
 * software developers building text and language applications
 * data scientists working with textual data
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `machine learning` concepts (training, evaluation, loss functions)
 * Familiarity with `NumPy` and `pandas`
 * Basic linear algebra knowledge
 
 ## Objectives
+
 * **Preprocess and represent text data** using tokenization, stemming, lemmatization, and vectorization techniques
 * **Build text classification models** for sentiment analysis and document categorization using classical and `deep learning` methods
 * **Implement named entity recognition and part-of-speech tagging** pipelines using `spaCy` and custom models

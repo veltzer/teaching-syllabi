@@ -27,16 +27,19 @@ OCR, and an overview of generative models. Hands-on work uses `PyTorch` and `Ten
 32 hours / 4 days
 
 ## Intended Audience
+
 * software developers building vision-based applications
 * data scientists working with image and video data
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `machine learning` concepts (training, evaluation, overfitting)
 * Familiarity with `NumPy` and `array` operations
 * Basic linear algebra knowledge (matrices, convolutions)
 
 ## Objectives
+
 * **Process and manipulate images** using `OpenCV` for filtering, edge detection, morphology, and contour analysis
 * **Detect and describe features** using classical methods such as SIFT, ORB, and HOG
 * **Build image classification models** using CNNs and transfer learning with ResNet, VGG, and EfficientNet

@@ -23,6 +23,7 @@ This course provides a comprehensive exploration of identity and access manageme
 24 hours / 3 days
 
 ## Intended Audience
+
 * Security engineers and architects designing identity solutions
 * Software developers implementing authentication and authorization
 * System administrators managing directory services and access controls
@@ -31,6 +32,7 @@ This course provides a comprehensive exploration of identity and access manageme
 * Compliance officers overseeing access governance
 
 ## Prerequisites
+
 * Basic understanding of web technologies (`HTTP`/`HTTPS`, `REST APIs`)
 * Familiarity with networking concepts (`DNS`, ```TCP``/``IP```, `TLS`)
 * Basic knowledge of security principles (authentication vs authorization)
@@ -38,6 +40,7 @@ This course provides a comprehensive exploration of identity and access manageme
 * Understanding of `JSON` and `XML` data formats
 
 ## Objectives
+
 * Understand and compare authentication protocols including `SAML`, `OIDC`, `OAuth2`, `LDAP`, and `Kerberos`
 * Design and implement single sign-on and multi-factor authentication solutions
 * Configure and manage directory services such as `Active Directory` and `LDAP`

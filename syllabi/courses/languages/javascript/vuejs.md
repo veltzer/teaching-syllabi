@@ -22,6 +22,7 @@ This course provides a comprehensive guide to building modern web applications w
 32 hours / 4 days
 
 ## Intended Audience
+
 * Frontend developers looking to master `Vue.js` for building modern web applications
 * Full-stack developers who want to add `Vue.js` to their frontend toolkit
 * `JavaScript` or `TypeScript` developers transitioning to component-based UI development
@@ -29,6 +30,7 @@ This course provides a comprehensive guide to building modern web applications w
 * Software engineers building single-page applications and progressive web apps
 
 ## Prerequisites
+
 * `Solid` understanding of `JavaScript` (`ES6`+ features: arrow functions, destructuring, modules, promises)
 * Basic knowledge of `HTML` and `CSS`
 * Familiarity with `npm` or `yarn` package managers
@@ -37,10 +39,12 @@ This course provides a comprehensive guide to building modern web applications w
 * Familiarity with `TypeScript` is helpful but not required
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Build reactive user interfaces using the `Vue 3` Composition `API`
 * Create reusable components with props, events, slots, and provide/inject
 * Implement client-side routing with `Vue Router` including nested and dynamic routes

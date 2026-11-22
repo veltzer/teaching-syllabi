@@ -31,17 +31,20 @@ practical patterns for integrating `Kustomize` into `CI/CD` pipelines and `GitOp
 8 hours / 1 day
 
 ## Intended Audience
+
 * `DevOps` engineers and platform engineers managing `Kubernetes` application manifests.
 * Developers responsible for configuring and deploying their own services to `Kubernetes`.
 * Teams adopting `GitOps` tooling such as `Flux` or `ArgoCD`.
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes` resources: Deployment, Service, ConfigMap, `Secret`.
 * Comfortable writing and editing `YAML` files.
 * Basic familiarity with `Git` and pull-request workflows.
 * `kubectl` installed and configured against a `Kubernetes` cluster.
 
 ## Objectives
+
 * Understand the `Kustomize` philosophy and how it differs from Helm templating.
 * Build reusable base configurations and environment-specific overlays.
 * Apply strategic merge patches and `JSON6902` patches to customize resources.

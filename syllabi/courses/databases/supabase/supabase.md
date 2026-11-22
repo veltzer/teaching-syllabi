@@ -22,20 +22,24 @@ This course introduces Supabase, an open-source backend-as-a-service platform bu
 16 hours / 2 days
 
 ## Intended Audience
+
 * Full-stack developers building web and mobile applications
 * Frontend developers looking for a managed backend solution
 * Developers migrating from Firebase to an open-source alternative
 
 ## Prerequisites
+
 * Basic understanding of relational databases and `SQL`.
 * Familiarity with `JavaScript` or `Python`.
 * Basic knowledge of web development concepts (`REST` APIs, authentication).
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the Supabase architecture and its `PostgreSQL` foundation.
 * Design and manage database schemas, tables, and migrations.
 * Implement authentication with email, `OAuth`, and magic links.

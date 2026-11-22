@@ -23,6 +23,7 @@ audience:
 16 hours / 1 day
 
 ## Intended Audience
+
 * Web developers optimizing application performance
 * Backend developers configuring web servers and APIs
 * `DevOps` engineers managing web infrastructure
@@ -30,6 +31,7 @@ audience:
 * Technical leads evaluating protocol migration
 
 ## Prerequisites
+
 * `Solid` understanding of `HTTP`/1.1 protocol (methods, headers, status codes)
 * Familiarity with `TCP` and `UDP` networking fundamentals
 * Basic understanding of `TLS` and `HTTPS`
@@ -37,9 +39,11 @@ audience:
 * Familiarity with browser developer tools
 
 ## Required Knowledge
+
 * `Nginx` (or equivalent experience)
 
 ## Objectives
+
 * Understand the limitations of `HTTP`/1.1 and the motivations for `HTTP`/2 and `HTTP`/3
 * Explain `HTTP`/2 features: binary framing, multiplexing, HPACK header compression, server push, and stream prioritization
 * Understand `HTTP`/3 and QUIC: `UDP`-based transport, 0-RTT, and connection migration

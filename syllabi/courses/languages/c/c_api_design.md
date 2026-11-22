@@ -22,13 +22,16 @@ This course teaches how to design `clean`, sustainable, and extensible `API`s in
 16 hours / 1 day
 
 ## Intended Audience
+
 * C programmers
 * embedded and systems software developers
 
 ## Prerequisites
+
 * `solid` experience with C programming
 
 ## Objectives
+
 * understand the core concepts and principles of C `API` Design
 * gain practical knowledge of designing a sustainable `API` in C.
 * gain practical knowledge of using opaque pointers.

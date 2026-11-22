@@ -26,12 +26,14 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers wanting to take ownership of application security
 * `DevOps` and platform engineers responsible for `CI/CD` pipeline design
 * Security engineers embedding security into engineering workflows
 * Development leads and architects designing secure-by-default systems
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`Python`, `Java`, Go, `JavaScript`, or similar)
 * Hands-on experience with `CI/CD` tools such as `GitHub Actions`, `GitLab CI`, or `Jenkins`
 * Familiarity with `Docker` and container-based deployments
@@ -40,6 +42,7 @@ audience:
 * Basic `Linux` command-line skills
 
 ## Objectives
+
 * Articulate the `DevSecOps` philosophy and the cultural shift required for shift-left security
 * Apply threat modeling techniques during design and sprint planning phases
 * Configure and integrate `SAST` tools (`Semgrep`, `SonarQube`, `CodeQL`) into `CI/CD` pipelines

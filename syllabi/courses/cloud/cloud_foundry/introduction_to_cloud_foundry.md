@@ -36,16 +36,19 @@ Web and enterprise developers with understanding of web application
 design and implementation on any platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 
 ## Prerequisites
+
 * Experience in developing web and enterprise applications in any
 platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
 * Basic knowledge of the programming language to be chosen (`Python`).
 * Some `cloud computing` concepts knowledge is recommended but not required.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Django` (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Introduction to CloudFoundry
 * gain practical knowledge of Theory
 * gain practical knowledge of Exercises
@@ -71,6 +74,7 @@ platform (`.NET`, JEE, Ruby-On-Rails, `Django`-`Python`, ...).
     * Hands on for Containers and micro-services on CloudFoundry.
 
 ## Notes
+
 * This course uses `Python` as it's main programming language with `PyCharm` as it's development environment.
 * This can be changed.
 

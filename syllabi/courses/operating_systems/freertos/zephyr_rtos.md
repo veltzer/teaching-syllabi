@@ -27,19 +27,23 @@ test, and debug embedded applications on Zephyr-supported platforms.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Embedded developers looking to adopt Zephyr for new or existing projects.
 * Firmware engineers transitioning from other RTOS platforms.
 * Developers who want to understand modern embedded RTOS architecture.
 
 ## Prerequisites
+
 * `Solid` C programming skills.
 * Basic understanding of embedded systems and microcontrollers.
 * Familiarity with `Linux` command line and build tools.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Zephyr RTOS
 * gain practical knowledge of the Zephyr build system and tooling
 * gain practical knowledge of kernel primitives and synchronization

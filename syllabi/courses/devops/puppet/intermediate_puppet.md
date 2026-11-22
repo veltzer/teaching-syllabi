@@ -36,15 +36,18 @@ into Hiera and `rspec` ending with exercises to test their manifests.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers, system administrators, quality assurance engineers and `Devops`
 engineers who want to understand how to do more with Puppet.
 * Generalists who wish to understand Puppet and it's scope.
 
 ## Prerequisites
+
 * Students should have working knowledge of Puppet prior to the course and/or have taken the
 "Introduction to Puppet" course.
 
 ## Objectives
+
 * Learn more advanced features of Puppet for managing your technical infrastructure and
 improve your application delivery process.
 * Understand and use the Puppet development language

@@ -31,20 +31,24 @@ visibility into their infrastructure.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Developers who need to integrate monitoring into their applications and infrastructure.
 * System administrators responsible for maintaining and monitoring servers and services.
 * `DevOps` engineers who need to implement monitoring as part of their `CI/CD` and infrastructure pipelines.
 * Site reliability engineers building observability into production systems.
 
 ## Prerequisites
+
 * Basic `Linux` system administration skills.
 * Familiarity with networking concepts such as `TCP`/`IP`, `DNS`, and `HTTP`.
 * Experience with command-line tools and shell scripting.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `Nagios` architecture and core monitoring concepts.
 * Configure host and service checks for infrastructure monitoring.
 * Write and deploy custom `Nagios` plugins.

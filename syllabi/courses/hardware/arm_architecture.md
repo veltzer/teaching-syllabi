@@ -26,18 +26,22 @@ gaining hands-on experience with the `ARM` toolchain, debugging interfaces, and 
 32 hours / 4 days
 
 ## Intended Audience
+
 * Embedded developers who need to understand and program `ARM`-based systems.
 * Systems programmers moving from other architectures to `ARM`.
 
 ## Prerequisites
+
 * `Solid` C programming skills.
 * Basic understanding of computer architecture concepts.
 * Familiarity with a `Linux` command-line environment.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of the `ARM` architecture family
 * gain practical knowledge of the `ARM` instruction set and register model
 * gain practical knowledge of memory management, caching, and security extensions

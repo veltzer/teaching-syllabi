@@ -34,22 +34,26 @@ the operational and architectural aspects of `GitOps` rather than basic `Kuberne
 16 hours / 1 day
 
 ## Intended Audience
+
 * `DevOps` engineers adopting `GitOps` practices for `Kubernetes` deployments.
 * platform engineers building `continuous delivery` platforms.
 * developers who deploy applications to `Kubernetes` and want to understand `GitOps` workflows.
 * SREs looking to improve deployment reliability and auditability.
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes` (deployments, services, namespaces, `kubectl`).
 * `Solid` understanding of `Git` workflows (branching, pull requests).
 * Familiarity with `YAML` and `Kubernetes` manifests.
 * Basic understanding of Helm or `Kustomize` is helpful.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 * Helm (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `GitOps`
 * gain practical knowledge of `ArgoCD` installation, configuration, and operations
 * gain practical knowledge of application sets, sync policies, and multi-cluster management

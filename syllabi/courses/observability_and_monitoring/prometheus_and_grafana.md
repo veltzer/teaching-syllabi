@@ -30,17 +30,21 @@ As current deployed applications and systems are becoming more complex with tool
 16 hours / 2 days
 
 ## Intended Audience
+
 * Systems Administrators, IT Managers, SREs and `DevOps` / Operations engineers who want to collect and visualize data about their deployed systems using `Prometheus`.
 * Any users of `Grafana` dashboards who want to understand how to modify their dashboards and panels in order to better monitor and understand what their systems are doing.
 
 ## Prerequisites
+
 * Tech affinity.
 * Some command line usage of `Linux` is recommended.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Why Monitoring & Metrics are important
 * `Prometheus` Architecture
 * Obtaining & Configuring `Prometheus`

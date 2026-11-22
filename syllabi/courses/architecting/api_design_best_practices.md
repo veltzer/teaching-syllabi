@@ -24,18 +24,21 @@ This course covers the principles and best practices for designing robust, scala
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building `web services` and APIs
 * Software architects designing system interfaces
 * Technical leads responsible for `API` standards and governance
 * Backend developers seeking to improve their `API` design skills
 
 ## Prerequisites
+
 * Experience building web applications with at least one backend framework
 * Basic understanding of `HTTP` protocol (methods, headers, status codes)
 * Familiarity with `JSON` data format
 * Experience consuming or building at least one `REST` `API`
 
 ## Objectives
+
 * Apply core `API` design principles to create consistent and intuitive interfaces
 * Design `REST` APIs following resource-oriented conventions and proper use of `HTTP` methods
 * Implement versioning, pagination, filtering, and sorting strategies

@@ -31,16 +31,19 @@ existing projects or start new ones confidently.
 16 hours / 2 days
 
 ## Intended Audience
+
 * C and `C++` developers who want a faster, more readable alternative to `CMake` or `Autotools`.
 * Embedded and systems engineers who need reliable cross-compilation support.
 * Build engineers responsible for configuring and optimising native code build pipelines.
 
 ## Prerequisites
+
 * Working knowledge of C or `C++` programming.
 * Familiarity with the command line on `Linux` or `macOS`.
 * Basic understanding of compilers and linkers is assumed.
 
 ## Objectives
+
 * Understand `Meson`'s design philosophy and advantages over traditional build systems.
 * Write and maintain `meson.build` files using Meson's `Python`-like syntax.
 * Configure build options and handle multiple build types.

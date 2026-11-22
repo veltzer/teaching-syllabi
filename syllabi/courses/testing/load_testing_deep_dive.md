@@ -26,20 +26,24 @@ This two day course provides an in-depth exploration of load testing methodology
 16 hours / 2 days
 
 ## Intended Audience
+
 * Performance engineers responsible for load and stress testing
 * Developers building performance-sensitive applications
 * QA engineers expanding into performance testing
 
 ## Prerequisites
+
 * Basic understanding of `HTTP` and web application architecture
 * Programming experience in `JavaScript` or `Python`
 * Familiarity with `CI/CD` concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Design effective load test scenarios using proven methodologies.
 * Write and execute load tests with `k6` and Locust.
 * Apply correlation, parameterization, and think time strategies.

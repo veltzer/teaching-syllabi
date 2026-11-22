@@ -21,13 +21,16 @@ This course teaches classical software `design patterns` and how to implement th
 24 hours / 3 days
 
 ## Intended Audience
+
 * C programmers
 * embedded and systems software developers
 
 ## Prerequisites
+
 * `solid` experience with C programming
 
 ## Objectives
+
 * understand the core concepts and principles of C `Design Patterns`
 * gain practical knowledge of Introduction
 * gain practical knowledge of Creational
@@ -73,6 +76,7 @@ This course teaches classical software `design patterns` and how to implement th
     * Visitor
 
 ## References
+
 * [software `design patterns`](http://en.wikipedia.org/wiki/Software_design_pattern)
 
 ## Copyright

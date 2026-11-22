@@ -32,18 +32,21 @@ to building correct, deterministic, multi-threaded firmware.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Firmware developers working with multi-core microcontrollers
 * Embedded engineers moving from single-core to multi-core platforms
 * RTOS application developers who need to understand low-level concurrency
 * Engineers developing high-throughput or safety-critical embedded systems
 
 ## Prerequisites
+
 * C programming (mandatory)
 * Basic microcontroller programming (peripherals, interrupts, registers)
 * Familiarity with at least one RTOS is an advantage
 * Understanding of computer architecture (caches, buses) is helpful
 
 ## Objectives
+
 * understand the core concepts and principles of Multi-Core and Multi-`Threading` for Microcontrollers
 * gain practical knowledge of Multi-Core Microcontroller Architectures
 * gain practical knowledge of Memory Architecture and Layouts

@@ -30,17 +30,20 @@ tooling decisions.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` and `JVM` developers who want to master their primary build toolchain.
 * Backend engineers responsible for maintaining and improving build pipelines.
 * `DevOps` engineers integrating Maven-based projects into automated delivery pipelines.
 * Tech leads evaluating build tooling strategies for their teams.
 
 ## Prerequisites
+
 * `Solid` working knowledge of `Java` programming.
 * Basic familiarity with the command line and file system navigation.
 * Some prior exposure to compiling and running `Java` applications is assumed.
 
 ## Objectives
+
 * Understand the Maven build lifecycle and its phases.
 * Create and maintain well-structured `POM` files.
 * Manage project dependencies and transitive dependency resolution.

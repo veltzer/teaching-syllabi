@@ -28,19 +28,23 @@ and pipeline testing and monitoring.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers building data processing pipelines
 * data scientists working with batch and streaming data
 
 ## Prerequisites
+
 * Proficiency in `Python` or `Java` programming
 * Basic understanding of distributed systems concepts
 * Familiarity with data processing patterns (batch, streaming)
 * Experience with command-line tools
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Understand the Beam programming model** including PCollections, PTransforms, and pipeline construction
 * **Implement windowing and triggering strategies** for streaming data using fixed, sliding, and session `windows`
 * **Write custom DoFn transforms** with state and timers for complex stateful processing

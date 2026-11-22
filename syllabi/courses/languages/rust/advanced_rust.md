@@ -25,11 +25,13 @@ This course dwells on the more advanced aspects of Rust and is suitable for prog
 Experienced Rust developers looking to deepen their knowledge of advanced language features and patterns.
 
 ## Prerequisites
+
 * Proficiency in Rust Fundamentals or equivalent experience
 * Experience with systems-level programming
 * Intermediate-level programming experience
 
 ## Objectives
+
 * Master advanced ownership patterns, lifetimes, and smart pointers
 * Write asynchronous code using async/await and the Rust async ecosystem
 * Apply advanced trait and generic programming techniques

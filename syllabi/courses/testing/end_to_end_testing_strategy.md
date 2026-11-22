@@ -42,18 +42,21 @@ Blog`. Participants leave able to write a coherent `E2E` testing strategy for th
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers writing the team's testing strategy
 * `QA` engineers managing the `E2E` test suite
 * team leads accountable for `CI` reliability
 * developers tired of flaky tests
 
 ## Prerequisites
+
 * working experience writing tests in at least one framework
 * exposure to the Testing Theory course
 * familiarity with `Playwright`, Cypress, or `Selenium`
 * basic `CI/CD` knowledge
 
 ## Objectives
+
 * place `E2E` tests correctly in the test pyramid
 * pick the flows that justify an `E2E` test
 * eliminate the canonical sources of flakiness

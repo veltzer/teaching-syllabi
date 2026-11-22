@@ -23,16 +23,19 @@ This course covers advanced Go topics for experienced developers who want to dee
 24 hours / 3 days
 
 ## Intended Audience
+
 * Experienced Go developers looking to master advanced language features
 * Backend engineers building high-performance Go services
 * Developers who want to write more idiomatic and efficient Go code
 
 ## Prerequisites
+
 * `Solid` experience with Go programming
 * Familiarity with goroutines, channels, and interfaces
 * Understanding of Go modules and the standard library
 
 ## Objectives
+
 * Apply advanced concurrency patterns for real-world systems
 * Use Go generics effectively for type-safe reusable code
 * Write comprehensive tests including fuzzing and benchmarking

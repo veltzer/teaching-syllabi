@@ -28,24 +28,29 @@ The course emphasizes practical implementation with real coding exercises, focus
 can accelerate development cycles, improve code quality, and transform traditional development workflows.
 
 ## Duration
+
 * Short: 8 hours / 1 day
 * Long: 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers
 * engineers looking to leverage `AI` in their workflow
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, or similar)
 * Experience with software development practices (version control, testing, debugging)
 * Familiarity with development environments and `IDEs`
 * Basic understanding of software architecture and `design patterns`
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * **Configure and effectively utilize** `AI` coding assistants (Copilot, Cursor, `Codeium`) and chat-based tools (`ChatGPT`/Claude) in daily development workflows
 * **Apply prompt engineering techniques** to generate high-quality code, tests, documentation, and solve complex programming problems
 * **Implement `AI`-enhanced development practices** including `TDD`, refactoring, debugging, and code review to improve code quality and productivity

@@ -32,6 +32,7 @@ well as uncover some lessons learned from instructors with years of experience w
 `Jenkins` Pipelines and doing migration between different `Jenkins`.
 
 ## Tags
+
 * Intermediate
 * Workshop
 * `Devops`
@@ -43,17 +44,21 @@ well as uncover some lessons learned from instructors with years of experience w
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers, system administrators, quality assurance engineers and `DevOps` engineers who want to understand how to do more with `Jenkins` Pipelines.
 * Roles: System Administrator, Software Developer, Web Developer
 
 ## Prerequisites
+
 * Students should have some knowledge of `Jenkins` prior to the course and/or have taken the "Working with `Jenkins`" introductory course.
 
 ## Required Knowledge
+
 * `Jenkins` Basics (or equivalent `Jenkins` experience)
 * `Docker` Fundamentals (or equivalent container experience)
 
 ## Objectives
+
 * Learn how to enable continuous integration in a distributed environment with `Jenkins` and use various 3rd party tools within your `CI/CD` process.
 * Understand what `Jenkins` Pipelines are and how to use them
 * Use `Jenkins` to create and run a scripted `Jenkins` Pipeline

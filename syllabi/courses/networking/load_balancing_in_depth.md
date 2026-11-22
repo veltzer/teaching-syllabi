@@ -39,6 +39,7 @@ failure modes, and the architectural patterns that `make` load balancing scale a
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers operating services behind load balancers
 * `DevOps` and `SRE` engineers running load balancer infrastructure
 * network engineers handling `L4`/`L7` traffic
@@ -46,11 +47,13 @@ failure modes, and the architectural patterns that `make` load balancing scale a
 * engineers diagnosing latency and availability issues at the load-balancer layer
 
 ## Prerequisites
+
 * working knowledge of `TCP`, `UDP`, `HTTP` and `TLS`
 * basic familiarity with `DNS` and routing
 * some experience operating production services
 
 ## Objectives
+
 * choose between `L4` and `L7` load balancing for a workload
 * select an appropriate algorithm and tune it
 * configure health checks that actually catch the right failures

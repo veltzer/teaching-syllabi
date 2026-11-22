@@ -26,6 +26,7 @@ languages, testing them and deploying.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` people who wish to install, configure and control the building and testing of software.
 * Developers who wish to build complex pieces of software and to customize the build and test phases.
 * Scrum masters who would like to integrate new features into their production pipelines.
@@ -37,6 +38,7 @@ This course will involve hands on programming and fiddling so participants eithe
 or one who are capable of programming at a non advanced level at a minimum.
 
 ## Objectives
+
 * Learn the basics of Groovy programming
 * Understand the challenges of build processes
 * Use `Gradle` with the standard conventions

@@ -32,6 +32,7 @@ The course covers `Kubernetes` from installation and configuration through resou
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers who wish to deploy small applications or better understand their own production environments.
 * Architects who wish to understand `Kubernetes` and container orchestration to utilize these technologies within
 their respective companies and application design schemes.
@@ -41,6 +42,7 @@ tool chest.
 more cloud specific offering.
 
 ## Prerequisites
+
 * Experience in tech environments is a must
 * Understanding of web applications at a basic level is a must
 * `DevOps` experience is a plus
@@ -48,9 +50,11 @@ more cloud specific offering.
 * Cloud familiarity with one of the big three cloud platforms is a plus
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent container experience)
 
 ## Objectives
+
 * Describe `Kubernetes`, its main uses, advantages and disadvantages.
 * Deploy `Kubernetes` clusters and manage them.
 * Write `Kubernetes` deployment descriptors and modify them to their needs.

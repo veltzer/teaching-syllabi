@@ -27,17 +27,20 @@ This course provides a comprehensive exploration of web application architecture
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers building web applications and services
 * software architects designing scalable web systems
 * `DevOps` engineers responsible for web infrastructure
 * site reliability engineers managing web-scale systems
 
 ## Prerequisites
+
 * several years of software development experience
 * basic understanding of networking and `HTTP`
 * familiarity with web application development
 
 ## Objectives
+
 * understand the fundamentals of web application architecture and the client-server model
 * gain deep knowledge of the `HTTP` protocol and its role in web systems
 * learn how to configure and optimize web servers and reverse proxies

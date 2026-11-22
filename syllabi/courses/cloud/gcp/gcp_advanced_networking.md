@@ -46,18 +46,21 @@ mapping is called out so the skills transfer across clouds.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Network engineers moving their skills from on-premises to the `GCP` cloud.
 * Cloud and solution architects designing multi-`VPC`, hybrid, and global networks.
 * `DevOps` engineers who provision and automate network infrastructure.
 * System administrators responsible for connectivity, security, and uptime on `GCP`.
 
 ## Prerequisites
+
 * Working knowledge of `GCP` core services (`Compute Engine`, `Cloud Storage`, `IAM`, and basic `VPC`).
 * `Solid` understanding of `TCP`/`IP`, subnetting/`CIDR`, `DNS`, `HTTP`/`TLS`, and routing.
 * Comfort with the `Google Cloud Console` and the `gcloud CLI`.
 * Each student needs a `GCP` project with permission to create networking resources.
 
 ## Objectives
+
 * Design and build multi-tier `VPC` topologies with correct subnet and `CIDR` planning.
 * Connect networks at scale with `Shared VPC`, `VPC` peering, and `Private Service Connect`.
 * Implement and tune every `Cloud Load Balancing` type and `Cloud DNS` routing policy.
@@ -67,6 +70,7 @@ mapping is called out so the skills transfer across clouds.
 * Automate repeatable network builds with `Terraform`/`Deployment Manager`.
 
 ## Exercises
+
 * Every chapter includes a guided lab performed in the student's own `GCP` project.
 * Labs use the `Google Cloud Console`, the `gcloud CLI`, and infrastructure-as-code (`Terraform`).
 * A recurring "break it and fix it" troubleshooting lab runs through the whole course.
@@ -140,6 +144,7 @@ mapping is called out so the skills transfer across clouds.
     * Lab: break a path on purpose and use connectivity tests + flow logs to find the fault
 
 ## We will not cover
+
 * `GCP` fundamentals and basic `VPC` creation (assumed as a prerequisite).
 * Application-level and compute services beyond what the network labs require.
 * `GKE` networking internals, which are covered in a dedicated containers course.

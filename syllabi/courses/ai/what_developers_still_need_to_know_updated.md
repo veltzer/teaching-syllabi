@@ -46,17 +46,20 @@ you can change in your own repository the next morning.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Developers who use `AI` assistants or agents daily and want predictable results from them.
 * Senior developers who review and merge machine-written code and are accountable for it.
 * Architects who need to know what `AI` changes in design decisions and what it does not.
 * Team leads deciding how their repositories, pipelines and habits should adapt to `AI`.
 
 ## Prerequisites
+
 * Real programming experience in at least one language.
 * Some hands-on experience with an `AI` coding assistant or agent.
 * Familiarity with version control, automated tests and a relational database.
 
 ## Objectives
+
 * Understand the context window and manage it deliberately instead of fighting it.
 * Write documentation that an `AI` reads, follows and keeps up to date.
 * Use tests as the machine-checkable definition of done.
@@ -66,6 +69,7 @@ you can change in your own repository the next morning.
 * Make architectural decisions with `AI` and shape systems that `AI` can work in.
 
 ## Exercises
+
 * Short guided demonstrations and discussions throughout the day; students who bring a laptop can follow along with their own `AI` agent on their own repository.
 
 ## Outline

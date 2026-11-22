@@ -42,6 +42,7 @@ patterns that are actively used in production environments.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Senior developers who want to master advanced `AI`-powered development workflows
 * Software architects evaluating `AI` tool integration strategies for large systems
 * Tech leads establishing `AI` development practices for their teams
@@ -49,6 +50,7 @@ patterns that are actively used in production environments.
 * Developers working with large codebases or monoliths who need effective `AI` strategies
 
 ## Prerequisites
+
 * `Solid` experience in at least one modern programming language (`Python`, `JavaScript`/`TypeScript`, `Java`, Go, or similar)
 * Working knowledge of `Git`, `CI/CD`, and modern development workflows
 * Basic experience using `AI` coding assistants (e.g., `GitHub Copilot`, `ChatGPT`, Claude)
@@ -56,11 +58,13 @@ patterns that are actively used in production environments.
 * Understanding of software architecture concepts (`microservices`, monoliths, APIs)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Effectively use agentic `AI` coding tools to navigate, understand, and modify large codebases
 * Build and deploy custom `MCP` servers to extend `AI` assistants with project-specific capabilities
 * Design and implement `RAG` pipelines to give `AI` tools deep knowledge of proprietary codebases and documentation

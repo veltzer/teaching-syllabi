@@ -23,6 +23,7 @@ This course covers building web applications and `REST` APIs using Flask, the li
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Python` developers building web applications and `microservices`
 * Backend developers looking for a lightweight alternative to full-stack frameworks
 * Full-stack developers who need flexible and customizable web tooling
@@ -30,6 +31,7 @@ This course covers building web applications and `REST` APIs using Flask, the li
 * Software engineers building prototypes and minimum viable products
 
 ## Prerequisites
+
 * Intermediate proficiency in `Python` programming (functions, classes, decorators)
 * Basic understanding of `HTTP` protocol and `REST API` concepts
 * Familiarity with `HTML`, `CSS`, and `JSON` data format
@@ -38,9 +40,11 @@ This course covers building web applications and `REST` APIs using Flask, the li
 * Command-line interface usage and basic terminal operations
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Build web applications using the Flask application factory pattern
 * Create dynamic pages with Jinja2 templates and template inheritance
 * Organize large applications using blueprints and modular structure

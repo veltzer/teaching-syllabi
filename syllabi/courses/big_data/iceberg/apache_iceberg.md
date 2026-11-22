@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers and data platform engineers
 * Software developers working with data lakes
 * Data scientists who need reliable large-scale data access
@@ -32,6 +33,7 @@ audience:
 * `DevOps` engineers supporting data infrastructure
 
 ## Prerequisites
+
 * Working knowledge of `SQL`
 * Basic understanding of distributed storage and data lake concepts
 * Familiarity with at least one query engine (`Spark`, `Trino`, Presto, or `Flink`)
@@ -39,6 +41,7 @@ audience:
 * Basic command-line interface usage
 
 ## Objectives
+
 * Understand the open table format landscape and why Iceberg was created
 * Explain Iceberg architecture including metadata, manifest files, and data files
 * Perform schema evolution and partition evolution without rewriting data

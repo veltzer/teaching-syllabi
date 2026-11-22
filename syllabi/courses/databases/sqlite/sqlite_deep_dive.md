@@ -22,19 +22,23 @@ This course provides a comprehensive deep dive into `SQLite`, the most widely de
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building applications that use embedded databases
 * Mobile developers targeting `Android` and `iOS` platforms
 * Backend developers looking for lightweight database solutions
 
 ## Prerequisites
+
 * Basic understanding of relational databases and `SQL`.
 * Familiarity with at least one programming language (`Python`, C, `Java`, or similar).
 * Basic command-line skills.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the `SQLite` architecture and how it differs from client-server databases.
 * Write efficient `SQL` queries using `SQLite`-specific features and dialect.
 * Work with advanced features such as FTS5, `JSON` support, CTEs, and window functions.

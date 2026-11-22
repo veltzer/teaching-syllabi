@@ -46,18 +46,21 @@ mapping is called out so the skills transfer across clouds.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Network engineers moving their skills from on-premises to the `AWS` cloud.
 * Cloud and solution architects designing multi-`VPC`, hybrid, and global networks.
 * `DevOps` engineers who provision and automate network infrastructure.
 * System administrators responsible for connectivity, security, and uptime on `AWS`.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `IAM`, and basic `VPC`).
 * `Solid` understanding of `TCP`/`IP`, subnetting/`CIDR`, `DNS`, `HTTP`/`TLS`, and routing.
 * Comfort with the `AWS` Management Console and the `AWS CLI`.
 * Each student needs an `AWS` account with permission to create networking resources.
 
 ## Objectives
+
 * Design and build multi-tier, multi-`VPC` topologies with correct `CIDR` planning and routing.
 * Connect `VPCs` at scale with peering, `Transit Gateway`, `PrivateLink`, and `RAM`.
 * Implement and tune all `Elastic Load Balancing` types and `Route 53` routing policies.
@@ -67,6 +70,7 @@ mapping is called out so the skills transfer across clouds.
 * Automate repeatable network builds with `CloudFormation`/`Terraform`.
 
 ## Exercises
+
 * Every chapter includes a guided lab performed in the student's own `AWS` account.
 * Labs use the `AWS` console, the `AWS CLI`, and infrastructure-as-code (`CloudFormation` or `Terraform`).
 * A recurring "break it and fix it" troubleshooting lab runs through the whole course.
@@ -141,6 +145,7 @@ mapping is called out so the skills transfer across clouds.
     * Lab: break a path on purpose and use `Reachability Analyzer` + flow logs to find the fault
 
 ## We will not cover
+
 * `AWS` fundamentals and basic `VPC` creation (assumed as a prerequisite).
 * Application-level and compute services beyond what the network labs require.
 * `Kubernetes` (`EKS`) networking internals, which are covered in a dedicated containers course.

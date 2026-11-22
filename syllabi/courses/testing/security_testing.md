@@ -27,16 +27,19 @@ This two day course provides a practical, hands-on approach to security testing 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers looking to shift security testing left
 * Security professionals seeking practical tooling skills
 * `DevOps` engineers responsible for pipeline security
 
 ## Prerequisites
+
 * Experience developing or deploying software applications
 * Basic understanding of application security concepts
 * Familiarity with `CI/CD` pipelines and version control
 
 ## Objectives
+
 * Apply `SAST` and `DAST` tools to identify vulnerabilities in code and running applications.
 * Integrate dependency scanning and secret detection into development workflows.
 * Use fuzzing techniques to discover edge-case vulnerabilities.

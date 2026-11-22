@@ -24,17 +24,20 @@ This course covers the design and implementation of data solutions on `Microsoft
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers building data-intensive applications on `Azure`
 * Data engineers designing and maintaining data pipelines
 * Architects planning enterprise data platforms on `Azure`
 
 ## Prerequisites
+
 * Basic understanding of `Azure` services and the `Azure` portal
 * Familiarity with `SQL` and relational database concepts
 * Basic programming experience (`Python` or `SQL`)
 * Understanding of data concepts (`ETL`, data warehousing, data lakes)
 
 ## Objectives
+
 * Design and implement data storage solutions using `Azure Data Lake Storage Gen2` and `Azure SQL Database`
 * Build data pipelines with `Azure Data Factory`
 * Process and analyze data with `Azure Synapse Analytics` and `Azure Databricks`

@@ -26,15 +26,18 @@ complex ideas clearly to both technical and non-technical audiences.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers who present technical content to peers or stakeholders.
 * Tech leads and managers who need to communicate architecture and design decisions.
 * Engineers preparing for conference talks or internal knowledge-sharing sessions.
 
 ## Prerequisites
+
 * Working experience in a software development environment.
 * No prior presentation training required.
 
 ## Objectives
+
 * understand the core concepts and principles of effective technical presentations
 * gain practical knowledge of structuring and designing technical talks
 * gain practical knowledge of live coding, demos, and visual storytelling

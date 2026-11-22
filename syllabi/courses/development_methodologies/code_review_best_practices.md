@@ -27,15 +27,18 @@ efficient, consistent, and valuable for both authors and reviewers.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers who participate in code reviews as authors or reviewers.
 * Team leads seeking to establish or improve review processes.
 * Managers who want to understand the value and dynamics of code review.
 
 ## Prerequisites
+
 * Working experience with at least one programming language.
 * Basic familiarity with `Git` and pull request workflows.
 
 ## Objectives
+
 * understand the core concepts and principles of code review
 * gain practical knowledge of structuring and conducting effective reviews
 * gain practical knowledge of giving and receiving constructive feedback

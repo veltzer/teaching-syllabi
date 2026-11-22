@@ -26,6 +26,7 @@ audience:
 8 hours / 1 day
 
 ## Intended Audience
+
 * `Python` developers building web APIs and `microservices`
 * Backend developers transitioning from Flask, `Django`, or other frameworks
 * Full-stack developers needing modern `API` development skills
@@ -34,6 +35,7 @@ audience:
 * Software architects designing microservice architectures
 
 ## Prerequisites
+
 * Intermediate proficiency in `Python` programming (functions, classes, decorators)
 * Understanding of `HTTP` protocol and `REST API` concepts
 * Basic knowledge of `JSON` data format and web requests
@@ -43,9 +45,11 @@ audience:
 * Command-line interface usage and basic terminal operations
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Build complete `REST APIs` using `FastAPI` framework and `Python` `type-hints`
 * Implement automatic request/response validation using Pydantic models
 * Create interactive `API` documentation with `Swagger UI` and `ReDoc`

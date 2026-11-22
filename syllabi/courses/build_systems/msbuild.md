@@ -30,16 +30,19 @@ and `GitHub Actions`.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `.NET` and `C#` developers who want to move beyond default project templates and understand what happens under the hood.
 * Build and release engineers maintaining `.NET` build pipelines.
 * Platform engineers responsible for shared `MSBuild` tooling and `NuGet` packages across large solutions.
 
 ## Prerequisites
+
 * Working knowledge of `C#` and the `.NET` `SDK`.
 * Familiarity with `Visual Studio` or the `dotnet` `CLI`.
 * Basic understanding of `XML` syntax.
 
 ## Objectives
+
 * Understand the `MSBuild` evaluation model and build execution flow.
 * Read and author `SDK`-style and legacy project files.
 * Use properties, items, and metadata to control builds.

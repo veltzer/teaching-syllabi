@@ -23,6 +23,7 @@ This course provides a `solid` foundation in the three core technologies of the 
 40 hours / 5 days
 
 ## Intended Audience
+
 * Beginners who want to learn web development from the ground up
 * Software developers from other platforms transitioning to web development
 * Backend developers who need to understand frontend fundamentals
@@ -30,11 +31,13 @@ This course provides a `solid` foundation in the three core technologies of the 
 * Anyone interested in building websites and web applications
 
 ## Prerequisites
+
 * Basic computer literacy and familiarity with using a web browser
 * Ability to work with a text editor or IDE
 * No prior programming experience is required, though basic programming concepts are helpful
 
 ## Objectives
+
 * Structure web pages using semantic HTML5 elements, forms, and media
 * Style web pages with CSS3 including Flexbox, Grid, responsive design, and animations
 * Write `JavaScript` programs using variables, types, operators, control flow, functions, arrays, and objects

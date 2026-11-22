@@ -39,18 +39,21 @@ workflows that survive every retry `storm`, network partition and replay scenari
 40 hours / 5 days
 
 ## Intended Audience
+
 * senior developers building distributed APIs and workflows
 * architects designing systems with strong correctness requirements
 * engineers working on payments, billing, ordering or messaging systems
 * engineers who have ever debugged a duplicate-charge or duplicate-message incident
 
 ## Prerequisites
+
 * `solid` backend development experience
 * working knowledge of `HTTP`, at least one database and at least one message broker
 * basic familiarity with distributed systems concepts (replication, partitioning, consensus)
 * experience operating production systems is helpful
 
 ## Objectives
+
 * define idempotency precisely in a distributed setting
 * design APIs whose retry semantics are safe by construction
 * implement and operate idempotency-key systems at scale

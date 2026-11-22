@@ -27,20 +27,24 @@ assessment, and malware analysis purposes.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Security professionals performing mobile application assessments
 * Developers seeking to understand how their apps can be reverse engineered
 * Testers conducting security testing on `Android` applications
 
 ## Prerequisites
+
 * Familiarity with `Android` application development
 * Basic understanding of `Java` or `Kotlin`
 * Experience with command-line tools
 * Basic knowledge of security concepts
 
 ## Required Knowledge
+
 * `Kotlin` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand APK structure and the `Android` build process
 * Decompile and analyze `Android` applications using industry tools
 * Read and modify smali bytecode

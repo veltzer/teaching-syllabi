@@ -31,19 +31,23 @@ architectures, and will strengthen this knowledge using hands-on exercises with 
 Boot, and `Spring Cloud`.
 
 ## Duration
+
 * Short: 8 hours / 1 day
 * Long: 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who want to develop Micro-services and web APIs with Spring
 * Developers who want to know how Spring leverages cloud technologies
 * Developers migrating from Spring to `Spring Boot`
 
 ## Prerequisites
+
 * Experience developing with the Spring Framework and `Java`
 * Basic familiarity with networking concepts such as `HTTP`
 
 ## Objectives
+
 * understand the core concepts and principles of Micro-services with `Spring Boot` and `Spring Cloud`
 * gain practical knowledge of Refresher: Introduction to the Spring Framework
 * gain practical knowledge of Spring testing

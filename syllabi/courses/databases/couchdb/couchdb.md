@@ -24,6 +24,7 @@ The course emphasizes practical experience with real-world scenarios, preparing 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building document-oriented applications
 * Backend engineers designing distributed data stores
 * Mobile developers building offline-first applications
@@ -31,16 +32,19 @@ The course emphasizes practical experience with real-world scenarios, preparing 
 * Architects designing systems requiring multi-master replication
 
 ## Prerequisites
+
 * Basic understanding of database concepts
 * Familiarity with `JSON` and `HTTP`
 * Experience with `JavaScript`
 * Basic `Linux` command line proficiency
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand document database concepts and `CouchDB` architecture
 * Design effective document schemas and manage revisions
 * Write `MapReduce` views and Mango queries

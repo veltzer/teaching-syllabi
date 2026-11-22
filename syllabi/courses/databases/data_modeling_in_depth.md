@@ -40,17 +40,20 @@ Participants leave able to model new domains correctly across paradigms and to r
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers designing or refactoring database schemas
 * `DBAs` and data engineers responsible for schema quality
 * architects whose system design begins with the data model
 * engineers transitioning between relational, document, graph and analytical paradigms
 
 ## Prerequisites
+
 * working knowledge of `SQL` and at least one relational database
 * exposure to at least one non-relational database
 * basic familiarity with at least one programming language and `ORM`
 
 ## Objectives
+
 * model a domain at the conceptual, logical and physical levels
 * apply normalization correctly and recognize when to denormalize
 * design dimensional models for analytical workloads

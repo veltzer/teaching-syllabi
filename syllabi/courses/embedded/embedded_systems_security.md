@@ -39,18 +39,21 @@ unrelated mitigations.
 40 hours / 5 days
 
 ## Intended Audience
+
 * embedded and firmware developers shipping connected products
 * security engineers expanding into embedded
 * architects designing the security story of a hardware product
 * engineers preparing for an embedded-security audit or certification
 
 ## Prerequisites
+
 * working knowledge of C or `C++`
 * basic embedded development experience
 * basic familiarity with cryptographic primitives (hash, signature, symmetric vs asymmetric)
 * exposure to at least one `MCU` family is helpful
 
 ## Objectives
+
 * describe the embedded threat model precisely
 * implement secure boot and a chain of trust on real hardware
 * use hardware-backed keys and remote attestation correctly

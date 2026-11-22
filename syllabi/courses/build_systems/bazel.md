@@ -23,15 +23,18 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers working with large or multi-language codebases
 * `DevOps` engineers managing build infrastructure
 * Teams considering a migration to `Bazel` or monorepo workflows
 
 ## Prerequisites
+
 * Software development experience in at least one compiled language
 * Basic familiarity with build systems concepts
 
 ## Objectives
+
 * Understand `Bazel`'s build model and how it differs from traditional build systems
 * Write BUILD files and configure `Bazel` workspaces
 * Create and use custom rules with Starlark

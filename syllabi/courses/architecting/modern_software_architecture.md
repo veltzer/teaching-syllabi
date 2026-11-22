@@ -30,17 +30,20 @@ and architect systems for resiliency, observability, and `continuous delivery`.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Seasoned developers who are transitioning into an architect role.
 * Technical leads responsible for system design and architectural decisions.
 * Software architects who want to update their knowledge of modern patterns and practices.
 * `DevOps` engineers who want a deeper understanding of the architectures they support.
 
 ## Prerequisites
+
 * Several years of experience in software development.
 * Familiarity with `web services`, `REST` APIs, and basic networking concepts.
 * Basic understanding of containers and `cloud computing`.
 
 ## Objectives
+
 * Understand the principles behind modern distributed system architectures
 * Evaluate trade-offs between different architectural styles and communication patterns
 * Apply `Domain-Driven Design` to define service boundaries
@@ -49,6 +52,7 @@ and architect systems for resiliency, observability, and `continuous delivery`.
 * Architect systems for resiliency, observability, and `continuous delivery`
 
 ## Exercises
+
 * This is a theoretical course, it does not include exercises.
 
 ## Outline

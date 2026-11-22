@@ -25,18 +25,22 @@ This course provides an in-depth exploration of the `TCP`/`IP` protocol suite an
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers who build networked applications.
 * System administrators and `DevOps` engineers responsible for network infrastructure.
 * Security professionals who need to understand network-level attack surfaces.
 
 ## Prerequisites
+
 * Basic familiarity with networking concepts (`IP` addresses, ports, client-server model).
 * Comfort working with the `Linux` or `Windows` command line.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Describe the layers of the OSI and `TCP`/`IP` reference models and map protocols to each layer.
 * Explain `Ethernet` framing, MAC addressing, and link-layer operations.
 * Calculate subnets, apply `CIDR` notation, and design addressing schemes.

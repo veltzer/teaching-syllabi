@@ -26,13 +26,16 @@ developer and your development environment more productive.
 24 hours (1 day)
 
 ## Intended Audience
+
 * Anyone doing development
 * Programmers, QA people, team leaders, managers.
 
 ## Prerequisites
+
 * Some development background
 
 ## Objectives
+
 * understand the core concepts and principles of Development Methodologies from the professionals
 * gain practical knowledge of Script everything
 * gain practical knowledge of Writing code

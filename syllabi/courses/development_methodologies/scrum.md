@@ -23,13 +23,16 @@ This course provides a thorough introduction to the Scrum framework for `agile` 
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers and team leads
 * project managers and `scrum` masters
 
 ## Prerequisites
+
 * experience working in software development teams
 
 ## Objectives
+
 * understand the core concepts and principles of Scrum
 * gain practical knowledge of Agile Principles & Scrum Overview
 * gain practical knowledge of The Team

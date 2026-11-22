@@ -22,17 +22,20 @@ This course provides a deep and thorough understanding of the Spring Framework c
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers building enterprise applications with the Spring ecosystem
 * Software engineers who want a `solid` foundation in Spring before moving to `Spring Boot`
 * Architects evaluating the Spring Framework for their projects
 
 ## Prerequisites
+
 * Intermediate `Java` programming skills (classes, interfaces, generics, annotations)
 * Understanding of object-oriented design principles
 * Familiarity with a build tool such as Maven or `Gradle`
 * Basic knowledge of `design patterns` (Factory, Proxy, Observer)
 
 ## Objectives
+
 * Understand the Spring `IoC` container and how it manages beans
 * Apply dependency injection using constructor, setter, and field injection
 * Configure Spring applications using annotations, `Java` configuration, and `XML`

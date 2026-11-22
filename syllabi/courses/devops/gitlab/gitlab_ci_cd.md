@@ -29,15 +29,18 @@ to design and implement robust `CI/CD` pipelines using `GitLab`.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers and `DevOps` engineers who want to implement and manage `CI/CD` pipelines using `GitLab`.
 * Teams migrating to `GitLab` or looking to improve their existing `GitLab` `CI/CD` workflows.
 
 ## Prerequisites
+
 * Basic familiarity with `Git` version control.
 * General understanding of `CI/CD` concepts.
 * Some experience with command-line tools and `YAML` syntax.
 
 ## Objectives
+
 * Understand `GitLab` `CI/CD` architecture and how pipelines are defined and executed.
 * Write and maintain .`gitlab`-ci.yml configuration files with stages, jobs, variables, and rules.
 * Configure and manage `GitLab` Runners for different execution environments.

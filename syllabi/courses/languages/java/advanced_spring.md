@@ -23,15 +23,18 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * Experienced Spring developers that wants to learn MVC Alternatives: `gRPC`, Reactive Spring and `HTTP`/2
 * Spring developers that wants to use reactive platform for BigData streaming and in-memory manipulations
 
 ## Prerequisites
+
 * Experience with Spring framework
 * Experience with SpringBoot
 * Familiarity with `Microservices` (`spring`.cloud)
 
 ## Objectives
+
 * Gain knowledge about `SOLID` engineering principles
 * Understand `Async` even driven principles
 * Understand how Reactive programming in Spring works.

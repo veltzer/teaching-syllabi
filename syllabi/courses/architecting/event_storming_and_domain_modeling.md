@@ -35,17 +35,20 @@ own organizations, model unfamiliar domains effectively, and turn the output int
 40 hours / 5 days
 
 ## Intended Audience
+
 * architects designing or refactoring systems with non-trivial business logic
 * senior developers working closely with domain experts
 * team leads and tech leads driving service decomposition
 * engineers learning `domain-driven design` and looking for a practical entry point
 
 ## Prerequisites
+
 * several years of software development experience
 * some exposure to `domain-driven design` is helpful but not required
 * basic familiarity with at least one architecture style (`monolith`, `microservices`, event-driven)
 
 ## Objectives
+
 * facilitate big-picture, process-level and software-design event storming workshops
 * identify hot spots, pivotal events and bounded contexts from a workshop output
 * translate event-`storm` artefacts into aggregates, commands, policies and read models

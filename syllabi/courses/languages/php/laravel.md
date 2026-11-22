@@ -22,16 +22,19 @@ Laravel is the most popular `PHP` framework, providing an elegant and expressive
 24 hours / 3 days
 
 ## Intended Audience
+
 * `PHP` developers who want to build modern web applications with Laravel.
 * Web developers transitioning to the Laravel framework.
 * Developers who need to build full-stack applications with a productive `PHP` framework.
 
 ## Prerequisites
+
 * `Solid` understanding of `PHP` programming.
 * Basic knowledge of `HTML`, `CSS`, and `SQL`.
 * Familiarity with MVC concepts is helpful but not required.
 
 ## Objectives
+
 * Understand Laravel's architecture and core concepts
 * Build web applications using MVC patterns with Laravel
 * Use `Eloquent ORM` for database interactions

@@ -25,14 +25,17 @@ This course is intended for Rust developers who wish to delve deeper into Rust b
 8 hours / 1 days
 
 ## Intended Audience
+
 * C programmers who need to interface with Rust code
 * Rust programmers who need to interface with C code
 * Bare-metal or no-os developers
 
 ## Prerequisites
+
 * Prior programming experience in C and Rust is required
 
 ## Objectives
+
 * Learn how to write and use `#![no_std]` crates
 * Learn how to call C libraries from Rust code
 * Learn how to call Rust code from C code
@@ -61,6 +64,7 @@ This course is intended for Rust developers who wish to delve deeper into Rust b
     * Memory barriers
 
 ## References
+
 * [Embedded Rust](https://docs.rust-embedded.org/)
 * [Embedded Rust Book](https://docs.rust-embedded.org/book/index.html)
 * [Rust for C developers](https://opentitan.org/book/doc/rust_for_c_devs.html)

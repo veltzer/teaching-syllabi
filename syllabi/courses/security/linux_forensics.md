@@ -24,17 +24,20 @@ The course helps prepare for the certification exam CLFP (7Safe).
 40 hours / 5 days
 
 ## Intended Audience
+
 * Law enforcement officers & intelligence corps
 * Incident responders
 * Computer investigators
 * IT/network administrators
 
 ## Prerequisites
+
 * `Linux` kernel knowledge.
 * Network Forensics.
 * `Windows` Forensics.
 
 ## Objectives
+
 * Access concealed files on the system and extracting relevant information
 * Master the steps of incident response
 * Analyze relevant case studies
@@ -160,6 +163,7 @@ The course helps prepare for the certification exam CLFP (7Safe).
         * Producing a Court-Ready Report
 
 ## References
+
 * [FTK Imager Documentation](https://www.exterro.com/ftk-imager)
 * [Autopsy Digital Forensics Platform](https://www.autopsy.com/)
 * [`Linux` Memory Extractor (LiME)](https://github.com/504ensicsLabs/LiME)

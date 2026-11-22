@@ -26,12 +26,14 @@ Zero Trust is a security model built on the principle of "never trust, always ve
 16 hours / 2 days
 
 ## Intended Audience
+
 * Security architects and enterprise architects designing modern security frameworks
 * Security engineers responsible for access control and network security
 * `DevOps` and platform engineers building secure infrastructure
 * Security managers and CISOs evaluating Zero Trust adoption strategies
 
 ## Prerequisites
+
 * `Solid` understanding of networking fundamentals (```TCP``/``IP```, `DNS`, `VPN`, firewalls)
 * Familiarity with identity and access management concepts (`LDAP`, `Active Directory`, `OAuth 2.0`)
 * Experience with cloud infrastructure (`AWS`, `Azure`, or `GCP`) is beneficial
@@ -39,6 +41,7 @@ Zero Trust is a security model built on the principle of "never trust, always ve
 * Understanding of enterprise IT architecture and traditional perimeter security models
 
 ## Objectives
+
 * Explain the limitations of traditional perimeter-based security and the business case for Zero Trust
 * Articulate the core principles and pillars of Zero Trust as defined by `NIST SP 800-207` and `BeyondCorp`
 * Design identity-centric access control strategies using `MFA`, conditional access, and `IAM` policies

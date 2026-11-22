@@ -25,14 +25,17 @@ also addresses deployment configuration, security constraints, and `WebSocket` s
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who want to build server-side web applications.
 * Developers transitioning to `Java` web development.
 
 ## Prerequisites
+
 * Working knowledge of `Java` programming.
 * Basic understanding of `HTML` and `HTTP`.
 
 ## Objectives
+
 * Participants will gain a `solid` understanding of
     * The servlet lifecycle and request/response model.
     * Session management techniques.

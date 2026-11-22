@@ -31,20 +31,24 @@ and security considerations for multi-cloud network topologies.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers designing and managing multi-cloud infrastructure.
 * Architects planning network architectures across multiple cloud providers.
 * Site reliability engineers responsible for cross-cloud connectivity and reliability.
 
 ## Prerequisites
+
 * `Solid` understanding of networking fundamentals (```TCP``/``IP```, routing, `DNS`).
 * Experience with at least one major cloud provider (`AWS`, `Azure`, or `GCP`).
 * Familiarity with `VPN` and `firewall` concepts.
 
 ## Required Knowledge
+
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Design multi-cloud network architectures with secure cross-cloud connectivity.
 * Configure `VPN` tunnels and dedicated interconnects between cloud providers.
 * Implement `DNS` resolution and service discovery across multiple clouds.

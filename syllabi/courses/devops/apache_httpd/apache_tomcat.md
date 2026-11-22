@@ -24,19 +24,23 @@ audience:
 16 hours / 1 day
 
 ## Intended Audience
+
 * `Java` developers deploying web applications on Tomcat
 * System administrators managing Tomcat server infrastructure
 * `DevOps` engineers responsible for Tomcat deployment and operations
 
 ## Prerequisites
+
 * Basic `Java` and web application concepts
 * Familiarity with `Linux` command line
 * Understanding of `HTTP` protocol basics
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and configure `Apache Tomcat`
 * Deploy and manage web applications
 * Configure JNDI resources and `JDBC` connection pools

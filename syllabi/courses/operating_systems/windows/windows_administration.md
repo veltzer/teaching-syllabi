@@ -25,16 +25,19 @@ enterprise `Windows` infrastructure.
 40 hours / 5 days
 
 ## Intended Audience
+
 * System administrators responsible for `Windows Server` environments.
 * IT professionals preparing for `Windows` infrastructure roles.
 * Engineers transitioning from `Linux` administration to `Windows`.
 
 ## Prerequisites
+
 * Basic understanding of networking concepts (`TCP`/`IP`, `DNS`, `DHCP`).
 * Familiarity with `Windows` desktop operating systems.
 * Basic command line experience.
 
 ## Objectives
+
 * understand the core concepts and principles of `Windows Server` administration
 * gain practical knowledge of `Active Directory` and Group Policy
 * gain practical knowledge of `PowerShell` for server administration

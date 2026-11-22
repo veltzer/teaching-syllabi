@@ -23,15 +23,18 @@ This course covers the essential skills for operating and managing workloads on 
 32 hours / 4 days
 
 ## Intended Audience
+
 * System administrators responsible for managing `AWS` infrastructure.
 * `DevOps` engineers looking to deepen their operational expertise on `AWS`.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `VPC`, `IAM`).
 * Basic understanding of `Linux` or `Windows` system administration.
 * Familiarity with the `AWS` Management Console and `CLI`.
 
 ## Objectives
+
 * Configure comprehensive monitoring and alerting with `CloudWatch`.
 * Automate operational tasks using `AWS Systems Manager`.
 * Manage `EC2` instances, storage, and networking at scale.

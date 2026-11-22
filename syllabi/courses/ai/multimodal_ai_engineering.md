@@ -42,18 +42,21 @@ that is debuggable, bounded, and operates within a known cost envelope.
 32 hours / 4 days
 
 ## Intended Audience
+
 * `ML` engineers shipping multimodal features
 * senior developers integrating vision or audio capabilities
 * architects designing systems with non-text inputs
 * developers asked to "`make` it work with the photo too"
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * exposure to the `LLM Application Engineering` course
 * working knowledge of `Python`
 * familiarity with `RAG` is helpful
 
 ## Objectives
+
 * choose the right modality strategy for the problem
 * call multimodal `LLM` `APIs` correctly across providers
 * build retrieval over images, audio, and documents

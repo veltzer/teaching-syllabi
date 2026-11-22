@@ -37,17 +37,20 @@ high-functioning organizations.
 40 hours / 5 days
 
 ## Intended Audience
+
 * senior developers stepping into staff/principal/tech-lead roles
 * tech leads and architects who want to be more effective
 * engineering managers who lead technical leaders
 * engineers preparing for staff-engineer interviews
 
 ## Prerequisites
+
 * several years of senior software development experience
 * experience leading at least one non-trivial technical project
 * basic familiarity with software architecture and team dynamics
 
 ## Objectives
+
 * describe the staff-engineer archetypes and pick the one that fits you
 * shape and communicate technical strategy
 * run effective design reviews and architecture decisions

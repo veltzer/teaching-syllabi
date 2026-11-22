@@ -22,6 +22,7 @@ This course provides a comprehensive guide to building backend applications and 
 32 hours / 4 days
 
 ## Intended Audience
+
 * `JavaScript` developers moving into backend and server-side development
 * Frontend developers who want to become full-stack with `Node.js`
 * Backend developers from other languages transitioning to `Node.js`
@@ -29,6 +30,7 @@ This course provides a comprehensive guide to building backend applications and 
 * Development teams adopting `Node.js` for their server-side stack
 
 ## Prerequisites
+
 * `Solid` understanding of `JavaScript` (`ES6`+ features including promises and async/await)
 * Familiarity with `HTTP` protocol and `REST API` concepts
 * Basic knowledge of `JSON` and working with APIs
@@ -37,10 +39,12 @@ This course provides a comprehensive guide to building backend applications and 
 * Familiarity with `TypeScript` basics is helpful but not required
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `Node.js` architecture including the event loop, V8, and `libuv`
 * Manage packages and dependencies with `npm`, `yarn`, and pnpm
 * Write asynchronous code using callbacks, promises, and async/await

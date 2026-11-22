@@ -25,22 +25,26 @@ This course covers `Grafana Loki`, a horizontally scalable, highly available log
 16 hours / 1 day
 
 ## Intended Audience
+
 * `DevOps` engineers building centralized logging infrastructure
 * System administrators managing log collection and analysis
 * Platform engineers evaluating lightweight alternatives to `Elasticsearch` for logs
 
 ## Prerequisites
+
 * Basic understanding of logging concepts and log formats.
 * Familiarity with `Linux` command line.
 * Experience with `Grafana` is helpful.
 * Basic knowledge of `Prometheus` concepts (labels, selectors) is beneficial.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 * `Prometheus` and `Grafana` (or equivalent experience)
 * `Grafana` Basics (or equivalent experience)
 
 ## Objectives
+
 * Understand the Loki architecture and its components.
 * Write LogQL queries for log filtering, parsing, and metric extraction.
 * Design effective label strategies for log streams.

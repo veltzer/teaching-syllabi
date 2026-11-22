@@ -22,6 +22,7 @@ Web accessibility ensures that websites and web applications are usable by every
 16 hours / 2 days
 
 ## Intended Audience
+
 * Front-end developers building accessible web applications
 * Full-stack developers responsible for user-facing interfaces
 * QA engineers testing for accessibility compliance
@@ -30,6 +31,7 @@ Web accessibility ensures that websites and web applications are usable by every
 * Developers working on applications subject to accessibility regulations
 
 ## Prerequisites
+
 * `Solid` understanding of `HTML`, `CSS`, and `JavaScript`
 * Experience building web applications with at least one modern framework (React, Vue, or Angular)
 * Basic knowledge of the DOM and browser developer tools
@@ -37,11 +39,13 @@ Web accessibility ensures that websites and web applications are usable by every
 * Familiarity with semantic `HTML` elements and their purposes
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * React (or equivalent experience)
 * Angular (or equivalent experience)
 
 ## Objectives
+
 * Understand the four principles of `WCAG 2.2` and their success criteria
 * Implement ARIA roles, attributes, and states to enhance accessibility
 * Build keyboard-navigable interfaces with proper focus management

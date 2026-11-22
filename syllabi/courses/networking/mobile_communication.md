@@ -26,17 +26,20 @@ The course is designed for professionals who need a `solid` understanding of mob
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building mobile and telecom applications
 * System architects designing solutions for cellular networks
 * Embedded engineers working with cellular modules and IoT devices
 * Engineers transitioning into the telecom domain
 
 ## Prerequisites
+
 * Basic understanding of networking concepts (`IP`, `TCP`/`UDP`)
 * Familiarity with radio frequency concepts is helpful but not required
 * General understanding of computer architecture
 
 ## Objectives
+
 * Understand cellular network architecture and evolution
 * Explain the key technologies in each cellular generation (2G through 5G)
 * Describe `4G LTE` architecture including EPC and eNodeB

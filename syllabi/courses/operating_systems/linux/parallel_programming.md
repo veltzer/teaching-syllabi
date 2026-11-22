@@ -28,21 +28,25 @@ Emphasis is placed on writing correct, scalable, and performant parallel code, w
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers building high-performance applications
 * Embedded engineers working with multi-core processors
 * Performance engineers optimizing compute-intensive workloads
 * Systems programmers targeting `Linux` platforms
 
 ## Prerequisites
+
 * Strong proficiency in C or `C++`
 * Basic understanding of `POSIX` threads
 * Familiarity with `Linux` development environment
 * Understanding of computer architecture basics (`CPU`, cache, memory)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand modern multi-core architecture and its impact on software
 * Write parallel programs using `POSIX` threads, `OpenMP`, and `Intel TBB`
 * Apply SIMD/vectorization techniques for data-level parallelism

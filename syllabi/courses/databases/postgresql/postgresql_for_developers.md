@@ -24,18 +24,21 @@ This course provides developers with a deep understanding of `PostgreSQL`, one o
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building `PostgreSQL`-backed systems
 * Backend engineers working with relational databases
 * Software engineers looking to deepen their `SQL` and database skills
 * Developers migrating from other relational databases to `PostgreSQL`
 
 ## Prerequisites
+
 * Working knowledge of basic `SQL` (SELECT, INSERT, UPDATE, DELETE, JOIN)
 * Familiarity with relational database concepts (tables, keys, normalization)
 * Proficiency in at least one programming language
 * Basic command-line skills
 
 ## Objectives
+
 * Write advanced `SQL` queries using CTEs, window functions, and subqueries
 * Design and implement effective indexing strategies for query performance
 * Leverage JSONB for flexible document storage within a relational model

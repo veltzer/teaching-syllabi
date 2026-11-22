@@ -24,20 +24,24 @@ This course covers the Dart language in depth, followed by comprehensive `Flutte
 40 hours / 5 days
 
 ## Intended Audience
+
 * Developers who want to build cross-platform mobile applications
 * Web developers transitioning to mobile development
 * Programmers looking for a productive framework for building `iOS` and `Android` apps simultaneously
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Java`, `JavaScript`, `Python`, or `C#`
 * Basic understanding of object-oriented programming concepts
 * Familiarity with mobile app concepts is helpful but not required
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Write fluent Dart code with null safety and async patterns
 * Build cross-platform mobile applications with `Flutter`
 * Implement state management using Provider, Riverpod, and Bloc

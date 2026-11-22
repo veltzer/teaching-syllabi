@@ -31,18 +31,22 @@ practical experience building images for multiple platforms, integrating `Packer
 16 hours / 1 day
 
 ## Intended Audience
+
 * `DevOps` engineers responsible for building and maintaining machine images for cloud and on-premises infrastructure.
 
 ## Prerequisites
+
 * Familiarity with command-line tools and scripting.
 * Basic understanding of virtualization and `cloud computing` concepts.
 * Experience with at least one cloud provider (`AWS`, `Azure`, or `GCP`) is helpful.
 
 ## Required Knowledge
+
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the benefits of automated image building.
 * Write `Packer` templates using HCL2 syntax.
 * Build images for multiple platforms using different builders.

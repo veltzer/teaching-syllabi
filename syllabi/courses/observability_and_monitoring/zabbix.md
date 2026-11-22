@@ -25,21 +25,25 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * System administrators responsible for monitoring on-premise and cloud infrastructure across multiple platforms and operating systems.
 * `DevOps` engineers integrating `Zabbix` into `CI/CD` pipelines and automating infrastructure monitoring.
 * Network engineers who need to monitor network devices, switches, routers, and firewalls using `SNMP` and `IPMI`.
 
 ## Prerequisites
+
 * `Solid` `Linux` system administration skills, including service management and networking commands.
 * Basic understanding of networking concepts: `IP`, `SNMP`, `ICMP`, `TCP/UDP`.
 * Familiarity with relational databases (`MySQL` or `PostgreSQL`) at a basic administrative level.
 * Experience with `JSON` or scripting (Bash, `Python`) is helpful for automation topics.
 
 ## Required Knowledge
+
 * `Linux` System Administration (or equivalent experience)
 * Networking fundamentals
 
 ## Objectives
+
 * Understand `Zabbix` architecture and deploy it in a production-ready configuration
 * Configure hosts, templates, and items to collect data from diverse infrastructure components
 * Build intelligent triggers and actions to detect and respond to problems automatically

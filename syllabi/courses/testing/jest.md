@@ -25,16 +25,19 @@ This course provides a thorough grounding in Jest, the most widely used testing 
 16 hours / 2 days
 
 ## Intended Audience
+
 * `JavaScript` and `TypeScript` developers new to or looking to deepen their Jest skills
 * Front-end engineers building React, Vue, or Angular applications
 * Full-stack developers who want consistent testing practices across the `Node.js` ecosystem
 
 ## Prerequisites
+
 * `Solid` working knowledge of `JavaScript` (`ES6`+) or `TypeScript`
 * Familiarity with `Node.js` and `npm`/`yarn` package management
 * Basic understanding of testing concepts: what a test is and why it matters
 
 ## Objectives
+
 * Understand Jest's architecture, configuration, and test runner model
 * Write clear, well-structured tests using `describe`, it, and `expect`
 * Use the full range of Jest matchers for assertions

@@ -24,6 +24,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building and maintaining data pipelines
 * Software developers transitioning to data engineering
 * Data scientists who need to operationalize data workflows
@@ -31,6 +32,7 @@ audience:
 * Analytics engineers working with `dbt` and orchestration tools
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of data engineering concepts (`ETL`/`ELT`)
 * Familiarity with `SQL` and relational databases
@@ -38,10 +40,12 @@ audience:
 * Experience with version control (`Git`)
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `Dagster` philosophy and the software-defined assets paradigm
 * Build asset graphs that model data dependencies and lineage
 * Create ops, jobs, and graphs for imperative pipeline definitions

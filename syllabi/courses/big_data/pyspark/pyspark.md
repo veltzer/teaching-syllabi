@@ -24,19 +24,23 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building data processing pipelines with `Python`
 * Data engineers designing `ETL` workflows at scale
 * Data scientists who need distributed computing for large datasets
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `SQL`
 * Familiarity with data processing concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Create and configure SparkSession instances
 * Process data using RDDs, DataFrames, and `Spark SQL`
 * Read and write data from multiple sources

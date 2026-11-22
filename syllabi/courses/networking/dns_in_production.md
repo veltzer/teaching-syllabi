@@ -39,6 +39,7 @@ multi-region systems. Participants leave able to design, operate, and debug prod
 40 hours / 5 days
 
 ## Intended Audience
+
 * `DevOps` and `SRE` engineers operating production systems
 * network engineers handling enterprise or public `DNS`
 * senior developers whose systems depend on `DNS` more than they realize
@@ -46,11 +47,13 @@ multi-region systems. Participants leave able to design, operate, and debug prod
 * engineers responding to `DNS`-driven incidents
 
 ## Prerequisites
+
 * working knowledge of `TCP`/`IP`, `HTTP`, and the `DNS` Deep Dive material
 * basic familiarity with at least one cloud provider
 * exposure to running at least one production service
 
 ## Objectives
+
 * identify `DNS` as the hidden dependency in incident scenarios
 * design authoritative `DNS` architecture for production scale
 * operate `DNSSEC` correctly

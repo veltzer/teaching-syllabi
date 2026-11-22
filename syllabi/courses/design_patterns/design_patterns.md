@@ -33,9 +33,11 @@ an object oriented one like `Java`, `C#`, `Python` or `C++`.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers with experience in an object oriented language
 
 ## Prerequisites
+
 * At least one year experience in programming an object oriented language.
 * Understanding of the following:
     * abstract data type
@@ -48,6 +50,7 @@ an object oriented one like `Java`, `C#`, `Python` or `C++`.
     * virtual methods
 
 ## Objectives
+
 * you will get better and more ideas on how to model a particular technical problem
 * you will be able to reuse and apply design ideas which are proven to be effective
 * you will get to a more appropriate granularity of your classes that model a particular domain

@@ -24,23 +24,27 @@ This course provides a deep dive into `Amazon DynamoDB`, a fully managed `NoSQL`
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers building applications on `AWS`
 * Software engineers working with `NoSQL` databases
 * Cloud architects designing serverless or `microservices` architectures
 * Developers migrating from relational databases to `DynamoDB`
 
 ## Prerequisites
+
 * Basic understanding of `NoSQL` database concepts
 * Familiarity with `AWS` services and the `AWS Management Console`
 * Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, or Go preferred)
 * Basic understanding of `JSON` data format
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * Introduction to `AWS` (or equivalent experience)
 
 ## Objectives
+
 * Understand `DynamoDB` architecture, partitioning, and data distribution
 * Design effective single-table data models for complex access patterns
 * Choose and configure partition keys, sort keys, GSIs, and LSIs

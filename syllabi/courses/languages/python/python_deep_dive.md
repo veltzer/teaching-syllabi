@@ -34,14 +34,17 @@ techniques acquired
 40 hours / 5 days
 
 ## Intended Audience
+
 * This course is suitable for programmers maintaining existing projects or starting new projects in `Python`.
 
 ## Prerequisites
+
 * Participants must have current experience with programming with at least one
 * Knowledge in some programming language is required (not including query languages, such as `SQL`)
 * No previous knowledge of `Python` is assumed
 
 ## Objectives
+
 * Implement object-oriented designs, to any degree of complexity, in `Python`.
 * Implement user-defined types, such as container-like classes.
 * Implement Simple GUI applications in wxPython.
@@ -148,6 +151,7 @@ techniques acquired
     * `Machine learning` - Scikit learn
 
 ## Installations
+
 * Each student should have a machine with python3 installed on it
 * A `Linux` machine is preferable to `Windows` but is not mandatory.
 

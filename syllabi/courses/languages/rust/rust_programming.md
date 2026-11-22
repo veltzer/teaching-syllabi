@@ -25,20 +25,24 @@ The course includes hands on exercises.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Systems programmers who want to study a powerful general language that is suitable for systems programming.
 * Software developers who need a flexible and multi purpose language at their disposal.
 * C/`C++` Developers who want a safe alternative to C/`C++` which still gives them the performance of C/`C++`.
 * Since the `Linux` Kernel now supports Rust as a programming language this course is also suitable to `Linux` kernel developers who want to write device drivers in Rust.
 
 ## Prerequisites
+
 * Prior programming experience in other languages such as C, `C++`, Go, `Python` or `Java`.
 * Understanding of basic computer science concepts
 * Familiarity with command-line interfaces
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Write safe and efficient Rust code
 * Understand and apply Rust's ownership system
 * Create and structure Rust projects

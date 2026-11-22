@@ -23,15 +23,18 @@ This course explores `Testcontainers`, the open-source library that enables deve
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers writing integration tests for services that depend on databases, queues, or other infrastructure
 * Engineers who want to eliminate "it works on my machine" problems in test environments
 
 ## Prerequisites
+
 * `Solid` experience in at least one of `Java`, `Python`, or Go
 * Familiarity with `Docker` concepts: images, containers, and `docker-compose`
 * Basic experience writing integration or unit tests in any language
 
 ## Objectives
+
 * Articulate the challenges of integration testing with shared environments and explain how `Testcontainers` solves them
 * Understand the `Testcontainers` architecture and its relationship with the `Docker` daemon
 * Write integration tests for `Java` applications using `JUnit 5` and `Testcontainers`

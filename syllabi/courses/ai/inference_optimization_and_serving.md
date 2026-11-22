@@ -43,18 +43,21 @@ to serve a model with the right stack at the right cost.
 32 hours / 4 days
 
 ## Intended Audience
+
 * `ML` engineers serving open models in production
 * senior developers running inference workloads
 * performance engineers optimizing `GPU` utilization
 * `DevOps` engineers operating `GPU` fleets
 
 ## Prerequisites
+
 * working knowledge of `Python` and at least one deep-learning framework
 * exposure to the `MLOps` course
 * basic familiarity with `LLMs` and transformers
 * working `Linux` and container experience
 
 ## Objectives
+
 * explain the inference compute pattern
 * pick the right serving stack for the workload
 * apply quantization and parallelism correctly

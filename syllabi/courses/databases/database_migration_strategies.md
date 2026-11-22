@@ -24,19 +24,23 @@ This course covers modern strategies and tools for managing database schema chan
 16 hours / 1 day
 
 ## Intended Audience
+
 * Backend developers responsible for database schema changes
 * `DevOps` engineers integrating database changes into deployment pipelines
 * Database administrators managing schema evolution in production
 * Team leads overseeing release processes involving database changes
 
 ## Prerequisites
+
 * Experience with software development and deployment workflows
 * Understanding of relational database concepts and schema design
 
 ## Required Knowledge
+
 * `SQL` (or equivalent relational database experience)
 
 ## Objectives
+
 * Plan and execute zero-downtime database migrations
 * Implement schema versioning using Flyway and `Liquibase`
 * Apply the expand-contract pattern for backward-compatible schema changes

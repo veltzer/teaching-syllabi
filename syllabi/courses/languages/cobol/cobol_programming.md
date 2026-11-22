@@ -28,15 +28,18 @@ The course includes hands on exercises.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Developers entering the mainframe or enterprise computing space.
 * Programmers tasked with maintaining or modernizing legacy `COBOL` systems.
 * IT professionals working in banking, finance, insurance, or government sectors.
 
 ## Prerequisites
+
 * Basic understanding of programming concepts (variables, control flow, data types).
 * Familiarity with a command-line interface.
 
 ## Objectives
+
 * Understand `COBOL` program structure and its four divisions
 * Write `COBOL` programs that process business data
 * Work with sequential, indexed, and relative files

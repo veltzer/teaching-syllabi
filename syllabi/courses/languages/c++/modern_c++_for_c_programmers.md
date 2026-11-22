@@ -35,6 +35,7 @@ This a comprehensive five-day course with a combination of lectures and practica
 40 hours / 5 days
 
 ## Intended Audience
+
 * Active `C++` developers who would like to deepen their understanding of the `C++` language.
 * C or other language developers who would like to begin programming in `C++`.
 * Developers for which this will be the first language (in which case this course will be done slower).
@@ -42,12 +43,14 @@ This a comprehensive five-day course with a combination of lectures and practica
 ## Prerequisites
 
 This is not a course for beginners. It covers a great deal of material and those who do not meet the course prerequisites will find the course moves too quickly.
+
 * You must have a `solid` recent experience writing `C++`.
 * First 2 days will be a refresher for the `C++` basics
 * You must have a good appreciation of object-oriented principles.
 * You must be comfortable with `new-and-delete-operators`, `class-definitions` and member functions, constructors and destructors, pointers, references, `virtual-functions`, function overloading, specialization, inheritance and polymorphism.
 
 ## Objectives
+
 * Describe the modern approach to programming that `C++` 11 facilitates.
 * Describe and use advanced techniques for safe copying and forwarding
 * Describe and use template techniques for efficient generic coding

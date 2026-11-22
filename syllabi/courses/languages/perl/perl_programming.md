@@ -24,21 +24,25 @@ This course covers `Perl` from the basics through advanced topics including obje
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who need to write scripts for text processing and automation
 * System administrators looking for a powerful scripting language
 * Programmers maintaining or extending existing `Perl` codebases
 * Anyone who wants to learn a versatile scripting language
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Python`, Bash, or C
 * Basic familiarity with the command line
 * Understanding of fundamental programming concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * Bash Scripting (or equivalent experience)
 
 ## Objectives
+
 * Write `Perl` programs using scalars, arrays, and hashes
 * Master `Perl` regular expressions for text processing
 * Use subroutines, references, and data structures effectively

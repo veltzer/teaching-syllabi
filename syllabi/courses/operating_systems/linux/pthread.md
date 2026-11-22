@@ -31,14 +31,17 @@ concurrent code, which is where most of the real difficulty lies.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * knowledge in basic `UNIX` systems programming (`Linux` Fundamentals or equivalent experience).
 * hands on familiarity with command line writing, compiling running and debugging on `Linux` and/or `UNIX`.
 
 ## Objectives
+
 * understand the `Linux` `threading` model and how it differs from the classic `UNIX` process model
 * create, join, detach and cancel threads correctly
 * choose the right synchronization primitive (`mutex`, condition variable, `rwlock`, spinlock, barrier, semaphore) for a given problem

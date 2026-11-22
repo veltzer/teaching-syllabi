@@ -22,19 +22,23 @@ This course covers advanced `TypeScript` features for experienced developers who
 16 hours / 2 days
 
 ## Intended Audience
+
 * Experienced `TypeScript` developers looking to master the advanced type system
 * Frontend and backend developers building large-scale typed applications
 * Library authors who need to create expressive `type-definitions`
 
 ## Prerequisites
+
 * `Solid` experience with `TypeScript` programming
 * Familiarity with generics, interfaces, and basic type patterns
 * Understanding of `JavaScript` module systems
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Master conditional types, mapped types, and template literal types
 * Create precise and expressive `type-definitions` for complex APIs
 * Apply advanced type guards and narrowing techniques

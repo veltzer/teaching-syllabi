@@ -27,15 +27,18 @@ This course covers Nim from first programs through its type system, memory manag
 24 hours / 3 days
 
 ## Intended Audience
+
 * Systems programmers looking for a more ergonomic alternative to C/`C++`
 * Developers interested in metaprogramming and compile-time code generation
 * Engineers exploring modern compiled language alternatives to Rust or Go
 
 ## Prerequisites
+
 * `Solid` experience in at least one compiled or systems programming language
 * Basic understanding of memory management concepts
 
 ## Objectives
+
 * Write idiomatic Nim code using its type system and procedural style
 * Apply object-oriented features using Nim's type hierarchy
 * Use generics and templates for reusable, type-safe abstractions

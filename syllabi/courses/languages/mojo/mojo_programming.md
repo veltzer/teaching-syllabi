@@ -29,16 +29,19 @@ This course takes `Python` developers through Mojo's type system, memory ownersh
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Python` developers who need native performance for numerical and `AI` workloads
 * `ML` engineers optimising model inference and training kernels
 * Systems programmers exploring modern alternatives for `AI` infrastructure
 
 ## Prerequisites
+
 * Strong `Python` programming skills
 * Familiarity with `NumPy` and basic `machine learning` concepts
 * Basic understanding of `CPU` architecture and memory hierarchy is helpful
 
 ## Objectives
+
 * Understand how Mojo extends `Python` for performance-critical code
 * Use fn functions, `struct` types, and the type system for zero-overhead abstractions
 * Apply Mojo's ownership and borrow checker to manage memory safely

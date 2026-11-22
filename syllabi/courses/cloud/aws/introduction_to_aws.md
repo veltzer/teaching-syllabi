@@ -34,6 +34,7 @@ This course is designed for anyone seeking to learn the fundamentals of `Amazon 
 General IT knowledge and a desire to learn about `cloud computing`. No prior experience with `AWS` or cloud services is required.
 
 ## Objectives
+
 * The participants will be able to understand the core concepts of `cloud computing` and the `AWS` value proposition.
 * They will be able to identify the key services on the `AWS` platform and understand their primary use cases, including compute, storage, networking, and databases.
 * Participants will learn the fundamentals of `AWS` security and identity management.

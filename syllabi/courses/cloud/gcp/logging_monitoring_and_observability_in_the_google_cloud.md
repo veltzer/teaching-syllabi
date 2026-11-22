@@ -30,18 +30,22 @@ production, and profiling `CPU` and memory usage.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Cloud architects, administrators, and SysOps personnel
 * Cloud developers and `DevOps` personnel
 
 ## Prerequisites
+
 * `Google Cloud` Fundamentals: Core Infrastructure or equivalent experience
 * Basic scripting or coding familiarity
 * Proficiency with command-line tools and `Linux` operating system environments
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Plan and implement a well-architected logging and monitoring infrastructure
 * Define service level indicators (SLIs) and service level objectives (SLOs)
 * Create effective monitoring dashboards and alerts

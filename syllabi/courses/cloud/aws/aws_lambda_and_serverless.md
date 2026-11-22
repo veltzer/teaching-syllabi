@@ -23,20 +23,24 @@ This course provides a deep dive into serverless computing on `Amazon Web Servic
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building cloud-native applications on `AWS`
 * Architects designing serverless and event-driven systems
 
 ## Prerequisites
+
 * Working knowledge of at least one programming language (`Python`, `Node.js`, or `Java`)
 * Basic familiarity with `AWS` services (`IAM`, `S3`, `VPC`)
 * Understanding of `REST` APIs and `HTTP` fundamentals
 * Experience with command-line tools
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Understand serverless computing concepts and the `AWS` serverless ecosystem
 * Write, configure, and deploy `AWS Lambda` functions with runtimes, layers, versions, and aliases
 * Build `REST` and `HTTP` APIs using `API Gateway`

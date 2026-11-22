@@ -23,6 +23,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 32 hours / 4 days
 
 ## Intended Audience
+
 * `Java` developers building backend applications and `microservices`
 * Software engineers transitioning to the Spring ecosystem
 * Backend developers looking to adopt modern `Java` development practices
@@ -30,6 +31,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 * Architects evaluating `Spring Boot` for enterprise applications
 
 ## Prerequisites
+
 * Intermediate proficiency in `Java` programming (classes, interfaces, generics, annotations)
 * Understanding of object-oriented programming principles
 * Basic knowledge of `HTTP` protocol and `REST API` concepts
@@ -39,6 +41,7 @@ This course provides a comprehensive guide to building enterprise-grade applicat
 * Command-line interface usage and basic terminal operations
 
 ## Objectives
+
 * Understand `Spring Boot` auto-configuration, starters, and embedded servers
 * Apply Spring core concepts: dependency injection, bean lifecycle, and component scanning
 * Build `RESTful APIs` with proper request handling, validation, and error responses

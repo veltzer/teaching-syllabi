@@ -26,14 +26,17 @@ This intensive one-day course focuses on techniques and strategies to reduce `Li
 16 hours / 2 days
 
 ## Intended Audience
+
 * People developing embedded `Linux` systems.
 * People supporting embedded `Linux` system developers.
 
 ## Prerequisites
+
 * Knowledge and practice of `UNIX` or GNU/`Linux` commands
 * Minimal experience in embedded `Linux` development
 
 ## Objectives
+
 * Be able to use various tools and techniques to measure the boot time of an embedded `Linux` system.
 * Be able to reduce the boot time spent during the user-space initialization.
 * Be able to reduce the boot time spent during the kernel initialization.

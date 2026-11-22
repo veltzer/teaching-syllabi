@@ -25,16 +25,19 @@ applications with a focus on power efficiency and interoperability.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Embedded developers building BLE-enabled devices.
 * Mobile developers integrating BLE into `Android` or `iOS` applications.
 * IoT engineers designing wireless sensor networks.
 
 ## Prerequisites
+
 * C programming experience.
 * Basic understanding of wireless communication concepts.
 * Familiarity with embedded development is an advantage.
 
 ## Objectives
+
 * understand the core concepts and principles of the BLE protocol stack
 * gain practical knowledge of GATT services, characteristics, and profiles
 * gain practical knowledge of BLE security, pairing, and bonding

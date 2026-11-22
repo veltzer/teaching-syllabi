@@ -33,21 +33,25 @@ considerations that practitioners must navigate when deploying generative system
 24 hours / 3 days
 
 ## Intended Audience
+
 * `ML` engineers and data scientists who want to understand and work with state-of-the-art generative models.
 * Researchers looking to build on diffusion model foundations for novel applications.
 * Developers building products powered by image, video, or audio generation.
 
 ## Prerequisites
+
 * Strong `Python` programming skills.
 * `Solid` understanding of `deep learning` fundamentals including convolutional networks and transformers.
 * Familiarity with `PyTorch` and experience training neural networks.
 * Comfort with probability and statistics: Gaussian distributions, KL divergence, and Markov chains.
 
 ## Required Knowledge
+
 * `Deep Learning` fundamentals (or equivalent experience)
 * `PyTorch` (or equivalent experience)
 
 ## Objectives
+
 * Understand the mathematical foundations of diffusion models and the forward/reverse process.
 * Implement Denoising Diffusion Probabilistic Models (`DDPM`) from first principles.
 * Understand score-based generative modelling and its connection to diffusion.

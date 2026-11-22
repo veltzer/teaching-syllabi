@@ -26,15 +26,18 @@ other popular embedded `RTOS` platforms such as `FreeRTOS` and Zephyr.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Embedded engineers working with real-time and resource-constrained systems
 * Developers transitioning to embedded software development
 
 ## Prerequisites
+
 * Strong C programming skills
 * Basic understanding of computer architecture (`CPU`, memory, interrupts)
 * Familiarity with operating system concepts
 
 ## Objectives
+
 * Understand the principles of non-secure (non-`MMU`) operating systems
 * Know the differences between secure and non-secure operating systems
 * Understand real-time operating system concepts and scheduling

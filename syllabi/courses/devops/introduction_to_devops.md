@@ -27,6 +27,7 @@ This 40-hour course introduces students to the principles and practices of `DevO
 40 hours / 5 days
 
 ## Intended Audience
+
 * Software developers looking to expand their knowledge into operations and automation
 * IT operations professionals interested in learning about modern software development practices
 * System administrators wanting to update their skills for cloud and `DevOps` environments
@@ -35,15 +36,18 @@ This 40-hour course introduces students to the principles and practices of `DevO
 * Any IT professional interested in learning about `DevOps` principles and practices
 
 ## Prerequisites
+
 * Basic understanding of software development concepts
 * Familiarity with command-line interfaces
 * Basic knowledge of operating systems (`Linux`/`Unix` preferred)
 * Some exposure to `cloud computing` concepts (helpful but not required)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the core principles and benefits of `DevOps`
 * Implement basic Continuous Integration and Continuous Deployment (`CI/CD`) pipelines
 * Use version control systems effectively
@@ -109,6 +113,7 @@ This 40-hour course introduces students to the principles and practices of `DevO
     * `DevOps` practices in cloud environments
 
 ## Textbooks and Resources
+
 * `The Phoenix Project` by Gene Kim, Kevin Behr, and George Spafford
 * `DevOps Handbook` by Gene Kim, Jez Humble, Patrick Debois, and John Willis
 * `Continuous Delivery` by Jez Humble and David Farley

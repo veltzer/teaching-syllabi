@@ -24,6 +24,7 @@ This course is a `Linux` Kernel Debugging course and explores the various tools
 and techniques that enable efficient debugging of code in the `Linux` kernel.
 
 ## Duration
+
 * 3 days for experienced programmer.
 * 5 days for non experienced programmers.
 
@@ -35,11 +36,13 @@ expand their knowledge about the tools and techniques for debugging code
 in the `Linux` kernel.
 
 ## Prerequisites
+
 * C language
 * `Linux` command line
 * `Linux` kernel programming
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` Kernel Debugging
 * gain practical knowledge of Basics
 * gain practical knowledge of Kernel Features (reminder)

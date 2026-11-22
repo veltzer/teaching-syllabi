@@ -23,14 +23,17 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
 24 hours / 3 days
 
 ## Intended Audience
+
 * IT Professionals, Developers, System Administrators, Business Analysts, Project Managers
 * Anyone interested in learning about `Azure`.
 
 ## Prerequisites
+
 * Basic understanding of computer networking and operating systems is recommended.
 * No prior `Azure` experience is required.
 
 ## Objectives
+
 * Understand the fundamental concepts of `cloud computing` and its benefits.
 * Navigate the `Azure` portal and `Azure` `CLI`.
 * Identify and describe core `Azure` services, including compute, storage, networking, and databases.
@@ -42,6 +45,7 @@ This course provides a comprehensive introduction to the Microsoft `Azure` cloud
 * Identify resources for continued learning and certification.
 
 ## Exercises
+
 * Throughout the course, hands-on labs will reinforce the concepts covered in the lectures. These labs will be strategically placed within the course content to maximize learning and retention.
 
 ## Outline

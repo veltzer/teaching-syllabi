@@ -25,21 +25,25 @@ As microservice architectures grow in complexity, understanding the flow of a si
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building and operating microservice-based applications who need to diagnose latency and correctness issues across service boundaries.
 * `DevOps` engineers and SREs responsible for deploying and maintaining observability infrastructure in cloud-native environments.
 * Platform engineers evaluating or adopting distributed tracing as part of an observability strategy.
 
 ## Prerequisites
+
 * Familiarity with `microservices` and container-based deployments (`Docker`, `Kubernetes`).
 * Basic experience with at least one programming language (Go, `Python`, `Java`, or `JavaScript`).
 * Understanding of `HTTP` and basic networking concepts.
 * Some exposure to observability concepts (metrics, logs) is helpful but not required.
 
 ## Required Knowledge
+
 * `Docker` and `Kubernetes` fundamentals (or equivalent experience)
 * `Linux` command-line proficiency
 
 ## Objectives
+
 * Understand the principles and motivations behind distributed tracing
 * Explain `Jaeger`'s architecture and how its components interact
 * Instrument applications using the `OpenTelemetry` `SDK` to emit traces to `Jaeger`

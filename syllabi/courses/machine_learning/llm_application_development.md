@@ -31,19 +31,23 @@ applications are reliable and effective.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers who want to integrate `LLM` capabilities into their applications.
 * Data scientists and `ML` engineers looking to build `LLM`-powered products.
 * Technical leads evaluating `LLM` application architectures.
 
 ## Prerequisites
+
 * `Solid` `Python` programming skills.
 * Basic understanding of `machine learning` and natural language processing concepts.
 * Familiarity with `REST` APIs and `web services`.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Apply effective prompt engineering techniques for reliable `LLM` outputs.
 * Build `RAG` pipelines using embeddings and vector databases.
 * Understand and apply fine-tuning approaches for `LLMs`.

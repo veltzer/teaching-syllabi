@@ -39,17 +39,20 @@ decide when to introduce a `BFF`, who should own it, and how to keep it from col
 16 hours / 2 days
 
 ## Intended Audience
+
 * architects designing client-server systems with multiple distinct clients
 * senior developers building or maintaining a `BFF`
 * tech leads navigating the team-ownership question
 * developers asked to "just add it to the gateway"
 
 ## Prerequisites
+
 * working knowledge of `REST` or `GraphQL`
 * exposure to `microservices` architecture concepts
 * familiarity with at least one frontend platform (web, mobile)
 
 ## Objectives
+
 * explain when a `BFF` is the right pattern and when it is not
 * design a `BFF` that does not become a generic gateway
 * assign ownership of a `BFF` to the right team

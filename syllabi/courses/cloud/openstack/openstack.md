@@ -25,20 +25,24 @@ This course provides a comprehensive exploration of OpenStack, the leading open-
 24 hours / 3 days
 
 ## Intended Audience
+
 * System administrators looking to build and manage private cloud infrastructure.
 * `DevOps` engineers integrating OpenStack into their workflows.
 * Solutions architects designing private and hybrid cloud deployments.
 * Developers building applications on OpenStack-based platforms.
 
 ## Prerequisites
+
 * `Solid` understanding of `Linux` system administration.
 * Familiarity with virtualization concepts (`KVM`, hypervisors).
 * Basic knowledge of networking (`IP` addressing, VLANs, routing).
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Explain private cloud concepts and how OpenStack fits into the cloud landscape.
 * Describe the OpenStack architecture and the role of each core service.
 * Configure and manage identity, authentication, and authorization with Keystone.

@@ -24,12 +24,15 @@ The Introduction to `Apache Kafka` training course will provide the path for how
 16 hours / 2 days
 
 ## Intended Audience
+
 * This class is targeted at developers and those who would be implementing producers and consumers in a `Kafka` topology.
 
 ## Prerequisites
+
 * Prior experience with `Java` required.
 
 ## Objectives
+
 * Learn the fundamentals of `Kafka`
 * Gain understanding on how `Kafka` fits into the `Hadoop` ecosystem as well as the enterprise
 * Build consumers and producers and integrate with other ecosystem products

@@ -25,6 +25,7 @@ audience:
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers and `DevOps` engineers
 * Development team leads and project managers
 * System administrators managing deployment processes
@@ -33,6 +34,7 @@ audience:
 * Anyone looking to automate repetitive development tasks
 
 ## Prerequisites
+
 * Basic understanding of `Git` version control system
 * Familiarity with `GitHub` repository management
 * Basic knowledge of command-line interfaces
@@ -42,6 +44,7 @@ audience:
 * Access to a `GitHub` account with repository creation permissions
 
 ## Objectives
+
 * Create and configure `GitHub Actions` workflows for automated tasks
 * Implement `CI/CD` pipelines for code testing, building, and deployment
 * Utilize pre-built actions from the `GitHub Marketplace`

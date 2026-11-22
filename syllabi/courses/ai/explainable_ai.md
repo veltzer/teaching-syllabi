@@ -32,19 +32,23 @@ addresses fairness, bias detection, and the growing regulatory landscape around 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data scientists and `ML` engineers who need to explain and audit model predictions.
 * Managers and technical leads responsible for deploying `AI` in regulated or sensitive environments.
 * Developers integrating `ML` models into products where user trust and transparency are required.
 
 ## Prerequisites
+
 * `Solid` `Python` programming skills.
 * Practical experience training and evaluating `machine learning` models.
 * Familiarity with supervised learning concepts such as classification, regression, and tree-based models.
 
 ## Required Knowledge
+
 * `Machine Learning` fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand why model explainability is essential in modern `AI` systems.
 * Distinguish between global and local explanation methods.
 * Apply model-agnostic methods including `SHAP` and `LIME` to any `ML` model.

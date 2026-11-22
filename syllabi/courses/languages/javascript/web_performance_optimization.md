@@ -25,17 +25,21 @@ This course provides a comprehensive guide to measuring, analyzing, and improvin
 16 hours / 2 days
 
 ## Intended Audience
+
 * Web developers seeking to build high-performance applications.
 * Performance engineers responsible for monitoring and improving site speed.
 
 ## Prerequisites
+
 * Several years of web development experience.
 * Understanding of browser rendering and `HTTP` fundamentals.
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals
 
 ## Objectives
+
 * Measure and interpret Core Web Vitals (LCP, FID, CLS).
 * Analyze performance using Lighthouse and `PageSpeed Insights`.
 * Optimize the critical rendering path for faster page loads.

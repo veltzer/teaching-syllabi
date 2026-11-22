@@ -30,16 +30,19 @@ in `microservices` environments.
 16 hours / 1 day
 
 ## Intended Audience
+
 * software architects designing `API` strategies
 * backend developers building `microservices`
 * `DevOps` engineers managing `API` infrastructure
 
 ## Prerequisites
+
 * experience with `REST` APIs and `HTTP` protocols
 * familiarity with `microservices` architecture
 * basic understanding of authentication and authorization concepts
 
 ## Objectives
+
 * understand the role and responsibilities of an `API gateway`
 * compare and evaluate different gateway architectures and products
 * implement rate limiting, throttling, and traffic management policies

@@ -31,17 +31,20 @@ at scale, enforce compliance policies, and integrate Chef into a `DevOps` pipeli
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers responsible for automating server provisioning and configuration management.
 * System administrators who want to bring infrastructure under programmatic control.
 * Platform engineers building reusable configuration management frameworks.
 
 ## Prerequisites
+
 * `Solid` `Linux` system administration skills (packages, services, networking).
 * Familiarity with the command line and `SSH`.
 * Basic knowledge of Ruby syntax is beneficial but not required.
 * Experience with version control (`Git`).
 
 ## Objectives
+
 * Understand the Chef architecture and how its components interact.
 * Write resources, recipes, and cookbooks that configure infrastructure idempotently.
 * Use roles, environments, and data bags to manage complex multi-node setups.

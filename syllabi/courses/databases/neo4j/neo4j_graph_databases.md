@@ -25,6 +25,7 @@ The course covers both foundational graph concepts and advanced techniques inclu
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building systems with highly connected data
 * Data scientists analyzing networks and relationships
 * Backend engineers evaluating graph databases for their use cases
@@ -32,16 +33,19 @@ The course covers both foundational graph concepts and advanced techniques inclu
 * Analysts working with fraud detection, recommendation engines, or knowledge graphs
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`Python`, `Java`, or `JavaScript` preferred)
 * Basic understanding of database concepts
 * Familiarity with `SQL` is helpful but not required
 * Basic command line skills
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand graph database concepts and the property graph model
 * Write effective Cypher queries for creating, reading, updating, and deleting graph data
 * Design graph data models for real-world domains

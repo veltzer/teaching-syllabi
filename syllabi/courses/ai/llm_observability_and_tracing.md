@@ -44,18 +44,21 @@ observable enough to debug.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `ML` engineers operating `LLM`-powered features
 * senior developers shipping `LLM` integrations
 * `DevOps` engineers responsible for `AI` infrastructure
 * developers debugging weird `LLM` behavior
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * exposure to the `LLM Application Engineering` course
 * familiarity with the `OpenTelemetry` Deep Dive course is helpful
 * basic understanding of distributed tracing
 
 ## Objectives
+
 * identify the signals that matter for `LLM` observability
 * instrument `LLM` calls with the right metadata
 * deploy at least one `LLM` observability platform

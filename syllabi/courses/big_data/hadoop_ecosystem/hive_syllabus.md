@@ -29,10 +29,12 @@ This course provides a comprehensive introduction to `Apache Hive` and its role 
 Developers and data scientists who need to query and analyze large-scale data using `SQL`-like interfaces on top of `Hadoop`.
 
 ## Prerequisites
+
 * Basic knowledge of `SQL` and relational database concepts.
 * Familiarity with the `Hadoop` ecosystem is an advantage but not required.
 
 ## Objectives
+
 * Understand the `Hadoop` ecosystem and the role of Hive within it
 * Write HiveQL queries to analyze large datasets stored in `HDFS`
 * Manage Hive databases, tables, views, and data formats

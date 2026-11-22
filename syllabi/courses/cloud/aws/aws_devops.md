@@ -34,18 +34,21 @@ infrastructure as code, and operational best practices for running production sy
 32 hours / 4 days
 
 ## Intended Audience
+
 * `DevOps` engineers building and maintaining `AWS` infrastructure
 * System administrators transitioning to cloud operations
 * Developers who want to automate deployment and operations workflows
 * Site reliability engineers working with `AWS`
 
 ## Prerequisites
+
 * Working experience with `Linux` command line and scripting
 * Familiarity with `AWS` core services (`EC2`, `S3`, `VPC`, `IAM`)
 * Basic experience with `Git` and version control
 * Understanding of `CI/CD` concepts
 
 ## Objectives
+
 * Design and implement `CI/CD` pipelines on `AWS`
 * Automate infrastructure provisioning using infrastructure as code
 * Implement comprehensive monitoring, logging, and alerting

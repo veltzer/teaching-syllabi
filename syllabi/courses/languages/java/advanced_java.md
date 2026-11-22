@@ -28,14 +28,17 @@ memory leaks, garbage collection issues, using `Java` in scenarios where it is n
 40 hours / 5 days
 
 ## Intended Audience
+
 * Experiences `Java` programmers who would like become experts in the `Java` landscape.
 * `Java` operations people who would like to know how to tune the `JVM` or find issues
 production `Java` systems.
 
 ## Prerequisites
+
 * At least one year experience in programming `Java`.
 
 ## Objectives
+
 * Participants will gain a better understanding of
     * how the `JVM` works.
     * how to use containers better.

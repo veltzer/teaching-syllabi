@@ -35,17 +35,20 @@ in production, and decide where `gRPC` fits relative to `REST`, `GraphQL` and me
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers building or consuming `gRPC` services in production
 * architects designing service-to-service communication patterns
 * platform engineers running `gRPC` infrastructure (proxies, gateways, meshes)
 * engineers migrating from `REST` to `gRPC` or running both side by side
 
 ## Prerequisites
+
 * working knowledge of at least one mainstream programming language (Go, `Python`, `Java`, `C++`, `C#`, `TypeScript`)
 * basic networking knowledge: `TCP`, `HTTP`, `TLS`
 * familiarity with at least one `RPC` or `REST API` style
 
 ## Objectives
+
 * design `Protobuf` schemas that evolve cleanly over years
 * implement and consume the four `gRPC` call patterns idiomatically
 * apply deadlines, cancellation and retry policies correctly

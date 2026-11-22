@@ -24,6 +24,7 @@ Networking fundamentals are essential for understanding how computers communicat
 16 hours / 1 day
 
 ## Intended Audience
+
 * Software developers building networked applications
 * System administrators and `DevOps` engineers
 * Web developers needing deeper networking knowledge
@@ -32,6 +33,7 @@ Networking fundamentals are essential for understanding how computers communicat
 * Anyone working with distributed systems or cloud technologies
 
 ## Prerequisites
+
 * Basic computer literacy and operating system familiarity
 * Understanding of basic internet usage and web browsing
 * Familiarity with command-line interfaces (`Windows CMD`, `Linux`/`macOS` terminal)
@@ -41,9 +43,11 @@ Networking fundamentals are essential for understanding how computers communicat
 * Access to a computer with network connectivity for hands-on exercises
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the OSI model and `TCP`/`IP` protocol stack layers
 * Configure and troubleshoot basic network connectivity using `IP` addressing and subnetting
 * Analyze `HTTP`/`HTTPS` communication including request/response cycles

@@ -21,6 +21,7 @@ This course offers a thorough exploration of the Angular framework for building 
 32 hours / 4 days
 
 ## Intended Audience
+
 * Frontend developers building enterprise-scale single-page applications
 * `JavaScript` or `TypeScript` developers adopting the Angular framework
 * Full-stack developers who need to build robust client-side applications
@@ -28,6 +29,7 @@ This course offers a thorough exploration of the Angular framework for building 
 * Software engineers working in organizations that use Angular as their primary frontend framework
 
 ## Prerequisites
+
 * Good understanding of `HTML`, `CSS`, and `JavaScript` (`ES6`+ features)
 * Basic knowledge of `TypeScript` (types, interfaces, classes, decorators)
 * Familiarity with `npm` and command-line tools
@@ -35,10 +37,12 @@ This course offers a thorough exploration of the Angular framework for building 
 * Experience with basic web development and browser developer tools
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand Angular architecture, modules, and the component-based model
 * Build components with templates, data binding, directives, and pipes
 * Implement services and leverage Angular dependency injection system

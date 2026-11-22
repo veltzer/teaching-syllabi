@@ -23,17 +23,21 @@ This advanced course dives deep into `Gradle`'s most powerful features for build
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers working on large `Java` or `Kotlin` projects who need to optimize their build processes.
 * `DevOps` engineers responsible for maintaining and improving `CI/CD` build infrastructure.
 
 ## Prerequisites
+
 * `Solid` understanding of software build concepts.
 * Experience with `Java` or `Kotlin` development.
 
 ## Required Knowledge
+
 * `Gradle`
 
 ## Objectives
+
 * Develop custom `Gradle` plugins to encapsulate build logic.
 * Configure and optimize local and remote build caches for faster builds.
 * Master advanced dependency management including variant-aware resolution.

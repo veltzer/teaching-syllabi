@@ -22,18 +22,21 @@ This course provides a thorough exploration of the CAN bus protocol and related 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Embedded software developers working on automotive or industrial systems
 * Engineers developing ECU firmware and vehicle communication software
 * Test and validation engineers working with in-vehicle networks
 * Developers integrating CAN-based devices into larger systems
 
 ## Prerequisites
+
 * Experience with embedded C or `C++` programming
 * Basic understanding of serial communication concepts
 * Familiarity with binary and hexadecimal data representation
 * General knowledge of microcontroller peripherals
 
 ## Objectives
+
 * Understand CAN bus physical layer, arbitration, and error handling mechanisms
 * Work with `CAN 2.0A`, `CAN 2.0B`, and `CAN FD` frame formats
 * Configure bit timing and baud rate settings for CAN controllers

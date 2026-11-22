@@ -26,6 +26,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building and maintaining data pipelines
 * `Python` developers working with workflow orchestration
 * `DevOps` engineers managing `Airflow` deployments
@@ -33,6 +34,7 @@ audience:
 * Software engineers integrating `Airflow` into data platforms
 
 ## Prerequisites
+
 * Intermediate proficiency in `Python` programming
 * Basic understanding of `SQL` and relational databases
 * Familiarity with command-line tools and terminal usage
@@ -40,10 +42,12 @@ audience:
 * Basic knowledge of `Docker` and containerization
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `Airflow` architecture and its core components
 * Design and implement DAGs for complex data workflows
 * Use built-in and custom operators and sensors effectively

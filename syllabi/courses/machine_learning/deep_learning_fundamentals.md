@@ -30,19 +30,23 @@ adversarial networks.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers with `machine learning` experience who want to dive into `deep learning`.
 * Data scientists looking to leverage neural network architectures for complex problems.
 * Engineers who want to understand and apply modern `deep learning` techniques.
 
 ## Prerequisites
+
 * `Solid` `Python` programming skills.
 * Basic understanding of `machine learning` concepts (supervised/unsupervised learning, model evaluation).
 * Familiarity with `numpy` and linear algebra fundamentals.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the theory behind neural networks and backpropagation.
 * Build and train `deep learning` models using `PyTorch` and `TensorFlow`.
 * Apply CNNs to image-related tasks.

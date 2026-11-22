@@ -29,6 +29,7 @@ course will also discuss current trends and future directions in the `DevOps` la
 40 hours / 5 days
 
 ## Intended Audience
+
 * Software developers looking to expand their knowledge into operations and automation
 * IT operations professionals interested in learning about modern software development practices
 * System administrators wanting to update their skills for cloud and `DevOps` environments
@@ -37,15 +38,18 @@ course will also discuss current trends and future directions in the `DevOps` la
 * Any IT professional interested in learning about `DevOps` principles and practices
 
 ## Prerequisites
+
 * Basic understanding of software development concepts
 * Familiarity with command-line interfaces
 * Basic knowledge of operating systems (`Linux`/`Unix` preferred)
 * Some exposure to `cloud computing` concepts (helpful but not required)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the core principles and benefits of `DevOps`
 * Implement basic Continuous Integration and Continuous Deployment (`CI/CD`) pipelines
 * Use version control systems effectively

@@ -25,6 +25,7 @@ audience:
 16 hours / 1 day
 
 ## Intended Audience
+
 * Backend developers building `web services` and APIs
 * Full-stack developers working with client-server architectures
 * Frontend developers consuming and integrating with APIs
@@ -33,6 +34,7 @@ audience:
 * Technical leads and architects designing `microservices` systems
 
 ## Prerequisites
+
 * Understanding of `HTTP` protocol and web communication basics
 * Proficiency in at least one programming language (`Python`, `JavaScript`, `Java`, `C#`)
 * Basic knowledge of `JSON` data format and structure
@@ -42,10 +44,12 @@ audience:
 * Experience with web browsers and developer tools
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Design and implement `RESTful APIs` following architectural principles and constraints
 * Utilize appropriate `HTTP` verbs (GET, POST, PUT, DELETE, PATCH) for different operations
 * Apply correct `HTTP` status codes (`200`, 201, 400, `404`, `500`) for various scenarios

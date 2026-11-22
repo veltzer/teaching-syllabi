@@ -26,15 +26,18 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
 24 hours / 3 days
 
 ## Intended Audience
+
 * Any software developer or `devops` who needs to work with `Git` or understand `Git` better.
 * Any software developer who has worked with `Git` but wants a deeper understanding of it.
 * System administrators who are moving to `devops` in general or `Git` specifically.
 * Any manager who needs to understand what is possible and how to manage `git` using projects.
 
 ## Prerequisites
+
 * Tech affinity.
 
 ## Objectives
+
 * Setup and use `git`
 * Understand and use `Git`'s branching features correctly and effectively
 * Decide on which workflows to use when using `Git`
@@ -239,6 +242,7 @@ Because the industry sometimes misuses `git` this course is also focuses on clea
     * `Git` and CICD tools: `Jenkins`, Bamboo
 
 ## Installations
+
 * Any recent distribution of `Linux` with `sudo`/root privilege.
 * WSL installation on `Windows` with `git` installed.
 * [`Git` BASH](https://gitforwindows.org/) installed on `Windows`.

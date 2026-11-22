@@ -35,18 +35,21 @@ operate observability systems at scale. The course covers `Cloud Build`, Cloud D
 32 hours / 4 days
 
 ## Intended Audience
+
 * `DevOps` engineers building and operating systems on `GCP`
 * Site reliability engineers implementing SRE practices
 * Platform engineers managing `Kubernetes` and serverless infrastructure
 * Developers responsible for deployment and operations
 
 ## Prerequisites
+
 * Working experience with `Linux` command line and scripting
 * Familiarity with `GCP` core services or equivalent cloud platform
 * Basic experience with `Git`, `Docker`, and `CI/CD` concepts
 * Understanding of `Kubernetes` fundamentals
 
 ## Objectives
+
 * Design and implement `CI/CD` pipelines using `GCP` native tools
 * Manage infrastructure as code with `Terraform` and Config Connector
 * Implement SRE practices: SLIs, SLOs, and error budgets

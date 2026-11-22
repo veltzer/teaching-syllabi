@@ -22,18 +22,22 @@ This course provides comprehensive coverage of concurrency and multithreading in
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers building high-performance, multi-threaded applications
 * Backend developers working on concurrent server-side systems
 * Developers who need a deep understanding of `Java` concurrency for system design and debugging
 
 ## Prerequisites
+
 * `Solid` understanding of object-oriented programming principles
 * Familiarity with basic data structures and algorithms
 
 ## Required Knowledge
+
 * `Java` Programming
 
 ## Objectives
+
 * Create and manage threads using Thread, Runnable, and executor services
 * Write non-blocking asynchronous code with CompletableFuture
 * Apply synchronization mechanisms to ensure thread safety

@@ -32,21 +32,25 @@ running `Argo CD` at scale.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers who are already using `Argo CD` and want to deepen their expertise for enterprise-scale deployments.
 * Teams adopting `GitOps` practices across multiple clusters and environments.
 
 ## Prerequisites
+
 * Working experience with `Argo CD` (basic application creation and sync).
 * Strong understanding of `Kubernetes` (deployments, services, `RBAC`, `CRDs`).
 * Familiarity with Helm and/or `Kustomize`.
 * Understanding of `Git` workflows and branching strategies.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 * Introduction to `Git` (or equivalent experience)
 * Helm (or equivalent experience)
 
 ## Objectives
+
 * Design and implement advanced `Argo CD` deployment patterns.
 * Use ApplicationSets for dynamic, multi-cluster application management.
 * Implement progressive delivery with `Argo Rollouts`.

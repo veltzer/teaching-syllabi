@@ -24,16 +24,19 @@ This course provides a comprehensive exploration of security in `Microsoft Azure
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building secure applications on `Azure`
 * System administrators responsible for `Azure` infrastructure security
 * Architects designing secure cloud solutions
 
 ## Prerequisites
+
 * Basic understanding of `Azure` services and the `Azure` portal
 * Familiarity with networking fundamentals (`IP` addressing, firewalls, `DNS`)
 * Basic understanding of identity and authentication concepts
 
 ## Objectives
+
 * Implement identity and access management with `Microsoft Entra ID`
 * Configure role-based and conditional access controls
 * Protect data using encryption and `Azure Key Vault`

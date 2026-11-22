@@ -35,22 +35,26 @@ attending.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers looking to adopt or deepen their knowledge of Infrastructure as Code.
 * cloud engineers responsible for provisioning and managing infrastructure.
 * developers who want to understand and contribute to infrastructure definitions.
 * platform engineers building reusable infrastructure modules for their organizations.
 
 ## Prerequisites
+
 * Basic understanding of `cloud computing` concepts (`AWS`, `Azure`, or `GCP`).
 * Familiarity with the command line and terminal usage.
 * Basic understanding of networking concepts (VPCs, subnets, `DNS`).
 * Experience with version control (`Git`).
 
 ## Required Knowledge
+
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Infrastructure as Code with `Terraform`
 * gain practical knowledge of providers, resources, and HCL syntax
 * gain practical knowledge of state management, modules, and workspaces

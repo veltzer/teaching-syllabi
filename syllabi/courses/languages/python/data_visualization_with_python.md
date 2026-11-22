@@ -29,16 +29,20 @@ Geospatial visualization techniques are also covered for location-based data ana
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building data-driven applications with visual components
 * Data scientists and data analysts who need to communicate findings through visualizations
 
 ## Prerequisites
+
 * Basic understanding of statistics (distributions, correlation, aggregation)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Create static visualizations** using `Matplotlib` for publication-quality figures
 * **Build statistical plots** using `Seaborn` for exploratory data analysis
 * **Develop interactive charts** using Plotly for dynamic data exploration

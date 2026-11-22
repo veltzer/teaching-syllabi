@@ -36,17 +36,20 @@ The course also covers security-aware review, performance-aware review, and the 
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers who want to review code more effectively
 * senior developers and tech leads who set the review bar for their team
 * engineering managers establishing or fixing the review process
 * architects whose review comments carry organizational weight
 
 ## Prerequisites
+
 * at least two years of professional software development experience
 * working knowledge of `git` and pull-request-based workflows
 * prior experience either giving or receiving code review
 
 ## Objectives
+
 * describe the goals of code review and prioritize between them in a given context
 * read a diff effectively and quickly identify what matters
 * write comments that are clear, actionable and respectful

@@ -33,21 +33,25 @@ It focuses on real-world automation scenarios rather than abstract concepts.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers looking to automate configuration management and provisioning.
 * system administrators who want to manage infrastructure at scale.
 * developers who want to automate deployment and environment setup.
 * platform engineers building automation frameworks for their organizations.
 
 ## Prerequisites
+
 * Basic `Linux` system administration skills (file system, services, packages).
 * Familiarity with the command line and `SSH`.
 * Basic understanding of `YAML` syntax.
 * Experience with version control (`Git`).
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Ansible` automation
 * gain practical knowledge of playbooks, roles, and inventory management
 * gain practical knowledge of `Ansible Galaxy`, AWX/Tower, and Molecule

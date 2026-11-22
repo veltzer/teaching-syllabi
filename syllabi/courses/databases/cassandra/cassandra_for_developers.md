@@ -24,6 +24,7 @@ The course emphasizes practical data modeling strategies that align with `Cassan
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building distributed, data-intensive systems
 * Data scientists working with large-scale datasets
 * Backend engineers designing for high availability and scalability
@@ -31,16 +32,19 @@ The course emphasizes practical data modeling strategies that align with `Cassan
 * Developers migrating from relational databases to `Cassandra`
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`Java`, `Python`, or `JavaScript` preferred)
 * Basic understanding of database concepts
 * Familiarity with distributed systems concepts is helpful but not required
 * Basic command line skills
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `Cassandra`'s distributed architecture and how it achieves high availability
 * Design effective data models using partition keys, clustering columns, and denormalization
 * Write efficient queries using CQL

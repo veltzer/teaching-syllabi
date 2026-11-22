@@ -25,19 +25,23 @@ This course covers the installation, configuration, and administration of the Ap
 16 hours / 1 day
 
 ## Intended Audience
+
 * System administrators managing web server infrastructure.
 * `DevOps` engineers deploying and maintaining web applications.
 * Developers who need to configure and troubleshoot Apache for their applications.
 
 ## Prerequisites
+
 * Basic `Linux` system administration skills.
 * Familiarity with `HTTP` fundamentals (request/response, status codes, headers).
 * Comfort working with the command line and text editors.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and configure Apache `HTTP` Server on `Linux`.
 * Understand the structure of httpd.conf and related configuration files.
 * Configure name-based and `IP`-based virtual hosts.

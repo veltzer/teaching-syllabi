@@ -27,21 +27,25 @@ The course emphasizes practical, data-driven approaches to performance tuning, e
 16 hours / 2 days
 
 ## Intended Audience
+
 * Database administrators responsible for `MySQL` performance
 * Backend developers writing and optimizing `SQL` queries
 * Performance engineers conducting database assessments
 * `DevOps` engineers managing `MySQL` infrastructure
 
 ## Prerequisites
+
 * Working knowledge of `SQL` and relational database concepts
 * Experience administering or developing against `MySQL`
 * Basic understanding of `Linux` operating system
 * Familiarity with InnoDB storage engine
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Analyze and optimize `SQL` queries using EXPLAIN plans
 * Design effective indexing strategies for various workloads
 * Understand InnoDB internals and tune the buffer pool

@@ -29,16 +29,19 @@ concerns including dead letter topics and monitoring strategies for production `
 16 hours / 2 days
 
 ## Intended Audience
+
 * software architects designing event-driven systems
 * senior developers building `microservices` with `Kafka`
 * `DevOps` engineers responsible for `Kafka` infrastructure
 
 ## Prerequisites
+
 * `solid` understanding of distributed systems concepts
 * experience with `microservices` architecture
 * familiarity with message queues and publish/subscribe patterns
 
 ## Objectives
+
 * understand the principles and trade-offs of `event-driven architecture`
 * design systems using `event sourcing` and `CQRS` patterns
 * configure and operate `Kafka` as an event backbone

@@ -26,6 +26,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building `ETL` pipelines and local analytics workflows
 * Data scientists who want fast in-process `SQL` over large datasets
 * Application developers looking to embed analytical query capabilities
@@ -33,11 +34,13 @@ audience:
 * Engineers evaluating modern alternatives to `SQLite` for analytical workloads
 
 ## Prerequisites
+
 * Working knowledge of `SQL` (SELECT, `GROUP BY`, JOINs)
 * Basic experience with at least one of `Python`, R, or a `JVM` language
 * Familiarity with tabular data concepts (rows, columns, schemas)
 
 ## Objectives
+
 * Understand `DuckDB`'s architecture and what makes it suited for OLAP workloads
 * Install and use `DuckDB` via `CLI`, `Python`, R, and `JDBC` interfaces
 * Write advanced `SQL` queries including window functions, CTEs, and lateral joins

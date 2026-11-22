@@ -30,21 +30,25 @@ resources across major cloud providers and `Kubernetes`, and learn how to integr
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers and `DevOps` engineers looking to manage infrastructure using familiar programming languages.
 * Teams evaluating or migrating to `Pulumi` from `Terraform` or other IaC tools.
 
 ## Prerequisites
+
 * Experience with at least one programming language (`TypeScript`, `Python`, or Go).
 * Basic understanding of `cloud computing` concepts (`AWS`, `Azure`, or `GCP`).
 * Familiarity with command-line tools.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand infrastructure as code principles and how `Pulumi` implements them.
 * Write infrastructure definitions using `TypeScript`, `Python`, or Go.
 * Manage `Pulumi` stacks, state, and secrets effectively.

@@ -25,16 +25,19 @@ This course provides a thorough introduction to `Robot Framework`, the keyword-d
 24 hours / 3 days
 
 ## Intended Audience
+
 * QA engineers and testers who want to adopt a readable, keyword-driven automation approach
 * Developers collaborating with QA teams on acceptance test automation
 * Teams seeking a framework suitable for both technical and semi-technical contributors
 
 ## Prerequisites
+
 * Basic familiarity with `Python` syntax (variables, functions, loops)
 * Understanding of `HTTP` and `REST API` fundamentals
 * Some exposure to web testing concepts is helpful but not required
 
 ## Objectives
+
 * Understand the `Robot Framework` architecture and keyword-driven testing philosophy
 * Write well-structured test suites using standard syntax and resource files
 * Create reusable keywords and manage variables at all scopes

@@ -27,22 +27,26 @@ includes building custom plugins and deploying Backstage in production environme
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers who want to build or contribute to an internal developer portal.
 * `devops` engineers responsible for developer experience and platform tooling.
 * platform engineers designing self-service developer platforms.
 
 ## Prerequisites
+
 * experience with `TypeScript` and React.
 * familiarity with `Node.js` and `npm`/`yarn`.
 * basic understanding of `Kubernetes` and `CI/CD` concepts.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 * React (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * understand Backstage architecture and its role as a developer portal.
 * configure and manage the software catalog.
 * create software templates for scaffolding new projects.

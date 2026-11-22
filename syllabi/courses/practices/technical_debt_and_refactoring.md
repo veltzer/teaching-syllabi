@@ -37,18 +37,21 @@ able to assess their own codebase, plan a debt program and execute it.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers maintaining codebases more than a year old
 * tech leads owning the long-term health of a codebase
 * architects setting standards across multiple teams
 * engineers tasked with rescuing or modernizing legacy systems
 
 ## Prerequisites
+
 * several years of professional software development experience
 * working knowledge of at least one mainstream programming language
 * experience with at least one test framework
 * basic familiarity with version control workflows
 
 ## Objectives
+
 * distinguish technical debt from poor code, churn and accidental complexity
 * measure the cost of debt in concrete units
 * prioritize debt repayment against feature work

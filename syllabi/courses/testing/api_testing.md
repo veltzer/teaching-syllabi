@@ -25,17 +25,20 @@ This course covers the essentials of `API` testing, from manual exploration with
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers building and consuming APIs
 * QA engineers and test automation specialists
 * Backend developers responsible for `API` quality
 
 ## Prerequisites
+
 * Basic understanding of `HTTP` protocol and `REST` principles
 * Experience with at least one programming language
 * Familiarity with `JSON` data format
 * Basic command-line experience
 
 ## Objectives
+
 * Test `REST` and `gRPC` APIs effectively
 * Use Postman for `API` exploration, testing, and automation
 * Apply consumer-driven contract testing with Pact

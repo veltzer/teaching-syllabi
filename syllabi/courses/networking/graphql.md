@@ -25,6 +25,7 @@ This course provides a thorough exploration of `GraphQL` as a query language and
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers building `API` layers for web and mobile applications
 * Full-stack developers working with `GraphQL` clients and servers
 * Frontend developers consuming `GraphQL` endpoints
@@ -32,6 +33,7 @@ This course provides a thorough exploration of `GraphQL` as a query language and
 * `DevOps` engineers deploying and monitoring `GraphQL` services
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`JavaScript`, `TypeScript`, `Python`, or `Java`)
 * Understanding of `REST APIs` and `HTTP` protocol
 * Familiarity with `JSON` data format and structure
@@ -40,11 +42,13 @@ This course provides a thorough exploration of `GraphQL` as a query language and
 * Command-line experience
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `GraphQL` fundamentals, its type system, and how it differs from `REST`
 * Design and implement `GraphQL` schemas using the Schema Definition Language (SDL)
 * Build resolvers for queries, mutations, and subscriptions

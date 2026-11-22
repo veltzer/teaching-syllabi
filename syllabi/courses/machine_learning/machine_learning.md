@@ -27,6 +27,7 @@ will emphasize the strengths and weaknesses of the most popular algorithms.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Programmers or Exact Sciences people who wish to understand and utilize `machine learning`.
 * Life science or social science people who has an affinity to computing and want to utilize
 `machine learning` in their research.
@@ -34,15 +35,18 @@ will emphasize the strengths and weaknesses of the most popular algorithms.
 predictions and analysis.
 
 ## Prerequisites
+
 * Background in mathematics or math affinity.
 * Background in computing.
 * `Python` programming at a basic level.
 * Statistical affinity is a plus but is not required.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Use `Python` to do data analysis and visualization.
 * Understand the differences between the various `ML` algorithms, their strengths and weaknesses and
 what algorithm to apply when confront with a problem.
@@ -105,6 +109,7 @@ Using `Python`: numpy, SciPy, pandas, `Scikit-learn`.
     * Natural language processing in `Python` (`Scikit-learn`)
 
 ## Notes
+
 * This course does not include `Python` basics which is a pre-requisite to this course.
 * This course does not include `deep learning` which should be taken after this course.
 

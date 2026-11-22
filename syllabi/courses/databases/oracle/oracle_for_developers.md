@@ -22,16 +22,19 @@ This course is designed to provide students with a comprehensive understanding o
 40 hours / 5 days
 
 ## Intended Audience
+
 * software developers working with databases
 * backend engineers and data engineers
 
 ## Prerequisites
+
 * Basic knowledge of programming concepts
 * Familiarity with relational database management systems (RDBMS)
 
 ## Objectives
 
 Upon successful completion of this course, students will be able to:
+
 * Understand the architecture and components of Oracle Database
 * Design and create database objects (tables, views, indexes, etc.)
 * Write `SQL` queries for data manipulation and retrieval
@@ -98,6 +101,7 @@ Upon successful completion of this course, students will be able to:
     * Best practices for application development
 
 ## Textbooks and Resources
+
 * Oracle Database Documentation
 * "Oracle `PL/SQL` Programming" by Steven Feuerstein
 * "Oracle Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney

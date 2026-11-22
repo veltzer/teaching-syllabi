@@ -32,15 +32,18 @@ The study of each pattern will be accompanied by real-world examples and a lab i
 32 hours / 4 days
 
 ## Intended Audience
+
 * Software developers with experience in an object oriented language
 * Experience in Object Oriented Development with `Python`
 * Any `Java`/`C#`, `C++`, or `Typescript` experience is beneficial
 
 ## Prerequisites
+
 * working experience with `design patterns` and object-oriented design for `python` developers
 * experience with `Python` programming
 
 ## Objectives
+
 * Describe and apply good principles for object oriented software design.
 * Describe `design patterns` and provide examples of problems and their pattern solutions in `Java`
 * Cover the most important GOF patterns in depth, and provide an overview of the `rest`

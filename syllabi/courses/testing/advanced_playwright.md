@@ -24,20 +24,24 @@ This two day advanced course takes participants beyond the basics of `Playwright
 16 hours / 2 days
 
 ## Intended Audience
+
 * Automation engineers looking to deepen their `Playwright` expertise
 * Developers responsible for end-to-end testing
 * QA engineers transitioning to advanced test automation
 
 ## Prerequisites
+
 * Basic experience with `Playwright` or similar browser automation tools
 * Proficiency in `TypeScript` or `JavaScript`
 * Understanding of `HTML`, `CSS`, and web application architecture
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Design maintainable test suites using the page object model.
 * Implement visual regression testing workflows.
 * Test APIs and intercept network requests within `Playwright`.

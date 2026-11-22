@@ -39,6 +39,7 @@ leave able to design, run and prove a `DR` capability rather than just document 
 40 hours / 5 days
 
 ## Intended Audience
+
 * `DevOps` and `SRE` engineers responsible for backup and recovery
 * senior developers whose teams own production data
 * architects designing resilient systems
@@ -46,12 +47,14 @@ leave able to design, run and prove a `DR` capability rather than just document 
 * engineers tasked with a `DR` audit or compliance review
 
 ## Prerequisites
+
 * working knowledge of at least one cloud platform
 * basic familiarity with at least one database, one object store, and `IaC`
 * experience operating production systems
 * exposure to the architectural-level `DR` material is helpful
 
 ## Objectives
+
 * design and operate a backup program that is actually restorable
 * measure `RTO` and `RPO` from real drills, not from documentation
 * build multi-region failover for the main workload classes

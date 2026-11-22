@@ -30,18 +30,22 @@ This deep dive course goes beyond the basics and covers the internals of `Elasti
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers, SREs, and systems administrators who manage or plan to manage `ELK stack` deployments.
 * Developers who need to integrate logging and search capabilities into their applications using the `ELK stack`.
 
 ## Prerequisites
+
 * Basic familiarity with `Linux` command line.
 * Understanding of `JSON` and `REST` APIs.
 * Some experience with logging concepts and log management.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `Elasticsearch` internals including indexing, search, and cluster management
 * Build and optimize `Logstash` pipelines for data ingestion and transformation
 * Create effective `Kibana` dashboards and visualizations

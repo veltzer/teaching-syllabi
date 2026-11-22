@@ -22,6 +22,7 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * `JavaScript` and React developers transitioning to mobile development
 * Mobile developers exploring cross-platform solutions
 * Full-stack developers adding mobile capabilities to their skill set
@@ -29,6 +30,7 @@ audience:
 * Development teams evaluating cross-platform mobile frameworks
 
 ## Prerequisites
+
 * Strong proficiency in `JavaScript` (`ES6`+) and React fundamentals
 * Understanding of JSX, component lifecycle, hooks, and state management
 * Basic familiarity with `TypeScript` syntax and `type-annotations`
@@ -37,10 +39,12 @@ audience:
 * A `macOS` machine is required for `iOS` development and testing
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Build cross-platform mobile applications with `React Native` core components
 * Implement navigation flows using `React Navigation`
 * Manage application state effectively across screens and components

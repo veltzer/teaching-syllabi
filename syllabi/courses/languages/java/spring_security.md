@@ -26,6 +26,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers building secure backend applications
 * `Spring Boot` developers who need to implement authentication and authorization
 * Software engineers responsible for application security
@@ -33,6 +34,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
 * Architects designing secure `microservices` architectures
 
 ## Prerequisites
+
 * Intermediate proficiency in `Java` programming (classes, interfaces, annotations)
 * Working knowledge of `Spring Boot` and the Spring ecosystem
 * Understanding of `HTTP` protocol, `REST API` concepts, and web application architecture
@@ -41,6 +43,7 @@ This course provides an in-depth exploration of `Spring Security` for building s
 * Experience with an IDE such as `IntelliJ IDEA` or Eclipse
 
 ## Objectives
+
 * Understand the `Spring Security` architecture, filter chain, and request processing pipeline
 * Implement authentication using in-memory, database-backed, and custom authentication providers
 * Configure role-based and permission-based authorization at URL and method levels

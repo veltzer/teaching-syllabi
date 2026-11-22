@@ -33,15 +33,18 @@ and wish to acquire a deeper understanding of underlying infrastructure in
 order to improve the way they operate containerized workloads.
 
 ## Prerequisites
+
 * Basic experience building and running `Docker` containers.
 * Basic `Docker` `CLI` knowledge.
 * Prior experience in developing web applications will be helpful but is not required.
 * Basic knowledge of `Linux` file system and network stack.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the more advanced aspects of `Docker` container deployment like volumes and networking.
 
 ## Outline
@@ -107,6 +110,7 @@ order to improve the way they operate containerized workloads.
     * `Docker` upgrade and maintenance in production
 
 ## Installations
+
 * A real `Ubuntu` >= 22.04 running on a laptop.
 * A `Windows`/`macOS` system running on a laptop with an `Ubuntu` >= 22.04 virtual machine on top. This could be done using `Hyper-V` or Oracle `VirtualBox`.
 * Access to a remote `Ubuntu` >= 22.04 machine via `ssh` (command line, putty, MobaXterm, ...). The machine could be in a company private cloud or a public cloud.

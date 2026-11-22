@@ -24,15 +24,18 @@ Tcl (Tool Command Language) is a dynamic scripting language widely used in embed
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers working with Tcl-based tools and environments
 * Embedded engineers using Tcl for testing and automation
 * Testers building automated test frameworks with Tcl and Expect
 
 ## Prerequisites
+
 * Basic programming experience in any language
 * Familiarity with command-line interfaces
 
 ## Objectives
+
 * Write Tcl scripts using core language features
 * Manipulate strings, lists, and dictionaries
 * Build graphical user interfaces with Tk

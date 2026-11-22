@@ -25,15 +25,18 @@ Note: This syllabus assumes familiarity with Rust language features and focuses 
 4 days / 32 hours
 
 ## Intended Audience
+
 * Programmers who develop embedded systems and would like to use Rust language to do it.
 
 ## Prerequisites
+
 * Strong understanding of Rust language fundamentals
 * Basic knowledge of embedded systems concepts
 * Familiarity with microcontroller architecture
 * Experience with version control systems
 
 ## Objectives
+
 * Implement embedded systems using Rust's safety features
 * Design type-safe hardware abstractions
 * Create efficient no-std applications
@@ -42,6 +45,7 @@ Note: This syllabus assumes familiarity with Rust language features and focuses 
 * Build reliable communication protocols
 
 ## Exercises
+
 * Development board supporting embedded Rust
 * `USB` cable for programming
 * Computer with Rust toolchain installed

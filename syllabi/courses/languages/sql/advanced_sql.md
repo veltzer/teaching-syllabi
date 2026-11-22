@@ -22,14 +22,17 @@ This course covers advanced `SQL` techniques including analytic functions, windo
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working with relational databases
 * data analysts and database administrators
 
 ## Prerequisites
+
 * working experience with ```sql``
 * basic `SQL` knowledge
 
 ## Objectives
+
 * understand the core concepts and principles of Advanced ```SQL``
 * gain practical knowledge of Analytic for Reporting
 * gain practical knowledge of `Windows`` Aggregate Function

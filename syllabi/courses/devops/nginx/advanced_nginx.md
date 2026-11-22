@@ -25,19 +25,23 @@ This course covers advanced `Nginx` topics for experienced engineers who want to
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers and site reliability engineers
 * System administrators managing web infrastructure
 * Backend engineers responsible for deployment and scaling
 
 ## Prerequisites
+
 * Basic experience with `Nginx` configuration and operation.
 * Familiarity with `Linux` system administration.
 * Understanding of `HTTP`/`HTTPS` protocols and networking fundamentals.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Configure `Nginx` as a reverse proxy for complex application architectures.
 * Implement and tune load balancing algorithms for different workloads.
 * Design and deploy caching strategies to improve application performance.

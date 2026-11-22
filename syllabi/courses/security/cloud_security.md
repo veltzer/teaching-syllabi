@@ -30,6 +30,7 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
 16 hours / 2 days
 
 ## Intended Audience
+
 * Cloud engineers and architects
 * `DevOps` and `DevSecOps` engineers
 * Security engineers and analysts
@@ -38,6 +39,7 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
 * Anyone responsible for cloud infrastructure security
 
 ## Prerequisites
+
 * Working experience with at least one major cloud provider (`AWS`, `Azure`, or `GCP`)
 * Understanding of networking fundamentals (`TCP`/`IP`, `DNS`, firewalls, `VPN`)
 * Familiarity with `Linux` command-line interface
@@ -46,12 +48,14 @@ As organizations migrate workloads to the cloud, securing cloud infrastructure b
 * Familiarity with infrastructure as code concepts (`Terraform`, `CloudFormation`)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 * `Terraform` (or equivalent experience)
 
 ## Objectives
+
 * Design and implement least-privilege `IAM` policies across cloud environments
 * Architect secure network topologies using VPCs, security groups, and network segmentation
 * Apply encryption best practices for data at `rest` and in transit

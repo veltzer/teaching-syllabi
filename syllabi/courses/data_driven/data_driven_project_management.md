@@ -25,6 +25,7 @@ through the enterprise level and up to the corporate level.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Product managers who have not used a data driven approach for decision making and would like
 to understand both the theory and the practical aspects of the approach.
 * Product managers who have a non formal knowledge of this approach and would like to get a
@@ -33,6 +34,7 @@ more complete understanding of the approach and current tools in the space.
 ## Prerequisites
 
 Any of the following
+
 * Experience in product management
 * Experience in project management
 * Experience in team leading
@@ -40,6 +42,7 @@ Any of the following
 * Experience in account management in tech.
 
 ## Objectives
+
 * understand the core concepts and principles of Data Driven Project Management
 * gain practical knowledge of The Data Drive approach (4 hours)
 * gain practical knowledge of Industry case studies and examples (2 hours)
@@ -137,6 +140,7 @@ Any of the following
     * Privacy concerns
 
 ## Notes
+
 * There are preparation hints in the form of Quiz slides at ends of chapters
 
 ## Copyright

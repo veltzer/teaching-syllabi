@@ -37,6 +37,7 @@ Further learning of individual services is required.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Infrastructure people who need to set up infrastructure for `machine learning` at
 scale on `AWS`.
 * `Machine learning` engineers who would like to use `AWS` services to do `machine learning`.
@@ -48,6 +49,7 @@ off in `AWS` in the field of `machine learning`.
 Knowledge of `machine learning`.
 
 ## Objectives
+
 * List the various services that are on offer in `AWS` regarding `machine learning`.
 * Understand the advantages and disadvantages of these services when compared to each other.
 * Understand the advantages and disadvantages of these services when compared to doing the same off cloud.

@@ -29,12 +29,15 @@ pick the right tradeoff for your case.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Seasoned developers who would like to progress to the role of architect.
 
 ## Prerequisites
+
 * Experience in the tech sector as developers or team leaders.
 
 ## Objectives
+
 * Foster a deep understanding of architectural principles and patterns
 * Develop the ability to analyze and evaluate trade-offs
 * Stay abreast of emerging technologies and trends

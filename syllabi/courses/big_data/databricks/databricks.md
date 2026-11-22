@@ -29,19 +29,23 @@ management best practices on the `Databricks` platform.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working with data platforms
 * data scientists building analytical and `ML` workflows
 
 ## Prerequisites
+
 * Basic proficiency in `Python` programming
 * Familiarity with `SQL` queries
 * Understanding of data engineering concepts (tables, schemas, `ETL`)
 * Basic knowledge of `Apache Spark` concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Navigate and configure the `Databricks` workspace** including notebooks, repos, clusters, and compute resources
 * **Build and manage `Delta Lake` tables** with ACID transactions, time travel, and schema evolution
 * **Develop data pipelines using the medallion architecture** (bronze, silver, gold) with `Spark` and `SQL`

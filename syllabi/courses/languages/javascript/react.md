@@ -23,6 +23,7 @@ This course provides a comprehensive guide to building modern web applications w
 32 hours / 4 days
 
 ## Intended Audience
+
 * Frontend developers looking to master React for building modern web applications
 * Full-stack developers who want to strengthen their frontend skills with React
 * `JavaScript` or `TypeScript` developers transitioning to component-based UI development
@@ -30,6 +31,7 @@ This course provides a comprehensive guide to building modern web applications w
 * Software engineers working on single-page applications and progressive web apps
 
 ## Prerequisites
+
 * `Solid` understanding of `HTML`, `CSS`, and `JavaScript` (`ES6`+ features)
 * Familiarity with `npm` or `yarn` package managers
 * Basic understanding of the DOM and browser developer tools
@@ -37,10 +39,12 @@ This course provides a comprehensive guide to building modern web applications w
 * Familiarity with `TypeScript` basics is helpful but not required
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Build interactive user interfaces using React components, JSX, props, and state
 * Implement and compose React hooks including useState, useEffect, useContext, useReducer, useMemo, useCallback, and custom hooks
 * Apply common component patterns for reusable and maintainable code

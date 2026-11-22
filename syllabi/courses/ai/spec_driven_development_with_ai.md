@@ -44,20 +44,24 @@ day. It does not re-teach prompt engineering or how coding agents work.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Developers who use `AI` coding agents and hit the ceiling of prompt-by-prompt development
 * Team leads who want a repeatable, reviewable process around `AI`-generated code
 * Architects who want design intent to survive contact with an autonomous coding agent
 
 ## Prerequisites
+
 * Practical experience developing with an `AI` coding assistant or agent
 * The Development Using `AI` course or equivalent experience
 * Proficiency in at least one programming language
 * Working knowledge of `git` and pull request workflows
 
 ## Required Knowledge
+
 * Development Using `AI` (or equivalent experience)
 
 ## Objectives
+
 * **Explain** what Spec-Driven Development is, what problems it solves and how it relates to `TDD`, `BDD` and `DDD`
 * **Write** specifications — requirements, technical plans and task breakdowns — that an `AI` agent can implement from reliably
 * **Run** the full specify-plan-implement-verify loop with a real coding agent on a real codebase

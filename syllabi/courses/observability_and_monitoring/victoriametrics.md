@@ -25,21 +25,25 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers and SREs managing large-scale monitoring infrastructure who need an efficient alternative or complement to `Prometheus`.
 * System administrators responsible for metrics collection and retention across cloud, on-premise, or hybrid environments.
 * Platform engineers evaluating time-series databases for high-cardinality and long-retention use cases.
 
 ## Prerequisites
+
 * Working knowledge of `Prometheus`, including scrape configuration, `PromQL` queries, and alerting rules.
 * Familiarity with `Docker` and basic `Linux` administration.
 * Understanding of time-series data concepts and metrics collection patterns.
 * Experience with `Grafana` for dashboard creation is helpful.
 
 ## Required Knowledge
+
 * `Prometheus` fundamentals (or equivalent experience)
 * `Linux` command-line proficiency
 
 ## Objectives
+
 * Understand the `VictoriaMetrics` architecture and its advantages over `Prometheus`
 * Install and configure single-node and cluster deployments of `VictoriaMetrics`
 * Ingest metrics from `Prometheus`, `Telegraf`, `InfluxDB`, and other sources

@@ -29,6 +29,7 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Kubernetes` administrators and platform engineers
 * `DevOps` and `DevSecOps` engineers
 * Cloud security engineers and architects
@@ -37,6 +38,7 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
 * Anyone responsible for securing containerized workloads
 
 ## Prerequisites
+
 * Hands-on experience with `Kubernetes` (deploying and managing workloads)
 * Understanding of `Kubernetes` architecture: control plane, nodes, pods, services
 * Familiarity with `Docker` and container fundamentals
@@ -46,11 +48,13 @@ Securing `Kubernetes` clusters requires deep knowledge of the platform's securit
 * Familiarity with `kubectl` and Helm
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 * Helm (or equivalent experience)
 
 ## Objectives
+
 * Implement and enforce `Pod Security Standards` across namespaces
 * Design and apply `Network Policies` to control pod-to-pod and external traffic
 * Configure admission controllers including `OPA Gatekeeper` and `Kyverno` for policy enforcement

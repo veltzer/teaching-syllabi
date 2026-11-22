@@ -17,6 +17,7 @@ audience:
 ## Description
 
 The course divided into following parts:
+
 * The pass through all features of `C++` but on higher level ( example: no explanation
 what is the meaning of Constructor and Destructor, but the cost of these functions and
 ways to decrease number of there invocations will be discussed ).
@@ -29,6 +30,7 @@ ways to decrease number of there invocations will be discussed ).
 24 hours / 3 days
 
 ## Intended Audience
+
 * `C++` developers
 * software engineers working on performance-critical applications
 
@@ -118,6 +120,7 @@ understanding of `C++`.
 * Coding Rules and Naming Conventions
 
 ## References
+
 * [B.Stroustrup, The `C++` Programming Language, Second Edition, Addison-Wesley Publishing Company](https://www.stroustrup.com/4th.html)
 * [B.Stroustrup, The Design and Evolution of `C++`, Addison-Wesley Publishing Company](https://www.stroustrup.com/dne.html)
 * [S.Lippman, `C++` Primer, Second Edition,Addison-Wesley Publishing Company](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)

@@ -29,19 +29,23 @@ auto-scaling, monitoring, and `CI/CD` pipelines for container workloads on `AWS`
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers responsible for deploying and managing containerized workloads on `AWS`.
 * Developers building and shipping containerized applications on `AWS`.
 * Site reliability engineers managing container infrastructure at scale.
 
 ## Prerequisites
+
 * Basic knowledge of `Docker` and containerization concepts.
 * Familiarity with `AWS` core services (`EC2`, `VPC`, `IAM`).
 * Basic understanding of networking concepts.
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Deploy and manage containerized applications using `Amazon ECS` and `Amazon EKS`.
 * Configure Fargate for serverless container workloads.
 * Build and manage container images with `Amazon ECR`.

@@ -28,6 +28,7 @@ Vector databases are purpose-built data stores that index and retrieve high-dime
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building `AI`-powered search, recommendations, or chat applications
 * Data scientists working with embedding models and semantic similarity
 * `ML` engineers deploying retrieval-augmented generation (`RAG`) pipelines
@@ -35,12 +36,14 @@ Vector databases are purpose-built data stores that index and retrieve high-dime
 * Architects evaluating vector database options for production `AI` workloads
 
 ## Prerequisites
+
 * Proficiency in `Python`
 * Basic understanding of `machine learning` concepts (models, inference)
 * Familiarity with `REST` APIs and `JSON`
 * Exposure to linear algebra concepts (vectors, `dot` products) is helpful but not required
 
 ## Objectives
+
 * Understand what vector embeddings are and how they encode semantic meaning
 * Explain and compare approximate nearest-neighbor (ANN) algorithms
 * Set up and operate Pinecone, `Weaviate`, and `Qdrant` for development and production

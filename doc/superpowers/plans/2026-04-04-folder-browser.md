@@ -21,6 +21,7 @@
 ## Task 1: Add HTML containers for breadcrumb and subfolders
 
 **Files:**
+
 - Modify: `resources/index.html:12-14` (after `<div id="index-view">` heading)
 
 - [ ] **Step 1: Add breadcrumb and subfolder divs to index.html**
@@ -54,6 +55,7 @@ Expected: Build summary with no errors. The htmlhint and eslint checks must pass
 ## Task 2: Add CSS styles for breadcrumbs and subfolder cards
 
 **Files:**
+
 - Modify: `resources/index.css` (append at end)
 
 - [ ] **Step 1: Add breadcrumb styles**
@@ -90,6 +92,7 @@ Expected: Build summary with no errors. Stylelint must pass.
 ## Task 3: Add folder state and navigation functions to JS
 
 **Files:**
+
 - Modify: `resources/index.js:6-7` (after icon constants, before DOM element declarations)
 
 - [ ] **Step 1: Add folder state variable and DOM references**
@@ -203,6 +206,7 @@ Expected: Build summary with no errors. ESLint must pass (navigateFolder, render
 ## Task 4: Integrate folder filtering into render() and URL handling
 
 **Files:**
+
 - Modify: `resources/index.js` — modify `render()`, `popstate` handler, and initial load block
 
 - [ ] **Step 1: Add folder filtering to render()**
@@ -311,6 +315,7 @@ Expected: Build summary with no errors. All linters pass.
 - [ ] **Step 6: Verify in browser**
 
 Open `_site/index.html` in a browser. Verify:
+
 1. Breadcrumb shows "courses" at the top
 2. Subfolder cards appear (ai, architecting, big_data, etc.) with course counts
 3. Clicking a subfolder card navigates into it (breadcrumb updates, subfolders update, course list filters)

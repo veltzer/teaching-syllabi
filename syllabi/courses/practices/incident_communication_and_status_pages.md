@@ -42,18 +42,21 @@ run the comms side of an incident.
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers acting as incident commanders
 * `DevOps` and operations engineers running incident response
 * support and customer-facing leads
 * engineering managers responsible for customer trust
 
 ## Prerequisites
+
 * working experience handling at least one production incident
 * exposure to the Incident Response and Postmortems course
 * familiarity with at least one alerting and on-call tool
 * basic understanding of communication norms
 
 ## Objectives
+
 * assign the canonical incident-communication roles
 * segment the audiences and tailor messages per audience
 * operate a status page well

@@ -24,20 +24,24 @@ This course provides an in-depth exploration of `Grafana`, the leading open-sour
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who need to build and maintain monitoring dashboards
 * `DevOps` engineers responsible for observability infrastructure
 * System administrators managing monitoring stacks
 
 ## Prerequisites
+
 * Basic familiarity with `Grafana` (creating simple dashboards).
 * Understanding of monitoring concepts (metrics, logs, traces).
 * Familiarity with at least one data source (`Prometheus`, `Elasticsearch`, or similar).
 
 ## Required Knowledge
+
 * ELK (or equivalent experience)
 * `Prometheus` and `Grafana` (or equivalent experience)
 
 ## Objectives
+
 * Configure and manage multiple data sources in `Grafana`.
 * Design effective dashboards using advanced visualization types and techniques.
 * Set up comprehensive alerting with rules, contact points, and notification policies.

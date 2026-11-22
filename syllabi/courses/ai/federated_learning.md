@@ -32,20 +32,24 @@ research challenges and practical limitations that practitioners encounter in pr
 16 hours / 2 days
 
 ## Intended Audience
+
 * `ML` engineers and data scientists building privacy-preserving `machine learning` systems.
 * Architects designing distributed `machine learning` infrastructure across multiple data owners.
 * Developers working in regulated industries such as healthcare, finance, or telecommunications.
 
 ## Prerequisites
+
 * Strong `Python` programming skills.
 * `Solid` foundation in `machine learning` and neural network training.
 * Familiarity with distributed systems concepts and basic networking.
 * Understanding of basic probability and statistics.
 
 ## Required Knowledge
+
 * `Deep Learning` fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the motivations and threat models behind `federated learning`.
 * Implement the `Federated Averaging` algorithm from first principles.
 * Apply differential privacy techniques to protect individual training samples.

@@ -30,16 +30,19 @@ The course includes hands on exercises.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers looking to increase productivity with a more expressive `JVM` language.
 * `DevOps` engineers working with `Gradle` or `Jenkins` who want a deeper understanding of Groovy.
 * Developers interested in building domain-specific languages.
 
 ## Prerequisites
+
 * `Solid` programming experience in `Java` or another object-oriented language.
 * Familiarity with the `JVM` ecosystem.
 * Basic understanding of build tools and `CI/CD` concepts is helpful.
 
 ## Objectives
+
 * Write concise and idiomatic Groovy code
 * Understand the differences and interplay between Groovy and `Java`
 * Use closures, collections, and dynamic features effectively

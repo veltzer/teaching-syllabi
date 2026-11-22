@@ -38,17 +38,20 @@ fuzzing and security. Participants leave able to add a fuzz target to a project 
 24 hours / 3 days
 
 ## Intended Audience
+
 * senior developers writing parsers, protocols, or anything that takes external input
 * security engineers integrating fuzzing into the `SDLC`
 * `QA` engineers ready to graduate beyond example-based testing
 * developers maintaining libraries that are fuzzed downstream
 
 ## Prerequisites
+
 * working experience in at least one of `C/C++`, Go, Rust, `Python`, or `Java`
 * exposure to the `Property Based Testing` course is helpful
 * basic familiarity with `CI` pipelines
 
 ## Objectives
+
 * explain coverage-guided fuzzing
 * write a high-quality fuzz harness
 * run fuzzing locally and continuously in `CI`

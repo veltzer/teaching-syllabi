@@ -33,19 +33,23 @@ such as `macOS` or `Linux`.
 This course is intended for developers and teaches the `Kotlin` APIs of `Android`.
 
 ## Duration
+
 * Short: 40 hours / 5 days (assumes `Kotlin` experience)
 * Long: 48 hours / 6 days (includes `Kotlin` programming intro)
 
 ## Intended Audience
+
 * Object-oriented developers who would like to learn how to write `Android` applications using the `Kotlin` programming language.
 
 ## Prerequisites
+
 * Some knowledge of `XML` is required
 * For the short version, previous knowledge and experience of `Kotlin` is assumed
 * Experience of using `Android` at a user level is not assumed but will be an advantage, as
 will previous experience of `Android` Studio
 
 ## Objectives
+
 * Use `Android` Studio with the `Android` emulator as a productive development environment
 * Learn how to write and run `Android` applications
 * Understand `Android` features
@@ -207,6 +211,7 @@ will previous experience of `Android` Studio
     * Multiplatform development
 
 ## Installations
+
 * `Android` Studio is required and installation instructions are [`android`-studio-install](https://developer.android.com/studio/install)
 * There is no need to install this before the course and it is usually installed at the start of the course with the help of the instructor.
 * Latest version is usually preferred.

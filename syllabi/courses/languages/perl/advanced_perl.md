@@ -23,15 +23,18 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who need advanced `Perl` skills for complex applications
 * System administrators automating infrastructure with `Perl`
 * Developers maintaining or extending existing `Perl` codebases
 
 ## Prerequisites
+
 * Working knowledge of `Perl` basics (variables, control flow, subroutines)
 * Experience writing `Perl` scripts
 
 ## Objectives
+
 * Use references and build complex data structures
 * Master `Perl` regular expressions for advanced text processing
 * Write object-oriented `Perl` using Moose and Moo

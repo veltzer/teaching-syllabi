@@ -25,17 +25,20 @@ This course covers the `Scala` language comprehensively, from basic syntax throu
 32 hours / 4 days
 
 ## Intended Audience
+
 * `Java` developers looking to adopt a more expressive language on the `JVM`
 * Developers interested in functional programming concepts
 * Backend and data engineers working with `Spark`, Akka, or Play
 * Programmers who want to leverage `Scala`'s powerful type system
 
 ## Prerequisites
+
 * `Solid` programming experience, preferably in `Java` or another `JVM` language
 * Understanding of object-oriented programming concepts
 * Familiarity with basic functional programming ideas is helpful but not required
 
 ## Objectives
+
 * Write idiomatic `Scala` code combining `OOP` and functional programming
 * Use pattern matching, case classes, and algebraic data types effectively
 * Leverage `Scala`'s type system including generics, variance, and type bounds

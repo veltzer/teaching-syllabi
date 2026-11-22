@@ -27,12 +27,14 @@ The course covers both manual and automated testing techniques, equipping partic
 24 hours / 3 days
 
 ## Intended Audience
+
 * Security professionals conducting web application assessments
 * Developers seeking to understand attacker techniques
 * Penetration testers expanding their web application testing skills
 * QA testers transitioning into security testing roles
 
 ## Prerequisites
+
 * `Solid` understanding of `HTTP` protocol and web technologies
 * Familiarity with `HTML`, `JavaScript`, and `SQL`
 * Basic networking knowledge (`TCP`/`IP`, `DNS`)
@@ -40,10 +42,12 @@ The course covers both manual and automated testing techniques, equipping partic
 * Understanding of common web application architectures
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Apply a structured pentesting methodology to web application assessments
 * Perform thorough reconnaissance and information gathering
 * Use `Burp Suite` and `OWASP ZAP` for vulnerability discovery and exploitation

@@ -39,18 +39,21 @@ production vector-search system.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers and `ML` engineers shipping `RAG`, search, or recommendation systems
 * data engineers integrating vector search into existing platforms
 * architects choosing among vector-database options
 * engineers operating an existing vector workload at scale
 
 ## Prerequisites
+
 * working knowledge of `Python` or another mainstream language
 * basic familiarity with embeddings and `LLM`/`ML` APIs
 * exposure to at least one classical search system or relational database
 * basic linear-algebra intuition is helpful
 
 ## Objectives
+
 * describe the major `ANN` index families and their tradeoffs
 * design a vector-search system with appropriate recall, latency and cost
 * implement hybrid search and reranking correctly

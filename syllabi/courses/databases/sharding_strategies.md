@@ -40,18 +40,21 @@ horizontal `Postgres` sharding, and Pinterest's `MySQL` sharding history. Partic
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DBAs` and senior developers facing a single-node ceiling
 * architects designing a system from scratch that will need sharding
 * data engineers operating large transactional databases
 * engineers who have inherited a sharded system
 
 ## Prerequisites
+
 * `solid` relational database knowledge
 * exposure to the Database Internals course
 * familiarity with at least one of `Postgres`, `MySQL`, `MongoDB`
 * basic distributed systems background
 
 ## Objectives
+
 * decide whether sharding is justified
 * pick a shard key correctly
 * design the routing layer

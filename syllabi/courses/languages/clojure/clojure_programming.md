@@ -26,16 +26,19 @@ This course provides a comprehensive introduction to `Clojure` programming, cove
 32 hours / 4 days
 
 ## Intended Audience
+
 * `JVM` developers (`Java`, `Kotlin`, `Scala`) looking to explore functional programming
 * Developers interested in Lisp family languages and metaprogramming
 * Engineers building data-intensive or concurrent backend services
 
 ## Prerequisites
+
 * `Solid` experience programming in at least one language, preferably `Java` or another `JVM` language
 * Basic understanding of functional concepts such as higher-order functions is helpful
 * No prior Lisp experience is required
 
 ## Objectives
+
 * Read and write idiomatic `Clojure` code using its core data structures and functions
 * Understand and leverage immutability and persistent data structures
 * Use `Clojure`'s concurrency primitives (atoms, refs, agents) safely

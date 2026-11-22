@@ -38,6 +38,7 @@ Claude's behavior on a real codebase.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers who already use Claude occasionally and want to use it well
 * Senior developers and tech leads evaluating Claude for team adoption
 * `DevOps` engineers who want to wire Claude into existing tooling via `MCP`
@@ -45,12 +46,14 @@ Claude's behavior on a real codebase.
   over private knowledge bases
 
 ## Prerequisites
+
 * Comfortable on the command line in a `UNIX`-like environment
 * Proficiency in at least one programming language
 * Working knowledge of `git` and a real development workflow
 * A Claude account with `Claude Code` installed and authenticated
 
 ## Objectives
+
 * **Configure** Claude at the global and per-project level, including settings,
   permissions, hooks and environment variables
 * **Reason about the context window** and use compaction deliberately rather

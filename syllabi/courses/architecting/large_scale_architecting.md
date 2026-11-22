@@ -29,16 +29,19 @@ Large scale architectures is the study of the tools and methodologies that are c
 Architects and senior developers responsible for designing and maintaining large scale systems.
 
 ## Prerequisites
+
 * Several years of software development experience
 * Basic understanding of distributed systems, networking, and databases
 
 ## Objectives
+
 * Understand the pillars of well-architected systems including security, reliability, and performance
 * Evaluate architectural trade-offs in large scale environments
 * Apply best practices for operational excellence and cost optimization
 * Design systems that meet sustainability and scalability requirements
 
 ## Exercises
+
 * This is a theoretical course, it does not include exercises.
 
 ## Outline
@@ -173,6 +176,7 @@ Architects and senior developers responsible for designing and maintaining large
     * progressive delivery: canary releases, feature flags
 
 ## References
+
 * [The 6 Pillars of the `AWS` Well-Architected Framework](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework)
 
 ## Copyright

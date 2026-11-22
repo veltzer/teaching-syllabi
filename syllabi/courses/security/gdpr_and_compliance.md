@@ -26,18 +26,21 @@ The General Data Protection Regulation (`GDPR`) fundamentally changed how organi
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and engineers building systems that handle personal data
 * Solution architects designing data flows and storage for `GDPR`-compliant systems
 * Managers and product owners responsible for data-processing products and services
 * Legal, compliance, and privacy professionals new to technology-focused privacy regulation
 
 ## Prerequisites
+
 * No technical programming background is required
 * Basic understanding of how web applications and databases work is helpful
 * Familiarity with general business processes and the concept of customer data
 * Awareness of the existence of data privacy as a concept is sufficient to begin
 
 ## Objectives
+
 * Explain the scope, territorial reach, and core principles of `GDPR`
 * Identify and apply an appropriate lawful basis for each personal data processing activity
 * Describe and operationalize the eight data subject rights, including access, erasure, and portability

@@ -23,19 +23,23 @@ This course covers TimescaleDB, a time-series database built as an extension on 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers working with time-series data
 * Data scientists and data engineers building analytics pipelines
 * Backend engineers designing monitoring and IoT systems
 
 ## Prerequisites
+
 * `Solid` understanding of `SQL` and relational databases.
 * Familiarity with `PostgreSQL` basics.
 * Basic understanding of time-series data concepts.
 
 ## Required Knowledge
+
 * `PostgreSQL` for Developers (or equivalent experience)
 
 ## Objectives
+
 * Understand the TimescaleDB architecture including hypertables and chunks.
 * Install and configure TimescaleDB on `PostgreSQL`.
 * Design schemas and create hypertables for time-series workloads.

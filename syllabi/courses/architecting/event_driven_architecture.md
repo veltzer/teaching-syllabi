@@ -24,6 +24,7 @@ This course provides a comprehensive guide to designing, building, and operating
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers building distributed and `microservices`-based systems
 * Software architects designing scalable and decoupled systems
 * Technical leads evaluating messaging and event-driven strategies
@@ -31,6 +32,7 @@ This course provides a comprehensive guide to designing, building, and operating
 * `DevOps` engineers supporting event-driven infrastructure
 
 ## Prerequisites
+
 * `Solid` understanding of software development fundamentals
 * Familiarity with `REST APIs` and web service architecture
 * Basic knowledge of distributed systems concepts
@@ -38,9 +40,11 @@ This course provides a comprehensive guide to designing, building, and operating
 * Basic understanding of databases and data persistence
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the principles and trade-offs of `event-driven architecture`
 * Distinguish between events, commands, and queries and apply each appropriately
 * Select and configure message brokers such as `Kafka`, `RabbitMQ`, `AWS SNS/SQS`, and `Azure Service Bus`

@@ -30,17 +30,20 @@ system, networking, and debugging using `Wind River Workbench`.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building applications on the `VxWorks` real-time operating system.
 * Embedded engineers designing and implementing systems on `VxWorks`-based platforms.
 * Firmware developers working with `VxWorks` for hardware-level programming and `BSP` development.
 
 ## Prerequisites
+
 * Strong programming skills in C.
 * Basic understanding of operating system concepts (processes, memory, scheduling).
 * Familiarity with embedded systems and hardware concepts.
 * Experience with cross-compilation toolchains is an advantage.
 
 ## Objectives
+
 * Understand RTOS concepts and the `VxWorks` architecture.
 * Create and manage tasks with appropriate scheduling policies.
 * Implement inter-task communication using semaphores and message queues.

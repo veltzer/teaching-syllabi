@@ -39,17 +39,20 @@ reliability. Participants leave able to design a release process that the team w
 24 hours / 3 days
 
 ## Intended Audience
+
 * `DevOps` engineers owning the deployment pipeline
 * platform engineers building the paved release road
 * senior developers introducing progressive delivery to a team
 * tech leads accountable for change-failure rate
 
 ## Prerequisites
+
 * working experience with at least one `CI/CD` system
 * exposure to either `Kubernetes` or a comparable deploy target
 * familiarity with the Trunk Based Development course is helpful
 
 ## Objectives
+
 * design a release strategy appropriate for the team and the product
 * choose between blue-green, rolling, canary, and shadow
 * solve the database migration rollback problem

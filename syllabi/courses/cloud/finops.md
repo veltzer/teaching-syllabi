@@ -29,15 +29,18 @@ This course provides a comprehensive guide to managing and optimizing cloud cost
 Cloud architects, `DevOps` engineers, engineering managers, and finance stakeholders who are responsible for managing or optimizing cloud spending across the organization.
 
 ## Prerequisites
+
 * Working knowledge of at least one major cloud provider (`AWS`, `Azure`, or `GCP`)
 * Basic understanding of cloud services (compute, storage, networking)
 * Familiarity with cloud billing concepts
 
 ## Required Knowledge
+
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the FinOps framework and its core principles
 * Implement effective tagging and cost allocation strategies
 * Rightsize cloud resources based on utilization data

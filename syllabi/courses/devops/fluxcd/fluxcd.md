@@ -32,17 +32,20 @@ multi-tenant workflows. The course also covers progressive delivery strategies w
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers who want to implement `GitOps` workflows on `Kubernetes`.
 * Platform engineers building self-service delivery platforms for development teams.
 * Developers who need to understand how their applications are continuously delivered.
 
 ## Prerequisites
+
 * Practical experience with `Kubernetes` (deployments, services, namespaces, `RBAC`).
 * Familiarity with Helm charts and `Kustomize` overlays.
 * Comfortable working with `Git` workflows and pull requests.
 * Basic understanding of `YAML` and `Kubernetes` manifests.
 
 ## Objectives
+
 * Understand the `GitOps` principles and how `Flux` implements them on `Kubernetes`.
 * Bootstrap and configure `Flux` in a `Kubernetes` cluster using the flux `CLI`.
 * Manage application delivery with the `Kustomize` and Helm controllers.

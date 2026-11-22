@@ -27,12 +27,15 @@ and is accompanied with exercises in `Linux` as demonstration of the various iss
 56 hours / 7 days
 
 ## Intended Audience
+
 * Programmers who wish to work with low-level hard/soft/near real time systems
 
 ## Prerequisites
+
 * C programming (`C++` an advantage)
 
 ## Objectives
+
 * understand the core concepts and principles of Real Time Programming
 * gain practical knowledge of Definitions
 * gain practical knowledge of Types of real time system

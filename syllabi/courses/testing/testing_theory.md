@@ -22,13 +22,16 @@ This course provides a comprehensive introduction to software testing theory, co
 16 hours / 2 days
 
 ## Intended Audience
+
 * QA engineers and test automation developers
 * software developers interested in testing practices
 
 ## Prerequisites
+
 * basic software development experience
 
 ## Objectives
+
 * understand the core concepts and principles of Testing theory
 * gain practical knowledge of Introduction to testing
 * gain practical knowledge of Static techniques

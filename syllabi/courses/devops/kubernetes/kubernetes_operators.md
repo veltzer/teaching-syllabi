@@ -29,16 +29,19 @@ loops, handle finalizers, set up webhooks, and manage operator deployment using 
 24 hours / 3 days
 
 ## Intended Audience
+
 * developers who want to extend `Kubernetes` with custom controllers and operators.
 * `devops` engineers responsible for managing complex applications on `Kubernetes`.
 * platform engineers building internal developer platforms on `Kubernetes`.
 
 ## Prerequisites
+
 * `solid` understanding of `Kubernetes` concepts (pods, deployments, services, namespaces).
 * experience with Go programming language is recommended.
 * familiarity with `kubectl` and `Kubernetes` manifests.
 
 ## Objectives
+
 * understand the Operator pattern and when to apply it.
 * gain practical knowledge of extending the `Kubernetes` `API` with custom resources.
 * build operators using `Operator SDK` and kubebuilder.

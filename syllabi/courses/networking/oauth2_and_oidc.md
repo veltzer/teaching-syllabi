@@ -26,21 +26,25 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend and full-stack developers building applications that use third-party login, `API` authorization, or service-to-service authentication.
 * Software architects designing identity and access management strategies for distributed systems and `microservices`.
 * Security engineers performing threat modeling, code review, or penetration testing of `OAuth2`/`OIDC` implementations.
 
 ## Prerequisites
+
 * `Solid` understanding of `HTTP`: requests, responses, redirects, cookies, and headers.
 * Experience with at least one server-side programming language (`Python`, `Node.js`, `Java`, Go).
 * Familiarity with `JSON` and basic cryptography concepts (symmetric vs asymmetric encryption) is helpful.
 * Basic knowledge of web application security (same-origin policy, `HTTPS`, `CORS`).
 
 ## Required Knowledge
+
 * `HTTP` protocol fundamentals
 * Web application development experience
 
 ## Objectives
+
 * Distinguish between authentication and authorization and understand when each is needed
 * Explain the `OAuth2` authorization framework: roles, token types, and grant types
 * Implement the Authorization Code flow with `PKCE` for web and native applications

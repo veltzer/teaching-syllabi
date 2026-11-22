@@ -22,18 +22,22 @@ This course teaches modern `Android` application development using `Kotlin` and 
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Android` developers looking to adopt modern `Kotlin`-based development practices
 * Mobile developers transitioning from `Java`-based `Android` development to `Kotlin`
 * Developers building production-quality `Android` applications with Jetpack components
 
 ## Prerequisites
+
 * Familiarity with mobile application concepts and lifecycle management
 
 ## Required Knowledge
+
 * `Kotlin` Programming
 * `Android` Application Development
 
 ## Objectives
+
 * Use `Kotlin` coroutines, Flow, and StateFlow to manage asynchronous operations
 * Build declarative UIs with `Jetpack Compose`
 * Implement the recommended `Android` architecture using ViewModel and state management

@@ -31,17 +31,20 @@ migrating from `Apache Kafka`.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Backend developers building high-throughput event-driven and streaming applications.
 * Data engineers integrating Pulsar into real-time data pipelines.
 * Architects designing multi-tenant, globally distributed messaging platforms.
 * Engineers evaluating Pulsar as a replacement for or complement to `Apache Kafka`.
 
 ## Prerequisites
+
 * `Solid` programming experience in `Java`, `Python`, or Go.
 * Familiarity with distributed systems concepts such as replication, partitioning, and fault tolerance.
 * Basic understanding of messaging patterns (pub/sub, queuing) is assumed.
 
 ## Objectives
+
 * Explain Pulsar's architecture and how it differs from `Kafka` and traditional brokers.
 * Design topic hierarchies using tenants, namespaces, and topics.
 * Produce and consume messages using the Pulsar client `API`.

@@ -25,17 +25,21 @@ the following chapters and then goes into the various attack vectors. Each attac
 and demonstrated.
 
 ## Duration
+
 * Short: 24 hours / 3 days
 * Long: 48 hours / 6 days
 
 ## Intended Audience
+
 * Anyone who wishes to understand the current security landscape of threats and attack vectors.
 
 ## Prerequisites
+
 * Tech affinity
 * Programming background is not required but may add to participants understanding
 
 ## Objectives
+
 * understand the core concepts and principles of Cyber Threats and Attack Vectors
 * gain practical knowledge of Hacking landscape overview
 * gain practical knowledge of Basic OS security
@@ -302,6 +306,7 @@ and demonstrated.
     * Mass assignment
 
 ## References
+
 * [Google Hacking](https://en.wikipedia.org/wiki/Google_hacking)
 * [burp](https://portswigger.net/burp)
 * [`NMAP`](https://nmap.org)

@@ -25,16 +25,19 @@ This intensive 4-day course introduces students to programming embedded systems 
 32 hours / 4 days
 
 ## Intended Audience
+
 * C programmers who have little or no background in bare metal embedded development.
 * `Linux` embedded programmers who would like to learn how to program in bare metal situations.
 
 ## Prerequisites
+
 * Proficiency in C programming
 * Basic understanding of digital logic
 * Familiarity with computer architecture concepts
 * Basic knowledge of electronics (voltage, current, resistance)
 
 ## Objectives
+
 * Develop bare metal embedded applications
 * Configure and use microcontroller peripherals
 * Implement interrupt-driven systems
@@ -43,6 +46,7 @@ This intensive 4-day course introduces students to programming embedded systems 
 * Apply real-time programming concepts
 
 ## Exercises
+
 * Development board (`ARM` Cortex-M4 based)
 * `USB`-A to Micro-`USB` cable
 * Laptop with development environment installed

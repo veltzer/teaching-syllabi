@@ -38,18 +38,21 @@ the tradeoffs surfaced rather than buried.
 40 hours / 5 days
 
 ## Intended Audience
+
 * architects designing distributed systems with non-trivial correctness requirements
 * senior developers building on top of distributed databases and messaging systems
 * `DBAs` choosing or operating distributed data stores
 * engineers preparing for systems-design interviews
 
 ## Prerequisites
+
 * `solid` backend development experience
 * basic distributed systems concepts (replication, partitioning, consensus at a high level)
 * working knowledge of at least one database and one message broker
 * basic familiarity with `HTTP` and networking
 
 ## Objectives
+
 * state the `CAP` and `PACELC` theorems precisely and apply them
 * compare consistency models and choose the weakest sufficient one
 * reason about replication strategies and their failure modes

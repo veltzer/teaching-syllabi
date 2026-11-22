@@ -25,6 +25,7 @@ This course provides comprehensive coverage of `API` security principles, protoc
 16 hours / 2 days
 
 ## Intended Audience
+
 * Backend developers building and securing APIs
 * Software architects designing authentication and authorization systems
 * Security professionals assessing `API` security posture
@@ -32,11 +33,13 @@ This course provides comprehensive coverage of `API` security principles, protoc
 * Development teams adopting `OAuth 2.0` and `OpenID Connect`
 
 ## Prerequisites
+
 * Experience with building or consuming `REST` APIs
 * Basic understanding of `HTTP` protocol and web security concepts
 * Familiarity with `JSON` and common web development patterns
 
 ## Objectives
+
 * Implement `OAuth 2.0` flows for various application types using the appropriate grant types
 * Configure `OpenID Connect` for federated identity and single sign-on
 * Apply `JWT` best practices for signing, encryption, and claims management

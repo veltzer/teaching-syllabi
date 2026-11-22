@@ -26,6 +26,7 @@ The course emphasizes hands-on experience with real-world administrative scenari
 32 hours / 4 days
 
 ## Intended Audience
+
 * Database administrators managing `MySQL` instances
 * System administrators responsible for database infrastructure
 * `DevOps` engineers deploying and maintaining `MySQL`
@@ -33,15 +34,18 @@ The course emphasizes hands-on experience with real-world administrative scenari
 * Infrastructure engineers designing database architectures
 
 ## Prerequisites
+
 * Basic understanding of relational database concepts
 * Familiarity with `SQL` fundamentals
 * `Linux` command line proficiency
 * Basic networking knowledge (`TCP`/`IP`, ports, firewalls)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `MySQL` architecture and storage engines
 * Install, configure, and manage `MySQL` instances
 * Implement robust backup and recovery strategies

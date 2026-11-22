@@ -33,20 +33,24 @@ big-data tools. By the end of the course, participants will be equipped to estab
 16 hours / 2 days
 
 ## Intended Audience
+
 * `ML` engineers and data scientists who want to bring reproducibility and governance to their experiments.
 * `MLOps` and `DevOps` engineers responsible for deploying and monitoring `machine learning` models.
 * Data science teams seeking a unified platform for experiment management and model delivery.
 
 ## Prerequisites
+
 * `Solid` `Python` programming skills.
 * Practical experience training `machine learning` or `deep learning` models.
 * Basic familiarity with `Docker` and `REST` APIs is beneficial.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Machine Learning` fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `ML` lifecycle and where `MLflow` fits within the broader `MLOps` ecosystem.
 * Instrument training code to log parameters, metrics, and artefacts with `MLflow` Tracking.
 * Package `ML` projects for reproducibility using `MLflow` Projects.

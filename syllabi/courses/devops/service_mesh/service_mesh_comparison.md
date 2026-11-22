@@ -28,19 +28,23 @@ on selecting and migrating to a service mesh.
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers building and operating `microservices` on `Kubernetes`.
 * `devops` engineers evaluating service mesh solutions.
 * architects designing platform infrastructure for `microservices`.
 
 ## Prerequisites
+
 * `solid` understanding of `Kubernetes` (services, deployments, networking).
 * familiarity with `microservices` architecture patterns.
 * basic networking knowledge (`TCP`/`IP`, `HTTP`, `TLS`).
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
+
 * understand service mesh concepts and architecture patterns.
 * evaluate `Istio`, `Linkerd`, `Cilium Service Mesh`, and `Consul Connect` across key criteria.
 * compare traffic management, security, and observability features.

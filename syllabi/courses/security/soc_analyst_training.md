@@ -21,6 +21,7 @@ This course prepares security professionals for roles in a Security Operations C
 40 hours / 5 days
 
 ## Intended Audience
+
 * Aspiring `SOC` analysts and junior security professionals
 * IT administrators transitioning to security operations roles
 * Network engineers moving into security monitoring
@@ -28,6 +29,7 @@ This course prepares security professionals for roles in a Security Operations C
 * Security engineers responsible for detection and monitoring
 
 ## Prerequisites
+
 * Basic understanding of networking concepts (`TCP`/`IP`, `DNS`, `HTTP`, firewalls)
 * Familiarity with `Linux` and `Windows` operating systems administration
 * Basic knowledge of information security principles
@@ -35,9 +37,11 @@ This course prepares security professionals for roles in a Security Operations C
 * Command-line proficiency on both `Linux` and `Windows`
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the structure, roles, and workflows of a modern `SOC`
 * Configure and operate `SIEM` platforms including `Splunk`, `Elastic SIEM`, and `Microsoft Sentinel`
 * Analyze logs from multiple sources including `Windows` event logs, `Linux` `syslog`, and network devices

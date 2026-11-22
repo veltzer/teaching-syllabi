@@ -25,19 +25,23 @@ This two day course covers the design and implementation of autonomous `AI` agen
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building `AI`-powered applications
 * Data engineers integrating `AI` agents into pipelines
 * Software architects designing agent-based systems
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of `LLMs` and their APIs
 * Familiarity with prompt engineering concepts
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the architecture and `design patterns` of `AI` agents.
 * Build autonomous agents capable of reasoning, planning, and tool use.
 * Implement multi-agent systems with coordination and communication.

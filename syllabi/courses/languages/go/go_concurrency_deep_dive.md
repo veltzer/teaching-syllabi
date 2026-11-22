@@ -22,16 +22,19 @@ This course provides an in-depth exploration of Go's concurrency model, going we
 16 hours / 2 days
 
 ## Intended Audience
+
 * Go developers who want to master concurrent programming patterns.
 * Backend engineers building high-concurrency services in Go.
 * Developers who need to write correct, efficient, and race-free concurrent code.
 
 ## Prerequisites
+
 * `Solid` experience with Go programming fundamentals.
 * Basic understanding of goroutines, channels, and the select statement.
 * Familiarity with Go's standard library.
 
 ## Objectives
+
 * Understand Go's concurrency model at a deep level
 * Master the context package for cancellation, deadlines, and value propagation
 * Use errgroup and synchronization primitives effectively

@@ -43,18 +43,21 @@ system.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers operating production systems
 * senior developers maintaining configuration code
 * `SREs` reviewing configuration-change incidents
 * architects designing configuration interfaces
 
 ## Prerequisites
+
 * working experience with at least one production deployment
 * exposure to the Feature Flags and Progressive Delivery course
 * familiarity with the Secrets Management course is helpful
 * basic understanding of `IaC`
 
 ## Objectives
+
 * identify the canonical configuration layers
 * pick the right storage for each layer
 * validate configuration changes before they ship

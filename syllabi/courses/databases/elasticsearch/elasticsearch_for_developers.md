@@ -28,24 +28,29 @@ The course emphasizes practical implementation with code examples in multiple pr
 languages and real-world search scenarios commonly encountered in application development.
 
 ## Duration
+
 * Short: 24 hours / 3 days
 * Long: 40 hours / 5 days
 
 ## Intended Audience
+
 * software developers working with databases
 * backend engineers and data engineers
 
 ## Prerequisites
+
 * Programming experience in at least one language (`Java`, `Python`, `JavaScript`, or similar)
 * Understanding of `JSON` format and `RESTful APIs`
 * Basic knowledge of database concepts (`CRUD` operations, indexes)
 * Familiarity with `HTTP` protocols and client-server architecture
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Elasticsearch`` for Developers
 * gain practical knowledge of Introduction to ```Elasticsearch``
 * gain practical knowledge of `Elasticsearch`` Fundamentals

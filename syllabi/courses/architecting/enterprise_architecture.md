@@ -26,17 +26,20 @@ Enterprise architecture provides the strategic framework for aligning IT infrast
 24 hours / 3 days
 
 ## Intended Audience
+
 * Architects designing enterprise-scale systems
 * Team leads making technology and integration decisions
 * Managers overseeing IT strategy and digital transformation
 * Senior developers transitioning to architecture roles
 
 ## Prerequisites
+
 * Several years of software development or IT experience
 * Familiarity with distributed systems concepts
 * Understanding of `web services` and APIs
 
 ## Objectives
+
 * Apply architecture frameworks (TOGAF, Zachman) to enterprise planning
 * Design integration solutions using enterprise integration patterns
 * Evaluate `SOA`, ESB, and `microservices` approaches

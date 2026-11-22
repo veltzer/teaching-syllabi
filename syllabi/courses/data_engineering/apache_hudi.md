@@ -26,6 +26,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data engineers building lakehouse architectures on cloud object storage
 * Data architects designing scalable and transactional data lake platforms
 * Engineers migrating from Hive-based data warehouses to open table formats
@@ -33,6 +34,7 @@ audience:
 * Data engineers working with `Apache Spark` and `Apache Flink` for large-scale `ETL`
 
 ## Prerequisites
+
 * Proficiency in `Apache Spark` for data processing (`PySpark` or `Scala`)
 * Strong understanding of `SQL` and data modelling concepts
 * Familiarity with cloud object storage (`S3`, `ADLS`, or `GCS`)
@@ -40,10 +42,12 @@ audience:
 * Experience with `Linux` command-line tools and `Docker`
 
 ## Required Knowledge
+
 * `Apache Spark` Fundamentals (or equivalent experience)
 * `SQL` Intermediate (or equivalent experience)
 
 ## Objectives
+
 * Understand the challenges of managing mutable data in data lakes and how `Hudi` addresses them
 * Describe `Hudi`'s architecture, storage model, and timeline
 * Choose between Copy-on-Write and Merge-on-Read table types based on workload requirements

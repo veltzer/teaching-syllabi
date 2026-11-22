@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building applications that produce or consume time-series data
 * `DevOps` and platform engineers collecting infrastructure and application metrics
 * System administrators managing monitoring stacks
@@ -32,12 +33,14 @@ audience:
 * Engineers evaluating time-series databases for observability platforms
 
 ## Prerequisites
+
 * Basic knowledge of databases and `SQL` concepts
 * Familiarity with command-line tools
 * Experience with at least one scripting language (`Python`, Bash, or similar)
 * Basic understanding of monitoring and metrics concepts is helpful
 
 ## Objectives
+
 * Understand the architecture and design goals of `InfluxDB`
 * Model time-series data using measurements, tags, and fields effectively
 * Write data using the line protocol, client libraries, and `Telegraf`

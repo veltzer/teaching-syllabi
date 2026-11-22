@@ -26,16 +26,19 @@ and system integration.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers who want to build native `macOS` applications.
 * `iOS` developers expanding to `macOS` development.
 * Developers interested in Apple platform development with Swift.
 
 ## Prerequisites
+
 * Working knowledge of Swift programming.
 * Basic understanding of object-oriented programming concepts.
 * Access to a Mac with `Xcode` installed.
 
 ## Objectives
+
 * understand the core concepts and principles of `macOS` development
 * gain practical knowledge of AppKit and SwiftUI for `macOS`
 * gain practical knowledge of application distribution and notarization

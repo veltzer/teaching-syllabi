@@ -26,12 +26,15 @@ It does with some of the more advanced features of `Splunk` and is intended for 
 16 hours / 2 days
 
 ## Intended Audience
+
 * People working with `Splunk` for up to one year and wish to understand `Splunk` more deeply.
 
 ## Prerequisites
+
 * People working with `Splunk` for up to one year.
 
 ## Objectives
+
 * Brush up on `Splunk` search basics
 * Learn more advanced search techniques
 * Get to know `Splunk` visualizations
@@ -71,6 +74,7 @@ It does with some of the more advanced features of `Splunk` and is intended for 
 * Using the Common Information Model (CIM) Add-On
 
 ## References
+
 * DevelopIntelligence/*
 
 ## Copyright

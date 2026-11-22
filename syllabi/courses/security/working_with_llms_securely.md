@@ -25,19 +25,23 @@ This one day course covers the `OWASP` Top 10 for Large Language Model Applicati
 16 hours / 1 day
 
 ## Intended Audience
+
 * Software developers integrating `LLMs` into applications
 * Security engineers evaluating `LLM` deployments
 * `DevOps` engineers deploying `LLM`-based systems
 
 ## Prerequisites
+
 * Basic understanding of `LLMs` and their APIs
 * Familiarity with web application security concepts
 * Programming experience in `Python` or similar language
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the `OWASP` Top 10 for `LLM` Applications.
 * Identify and exploit common `LLM` vulnerabilities.
 * Implement mitigations for each vulnerability category.

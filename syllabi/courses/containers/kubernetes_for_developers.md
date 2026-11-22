@@ -31,18 +31,21 @@ and controllers.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who want to build applications that integrate deeply with `Kubernetes`.
 * Platform engineers building internal developer platforms on `Kubernetes`.
 * Backend developers who need to write `Kubernetes` operators and controllers.
 * Software architects designing `Kubernetes`-native systems.
 
 ## Prerequisites
+
 * `Solid` understanding of `Kubernetes` concepts (pods, services, deployments, namespaces).
 * Experience with the Go programming language.
 * Familiarity with the `Kubernetes` `API` and `kubectl`.
 * Understanding of `REST` APIs and `YAML`/`JSON` formats.
 
 ## Objectives
+
 * Understand the `Kubernetes` `API` machinery and extension points
 * Design and implement Custom Resource Definitions (`CRDs`)
 * Build `Kubernetes` operators using client-`go` and controller-runtime

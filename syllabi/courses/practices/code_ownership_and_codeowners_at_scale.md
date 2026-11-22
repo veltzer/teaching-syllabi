@@ -43,17 +43,20 @@ monorepo posts. Participants leave able to design a `CODEOWNERS` strategy for a 
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers maintaining a large repository
 * team leads designing the team's review model
 * engineering managers responsible for code-quality outcomes
 * architects shaping the codebase's evolution
 
 ## Prerequisites
+
 * working experience on a non-trivial codebase
 * familiarity with at least one code review system (`GitHub`, `GitLab`, `Gerrit`)
 * exposure to the Code Review course is helpful
 
 ## Objectives
+
 * explain the trade-offs of the canonical ownership models
 * design a `CODEOWNERS` file for a real repository
 * route reviews efficiently

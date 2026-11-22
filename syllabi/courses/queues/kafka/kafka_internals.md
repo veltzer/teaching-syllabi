@@ -26,12 +26,15 @@ The course begins with covering configurations, allowing students to discover br
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and developer teams looking to leverage `Kafka` architecture that know `Java` and basic `Linux` commands.
 
 ## Prerequisites
+
 * `Java` programming
 
 ## Objectives
+
 * Understand the `Kafka` architecture and describe the roles and responsibilities of various Daemons
 * Use producers, consumers, and brokers within `Kafka`
 * Construct a streaming `ETL` pipeline using `Kafka` Connect

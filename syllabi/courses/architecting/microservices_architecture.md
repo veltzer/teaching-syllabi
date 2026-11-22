@@ -27,17 +27,20 @@ This course covers the principles, patterns, and practices of `microservices` ar
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers building or migrating to `microservices`-based systems
 * software architects designing distributed service architectures
 * `DevOps` engineers supporting `microservices` infrastructure
 * team leads overseeing `microservices` development teams
 
 ## Prerequisites
+
 * several years of software development experience
 * basic understanding of distributed systems concepts
 * familiarity with `REST` APIs and `web services`
 
 ## Objectives
+
 * understand the limitations of monolithic architectures and the drivers for `microservices`
 * apply decomposition strategies to break down systems into `microservices`
 * define service boundaries using bounded contexts

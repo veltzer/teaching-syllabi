@@ -39,9 +39,11 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
 40 hours / 5 days
 
 ## Intended Audience
+
 * Software developers with experience in an object oriented language
 
 ## Prerequisites
+
 * At least one year experience in programming an object oriented language (`Java`, `Python`, ...).
 * Understanding of the following:
     * abstract data type
@@ -54,9 +56,11 @@ This is the full version of the `Design Patterns` Course covering all 24 GOF pat
     * virtual methods
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Describe and apply good principles for object oriented software design
 * Describe `design patterns` and provide examples of problems and their pattern solutions
 * Cover the most important GOF patterns in depth, and provide an overview of the `rest`

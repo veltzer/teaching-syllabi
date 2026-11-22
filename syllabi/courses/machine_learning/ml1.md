@@ -21,17 +21,21 @@ This comprehensive course covers the theory and practice of `Machine Learning`, 
 56 hours / 7 days
 
 ## Intended Audience
+
 * data scientists and `machine learning` engineers
 * software developers transitioning to `ML` roles
 
 ## Prerequisites
+
 * programming experience in `Python`
 * basic knowledge of statistics and linear algebra
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Machine Learning`
 * gain practical knowledge of Supervised learning
 * gain practical knowledge of Unsupervised learning

@@ -30,6 +30,7 @@ The course focuses on `MongoDB` version 7 and covers both on-premise and cloud d
 40 hours / 5 days
 
 ## Intended Audience
+
 * Database administrators transitioning from relational databases to `NoSQL`
 * System administrators responsible for `MongoDB` deployments
 * `DevOps` engineers who need to manage `MongoDB` in production
@@ -37,15 +38,18 @@ The course focuses on `MongoDB` version 7 and covers both on-premise and cloud d
 * Technical architects designing `MongoDB`-based solutions
 
 ## Prerequisites
+
 * Basic understanding of database concepts and administration
 * Familiarity with `Linux` command line and basic system administration
 * Understanding of `JSON` data format
 * Experience with any database management system is beneficial
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and configure `MongoDB` in various deployment scenarios
 * Design and implement effective backup and recovery strategies
 * Monitor and optimize `MongoDB` performance

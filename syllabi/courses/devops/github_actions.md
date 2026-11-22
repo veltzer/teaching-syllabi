@@ -34,18 +34,21 @@ abstract `CI/CD` theory.
 16 hours / 2 days
 
 ## Intended Audience
+
 * developers who want to automate their build, test, and deployment processes.
 * `DevOps` engineers looking to adopt or migrate to `GitHub Actions` or `GitLab CI`.
 * team leads responsible for establishing `CI/CD` standards and practices.
 * anyone involved in software delivery who wants to understand modern pipeline tooling.
 
 ## Prerequisites
+
 * `Solid` working knowledge of `Git` (branching, merging, pull requests).
 * Basic understanding of `CI/CD` concepts (builds, tests, deployments).
 * Familiarity with `YAML` syntax.
 * Experience with at least one programming language.
 
 ## Objectives
+
 * understand the core concepts and principles of modern `CI/CD` pipelines
 * gain practical knowledge of `GitHub Actions` workflows and `GitLab CI` pipelines
 * gain practical knowledge of runners, artifacts, and environments

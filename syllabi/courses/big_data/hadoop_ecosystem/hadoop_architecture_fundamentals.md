@@ -38,10 +38,12 @@ This course assumes no prior knowledge of `Hadoop`. Participants should be comfo
 Developers, architects, and technical managers who wish to understand `Hadoop`'s architecture and its core subsystems.
 
 ## Prerequisites
+
 * Familiarity with `Java` code.
 * Basic understanding of data warehousing concepts.
 
 ## Objectives
+
 * Understand the main components of the `Hadoop` ecosystem including `HDFS`, `MapReduce`, Hive, Pig, and `HBase`
 * Explain how `HDFS` stores and replicates data across a cluster
 * Implement common `MapReduce` patterns and understand their execution flow

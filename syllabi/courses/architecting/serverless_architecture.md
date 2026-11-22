@@ -25,22 +25,26 @@ This course covers the principles and patterns of serverless architecture in a c
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software architects evaluating serverless for new or existing projects.
 * Developers building event-driven and cloud-native applications.
 * `DevOps` engineers managing serverless deployments and operations.
 
 ## Prerequisites
+
 * Experience with at least one cloud platform (`AWS`, `Azure`, or `GCP`).
 * Familiarity with distributed systems concepts.
 * Programming experience in a modern language such as `Python`, `JavaScript`, or Go.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the serverless execution model and its trade-offs.
 * Design event-driven architectures using serverless components.
 * Apply patterns for state management in stateless environments.

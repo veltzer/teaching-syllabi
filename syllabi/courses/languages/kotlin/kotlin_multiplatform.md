@@ -23,6 +23,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Kotlin` developers looking to expand beyond `Android` to multiple platforms
 * `Android` developers seeking to share code with `iOS` teams
 * Mobile development teams evaluating cross-platform strategies
@@ -30,6 +31,7 @@ audience:
 * Software architects designing shared codebases for multiple targets
 
 ## Prerequisites
+
 * `Solid` proficiency in `Kotlin` programming (classes, functions, coroutines, extensions)
 * Experience with `Android` development using `Kotlin` and `Jetpack Compose`
 * Basic understanding of `iOS` development concepts and `Xcode`
@@ -38,6 +40,7 @@ audience:
 * Knowledge of coroutines and asynchronous programming in `Kotlin`
 
 ## Objectives
+
 * Architect `Kotlin Multiplatform` projects with effective shared code strategies
 * Use expect/actual declarations for platform-specific implementations
 * Build shared UI with `Compose Multiplatform` across `Android`, `iOS`, and desktop

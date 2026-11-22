@@ -29,15 +29,18 @@ practices. By the end of the course, developers will understand how to work effe
 8 hours / 1 day
 
 ## Intended Audience
+
 * software developers working in or transitioning to `agile` teams.
 * team leads who want to understand `agile` principles and apply them effectively.
 * engineers who want to improve their collaboration and delivery practices.
 
 ## Prerequisites
+
 * No special requirements for this course.
 * Some experience working in a software development team is helpful.
 
 ## Objectives
+
 * understand the core principles of the Agile manifesto
 * learn the Scrum framework and its roles, events, and artifacts
 * gain practical knowledge of running sprints, standups, and retrospectives

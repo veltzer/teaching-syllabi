@@ -24,19 +24,23 @@ This course is designed to provide students with the knowledge and skills necess
 40 hours / 5 days
 
 ## Intended Audience
+
 * software developers working with databases
 * backend engineers and data engineers
 
 ## Prerequisites
+
 * Basic knowledge of relational database concepts
 * Familiarity with operating systems (`Windows` or `Unix`/`Linux`)
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
 
 Upon successful completion of this course, students will be able to:
+
 * Understand the architecture and components of Oracle Database
 * Install and configure Oracle Database software
 * Create and manage database instances and storage structures
@@ -94,6 +98,7 @@ Upon successful completion of this course, students will be able to:
     * Oracle Support and diagnostic tools
 
 ## Textbooks and Resources
+
 * Oracle Database Documentation
 * "Oracle Database 12c: The Complete Reference" by Bob Bryla and Kevin Loney
 * "Oracle Database Administration: The Essential Reference" by David C. Kreines

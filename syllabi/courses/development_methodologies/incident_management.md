@@ -29,19 +29,23 @@ a culture of reliability using SRE principles.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers responsible for operating production services.
 * `DevOps` and SRE engineers building reliability practices.
 * Managers overseeing on-call teams and incident processes.
 
 ## Prerequisites
+
 * Experience working with production systems.
 * Basic understanding of monitoring and logging concepts.
 * Familiarity with `Linux` command line and `web services`.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of incident management
 * gain practical knowledge of incident response coordination
 * gain practical knowledge of post-incident review and organizational learning

@@ -42,18 +42,21 @@ ship an operator that respects `Kubernetes` conventions and survives contact wit
 32 hours / 4 days
 
 ## Intended Audience
+
 * platform engineers building internal `Kubernetes` paved roads
 * senior developers writing operators for stateful workloads
 * `DevOps` engineers maintaining or extending operators
 * `SRE` running operators in production
 
 ## Prerequisites
+
 * `solid` `Kubernetes` knowledge (the `Kubernetes` and `Kubernetes for Developers` courses)
 * working Go experience
 * familiarity with the Helm and `Kustomize` material
 * exposure to `Crossplane` or `ArgoCD` is helpful
 
 ## Objectives
+
 * design a `CRD` that respects `Kubernetes` `API` conventions
 * build a controller with the reconciliation loop done correctly
 * handle finalizers, deletion, and garbage collection

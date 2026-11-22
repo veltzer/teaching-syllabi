@@ -29,16 +29,19 @@ architects and developers building reliable, scalable distributed applications.
 24 hours / 3 days
 
 ## Intended Audience
+
 * software architects designing distributed systems
 * senior developers building scalable applications
 * engineers working on infrastructure and platform services
 
 ## Prerequisites
+
 * strong programming background in at least one language
 * familiarity with networking fundamentals
 * basic understanding of databases and data structures
 
 ## Objectives
+
 * understand the CAP theorem and its implications for system design
 * compare and apply different consistency models
 * explain and reason about consensus algorithms such as Raft and Paxos

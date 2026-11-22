@@ -30,20 +30,24 @@ practical multi-cloud strategies aligned with business goals.
 16 hours / 2 days
 
 ## Intended Audience
+
 * architects designing systems that span multiple cloud providers.
 * engineering managers evaluating multi-cloud strategies.
 * technical leaders responsible for cloud strategy decisions.
 
 ## Prerequisites
+
 * experience with at least one major cloud provider (`AWS`, `Azure`, or `GCP`).
 * understanding of cloud-native architecture principles.
 * familiarity with infrastructure as code concepts.
 
 ## Required Knowledge
+
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the motivations, benefits, and risks of multi-cloud adoption.
 * map equivalent services across `AWS`, `Azure`, and `GCP`.
 * evaluate abstraction tools and strategies for multi-cloud operations.

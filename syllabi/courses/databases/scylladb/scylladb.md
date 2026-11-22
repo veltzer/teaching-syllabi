@@ -26,6 +26,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Backend developers building high-throughput, low-latency data services
 * Database architects designing large-scale distributed storage solutions
 * DBAs managing `ScyllaDB` or `Apache Cassandra` clusters
@@ -33,6 +34,7 @@ audience:
 * Platform engineers evaluating `NoSQL` databases for real-time workloads
 
 ## Prerequisites
+
 * `Solid` understanding of distributed systems concepts
 * Working knowledge of at least one programming language (`Java`, `Python`, or Go)
 * Familiarity with relational database concepts and `SQL`
@@ -40,6 +42,7 @@ audience:
 * Prior experience with `Cassandra` or another `NoSQL` database is beneficial
 
 ## Objectives
+
 * Understand `ScyllaDB`'s shard-per-core architecture and how it differs from `Cassandra`
 * Model data effectively for `ScyllaDB`'s distributed, partitioned storage
 * Write efficient CQL queries and use `ScyllaDB` drivers correctly

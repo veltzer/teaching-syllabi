@@ -28,13 +28,16 @@ fail.
 8 hours / 1 day
 
 ## Intended Audience
+
 * Anyone doing development
 * Programmers, QA people, team leaders, managers.
 
 ## Prerequisites
+
 * Some development background
 
 ## Objectives
+
 * understand the core concepts and principles of Modern Development
 * gain practical knowledge of Configuration management
 * gain practical knowledge of Build system

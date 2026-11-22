@@ -26,6 +26,7 @@ This course targets `MongoDB` version 7 and includes coverage of `MongoDB Atlas`
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building `MongoDB`-backed applications
 * Backend developers working with `NoSQL` databases
 * Full-stack developers needing database skills
@@ -34,16 +35,19 @@ This course targets `MongoDB` version 7 and includes coverage of `MongoDB Atlas`
 * Developers with or without prior database experience
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`JavaScript`, `Python`, `Java`, or `C#` preferred)
 * Basic understanding of `JSON` data format
 * Familiarity with `REST APIs` and web development concepts
 * Basic command line skills
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Design effective data models for `MongoDB` applications
 * Implement efficient queries using modern query patterns
 * Build performant applications using aggregation pipelines

@@ -30,16 +30,19 @@ for audit logging, compliance, and incident response.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Security professionals responsible for securing `GCP` environments.
 * `DevOps` engineers implementing security controls on `GCP`.
 * Site reliability engineers managing secure infrastructure on `Google Cloud`.
 
 ## Prerequisites
+
 * Basic familiarity with `GCP` core services.
 * Understanding of general cloud security concepts.
 * Basic knowledge of networking and identity management.
 
 ## Objectives
+
 * Design and implement `IAM` policies and organizational hierarchies on `GCP`.
 * Configure `VPC Service Controls` to protect sensitive data.
 * Use `Security Command Center` for threat detection and vulnerability management.

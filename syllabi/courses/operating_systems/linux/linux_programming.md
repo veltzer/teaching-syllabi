@@ -28,14 +28,17 @@ over it in C or `C++` which `make` efficient use of it.
 40 hours / 5 days
 
 ## Intended Audience
+
 * software developers working on `Linux`-based systems
 * system administrators and `DevOps` engineers
 
 ## Prerequisites
+
 * experience with C programming
 * familiarity with `Linux` command line
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` programming
 * gain practical knowledge of Protected OS fundamentals
 * gain practical knowledge of Basics of writing code

@@ -41,26 +41,31 @@ Topics without a `[long]` tag are included in both versions.
 The following duplicate pairs were resolved:
 
 ### Deleted (strictly inferior duplicates)
+
 - languages/`c`/c_programming_old.md — duplicate of c_programming.md
 - languages/`java`/java_programming_2.md — duplicate of java_programming.md
 
 ### Deleted with unique topics preserved as comments
+
 - operating_systems/`linux`/linux_debugging_old.md — merged unique topics
   (MMU, efence, dmalloc, LD_PRELOAD, etc.) as a comment into linux_debugging.md
 - `git`/git_syllabus.md — merged unique topics (packfiles, transfer protocols,
   plumbing vs porcelain, etc.) as a comment into `git`.md
 
 ### Renamed for clarity
+
 - machine_learning/machine_learning.md — title changed to
   "Intro to `Machine Learning` with `Python`"
 - machine_learning/ml1.md — title changed to
   "`Machine Learning` Theory and Deep Learning"
 
 ### Title fix
+
 - databases/`oracle`/oracle_for_administrators.md — title was incorrectly
   "`Oracle` for Developers", fixed to "`Oracle` for Administrators"
 
 ### Long/short pairs merged into single files
+
 - languages/`python`/data_analysis_and_scientific_python.md (32h/16h)
 - operating_systems/`android`/developing_android_applications_with_java.md (48h/40h)
 - operating_systems/`android`/developing_android_applications_with_kotlin.md (48h/40h)
@@ -136,6 +141,7 @@ notes:
 **Chapter references:**
 
 Each entry in `chapters` has:
+
 - `course` (required): path relative to `syllabi/courses/` without `.md` extension
 - `hours` (optional): how many hours to allocate for this part
 - `chapters` (optional): list of specific chapter IDs to include. If omitted, the entire course outline is included.
@@ -152,6 +158,7 @@ scripts/build_tracks.py source1.yaml target1.md [source2.yaml target2.md ...]
 ```
 
 The script:
+
 1. Reads the YAML track definition
 2. Generates metadata sections (title, description, duration, etc.)
 3. For each chapter reference, reads the course markdown and extracts the outline
@@ -168,6 +175,7 @@ does not exist.
 Validates course markdown files. Run in batch mode by rsconstruct.
 
 Checks:
+
 - Exactly one `# Title` heading
 - Required sections present: Description, Duration, Intended Audience, Prerequisites, Objectives, Outline, Copyright
 - Sections appear in the canonical order defined in `REQUIRED`
@@ -179,6 +187,7 @@ Checks:
 Generates `docs/index.html` — a single-page application for browsing syllabi.
 
 Workflow:
+
 1. Runs `rsconstruct clean unknown` to remove stale files from `docs/`
 2. Scans all `.html` files in `docs/` (produced by pandoc)
 3. Reads frontmatter from the corresponding `.md` source for metadata
@@ -193,13 +202,16 @@ Assembles track YAML definitions into complete markdown files. See the Tracks
 section above for usage and format details.
 
 ## Inconsistent nesting depth
+
 - devops/ mixes loose files (introduction_to_devops.md, architectural_decisions_in_devops.md) with tool sub-folders (`docker`/, `jenkins`/, `terraform`/).
 - security/ is flat despite having distinct sub-domains (web security, forensics, exploitation, policy).
 
 ## Misplaced files
+
 - architecting/message_queues.md could live under queues/ alongside `Kafka` and `RabbitMQ`.
 - big_data/`splunk`/ is more of an observability/monitoring tool and could fit under observability_and_monitoring/.
 - operating_systems/`linux`/security/offensive_linux.md is a security topic and could fit under security/.
 
 ## Single-file folders
+
 - languages/`opencl`/, languages/`kotlin`/, languages/`r`/, languages/dotnet/, languages/`assembly`/, `unity`/, `wifi`/ each contain only one file.

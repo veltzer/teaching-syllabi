@@ -42,18 +42,21 @@ able to design a cell-based system, decide on the cell size, and operate a fleet
 24 hours / 3 days
 
 ## Intended Audience
+
 * architects designing systems whose failure mode is "everyone is down"
 * senior developers building services that need bounded blast `radius`
 * `DevOps` engineers operating large multi-tenant systems
 * team leads accountable for availability across a customer base
 
 ## Prerequisites
+
 * `solid` distributed systems background
 * exposure to the Distributed Systems Tradeoffs course
 * familiarity with the Multi-Region Architecture course is helpful
 * working experience with at least one cloud provider
 
 ## Objectives
+
 * explain what a cell is and what it is not
 * size cells correctly for the workload
 * design the routing layer that places traffic on cells

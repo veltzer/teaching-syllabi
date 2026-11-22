@@ -24,14 +24,17 @@ This is a data science course which is taught using the `Python` programming lan
 40 hours / 5 days
 
 ## Intended Audience
+
 * Programmers or Exact Sciences people who wish to understand and utilize `machine learning`.
 
 ## Prerequisites
+
 * Background in mathematics
 * Background in computing
 * `Python` programming is an advantage
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives

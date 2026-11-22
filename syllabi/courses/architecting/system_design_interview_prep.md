@@ -37,18 +37,21 @@ the companies that conduct these interviews.
 40 hours / 5 days
 
 ## Intended Audience
+
 * senior developers preparing for staff/principal-level interviews
 * developers preparing for senior-engineer interviews at top organizations
 * engineers re-entering the job market after years in one role
 * engineers giving these interviews who want to calibrate their bar
 
 ## Prerequisites
+
 * several years of professional software development experience
 * basic familiarity with `HTTP`, databases, caching and load balancing
 * exposure to at least one distributed system in production
 * working knowledge of the architectural-level material in the System Design course is helpful
 
 ## Objectives
+
 * describe the structure and signal of a typical system-design interview
 * scope an under-defined problem within the first five minutes
 * perform capacity estimation honestly and quickly

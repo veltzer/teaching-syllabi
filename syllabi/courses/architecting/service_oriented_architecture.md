@@ -38,6 +38,7 @@ or a hybrid is the appropriate choice.
 40 hours / 5 days
 
 ## Intended Audience
+
 * software architects designing or evolving service-oriented systems
 * developers building or consuming enterprise services
 * integration engineers responsible for connecting heterogeneous systems
@@ -45,12 +46,14 @@ or a hybrid is the appropriate choice.
 * engineers planning a migration from `SOA` to `microservices` or a hybrid landscape
 
 ## Prerequisites
+
 * several years of software development experience
 * familiarity with at least one general purpose programming language
 * basic understanding of `HTTP`, `XML` and `JSON`
 * basic understanding of distributed systems concepts is an advantage
 
 ## Objectives
+
 * understand the principles, motivations and history of `Service-Oriented Architecture`
 * model business capabilities as well-bounded, reusable services
 * design service contracts using both `SOAP`/WSDL and `RESTful` styles

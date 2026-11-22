@@ -25,18 +25,22 @@ This course teaches a systematic approach to diagnosing and resolving network is
 16 hours / 2 days
 
 ## Intended Audience
+
 * System administrators managing network infrastructure.
 * `DevOps` and SRE engineers responsible for service reliability.
 * Developers troubleshooting application-level network issues.
 
 ## Prerequisites
+
 * Experience working with `Linux` or `Windows` systems in a networked environment.
 * Basic understanding of command-line tools.
 
 ## Required Knowledge
+
 * `TCP`/`IP` Deep Dive or equivalent networking knowledge
 
 ## Objectives
+
 * Apply a systematic troubleshooting methodology to network problems.
 * Diagnose issues at each layer of the OSI model.
 * Capture and analyze network traffic with `Wireshark` and `tcpdump`.

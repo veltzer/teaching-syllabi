@@ -24,17 +24,21 @@ This advanced course takes participants beyond the basics of `Prometheus` into p
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers and SREs operating `Prometheus` in production environments.
 * Developers who need to write advanced queries and build alerting pipelines.
 
 ## Prerequisites
+
 * `Solid` understanding of monitoring and observability concepts.
 * Experience operating distributed systems.
 
 ## Required Knowledge
+
 * `Prometheus` and `Grafana`
 
 ## Objectives
+
 * Write complex `PromQL` queries for advanced analysis and troubleshooting.
 * Design and implement recording rules for performance optimization.
 * Configure `Alertmanager` with routing, grouping, and notification pipelines.

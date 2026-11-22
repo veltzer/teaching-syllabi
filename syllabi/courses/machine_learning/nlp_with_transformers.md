@@ -30,18 +30,22 @@ using `ONNX` for production environments.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data scientists building NLP pipelines with transformer models
 * Developers integrating language understanding into applications
 
 ## Prerequisites
+
 * `Solid` understanding of linear algebra and calculus fundamentals
 * Experience with `machine learning` workflows (training, evaluation, hyperparameter tuning)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Deep Learning` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * **Understand transformer architectures** including `BERT` and `GPT` and their internal mechanisms
 * **Apply tokenization strategies** appropriate for different transformer models and NLP tasks
 * **Fine-tune pre-trained models** from the `Hugging Face` model hub for downstream tasks

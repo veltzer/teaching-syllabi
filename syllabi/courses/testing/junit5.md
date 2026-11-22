@@ -24,17 +24,20 @@ This course provides a comprehensive introduction to `JUnit 5`, the modern testi
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who are new to `JUnit 5` or still using `JUnit 4`
 * Backend engineers who want to write more expressive and maintainable tests
 * Team leads responsible for establishing `Java` testing standards
 
 ## Prerequisites
+
 * `Solid` experience writing `Java` applications
 * Familiarity with basic unit testing concepts
 * Experience with Maven or `Gradle` build tools
 * Some exposure to `JUnit 4` or another `Java` testing framework is helpful
 
 ## Objectives
+
 * Understand the modular architecture of the `JUnit 5` platform
 * Write clear tests using `JUnit Jupiter` annotations and lifecycle hooks
 * Use assertion and assumption APIs for precise, readable test conditions

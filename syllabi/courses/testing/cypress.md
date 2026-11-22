@@ -23,12 +23,14 @@ Cypress is a modern, developer-friendly end-to-end testing framework that runs d
 16 hours / 2 days
 
 ## Intended Audience
+
 * Frontend and full-stack developers building web applications
 * QA engineers and test automation specialists
 * Software developers responsible for end-to-end testing
 * Teams adopting modern testing practices for web projects
 
 ## Prerequisites
+
 * Proficiency in `JavaScript` or `TypeScript`
 * Basic understanding of `HTML`, `CSS`, and the DOM
 * Familiarity with web application architecture (client-server model)
@@ -36,10 +38,12 @@ Cypress is a modern, developer-friendly end-to-end testing framework that runs d
 * Understanding of `npm` or `yarn` package management
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand Cypress architecture and how it differs from traditional testing frameworks
 * Install and configure Cypress for a web project
 * Write end-to-end tests using selectors, assertions, and commands

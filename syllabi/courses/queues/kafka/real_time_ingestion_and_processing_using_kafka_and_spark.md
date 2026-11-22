@@ -29,13 +29,16 @@ The course utilizes a mixture of lectures and hands-on exercises to reinforce le
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and developer teams needing to learn Real-Time Ingestion and Processing using `Kafka` and `Spark`.
 
 ## Prerequisites
+
 * `Java` programming skills.
 * `Scala` programming skills are an advantage.
 
 ## Objectives
+
 * Use `Kafka` Fundamentals & Architecture, Producer & Consumer `API`, `Kafka` Connect, `Kafka` Streams
 * Perform `Spark` Micro-batch processing
 * Perform `Structured Streaming` processing

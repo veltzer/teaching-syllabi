@@ -26,17 +26,21 @@ object of providing board support or tuning your kernel to a specific purpose.
 8 hours / 1 day
 
 ## Intended Audience
+
 * embedded systems engineers and kernel developers
 * system programmers working on low-level software
 
 ## Prerequisites
+
 * experience with C programming
 * familiarity with `Linux` system administration
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `Device Tree` 101
 * gain practical knowledge of Why the `Device Tree` ?
 * gain practical knowledge of Basic `Device Tree` syntax
@@ -58,6 +62,7 @@ object of providing board support or tuning your kernel to a specific purpose.
 * Common properties and examples
 
 ## References
+
 * [slides for this course](https://bootlin.com/pub/conferences/2021/webinar/petazzoni-device-tree-101/)
 
 ## Copyright

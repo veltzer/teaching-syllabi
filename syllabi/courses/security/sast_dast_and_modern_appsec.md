@@ -40,6 +40,7 @@ the developers it is supposed to help.
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers responsible for application security tooling
 * `DevOps` and platform engineers integrating security into CI/`CD`
 * developers leading a team's AppSec story
@@ -47,11 +48,13 @@ the developers it is supposed to help.
 * engineers responding to an AppSec audit finding
 
 ## Prerequisites
+
 * working knowledge of at least one mainstream programming language
 * basic familiarity with `CI`/`CD` and pull-request workflows
 * exposure to the `OWASP Top 10` material is helpful
 
 ## Objectives
+
 * describe the families of automated security testing and pick the right one
 * integrate AppSec scanning into developer workflows without grinding them to a halt
 * manage the false-positive economics of an AppSec program

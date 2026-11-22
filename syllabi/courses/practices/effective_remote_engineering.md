@@ -36,17 +36,20 @@ remote practices.
 40 hours / 5 days
 
 ## Intended Audience
+
 * engineers working remotely or in hybrid setups
 * tech leads and managers leading distributed teams
 * engineers transitioning a co-located team to remote
 * engineers joining their first remote-first organization
 
 ## Prerequisites
+
 * at least two years of professional software development experience
 * working knowledge of source control and pull-request workflows
 * willingness to write more than you currently do
 
 ## Objectives
+
 * operate async-first as a default rather than an exception
 * run meetings that respect distributed audiences
 * write the docs that hold a distributed team together

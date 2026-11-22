@@ -40,6 +40,7 @@ honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documenta
 40 hours / 5 days
 
 ## Intended Audience
+
 * engineers writing internal docs as part of their job
 * tech leads owning a team's documentation surface
 * `DevOps` and platform engineers operating documentation tooling
@@ -47,11 +48,13 @@ honest. The course is grounded in `Diátaxis`, the Google and `GitLab` documenta
 * engineers tasked with rescuing a documentation system that has decayed
 
 ## Prerequisites
+
 * several years of professional software development experience
 * willingness to write more than you currently do
 * exposure to at least one wiki, `IDP`, or runbook system in production
 
 ## Objectives
+
 * describe documentation genres precisely and pick the right one
 * write documentation that ages well
 * design runbooks that work under stress

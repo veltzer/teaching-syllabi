@@ -31,15 +31,18 @@ frugal and efficient application in the cloud.
 32 hours / 4 days
 
 ## Intended Audience
+
 * System administrators, `Devops` people, Developers and Team leaders who would like to learn cloud related architecture.
 * Architects which are familiar with old school designs but are not familiar with the cloud.
 * Cloud practitioners who would like to learn the new "server-less" patterns in the modern cloud.
 
 ## Prerequisites
+
 * Tech affinity is a plus
 * Experience with any type of cloud is a plus
 
 ## Objectives
+
 * Understand principles of application design in the cloud
 * Understand `design patterns` in the cloud
 * Understand anti-patterns and how to avoid them

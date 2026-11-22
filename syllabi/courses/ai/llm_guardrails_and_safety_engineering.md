@@ -44,18 +44,21 @@ guardrail layer for an `LLM` product.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `ML` engineers building consumer-facing `LLM` features
 * senior developers responsible for `AI` product safety
 * security engineers reviewing `LLM` systems
 * developers shipping `LLM`-powered features in regulated industries
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * exposure to the `LLM Application Engineering` course
 * familiarity with the Working with `LLMs` Securely course
 * basic understanding of content moderation
 
 ## Objectives
+
 * threat-model an `LLM` product
 * design input-side guardrails
 * design output-side guardrails

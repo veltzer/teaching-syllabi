@@ -28,14 +28,17 @@ dependency vulnerability scanning, and serialization security.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who want to write more secure applications.
 * Security professionals working with `Java`-based systems.
 
 ## Prerequisites
+
 * `Solid` experience in `Java` programming.
 * Basic understanding of security concepts.
 
 ## Objectives
+
 * Participants will gain the ability to
     * Understand the `Java` security architecture and its components.
     * Use `Java` cryptography APIs for encryption, hashing, and signing.

@@ -37,17 +37,20 @@ build the design-doc culture on a team that does not have one.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers writing design docs for the first time
 * senior developers and tech leads writing design docs regularly
 * architects shaping the design-doc culture of an organization
 * engineers running an `RFC` or `ADR` process
 
 ## Prerequisites
+
 * several years of professional software development experience
 * basic familiarity with at least one architecture style and one common system
 * willingness to write and accept critique on your writing
 
 ## Objectives
+
 * describe the major design-document genres and pick the right one
 * structure a design doc so that it gets read
 * write the tradeoff and alternatives sections that `make` a doc useful

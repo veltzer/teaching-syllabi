@@ -32,20 +32,24 @@ with the knowledge to get the most out of their toolchain.
 16 hours / 2 days
 
 ## Intended Audience
+
 * C and `C++` developers who want to master the `GCC` toolchain for better code quality and performance.
 * Embedded engineers who need to cross-compile and fine-tune binaries for target hardware.
 * Firmware developers working with `GCC`-based toolchains for embedded platforms.
 * Performance engineers seeking to optimize application performance through compiler techniques.
 
 ## Prerequisites
+
 * `Solid` experience programming in C or `C++`.
 * Familiarity with the `Linux` command line and build tools such as `make`.
 * Basic understanding of how compilers and linkers work.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the full `GCC` compilation pipeline from source to binary.
 * Apply optimization flags effectively and understand their trade-offs.
 * Use sanitizers to detect memory errors, undefined behavior, and data races.

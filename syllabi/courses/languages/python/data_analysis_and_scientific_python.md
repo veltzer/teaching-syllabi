@@ -32,18 +32,22 @@ applications
 `Python` is considered to be one of the most efficient programming languages for data analysis
 
 ## Duration
+
 * Short: 16 hours / 2 days
 * Long: 32 hours / 4 days
 
 ## Intended Audience
+
 * Data Analysts, Developers, Business Intelligence professionals, Data Engineers,
 and other roles responsible for analyzing the organization's data.
 
 ## Prerequisites
+
 * Basic understanding of Programming concepts
 * People who have a working knowledge of `Python` [short]
 
 ## Objectives
+
 * Understand how to use the most prominent `Python` libraries for data analysis.
 * Understand the most common mathematical concepts used in data analysis.
 * Get familiar with how to visualize data using `Python`.

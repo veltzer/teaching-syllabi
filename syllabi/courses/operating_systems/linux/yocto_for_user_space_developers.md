@@ -26,13 +26,16 @@ It introduces `Linux` user space and then proceeds to analyze how to debug and f
 16 hours / 2 days
 
 ## Intended Audience
+
 * People without prior knowledge of `Linux` userspace or kernel space.
 * People that need to maintain and update `Yocto` configurations.
 
 ## Prerequisites
+
 * Tech affinity
 
 ## Objectives
+
 * Understand how `Linux` kernel space and userspace is built.
 * Understand how to debug build problems in third party components.
 * Understand how `Yocto` works and how to debug problems in building `Yocto` targets.

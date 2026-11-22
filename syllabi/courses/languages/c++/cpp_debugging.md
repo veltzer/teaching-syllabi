@@ -25,19 +25,23 @@ This course provides comprehensive training in debugging `C++` applications usin
 16 hours / 2 days
 
 ## Intended Audience
+
 * `C++` developers who need to diagnose complex bugs efficiently
 * Embedded engineers debugging on target and host systems
 * Performance engineers investigating memory and concurrency issues
 
 ## Prerequisites
+
 * Working experience with `C++` programming
 * Familiarity with `Linux` command-line tools
 * Basic understanding of multi-threaded programming concepts
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Master `GDB` for interactive and scripted debugging sessions
 * Use `Valgrind` tools to detect memory errors, data races, and cache inefficiencies
 * Apply address, thread, and undefined behavior sanitizers during development

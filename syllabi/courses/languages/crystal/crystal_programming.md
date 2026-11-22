@@ -26,15 +26,18 @@ This course covers Crystal from first programs through its type system, concurre
 24 hours / 3 days
 
 ## Intended Audience
+
 * Ruby developers looking for a compiled, type-safe alternative
 * Developers wanting native performance without C/`C++` complexity
 * Backend engineers exploring modern compiled language options
 
 ## Prerequisites
+
 * Experience in at least one object-oriented language
 * Basic understanding of compiled languages is helpful
 
 ## Objectives
+
 * Write idiomatic Crystal programs using its type system and inference
 * Model domains with classes, modules, and structs
 * Implement concurrent programs using fibers and channels

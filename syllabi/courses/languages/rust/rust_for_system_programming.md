@@ -23,15 +23,18 @@ Rust is a powerful systems programming language known for its emphasis on memory
 24 hours / 3 days
 
 ## Intended Audience
+
 * Systems programmers who want to study a powerful general purpose language that is suitable for systems programming.
 * Software developers who need a flexible and multi purpose language at their disposal.
 * C/`C++` Developers who want a safe alternative to C/`C++` which still gives them the performance of C/`C++`.
 
 ## Prerequisites
+
 * Basic understanding of programming concepts
 * Familiarity with at least one programming language (such as C or `C++`)
 
 ## Objectives
+
 * Ability to program, develop compile and test projects written in Rust.
 * Ability to understand and write correct idiomatic Rust code.
 * Ability to debug Rust written applications.

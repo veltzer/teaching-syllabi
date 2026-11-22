@@ -26,20 +26,24 @@ to leverage Wasm for performance-critical applications on the web, server side, 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who want to use WebAssembly for performance-critical web applications.
 * Systems programmers interested in Wasm as a portable compilation target.
 * Backend developers exploring server-side and edge WebAssembly use cases.
 
 ## Prerequisites
+
 * Strong programming skills in at least one language (C, `C++`, Rust, or `JavaScript`).
 * Familiarity with web development basics (`HTML`, `JavaScript`).
 * Understanding of compilation and linking concepts.
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * Rust Programming (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of WebAssembly
 * gain practical knowledge of compiling to Wasm from multiple source languages
 * gain practical knowledge of `JavaScript` and Wasm interoperability

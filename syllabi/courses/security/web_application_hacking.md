@@ -23,27 +23,32 @@ duration_hours: 40
 This course is a practical guide to discovering and exploiting security flaws in web applications. By "web applications" we mean those that are accessed using a web browser to communicate with a web server. We examine a wide variety of different technologies, such as databases, file systems, and `web services`, but only in the context in which these are employed by web applications. Throughout the course, we spell out the specific steps you need to follow to detect each type of vulnerability, and how to exploit it to perform unauthorized actions.
 
 ## Duration
+
 * Short: 16 hours / 2 days
 * Long: 40 hours / 5 days
 
 ## Intended Audience
+
 * Penetration testers
 * Web application developers
 * Security vendors and service providers (`IPS`, `WAF`, Browser security)
 * Web-focused QA with aspirations in security
 
 ## Prerequisites
+
 * Hands-on familiarity with web technologies (`HTML`, `JavaScript`, `SQL`, server-code)
 * Good system skills (`Linux` or `Windows`, preferably both)
 * Good coding skills (any of these will do: `Java`, `Python`, `C#`, `JavaScript`, `PHP`, ...)
 * Good understanding in networking technologies (`IP`, `TCP`, `DNS`, `HTTP`, `HTTPS`)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Improve your understanding of web vulnerabilities and security
 * Manual and automated application mapping
 * Anatomy of server attacks; from injection to root
@@ -155,6 +160,7 @@ These are the exercises that we will do:
     * Workshop summary
 
 ## References
+
 * [TryHackMe](https://tryhackme.com/dashboard)
 * [HackThisSite](https://www.hackthissite.org)
 * [CTFlearn](https://ctflearn.com)

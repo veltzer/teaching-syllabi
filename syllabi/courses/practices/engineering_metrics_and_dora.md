@@ -39,17 +39,20 @@ deserve pushing back on.
 40 hours / 5 days
 
 ## Intended Audience
+
 * engineering managers and tech leads introducing metrics
 * `DevOps` engineers building the data pipelines behind metrics
 * senior engineers whose teams are about to be measured
 * architects driving engineering-effectiveness initiatives
 
 ## Prerequisites
+
 * several years of professional software development or management experience
 * basic familiarity with `CI`/`CD`, ticketing systems and source control
 * exposure to at least one metrics framework (`DORA`, SPACE, `DX`) is helpful
 
 ## Objectives
+
 * define and compute the four `DORA` metrics honestly
 * apply the `SPACE` framework to broader productivity questions
 * use the `DX` core-4 research where it fits

@@ -39,17 +39,20 @@ and online sides correctly, and operate a feature store at production scale.
 24 hours / 3 days
 
 ## Intended Audience
+
 * data engineers introducing a feature store into an organization
 * `ML` engineers tired of the training-serving skew bug
 * platform engineers building `ML` paved roads
 * senior developers asked to "just take the model to production"
 
 ## Prerequisites
+
 * working knowledge of `SQL` and at least one data warehouse
 * exposure to a basic `ML` workflow
 * familiarity with the `MLOps` course is helpful but not required
 
 ## Objectives
+
 * explain why a feature store is necessary
 * design the offline and online sides without dual-writes
 * solve the point-in-time correctness problem

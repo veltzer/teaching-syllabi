@@ -32,12 +32,15 @@ such as `Spark SQL`, Streaming, `Machine Learning` with `MLlib`, and graph proce
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who would like to start using `Spark` using the `Scala` language
 
 ## Prerequisites
+
 * Previous programming experience
 
 ## Objectives
+
 * Understand the fundamentals of `Apache Spark` and its architecture
 * Gain proficiency in using `Scala` for large-scale data processing with `Spark`
 * Learn the core concepts of `Spark`, including RDDs (Resilient Distributed Datasets), transformations, and actions

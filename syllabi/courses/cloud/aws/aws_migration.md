@@ -25,17 +25,20 @@ This course covers the strategies, tools, and best practices for migrating workl
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers involved in migrating applications to `AWS`.
 * System administrators planning infrastructure migrations.
 * Architects designing cloud migration strategies.
 * `DevOps` engineers automating migration workflows.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `VPC`, `IAM`).
 * Basic understanding of on-premises infrastructure (servers, databases, networking).
 * Familiarity with the `AWS` Management Console and `CLI`.
 
 ## Objectives
+
 * Evaluate and select appropriate migration strategies for different workloads.
 * Use `AWS` migration tools to discover, plan, and execute migrations.
 * Migrate databases using `DMS` and `SCT`.

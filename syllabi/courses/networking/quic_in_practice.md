@@ -40,17 +40,20 @@ production and debug it when it misbehaves.
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers shipping `HTTP/3` to clients
 * network engineers operating `QUIC` traffic
 * architects deciding whether to adopt `QUIC`
 * platform engineers running `CDN` or proxy infrastructure
 
 ## Prerequisites
+
 * `solid` understanding of `TCP` and `TLS`
 * exposure to the `HTTP/2 and HTTP/3` course or equivalent knowledge
 * familiarity with at least one packet-capture tool
 
 ## Objectives
+
 * explain `QUIC`'s structure relative to `TCP` plus `TLS` plus `HTTP/2`
 * read a `QUIC` handshake on the wire
 * operate `QUIC` traffic in production

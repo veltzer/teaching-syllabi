@@ -27,15 +27,18 @@ maintainable over time.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who write documentation alongside code.
 * Technical leads responsible for team documentation standards.
 * Managers who want to improve documentation culture in their organizations.
 
 ## Prerequisites
+
 * Basic familiarity with software development workflows.
 * Working knowledge of `Markdown`.
 
 ## Objectives
+
 * understand the core concepts and principles of technical writing
 * gain practical knowledge of audience analysis and document planning
 * gain practical knowledge of documentation tooling and workflows

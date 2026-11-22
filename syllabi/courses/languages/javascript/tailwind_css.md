@@ -21,6 +21,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Front-end developers looking to accelerate their `CSS` workflow
 * Web designers transitioning to utility-first styling approaches
 * Full-stack developers building modern web interfaces
@@ -28,6 +29,7 @@ audience:
 * Developers maintaining large-scale `CSS` codebases seeking better maintainability
 
 ## Prerequisites
+
 * `Solid` understanding of `HTML` structure and semantics
 * Basic knowledge of `CSS` properties, selectors, and the box model
 * Familiarity with `CSS` flexbox and grid layout concepts
@@ -36,9 +38,11 @@ audience:
 * A code editor with `Tailwind CSS` IntelliSense support is recommended
 
 ## Required Knowledge
+
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Understand the utility-first `CSS` philosophy and its advantages over traditional approaches
 * Install and configure `Tailwind CSS` in various project setups
 * Build responsive, mobile-first layouts using Tailwind utility classes

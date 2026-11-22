@@ -28,16 +28,19 @@ justice, as well as emerging challenges like deepfakes and `AI` safety.
 16 hours / 2 days
 
 ## Intended Audience
+
 * software developers building `AI`-powered systems
 * managers overseeing `AI` strategy and governance
 * data scientists responsible for model fairness and transparency
 
 ## Prerequisites
+
 * Basic understanding of `machine learning` concepts (models, training, prediction)
 * Awareness of `AI` applications in business
 * No programming experience required
 
 ## Objectives
+
 * **Identify and mitigate bias** in data, algorithms, and `AI` system outputs using fairness metrics and techniques
 * **Apply explainability methods** including `LIME`, `SHAP`, and attention visualization to interpret model decisions
 * **Understand privacy-preserving techniques** such as differential privacy and `federated learning`

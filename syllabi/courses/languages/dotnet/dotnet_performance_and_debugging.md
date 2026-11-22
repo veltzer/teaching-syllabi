@@ -34,14 +34,17 @@ those crashes that are so hard to reproduce.
 32 hours / 4 days
 
 ## Intended Audience
+
 * `.NET` developers, who want to enhance their skills in the areas of performance and debugging
 
 ## Prerequisites
+
 * At least 2 years of experience with the `.NET` Framework (version 2.0 and above)
 * `C#` language proficiency - Advantage
 * Native development experience - Advantage
 
 ## Objectives
+
 * Understand performance issues and best practices for developing with the `.NET` Framework
 * Obtain hands on experience with using advanced debugging tools and profilers
 

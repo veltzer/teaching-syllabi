@@ -24,6 +24,7 @@ Distributed transactions are one of the most challenging problems in `microservi
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software architects designing distributed `microservices` systems
 * Senior developers implementing cross-service business processes
 * Technical leads evaluating distributed transaction strategies
@@ -31,6 +32,7 @@ Distributed transactions are one of the most challenging problems in `microservi
 * Engineers migrating from monoliths to `microservices` with shared data concerns
 
 ## Prerequisites
+
 * `Solid` understanding of `microservices` architecture principles
 * Familiarity with message brokers such as `Kafka` or `RabbitMQ`
 * Experience with `event-driven architecture` and asynchronous communication
@@ -38,10 +40,12 @@ Distributed transactions are one of the most challenging problems in `microservi
 * Experience with at least one backend programming language (e.g., `Java`, `Python`, `C#`, Go)
 
 ## Required Knowledge
+
 * `Microservices` Architecture (or equivalent experience)
 * `Event-Driven Architecture` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand why distributed transactions fail and why two-phase commit is impractical in `microservices`
 * Explain the Saga pattern and its role in maintaining eventual consistency
 * Design choreography-based sagas using domain events and reactive participation

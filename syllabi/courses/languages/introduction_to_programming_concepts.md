@@ -23,14 +23,17 @@ conceptual foundation before they dive into a specific programming language.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers who are just starting their programming journey
 * Bootcamp students who need a `solid` foundation before learning a specific language
 
 ## Prerequisites
+
 * No prior programming experience required
 * Basic computer literacy (using a keyboard, navigating files and folders)
 
 ## Objectives
+
 * Understand the fundamental concepts that underpin all programming languages
 * Be able to read and reason about simple programs written in pseudo-code
 * Understand how data is stored and manipulated using variables and data types

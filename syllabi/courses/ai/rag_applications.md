@@ -28,19 +28,23 @@ deployment best practices including monitoring, observability, and hallucination
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers building `LLM`-powered applications
 * data scientists working on knowledge-intensive `AI` systems
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of large language models and embeddings
 * Familiarity with `REST` APIs and `web services`
 * Experience with databases (relational or document-based)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Design and implement** end-to-end `RAG` pipelines from document ingestion through retrieval and generation
 * **Select and configure** appropriate embedding models, vector databases, and retrieval strategies for different use cases
 * **Build `RAG` applications** using `LangChain` and `LlamaIndex` frameworks with effective prompt construction

@@ -25,17 +25,20 @@ This advanced course prepares participants to design comprehensive solutions on 
 40 hours / 5 days
 
 ## Intended Audience
+
 * Architects designing enterprise-scale `Azure` solutions
 * Senior developers making architectural decisions on `Azure`
 * `DevOps` engineers involved in infrastructure design and automation
 
 ## Prerequisites
+
 * Hands-on experience with `Azure` services (compute, storage, networking)
 * Understanding of identity and security concepts in `Azure`
 * Familiarity with infrastructure as code (`ARM` templates, Bicep, or `Terraform`)
 * Experience with application development patterns (`microservices`, APIs)
 
 ## Objectives
+
 * Apply the `Azure Well-Architected Framework` pillars to solution design
 * Design identity architectures using `Microsoft Entra ID`
 * Select appropriate compute, data, and networking services for given requirements

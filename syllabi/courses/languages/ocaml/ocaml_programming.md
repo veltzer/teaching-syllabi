@@ -26,16 +26,19 @@ This course guides developers from `OCaml` fundamentals through its advanced mod
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers seeking a rigorous type-safe functional programming language for production use
 * Engineers interested in compilers, formal verification, or language tooling
 * Developers coming from `Haskell`, `F#`, or Rust who want to explore `OCaml`
 
 ## Prerequisites
+
 * `Solid` experience in at least one programming language
 * Basic understanding of functional programming concepts is helpful
 * Familiarity with type systems is an advantage
 
 ## Objectives
+
 * Write idiomatic `OCaml` using algebraic data types, pattern matching, and higher-order functions
 * Design modular programs using `OCaml`'s module and functor system
 * Handle errors safely using `Result` and `Option` types

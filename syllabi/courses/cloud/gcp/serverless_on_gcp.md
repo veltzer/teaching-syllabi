@@ -27,20 +27,24 @@ monitoring, and cost optimization strategies for serverless workloads.
 24 hours / 3 days
 
 ## Intended Audience
+
 * developers building applications on `Google Cloud Platform`.
 * developers transitioning from traditional server-based architectures to serverless.
 * backend engineers looking to reduce operational overhead with managed services.
 
 ## Prerequisites
+
 * basic understanding of `cloud computing` concepts.
 * experience with at least one programming language (`Python`, `Node.js`, Go, or `Java`).
 * familiarity with `GCP` console and gcloud `CLI` is helpful.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * understand serverless architecture principles on `GCP`.
 * build and deploy applications using `Cloud Functions`, `Cloud Run`, and `App Engine`.
 * integrate serverless workloads with event-driven services and data stores.

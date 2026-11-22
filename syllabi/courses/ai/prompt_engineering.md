@@ -24,15 +24,18 @@ This one day course provides a systematic approach to prompt engineering for lar
 8 hours / 1 day
 
 ## Intended Audience
+
 * Software developers working with `LLM` APIs
 * Data scientists integrating `AI` into workflows
 * Team leads evaluating `AI`-powered solutions
 
 ## Prerequisites
+
 * Basic familiarity with `LLMs` and `AI` chatbots
 * General programming or technical background
 
 ## Objectives
+
 * Apply systematic prompting techniques to achieve consistent results.
 * Design effective system prompts and conversation structures.
 * Generate structured and validated output from `LLMs`.

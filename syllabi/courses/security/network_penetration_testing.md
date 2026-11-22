@@ -23,11 +23,13 @@ Network penetration testing is the practice of systematically probing an organiz
 32 hours / 4 days
 
 ## Intended Audience
+
 * Security engineers transitioning into offensive security roles
 * Professional and aspiring penetration testers seeking structured training
 * Red team members expanding their network exploitation skill set
 
 ## Prerequisites
+
 * Strong `Linux` command-line proficiency (file system, networking, process management)
 * `Solid` understanding of networking protocols (```TCP``/``IP```, `UDP`, `ICMP`, `ARP`, `DNS`, `HTTP`, `SMB`)
 * Familiarity with `Windows` `Active Directory` concepts (domains, users, group policy)
@@ -37,6 +39,7 @@ Network penetration testing is the practice of systematically probing an organiz
 * Access to a dedicated lab environment (provided or self-built with virtual machines)
 
 ## Objectives
+
 * Apply a structured penetration testing methodology aligned with `PTES` and `OWASP Testing Guide`
 * Conduct passive and active reconnaissance using `OSINT` frameworks and network scanning tools
 * Perform comprehensive network enumeration with `Nmap`, `Netcat`, and service-specific tools

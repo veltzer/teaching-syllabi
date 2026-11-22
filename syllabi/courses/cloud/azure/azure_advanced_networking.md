@@ -47,18 +47,21 @@ called out so the skills transfer across clouds.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Network engineers moving their skills from on-premises to the `Azure` cloud.
 * Cloud and solution architects designing multi-`VNet`, hybrid, and global networks.
 * `DevOps` engineers who provision and automate network infrastructure.
 * System administrators responsible for connectivity, security, and uptime on `Azure`.
 
 ## Prerequisites
+
 * Working knowledge of `Azure` core services (`Virtual Machines`, `Storage`, `Entra ID`, and basic `VNet`).
 * `Solid` understanding of `TCP`/`IP`, subnetting/`CIDR`, `DNS`, `HTTP`/`TLS`, and routing.
 * Comfort with the `Azure` portal and the `Azure CLI`.
 * Each student needs an `Azure` subscription with permission to create networking resources.
 
 ## Objectives
+
 * Design and build multi-tier `VNet` topologies with correct subnet and `CIDR` planning.
 * Connect networks at scale with `VNet` peering, hub-spoke, and `Virtual WAN`.
 * Implement and tune `Azure Load Balancer`, `Application Gateway`, and global traffic distribution.
@@ -68,6 +71,7 @@ called out so the skills transfer across clouds.
 * Automate repeatable network builds with Bicep/`Terraform`.
 
 ## Exercises
+
 * Every chapter includes a guided lab performed in the student's own `Azure` subscription.
 * Labs use the `Azure` portal, the `Azure CLI`, and infrastructure-as-code (Bicep or `Terraform`).
 * A recurring "break it and fix it" troubleshooting lab runs through the whole course.
@@ -141,6 +145,7 @@ called out so the skills transfer across clouds.
     * Lab: break a path on purpose and use `Network Watcher` + flow logs to find the fault
 
 ## We will not cover
+
 * `Azure` fundamentals and basic `VNet` creation (assumed as a prerequisite).
 * Application-level and compute services beyond what the network labs require.
 * `AKS` networking internals, which are covered in a dedicated containers course.

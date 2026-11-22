@@ -31,17 +31,21 @@ deployment strategies.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers and data scientists who want to build real-time stream processing applications using `Apache Flink`
 
 ## Prerequisites
+
 * Previous programming experience with `Java` or `Scala`
 * Basic understanding of distributed systems concepts
 * Familiarity with messaging systems such as `Apache Kafka`
 
 ## Required Knowledge
+
 * Introduction to `Apache Kafka` (or equivalent experience)
 
 ## Objectives
+
 * Understand stream processing concepts and the `Apache Flink` architecture
 * Build stream processing applications using the `DataStream API`
 * Implement event-time processing with watermarks and `windows`

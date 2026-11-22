@@ -35,6 +35,7 @@ development: what to document, how to structure agent-facing project guidance, a
 keep that guidance useful as the codebase evolves.
 
 ## Agenda
+
 * **Why `AI` Needs Better Documentation** (15 min): How missing project context leads to errors, hallucinations, and inconsistent output.
 * **From Traditional Docs to `AI`-Ready Context** (20 min): The difference between human-oriented documentation and guidance `AI` agents can use.
 * **Agent Instructions and Project Rules** (25 min): `CLAUDE.md`, `AGENTS.md`, `.cursorrules`; conventions, build/test workflows, guardrails, and anti-patterns.
@@ -44,11 +45,13 @@ keep that guidance useful as the codebase evolves.
 * **Key Takeaways and Q&A** (10 min): Actionable next steps for engineering teams.
 
 ## Takeaways
+
 * A clear understanding of why documentation is critical for reliable `AI` coding workflows
 * Familiarity with agent instruction files
 * A practical framework for identifying gaps, maintaining context, and evaluating documentation effectiveness
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

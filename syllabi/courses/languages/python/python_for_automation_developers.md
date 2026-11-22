@@ -31,15 +31,18 @@ automation project with `Selenium`, `Appium`, `REST` `API` support and Allure re
 40 hours / 5 days
 
 ## Intended Audience
+
 * Automation developers
 * Manual QA with development background
 * Programming experience with any programming language
 * Basic background in automation development
 
 ## Prerequisites
+
 * basic programming experience in any language
 
 ## Objectives
+
 * understand the core concepts and principles of `Python`` for Automation Developers
 * gain practical knowledge of `Python`` crash course
 * gain practical knowledge of Introduction to `PyTest`

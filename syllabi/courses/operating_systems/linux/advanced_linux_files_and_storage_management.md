@@ -28,17 +28,20 @@ This advanced course is designed for experienced `Linux` system administrators, 
 40 hours / 5 days
 
 ## Intended Audience
+
 * Experienced `Linux` system administrators
 * `DevOps` engineers
 * Security professionals with `solid` foundational knowledge of `Linux`
 
 ## Prerequisites
+
 * Strong foundational knowledge of `Linux` operating system
 * Experience with basic `Linux` file system operations
 * Understanding of storage concepts and hardware
 * Familiarity with command-line tools and system administration
 
 ## Objectives
+
 * Understand and implement advanced `Linux` file system architectures and concepts
 * Perform complex file system operations including creation, management, and repair
 * Configure and manage advanced storage technologies including `LVM` and `RAID`
@@ -124,6 +127,7 @@ This advanced course is designed for experienced `Linux` system administrators, 
     * Review and best practices for enterprise `Linux` storage management
 
 ## References
+
 * [`Linux` `File` System Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 * [`LVM` HOWTO](https://tldp.org/HOWTO/LVM-HOWTO/)
 * [mdadm Manual](https://linux.die.net/man/8/mdadm)

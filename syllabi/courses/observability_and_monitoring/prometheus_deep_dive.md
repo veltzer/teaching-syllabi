@@ -24,20 +24,24 @@ This course provides a comprehensive deep dive into `Prometheus`, the leading op
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who need to instrument and monitor their applications
 * `DevOps` engineers building monitoring infrastructure
 * System administrators responsible for alerting and incident response
 
 ## Prerequisites
+
 * Basic understanding of monitoring concepts (metrics, alerting).
 * Familiarity with `Linux` command line.
 * Basic knowledge of `HTTP` and networking.
 * Experience with containerized environments is helpful.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `Prometheus` architecture and pull-based model.
 * Write advanced `PromQL` queries for analysis and alerting.
 * Instrument applications using `Prometheus` client libraries.

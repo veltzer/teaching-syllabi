@@ -40,6 +40,7 @@ descriptions, running several passes to resolve circular dependencies, documenti
 environments, and verifying and maintaining the output as the code changes.
 
 ## Agenda
+
 * **Why "Document Everything" Fails** (10 min): Context limits, lost relationships, and invented details when an agent is pointed at a whole large codebase at once.
 * **Bottom-Up: Small Folders First** (20 min): Splitting the tree into folders small enough to fit in context, documenting them in full, and rolling summaries up level by level to the top.
 * **Several Passes for Circular References** (15 min): Why a single pass cannot describe modules that depend on each other, and how repeated passes refine cross-references until the documentation is consistent.
@@ -50,11 +51,13 @@ environments, and verifying and maintaining the output as the code changes.
 * **Key Takeaways and Q&A** (10 min): Actionable next steps for engineering teams.
 
 ## Takeaways
+
 * A repeatable, bottom-up method for documenting codebases of any size with `AI` agents
 * Techniques for handling circular dependencies, service-level views, and environment documentation
 * Practical ways to verify `AI`-written documentation and keep it in sync with the code
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

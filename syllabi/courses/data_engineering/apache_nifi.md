@@ -25,6 +25,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data engineers building and maintaining data ingestion and integration pipelines
 * `DevOps` engineers managing `NiFi` infrastructure and deployments
 * Platform engineers designing data movement architectures
@@ -32,6 +33,7 @@ audience:
 * Systems integrators connecting heterogeneous data sources and destinations
 
 ## Prerequisites
+
 * Familiarity with `ETL`/`ELT` concepts and data pipeline design
 * Basic understanding of networking and common data protocols (`HTTP`, `FTP`, `Kafka`)
 * Experience with `Linux` command-line tools
@@ -39,10 +41,12 @@ audience:
 * Familiarity with `Docker` for running local `NiFi` instances
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `NiFi` architecture, core components, and the `FlowFile` model
 * Design and implement end-to-end data flows using the `NiFi` canvas
 * Configure and tune processors, connections, and back-pressure settings

@@ -23,16 +23,19 @@ This course equips software developers with the `Linux` knowledge they need to b
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers transitioning to or working on `Linux` platforms
 * Backend engineers building server-side applications on `Linux`
 * Embedded engineers developing user-space applications
 
 ## Prerequisites
+
 * Programming experience in C or `C++` (or willingness to read C code).
 * Basic familiarity with the `Linux` command line.
 * Understanding of fundamental operating system concepts.
 
 ## Objectives
+
 * Perform file `I/O` operations using system calls and standard library functions.
 * Create and manage processes, and understand process lifecycle.
 * Handle signals for process communication and control.

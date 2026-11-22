@@ -41,6 +41,7 @@ contracts as the agent's interface, cross-service changes, testing and operation
 look at the monolith-versus-microservices decision.
 
 ## Agenda
+
 * **`Microservices` Revisited** (10 min): Why we split systems into services in the first place, and which of those reasons `AI` strengthens or weakens.
 * **Services as Context Boundaries** (20 min): Why small, well-bounded services with clear ownership are the ideal unit of work for an `AI` agent, and how to size them.
 * **Contracts as the Agent's Interface** (15 min): `OpenAPI`, `gRPC`, and `JSON Schema` specifications as the source of truth agents can rely on instead of reading other services' code.
@@ -51,11 +52,13 @@ look at the monolith-versus-microservices decision.
 * **Key Takeaways and Q&A** (10 min): Actionable next steps for architects and engineering teams.
 
 ## Takeaways
+
 * A clear understanding of how `AI` agents change the trade-offs of microservice architecture
 * Design principles for services, contracts, and boundaries that work well with `AI` agents
 * A practical framework for revisiting the architecture of your own system
 
 ## Who Should Attend
+
 * Software architects
 * Engineering managers
 * Tech leads

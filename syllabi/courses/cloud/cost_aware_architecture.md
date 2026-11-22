@@ -37,17 +37,20 @@ the cost case for an architectural decision before they ship it, not after the b
 24 hours / 3 days
 
 ## Intended Audience
+
 * architects responsible for cost as a non-functional requirement
 * senior developers leading service design decisions
 * tech leads whose `P&L` includes the cloud bill
 * platform engineers building paved roads that others will spend money on
 
 ## Prerequisites
+
 * working experience with at least one major cloud provider
 * exposure to the `Cloud Cost Optimization` course is helpful but not required
 * familiarity with the basic primitives: object storage, managed databases, container platforms
 
 ## Objectives
+
 * recognize the cost-shape of common architectural primitives
 * compute the unit economics of a feature before it ships
 * design data flow with egress and storage class in mind

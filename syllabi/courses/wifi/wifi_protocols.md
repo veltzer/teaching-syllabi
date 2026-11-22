@@ -26,15 +26,18 @@ specifically 802.11b.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software engineers who want to understand the inner workings of `WiFi` networks.
 * Low level or Operating system software engineers who want to implement some of these protocols
 
 ## Prerequisites
+
 * This course requires some kind of engineering degree to be intelligible.
 * The protocol section requires some understanding of what computer protocols are.
 * Some math is required for understanding the error correction and multiplexing ideas.
 
 ## Objectives
+
 * To get a grasp of the underlying protocols underlying current `WiFi` technology.
 * To understand the basics of security under these protocols.
 

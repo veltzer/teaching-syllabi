@@ -28,18 +28,22 @@ verification.
 16 hours / 1 day
 
 ## Intended Audience
+
 * Software developers and `DevOps` engineers who work with `Kubernetes` and want to manage application deployments using Helm.
 * Teams looking to standardize their `Kubernetes` deployment workflows.
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes` concepts (pods, deployments, services, namespaces).
 * Familiarity with `YAML` syntax.
 * Basic command-line experience.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
+
 * Understand Helm architecture and how it interacts with `Kubernetes`.
 * Create, customize, and package Helm charts.
 * Use template functions, pipelines, named templates, and partials effectively.

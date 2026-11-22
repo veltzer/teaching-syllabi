@@ -34,14 +34,17 @@ Key topics:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Engineers who are not familiar with embedded/real time programming and with to study it.
 * Experienced embedded/real time engineers who wish to gain a deeper understanding of the field.
 
 ## Prerequisites
+
 * Working knowledge of C/`C++`
 * Some knowledge of Embedded/Real Time programming
 
 ## Objectives
+
 * understand the core concepts and principles of `Design Patterns` for Embedded and Real Time Systems
 * gain practical knowledge of Overview
 * gain practical knowledge of Languages

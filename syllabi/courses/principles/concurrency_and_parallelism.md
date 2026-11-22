@@ -39,18 +39,21 @@ in front of them.
 40 hours / 5 days
 
 ## Intended Audience
+
 * senior developers who write concurrent code in any language
 * systems programmers building libraries, runtimes or kernels
 * performance engineers tuning concurrent workloads
 * developers preparing for systems-level technical interviews
 
 ## Prerequisites
+
 * several years of software development experience
 * working knowledge of at least one language with native `threading` or async support
 * basic familiarity with operating system concepts (processes, threads, memory)
 * basic computer architecture (caches, memory hierarchy)
 
 ## Objectives
+
 * clearly distinguish concurrency, parallelism and asynchrony
 * reason about hardware and language memory models
 * choose between locks, atomics, channels, actors and async/await for a given problem

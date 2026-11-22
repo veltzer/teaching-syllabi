@@ -40,24 +40,29 @@ coding agent on `GitHub`, code review — and administration of Copilot in
 an organization.
 
 ## Duration
+
 * Short: 8 hours / 1 day
 * Long: 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers who have a Copilot license and want to use every part of it well
 * Team leads who need to decide how Copilot should be configured and customized for their repositories
 * `DevOps` engineers who want to integrate Copilot with their tooling and `CI` workflows
 
 ## Prerequisites
+
 * The Development Using `AI` course or equivalent practical experience with `AI`-assisted development
 * Proficiency in at least one programming language
 * Working knowledge of `git` and `GitHub` (branches, pull requests, issues)
 * A working `GitHub Copilot` license (any paid plan; the free plan works with reduced limits)
 
 ## Required Knowledge
+
 * Development Using `AI` (or equivalent experience)
 
 ## Objectives
+
 * **Drive** all Copilot surfaces fluently: completions, chat, edit mode, agent mode and the `CLI`
 * **Customize** Copilot per repository with custom instructions, path-scoped instruction files and reusable prompt files
 * **Extend** agent mode with `MCP` servers and control what tools it may use

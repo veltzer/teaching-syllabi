@@ -26,19 +26,23 @@ This course covers `Azure` `Kubernetes` Service (AKS), Microsoft's managed `Kube
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and `DevOps` engineers deploying containerized workloads on `Azure`.
 * Architects designing `Kubernetes`-based solutions on the `Azure` platform.
 * SREs managing AKS clusters in production environments.
 
 ## Prerequisites
+
 * Experience working in technical environments.
 * Basic understanding of containerization concepts.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes`
 * Introduction to the `Azure` Cloud
 
 ## Objectives
+
 * Understand AKS architecture and its integration with `Azure` services.
 * Provision and configure AKS clusters for various workload requirements.
 * Integrate AKS with `Azure` `Active Directory` for authentication and authorization.

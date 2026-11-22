@@ -24,12 +24,14 @@ Contract testing ensures that services in a distributed system communicate corre
 16 hours / 1 day
 
 ## Intended Audience
+
 * Backend developers building `microservices` and distributed systems
 * QA engineers working with service-oriented architectures
 * Full-stack developers consuming and providing APIs
 * Technical leads responsible for testing strategy in `microservices`
 
 ## Prerequisites
+
 * Experience with `REST APIs` and `HTTP` fundamentals
 * Understanding of `microservices` architecture concepts
 * Familiarity with at least one programming language (`JavaScript`, `Java`, `Python`, or Go)
@@ -37,10 +39,12 @@ Contract testing ensures that services in a distributed system communicate corre
 * Experience with automated testing frameworks
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the principles and value of contract testing
 * Implement consumer-driven contract tests using the Pact framework
 * Set up and use `Pact Broker` for contract management

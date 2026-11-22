@@ -33,17 +33,20 @@ right tool for their context.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers building or migrating `CI/CD` pipelines to `Kubernetes`.
 * Platform engineers creating self-service pipeline infrastructure for development teams.
 * Developers who want to understand how cloud-native pipelines are structured and executed.
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes` (pods, deployments, `RBAC`, persistent volumes).
 * Familiarity with `YAML` and `Kubernetes` manifest authoring.
 * Basic understanding of `CI/CD` concepts (build, test, push, deploy).
 * `kubectl` installed and configured against a `Kubernetes` cluster.
 
 ## Objectives
+
 * Understand the `Tekton` resource model and how it maps `CI/CD` concepts to `Kubernetes`.
 * Write reusable `Tasks` and compose them into multi-stage `Pipelines`.
 * Share data between steps and tasks using workspaces and persistent volume claims.

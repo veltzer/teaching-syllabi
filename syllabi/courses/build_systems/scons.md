@@ -23,18 +23,22 @@ SCons is a software construction tool that uses `Python` scripts as its configur
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers managing build processes
 * `DevOps` engineers working with `CI/CD` pipelines
 * `Python` developers looking for a `Python`-native build system
 
 ## Prerequisites
+
 * Software development experience
 * Basic `Python` knowledge
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand SCons's architecture and dependency analysis model
 * Write SConstruct and SConscript files for multi-directory projects
 * Create custom builders, scanners, and tools

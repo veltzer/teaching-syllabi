@@ -24,6 +24,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building data pipelines and workflows
 * Software developers automating data processes
 * Data scientists operationalizing models and analyses
@@ -31,6 +32,7 @@ audience:
 * `MLOps` engineers managing `ML` pipelines
 
 ## Prerequisites
+
 * Proficiency in `Python` programming
 * Basic understanding of data engineering concepts (`ETL`/`ELT`)
 * Familiarity with `SQL` and relational databases
@@ -38,10 +40,12 @@ audience:
 * Experience with version control (`Git`)
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `Prefect` architecture and core concepts
 * Build flows and tasks with parameters, retries, and caching
 * Configure deployments with schedules and triggers

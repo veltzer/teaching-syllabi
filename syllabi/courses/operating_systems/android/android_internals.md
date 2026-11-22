@@ -33,15 +33,18 @@ data flows from the `java` application down to the kernel driver and the hardwar
 40 hours / 5 days
 
 ## Intended Audience
+
 * `Android` application developers (advanced or beginners) who want to learn about how their operating system works.
 * Advanced C and `C++` developers who would like to tinker with `Android` internals and possibly change them radically.
 * Security researches who want to learn more about how `Android` is built.
 * Embedded `Linux` developers who want to migrate to an embedded system on `Android`.
 
 ## Prerequisites
+
 * Delegates should have a working knowledge in C/`C++`/`Java`/`C#`. (At least one)
 
 ## Objectives
+
 * Understand the `android` stack
 * Learn how to use `android` effectively in embedded/real-time systems
 * Learn how to add kernel module in `android`

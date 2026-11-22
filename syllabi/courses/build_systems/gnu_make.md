@@ -24,16 +24,19 @@ while being the most flexible and misunderstood. This course will get you starte
 16 hours / 2 days
 
 ## Intended Audience
+
 * C programmers who would like to write their build system in `GNU make`.
 * Anyone wanting to use `GNU make` to create build systems for any other language.
 
 ## Prerequisites
+
 * Basic command line experience
 * Understanding of compilation process
 * Text editor familiarity
 * `Git` basics (optional)
 
 ## Objectives
+
 * Create and maintain Makefiles
 * Understand Make's execution model
 * Implement efficient build systems

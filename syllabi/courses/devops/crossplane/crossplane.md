@@ -32,21 +32,25 @@ and production deployment patterns, along with a comparison to traditional tools
 16 hours / 2 days
 
 ## Intended Audience
+
 * `devops` engineers managing cloud infrastructure with `Kubernetes`.
 * platform engineers building self-service infrastructure platforms.
 * infrastructure teams evaluating `Kubernetes`-native IaC approaches.
 
 ## Prerequisites
+
 * `solid` understanding of `Kubernetes` concepts (custom resources, controllers, `RBAC`).
 * experience with at least one cloud provider (`AWS`, `Azure`, or `GCP`).
 * familiarity with infrastructure as code concepts.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 * Introduction to `Azure` (or equivalent experience)
 * `GCP` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand `Crossplane` architecture and its role in `Kubernetes`-native infrastructure management.
 * provision and manage cloud resources using `Crossplane` providers.
 * build reusable infrastructure abstractions with compositions and XRDs.

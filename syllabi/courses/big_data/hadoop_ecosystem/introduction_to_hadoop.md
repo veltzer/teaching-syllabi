@@ -25,18 +25,22 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers entering the big data field
 * Data engineers looking to understand `Hadoop` fundamentals
 * System administrators managing or planning `Hadoop` clusters
 
 ## Prerequisites
+
 * Basic `Linux` command-line skills
 * Familiarity with any programming language
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand big data concepts and the challenges `Hadoop` addresses
 * Describe `HDFS` architecture and data storage mechanisms
 * Explain the `YARN` resource management framework

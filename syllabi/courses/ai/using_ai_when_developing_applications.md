@@ -35,6 +35,7 @@ This is an intensive three-day course combining demonstrations, hands-on worksho
 24 hours / 3 days
 
 ## Intended Audience
+
 * Professional software developers seeking to integrate `AI` tools into their workflow
 * Development team leads and technical managers evaluating `AI` adoption strategies
 * Senior developers responsible for establishing `AI` coding standards and best practices
@@ -44,6 +45,7 @@ This is an intensive three-day course combining demonstrations, hands-on worksho
 ## Prerequisites
 
 This is a practical course for experienced developers. Participants should have:
+
 * `Solid` experience in at least one modern programming language (`Python`, `JavaScript`, `Java`, `C#`, Go, or similar)
 * Understanding of software development lifecycle and version control (`Git`)
 * Experience with development tools, `IDEs`, and command-line interfaces
@@ -52,10 +54,12 @@ This is a practical course for experienced developers. Participants should have:
 * No prior `AI` or `machine learning` experience required
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Effectively integrate `AI` coding assistants into daily development workflows
 * Master prompt engineering techniques for software development tasks
 * Understand capabilities and limitations of current `AI` development tools
@@ -194,6 +198,7 @@ This is a practical course for experienced developers. Participants should have:
     * Performance evaluation and optimization
 
 ## References
+
 * `GitHub Copilot` Documentation and Best Practices
 * `OpenAI` `API` Documentation for Developers
 * "The Pragmatic Programmer" - `AI` Integration Patterns

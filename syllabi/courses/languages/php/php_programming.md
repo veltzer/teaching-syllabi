@@ -22,15 +22,18 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers learning `PHP` for web development
 * Backend developers who need to maintain or build `PHP` applications
 * Developers coming from other languages who want to learn modern `PHP`
 
 ## Prerequisites
+
 * Basic programming experience in any language
 * Basic understanding of `HTML` and `HTTP`
 
 ## Objectives
+
 * Write modern `PHP` code using current best practices
 * Understand `PHP`'s type system and object-oriented features
 * Use `Composer` for dependency management

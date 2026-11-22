@@ -25,20 +25,24 @@ This course covers Elixir from the fundamentals through advanced topics includin
 32 hours / 4 days
 
 ## Intended Audience
+
 * Software developers who want to learn Elixir for building concurrent and distributed systems.
 * Programmers interested in functional programming with practical, real-world applications.
 * Developers who need to build fault-tolerant, scalable web applications and services.
 
 ## Prerequisites
+
 * Prior programming experience in another language such as `Python`, Ruby, `Java`, or `JavaScript`.
 * Understanding of basic computer science concepts.
 * Familiarity with command-line interfaces.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand Elixir syntax, pattern matching, and functional programming concepts
 * Build concurrent applications using Elixir processes and message passing
 * Design fault-tolerant systems using `OTP` patterns

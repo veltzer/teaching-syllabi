@@ -31,19 +31,23 @@ The course includes hands on exercises.
 24 hours / 3 days
 
 ## Intended Audience
+
 * System administrators looking to automate repetitive tasks.
 * `DevOps` engineers managing infrastructure with code.
 * Developers building automation scripts for `Windows` or cross-platform environments.
 
 ## Prerequisites
+
 * Basic familiarity with a command-line interface (`Windows` Command Prompt, Bash, or similar).
 * Understanding of fundamental IT concepts (file systems, processes, networking basics).
 * No prior scripting experience is required.
 
 ## Required Knowledge
+
 * Bash Scripting (or equivalent experience)
 
 ## Objectives
+
 * Navigate and use the `PowerShell` console and ISE/`VS Code` effectively
 * Write scripts using variables, operators, control flow, and functions
 * Leverage the pipeline and object-oriented nature of `PowerShell`

@@ -36,6 +36,7 @@ students write and extend real drivers and test them on a virtual machine.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Developers who need to write device drivers for `Windows`.
 * Systems programmers moving into kernel mode development on `Windows`.
 * Embedded and firmware developers whose hardware must be supported on `Windows`.
@@ -43,17 +44,20 @@ students write and extend real drivers and test them on a virtual machine.
 * Security engineers who need to understand how drivers work in order to analyze them.
 
 ## Prerequisites
+
 * Good working knowledge of the C programming language. `C++` is an advantage.
 * Experience developing on `Windows`.
 * Knowledge of `Windows` internals (processes, memory, `I/O` system) is a significant advantage.
 
 ## Objectives
+
 * understand the core concepts and principles of kernel mode programming on `Windows`
 * gain practical knowledge of writing drivers with `KMDF` and `UMDF`
 * gain practical knowledge of handling `I/O` requests, Plug and Play and power management
 * gain practical knowledge of debugging, verifying, signing and deploying `Windows` drivers
 
 ## Exercises
+
 * Done with `Visual Studio`, the `WDK` and `WinDbg`, deploying to a `Windows` virtual machine.
 
 ## Outline

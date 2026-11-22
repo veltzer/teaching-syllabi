@@ -26,20 +26,24 @@ This course is designed for developers who want to build and deploy applications
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers and engineers looking to build applications on `AWS`.
 * Backend developers transitioning to serverless and cloud-native architectures.
 * `DevOps` engineers who want a deeper understanding of `AWS` developer services.
 
 ## Prerequisites
+
 * Experience in at least one programming language (`Python`, `JavaScript`, or `Java` recommended).
 * Basic familiarity with `AWS` concepts (regions, `IAM`, `S3`).
 * Experience with command-line tools and version control.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Build and deploy serverless applications using `AWS Lambda` and `API Gateway`.
 * Design and interact with `DynamoDB` tables for scalable data storage.
 * Define and deploy infrastructure using SAM and CDK.

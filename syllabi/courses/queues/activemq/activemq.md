@@ -32,17 +32,20 @@ competing products.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers integrating enterprise messaging into their applications using `JMS`.
 * Architects designing reliable, decoupled enterprise integration solutions.
 * `DevOps` and middleware engineers operating and tuning `ActiveMQ` in production environments.
 * Teams evaluating `ActiveMQ Artemis` for new deployments or migration from classic `ActiveMQ`.
 
 ## Prerequisites
+
 * `Solid` `Java` programming experience.
 * Basic understanding of enterprise application architecture and integration patterns.
 * Familiarity with the command line and `XML` configuration files.
 
 ## Objectives
+
 * Understand the fundamental concepts and benefits of enterprise messaging.
 * Describe the `ActiveMQ` broker architecture and its core components.
 * Install, configure, and manage an `ActiveMQ` broker.

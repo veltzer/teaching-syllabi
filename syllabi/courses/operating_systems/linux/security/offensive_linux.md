@@ -26,12 +26,14 @@ This intensive course is designed for experienced penetration testers seeking to
 40 hours / 5 days
 
 ## Intended Audience
+
 * Experienced Penetration Testers
 * Red Team Operators
 * Security Researchers
 * Ethical Hackers with `Linux` experience
 
 ## Prerequisites
+
 * Strong foundational knowledge of `Linux` operating systems
 * Experience with penetration testing methodologies
 * Understanding of networking concepts and protocols
@@ -39,6 +41,7 @@ This intensive course is designed for experienced penetration testers seeking to
 * Basic knowledge of exploit development concepts
 
 ## Objectives
+
 * Perform advanced reconnaissance and fingerprinting of `Linux` systems
 * Identify and exploit privilege escalation vulnerabilities
 * Develop and implement persistence mechanisms in `Linux` environments
@@ -49,6 +52,7 @@ This intensive course is designed for experienced penetration testers seeking to
 * Conduct comprehensive offensive operations in `Linux` environments
 
 ## Exercises
+
 * Practical exploitation exercises in controlled environments
 * Multi-stage attack scenario simulations
 * CTF-style challenges and problem-solving
@@ -97,6 +101,7 @@ This intensive course is designed for experienced penetration testers seeking to
     * Next steps and advanced learning recommendations
 
 ## References
+
 * [Penetration Testing Execution Standard (`PTES`)](http://www.pentest-standard.org/)
 * [`OWASP` Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 * [`Linux` Kernel Exploits](https://github.com/SecWiki/linux-kernel-exploits)

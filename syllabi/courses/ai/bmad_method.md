@@ -50,12 +50,14 @@ does not re-teach prompting, context windows or how coding agents work.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who use `AI` coding agents and want a structured, repeatable process around them
 * Team leads and scrum masters who want `AI` agents to fit an existing agile workflow rather than bypass it
 * Architects who want design decisions to survive contact with an autonomous coding agent
 * Product managers who will write briefs and requirements that `AI` agents implement from
 
 ## Prerequisites
+
 * Practical experience developing with an `AI` coding assistant or agent
 * The Development Using `AI` course or equivalent experience
 * Proficiency in at least one programming language
@@ -63,9 +65,11 @@ does not re-teach prompting, context windows or how coding agents work.
 * Familiarity with agile vocabulary: epics, stories, sprints, definition of done
 
 ## Required Knowledge
+
 * Development Using `AI` (or equivalent experience)
 
 ## Objectives
+
 * **Explain** the `BMAD` philosophy: agent specialization, document-driven context and the planning-to-implementation hand-off
 * **Install** and configure `BMAD` in a project and in the `IDE` or `CLI` agent the team already uses
 * **Run** the planning phase end to end: brainstorming, product brief, `PRD`, architecture and epic breakdown

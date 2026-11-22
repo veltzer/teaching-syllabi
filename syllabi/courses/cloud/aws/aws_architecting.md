@@ -48,6 +48,7 @@ Experience in IT is a requirement and a plus.
 Experience in IT in some field is required.
 
 ## Objectives
+
 * The participants will be able to receive requirements for applications and design the right architecture for this
 application in the `AWS` cloud. This means they will be able to distinguish between
 the different main services that `AWS` provides, decide which will be more effective
@@ -56,6 +57,7 @@ in which case and be able to monitor and change their decisions as conditions ch
 exam.
 
 ## Exercises
+
 * [Real live exercises](https://amazon.qwiklabs.com)
 
 ## Outline

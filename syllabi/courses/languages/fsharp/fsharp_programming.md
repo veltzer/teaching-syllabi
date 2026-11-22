@@ -27,16 +27,19 @@ This course equips `.NET` developers with the skills to write idiomatic `F#` cod
 32 hours / 4 days
 
 ## Intended Audience
+
 * `C#` and `.NET` developers who want to adopt functional programming within the `.NET` ecosystem
 * Developers interested in strong type-system-driven design and domain modelling
 * Backend engineers building data pipelines, APIs, or concurrent services on `.NET`
 
 ## Prerequisites
+
 * Experience with `C#` or another `.NET` language is strongly recommended
 * Basic familiarity with object-oriented programming concepts
 * No prior functional programming experience is required
 
 ## Objectives
+
 * Write `clean`, idiomatic `F#` code using functions, pipelines, and algebraic types
 * Model complex domains using discriminated unions, records, and option types
 * Handle errors explicitly using the `Result` type without exceptions

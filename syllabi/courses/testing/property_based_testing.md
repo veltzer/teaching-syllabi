@@ -38,17 +38,20 @@ machines, and entire distributed systems.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers who already write unit tests and want to find more bugs with less code
 * `QA` and `SDET` engineers responsible for test strategy
 * engineers maintaining libraries, parsers, protocols or other components with rich input domains
 * anyone debugging classes of bugs that example-based tests miss
 
 ## Prerequisites
+
 * `solid` programming experience in at least one of: `Python`, `JavaScript`/`TypeScript`, `Java`, `Scala`, `Haskell`, Rust
 * experience writing unit tests in a mainstream framework
 * basic familiarity with the `TDD` cycle is helpful but not required
 
 ## Objectives
+
 * explain what property-based testing is and where it fits relative to example-based and fuzz testing
 * identify properties in real-world code
 * write generators for non-trivial input domains

@@ -42,18 +42,21 @@ webhook system.
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers building a `SaaS` webhook system
 * developers integrating with a third-party webhook
 * architects designing event-out interfaces
 * team leads accountable for an `API` product
 
 ## Prerequisites
+
 * working experience with `HTTP` `APIs`
 * exposure to the `API` Design Best Practices course
 * familiarity with the Idempotency course is helpful
 * basic understanding of message queues
 
 ## Objectives
+
 * design a webhook system end-to-end
 * secure webhooks with signing and replay protection
 * implement reliable delivery with retries

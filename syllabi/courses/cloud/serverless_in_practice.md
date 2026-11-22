@@ -39,17 +39,20 @@ leave able to ship serverless systems that are fast, observable, debuggable and 
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers shipping serverless functions or running them in production
 * `DevOps` engineers operating serverless infrastructure at scale
 * architects deciding when serverless is the right tool
 * engineers diagnosing latency, cost or reliability issues with serverless workloads
 
 ## Prerequisites
+
 * working knowledge of at least one cloud provider
 * experience writing code in at least one language with serverless support (`Python`, `Node.js`, Go, `Java`, `.NET`)
 * basic familiarity with `HTTP`, IaC and CI/`CD`
 
 ## Objectives
+
 * describe the serverless execution model and its consequences
 * engineer cold-start performance to acceptable levels
 * package and deploy serverless functions repeatedly

@@ -40,17 +40,20 @@ inherit a legacy codebase and get it under control.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers and tech leads inheriting legacy codebases
 * engineers tasked with a modernization project
 * architects bridging architectural and code-level modernization
 * engineers preparing to leave a codebase to others
 
 ## Prerequisites
+
 * several years of professional software development experience
 * working knowledge of at least one mainstream language
 * exposure to either the Technical Debt and Refactoring or Legacy Modernization course is helpful
 
 ## Objectives
+
 * diagnose what you have inherited honestly
 * establish a test safety net before changing legacy code
 * apply `Feathers`'s seam techniques to break dependencies

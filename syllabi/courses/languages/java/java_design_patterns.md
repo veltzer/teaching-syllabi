@@ -28,14 +28,17 @@ commonly used in `Java` applications.
 24 hours / 3 days
 
 ## Intended Audience
+
 * `Java` developers who want to write more maintainable and extensible code.
 * Software architects looking to deepen their understanding of `design patterns` in `Java`.
 
 ## Prerequisites
+
 * Working knowledge of `Java` programming.
 * Familiarity with object-oriented programming concepts.
 
 ## Objectives
+
 * Participants will gain a thorough understanding of
     * `SOLID` principles and their role in software design.
     * GoF creational, structural, and behavioral `design patterns`.

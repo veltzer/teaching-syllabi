@@ -23,14 +23,17 @@ This course provides a hands-on introduction to the R programming language for d
 24 hours / 3 days
 
 ## Intended Audience
+
 * data analysts and statisticians
 * researchers who need to perform data analysis
 
 ## Prerequisites
+
 * basic understanding of statistics
 * basic programming experience in any language
 
 ## Objectives
+
 * understand the core concepts and principles of R programming
 * gain practical knowledge of Introduction to R
 * gain practical knowledge of R basics

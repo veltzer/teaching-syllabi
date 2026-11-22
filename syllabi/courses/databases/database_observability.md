@@ -41,17 +41,20 @@ Participants leave able to `make` their database observable enough to debug a re
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DBAs` upgrading their observability stack
 * senior developers operating a database
 * `DevOps` and `SREs` responsible for database health
 * developers who are on-call for the database tier
 
 ## Prerequisites
+
 * working experience with at least one relational database
 * exposure to the `Prometheus` and `Grafana` course
 * familiarity with the Query Optimization and Indexing course is helpful
 
 ## Objectives
+
 * identify the canonical observability signals for a database
 * instrument a database for production observability
 * design dashboards that surface real problems

@@ -25,23 +25,27 @@ This advanced course dives deep into `Redis` features and operational patterns f
 16 hours / 2 days
 
 ## Intended Audience
+
 * Experienced developers working with `Redis` in production
 * Backend engineers building high-performance distributed systems
 * `DevOps` engineers managing `Redis` infrastructure
 * Software architects designing caching and messaging systems
 
 ## Prerequisites
+
 * Working experience with `Redis` data structures and basic commands
 * Understanding of distributed systems concepts
 * Familiarity with `Linux` system administration
 * Experience with at least one programming language (`Python`, `Java`, or `Node.js`)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Design and manage `Redis` clusters for horizontal scalability
 * Implement event-driven architectures using `Redis Streams`
 * Write `Lua` scripts for complex atomic operations

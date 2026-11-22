@@ -38,6 +38,7 @@ case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizatio
 40 hours / 5 days
 
 ## Intended Audience
+
 * data engineers and analytics engineers in mesh-bound organizations
 * architects driving a data mesh program
 * tech leads owning a domain's data products
@@ -45,12 +46,14 @@ case studies from `Zalando`, Netflix, Intuit, `JPMorgan` and similar organizatio
 * leaders evaluating whether to adopt mesh
 
 ## Prerequisites
+
 * `solid` data-engineering experience
 * exposure to at least one warehouse or lakehouse
 * working knowledge of at least one orchestrator
 * exposure to the architectural-level data-mesh material is helpful
 
 ## Objectives
+
 * define a data product precisely and ship one
 * design contracts at domain boundaries
 * operate federated computational governance without ceremony

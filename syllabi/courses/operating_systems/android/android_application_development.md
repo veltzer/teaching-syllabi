@@ -22,18 +22,22 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers who want to build native `Android` applications
 * Developers transitioning from web or backend development to mobile
 * Developers looking to modernize their `Android` skills with `Jetpack Compose`
 
 ## Prerequisites
+
 * Programming experience in `Java` or `Kotlin`
 * Basic understanding of object-oriented programming
 
 ## Required Knowledge
+
 * `Kotlin` Programming (or equivalent experience)
 
 ## Objectives
+
 * Set up and use `Android Studio` effectively
 * Build user interfaces with `XML` layouts and `Jetpack Compose`
 * Manage activities, fragments, and the application lifecycle

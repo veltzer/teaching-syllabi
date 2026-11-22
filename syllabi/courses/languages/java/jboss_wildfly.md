@@ -24,21 +24,25 @@ This course covers the administration and management of JBoss/WildFly applicatio
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers deploying applications to WildFly or `JBoss EAP`
 * System administrators managing `Java` application server infrastructure
 * `DevOps` engineers responsible for `Java EE` application environments
 
 ## Prerequisites
+
 * Basic `Java` and `Java EE` concepts
 * Familiarity with `Linux` or `Windows` server administration
 * Understanding of networking fundamentals (`TCP`/`IP`, `HTTP`)
 * Basic command-line proficiency
 
 ## Required Knowledge
+
 * `Java` Programming (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the WildFly architecture and subsystem model
 * Install and configure WildFly in standalone and domain modes
 * Deploy and manage `Java EE` applications

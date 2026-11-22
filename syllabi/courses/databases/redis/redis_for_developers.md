@@ -23,19 +23,23 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
 24 hours / 3 days
 
 ## Intended Audience
+
 * software developers working with databases
 * backend engineers and data engineers
 
 ## Prerequisites
+
 * Basic understanding of data structures and algorithms.
 * Familiarity with command-line interfaces.
 * Basic programming knowledge (`Python`, `JavaScript`, or any other scripting language).
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the core concepts of `Redis` and its architecture.
 * Work with various `Redis` data structures (strings, lists, sets, sorted sets, hashes).
 * Implement caching strategies using `Redis`.
@@ -101,6 +105,7 @@ This course provides an introduction to `Redis`, an open-source, in-memory data 
     * Connecting `Redis` to web applications.
 
 ## Textbooks and Resources
+
 * `Redis` Documentation: [https://redis.io/docs/](https://redis.io/docs/)
 * "`Redis` in Action" by Josiah Carlson (Optional)
 * Various online tutorials and articles.

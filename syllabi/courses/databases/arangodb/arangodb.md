@@ -25,6 +25,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building applications that combine document, graph, and key-value access patterns
 * Architects evaluating multi-model databases to simplify their data platform
 * Engineers working on knowledge graphs, fraud detection, or social network features
@@ -32,12 +33,14 @@ audience:
 * Backend engineers who want a single flexible database without sacrificing query power
 
 ## Prerequisites
+
 * Programming experience in `JavaScript`, `Python`, or another language
 * Familiarity with `NoSQL` database concepts (documents, collections)
 * Basic understanding of graph theory (nodes, edges, paths) is helpful
 * Prior experience with any document or graph database is beneficial but not required
 
 ## Objectives
+
 * Understand `ArangoDB`'s multi-model architecture and when to use it
 * Perform `CRUD` operations on document collections via the `ArangoDB` web UI and `API`
 * Write complex queries using `AQL` across documents, edges, and graphs

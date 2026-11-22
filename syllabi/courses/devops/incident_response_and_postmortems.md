@@ -37,6 +37,7 @@ program-level practices that prevent the same incident from happening again.
 40 hours / 5 days
 
 ## Intended Audience
+
 * `SRE`s, `DevOps` engineers and developers carrying production pagers
 * on-call engineers wanting to operate more effectively
 * tech leads and engineering managers responsible for on-call programs
@@ -44,11 +45,13 @@ program-level practices that prevent the same incident from happening again.
 * leaders establishing a postmortem culture
 
 ## Prerequisites
+
 * on-call experience in production, or imminent on-call rotation
 * basic familiarity with at least one observability stack (`Prometheus`, `Datadog`, New Relic)
 * working knowledge of at least one production system you operate
 
 ## Objectives
+
 * describe the phases of an incident and the roles within each
 * operate effectively as `responder`, scribe and incident commander
 * mitigate first, investigate after, with appropriate confidence

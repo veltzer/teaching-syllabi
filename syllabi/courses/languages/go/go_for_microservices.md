@@ -27,19 +27,23 @@ This course teaches how to build production-ready `microservices` in Go. It cove
 16 hours / 2 days
 
 ## Intended Audience
+
 * Go developers building backend services and APIs
 * Teams adopting `microservices` architecture with Go
 * Backend engineers moving from monolithic to distributed systems
 
 ## Prerequisites
+
 * Working knowledge of Go programming
 * Basic understanding of `HTTP` and `REST` concepts
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent container experience)
 * Introduction to `Kubernetes` (or equivalent `Kubernetes` experience)
 
 ## Objectives
+
 * Build `gRPC` and `REST API` services in Go
 * Containerize Go services with `Docker` and deploy to `Kubernetes`
 * Implement observability with structured logging, metrics, and tracing

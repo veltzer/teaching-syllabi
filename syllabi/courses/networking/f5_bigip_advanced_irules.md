@@ -45,18 +45,21 @@ iRules written during the course form a small library that students can take bac
 16 hours / 2 days
 
 ## Intended Audience
+
 * security infrastructure engineers who own `BIG-IP` as part of the perimeter and need to respond to threats with iRules
 * network engineers administering `BIG-IP` `LTM` who want to go beyond the built in profiles and policies
 * `DevOps` engineers and system administrators responsible for application delivery on `BIG-IP`
 * anyone who has inherited a set of iRules and has to understand, fix and improve them
 
 ## Prerequisites
+
 * hands on experience administering `BIG-IP` `LTM`: virtual servers, pools, nodes, monitors and profiles
 * solid understanding of `HTTP`: methods, headers, status codes, cookies and redirects
 * familiarity with `TCP/IP` and `SSL/TLS` termination on a load balancer
 * some scripting experience in any language is helpful. No prior knowledge of `Tcl` is required
 
 ## Objectives
+
 * understand where iRules run in the `BIG-IP` traffic flow and which events fire when
 * write correct `Tcl` code for iRules, including variables, operators, conditionals, loops and quoting rules
 * parse and transform numbers and strings using the `Tcl` and iRule string commands

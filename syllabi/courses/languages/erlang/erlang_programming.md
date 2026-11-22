@@ -27,16 +27,19 @@ This course gives developers a thorough grounding in `Erlang` syntax, the actor 
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers building distributed or highly concurrent backend systems
 * Software architects evaluating `Erlang` or Elixir for fault-tolerant infrastructure
 * Engineers coming from imperative backgrounds who want to understand the actor model
 
 ## Prerequisites
+
 * `Solid` programming experience in at least one other language such as `Java`, `Python`, `C++`, or Go
 * Basic understanding of concurrency concepts (threads, locks) is helpful but not required
 * Familiarity with functional programming concepts is an advantage
 
 ## Objectives
+
 * Understand `Erlang`'s philosophy of building for failure and letting processes crash
 * Write idiomatic `Erlang` code using pattern matching, guards, and recursion
 * Model concurrent systems using lightweight `Erlang` processes and message passing

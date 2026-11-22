@@ -31,15 +31,18 @@ IO advanced APIs
 16 hours / 2 days
 
 ## Intended Audience
+
 * Advanced `Linux` C/`C++` programmers who want to write high performance or low latency applications over `Linux`.
 * Seasoned `Linux` C/`C++` programmers who want a deep dive into advanced areas of the `Linux` `API`.
 
 ## Prerequisites
+
 * C programming
 * `Linux` systems programming
 * `Linux` real time programming
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` Advanced Topics
 * gain practical knowledge of the IO layer and it's lies.
 * gain practical knowledge of using the `CPU` to the max

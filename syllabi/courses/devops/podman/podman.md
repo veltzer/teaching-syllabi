@@ -24,20 +24,24 @@ This course covers Podman, a daemonless and rootless container engine for develo
 16 hours / 1 day
 
 ## Intended Audience
+
 * Developers working with containers in development and `CI/CD`
 * `DevOps` engineers evaluating alternatives to `Docker`
 * System administrators managing containerized workloads
 
 ## Prerequisites
+
 * Basic understanding of containers and container images.
 * Familiarity with `Linux` command line.
 * Experience with `Docker` is helpful but not required.
 
 ## Required Knowledge
+
 * `Docker` Fundamentals (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the Podman architecture and its differences from `Docker`.
 * Build container images using Containerfile/`Dockerfile`.
 * Run and manage containers and pods with Podman.

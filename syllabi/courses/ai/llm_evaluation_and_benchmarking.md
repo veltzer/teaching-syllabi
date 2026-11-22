@@ -39,18 +39,21 @@ the eval traps that have produced misleading public benchmark results.
 40 hours / 5 days
 
 ## Intended Audience
+
 * `ML` engineers and developers shipping `LLM`-powered features
 * engineers responsible for `LLM` quality in production
 * senior engineers introducing eval discipline on a team
 * architects evaluating models and prompts for procurement
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * working knowledge of `Python` (or comparable language)
 * basic familiarity with prompts, embeddings and `RAG`
 * exposure to traditional `ML` evaluation is helpful
 
 ## Objectives
+
 * describe the taxonomy of `LLM` evaluations and pick the right kind
 * build and maintain golden datasets and adversarial sets
 * calibrate `LLM`-as-judge against human raters

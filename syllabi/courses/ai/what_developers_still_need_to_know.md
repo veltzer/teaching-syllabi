@@ -45,17 +45,20 @@ ceremony of Agile in favor of tight, test-anchored iteration.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers who use `AI` assistants daily and want to use them safely rather than blindly.
 * Senior developers responsible for the quality of `AI`-generated code they review or merge.
 * Architects who must make design decisions that an `AI` will implement but cannot make.
 * Team leads deciding how to reshape their process now that most code is machine-drafted.
 
 ## Prerequisites
+
 * Real programming experience in at least one language (`Python`, `Java`, `C#`, C/`C++`, Go, `JavaScript` or similar).
 * Day-to-day experience using an `AI` coding assistant.
 * Familiarity with version control, testing and debugging.
 
 ## Objectives
+
 * Understand which parts of programming knowledge `AI` genuinely offloads and which it cannot.
 * Evaluate `AI` suggestions critically for correctness, performance, security and design fit.
 * Reason about algorithmic complexity, data structures, memory and concurrency well enough to catch machine mistakes.
@@ -64,6 +67,7 @@ ceremony of Agile in favor of tight, test-anchored iteration.
 * Reshape the development process around `AI`, including moving away from ceremony-heavy Agile.
 
 ## Exercises
+
 * Hands-on throughout, using the student's own `AI` assistant against real code, both reviewing machine output and building the tests and design constraints that keep it honest.
 
 ## Outline

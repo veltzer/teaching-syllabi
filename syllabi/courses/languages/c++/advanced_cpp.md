@@ -24,16 +24,19 @@ This course covers the most advanced features of modern `C++`, including `C++17`
 24 hours / 3 days
 
 ## Intended Audience
+
 * Experienced `C++` developers seeking mastery of modern language features
 * Embedded engineers working on performance-critical `C++` systems
 * Performance engineers optimizing `C++` codebases
 
 ## Prerequisites
+
 * Strong working knowledge of `C++11`/`C++14` features
 * Experience with templates and the `STL`
 * Familiarity with object-oriented and generic programming in `C++`
 
 ## Objectives
+
 * Master move semantics and perfect forwarding for optimal resource management
 * Write advanced template code using SFINAE, variadic templates, and fold expressions
 * Leverage `C++20` concepts to constrain templates with clear intent

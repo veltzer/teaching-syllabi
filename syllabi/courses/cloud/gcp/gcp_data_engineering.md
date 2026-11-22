@@ -33,18 +33,21 @@ Engineer certification path.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Data engineers building data pipelines on `GCP`
 * Software engineers transitioning to data engineering roles
 * Architects designing data platforms and analytics solutions
 * Data analysts who need to build production-grade data workflows
 
 ## Prerequisites
+
 * Proficiency in `SQL` and at least one programming language (`Python` or `Java`)
 * Basic understanding of distributed systems and data processing
 * Familiarity with `GCP` core services or equivalent cloud platform
 * Understanding of batch and stream processing concepts
 
 ## Objectives
+
 * Design and implement data processing pipelines using Dataflow and Dataproc
 * Build and optimize analytics solutions with `BigQuery`
 * Implement real-time streaming architectures with Pub/Sub

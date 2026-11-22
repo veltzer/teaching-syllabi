@@ -28,13 +28,16 @@ The weight is 2/3 `git` and 1/3 `Gerrit`.
 16 hours / 2 days
 
 ## Intended Audience
+
 * software developers
 * team leads and `DevOps` engineers managing source code
 
 ## Prerequisites
+
 * basic software development experience
 
 ## Objectives
+
 * understand the core concepts and principles of `Git`` and ``Gerrit`
 * gain practical knowledge of `git`
 * gain practical knowledge of `Gerrit`
@@ -54,6 +57,7 @@ The weight is 2/3 `git` and 1/3 `Gerrit`.
         * create a brand new commit with the fix.
 
 ## Installations
+
 * `Gerrit` server.
     * as VM?
     * as local `Linux`?

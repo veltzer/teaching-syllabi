@@ -24,19 +24,23 @@ This course provides an in-depth look at the `AWS` Cloud Development Kit (CDK), 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who want to define and manage `AWS` infrastructure using code.
 * `DevOps` engineers looking to adopt a programmatic approach to infrastructure provisioning.
 * Architects evaluating infrastructure-as-code solutions for their organizations.
 
 ## Prerequisites
+
 * Familiarity with software development concepts and practices.
 * Basic understanding of `cloud computing` principles.
 
 ## Required Knowledge
+
 * Introduction to `AWS`
 * `TypeScript` Programming or `Python` Programming
 
 ## Objectives
+
 * Understand the `AWS` CDK architecture and how it synthesizes `CloudFormation` templates.
 * Define cloud infrastructure using CDK constructs at various abstraction levels.
 * Organize infrastructure into stacks and manage multiple environments.

@@ -27,16 +27,20 @@ flaws in `bash` design to create well written, easy to maintain, reliable and de
 24 hours / 3 days
 
 ## Intended Audience
+
 * system administrators and `DevOps` engineers
 * developers who want to automate tasks using shell scripts
 
 ## Prerequisites
+
 * familiarity with the `Linux` command line
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Bash` scripting
 * gain practical knowledge of Theory
 * gain practical knowledge of How does the shell run things?

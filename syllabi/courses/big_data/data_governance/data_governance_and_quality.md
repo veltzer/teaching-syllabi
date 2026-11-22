@@ -27,16 +27,19 @@ data owners.
 16 hours / 2 days
 
 ## Intended Audience
+
 * data scientists responsible for data quality in analytical workflows
 * managers overseeing data strategy and compliance
 
 ## Prerequisites
+
 * Basic understanding of data management concepts (databases, data warehouses, data lakes)
 * Familiarity with `SQL`
 * Awareness of organizational data workflows
 * No programming experience required
 
 ## Objectives
+
 * **Establish a data governance program** with clear roles, policies, and organizational accountability
 * **Measure and improve data quality** across accuracy, completeness, consistency, and timeliness dimensions
 * **Implement data cataloging and metadata management** for data discovery and lineage tracking

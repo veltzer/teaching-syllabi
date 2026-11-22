@@ -41,6 +41,7 @@ program that keeps a fixed environment fixed.
 40 hours / 5 days
 
 ## Intended Audience
+
 * security engineers responsible for cloud security posture
 * `DevOps` and `SRE` engineers operating cloud infrastructure
 * developers writing `IaC` for production cloud workloads
@@ -48,12 +49,14 @@ program that keeps a fixed environment fixed.
 * architects evaluating `CSPM` tooling
 
 ## Prerequisites
+
 * working knowledge of at least one cloud platform
 * basic familiarity with `IaC` (`Terraform`, `CloudFormation`, `Pulumi`)
 * exposure to `IAM` and at least one cloud's identity model
 * exposure to the broader cloud-security material is helpful
 
 ## Objectives
+
 * enumerate the top cloud-misconfiguration classes
 * design `IAM` least privilege correctly across `AWS`, `GCP`, `Azure`
 * operate `CSPM` tooling effectively and prioritize findings

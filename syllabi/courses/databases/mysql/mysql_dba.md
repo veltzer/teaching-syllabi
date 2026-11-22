@@ -26,21 +26,25 @@ The course emphasizes real-world administration scenarios, including backup stra
 24 hours / 3 days
 
 ## Intended Audience
+
 * Database administrators managing `MySQL` instances
 * System administrators responsible for database infrastructure
 * `DevOps` engineers maintaining `MySQL` in production
 * Infrastructure engineers supporting database platforms
 
 ## Prerequisites
+
 * Basic `SQL` knowledge (SELECT, INSERT, UPDATE, DELETE)
 * Familiarity with `Linux` command line
 * Basic understanding of relational database concepts
 * Experience with server administration
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Install and upgrade `MySQL` server across environments
 * Manage users, roles, and privilege hierarchies
 * Implement robust backup and recovery strategies

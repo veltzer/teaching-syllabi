@@ -25,21 +25,25 @@ This advanced course is designed for engineers, `DevOps` professionals, and syst
 40 hours / 5 days
 
 ## Intended Audience
+
 * Engineers/`DevOps` professionals
 * System Administrators with strong Bash scripting experience
 * Graduates of Course 871 or equivalent
 
 ## Prerequisites
+
 * Proficient in Bash scripting
 * Strong knowledge of regular expressions
 * Experience with `Linux` command-line utilities
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
 
 Upon completion, delegates will be able to:
+
 * Write advanced Bash scripts using sophisticated techniques like arrays, parameter expansion, and process substitution
 * Implement robust error handling and debugging strategies in production scripts
 * Optimize script performance and avoid common pitfalls
@@ -49,6 +53,7 @@ Upon completion, delegates will be able to:
 * Develop enterprise-grade scripts suitable for production environments
 
 ## Exercises
+
 * Building a backup & restore automation tool
 * Creating a log monitoring and alerting system
 * Writing a deployment automation script
@@ -113,6 +118,7 @@ Upon completion, delegates will be able to:
     * Writing `CLI` tools with getopt/argparse
 
 ## References
+
 * [Bash Manual](https://www.gnu.org/software/bash/manual/)
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [`jq` Manual](https://stedolan.github.io/jq/manual/)

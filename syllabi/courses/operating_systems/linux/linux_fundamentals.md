@@ -35,6 +35,7 @@ usually better undertaken with the knowledge of this course already internalized
 24 hours / 3 days
 
 ## Intended Audience
+
 * people who are new to working with the `UNIX` operating system.
 * people who want to find their way around the command line.
 * programmers who are unfamiliar with the basics of `UNIX` or the command line.
@@ -42,9 +43,11 @@ usually better undertaken with the knowledge of this course already internalized
 * anyone interested in fundamentals of the `UNIX` operating system.
 
 ## Prerequisites
+
 * No special requirements for this course.
 
 ## Objectives
+
 * understand the core concepts and principles of `Linux`` fundamentals
 * gain practical knowledge of Introduction to ```UNIX``
 * gain practical knowledge of The basics

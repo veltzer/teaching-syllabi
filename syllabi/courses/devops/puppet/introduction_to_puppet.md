@@ -26,14 +26,17 @@ allows them to start working with it.
 16 hours / 1 day
 
 ## Intended Audience
+
 * System administrators and `Devops` engineers looking to adopt Puppet.
 
 ## Prerequisites
+
 * Experience in technology environments
 * `Devops` experience is a plus
 * System administration experience is a plus
 
 ## Objectives
+
 * Understand and use the Puppet development language
 * Create your own custom functions to be used within Puppet
 * Learn how to use Facter

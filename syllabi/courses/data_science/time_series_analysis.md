@@ -31,16 +31,20 @@ for `temporal` data round out the curriculum.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data scientists building forecasting and anomaly detection systems
 * Data analysts working with `temporal` and sequential data
 
 ## Prerequisites
+
 * Basic understanding of statistics (mean, variance, distributions, `hypothesis` testing)
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * **Understand time series components** including trend, seasonality, cyclical patterns, and noise
 * **Test and achieve stationarity** using statistical tests and transformation techniques
 * **Build forecasting models** using ARIMA, SARIMA, and exponential smoothing methods

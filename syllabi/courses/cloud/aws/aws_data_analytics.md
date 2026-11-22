@@ -24,16 +24,19 @@ This course provides a comprehensive guide to building and managing data analyti
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers building data-intensive applications on `AWS`.
 * Data engineers designing and maintaining analytics pipelines.
 * Architects planning enterprise data analytics strategies on `AWS`.
 
 ## Prerequisites
+
 * Working knowledge of `AWS` core services (`EC2`, `S3`, `VPC`, `IAM`).
 * Basic understanding of `SQL` and data concepts.
 * Familiarity with the `AWS` Management Console and `CLI`.
 
 ## Objectives
+
 * Design and implement a data lake architecture on `AWS` using `S3` and `Lake Formation`.
 * Build real-time and batch data ingestion pipelines with `Kinesis` and `Glue`.
 * Query and analyze data using Athena and `Redshift`.

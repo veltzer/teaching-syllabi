@@ -27,9 +27,11 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
 12 days / 96 hours
 
 ## Intended Audience
+
 * Programmers who wish to understand all the intricacies of interacting with modern hardware
 
 ## Prerequisites
+
 * C programming
 * Understanding real time concepts is an advantage
 * Familiarity with real time operating systems is an advantage.
@@ -37,9 +39,11 @@ devices. It goes through interrupts, ports, memory mapping, `DMA`, interrupt les
 * `C++` is an advantage
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Working with Hardware
 * gain practical knowledge of Basics of hardware design
 * gain practical knowledge of Reading data-sheets

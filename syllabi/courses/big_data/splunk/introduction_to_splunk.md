@@ -23,20 +23,24 @@ duration_hours: 16
 This course introduces `Splunk`, a powerful platform for operational intelligence and log management. Students will learn how to navigate the `Splunk` interface, run basic searches, understand search results, and create reports. The course covers stats, tags, event types, and dashboards.
 
 ## Duration
+
 * Short: 8 hours / 1 day
 * Long: 16 hours / 2 days
 
 ## Intended Audience
+
 * IT professionals new to log management
 * Developers wanting to learn `Splunk` basics
 * System administrators with no prior `Splunk` experience
 * `DevOps` engineers
 
 ## Prerequisites
+
 * Basic understanding of IT concepts
 * Familiarity with log files
 
 ## Objectives
+
 * Navigate the `Splunk` interface.
 * Utilize `Splunk` to run basic searches.
 * Identify the fundamentals of a `Splunk` search.

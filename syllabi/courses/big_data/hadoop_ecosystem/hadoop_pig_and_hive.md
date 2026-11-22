@@ -24,16 +24,19 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building `ETL` pipelines on `Hadoop`
 * Developers processing large datasets with Pig or Hive
 * Data scientists querying data warehouses on `HDFS`
 
 ## Prerequisites
+
 * Basic understanding of `Hadoop` and `HDFS`
 * Familiarity with `SQL`
 * Basic programming experience
 
 ## Objectives
+
 * Write data processing scripts in `Pig Latin`
 * Query and analyze data using HiveQL
 * Develop user-defined functions for both Pig and Hive

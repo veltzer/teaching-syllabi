@@ -27,17 +27,21 @@ Ajax-enabled applications and more.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Web based application developers with good knowledge of AJAX
 
 ## Prerequisites
+
 * Basic knowledge of `JavaScript` and `HTML`
 * Good knowledge of AJAX
 * Good knowledge of object-oriented programming in any programming language.
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of Dojo Framework
 * gain practical knowledge of Introduction
 * gain practical knowledge of How does Dojo work ?
@@ -113,6 +117,7 @@ Ajax-enabled applications and more.
     * how does Dojo fit in with Open Ajax
 
 ## Installations
+
 * Apache `tomcat` version 5 installed on students machines
   Mind you - `tomcat` is important and not just a web server since some applets
   will be supplied as part of the exercises so that students could practice

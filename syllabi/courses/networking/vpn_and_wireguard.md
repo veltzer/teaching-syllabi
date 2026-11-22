@@ -26,21 +26,25 @@ Virtual Private Networks are a cornerstone of secure remote access, site-to-site
 16 hours / 2 days
 
 ## Intended Audience
+
 * System administrators and `DevOps` engineers who need to deploy and operate `VPN` infrastructure for secure remote access or multi-site connectivity.
 * Network engineers evaluating and implementing `VPN` solutions for enterprise and cloud environments.
 * Security engineers assessing `VPN` architectures and ensuring cryptographic hygiene in network connectivity.
 
 ## Prerequisites
+
 * Strong understanding of `TCP/IP` networking: routing, subnetting, and `NAT`.
 * `Linux` system administration proficiency, including `iptables`/`nftables` and network interface management.
 * Basic understanding of public key cryptography and symmetric encryption.
 * Familiarity with `Docker` or `Kubernetes` is useful for the container networking sections.
 
 ## Required Knowledge
+
 * `TCP/IP` networking and routing fundamentals
 * `Linux` networking and system administration
 
 ## Objectives
+
 * Compare `VPN` technologies and select the appropriate solution for a given use case
 * Understand `IPSec` architecture including `IKEv2`, ESP, `AH`, and Security Associations
 * Configure `StrongSwan` or `Libreswan` for `IPSec`/`IKEv2` tunnels

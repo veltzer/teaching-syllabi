@@ -40,6 +40,7 @@ Please note that this is just a review course and we will not have to deal with 
 8 hours / 1 day
 
 ## Intended Audience
+
 * Embedded and systems developers working with C and `C++`
 * `Python` developers building backend or infrastructure services
 * `DevOps` and `CI/CD` engineers responsible for build pipeline security
@@ -47,11 +48,13 @@ Please note that this is just a review course and we will not have to deal with 
 * Developers working with hardware security and secure boot processes
 
 ## Prerequisites
+
 * Working knowledge of at least one of: C, `C++`, or `Python`
 * Basic familiarity with `Linux`
 * General understanding of software development workflows
 
 ## Objectives
+
 * Understand supply chain security risks and mitigations.
 * Design secure protocols using hardware-backed mechanisms.
 * Apply cryptography correctly across C, `C++`, and `Python`.

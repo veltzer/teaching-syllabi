@@ -22,18 +22,22 @@ This course teaches `C#` programming in the context of `Unity` game engine devel
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers looking to build games and interactive applications with `Unity`
 * `C#` programmers transitioning into game development
 * Software engineers exploring real-time 3D application development
 
 ## Prerequisites
+
 * Basic understanding of linear algebra concepts (vectors, matrices)
 * Familiarity with 2D/3D coordinate systems
 
 ## Required Knowledge
+
 * `C#` Programming
 
 ## Objectives
+
 * Navigate the `Unity` editor and understand the engine architecture
 * Write `C#` scripts using the MonoBehaviour lifecycle
 * Implement physics, input handling, and UI systems

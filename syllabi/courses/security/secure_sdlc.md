@@ -25,6 +25,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers building secure applications
 * Security engineers and application security professionals
 * Engineering managers leading development teams
@@ -33,6 +34,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Technical leaders defining development processes
 
 ## Prerequisites
+
 * Experience with software development in at least one programming language
 * Basic understanding of software development lifecycle models (Agile, Waterfall)
 * Familiarity with version control (`Git`) and `CI/CD` concepts
@@ -40,6 +42,7 @@ The Secure Software Development Lifecycle (Secure `SDLC`) integrates security pr
 * Understanding of web application architecture
 
 ## Objectives
+
 * Integrate security into every phase of the software development lifecycle
 * Gather and define security requirements alongside functional requirements
 * Apply threat modeling during the design phase

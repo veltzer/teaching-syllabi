@@ -22,6 +22,7 @@ audience:
 32 hours / 4 days
 
 ## Intended Audience
+
 * Database administrators and developers
 * Software developers working with data-driven applications
 * Data analysts and business intelligence professionals
@@ -30,6 +31,7 @@ audience:
 * Anyone working with relational databases in their daily tasks
 
 ## Prerequisites
+
 * Basic understanding of computer systems and file organization
 * Familiarity with basic mathematical and logical concepts
 * Understanding of data concepts (what is data, records, fields)
@@ -38,6 +40,7 @@ audience:
 * Access to a computer with database software installation capabilities
 
 ## Objectives
+
 * Write efficient `SQL` queries to retrieve, filter, and sort data from single and multiple tables
 * Design and implement database schemas with proper normalization and constraints
 * Perform data manipulation operations including INSERT, UPDATE, DELETE, and MERGE

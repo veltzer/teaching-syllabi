@@ -24,12 +24,14 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Frontend and full-stack developers building web applications
 * QA engineers and test automation specialists
 * Software developers adopting modern testing frameworks
 * Teams migrating from `Selenium` or other testing tools
 
 ## Prerequisites
+
 * Proficiency in `JavaScript` or `TypeScript`
 * Basic understanding of `HTML`, `CSS`, and the DOM
 * Familiarity with web application architecture
@@ -37,10 +39,12 @@ audience:
 * Understanding of `npm` or `yarn` package management
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand `Playwright` architecture and its multi-browser capabilities
 * Write reliable tests using locators, assertions, and actions
 * Use the test generator (codegen) to scaffold tests quickly

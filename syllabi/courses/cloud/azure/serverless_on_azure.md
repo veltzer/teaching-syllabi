@@ -26,20 +26,24 @@ security best practices, monitoring, `CI/CD`, and cost management for serverless
 24 hours / 3 days
 
 ## Intended Audience
+
 * developers building cloud-native applications on `Azure`.
 * developers looking to adopt serverless architecture patterns.
 * backend engineers seeking to reduce infrastructure management overhead.
 
 ## Prerequisites
+
 * basic understanding of `cloud computing` concepts.
 * experience with at least one programming language (`C#`, `JavaScript`, `Python`, or `Java`).
 * familiarity with the `Azure` portal is helpful.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand serverless architecture principles on `Azure`.
 * build and deploy applications using `Azure Functions` and `Logic Apps`.
 * integrate serverless workloads with `Azure` messaging and data services.

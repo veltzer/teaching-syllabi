@@ -25,15 +25,18 @@ This course is designed to provide new customers with the first steps towards op
 8 hours / 1 day
 
 ## Intended Audience
+
 * Users interested in learning the first steps towards optimizing Nexus Repository Manager
 
 ## Prerequisites
+
 * Knowledge about Software Development Life-cycle (`SDLC`)
 * Knowledge about modern `DevOps` practices
 * Knowledge about continuous integration and delivery
 * Knowledge about continuous integration and delivery
 
 ## Objectives
+
 * Learn the basic concepts of repository managers
 * Learn the basic concepts of Nexus as a repository manager
 * Learn the best practices of using Nexus

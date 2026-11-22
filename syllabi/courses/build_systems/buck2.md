@@ -23,15 +23,18 @@ Buck2 is a high-performance, large-scale build system developed by Meta. It is a
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers working with large or multi-language codebases
 * `DevOps` engineers managing build infrastructure
 * Teams considering a migration to Buck2 or monorepo workflows
 
 ## Prerequisites
+
 * Software development experience in at least one compiled language
 * Basic familiarity with build systems concepts
 
 ## Objectives
+
 * Understand Buck2's architecture and how it differs from other build systems
 * Write `BUCK` files and configure Buck2 projects
 * Create and use custom rules with Starlark

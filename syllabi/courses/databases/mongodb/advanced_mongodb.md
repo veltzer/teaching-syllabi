@@ -24,12 +24,14 @@ This advanced course is designed for developers and database professionals who a
 16 hours / 2 days
 
 ## Intended Audience
+
 * Experienced `MongoDB` developers seeking advanced skills
 * Database engineers optimizing `MongoDB` deployments
 * Backend developers building scalable distributed applications
 * Software architects designing data-intensive systems
 
 ## Prerequisites
+
 * Working experience with `MongoDB` `CRUD` operations
 * Familiarity with `MongoDB` document model and basic queries
 * Understanding of indexing fundamentals
@@ -37,6 +39,7 @@ This advanced course is designed for developers and database professionals who a
 * Basic knowledge of distributed systems concepts
 
 ## Objectives
+
 * Build complex data transformations using the aggregation framework
 * Design and manage sharded clusters for horizontal scaling
 * Implement real-time data processing with change streams

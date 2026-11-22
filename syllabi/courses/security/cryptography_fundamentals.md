@@ -23,6 +23,7 @@ Cryptography is the foundation of modern information security. This course provi
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers implementing security features
 * Security engineers and analysts
 * Backend developers working with authentication and encryption
@@ -30,6 +31,7 @@ Cryptography is the foundation of modern information security. This course provi
 * Anyone who needs to understand cryptography for their technical role
 
 ## Prerequisites
+
 * Proficiency in at least one programming language (`Python`, C, `Java`, or similar)
 * Basic understanding of computer science fundamentals (binary, data structures)
 * Familiarity with networking concepts (`TCP`/`IP`, `HTTP`/`HTTPS`)
@@ -37,9 +39,11 @@ Cryptography is the foundation of modern information security. This course provi
 * Comfort with command-line tools
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand core cryptographic concepts and terminology
 * Apply symmetric encryption algorithms (`AES`, ChaCha20) with appropriate modes
 * Understand and use asymmetric encryption (`RSA`, ECC, Diffie-Hellman)

@@ -23,21 +23,25 @@ This course provides a comprehensive exploration of Low-Power Wide-Area Network 
 16 hours / 2 days
 
 ## Intended Audience
+
 * Embedded developers building long-range, low-power IoT devices
 * IoT solution architects selecting communication technologies
 * Engineers deploying sensor networks and asset tracking systems
 * Developers working with `The Things Network` or similar LoRaWAN platforms
 
 ## Prerequisites
+
 * Basic understanding of wireless communication concepts
 * Familiarity with embedded development (microcontrollers, `GPIO`, serial interfaces)
 * Experience with at least one programming language (C, `C++`, `Python`, or Arduino)
 * General awareness of IoT concepts and use cases
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand LPWAN concepts and compare available technologies
 * Explain the `LoRa` physical layer including spread spectrum modulation and spreading factors
 * Design LoRaWAN networks with appropriate device classes, activation methods, and data rate strategies

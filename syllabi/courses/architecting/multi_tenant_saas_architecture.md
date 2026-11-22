@@ -38,18 +38,21 @@ refactor an existing single-tenant system into a viable multi-tenant product.
 40 hours / 5 days
 
 ## Intended Audience
+
 * architects designing or evolving multi-tenant `SaaS` products
 * senior developers responsible for tenancy-sensitive parts of the platform
 * engineering managers and tech leads on `SaaS` teams
 * engineers extracting a multi-tenant product out of a single-tenant codebase
 
 ## Prerequisites
+
 * `solid` web application development experience
 * familiarity with at least one cloud provider (`AWS`, `GCP`, `Azure`)
 * basic understanding of databases, identity, and `HTTP`
 * ideally some experience operating a production system
 
 ## Objectives
+
 * compare tenancy models and pick the right one for a given product and customer profile
 * design tenant identification and isolation at every layer of the stack
 * implement data isolation strategies and reason about their trade-offs

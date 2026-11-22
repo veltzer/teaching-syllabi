@@ -44,18 +44,21 @@ Participants leave able to control cardinality without losing the signal they ne
 16 hours / 2 days
 
 ## Intended Audience
+
 * senior developers writing instrumentation
 * `DevOps` engineers operating the metrics stack
 * `SREs` managing observability cost
 * performance engineers using metrics for analysis
 
 ## Prerequisites
+
 * working experience with at least one metrics system
 * exposure to the `Prometheus` Deep Dive course
 * familiarity with the `OpenTelemetry` Deep Dive course is helpful
 * basic understanding of time-series storage
 
 ## Objectives
+
 * explain what cardinality is and where it explodes
 * measure cardinality across the stack
 * set per-metric and per-team cardinality budgets

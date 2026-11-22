@@ -22,17 +22,21 @@ This course covers the design and development of Progressive Web Apps (PWA), whi
 16 hours / 2 days
 
 ## Intended Audience
+
 * Web developers looking to build installable, offline-capable web applications.
 * Front-end developers who want to deliver native-like experiences through the browser.
 
 ## Prerequisites
+
 * `Solid` web development experience.
 * Familiarity with modern `JavaScript` (`ES6`+) and asynchronous programming.
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals
 
 ## Objectives
+
 * Understand the principles and architecture of Progressive Web Apps.
 * Implement service workers for offline support and background processing.
 * Apply caching strategies appropriate to different application needs.

@@ -38,6 +38,7 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers writing applications that depend on secrets
 * `DevOps` and `SRE` engineers operating secret infrastructure
 * security engineers responsible for credential hygiene
@@ -45,12 +46,14 @@ The course is implementation-focused but vendor-neutral: the same patterns apply
 * engineers responding to a secret leak incident or building defenses against the next one
 
 ## Prerequisites
+
 * working knowledge of `Linux` and at least one cloud platform
 * basic familiarity with `Kubernetes` and containers
 * basic understanding of `TLS`, public key cryptography and `JWT`
 * some experience with at least one configuration system (`env` vars, config files)
 
 ## Objectives
+
 * enumerate the kinds of secrets a typical organization holds and the threats against them
 * design systems with the smallest possible secret surface area
 * operate Vault and equivalent secret stores

@@ -42,18 +42,21 @@ operate an update system that does not brick the fleet.
 24 hours / 3 days
 
 ## Intended Audience
+
 * embedded developers shipping connected products
 * firmware engineers designing the update path
 * `IoT` engineers operating a fleet
 * security engineers reviewing update mechanisms
 
 ## Prerequisites
+
 * working experience with at least one embedded platform
 * familiarity with `bootloaders` at a conceptual level
 * exposure to the `Embedded Systems Security` course is helpful
 * basic cryptography knowledge
 
 ## Objectives
+
 * design a boot architecture that supports safe update
 * implement signed firmware with anti-rollback
 * deploy a `delta`-update path for bandwidth-constrained fleets

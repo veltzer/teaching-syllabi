@@ -25,16 +25,19 @@ This course introduces mutation testing, a powerful technique for evaluating the
 8 hours / 1 day
 
 ## Intended Audience
+
 * Experienced developers who write tests and want to objectively measure their quality
 * QA engineers responsible for test effectiveness in mature codebases
 * Teams with high line coverage who still encounter production bugs
 
 ## Prerequisites
+
 * `Solid` experience writing unit tests in `Java` or `Python` (or both)
 * Familiarity with code coverage metrics and their limitations
 * Experience with Maven/`Gradle` (for `Java` sections) or pip/`pytest` (for `Python` sections)
 
 ## Objectives
+
 * Explain what mutation testing is and why line coverage alone is insufficient
 * Describe the most common mutation operators and the kinds of bugs they simulate
 * Run `PIT (Pitest)` against a `Java` project and interpret its `HTML` report

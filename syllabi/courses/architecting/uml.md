@@ -27,17 +27,20 @@ The course focuses on `UML` 2.x notation and conventions, modeling best practice
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers involved in system design
 * Software architects creating technical specifications
 * Team leads communicating design decisions
 * Analysts translating requirements into design models
 
 ## Prerequisites
+
 * Experience with software development
 * Basic understanding of object-oriented programming concepts
 * Familiarity with software development lifecycle
 
 ## Objectives
+
 * Understand the purpose and scope of `UML` in software development
 * Create and interpret use case diagrams for requirements modeling
 * Design class diagrams that accurately represent system structure

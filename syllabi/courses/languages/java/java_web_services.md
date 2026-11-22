@@ -27,14 +27,17 @@ practices for authentication, error handling, and `API` design including `HATEOA
 16 hours / 2 days
 
 ## Intended Audience
+
 * `Java` developers who need to build or consume `web services`.
 * Backend developers transitioning to service-oriented architectures.
 
 ## Prerequisites
+
 * `Solid` experience in `Java` programming.
 * Basic understanding of `HTTP` and web concepts.
 
 ## Objectives
+
 * Participants will gain the ability to
     * Build RESTful `web services` using JAX-RS.
     * Create and consume `SOAP` services with JAX-WS.

@@ -23,14 +23,17 @@ This course will provide a comprehensive introduction to game development using 
 24 hours / 3 days
 
 ## Intended Audience
+
 * aspiring game developers
 * software developers interested in game development
 
 ## Prerequisites
+
 * Basic computer literacy
 * No prior programming or game development experience required
 
 ## Objectives
+
 * Navigate the `Unity` interface and understand its key components
 * Utilize 3D modeling tools to create and import game assets
 * Write `C#` scripts to control game logic and behavior
@@ -85,6 +88,7 @@ This course will provide a comprehensive introduction to game development using 
     * Balancing gameplay and challenge
 
 ## Textbooks and Resources
+
 * `Unity` official documentation and tutorials
 * Online `C#` programming resources
 * Game design books and articles

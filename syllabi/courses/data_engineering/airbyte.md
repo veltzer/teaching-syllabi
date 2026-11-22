@@ -25,6 +25,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Data engineers building and maintaining data ingestion pipelines
 * Analytics engineers managing data warehouse ingestion and transformation workflows
 * Platform engineers deploying and operating `Airbyte` in production
@@ -32,6 +33,7 @@ audience:
 * Engineers migrating from traditional `ETL` tools to modern open-source alternatives
 
 ## Prerequisites
+
 * Familiarity with `ELT`/`ETL` concepts and data pipeline fundamentals
 * Basic knowledge of `SQL` and relational data modelling
 * Experience with `Python` programming for custom connector development
@@ -39,10 +41,12 @@ audience:
 * Familiarity with cloud data warehouses such as Snowflake, `BigQuery`, or `Redshift`
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Docker` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the `ELT` paradigm and how `Airbyte` fits into the modern data stack
 * Describe `Airbyte` architecture and its core components
 * Deploy `Airbyte` locally and in cloud environments

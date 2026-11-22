@@ -27,18 +27,21 @@ This course provides a focused introduction to performance testing, covering loa
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers responsible for application performance
 * QA engineers and test automation specialists
 * `DevOps` and SRE engineers
 * Performance engineers and architects
 
 ## Prerequisites
+
 * Basic software development experience in at least one programming language
 * Understanding of `HTTP` protocol and web application architecture
 * Familiarity with command-line tools
 * Basic understanding of monitoring concepts
 
 ## Objectives
+
 * Understand performance testing types: load, stress, endurance, spike, and scalability
 * Design performance test plans with meaningful metrics and acceptance criteria
 * Write and execute load tests using `k6`, Locust, and `Gatling`

@@ -48,6 +48,7 @@ chat front and the tool-based backend behind it, how to keep a model that acts o
 users inside its permissions, and the honest list of cases where the old interface still wins.
 
 ## Agenda
+
 * **The Provocation** (10 min): The graphical interface as a forty-year workaround; every menu is a question the user was forced to answer in the designer's vocabulary.
 * **Why Intent Beats Navigation** (15 min): No learning curve, no discovery problem, one sentence instead of nine screens; what this does for occasional users, accessibility, and support load.
 * **Anatomy of a Chat-First Product** (15 min): The conversation loop, the model, the tool layer, and the systems of record; what replaces the page, the route, and the form.
@@ -59,6 +60,7 @@ users inside its permissions, and the honest list of cases where the old interfa
 * **Debate and Q&A** (10 min): An open challenge to the audience - defend the screen you would never give up.
 
 ## Takeaways
+
 * A clear argument for when a conversational interface is simpler for users than a site, and when it is not
 * A reference architecture for a chat-first product: conversation loop, model, tools, and systems of record
 * Practical rules for designing backend tools that an `LLM` can use correctly
@@ -66,6 +68,7 @@ users inside its permissions, and the honest list of cases where the old interfa
 * An incremental path from an existing site to a conversational one
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

@@ -38,17 +38,20 @@ documentation critically, debug production performance issues from first princip
 40 hours / 5 days
 
 ## Intended Audience
+
 * senior developers who depend on databases and want to understand them
 * `DBAs` who want a deeper theoretical foundation under their day-to-day operational work
 * architects choosing between database technologies for new systems
 * engineers who are debugging production database performance issues
 
 ## Prerequisites
+
 * `solid` `SQL` and at least basic exposure to one relational and one `NoSQL` database
 * basic operating systems literacy (files, page cache, memory hierarchy)
 * basic understanding of data structures (`B-tree`, hash table, tree)
 
 ## Objectives
+
 * explain the path of a query through a database from socket to result
 * compare storage engine families and their performance trade-offs
 * reason about transaction isolation, anomalies and `MVCC`

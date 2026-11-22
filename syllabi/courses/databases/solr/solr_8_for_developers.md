@@ -26,17 +26,20 @@ are, how they work, how Solr works and how to use Solr effectively in a producti
 24 hours / 3 days
 
 ## Intended Audience
+
 * Database engineers migrating from RDBMS systems or other free text search databases (elastic search) who would like to learn about Solr.
 * Developers who would like to learn how Solr works, how to interact with it and how to use it effectively.
 * Team leaders or managers who would like to learn what Solr can do for them and their product.
 * `Devops` people who would like to learn how to manage Solr installations in production.
 
 ## Prerequisites
+
 * This is a course for tech professional so tech affinity is a must
 * You don't have to have experience in other database systems but it is a plus
 * You don't have to have development experience but it is a plus
 
 ## Objectives
+
 * Bring up Solr clusters
 * Manage them effectively
 * Insert data both datum by datum and in bulk into Solr

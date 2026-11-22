@@ -42,18 +42,21 @@ strangler migration.
 24 hours / 3 days
 
 ## Intended Audience
+
 * architects leading a system migration
 * senior developers writing the strangler routing layer
 * team leads accountable for the migration finishing
 * developers working on either side of a strangler-in-progress
 
 ## Prerequisites
+
 * working experience on a legacy system
 * exposure to the Legacy Modernization course is helpful
 * familiarity with at least one routing or proxy technology
 * basic understanding of database replication
 
 ## Objectives
+
 * design a strangler migration end-to-end
 * build the routing layer correctly
 * synchronize data between old and new systems

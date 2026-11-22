@@ -27,18 +27,22 @@ to `FreeRTOS` and teaches how write effective software for this OS kernel.
 80 hours / 10 days
 
 ## Intended Audience
+
 * Developers who wish to learn the features of `FreeRTOS`
 * Developers who want to write efficient code for `FreeRTOS`
 
 ## Prerequisites
+
 * C programming (`C++` an advantage)
 * Knowledge of other operating systems (`Linux`, `Windows`, ...) is an advantage.
 * Knowledge of other real time systems (`Linux`, ...) is an advantage.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of `FreeRTOS`` intro
 * gain practical knowledge of Demo projects
 * gain practical knowledge of Coding standard

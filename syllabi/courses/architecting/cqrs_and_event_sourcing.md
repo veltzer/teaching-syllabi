@@ -24,6 +24,7 @@ audience:
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software architects designing scalable and auditable systems
 * Senior developers working on complex domain models and distributed systems
 * Technical leads evaluating `CQRS` and `Event Sourcing` for their projects
@@ -31,6 +32,7 @@ audience:
 * Backend developers working with `DDD` and `microservices`
 
 ## Prerequisites
+
 * Strong understanding of software architecture fundamentals
 * Familiarity with `Domain-Driven Design` concepts (aggregates, entities, value objects)
 * Experience with at least one backend programming language (e.g., `Java`, `C#`, `Python`, Go)
@@ -38,10 +40,12 @@ audience:
 * Familiarity with messaging systems and asynchronous communication patterns
 
 ## Required Knowledge
+
 * `Domain-Driven Design` Fundamentals (or equivalent experience)
 * Software Architecture Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the motivation and trade-offs behind `CQRS` and `Event Sourcing`
 * Design and implement command handlers and aggregate roots in a `CQRS` system
 * Build read models and projections that serve query-side requirements

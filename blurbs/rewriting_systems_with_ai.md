@@ -45,6 +45,7 @@ architecture, and web architecture when agents write most of the code, how to mo
 without losing it, and how to cut over without betting the company on a single weekend.
 
 ## Agenda
+
 * **Why the Rewrite Is Back on the Table** (10 min): What `AI` agents make cheap, what stays expensive, and how to tell a system worth rewriting from one worth leaving alone.
 * **Recovering What the Old System Does** (15 min): Using agents to read legacy code, extract business rules, and turn undocumented behavior into a specification and a test suite.
 * **Choosing the New Language** (15 min): Agent proficiency, compile-time verification, and ease of review as selection criteria; one language or several across the new system.
@@ -55,12 +56,14 @@ without losing it, and how to cut over without betting the company on a single w
 * **Key Takeaways and Q&A** (10 min): A checklist for deciding on, planning, and running an `AI`-assisted rewrite.
 
 ## Takeaways
+
 * A realistic picture of what `AI` agents change about system rewrites and what they leave as hard as ever
 * Criteria for choosing the language, database architecture, and web architecture of the replacement system
 * A practical approach to data migration that can be rehearsed, verified, and repeated
 * A cut-over strategy that proves the new system against the old one before the business depends on it
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

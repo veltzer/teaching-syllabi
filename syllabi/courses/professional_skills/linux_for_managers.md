@@ -25,16 +25,19 @@ The course covers the broader context of `Linux` in `cloud computing`, container
 16 hours / 1 day
 
 ## Intended Audience
+
 * Engineering managers overseeing teams that use `Linux`
 * Team leads evaluating technology platforms
 * Project managers involved in infrastructure decisions
 * Non-technical managers seeking `Linux` literacy
 
 ## Prerequisites
+
 * General understanding of IT infrastructure concepts
 * No `Linux` or programming experience required
 
 ## Objectives
+
 * Understand what `Linux` is and its place in the technology landscape
 * Navigate the open source ecosystem and community dynamics
 * Evaluate `Linux` distributions for enterprise use

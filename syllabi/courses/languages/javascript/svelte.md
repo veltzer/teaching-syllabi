@@ -22,6 +22,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 24 hours / 3 days
 
 ## Intended Audience
+
 * Front-end developers looking to adopt a modern, compiler-based framework
 * React or Vue developers exploring alternative approaches to reactivity
 * Full-stack developers building server-rendered web applications
@@ -29,6 +30,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 * Web developers interested in performance-optimized applications
 
 ## Prerequisites
+
 * `Solid` understanding of `HTML`, `CSS`, and modern `JavaScript` (`ES6`+)
 * Familiarity with component-based architecture concepts
 * Basic knowledge of `Node.js` and `npm`/pnpm package management
@@ -37,6 +39,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 * Basic familiarity with `TypeScript` syntax
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * React (or equivalent experience)
 * Angular (or equivalent experience)
@@ -44,6 +47,7 @@ Svelte is a modern front-end framework that shifts work from the browser to the 
 * `Node.js` Backend Development (or equivalent experience)
 
 ## Objectives
+
 * Build reactive user interfaces using Svelte components and template syntax
 * Implement state management with Svelte stores and reactive declarations
 * Create smooth transitions, animations, and motion effects

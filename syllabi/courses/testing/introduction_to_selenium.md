@@ -30,6 +30,7 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
 16 hours / 2 days
 
 ## Intended Audience
+
 * Testers who have not worked with `Selenium` and want to expand their skills.
 * Beginners who wish to enter the IT world as test authors for `Selenium`.
 * Generalist developers who would like to expand their skill set.
@@ -37,15 +38,18 @@ The Introduction to `Selenium` course begins with an exploration of web testing,
 * Anyone with tech affinity who would like to get to know `Selenium` for whatever reason.
 
 ## Prerequisites
+
 * Tech affinity is a must.
 * Knowledge in `HTML`, `CSS`, `JavaScript`, `Python` is an advantage.
 * Previous experience in testing is an advantage.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Describe why and when to use `Selenium` for testing vs. other testing tools.
 * Install and setup basics `Selenium` tests.
 * Use Web Driver with `Selenium` to create and run unit tests.

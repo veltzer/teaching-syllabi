@@ -33,18 +33,22 @@ and performance tuning.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Software developers and `DevOps` engineers working with `Kubernetes` and `microservices` architectures.
 * Teams looking to adopt a service mesh for traffic management, security, and observability.
 
 ## Prerequisites
+
 * `Solid` understanding of `Kubernetes` concepts (pods, services, deployments, namespaces).
 * Experience deploying and managing applications on `Kubernetes`.
 * Familiarity with basic networking concepts (`HTTP`, `TCP`, `DNS`, `TLS`).
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes` (or equivalent experience)
 
 ## Objectives
+
 * Understand service mesh concepts and why they are needed.
 * Install and configure `Istio` on a `Kubernetes` cluster.
 * Implement advanced traffic management policies.

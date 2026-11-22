@@ -43,6 +43,7 @@ that can be talked into misbehaving, how to see what it is doing, and how to kee
 affordable, and stable as models and prompts change.
 
 ## Agenda
+
 * **Why Production Is Different** (10 min): Non-determinism, silent failures, and external dependencies; why the practices that work for ordinary services are necessary but not sufficient.
 * **Choosing and Integrating Models** (15 min): Hosted versus self-hosted models, when retrieval-augmented generation (`RAG`) or agents are justified, and keeping the application independent of a single provider.
 * **Evaluation Before and After Release** (20 min): Building evaluation sets from real cases, automated and human grading, regression gates in the release pipeline, and measuring quality on live traffic.
@@ -53,12 +54,14 @@ affordable, and stable as models and prompts change.
 * **Key Takeaways and Q&A** (10 min): A production-readiness checklist for teams about to ship an `AI` feature.
 
 ## Takeaways
+
 * A clear understanding of how `AI` components fail in production and why those failures are easy to miss
 * A practical approach to evaluation, guardrails, and observability for `LLM`-powered features
 * Concrete techniques for controlling cost, latency, and the risk of model and prompt changes
 * A production-readiness checklist to apply before the next `AI` release
 
 ## Who Should Attend
+
 * Engineering managers
 * Tech leads
 * Software architects

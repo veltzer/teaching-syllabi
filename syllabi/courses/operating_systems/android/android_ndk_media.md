@@ -26,14 +26,17 @@ This course covers media programming at the native layer of the `Android` platfo
 16 hours / 2 days
 
 ## Intended Audience
+
 * mobile application developers
 * software engineers interested in `Android` development
 
 ## Prerequisites
+
 * `Android` familiarity
 * `NDK` familiarity
 
 ## Objectives
+
 * understand the core concepts and principles of `Android`` Media at the Native layer
 * gain practical knowledge of `Android`` Audio
 * gain practical knowledge of AudioFlinger
@@ -67,6 +70,7 @@ This course covers media programming at the native layer of the `Android` platfo
     * Examples
 
 ## References
+
 * [Audio Streaming](http://audioprograming.wordpress.com/2012/03/03/android-audio-streaming-with-opensl-es-and-the-ndk/)
 * [OpenSL](http://www.slideshare.net/DSPIP/android-audio-opensl)
 

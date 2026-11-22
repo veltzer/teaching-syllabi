@@ -34,21 +34,25 @@ pipelines.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data scientists who want to move beyond default feature representations and build higher-quality `ML` models.
 * `ML` engineers responsible for building reliable, reusable feature pipelines for production systems.
 * Data engineers designing data platforms that serve features to downstream `ML` workloads.
 
 ## Prerequisites
+
 * `Solid` `Python` programming skills.
 * Working knowledge of `pandas` and `numpy`.
 * Familiarity with supervised `machine learning` concepts such as cross-validation and model evaluation.
 * Basic `SQL` skills are beneficial.
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `Machine Learning` fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Apply systematic strategies for diagnosing and handling missing data.
 * Encode categorical variables using techniques matched to their cardinality and distribution.
 * Apply numerical transformations including scaling, binning, and power transforms.

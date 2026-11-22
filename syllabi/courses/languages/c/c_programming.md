@@ -23,13 +23,16 @@ C is and has been for years the world's best language for low level, systems and
 32 hours / 4 days
 
 ## Intended Audience
+
 * C programmers
 * embedded and systems software developers
 
 ## Prerequisites
+
 * basic programming experience in any language
 
 ## Objectives
+
 * understand the core concepts and principles of C Programming
 * gain practical knowledge of Introduction to C
 * gain practical knowledge of Basic Syntax and Data Types

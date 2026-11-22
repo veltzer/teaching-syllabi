@@ -26,16 +26,19 @@ This intensive course covers essential `Linux` system administration concepts an
 40 hours / 5 days
 
 ## Intended Audience
+
 * System administrators who need to manage `Linux` systems in production environments
 * `DevOps` engineers who need `solid` `Linux` administration skills
 * IT professionals transitioning to `Linux`-based infrastructure
 
 ## Prerequisites
+
 * Basic `Linux` command line experience
 * Familiarity with basic text editors (`vim`/`nano`)
 * Understanding of basic networking concepts
 
 ## Objectives
+
 * Manage `Linux` system architecture, boot process, and package management
 * Configure and maintain storage, filesystems, and backup solutions
 * Implement user management, access controls, and system hardening
@@ -43,6 +46,7 @@ This intensive course covers essential `Linux` system administration concepts an
 * Monitor system performance, troubleshoot issues, and plan disaster recovery
 
 ## Exercises
+
 * Done on `Ubuntu` 24.04 machines, real or virtual.
 
 ## Outline

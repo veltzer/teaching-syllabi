@@ -46,18 +46,21 @@ without reaching for a Stack Overflow snippet.
 32 hours / 4 days
 
 ## Intended Audience
+
 * security engineers reviewing cryptographic designs
 * senior developers shipping cryptographic features
 * architects designing systems with strong-confidentiality requirements
 * developers handling personal or financial data
 
 ## Prerequisites
+
 * exposure to the Cryptography Fundamentals course
 * working experience in at least one general-purpose language
 * familiarity with the Secrets Management course
 * basic understanding of `TLS` and `PKI`
 
 ## Objectives
+
 * pick the right cryptographic primitive for a given problem
 * use a high-level library safely
 * design a key-management plan with rotation

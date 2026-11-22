@@ -24,20 +24,24 @@ This two day advanced course equips engineers with the skills to diagnose and re
 16 hours / 2 days
 
 ## Intended Audience
+
 * `DevOps` engineers managing `Kubernetes` clusters
 * Site reliability engineers responsible for cluster uptime
 * Platform engineers building internal developer platforms on `Kubernetes`
 
 ## Prerequisites
+
 * Working knowledge of `Kubernetes` concepts (pods, deployments, services, namespaces)
 * Experience deploying applications on `Kubernetes`
 * Familiarity with `Linux` command-line tools
 * Basic understanding of container networking
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Develop a systematic methodology for troubleshooting `Kubernetes` workloads.
 * Diagnose and resolve pod-level failures including CrashLoopBackOff and image pull errors.
 * Identify and fix networking and `DNS` issues within a cluster.

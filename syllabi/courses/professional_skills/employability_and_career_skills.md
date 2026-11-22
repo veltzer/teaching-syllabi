@@ -30,16 +30,19 @@ with confidence.
 32 hours / 4 days
 
 ## Intended Audience
+
 * Developers looking to strengthen their professional presence and career trajectory.
 * `DevOps` engineers who want to improve collaboration and communication skills.
 * Testers seeking to advance their careers and present their skills effectively.
 * System administrators aiming to build their professional brand and networking capabilities.
 
 ## Prerequisites
+
 * No specific technical prerequisites are required.
 * Some experience working in a technology-related role is an advantage.
 
 ## Objectives
+
 * Develop strong professional communication skills for technical environments.
 * Build a compelling digital presence and personal portfolio.
 * Create effective resumes and cover letters tailored to tech positions.

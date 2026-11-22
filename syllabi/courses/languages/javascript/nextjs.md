@@ -23,6 +23,7 @@ This course provides a thorough guide to building modern web applications with N
 24 hours / 3 days
 
 ## Intended Audience
+
 * React developers looking to build full-stack, production-grade applications
 * Frontend developers who want to leverage server-side rendering and static generation
 * Full-stack `JavaScript` or `TypeScript` developers building modern web platforms
@@ -30,6 +31,7 @@ This course provides a thorough guide to building modern web applications with N
 * Backend developers looking to understand modern frontend deployment patterns
 
 ## Prerequisites
+
 * `Solid` understanding of React fundamentals (components, hooks, state, props)
 * Proficiency in `JavaScript` (`ES6`+) and basic `TypeScript` knowledge
 * Familiarity with `npm` or `yarn` package managers
@@ -38,11 +40,13 @@ This course provides a thorough guide to building modern web applications with N
 * Experience with command-line tools and `Git`
 
 ## Required Knowledge
+
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 * React (or equivalent experience)
 * `TypeScript` Programming (or equivalent experience)
 
 ## Objectives
+
 * Understand the Next.js App Router architecture and React Server Components
 * Implement file-based, dynamic, parallel, and intercepting routes
 * Apply rendering strategies including SSR, SSG, ISR, and streaming

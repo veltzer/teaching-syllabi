@@ -24,16 +24,19 @@ This course provides an in-depth exploration of networking in `Microsoft Azure`.
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers building networked applications on `Azure`
 * System administrators managing `Azure` network infrastructure
 * Architects designing enterprise network topologies on `Azure`
 
 ## Prerequisites
+
 * Basic understanding of `Azure` services and the `Azure` portal
 * `Solid` understanding of networking fundamentals (OSI model, `TCP`/`IP`, `DNS`, routing)
 * Familiarity with on-premises networking concepts (firewalls, VPNs, load balancers)
 
 ## Objectives
+
 * Design and implement `Azure` virtual networks with proper segmentation
 * Configure network security using `NSGs`, `Azure Firewall`, and `Application Security Groups`
 * Implement load balancing and traffic distribution solutions

@@ -42,17 +42,20 @@ do it well.
 24 hours / 3 days
 
 ## Intended Audience
+
 * senior developers considering the staff path
 * tech leads at the boundary of staff
 * current staff engineers who want a more deliberate practice
 * engineering managers who work with or develop staff engineers
 
 ## Prerequisites
+
 * several years of senior engineering experience
 * experience leading at least one substantial technical project
 * familiarity with the Technical Leadership course is helpful
 
 ## Objectives
+
 * recognize the four canonical staff archetypes and pick the fit
 * design and run a technical-strategy effort
 * write at the staff level

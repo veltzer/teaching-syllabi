@@ -22,16 +22,19 @@ This course provides a thorough exploration of `Apache Maven` as the standard bu
 16 hours / 1 day
 
 ## Intended Audience
+
 * `Java` developers who want to master Maven for project builds and dependency management
 * `DevOps` engineers responsible for `Java` build pipelines
 * Team leads standardizing build processes across `Java` projects
 
 ## Prerequisites
+
 * Working knowledge of `Java` programming
 * Basic familiarity with the command line
 * Understanding of software project structure and compilation concepts
 
 ## Objectives
+
 * Understand the Maven `POM` structure and project object model
 * Master Maven lifecycle phases and how they orchestrate builds
 * Manage dependencies effectively using repositories, scopes, and BOMs

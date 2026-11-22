@@ -25,16 +25,19 @@ This course covers the principles and practices of Test-Driven Development (`TDD
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers looking to adopt `TDD` practices
 * QA engineers and test automation specialists
 * Team leads and architects aiming to improve code quality
 
 ## Prerequisites
+
 * `Solid` experience in at least one programming language
 * Basic understanding of unit testing concepts
 * Familiarity with a testing framework (e.g., `JUnit`, `pytest`, Jest)
 
 ## Objectives
+
 * Understand the philosophy and benefits of Test-Driven Development
 * Apply the red-green-refactor cycle effectively
 * Use test doubles including mocks, stubs, fakes, and spies

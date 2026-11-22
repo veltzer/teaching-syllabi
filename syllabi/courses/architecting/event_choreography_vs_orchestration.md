@@ -41,18 +41,21 @@ the `data` pipeline flow. Participants leave able to `make` the decision for the
 16 hours / 2 days
 
 ## Intended Audience
+
 * architects designing service-to-service workflows
 * senior developers building distributed transactions
 * developers writing the next workflow in a `microservices` system
 * team leads picking the workflow technology
 
 ## Prerequisites
+
 * exposure to the `Event-Driven Architecture` course
 * exposure to the `Saga Pattern` course
 * working experience with at least one message system
 * familiarity with `microservices` concepts
 
 ## Objectives
+
 * recognize choreography vs orchestration in existing systems
 * design a workflow in either style and explain why
 * pick the right technology for the chosen style

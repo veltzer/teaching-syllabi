@@ -34,6 +34,7 @@ security research on the `Windows` platform.
 40 hours / 5 days
 
 ## Intended Audience
+
 * Developers writing system-level or performance-sensitive software on `Windows`.
 * Engineers who need to debug complex application or system problems on `Windows`.
 * Security engineers and researchers who need to understand how `Windows` works under the hood.
@@ -41,17 +42,20 @@ security research on the `Windows` platform.
 * Device driver developers who want a solid understanding of the kernel they are working in.
 
 ## Prerequisites
+
 * Solid experience using `Windows`.
 * Programming experience in a compiled language such as C, `C++`, Rust or `C#`.
 * Basic understanding of general operating system concepts (processes, memory, files) is an advantage.
 
 ## Objectives
+
 * understand the core architecture of the `Windows` operating system
 * gain practical knowledge of process, `thread` and memory internals
 * gain practical knowledge of the `I/O` system, the registry and the security subsystem
 * gain practical knowledge of investigating a live system with `Sysinternals` tools and `WinDbg`
 
 ## Exercises
+
 * Done with the `Sysinternals` suite and `WinDbg` on a `Windows` virtual machine.
 
 ## Outline

@@ -24,14 +24,17 @@ This course is about how to design the internals of a Real Time system correctly
 2 days / 16 hours
 
 ## Intended Audience
+
 * Software architects that do real time system designs
 * C and `C++` programmers who would like to design real time systems
 
 ## Prerequisites
+
 * C programming
 * Embedded programming is an advantage
 
 ## Objectives
+
 * understand the core concepts and principles of Real Time `Design Patterns`
 * gain practical knowledge of Introduction to Real-Time Systems and `Design Patterns`
 * gain practical knowledge of Concurrency Patterns
@@ -76,6 +79,7 @@ This course is about how to design the internals of a Real Time system correctly
     * Recovery Block Pattern
 
 ## References
+
 * [Bruce Powel Douglass, Ph.D, Real-Time `Design Patterns`](http://www.uml.org.cn/UMLApplication/pdf/rtpatterns.pdf)
 
 ## Copyright

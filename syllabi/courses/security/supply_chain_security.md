@@ -26,11 +26,13 @@ Software supply chain attacks have become one of the most significant threats fa
 16 hours / 2 days
 
 ## Intended Audience
+
 * Software developers concerned with open-source dependency risk and build integrity
 * `DevOps` and platform engineers responsible for `CI/CD` pipeline security
 * Security engineers assessing and hardening software delivery pipelines
 
 ## Prerequisites
+
 * Hands-on experience with `CI/CD` platforms (`GitHub Actions`, `GitLab CI`, `Jenkins`, or similar)
 * Familiarity with `Docker` and container image builds
 * Basic understanding of `Git` workflows and version control concepts
@@ -38,6 +40,7 @@ Software supply chain attacks have become one of the most significant threats fa
 * Awareness of common supply chain attack patterns is helpful but not required
 
 ## Objectives
+
 * Identify the major categories of software supply chain threats and historical attack vectors
 * Apply the `SLSA` framework to evaluate and improve build provenance and integrity levels
 * Generate, validate, and consume `SBOM`s in `SPDX` and `CycloneDX` formats

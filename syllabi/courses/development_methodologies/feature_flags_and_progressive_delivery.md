@@ -38,6 +38,7 @@ the operational and code-quality traps that have ended other teams' attempts.
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers introducing feature flags into their codebases
 * tech leads and architects designing a flag strategy across teams
 * `DevOps` engineers running rollout and experimentation infrastructure
@@ -45,11 +46,13 @@ the operational and code-quality traps that have ended other teams' attempts.
 * engineers responsible for incident-time mitigation tooling
 
 ## Prerequisites
+
 * working knowledge of at least one mainstream programming language
 * basic familiarity with `CI`/`CD` and deployment workflows
 * some experience with web or service development
 
 ## Objectives
+
 * describe the spectrum of feature flag types and use cases
 * introduce feature flags into a codebase without making it harder to read
 * design rollout strategies appropriate to the risk profile of a change

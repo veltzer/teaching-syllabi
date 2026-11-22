@@ -30,20 +30,24 @@ container-based environments.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers who want to containerize their applications.
 * System administrators looking to adopt container technology in their infrastructure.
 * `DevOps` engineers who need to integrate `Docker` into their `CI/CD` pipelines.
 * Anyone interested in understanding modern containerization concepts and practices.
 
 ## Prerequisites
+
 * Basic familiarity with the `Linux` command line.
 * Understanding of basic networking concepts (`IP` addresses, ports, `DNS`).
 * Some experience with application development in any language.
 
 ## Required Knowledge
+
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand the core concepts of containerization and how `Docker` works
 * Build and manage `Docker` images using `Dockerfile`
 * Run, inspect, and troubleshoot `Docker` containers

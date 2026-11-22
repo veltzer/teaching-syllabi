@@ -41,17 +41,20 @@ will respect and the business will trust.
 16 hours / 2 days
 
 ## Intended Audience
+
 * `SRE` and platform engineers introducing or fixing `SLOs`
 * tech leads owning service reliability
 * senior developers operating production services
 * engineering managers with reliability `KPIs`
 
 ## Prerequisites
+
 * working experience operating a production service
 * familiarity with at least one observability stack
 * exposure to the Site Reliability Engineering course is helpful
 
 ## Objectives
+
 * design good `SLIs` for request-response, batch, and streaming systems
 * set `SLOs` at the right number for the right reason
 * implement multi-window multi-burn-rate alerting

@@ -25,6 +25,7 @@ Relational database design is the foundation of effective data management and ap
 8 hours / 1 day
 
 ## Intended Audience
+
 * Database administrators and developers
 * Software architects and system designers
 * Data analysts and business intelligence professionals
@@ -33,6 +34,7 @@ Relational database design is the foundation of effective data management and ap
 * Anyone responsible for data modeling and database structure decisions
 
 ## Prerequisites
+
 * Basic understanding of relational database concepts
 * Familiarity with tables, rows, columns, and basic `SQL` queries
 * Understanding of business process analysis
@@ -42,11 +44,13 @@ Relational database design is the foundation of effective data management and ap
 * Access to database design tools or drawing software
 
 ## Required Knowledge
+
 * `SQL` (or equivalent experience)
 * `PostgreSQL` for Developers (or equivalent experience)
 * `MySQL` for Developers (or equivalent experience)
 
 ## Objectives
+
 * Apply fundamental database design principles and concepts
 * Create comprehensive `Entity-Relationship Diagrams` (ERDs) for complex business requirements
 * Implement proper normalization techniques through 1NF, 2NF, 3NF, and BCNF

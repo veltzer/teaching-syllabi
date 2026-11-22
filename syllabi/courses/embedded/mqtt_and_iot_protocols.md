@@ -28,19 +28,23 @@ computing patterns.
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers building IoT solutions and connected device systems.
 * Embedded engineers who need to integrate devices with cloud platforms.
 * Backend developers designing message-driven IoT architectures.
 
 ## Prerequisites
+
 * Basic networking knowledge (`TCP`/`IP`, `HTTP`).
 * Familiarity with at least one programming language (`Python`, C, `JavaScript`, or similar).
 
 ## Required Knowledge
+
 * `Python` Programming (or equivalent experience)
 * `HTML` `CSS` `JavaScript` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * understand the core concepts and principles of IoT communication protocols
 * gain practical knowledge of `MQTT` publish/subscribe messaging
 * gain practical knowledge of broker deployment and configuration

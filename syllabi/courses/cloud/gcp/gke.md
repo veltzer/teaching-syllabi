@@ -26,19 +26,23 @@ This course provides a comprehensive guide to Google `Kubernetes` Engine (`GKE`)
 16 hours / 2 days
 
 ## Intended Audience
+
 * Developers and `DevOps` engineers who want to deploy and manage containerized applications on `GCP`.
 * Architects evaluating managed `Kubernetes` solutions on `Google Cloud`.
 * SREs responsible for operating `Kubernetes` workloads on `GKE`.
 
 ## Prerequisites
+
 * Experience working in technical environments.
 * Basic understanding of containerization concepts.
 
 ## Required Knowledge
+
 * Introduction to `Kubernetes`
 * `GCP` Fundamentals
 
 ## Objectives
+
 * Understand `GKE` architecture and its integration with `GCP` services.
 * Choose between Autopilot and Standard cluster modes based on requirements.
 * Create, configure, and manage `GKE` clusters and node pools.

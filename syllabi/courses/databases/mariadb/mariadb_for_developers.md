@@ -25,6 +25,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Application developers building on relational databases
 * Database administrators managing `MariaDB` or `MySQL` instances
 * Engineers migrating from `MySQL` to `MariaDB`
@@ -32,12 +33,14 @@ audience:
 * Architects designing data storage layers for web and enterprise applications
 
 ## Prerequisites
+
 * Basic programming experience in any language
 * Familiarity with fundamental database concepts (tables, rows, columns)
 * Some prior exposure to `SQL` is helpful but not required
 * Basic `Linux` command-line skills
 
 ## Objectives
+
 * Install, configure, and connect to `MariaDB` server instances
 * Write correct and efficient `SQL` for data retrieval and manipulation
 * Design normalized schemas and choose appropriate data types

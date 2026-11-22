@@ -26,16 +26,19 @@ The course also explores the growing `RISC-V` ecosystem for embedded and applica
 24 hours / 3 days
 
 ## Intended Audience
+
 * Developers interested in the `RISC-V` open-source architecture.
 * Embedded engineers evaluating `RISC-V` for new designs.
 * Systems programmers who want to understand `RISC-V` internals.
 
 ## Prerequisites
+
 * `Solid` C programming skills.
 * Basic understanding of computer architecture concepts.
 * Familiarity with at least one other `ISA` (`ARM`, `x86`) is an advantage.
 
 ## Objectives
+
 * understand the core concepts and philosophy of the `RISC-V` `ISA`
 * gain practical knowledge of the base and extension instruction sets
 * gain practical knowledge of the `RISC-V` privileged architecture and memory model

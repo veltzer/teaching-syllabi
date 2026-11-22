@@ -38,18 +38,21 @@ turns an `LLM` app into a real product. Where useful, the course contrasts choic
 40 hours / 5 days
 
 ## Intended Audience
+
 * developers who have shipped an `LLM` prototype and need to take it to production
 * senior engineers and tech leads owning `LLM`-backed features
 * `ML` engineers operating `LLM` systems alongside traditional `ML` pipelines
 * architects designing systems that incorporate `LLM` calls
 
 ## Prerequisites
+
 * practical experience calling at least one `LLM` `API` from code
 * basic familiarity with prompts, tokens and embeddings
 * working knowledge of one general-purpose programming language, ideally `Python` or `TypeScript`
 * basic understanding of cloud deployment
 
 ## Objectives
+
 * design `LLM` applications that can be evaluated, monitored and improved over time
 * build evaluation harnesses with golden sets and automated graders
 * instrument `LLM` calls for observability and cost attribution

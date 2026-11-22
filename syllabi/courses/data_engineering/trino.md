@@ -26,6 +26,7 @@ audience:
 24 hours / 3 days
 
 ## Intended Audience
+
 * Data engineers designing and maintaining data lake query infrastructure
 * Data scientists and analysts querying large-scale datasets interactively
 * Platform engineers deploying and operating `Trino` clusters
@@ -33,6 +34,7 @@ audience:
 * Engineers migrating from Hive, Presto, or `Spark SQL` to `Trino`
 
 ## Prerequisites
+
 * Strong proficiency in `SQL`: joins, aggregations, window functions, and CTEs
 * Familiarity with `Linux` command-line tools and `bash`
 * Basic understanding of distributed systems and big data concepts
@@ -40,10 +42,12 @@ audience:
 * Basic knowledge of `Docker` and container management
 
 ## Required Knowledge
+
 * `SQL` Intermediate (or equivalent experience)
 * `Linux` Fundamentals (or equivalent experience)
 
 ## Objectives
+
 * Understand `Trino`'s architecture and how it executes distributed queries
 * Install and configure a `Trino` cluster with coordinators and workers
 * Configure and use connectors for Hive, Iceberg, `Delta Lake`, `JDBC`, and more
