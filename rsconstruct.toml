@@ -62,7 +62,8 @@ options = ["custom-tags: blocklevel", "drop-empty-elements: no"]
 # theme-switcher.js in its own build.
 [processor.checker.oxlint]
 src_dirs = ["site-resources"]
-args = ["-c", ".oxlintrc.json"]
+args = ["-c", ".oxlintrc.repo.json"]
+dep_inputs = [".oxlintrc.repo.json"]
 
 # ─── teaching content ────────────────────────────────────────────────────────
 
