@@ -5,7 +5,7 @@
 
 description: my teaching syllabi
 
-project website: https://veltzer.github.io/teaching-syllabi
+project website: <https://veltzer.github.io/teaching-syllabi>
 
 author: Mark Veltzer
 
