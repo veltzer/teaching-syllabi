@@ -214,7 +214,7 @@ function render() {
         if (tag && !e.tags.includes(tag)) return false;
         if (audience && !e.audience.some(a => a.replace(/-/g, " ").toLowerCase() === audience.replace(/-/g, " ").toLowerCase())) return false;
         if (duration) {
-            const d = parseInt(duration);
+            const d = parseInt(duration, 10);
             if (e.dh_short) {
                 if (d < e.duration_days_short || d > e.duration_days) return false;
             } else if (e.duration_days !== d) return false;

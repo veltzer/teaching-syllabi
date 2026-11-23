@@ -54,7 +54,7 @@ def check_file(filename: str) -> list[str]:
     headers = []
     title = None
     lines: list[str] = []
-    with open(filename, "r", encoding="utf-8") as stream:
+    with open(filename, encoding="utf-8") as stream:
         for line in stream:
             lines.append(line.rstrip())
             if line.rstrip().startswith("## "):

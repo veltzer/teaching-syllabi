@@ -157,8 +157,7 @@ def build_metadata(track: dict[str, Any], terms: list[str]) -> list[str]:
     ]:
         if key in track:
             lines.append(f"## {heading}")
-            for item in track[key]:
-                lines.append(f"* {_wrap_terms(item.strip(), terms)}")
+            lines.extend(f"* {_wrap_terms(item.strip(), terms)}" for item in track[key])
             lines.append("")
 
     if "exercises" in track:
@@ -252,8 +251,7 @@ def build_footer(track: dict[str, Any], terms: list[str]) -> list[str]:
 
     if "notes" in track:
         lines.append("## Notes")
-        for item in track["notes"]:
-            lines.append(f"* {_wrap_terms(item.strip(), terms)}")
+        lines.extend(f"* {_wrap_terms(item.strip(), terms)}" for item in track["notes"])
         lines.append("")
 
     lines.append("## Copyright")
