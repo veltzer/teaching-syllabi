@@ -191,7 +191,7 @@ programming languages in a real time, embedded environment.
     * General Purpose Timers (TIM)
     * System Tick Timer (SysTick)
 
-[//1]: <> (Logtel course # 3411)
+<!-- Logtel course # 3411 -->
 
 ## Copyright
 
