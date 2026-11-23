@@ -20,7 +20,7 @@ SYLLABI_DIR = ROOT / "syllabi"
 TRACKS_DIR = ROOT / "tracks"
 BLURBS_DIR = ROOT / "blurbs"
 DOCS_DIR = ROOT / "_site"
-TAG_LISTS_DIR = ROOT / "tag_lists"
+SHARED_TAGS_DIR = ROOT / "shared" / "shared-tags"
 SITE_RESOURCES_DIR = ROOT / "site-resources"
 SHARED_THEMES_DIR = ROOT / "shared" / "shared-themes"
 DOCS_EXTENSIONS = {".html", ".docx", ".pdf"}
@@ -36,20 +36,31 @@ UI_VARIANT = os.environ.get("MATERIAL_VARIANT", "material_web")
 
 
 
-def read_tag_order(filename: str) -> list[str]:
-    """Read tag values from a tag_lists file, preserving file order."""
-    path = TAG_LISTS_DIR / filename
-    if not path.exists():
-        return []
-    return [line.strip() for line in path.read_text().splitlines() if line.strip()]
+# The order the level filter lists levels in: easiest first. The shared
+# vocabulary (shared/shared-tags/level.txt) is kept alphabetical by design,
+# so it cannot carry this order; it is checked to name the same levels.
+LEVEL_ORDER = ["beginner", "intermediate", "advanced"]
+
+# Audience values carry their vocabulary's namespace ("audiences:developers");
+# the filter shows them without it.
+AUDIENCE_PREFIX = "audiences:"
 
 
-def order_by_tag_list(values: set[str], filename: str) -> list[str]:
-    """Order values according to tag_lists file order, with any extras sorted at the end."""
-    file_order = read_tag_order(filename)
-    ordered = [v for v in file_order if v in values]
-    remaining = sorted(values - set(ordered))
-    return ordered + remaining
+def check_level_order() -> None:
+    """Fail unless LEVEL_ORDER names exactly the levels of the shared vocabulary."""
+    path = SHARED_TAGS_DIR / "level.txt"
+    vocabulary = {line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
+    if vocabulary != set(LEVEL_ORDER):
+        raise SystemExit(
+            f"Error: LEVEL_ORDER {LEVEL_ORDER} does not match the levels in {path}: {sorted(vocabulary)}"
+        )
+
+
+def audience_label(value: str) -> str:
+    """The filter label of an audience value: its name without the namespace."""
+    if not value.startswith(AUDIENCE_PREFIX):
+        raise SystemExit(f"Error: audience '{value}' lacks the '{AUDIENCE_PREFIX}' prefix")
+    return value.removeprefix(AUDIENCE_PREFIX).replace("-", " ").title()
 
 
 def parse_frontmatter(md_path: Path) -> dict[str, Any]:
@@ -132,6 +143,7 @@ def build_site() -> None:
         print(f"Error: {DOCS_DIR} does not exist. Run 'rsconstruct build' first.")
         raise SystemExit(1)
 
+    check_level_order()
     clean_stale__site()
 
     entries: list[dict[str, Any]] = []
@@ -161,6 +173,8 @@ def build_site() -> None:
         if isinstance(tags, list):
             all_tags.update(tags)
         if isinstance(level, str) and level:
+            if level not in LEVEL_ORDER:
+                raise SystemExit(f"Error: _site/{rel} has unknown level '{level}'")
             all_levels.add(level)
         if isinstance(category, str) and category:
             all_categories.add(category)
@@ -192,9 +206,9 @@ def build_site() -> None:
     index_html = generate_index(
         entries,
         sorted(all_tags),
-        order_by_tag_list(all_levels, "level.txt"),
-        order_by_tag_list(all_categories, "category.txt"),
-        order_by_tag_list(all_audiences, "audiences.txt"),
+        [v for v in LEVEL_ORDER if v in all_levels],
+        sorted(all_categories),
+        sorted(all_audiences, key=audience_label),
     )
     index_path = DOCS_DIR / "index.html"
     index_path.write_text(index_html, encoding="utf-8")
@@ -253,9 +267,7 @@ def generate_index(
         opt(v, v.replace("-", " ").title()) for v in all_categories
     )
     tag_options = "".join(opt(v, v) for v in all_tags)
-    audience_options = "".join(
-        opt(v, v.replace("-", " ").title()) for v in all_audiences
-    )
+    audience_options = "".join(opt(v, audience_label(v)) for v in all_audiences)
 
     return (
         template

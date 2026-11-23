@@ -214,8 +214,6 @@ inputs = [
     "shared/shared-themes/fonts.css",
     "shared/shared-themes/shared_themes.py",
     "shared/shared-tags/level.txt",
-    "shared/shared-tags/category.txt",
-    "shared/shared-tags/audiences.txt",
 ]
 input_globs = [
     "shared/shared-themes/fonts/*",
