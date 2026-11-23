@@ -18,6 +18,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 SYLLABI_DIR = ROOT / "syllabi"
 TRACKS_DIR = ROOT / "tracks"
+BLURBS_DIR = ROOT / "blurbs"
 DOCS_DIR = ROOT / "_site"
 TAG_LISTS_DIR = ROOT / "tag_lists"
 SITE_RESOURCES_DIR = ROOT / "site-resources"
@@ -87,6 +88,8 @@ def clean_stale__site() -> None:
     for yaml_file in TRACKS_DIR.glob("*.yaml"):
         rel = Path("tracks") / yaml_file.stem
         expected_stems.add(DOCS_DIR / rel)
+    for blurb_file in BLURBS_DIR.glob("*.md"):
+        expected_stems.add(DOCS_DIR / "blurbs" / blurb_file.stem)
     removed = 0
     for doc_file in DOCS_DIR.rglob("*"):
         if not doc_file.is_file():
@@ -107,15 +110,21 @@ def clean_stale__site() -> None:
 
 
 def load_metadata(rel: Path) -> dict[str, Any]:
-    """Load metadata for a syllabus entry from its markdown frontmatter or track YAML."""
-    md_file = SYLLABI_DIR / rel.with_suffix(".md")
-    if md_file.exists():
-        return parse_frontmatter(md_file)
+    """Load metadata for a site entry from its syllabus or blurb markdown
+    frontmatter, or its track YAML."""
     if rel.parts[0] == "tracks":
         yaml_file = TRACKS_DIR / (rel.stem + ".yaml")
         if yaml_file.exists():
             return yaml.safe_load(yaml_file.read_text(encoding="utf-8")) or {}
-    return {}
+    elif rel.parts[0] == "blurbs":
+        blurb_file = BLURBS_DIR / rel.with_suffix(".md").name
+        if blurb_file.exists():
+            return parse_frontmatter(blurb_file)
+    else:
+        md_file = SYLLABI_DIR / rel.with_suffix(".md")
+        if md_file.exists():
+            return parse_frontmatter(md_file)
+    raise SystemExit(f"Error: no source found for _site/{rel}")
 
 
 def build_site() -> None:
@@ -146,6 +155,7 @@ def build_site() -> None:
         duration_hours = meta.get("duration_hours", 0)
         duration_hours_short = meta.get("duration_hours_short", 0)
         duration_hours_long = meta.get("duration_hours_long", 0)
+        duration_minutes = meta.get("duration_minutes", 0)
         folder = folder_label(rel)
 
         if isinstance(tags, list):
@@ -166,7 +176,10 @@ def build_site() -> None:
             "category": category if isinstance(category, str) else "",
             "audience": audience if isinstance(audience, list) else [],
         }
-        if duration_hours_short or duration_hours_long:
+        if duration_minutes:
+            dm = duration_minutes
+            entry["duration_minutes"] = dm if isinstance(dm, int) else 0
+        elif duration_hours_short or duration_hours_long:
             dhs = duration_hours_short
             entry["duration_hours_short"] = dhs if isinstance(dhs, int) else 0
             dhl = duration_hours_long
@@ -186,7 +199,7 @@ def build_site() -> None:
     index_path = DOCS_DIR / "index.html"
     index_path.write_text(index_html, encoding="utf-8")
     load_shared_themes().publish_fonts(DOCS_DIR)
-    print(f"Site index built: {len(entries)} syllabi found in {DOCS_DIR}")
+    print(f"Site index built: {len(entries)} syllabi and blurbs found in {DOCS_DIR}")
     print(f"Index: {index_path}")
 
 

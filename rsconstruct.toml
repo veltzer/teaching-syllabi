@@ -221,6 +221,7 @@ input_globs = [
     "shared/shared-themes/fonts/*",
     "_site/courses/**/*.html",
     "_site/tracks/*.html",
+    "_site/blurbs/*.html",
 ]
 output_dirs = ["_site"]
 

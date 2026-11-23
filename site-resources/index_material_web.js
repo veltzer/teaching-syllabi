@@ -22,6 +22,8 @@ DATA.forEach(e => {
     e.dh_short = hs;
     e.duration_days = h ? Math.round(h / 8) : 0;
     e.duration_days_short = hs ? Math.round(hs / 8) : 0;
+    // Blurbs (short talks) are timed in minutes, not hours.
+    e.dmin = e.duration_minutes || 0;
 });
 const ALL_DURATION_DAYS = [...new Set(DATA.map(e => e.duration_days).filter(d => d > 0))].sort((a, b) => a - b);
 
@@ -222,14 +224,18 @@ function render() {
 
     const getVal = (e, key) => {
         if (key === "level") return {beginner: 0, intermediate: 1, advanced: 2}[e.level] ?? 3;
-        if (key === "duration") return e.dh || 0;
+        if (key === "duration") return e.dh ? e.dh * 60 : e.dmin;
         if (key === "category") return e.folder;
         return e[key];
     };
 
     const getLabel = (e, key) => {
         if (key === "level") return (e.level || "No Level").charAt(0).toUpperCase() + (e.level || "No Level").slice(1);
-        if (key === "duration") return (e.dh ? Math.round(e.dh / 8) + " days" : "No Duration");
+        if (key === "duration") {
+            if (e.dh) return Math.round(e.dh / 8) + " days";
+            if (e.dmin) return e.dmin + " minutes";
+            return "No Duration";
+        }
         if (key === "category") return e.folder;
         if (key === "title") return "All Syllabi";
         return "";
@@ -275,6 +281,8 @@ function render() {
                 db = item.duration_days_short + "-" + item.duration_days + "d / " + item.dh_short + "-" + item.dh + "h";
             } else if (item.dh) {
                 db = item.duration_days + "d / " + item.dh + "h";
+            } else if (item.dmin) {
+                db = item.dmin + " min";
             }
             const durationBadge = db ? '<md-assist-chip class="chip-duration" label="' + db + '"></md-assist-chip>' : "";
             const base = item.path.replace(/\.html$/, "");
