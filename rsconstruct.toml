@@ -53,10 +53,8 @@ dep_inputs = ["shared/shared-themes/biome-tokens.jsonc", "shared/shared-themes/d
 [processor.checker.itidy]
 src_dirs = ["site-resources"]
 # The index pages use Material Web components (<md-outlined-select>, ...),
-# which are valid HTML5 custom elements tidy only accepts with custom-tags,
-# and a CSS-drawn toggle built from an empty <span>, which is valid HTML that
-# tidy would otherwise warn it might trim.
-options = ["custom-tags: blocklevel", "drop-empty-elements: no"]
+# which are valid HTML5 custom elements tidy only accepts with custom-tags.
+options = ["custom-tags: blocklevel"]
 
 # The submodules are not scanned here either; shared-themes lints its own
 # theme-switcher.js in its own build.
