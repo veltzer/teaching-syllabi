@@ -22,7 +22,8 @@ objectives:
   - Be familiar with some of the most common DevOps tools used in the industry
   - Be able to perform their role as entry level DevOps
   - Understand and command AWS cloud concepts and services.
-  - Acquire basic AWS architecting skills and understand the tradeoff between the various architectural decisions behind AWS apps.
+  - Acquire basic AWS architecting skills and understand the tradeoff between the various
+    architectural decisions behind AWS apps.
 chapters:
   - course: operating_systems/linux/linux_fundamentals
     hours: 48
