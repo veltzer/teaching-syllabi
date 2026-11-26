@@ -243,4 +243,5 @@ src_files = ["CLAUDE.md", "README.md"]
 # ─── yaml ────────────────────────────────────────────────────────────────────
 
 [processor.checker.iyamllint]
-src_dirs = ["tracks"]
+src_files = [".yamllint.yaml"]
+src_dirs = [".github", "tracks"]
