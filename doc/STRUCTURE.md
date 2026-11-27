@@ -122,7 +122,7 @@ notes:
 **Fields:**
 
 | Field | Required | Description |
-|---|---|---|
+| --- | --- | --- |
 | `title` | yes | Track display name |
 | `tags` | yes | Tag list (same format as course frontmatter) |
 | `level` | yes | beginner, intermediate, or advanced |

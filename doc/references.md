@@ -3,7 +3,7 @@
 ## Cross-References Between Courses
 
 | Source Syllabus | References | Likely Target |
-|---|---|---|
+| --- | --- | --- |
 | devops/jenkins/intermediate_jenkins.md | "Working with Jenkins" introductory course | devops/jenkins/jenkins_basics.md or jenkins_oneday.md |
 | devops/puppet/intermediate_puppet.md | "Introduction to Puppet" course | devops/puppet/introduction_to_puppet.md |
 | big_data/spark/advanced_spark_with_python.md | basic Spark with Python course | big_data/spark/apache_spark_with_python.md |
