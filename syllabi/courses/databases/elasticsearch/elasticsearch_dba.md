@@ -1,19 +1,19 @@
 ---
-tags:
-  - tools:elasticsearch
-  - audiences:administration
-  - data-and-ai:search
-  - concepts:distributed-systems
-level: intermediate
-category: database
-duration_hours_short: 24
-duration_hours_long: 40
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
+category: database
 duration_hours: 40
+duration_hours_long: 40
+duration_hours_short: 24
+level: intermediate
+tags:
+  - tools:elasticsearch
+  - audiences:administration
+  - data-and-ai:search
+  - concepts:distributed-systems
 ---
 
 <!-- course: elasticsearch_dba -->

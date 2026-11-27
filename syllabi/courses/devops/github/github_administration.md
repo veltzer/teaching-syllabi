@@ -1,16 +1,16 @@
 ---
-tags:
-  - tools:github
-  - practices:devops
-  - security:security
-level: intermediate
-category: devops
-duration_hours: 16
 audience:
   - audiences:devops
   - audiences:sysadmins
   - audiences:team-leads
   - audiences:security-professionals
+category: devops
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:github
+  - practices:devops
+  - security:security
 ---
 
 <!-- course: github_administration -->

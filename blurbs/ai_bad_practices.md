@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:agents
@@ -7,14 +15,6 @@ tags:
   - practices:documentation
   - practices:security
   - practices:testing
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- blurb: ai_bad_practices -->

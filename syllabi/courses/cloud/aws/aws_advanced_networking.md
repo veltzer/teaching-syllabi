@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:network-engineers
+  - audiences:architects
+  - audiences:devops
+  - audiences:sysadmins
+category: cloud
+duration_hours: 32
+level: advanced
 tags:
   - infrastructure:aws
   - infrastructure:cloud
@@ -6,14 +14,6 @@ tags:
   - concepts:network-security
   - practices:monitoring
   - practices:automation
-level: advanced
-category: cloud
-audience:
-  - audiences:network-engineers
-  - audiences:architects
-  - audiences:devops
-  - audiences:sysadmins
-duration_hours: 32
 ---
 
 <!-- course: aws_advanced_networking -->

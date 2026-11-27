@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+  - audiences:managers
+category: ai
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:ai
   - concepts:code-generation
   - data-and-ai:prompt-engineering
   - practices:testing
   - practices:productivity
-level: intermediate
-category: ai
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
-  - audiences:managers
 ---
 
 <!-- course: using_ai_when_developing_applications -->

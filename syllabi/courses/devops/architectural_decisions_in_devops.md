@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:devops
+  - audiences:managers
+category: devops
+duration_hours: 24
+level: advanced
 tags:
   - practices:devops
   - concepts:architecture
   - practices:ci-cd
   - infrastructure:infrastructure-as-code
-level: advanced
-category: devops
-duration_hours: 24
-audience:
-  - audiences:architects
-  - audiences:devops
-  - audiences:managers
 ---
 
 <!-- course: architectural_decisions_in_devops -->

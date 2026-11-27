@@ -1,17 +1,17 @@
 ---
-tags:
-  - infrastructure:azure
-  - infrastructure:cloud
-  - practices:devops
-  - practices:ci-cd
-level: intermediate
-category: cloud
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:managers
+category: cloud
+duration_hours: 16
+level: intermediate
+tags:
+  - infrastructure:azure
+  - infrastructure:cloud
+  - practices:devops
+  - practices:ci-cd
 ---
 
 <!-- course: azure_devops -->

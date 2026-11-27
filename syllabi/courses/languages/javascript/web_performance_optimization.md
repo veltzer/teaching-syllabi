@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:performance-engineers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:javascript
   - concepts:web-development
   - networking:web
   - networking:http
   - practices:performance
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:performance-engineers
 ---
 
 <!-- course: web_performance_optimization -->

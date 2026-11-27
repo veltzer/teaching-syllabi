@@ -1,15 +1,15 @@
 ---
-tags:
-  - concepts:service-mesh
-  - tools:kubernetes
-  - concepts:microservices
-level: advanced
-category: devops
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:devops
+category: devops
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:service-mesh
+  - tools:kubernetes
+  - concepts:microservices
 ---
 
 <!-- course: service_mesh_comparison -->

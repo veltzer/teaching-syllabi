@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:ml-engineers
+  - audiences:architects
+category: ai
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:ai
   - concepts:machine-learning
@@ -7,14 +15,6 @@ tags:
   - concepts:observability
   - concepts:performance
   - concepts:cloud-economics
-level: intermediate
-category: ai
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:ml-engineers
-  - audiences:architects
 ---
 
 <!-- course: llm_application_engineering -->

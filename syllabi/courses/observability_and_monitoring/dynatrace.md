@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sres
+  - audiences:developers
+category: observability
+duration_hours: 24
+level: intermediate
 tags:
   - tools:dynatrace
   - observability:apm
   - observability:monitoring
   - observability:aiops
-level: intermediate
-category: observability
-duration_hours: 24
-audience:
-  - audiences:devops
-  - audiences:sres
-  - audiences:developers
 ---
 
 <!-- course: dynatrace -->

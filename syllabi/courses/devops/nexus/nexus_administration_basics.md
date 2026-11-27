@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:managers
+category: devops
+duration_hours: 8
+level: beginner
 tags:
   - tools:nexus
   - practices:devops
   - practices:artifact-management
   - practices:ci-cd
-level: beginner
-category: devops
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:managers
 ---
 
 <!-- course: nexus_administration_basics -->

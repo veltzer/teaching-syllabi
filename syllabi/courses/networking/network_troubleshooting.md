@@ -1,16 +1,16 @@
 ---
-tags:
-  - networking:networking
-  - networking:tcp-ip
-  - practices:debugging
-level: intermediate
-category: networking
-duration_hours: 16
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:developers
   - audiences:sres
+category: networking
+duration_hours: 16
+level: intermediate
+tags:
+  - networking:networking
+  - networking:tcp-ip
+  - practices:debugging
 ---
 
 <!-- course: network_troubleshooting -->

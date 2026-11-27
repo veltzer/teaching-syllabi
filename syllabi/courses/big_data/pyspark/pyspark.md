@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:spark
-  - languages:python
-  - data-and-ai:big-data
-level: intermediate
-category: big-data
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:data-engineers
   - audiences:data-scientists
+category: big-data
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:spark
+  - languages:python
+  - data-and-ai:big-data
 ---
 
 <!-- course: pyspark -->

@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:operations
-  - concepts:agile
-level: intermediate
-category: practices
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:devops
   - audiences:management
   - audiences:team-leads
+category: practices
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:operations
+  - concepts:agile
 ---
 
 <!-- course: incident_communication_and_status_pages -->

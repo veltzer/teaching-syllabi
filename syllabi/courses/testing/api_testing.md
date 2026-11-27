@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+category: testing
+duration_hours: 8
+level: intermediate
 tags:
   - practices:testing
   - concepts:api
   - concepts:rest
   - concepts:grpc
   - practices:contract-testing
-level: intermediate
-category: testing
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: api_testing -->

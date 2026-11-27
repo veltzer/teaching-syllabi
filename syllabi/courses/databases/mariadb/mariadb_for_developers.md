@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:dbas
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - databases:mariadb
   - databases:mysql
   - databases:relational
   - databases:sql
   - tools:mariadb
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:dbas
 ---
 
 <!-- course: mariadb_for_developers -->

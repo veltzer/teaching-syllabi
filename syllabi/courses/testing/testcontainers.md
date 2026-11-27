@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - tools:testcontainers
   - practices:integration-testing
   - tools:docker
   - practices:testing
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: testcontainers -->

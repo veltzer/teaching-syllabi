@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 24
+level: intermediate
 tags:
   - tools:snowflake
   - data-and-ai:big-data
   - data-and-ai:data-analysis
   - languages:sql
-level: intermediate
-category: big-data
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: snowflake -->

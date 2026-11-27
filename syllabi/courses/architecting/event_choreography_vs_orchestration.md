@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:distributed-systems
-  - concepts:design-patterns
-  - concepts:best-practices
-level: advanced
-category: architecture
-duration_hours: 16
 audience:
   - audiences:architects
   - audiences:senior-developers
   - audiences:developers
   - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:distributed-systems
+  - concepts:design-patterns
+  - concepts:best-practices
 ---
 
 <!-- course: event_choreography_vs_orchestration -->

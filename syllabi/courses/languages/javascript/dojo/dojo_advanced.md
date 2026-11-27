@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:javascript
   - tools:dojo
   - networking:web
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: dojo_advanced -->

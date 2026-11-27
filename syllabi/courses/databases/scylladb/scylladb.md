@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:dbas
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - databases:scylladb
   - databases:cassandra
   - databases:nosql
   - databases:wide-column
   - tools:scylladb
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:dbas
 ---
 
 <!-- course: scylladb -->

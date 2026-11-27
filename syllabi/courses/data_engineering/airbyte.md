@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:analytics-engineers
+category: data-engineering
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:airbyte
   - practices:elt
   - practices:data-pipeline
   - concepts:data-integration
-level: intermediate
-category: data-engineering
-duration_hours: 16
-audience:
-  - audiences:data-engineers
-  - audiences:analytics-engineers
 ---
 
 <!-- course: airbyte -->

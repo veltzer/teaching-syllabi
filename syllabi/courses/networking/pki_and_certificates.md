@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:sysadmins
+  - audiences:security-engineers
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - networking:security
   - concepts:pki
   - protocols:tls
   - concepts:cryptography
   - concepts:certificates
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:sysadmins
-  - audiences:security-engineers
 ---
 
 <!-- course: pki_and_certificates -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: build-system
+duration_hours: 16
+level: intermediate
 tags:
   - tools:gradle
   - languages:java
   - practices:build-systems
   - practices:ci-cd
-level: intermediate
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: gradle -->

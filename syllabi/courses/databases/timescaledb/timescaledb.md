@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - tools:timescaledb
   - tools:postgresql
   - data-and-ai:data-analysis
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: timescaledb -->

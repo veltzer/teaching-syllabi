@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:api
-  - concepts:distributed-systems
-  - concepts:best-practices
-level: intermediate
-category: architecture
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:developers
   - audiences:architects
   - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:architecture
+  - concepts:api
+  - concepts:distributed-systems
+  - concepts:best-practices
 ---
 
 <!-- course: webhooks_engineering -->

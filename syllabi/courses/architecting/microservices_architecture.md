@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+  - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:microservices
   - concepts:architecture
   - concepts:distributed-systems
   - concepts:api
   - concepts:design-patterns
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
-  - audiences:team-leads
 ---
 
 <!-- course: microservices_architecture -->

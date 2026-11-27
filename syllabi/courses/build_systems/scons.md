@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: build-system
+duration_hours: 16
+level: intermediate
 tags:
   - tools:scons
   - languages:python
   - practices:build-systems
-level: intermediate
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: scons -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:julia
   - concepts:programming
   - data-and-ai:data-science
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: julia_programming -->

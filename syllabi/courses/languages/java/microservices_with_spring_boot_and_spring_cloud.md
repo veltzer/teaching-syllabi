@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+duration_hours_long: 16
+duration_hours_short: 8
+level: intermediate
 tags:
   - languages:java
   - tools:spring
   - concepts:microservices
   - concepts:architecture
-level: intermediate
-category: language
-duration_hours_short: 8
-duration_hours_long: 16
-audience:
-  - audiences:developers
-duration_hours: 16
 ---
 
 <!-- course: microservices_with_spring_boot_and_spring_cloud -->

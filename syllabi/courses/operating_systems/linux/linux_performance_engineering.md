@@ -1,14 +1,4 @@
 ---
-tags:
-  - infrastructure:linux
-  - practices:performance
-  - concepts:optimization
-  - practices:profiling
-  - practices:benchmarking
-  - infrastructure:kernel
-level: advanced
-category: operating-systems
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:sysadmins
@@ -16,6 +6,16 @@ audience:
   - audiences:sres
   - audiences:performance-engineers
   - audiences:architects
+category: operating-systems
+duration_hours: 40
+level: advanced
+tags:
+  - infrastructure:linux
+  - practices:performance
+  - concepts:optimization
+  - practices:profiling
+  - practices:benchmarking
+  - infrastructure:kernel
 ---
 
 <!-- course: linux_performance_engineering -->

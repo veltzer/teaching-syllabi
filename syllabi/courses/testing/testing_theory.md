@@ -1,13 +1,13 @@
 ---
-tags:
-  - practices:testing
-  - practices:methodology
-level: beginner
-category: testing
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:testers
+category: testing
+duration_hours: 16
+level: beginner
+tags:
+  - practices:testing
+  - practices:methodology
 ---
 
 <!-- course: testing_theory -->

@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: devops
+duration_hours: 24
+level: intermediate
 tags:
   - practices:devops
   - tools:terraform
   - infrastructure:infrastructure-as-code
   - infrastructure:cloud
   - tools:terragrunt
-level: intermediate
-category: devops
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: terraform -->

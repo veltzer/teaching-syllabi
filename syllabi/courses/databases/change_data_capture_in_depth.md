@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:databases
-  - concepts:data-integration
-  - concepts:best-practices
-  - concepts:operations
-level: advanced
-category: database
-duration_hours: 24
 audience:
   - audiences:data-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:devops
+category: database
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:databases
+  - concepts:data-integration
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: change_data_capture_in_depth -->

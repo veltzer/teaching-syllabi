@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:architects
+category: ai
+duration_hours: 16
+level: advanced
 tags:
   - data-and-ai:rag
   - data-and-ai:llm
   - data-and-ai:ai
   - languages:python
   - data-and-ai:search
-level: advanced
-category: ai
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:architects
 ---
 
 <!-- course: rag_deep_dive -->

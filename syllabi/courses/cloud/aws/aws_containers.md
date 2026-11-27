@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:sres
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
   - infrastructure:containers
   - infrastructure:kubernetes
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:sres
 ---
 
 <!-- course: aws_containers -->

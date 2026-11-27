@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:identity
-  - concepts:operations
-  - concepts:best-practices
-level: advanced
-category: cloud
-duration_hours: 24
 audience:
   - audiences:devops
   - audiences:security-engineers
   - audiences:architects
   - audiences:senior-developers
+category: cloud
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:security
+  - concepts:identity
+  - concepts:operations
+  - concepts:best-practices
 ---
 
 <!-- course: cloud_iam_at_scale -->

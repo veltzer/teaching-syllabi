@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:managers
+  - audiences:testers
+category: methodology
+duration_hours: 8
+level: intermediate
 tags:
   - practices:methodology
   - practices:build-systems
   - practices:testing
   - infrastructure:configuration-management
-level: intermediate
-category: methodology
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:managers
-  - audiences:testers
 ---
 
 <!-- course: modern_development -->

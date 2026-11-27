@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:data-scientists
+  - audiences:developers
+category: language
+duration_hours: 24
+level: beginner
 tags:
   - languages:r
   - data-and-ai:statistics
   - data-and-ai:data-analysis
-level: beginner
-category: language
-duration_hours: 24
-audience:
-  - audiences:data-scientists
-  - audiences:developers
 ---
 
 <!-- course: r_programming -->

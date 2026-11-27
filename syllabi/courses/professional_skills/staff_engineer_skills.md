@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:agile
-  - concepts:code-review
-level: advanced
-category: practices
-duration_hours: 24
 audience:
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:architects
   - audiences:management
+category: practices
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:best-practices
+  - concepts:agile
+  - concepts:code-review
 ---
 
 <!-- course: staff_engineer_skills -->

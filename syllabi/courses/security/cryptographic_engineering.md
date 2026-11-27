@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:cryptography
-  - concepts:best-practices
-  - concepts:operations
-level: advanced
-category: security
-duration_hours: 32
 audience:
   - audiences:security-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:developers
+category: security
+duration_hours: 32
+level: advanced
+tags:
+  - concepts:security
+  - concepts:cryptography
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: cryptographic_engineering -->

@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:team-leads
+  - audiences:architects
+category: practices
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:code-review
   - concepts:best-practices
@@ -6,14 +14,6 @@ tags:
   - concepts:security
   - concepts:testing
   - concepts:developer-experience
-level: intermediate
-category: practices
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:team-leads
-  - audiences:architects
 ---
 
 <!-- course: code_review -->

@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+  - audiences:sres
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:agents
@@ -10,15 +19,6 @@ tags:
   - practices:production
   - practices:reliability
   - practices:security
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
-  - audiences:sres
 ---
 
 <!-- blurb: ai_in_production -->

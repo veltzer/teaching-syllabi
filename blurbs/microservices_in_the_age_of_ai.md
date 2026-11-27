@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:managers
+  - audiences:team-leads
+category: architecture
+duration_minutes: 120
+level: intermediate
 tags:
   - architecture:api-design
   - architecture:distributed-systems
@@ -7,14 +15,6 @@ tags:
   - data-and-ai:ai
   - practices:contract-testing
   - practices:observability
-level: intermediate
-category: architecture
-duration_minutes: 120
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:managers
-  - audiences:team-leads
 ---
 
 <!-- blurb: microservices_in_the_age_of_ai -->

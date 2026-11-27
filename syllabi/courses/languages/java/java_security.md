@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:security-professionals
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:java
   - security:security
   - security:secure-coding
   - security:owasp
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:security-professionals
 ---
 
 <!-- course: java_security -->

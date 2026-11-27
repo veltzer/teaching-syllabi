@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 16
+level: intermediate
 tags:
   - tools:dagster
   - data-and-ai:big-data
   - data-and-ai:etl
   - practices:automation
-level: intermediate
-category: big-data
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: dagster -->

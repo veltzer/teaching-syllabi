@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: message-queue
+duration_hours: 16
+level: intermediate
 tags:
   - tools:kafka
   - tools:spark
   - data-and-ai:streaming
   - data-and-ai:big-data
   - infrastructure:real-time
-level: intermediate
-category: message-queue
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: real_time_ingestion_and_processing_using_kafka_and_spark -->

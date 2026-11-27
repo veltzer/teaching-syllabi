@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:devops
+  - audiences:sres
+category: cloud
+duration_hours: 16
+level: intermediate
 tags:
   - infrastructure:gcp
   - infrastructure:cloud
   - security:security
   - security:iam
-level: intermediate
-category: cloud
-duration_hours: 16
-audience:
-  - audiences:security-professionals
-  - audiences:devops
-  - audiences:sres
 ---
 
 <!-- course: gcp_security -->

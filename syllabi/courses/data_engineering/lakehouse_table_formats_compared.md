@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:data-lakehouse
-  - concepts:databases
-  - concepts:best-practices
-  - concepts:data-architecture
-level: advanced
-category: data-engineering
-duration_hours: 24
 audience:
   - audiences:data-engineers
   - audiences:data-architects
   - audiences:senior-developers
   - audiences:architects
+category: data-engineering
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:data-lakehouse
+  - concepts:databases
+  - concepts:best-practices
+  - concepts:data-architecture
 ---
 
 <!-- course: lakehouse_table_formats_compared -->

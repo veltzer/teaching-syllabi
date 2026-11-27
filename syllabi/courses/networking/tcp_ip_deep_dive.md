@@ -1,16 +1,16 @@
 ---
-tags:
-  - networking:tcp-ip
-  - networking:protocols
-  - networking:networking
-level: intermediate
-category: networking
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:security-professionals
+category: networking
+duration_hours: 24
+level: intermediate
+tags:
+  - networking:tcp-ip
+  - networking:protocols
+  - networking:networking
 ---
 
 <!-- course: tcp_ip_deep_dive -->

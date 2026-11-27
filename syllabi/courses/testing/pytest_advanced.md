@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:qa-engineers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - tools:pytest
   - languages:python
   - practices:testing
   - concepts:tdd
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:qa-engineers
 ---
 
 <!-- course: pytest_advanced -->

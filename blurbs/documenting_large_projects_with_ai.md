@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - architecture:microservices
   - concepts:configuration
@@ -7,14 +15,6 @@ tags:
   - practices:documentation
   - practices:maintenance
   - practices:monorepo
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- blurb: documenting_large_projects_with_ai -->

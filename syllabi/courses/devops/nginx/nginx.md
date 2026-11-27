@@ -1,16 +1,16 @@
 ---
-tags:
-  - tools:nginx
-  - networking:web
-  - practices:performance
-level: intermediate
-category: devops
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:security-professionals
+category: devops
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:nginx
+  - networking:web
+  - practices:performance
 ---
 
 <!-- course: nginx -->

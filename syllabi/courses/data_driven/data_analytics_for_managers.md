@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:managers
+category: data-driven
+duration_hours: 32
+level: beginner
 tags:
   - data-and-ai:data-analytics
   - audiences:management
   - data-and-ai:business-intelligence
-level: beginner
-category: data-driven
-duration_hours: 32
-audience:
-  - audiences:managers
 ---
 
 <!-- course: data_analytics_for_managers -->

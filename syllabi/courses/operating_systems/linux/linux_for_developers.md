@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:linux
   - concepts:systems-programming
   - practices:command-line
-level: intermediate
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: linux_for_developers -->

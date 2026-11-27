@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:ruby
   - concepts:web-development
   - networking:web
   - concepts:design-patterns
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: ruby_on_rails -->

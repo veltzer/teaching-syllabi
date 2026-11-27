@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:blockchain-developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:solidity
   - concepts:blockchain
   - concepts:smart-contracts
   - concepts:ethereum
   - concepts:web3
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:blockchain-developers
 ---
 
 <!-- course: solidity_programming -->

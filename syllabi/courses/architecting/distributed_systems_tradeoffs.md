@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:senior-developers
+  - audiences:developers
+  - audiences:dbas
+category: architecture
+duration_hours: 40
+level: advanced
 tags:
   - concepts:distributed-systems
   - concepts:architecture
@@ -6,14 +14,6 @@ tags:
   - concepts:acid
   - concepts:scalability
   - concepts:databases
-level: advanced
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:senior-developers
-  - audiences:developers
-  - audiences:dbas
 ---
 
 <!-- course: distributed_systems_tradeoffs -->

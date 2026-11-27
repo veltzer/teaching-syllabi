@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:sres
+category: observability
+duration_hours: 16
+level: intermediate
 tags:
   - tools:jaeger
   - observability:distributed-tracing
   - observability:monitoring
   - concepts:opentelemetry
-level: intermediate
-category: observability
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:sres
 ---
 
 <!-- course: jaeger -->

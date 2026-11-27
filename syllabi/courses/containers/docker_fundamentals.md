@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: containers
+duration_hours: 16
+level: beginner
 tags:
   - infrastructure:docker
   - infrastructure:containers
   - practices:devops
   - practices:ci-cd
-level: beginner
-category: containers
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: docker_fundamentals -->

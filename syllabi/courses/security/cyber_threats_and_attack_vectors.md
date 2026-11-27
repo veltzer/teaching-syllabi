@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:developers
+category: security
+duration_hours: 56
+duration_hours_long: 48
+duration_hours_short: 24
+level: intermediate
 tags:
   - security:security
   - security:cyber-threats
   - security:web-security
   - security:penetration-testing
-level: intermediate
-category: security
-duration_hours_short: 24
-duration_hours_long: 48
-audience:
-  - audiences:security-professionals
-  - audiences:developers
-duration_hours: 56
 ---
 
 <!-- course: cyber_threats_and_attack_vectors -->

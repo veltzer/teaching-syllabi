@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:sysadmins
+category: big-data
+duration_hours: 16
+level: beginner
 tags:
   - tools:hadoop
   - data-and-ai:big-data
   - data-and-ai:hdfs
   - data-and-ai:mapreduce
-level: beginner
-category: big-data
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:sysadmins
 ---
 
 <!-- course: introduction_to_hadoop -->

@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-  - infrastructure:infrastructure-as-code
-level: intermediate
-category: cloud
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:architects
+category: cloud
+duration_hours: 16
+level: intermediate
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - infrastructure:infrastructure-as-code
 ---
 
 <!-- course: aws_cdk -->

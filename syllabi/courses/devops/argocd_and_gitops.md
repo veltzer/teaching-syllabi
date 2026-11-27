@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - practices:devops
   - practices:ci-cd
@@ -6,13 +13,6 @@ tags:
   - practices:gitops
   - infrastructure:kubernetes
   - infrastructure:cloud
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: argocd_and_gitops -->

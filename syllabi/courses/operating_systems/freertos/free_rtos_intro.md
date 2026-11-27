@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 80
+level: intermediate
 tags:
   - infrastructure:freertos
   - infrastructure:rtos
   - hardware-and-embedded:embedded
   - hardware-and-embedded:microcontrollers
   - infrastructure:real-time
-level: intermediate
-category: operating-systems
-duration_hours: 80
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: free_rtos_intro -->

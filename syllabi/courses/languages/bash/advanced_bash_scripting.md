@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: language
+duration_hours: 40
+level: advanced
 tags:
   - languages:bash
   - practices:scripting
   - infrastructure:linux
   - practices:automation
-level: advanced
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: advanced_bash_scripting -->

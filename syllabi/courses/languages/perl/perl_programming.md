@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: beginner
 tags:
   - languages:perl
   - concepts:programming
   - concepts:scripting
-level: beginner
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: perl_programming -->

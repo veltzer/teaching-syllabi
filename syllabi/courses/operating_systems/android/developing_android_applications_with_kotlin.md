@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+category: operating-systems
+duration_hours: 56
+duration_hours_long: 48
+duration_hours_short: 40
+level: beginner
 tags:
   - infrastructure:android
   - languages:kotlin
   - practices:mobile
   - tools:android-studio
   - tools:sqlite
-level: beginner
-category: operating-systems
-duration_hours_short: 40
-duration_hours_long: 48
-audience:
-  - audiences:developers
-duration_hours: 56
 ---
 
 <!-- course: developing_android_applications_with_kotlin -->

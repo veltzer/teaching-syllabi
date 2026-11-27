@@ -1,13 +1,13 @@
 ---
-tags:
-  - tools:cassandra
-  - data-and-ai:big-data
-level: intermediate
-category: database
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:data-scientists
+category: database
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:cassandra
+  - data-and-ai:big-data
 ---
 
 <!-- course: cassandra_for_developers -->

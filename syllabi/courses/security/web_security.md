@@ -1,18 +1,18 @@
 ---
-tags:
-  - security:security
-  - security:web-security
-  - security:authentication
-  - security:encryption
-level: beginner
-category: security
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:devops
   - audiences:security-professionals
   - audiences:testers
+category: security
+duration_hours: 8
+level: beginner
+tags:
+  - security:security
+  - security:web-security
+  - security:authentication
+  - security:encryption
 ---
 
 <!-- course: web_security -->

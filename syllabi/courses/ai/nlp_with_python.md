@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: ai
+duration_hours: 32
+level: intermediate
 tags:
   - data-and-ai:machine-learning
   - data-and-ai:nlp
   - languages:python
-level: intermediate
-category: ai
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: nlp_with_python -->

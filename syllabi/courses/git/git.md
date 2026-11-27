@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:git
-  - concepts:version-control
-level: intermediate
-category: version-control
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:managers
+category: version-control
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:git
+  - concepts:version-control
 ---
 
 <!-- course: git -->

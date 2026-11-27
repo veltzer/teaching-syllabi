@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - hardware-and-embedded:rtos
   - hardware-and-embedded:embedded
   - infrastructure:rtos
   - concepts:systems-programming
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:firmware-developers
 ---
 
 <!-- course: vxworks_programming -->

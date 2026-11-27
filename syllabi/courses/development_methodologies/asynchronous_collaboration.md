@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:agile
-  - concepts:developer-experience
-level: intermediate
-category: methodology
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:team-leads
   - audiences:management
   - audiences:senior-developers
+category: methodology
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:agile
+  - concepts:developer-experience
 ---
 
 <!-- course: asynchronous_collaboration -->

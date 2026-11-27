@@ -1,13 +1,13 @@
 ---
-tags:
-  - languages:sql
-  - data-and-ai:databases
-level: advanced
-category: language
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:dbas
+category: language
+duration_hours: 24
+level: advanced
+tags:
+  - languages:sql
+  - data-and-ai:databases
 ---
 
 <!-- course: advanced_sql -->

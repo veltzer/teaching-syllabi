@@ -1,19 +1,19 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:team-leads
+  - audiences:devops
+category: ai
+duration_hours: 16
+duration_hours_long: 16
+duration_hours_short: 8
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:generative-ai
   - concepts:code-generation
   - tools:github
   - practices:productivity
-level: intermediate
-category: ai
-duration_hours_short: 8
-duration_hours_long: 16
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:team-leads
-  - audiences:devops
 ---
 
 <!-- course: github_copilot_in_practice -->

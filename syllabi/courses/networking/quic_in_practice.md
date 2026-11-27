@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:networking
-  - concepts:performance
-  - concepts:web-development
-  - concepts:best-practices
-level: advanced
-category: networking
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:network-engineers
   - audiences:architects
   - audiences:devops
+category: networking
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:networking
+  - concepts:performance
+  - concepts:web-development
+  - concepts:best-practices
 ---
 
 <!-- course: quic_in_practice -->

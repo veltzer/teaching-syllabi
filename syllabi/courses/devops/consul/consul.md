@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:architects
+category: devops
+duration_hours: 24
+level: intermediate
 tags:
   - tools:consul
   - infrastructure:service-mesh
   - infrastructure:service-discovery
   - practices:devops
-level: intermediate
-category: devops
-duration_hours: 24
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: consul -->

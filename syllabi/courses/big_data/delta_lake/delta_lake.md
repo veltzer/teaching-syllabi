@@ -1,16 +1,16 @@
 ---
-tags:
-  - tools:delta-lake
-  - data-and-ai:big-data
-  - languages:sql
-level: intermediate
-category: big-data
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:data-scientists
   - audiences:architects
   - audiences:devops
+category: big-data
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:delta-lake
+  - data-and-ai:big-data
+  - languages:sql
 ---
 
 <!-- course: delta_lake -->

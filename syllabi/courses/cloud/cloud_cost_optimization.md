@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:sres
+  - audiences:architects
+category: cloud
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:cloud-economics
   - concepts:operations
@@ -6,15 +15,6 @@ tags:
   - concepts:performance
   - concepts:best-practices
   - concepts:architecture
-level: intermediate
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:sres
-  - audiences:architects
 ---
 
 <!-- course: cloud_cost_optimization -->

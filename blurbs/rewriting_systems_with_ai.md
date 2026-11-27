@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+category: architecture
+duration_minutes: 120
+level: intermediate
 tags:
   - concepts:data-architecture
   - concepts:database-design
@@ -10,14 +18,6 @@ tags:
   - practices:architecture
   - practices:refactoring
   - practices:testing
-level: intermediate
-category: architecture
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- blurb: rewriting_systems_with_ai -->

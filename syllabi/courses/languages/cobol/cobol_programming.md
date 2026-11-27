@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: beginner
 tags:
   - languages:cobol
   - concepts:programming
-level: beginner
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: cobol_programming -->

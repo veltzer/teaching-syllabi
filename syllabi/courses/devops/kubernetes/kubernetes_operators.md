@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: devops
+duration_hours: 24
+level: advanced
 tags:
   - tools:kubernetes
   - concepts:architecture
   - practices:devops
-level: advanced
-category: devops
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: kubernetes_operators -->

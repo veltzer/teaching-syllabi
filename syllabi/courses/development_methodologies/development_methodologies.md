@@ -1,15 +1,15 @@
 ---
-tags:
-  - practices:methodology
-  - practices:productivity
-  - concepts:best-practices
-level: intermediate
-category: methodology
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:managers
   - audiences:testers
+category: methodology
+duration_hours: 24
+level: intermediate
+tags:
+  - practices:methodology
+  - practices:productivity
+  - concepts:best-practices
 ---
 
 <!-- course: development_methodologies -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+  - audiences:developers
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - networking:web
   - practices:devops
   - networking:http
   - practices:sysadmin
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:sysadmins
-  - audiences:devops
-  - audiences:developers
 ---
 
 <!-- course: apache_http_server -->

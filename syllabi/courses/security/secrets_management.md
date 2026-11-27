@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:sres
+  - audiences:security-engineers
+  - audiences:architects
+category: security
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:security
   - concepts:cryptography
@@ -6,15 +15,6 @@ tags:
   - concepts:certificates
   - concepts:pki
   - concepts:best-practices
-level: intermediate
-category: security
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:sres
-  - audiences:security-engineers
-  - audiences:architects
 ---
 
 <!-- course: secrets_management -->

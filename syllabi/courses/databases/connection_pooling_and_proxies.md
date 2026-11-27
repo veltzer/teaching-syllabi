@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:senior-developers
+  - audiences:dbas
+  - audiences:devops
+  - audiences:developers
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:databases
   - concepts:performance
   - concepts:scalability
   - concepts:operations
   - concepts:best-practices
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:senior-developers
-  - audiences:dbas
-  - audiences:devops
-  - audiences:developers
 ---
 
 <!-- course: connection_pooling_and_proxies -->

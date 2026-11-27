@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:ml-engineers
+  - audiences:data-engineers
+  - audiences:architects
+category: database
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:databases
   - concepts:similarity-search
@@ -6,15 +15,6 @@ tags:
   - concepts:performance
   - concepts:scalability
   - concepts:rag
-level: intermediate
-category: database
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:ml-engineers
-  - audiences:data-engineers
-  - audiences:architects
 ---
 
 <!-- course: vector_databases_engineering -->

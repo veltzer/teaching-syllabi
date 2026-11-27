@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:go
   - concepts:concurrency
   - concepts:programming
   - concepts:testing
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: advanced_go -->

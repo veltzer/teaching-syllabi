@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: operating-systems
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:android
   - languages:kotlin
   - concepts:web-development
-level: intermediate
-category: operating-systems
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: android_application_development -->

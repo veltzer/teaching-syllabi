@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:security-engineers
+category: security
+duration_hours: 24
+level: intermediate
 tags:
   - security:devsecops
   - practices:devops
   - security:sast
   - security:dast
   - practices:shift-left
-level: intermediate
-category: security
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:security-engineers
 ---
 
 <!-- course: devsecops -->

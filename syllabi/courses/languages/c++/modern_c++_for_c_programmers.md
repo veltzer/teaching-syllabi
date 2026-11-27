@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: intermediate
 tags:
   - languages:c++
   - languages:c
   - languages:c++11
   - concepts:oop
   - concepts:design-patterns
-level: intermediate
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: modern_c++_for_c_programmers -->

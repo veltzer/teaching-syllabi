@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: networking
+duration_hours: 24
+level: intermediate
 tags:
   - networking:wifi
   - networking:networking
   - networking:protocols
   - networking:802.11
-level: intermediate
-category: networking
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: wifi_protocols -->

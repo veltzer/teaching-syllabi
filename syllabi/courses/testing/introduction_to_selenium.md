@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+  - audiences:managers
+category: testing
+duration_hours: 16
+level: beginner
 tags:
   - tools:selenium
   - practices:testing
   - networking:web
   - practices:automation
-level: beginner
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:testers
-  - audiences:managers
 ---
 
 <!-- course: introduction_to_selenium -->

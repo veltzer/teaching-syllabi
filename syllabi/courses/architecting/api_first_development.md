@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - architecture:api-design
   - practices:api-first
   - tools:openapi
   - tools:swagger
   - practices:contract-testing
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- course: api_first_development -->

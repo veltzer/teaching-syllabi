@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+category: message-queue
+duration_hours: 16
+level: intermediate
 tags:
   - tools:nats
   - messaging:pub-sub
   - messaging:cloud-native
   - concepts:distributed-systems
-level: intermediate
-category: message-queue
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: nats -->

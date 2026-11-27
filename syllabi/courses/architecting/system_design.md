@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:team-leads
+category: architecture
+duration_hours: 24
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:scalability
   - concepts:distributed-systems
   - concepts:design-patterns
-level: intermediate
-category: architecture
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: system_design -->

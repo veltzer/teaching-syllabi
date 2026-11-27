@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:security-engineers
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - networking:security
   - networking:authentication
   - protocols:oauth2
   - protocols:oidc
   - concepts:identity
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:security-engineers
 ---
 
 <!-- course: oauth2_and_oidc -->

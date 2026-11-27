@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:javascript
   - concepts:web-development
   - networking:web
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: progressive_web_apps -->

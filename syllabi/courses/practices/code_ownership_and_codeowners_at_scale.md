@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:code-review
-  - concepts:operations
-  - concepts:agile
-level: intermediate
-category: practices
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:management
   - audiences:architects
+category: practices
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:code-review
+  - concepts:operations
+  - concepts:agile
 ---
 
 <!-- course: code_ownership_and_codeowners_at_scale -->

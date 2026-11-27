@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:observability
-  - concepts:operations
-  - concepts:best-practices
-  - concepts:performance
-level: intermediate
-category: observability
-duration_hours: 16
 audience:
   - audiences:sres
   - audiences:devops
   - audiences:team-leads
   - audiences:senior-developers
+category: observability
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:observability
+  - concepts:operations
+  - concepts:best-practices
+  - concepts:performance
 ---
 
 <!-- course: slos_and_error_budgets -->

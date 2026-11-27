@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:dotnet-developers
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:fsharp
   - concepts:functional-programming
   - concepts:dotnet
   - concepts:type-system
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:dotnet-developers
 ---
 
 <!-- course: fsharp_programming -->

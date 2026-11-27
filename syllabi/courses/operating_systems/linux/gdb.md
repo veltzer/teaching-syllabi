@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: operating-systems
+duration_hours: 16
+level: intermediate
 tags:
   - infrastructure:linux
   - tools:gdb
@@ -6,12 +12,6 @@ tags:
   - languages:c
   - languages:c++
   - hardware-and-embedded:toolchain
-level: intermediate
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: gdb -->

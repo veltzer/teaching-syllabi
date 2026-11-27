@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:solr
-  - data-and-ai:search
-  - tools:lucene
-level: intermediate
-category: database
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:managers
+category: database
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:solr
+  - data-and-ai:search
+  - tools:lucene
 ---
 
 <!-- course: solr_8_for_developers -->

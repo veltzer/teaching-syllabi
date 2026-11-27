@@ -1,13 +1,13 @@
 ---
-tags:
-  - data-and-ai:data-science
-  - concepts:best-practices
-level: intermediate
-category: big-data
-duration_hours: 16
 audience:
   - audiences:data-scientists
   - audiences:managers
+category: big-data
+duration_hours: 16
+level: intermediate
+tags:
+  - data-and-ai:data-science
+  - concepts:best-practices
 ---
 
 <!-- course: data_governance_and_quality -->

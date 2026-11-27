@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: beginner
 tags:
   - languages:swift
   - concepts:programming
   - practices:mobile
-level: beginner
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: swift_programming -->

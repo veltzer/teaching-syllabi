@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+category: devops
+duration_hours: 32
+level: beginner
 tags:
   - tools:kubernetes
   - tools:docker
   - infrastructure:containers
   - practices:devops
   - infrastructure:orchestration
-level: beginner
-category: devops
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: introduction_to_kubernetes -->

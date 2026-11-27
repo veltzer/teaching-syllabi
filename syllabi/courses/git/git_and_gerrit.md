@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: version-control
+duration_hours: 16
+level: intermediate
 tags:
   - tools:git
   - tools:gerrit
   - concepts:version-control
   - concepts:code-review
-level: intermediate
-category: version-control
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: git_and_gerrit -->

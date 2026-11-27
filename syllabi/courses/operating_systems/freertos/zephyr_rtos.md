@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: operating-systems
+duration_hours: 32
+level: intermediate
 tags:
   - hardware-and-embedded:rtos
   - hardware-and-embedded:embedded
   - concepts:systems-programming
-level: intermediate
-category: operating-systems
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: zephyr_rtos -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:data-analysts
+category: data-science
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:data-science
   - data-and-ai:statistics
   - data-and-ai:machine-learning
   - languages:python
-level: intermediate
-category: data-science
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:data-analysts
 ---
 
 <!-- course: time_series_analysis -->

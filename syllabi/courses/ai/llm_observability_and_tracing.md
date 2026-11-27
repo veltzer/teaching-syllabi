@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:ml-engineers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:developers
+category: ai
+duration_hours: 24
+level: advanced
 tags:
   - concepts:ai
   - concepts:machine-learning
   - concepts:observability
   - concepts:operations
   - concepts:best-practices
-level: advanced
-category: ai
-duration_hours: 24
-audience:
-  - audiences:ml-engineers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:developers
 ---
 
 <!-- course: llm_observability_and_tracing -->

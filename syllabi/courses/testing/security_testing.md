@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:security-professionals
+  - audiences:devops
+  - audiences:testers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - practices:testing
   - security:security
   - security:owasp
   - security:sast
   - security:dast
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:security-professionals
-  - audiences:devops
-  - audiences:testers
 ---
 
 <!-- course: security_testing -->

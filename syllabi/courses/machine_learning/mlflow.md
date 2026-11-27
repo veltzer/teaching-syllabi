@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:devops
+category: machine-learning
+duration_hours: 16
+level: intermediate
 tags:
   - tools:mlflow
   - data-and-ai:mlops
   - practices:experiment-tracking
   - concepts:model-registry
   - data-and-ai:machine-learning
-level: intermediate
-category: machine-learning
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:devops
 ---
 
 <!-- course: mlflow -->

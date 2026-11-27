@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: advanced
 tags:
   - languages:c++
   - concepts:best-practices
   - concepts:oop
-level: advanced
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: effective_c++ -->

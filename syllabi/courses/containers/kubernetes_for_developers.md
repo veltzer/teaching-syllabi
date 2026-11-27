@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: containers
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:kubernetes
   - infrastructure:containers
   - practices:devops
   - languages:go
   - concepts:programming
-level: advanced
-category: containers
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: kubernetes_for_developers -->

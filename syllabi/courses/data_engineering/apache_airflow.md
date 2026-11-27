@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:devops
+category: data-engineering
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:airflow
   - languages:python
   - concepts:workflow-orchestration
   - concepts:scheduling
-level: intermediate
-category: data-engineering
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:devops
 ---
 
 <!-- course: apache_airflow -->

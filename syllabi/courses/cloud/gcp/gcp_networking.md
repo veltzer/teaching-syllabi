@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:gcp
-  - infrastructure:cloud
-  - concepts:networking
-level: intermediate
-category: cloud
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:architects
+category: cloud
+duration_hours: 24
+level: intermediate
+tags:
+  - infrastructure:gcp
+  - infrastructure:cloud
+  - concepts:networking
 ---
 
 <!-- course: gcp_networking -->

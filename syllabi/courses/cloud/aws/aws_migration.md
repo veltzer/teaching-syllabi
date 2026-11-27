@@ -1,16 +1,16 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-  - concepts:migration
-level: intermediate
-category: cloud
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
+category: cloud
+duration_hours: 24
+level: intermediate
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - concepts:migration
 ---
 
 <!-- course: aws_migration -->

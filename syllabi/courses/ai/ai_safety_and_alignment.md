@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:ml-engineers
+  - audiences:senior-developers
+  - audiences:security-engineers
+  - audiences:architects
+category: ai
+duration_hours: 40
+level: advanced
 tags:
   - concepts:ai
   - concepts:machine-learning
@@ -6,14 +14,6 @@ tags:
   - concepts:security
   - concepts:best-practices
   - concepts:testing
-level: advanced
-category: ai
-duration_hours: 40
-audience:
-  - audiences:ml-engineers
-  - audiences:senior-developers
-  - audiences:security-engineers
-  - audiences:architects
 ---
 
 <!-- course: ai_safety_and_alignment -->

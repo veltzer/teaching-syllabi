@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+  - audiences:sres
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:scalability
   - networking:web
   - networking:http
   - concepts:web-development
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
-  - audiences:sres
 ---
 
 <!-- course: web_architecture_and_scaling -->

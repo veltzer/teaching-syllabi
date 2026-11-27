@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: design-patterns
+duration_hours: 8
+level: intermediate
 tags:
   - concepts:solid
   - concepts:clean-code
   - concepts:oop
   - concepts:design-patterns
   - concepts:best-practices
-level: intermediate
-category: design-patterns
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: solid_clean_code -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: game-development
+duration_hours: 24
+level: beginner
 tags:
   - tools:unity
   - practices:game-development
   - hardware-and-embedded:3d
   - practices:scripting
-level: beginner
-category: game-development
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: introduction_to_game_development_with_unity -->

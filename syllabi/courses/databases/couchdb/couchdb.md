@@ -1,13 +1,13 @@
 ---
-tags:
-  - tools:couchdb
-  - data-and-ai:nosql
-level: intermediate
-category: database
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:architects
+category: database
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:couchdb
+  - data-and-ai:nosql
 ---
 
 <!-- course: couchdb -->

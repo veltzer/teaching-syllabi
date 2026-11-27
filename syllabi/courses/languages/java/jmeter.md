@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:java
   - tools:jmeter
   - practices:testing
   - practices:performance
   - practices:load-testing
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: jmeter -->

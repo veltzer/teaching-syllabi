@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:performance-engineers
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - concepts:parallel-computing
   - concepts:multithreading
   - concepts:concurrency
   - hardware-and-embedded:multi-core
   - infrastructure:linux
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:performance-engineers
 ---
 
 <!-- course: parallel_programming -->

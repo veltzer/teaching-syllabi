@@ -1,15 +1,15 @@
 ---
-tags:
-  - concepts:programming
-  - concepts:scripting
-  - practices:automation
-level: intermediate
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:embedded-engineers
   - audiences:testers
+category: language
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:programming
+  - concepts:scripting
+  - practices:automation
 ---
 
 <!-- course: tcl_programming -->

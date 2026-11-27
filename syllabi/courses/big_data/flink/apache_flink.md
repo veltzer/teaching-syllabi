@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 32
+level: intermediate
 tags:
   - tools:flink
   - data-and-ai:big-data
   - data-and-ai:streaming
-level: intermediate
-category: big-data
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: apache_flink -->

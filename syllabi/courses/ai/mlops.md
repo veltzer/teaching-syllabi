@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: ai
+duration_hours: 32
+level: intermediate
 tags:
   - data-and-ai:machine-learning
   - practices:devops
   - practices:automation
-level: intermediate
-category: ai
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: mlops -->

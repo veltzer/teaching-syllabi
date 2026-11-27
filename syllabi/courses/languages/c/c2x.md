@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 8
+level: advanced
 tags:
   - languages:c
   - languages:c2x
   - concepts:programming
-level: advanced
-category: language
-duration_hours: 8
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c2x -->

@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - networking:protocols
   - networking:web
   - concepts:web-development
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: websocket_programming -->

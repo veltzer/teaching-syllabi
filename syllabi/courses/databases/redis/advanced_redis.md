@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:architects
+category: database
+duration_hours: 16
+level: advanced
 tags:
   - tools:redis
   - databases:nosql
   - data-and-ai:databases
   - data-and-ai:caching
-level: advanced
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:architects
 ---
 
 <!-- course: advanced_redis -->

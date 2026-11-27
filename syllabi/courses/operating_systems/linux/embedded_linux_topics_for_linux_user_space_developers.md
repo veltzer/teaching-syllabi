@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
@@ -7,12 +13,6 @@ tags:
   - concepts:scheduling
   - tools:buildroot
   - tools:yocto
-level: intermediate
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: embedded_linux_topics_for_linux_user_space_developers -->

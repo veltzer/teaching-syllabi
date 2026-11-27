@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 8
+level: intermediate
 tags:
   - infrastructure:linux
   - tools:qemu
@@ -6,12 +12,6 @@ tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:arm
   - practices:debugging
-level: intermediate
-category: operating-systems
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: qemu -->

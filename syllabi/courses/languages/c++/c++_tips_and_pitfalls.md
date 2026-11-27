@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:c++
   - practices:performance
   - concepts:best-practices
   - languages:stl
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c++_tips_and_pitfalls -->

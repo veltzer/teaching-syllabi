@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 8
+level: intermediate
 tags:
   - languages:java
   - tools:spring
   - tools:spring-data
   - concepts:databases
   - concepts:persistence
-level: intermediate
-category: language
-duration_hours: 8
-audience:
-  - audiences:developers
 ---
 
 <!-- course: spring_data -->

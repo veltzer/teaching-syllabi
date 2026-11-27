@@ -1,4 +1,9 @@
 ---
+audience:
+  - audiences:developers
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:linux
   - practices:performance
@@ -7,11 +12,6 @@ tags:
   - infrastructure:cgroups
   - infrastructure:namespaces
   - hardware-and-embedded:zero-copy
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: linux_advanced_topics -->

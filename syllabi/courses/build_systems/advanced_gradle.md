@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: build-system
+duration_hours: 16
+level: advanced
 tags:
   - tools:gradle
   - practices:build-systems
   - languages:java
-level: advanced
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: advanced_gradle -->

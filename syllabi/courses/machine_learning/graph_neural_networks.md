@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 24
+level: advanced
 tags:
   - data-and-ai:gnn
   - concepts:graph-learning
   - data-and-ai:deep-learning
   - tools:pytorch-geometric
   - tools:dgl
-level: advanced
-category: machine-learning
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: graph_neural_networks -->

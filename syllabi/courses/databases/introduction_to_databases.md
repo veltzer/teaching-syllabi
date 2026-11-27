@@ -1,12 +1,12 @@
 ---
-tags:
-  - concepts:databases
-level: beginner
-category: database
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:devops
+category: database
+duration_hours: 24
+level: beginner
+tags:
+  - concepts:databases
 ---
 
 <!-- course: introduction_to_databases -->

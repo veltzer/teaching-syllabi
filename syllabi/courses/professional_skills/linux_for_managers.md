@@ -1,14 +1,14 @@
 ---
-tags:
-  - infrastructure:linux
-  - concepts:architecture
-level: beginner
-category: methodology
-duration_hours: 16
 audience:
   - audiences:managers
   - audiences:team-leads
   - audiences:project-management
+category: methodology
+duration_hours: 16
+level: beginner
+tags:
+  - infrastructure:linux
+  - concepts:architecture
 ---
 
 <!-- course: linux_for_managers -->

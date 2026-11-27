@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:data-scientists
+  - audiences:developers
+  - audiences:managers
+category: ai
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:xai
   - data-and-ai:explainability
   - data-and-ai:machine-learning
   - tools:shap
   - tools:lime
-level: intermediate
-category: ai
-duration_hours: 16
-audience:
-  - audiences:data-scientists
-  - audiences:developers
-  - audiences:managers
 ---
 
 <!-- course: explainable_ai -->

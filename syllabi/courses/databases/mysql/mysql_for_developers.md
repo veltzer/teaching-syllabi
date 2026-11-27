@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - tools:mysql
   - databases:sql
   - data-and-ai:databases
   - concepts:data-modeling
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: mysql_for_developers -->

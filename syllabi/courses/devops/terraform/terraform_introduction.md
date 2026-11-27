@@ -1,19 +1,19 @@
 ---
-tags:
-  - tools:terraform
-  - infrastructure:infrastructure-as-code
-  - infrastructure:cloud
-  - practices:devops
-level: beginner
-category: devops
-duration_hours_short: 8
-duration_hours_long: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:managers
+category: devops
 duration_hours: 24
+duration_hours_long: 24
+duration_hours_short: 8
+level: beginner
+tags:
+  - tools:terraform
+  - infrastructure:infrastructure-as-code
+  - infrastructure:cloud
+  - practices:devops
 ---
 
 <!-- course: terraform_introduction -->

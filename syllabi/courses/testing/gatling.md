@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:qa-engineers
+  - audiences:devops
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - tools:gatling
   - practices:load-testing
   - practices:performance-testing
   - languages:scala
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:qa-engineers
-  - audiences:devops
 ---
 
 <!-- course: gatling -->

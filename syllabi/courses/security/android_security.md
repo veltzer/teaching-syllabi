@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:security-professionals
+  - audiences:testers
+category: security
+duration_hours: 16
+level: advanced
 tags:
   - security:security
   - infrastructure:android
   - security:secure-coding
   - security:vulnerabilities
-level: advanced
-category: security
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:security-professionals
-  - audiences:testers
 ---
 
 <!-- course: android_security -->

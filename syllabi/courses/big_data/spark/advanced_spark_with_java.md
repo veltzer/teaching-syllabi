@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 24
+level: advanced
 tags:
   - tools:spark
   - languages:java
   - data-and-ai:big-data
   - practices:performance
   - data-and-ai:machine-learning
-level: advanced
-category: big-data
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: advanced_spark_with_java -->

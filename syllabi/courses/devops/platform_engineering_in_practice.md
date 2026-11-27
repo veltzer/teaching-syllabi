@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sres
+  - audiences:senior-developers
+  - audiences:architects
+  - audiences:team-leads
+category: devops
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:developer-experience
   - concepts:operations
@@ -6,15 +15,6 @@ tags:
   - concepts:best-practices
   - concepts:architecture
   - concepts:scalability
-level: intermediate
-category: devops
-duration_hours: 40
-audience:
-  - audiences:devops
-  - audiences:sres
-  - audiences:senior-developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: platform_engineering_in_practice -->

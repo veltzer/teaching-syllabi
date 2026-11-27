@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: architecture
+duration_hours: 8
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:microservices
   - infrastructure:cloud-native
   - concepts:service-mesh
   - practices:devops
-level: intermediate
-category: architecture
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: cloud_monolith_microservices_cloudnative_servicmesh -->

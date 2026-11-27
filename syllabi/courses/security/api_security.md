@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:security-professionals
+category: security
+duration_hours: 16
+level: intermediate
 tags:
   - security:security
   - security:authentication
   - concepts:api
   - networking:web
-level: intermediate
-category: security
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:security-professionals
 ---
 
 <!-- course: api_security -->

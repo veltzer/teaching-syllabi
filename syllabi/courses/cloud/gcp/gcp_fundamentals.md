@@ -1,14 +1,14 @@
 ---
-tags:
-  - infrastructure:gcp
-  - infrastructure:cloud
-level: beginner
-category: cloud
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: cloud
+duration_hours: 32
+level: beginner
+tags:
+  - infrastructure:gcp
+  - infrastructure:cloud
 ---
 
 <!-- course: gcp_fundamentals -->

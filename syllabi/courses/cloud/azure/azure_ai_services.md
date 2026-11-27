@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:azure
   - infrastructure:cloud
   - concepts:ai
   - concepts:machine-learning
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: azure_ai_services -->

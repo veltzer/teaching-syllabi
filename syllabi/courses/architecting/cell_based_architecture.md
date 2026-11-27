@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:distributed-systems
-  - concepts:scalability
-  - concepts:best-practices
-level: advanced
-category: architecture
-duration_hours: 24
 audience:
   - audiences:architects
   - audiences:senior-developers
   - audiences:devops
   - audiences:team-leads
+category: architecture
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:distributed-systems
+  - concepts:scalability
+  - concepts:best-practices
 ---
 
 <!-- course: cell_based_architecture -->

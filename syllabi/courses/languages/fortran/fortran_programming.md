@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:fortran
   - concepts:programming
   - concepts:parallel-computing
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: fortran_programming -->

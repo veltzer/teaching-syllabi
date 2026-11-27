@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: containers
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:kubernetes
   - infrastructure:containers
@@ -6,13 +13,6 @@ tags:
   - practices:devops
   - practices:ci-cd
   - infrastructure:cloud
-level: intermediate
-category: containers
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: kubernetes -->

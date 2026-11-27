@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:architects
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - practices:devops
   - practices:platform-engineering
   - tools:backstage
   - concepts:developer-experience
   - infrastructure:cloud
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:architects
 ---
 
 <!-- course: platform_engineering -->

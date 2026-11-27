@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 40
+level: intermediate
 tags:
   - tools:oracle
   - languages:sql
   - languages:plsql
-level: intermediate
-category: database
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: oracle_for_developers -->

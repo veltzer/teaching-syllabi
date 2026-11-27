@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:security-engineers
+  - audiences:blockchain-developers
+  - audiences:senior-developers
+  - audiences:penetration-testers
+category: security
+duration_hours: 40
+level: advanced
 tags:
   - concepts:security
   - concepts:blockchain
@@ -6,14 +14,6 @@ tags:
   - concepts:cryptography
   - concepts:ethereum
   - concepts:web3
-level: advanced
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-engineers
-  - audiences:blockchain-developers
-  - audiences:senior-developers
-  - audiences:penetration-testers
 ---
 
 <!-- course: web3_and_blockchain_security -->

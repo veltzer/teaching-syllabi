@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:managers
+category: methodology
+duration_hours: 16
+level: intermediate
 tags:
   - practices:methodology
   - concepts:best-practices
-level: intermediate
-category: methodology
-duration_hours: 16
-audience:
-  - audiences:managers
 ---
 
 <!-- course: interviewing_and_hiring_for_tech_leads -->

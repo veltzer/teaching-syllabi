@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:agile
-level: intermediate
-category: practices
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:managers
+category: practices
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:agile
 ---
 
 <!-- course: effective_remote_engineering -->

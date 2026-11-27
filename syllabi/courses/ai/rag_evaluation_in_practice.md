@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:ai
-  - concepts:rag
-  - concepts:testing
-  - concepts:best-practices
-level: advanced
-category: ai
-duration_hours: 16
 audience:
   - audiences:ml-engineers
   - audiences:senior-developers
   - audiences:developers
   - audiences:qa-engineers
+category: ai
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:ai
+  - concepts:rag
+  - concepts:testing
+  - concepts:best-practices
 ---
 
 <!-- course: rag_evaluation_in_practice -->

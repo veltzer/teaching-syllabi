@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:sres
+  - audiences:architects
+category: cloud
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:serverless
   - concepts:cloud-economics
@@ -6,15 +15,6 @@ tags:
   - concepts:observability
   - concepts:async-programming
   - concepts:operations
-level: intermediate
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:sres
-  - audiences:architects
 ---
 
 <!-- course: serverless_in_practice -->

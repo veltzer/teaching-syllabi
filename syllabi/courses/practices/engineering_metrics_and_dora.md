@@ -1,19 +1,19 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:operations
-  - concepts:agile
-  - concepts:observability
-level: intermediate
-category: practices
-duration_hours: 40
 audience:
   - audiences:team-leads
   - audiences:managers
   - audiences:senior-developers
   - audiences:devops
   - audiences:architects
+category: practices
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:operations
+  - concepts:agile
+  - concepts:observability
 ---
 
 <!-- course: engineering_metrics_and_dora -->

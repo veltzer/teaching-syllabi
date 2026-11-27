@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: embedded
+duration_hours: 24
+level: advanced
 tags:
   - hardware-and-embedded:embedded
   - infrastructure:real-time
   - concepts:design-patterns
   - concepts:oop
-level: advanced
-category: embedded
-duration_hours: 24
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: design_patterns_for_embedded_and_real_time_systems -->

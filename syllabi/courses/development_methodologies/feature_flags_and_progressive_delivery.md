@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:team-leads
+  - audiences:architects
+category: methodology
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:best-practices
   - concepts:developer-experience
@@ -6,15 +15,6 @@ tags:
   - concepts:testing
   - concepts:migration
   - concepts:architecture
-level: intermediate
-category: methodology
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:team-leads
-  - audiences:architects
 ---
 
 <!-- course: feature_flags_and_progressive_delivery -->

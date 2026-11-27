@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:dbas
+  - audiences:sysadmins
+category: database
+duration_hours: 40
+level: intermediate
 tags:
   - tools:oracle
   - languages:sql
   - audiences:administration
   - practices:performance
-level: intermediate
-category: database
-duration_hours: 40
-audience:
-  - audiences:dbas
-  - audiences:sysadmins
 ---
 
 <!-- course: oracle_for_administrators -->

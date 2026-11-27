@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:architects
+category: data-engineering
+duration_hours: 40
+level: advanced
 tags:
   - concepts:big-data
   - concepts:distributed-systems
@@ -6,14 +14,6 @@ tags:
   - concepts:data-integration
   - concepts:eventual-consistency
   - concepts:scalability
-level: advanced
-category: data-engineering
-duration_hours: 40
-audience:
-  - audiences:data-engineers
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:architects
 ---
 
 <!-- course: streaming_data_systems -->

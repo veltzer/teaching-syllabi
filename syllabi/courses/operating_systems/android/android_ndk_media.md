@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:android
   - hardware-and-embedded:ndk
@@ -6,12 +12,6 @@ tags:
   - hardware-and-embedded:audio
   - hardware-and-embedded:video
   - hardware-and-embedded:opengl
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: android_ndk_media -->

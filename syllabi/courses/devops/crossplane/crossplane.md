@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: advanced
 tags:
   - tools:crossplane
   - tools:kubernetes
@@ -7,13 +14,6 @@ tags:
   - infrastructure:aws
   - infrastructure:azure
   - infrastructure:gcp
-level: advanced
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: crossplane -->

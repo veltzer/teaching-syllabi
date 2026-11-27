@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: language
+duration_hours: 40
+level: advanced
 tags:
   - languages:c++
   - hardware-and-embedded:embedded
   - infrastructure:real-time
   - practices:performance
-level: advanced
-category: language
-duration_hours: 40
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: c++_for_embedded_and_real_time_systems -->

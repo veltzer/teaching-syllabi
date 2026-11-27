@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:crystal
   - concepts:compiled
   - concepts:oop
   - concepts:type-system
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: crystal_programming -->

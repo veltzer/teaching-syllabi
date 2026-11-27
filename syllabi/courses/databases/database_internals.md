@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:dbas
+  - audiences:architects
+category: database
+duration_hours: 40
+level: advanced
 tags:
   - concepts:databases
   - concepts:database-design
@@ -7,14 +15,6 @@ tags:
   - concepts:acid
   - concepts:eventual-consistency
   - concepts:performance
-level: advanced
-category: database
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:dbas
-  - audiences:architects
 ---
 
 <!-- course: database_internals -->

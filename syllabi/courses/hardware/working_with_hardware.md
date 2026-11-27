@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: hardware
+duration_hours: 96
+level: advanced
 tags:
   - hardware-and-embedded:hardware
   - hardware-and-embedded:interrupts
   - hardware-and-embedded:dma
   - hardware-and-embedded:embedded
-level: advanced
-category: hardware
-duration_hours: 96
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: working_with_hardware -->

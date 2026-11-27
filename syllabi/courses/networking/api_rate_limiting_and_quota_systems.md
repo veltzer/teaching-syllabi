@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:sres
+  - audiences:architects
+category: networking
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:api
   - concepts:scalability
@@ -6,15 +15,6 @@ tags:
   - concepts:distributed-systems
   - concepts:operations
   - concepts:network-security
-level: intermediate
-category: networking
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:sres
-  - audiences:architects
 ---
 
 <!-- course: api_rate_limiting_and_quota_systems -->

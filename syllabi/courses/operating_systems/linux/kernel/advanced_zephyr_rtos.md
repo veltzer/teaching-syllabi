@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - hardware-and-embedded:rtos
   - hardware-and-embedded:embedded
   - hardware-and-embedded:iot
   - infrastructure:rtos
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:embedded-engineers
-  - audiences:firmware-developers
 ---
 
 <!-- course: advanced_zephyr_rtos -->

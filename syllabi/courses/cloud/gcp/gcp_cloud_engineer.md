@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:architects
+  - audiences:sysadmins
+category: cloud
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:cloud
   - infrastructure:gcp
@@ -8,14 +16,6 @@ tags:
   - infrastructure:containers
   - infrastructure:kubernetes
   - practices:devops
-level: intermediate
-category: cloud
-duration_hours: 32
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:architects
-  - audiences:sysadmins
 ---
 
 <!-- course: gcp_cloud_engineer -->

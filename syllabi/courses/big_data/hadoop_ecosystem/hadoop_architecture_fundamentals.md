@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:managers
+category: big-data
+duration_hours: 16
+level: beginner
 tags:
   - tools:hadoop
   - data-and-ai:hdfs
   - data-and-ai:mapreduce
   - data-and-ai:big-data
   - languages:java
-level: beginner
-category: big-data
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:managers
 ---
 
 <!-- course: hadoop_architecture_fundamentals -->

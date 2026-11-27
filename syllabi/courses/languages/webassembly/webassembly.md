@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:webassembly
   - concepts:programming
   - concepts:web-development
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: webassembly -->

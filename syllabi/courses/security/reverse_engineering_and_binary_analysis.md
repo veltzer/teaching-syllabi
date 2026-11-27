@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:testers
+category: security
+duration_hours: 40
+level: advanced
 tags:
   - security:security
   - security:penetration-testing
   - concepts:systems-programming
-level: advanced
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-professionals
-  - audiences:testers
 ---
 
 <!-- course: reverse_engineering_and_binary_analysis -->

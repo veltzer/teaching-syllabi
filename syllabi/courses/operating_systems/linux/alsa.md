@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:devops
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:alsa
@@ -6,13 +13,6 @@ tags:
   - infrastructure:kernel
   - infrastructure:device-drivers
   - hardware-and-embedded:embedded
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:devops
 ---
 
 <!-- course: alsa -->

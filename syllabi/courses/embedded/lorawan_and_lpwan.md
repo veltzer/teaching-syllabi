@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: embedded
+duration_hours: 16
+level: intermediate
 tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:iot
   - networking:protocols
-level: intermediate
-category: embedded
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: lorawan_and_lpwan -->

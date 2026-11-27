@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:developers
+category: methodology
+duration_hours: 16
+level: beginner
 tags:
   - practices:tools
   - practices:productivity
-level: beginner
-category: methodology
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: vim_and_neovim -->

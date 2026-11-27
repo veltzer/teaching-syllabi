@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:qa-engineers
+  - audiences:testers
+category: testing
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:testing
   - concepts:tdd
@@ -6,14 +14,6 @@ tags:
   - concepts:bdd
   - concepts:best-practices
   - concepts:functional-programming
-level: intermediate
-category: testing
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:qa-engineers
-  - audiences:testers
 ---
 
 <!-- course: property_based_testing -->

@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:analytics-engineers
+  - audiences:data-architects
+  - audiences:architects
+  - audiences:team-leads
+category: data-engineering
+duration_hours: 40
+level: advanced
 tags:
   - concepts:data-architecture
   - concepts:data-integration
@@ -6,15 +15,6 @@ tags:
   - concepts:architecture
   - concepts:operations
   - concepts:best-practices
-level: advanced
-category: data-engineering
-duration_hours: 40
-audience:
-  - audiences:data-engineers
-  - audiences:analytics-engineers
-  - audiences:data-architects
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: data_mesh_in_practice -->

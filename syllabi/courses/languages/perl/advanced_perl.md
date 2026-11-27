@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:perl
   - concepts:programming
   - practices:scripting
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
 ---
 
 <!-- course: advanced_perl -->

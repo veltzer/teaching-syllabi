@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:architects
+category: ai
+duration_hours: 16
+level: advanced
 tags:
   - data-and-ai:federated-learning
   - data-and-ai:privacy
   - data-and-ai:machine-learning
   - concepts:differential-privacy
-level: advanced
-category: ai
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:architects
 ---
 
 <!-- course: federated_learning -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:sysadmins
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - databases:influxdb
   - databases:time-series
   - databases:nosql
   - tools:influxdb
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:sysadmins
 ---
 
 <!-- course: influxdb -->

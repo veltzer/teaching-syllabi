@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:security-engineers
+  - audiences:security-professionals
+  - audiences:forensics-investigators
+  - audiences:sres
+  - audiences:devops
+category: security
+duration_hours: 40
+level: advanced
 tags:
   - concepts:security
   - concepts:operations
@@ -6,15 +15,6 @@ tags:
   - concepts:network-security
   - concepts:observability
   - concepts:best-practices
-level: advanced
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-engineers
-  - audiences:security-professionals
-  - audiences:forensics-investigators
-  - audiences:sres
-  - audiences:devops
 ---
 
 <!-- course: incident_response_and_forensics -->

@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:javascript
   - languages:typescript
   - practices:mobile
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: react_native -->

@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:powershell
-  - practices:automation
-  - practices:scripting
-level: beginner
-category: language
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: language
+duration_hours: 24
+level: beginner
+tags:
+  - languages:powershell
+  - practices:automation
+  - practices:scripting
 ---
 
 <!-- course: powershell -->

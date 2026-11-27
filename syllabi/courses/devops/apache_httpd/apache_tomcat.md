@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:java
-  - networking:web
-  - practices:sysadmin
-level: intermediate
-category: devops
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
+tags:
+  - languages:java
+  - networking:web
+  - practices:sysadmin
 ---
 
 <!-- course: apache_tomcat -->

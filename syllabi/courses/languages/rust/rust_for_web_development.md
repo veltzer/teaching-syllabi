@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:rust
   - concepts:web-development
   - networking:web
   - concepts:async-programming
   - concepts:rest-api
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: rust_for_web_development -->

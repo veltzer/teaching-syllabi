@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:developers
+  - audiences:architects
+category: big-data
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:cloud
   - infrastructure:gcp
@@ -8,13 +15,6 @@ tags:
   - data-and-ai:streaming
   - data-and-ai:data-analytics
   - security:iam
-level: intermediate
-category: big-data
-duration_hours: 32
-audience:
-  - audiences:data-engineers
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: gcp_data_engineering -->

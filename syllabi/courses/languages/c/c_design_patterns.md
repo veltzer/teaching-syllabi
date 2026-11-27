@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:c
   - concepts:design-patterns
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c_design_patterns -->

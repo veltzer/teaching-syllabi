@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:kernel
@@ -6,12 +12,6 @@ tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:bsp
   - infrastructure:real-time
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: linux_kernel -->

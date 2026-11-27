@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: hardware
+duration_hours: 32
+level: intermediate
 tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:arm
   - concepts:systems-programming
-level: intermediate
-category: hardware
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: arm_architecture -->

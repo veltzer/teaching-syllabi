@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:grafana
-  - practices:observability
-  - practices:monitoring
-level: intermediate
-category: observability
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: observability
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:grafana
+  - practices:observability
+  - practices:monitoring
 ---
 
 <!-- course: grafana_deep_dive -->

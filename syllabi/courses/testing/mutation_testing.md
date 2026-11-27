@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:qa-engineers
+category: testing
+duration_hours: 8
+level: advanced
 tags:
   - practices:mutation-testing
   - practices:testing
   - concepts:test-quality
   - tools:pitest
   - tools:mutmut
-level: advanced
-category: testing
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:qa-engineers
 ---
 
 <!-- course: mutation_testing -->

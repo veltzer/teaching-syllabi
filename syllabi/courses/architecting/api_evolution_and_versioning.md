@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:team-leads
+category: architecture
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:api
   - concepts:rest
@@ -6,13 +13,6 @@ tags:
   - concepts:architecture
   - concepts:best-practices
   - concepts:migration
-level: intermediate
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: api_evolution_and_versioning -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: embedded
+duration_hours: 32
+level: advanced
 tags:
   - languages:rust
   - hardware-and-embedded:embedded
   - hardware-and-embedded:bare-metal
-level: advanced
-category: embedded
-duration_hours: 32
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: rust_topics_for_embedded_systems_programming -->

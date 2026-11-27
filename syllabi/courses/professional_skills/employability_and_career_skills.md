@@ -1,15 +1,15 @@
 ---
-tags:
-  - practices:productivity
-  - concepts:best-practices
-level: beginner
-category: methodology
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:testers
   - audiences:sysadmins
+category: methodology
+duration_hours: 32
+level: beginner
+tags:
+  - practices:productivity
+  - concepts:best-practices
 ---
 
 <!-- course: employability_and_career_skills -->

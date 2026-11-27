@@ -1,4 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:security-engineers
+  - audiences:network-engineers
+  - audiences:architects
+category: networking
+duration_hours: 40
+level: advanced
 tags:
   - concepts:network-security
   - concepts:identity
@@ -7,16 +17,6 @@ tags:
   - concepts:cryptography
   - concepts:service-mesh
   - concepts:microservices
-level: advanced
-category: networking
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:security-engineers
-  - audiences:network-engineers
-  - audiences:architects
 ---
 
 <!-- course: zero_trust_networking_and_mtls -->

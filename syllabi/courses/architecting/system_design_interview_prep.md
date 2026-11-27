@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:senior-developers
+  - audiences:developers
+  - audiences:architects
+category: architecture
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:distributed-systems
@@ -6,13 +13,6 @@ tags:
   - concepts:databases
   - concepts:design-patterns
   - concepts:best-practices
-level: intermediate
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:senior-developers
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: system_design_interview_prep -->

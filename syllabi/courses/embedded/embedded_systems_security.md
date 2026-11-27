@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:embedded-developers
+  - audiences:firmware-developers
+  - audiences:security-engineers
+  - audiences:architects
+category: embedded
+duration_hours: 40
+level: advanced
 tags:
   - concepts:security
   - concepts:cryptography
   - concepts:certificates
   - concepts:pki
   - concepts:identity
-level: advanced
-category: embedded
-duration_hours: 40
-audience:
-  - audiences:embedded-developers
-  - audiences:firmware-developers
-  - audiences:security-engineers
-  - audiences:architects
 ---
 
 <!-- course: embedded_systems_security -->

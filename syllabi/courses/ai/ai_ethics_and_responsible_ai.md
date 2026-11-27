@@ -1,14 +1,14 @@
 ---
-tags:
-  - data-and-ai:ai
-  - concepts:best-practices
-level: beginner
-category: ai
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:managers
   - audiences:data-scientists
+category: ai
+duration_hours: 16
+level: beginner
+tags:
+  - data-and-ai:ai
+  - concepts:best-practices
 ---
 
 <!-- course: ai_ethics_and_responsible_ai -->

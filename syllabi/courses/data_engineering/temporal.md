@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: data-engineering
+duration_hours: 24
+level: intermediate
 tags:
   - tools:temporal
   - practices:workflow-orchestration
   - concepts:distributed-systems
   - practices:microservices
-level: intermediate
-category: data-engineering
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: temporal -->

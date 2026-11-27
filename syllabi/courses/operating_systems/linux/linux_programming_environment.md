@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: operating-systems
+duration_hours: 16
+level: beginner
 tags:
   - infrastructure:linux
   - tools:gcc
   - tools:gdb
   - hardware-and-embedded:toolchain
   - tools:make
-level: beginner
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: linux_programming_environment -->

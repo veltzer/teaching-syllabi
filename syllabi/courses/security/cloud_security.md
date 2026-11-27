@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:architects
+  - audiences:managers
+  - audiences:security-professionals
+category: security
+duration_hours: 16
+level: intermediate
 tags:
   - security:security
   - security:cloud-security
@@ -7,15 +16,6 @@ tags:
   - infrastructure:azure
   - security:iam
   - security:encryption
-level: intermediate
-category: security
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:architects
-  - audiences:managers
-  - audiences:security-professionals
 ---
 
 <!-- course: cloud_security -->

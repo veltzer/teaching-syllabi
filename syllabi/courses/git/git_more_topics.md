@@ -1,13 +1,13 @@
 ---
-tags:
-  - tools:git
-  - concepts:version-control
-level: advanced
-category: version-control
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:devops
+category: version-control
+duration_hours: 8
+level: advanced
+tags:
+  - tools:git
+  - concepts:version-control
 ---
 
 <!-- course: git_more_topics -->

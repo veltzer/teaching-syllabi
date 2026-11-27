@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:postgresql
-  - practices:performance
-level: intermediate
-category: database
-duration_hours: 32
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
+category: database
+duration_hours: 32
+level: intermediate
+tags:
+  - tools:postgresql
+  - practices:performance
 ---
 
 <!-- course: postgresql_administration -->

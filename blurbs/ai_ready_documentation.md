@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:agents
   - data-and-ai:llm
   - data-and-ai:rag
   - practices:documentation
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- blurb: ai_ready_documentation -->

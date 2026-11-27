@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:java
-  - practices:sysadmin
-  - networking:web
-level: intermediate
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: language
+duration_hours: 16
+level: intermediate
+tags:
+  - languages:java
+  - practices:sysadmin
+  - networking:web
 ---
 
 <!-- course: jboss_wildfly -->

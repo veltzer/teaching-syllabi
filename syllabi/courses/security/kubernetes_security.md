@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:architects
+  - audiences:security-professionals
+  - audiences:sres
+category: security
+duration_hours: 16
+level: advanced
 tags:
   - security:security
   - security:kubernetes-security
@@ -6,15 +15,6 @@ tags:
   - infrastructure:containers
   - security:rbac
   - security:runtime-security
-level: advanced
-category: security
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:architects
-  - audiences:security-professionals
-  - audiences:sres
 ---
 
 <!-- course: kubernetes_security -->

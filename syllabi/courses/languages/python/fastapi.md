@@ -1,17 +1,17 @@
 ---
-tags:
-  - languages:python
-  - tools:fastapi
-  - concepts:api
-  - networking:web
-level: intermediate
-category: language
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:data-scientists
   - audiences:devops
+category: language
+duration_hours: 8
+level: intermediate
+tags:
+  - languages:python
+  - tools:fastapi
+  - concepts:api
+  - networking:web
 ---
 
 <!-- course: fastapi -->

@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:team-leads
+category: architecture
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:distributed-systems
@@ -7,13 +14,6 @@ tags:
   - concepts:rest
   - concepts:service-mesh
   - concepts:data-integration
-level: intermediate
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: service_oriented_architecture -->

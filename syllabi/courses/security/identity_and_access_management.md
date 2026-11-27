@@ -1,14 +1,14 @@
 ---
-tags:
-  - security:security
-  - concepts:architecture
-level: intermediate
-category: security
-duration_hours: 24
 audience:
   - audiences:security-professionals
   - audiences:developers
   - audiences:architects
+category: security
+duration_hours: 24
+level: intermediate
+tags:
+  - security:security
+  - concepts:architecture
 ---
 
 <!-- course: identity_and_access_management -->

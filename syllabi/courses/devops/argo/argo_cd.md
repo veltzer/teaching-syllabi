@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - tools:argo-cd
   - tools:kubernetes
   - practices:ci-cd
   - concepts:gitops
   - practices:devops
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: argo_cd -->

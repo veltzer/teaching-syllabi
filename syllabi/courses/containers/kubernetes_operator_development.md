@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:gitops
-  - concepts:operations
-  - concepts:best-practices
-  - concepts:distributed-systems
-level: advanced
-category: containers
-duration_hours: 32
 audience:
   - audiences:devops
   - audiences:senior-developers
   - audiences:sres
   - audiences:architects
+category: containers
+duration_hours: 32
+level: advanced
+tags:
+  - concepts:gitops
+  - concepts:operations
+  - concepts:best-practices
+  - concepts:distributed-systems
 ---
 
 <!-- course: kubernetes_operator_development -->

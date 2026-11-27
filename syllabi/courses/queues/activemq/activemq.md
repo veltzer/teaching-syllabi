@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:java-developers
+  - audiences:architects
+category: message-queue
+duration_hours: 24
+level: intermediate
 tags:
   - tools:activemq
   - messaging:jms
   - messaging:enterprise
   - concepts:message-broker
-level: intermediate
-category: message-queue
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:java-developers
-  - audiences:architects
 ---
 
 <!-- course: activemq -->

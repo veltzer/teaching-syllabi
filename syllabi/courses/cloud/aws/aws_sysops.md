@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: cloud
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
   - concepts:operations
-level: intermediate
-category: cloud
-duration_hours: 32
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: aws_sysops -->

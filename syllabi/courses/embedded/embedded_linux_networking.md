@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
+  - audiences:developers
+category: embedded
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
   - networking:networking
   - networking:tcp-ip
-level: advanced
-category: embedded
-duration_hours: 16
-audience:
-  - audiences:embedded-engineers
-  - audiences:firmware-developers
-  - audiences:developers
 ---
 
 <!-- course: embedded_linux_networking -->

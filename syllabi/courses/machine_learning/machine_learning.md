@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 40
+level: intermediate
 tags:
   - data-and-ai:machine-learning
   - languages:python
   - data-and-ai:data-science
   - concepts:algorithms
-level: intermediate
-category: machine-learning
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: machine_learning -->

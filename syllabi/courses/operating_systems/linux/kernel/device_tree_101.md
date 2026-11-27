@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 8
+level: intermediate
 tags:
   - infrastructure:linux
   - infrastructure:kernel
   - infrastructure:device-tree
   - hardware-and-embedded:embedded
   - hardware-and-embedded:bsp
-level: intermediate
-category: operating-systems
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: device_tree_101 -->

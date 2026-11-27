@@ -1,11 +1,11 @@
 ---
-tags:
-  - concepts:programming
-level: beginner
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
+category: language
+duration_hours: 16
+level: beginner
+tags:
+  - concepts:programming
 ---
 
 <!-- course: introduction_to_programming_concepts -->

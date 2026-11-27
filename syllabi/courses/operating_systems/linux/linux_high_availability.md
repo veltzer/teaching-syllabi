@@ -1,17 +1,17 @@
 ---
-tags:
-  - infrastructure:linux
-  - practices:sre
-  - concepts:scalability
-  - practices:sysadmin
-level: advanced
-category: operating-systems
-duration_hours: 16
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:architects
   - audiences:sres
+category: operating-systems
+duration_hours: 16
+level: advanced
+tags:
+  - infrastructure:linux
+  - practices:sre
+  - concepts:scalability
+  - practices:sysadmin
 ---
 
 <!-- course: linux_high_availability -->

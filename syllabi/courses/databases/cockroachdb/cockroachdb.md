@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:dbas
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - databases:cockroachdb
   - databases:distributed-sql
   - databases:relational
   - databases:cloud-native
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:dbas
 ---
 
 <!-- course: cockroachdb -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:java-developers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - tools:junit5
   - languages:java
   - practices:testing
   - concepts:tdd
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:java-developers
 ---
 
 <!-- course: junit5 -->

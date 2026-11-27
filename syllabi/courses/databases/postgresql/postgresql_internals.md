@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:dbas
+category: database
+duration_hours: 24
+level: advanced
 tags:
   - tools:postgresql
   - databases:sql
   - databases:relational
-level: advanced
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:dbas
 ---
 
 <!-- course: postgresql_internals -->

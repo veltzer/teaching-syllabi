@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:testing
-  - concepts:security
-  - concepts:test-quality
-  - concepts:best-practices
-level: advanced
-category: testing
-duration_hours: 24
 audience:
   - audiences:senior-developers
   - audiences:security-engineers
   - audiences:qa-engineers
   - audiences:developers
+category: testing
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:testing
+  - concepts:security
+  - concepts:test-quality
+  - concepts:best-practices
 ---
 
 <!-- course: fuzz_testing_in_practice -->

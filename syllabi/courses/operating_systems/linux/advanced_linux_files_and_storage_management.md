@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:security-professionals
+  - audiences:devops
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:storage
@@ -7,13 +14,6 @@ tags:
   - infrastructure:raid
   - infrastructure:nfs
   - security:encryption
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:sysadmins
-  - audiences:security-professionals
-  - audiences:devops
 ---
 
 <!-- course: advanced_linux_files_and_storage_management -->

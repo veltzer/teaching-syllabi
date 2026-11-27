@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - practices:testing
   - languages:javascript
   - languages:typescript
   - concepts:web-development
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: playwright -->

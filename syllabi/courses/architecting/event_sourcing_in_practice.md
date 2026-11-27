@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:senior-developers
+  - audiences:developers
+category: architecture
+duration_hours: 40
+level: advanced
 tags:
   - concepts:architecture
   - concepts:domain-driven-design
@@ -6,13 +13,6 @@ tags:
   - concepts:eventual-consistency
   - concepts:design-patterns
   - concepts:persistence
-level: advanced
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:senior-developers
-  - audiences:developers
 ---
 
 <!-- course: event_sourcing_in_practice -->

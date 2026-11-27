@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sysadmins
+  - audiences:sres
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:python
   - practices:devops
   - practices:automation
   - practices:scripting
   - infrastructure:aws
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:sysadmins
-  - audiences:sres
 ---
 
 <!-- course: python_for_devops -->

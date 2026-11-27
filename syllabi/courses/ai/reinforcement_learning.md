@@ -1,13 +1,13 @@
 ---
-tags:
-  - data-and-ai:machine-learning
-  - languages:python
-level: advanced
-category: ai
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:data-scientists
+category: ai
+duration_hours: 32
+level: advanced
+tags:
+  - data-and-ai:machine-learning
+  - languages:python
 ---
 
 <!-- course: reinforcement_learning -->

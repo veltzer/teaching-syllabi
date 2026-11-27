@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:developers
+  - audiences:testers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:kernel
@@ -7,13 +14,6 @@ tags:
   - security:exploitation
   - practices:debugging
   - practices:syzkaller
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:security-professionals
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: linux_kernel_fuzzing_and_root_cause_analysis -->

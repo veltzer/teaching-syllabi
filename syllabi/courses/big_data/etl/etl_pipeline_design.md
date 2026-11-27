@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:etl
   - data-and-ai:big-data
   - concepts:architecture
-level: intermediate
-category: big-data
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: etl_pipeline_design -->

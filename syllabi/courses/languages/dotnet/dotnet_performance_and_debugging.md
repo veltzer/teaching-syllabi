@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: advanced
 tags:
   - languages:dotnet
   - practices:performance
   - practices:debugging
-level: advanced
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: dotnet_performance_and_debugging -->

@@ -1,15 +1,15 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:distributed-systems
-  - concepts:microservices
-level: intermediate
-category: architecture
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:devops
+category: architecture
+duration_hours: 24
+level: intermediate
+tags:
+  - concepts:architecture
+  - concepts:distributed-systems
+  - concepts:microservices
 ---
 
 <!-- course: event_driven_architecture -->

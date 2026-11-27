@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:qa-engineers
+  - audiences:developers
+  - audiences:testers
+category: testing
+duration_hours: 24
+level: intermediate
 tags:
   - tools:robot-framework
   - practices:testing
   - practices:acceptance-testing
   - concepts:bdd
-level: intermediate
-category: testing
-duration_hours: 24
-audience:
-  - audiences:qa-engineers
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: robot_framework -->

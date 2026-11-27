@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: design-patterns
+duration_hours: 40
+level: advanced
 tags:
   - concepts:design-patterns
   - concepts:oop
   - concepts:solid
   - concepts:uml
-level: advanced
-category: design-patterns
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: advanced_design_patterns -->

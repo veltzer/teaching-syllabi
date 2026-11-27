@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:hadoop
-  - tools:hive
-  - data-and-ai:big-data
-level: intermediate
-category: big-data
-duration_hours: 16
 audience:
   - audiences:data-engineers
   - audiences:developers
   - audiences:data-scientists
+category: big-data
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:hadoop
+  - tools:hive
+  - data-and-ai:big-data
 ---
 
 <!-- course: hadoop_pig_and_hive -->

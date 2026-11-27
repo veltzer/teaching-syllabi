@@ -1,14 +1,14 @@
 ---
-tags:
-  - infrastructure:real-time
-  - concepts:design-patterns
-level: advanced
-category: real-time
-duration_hours: 16
 audience:
   - audiences:embedded-engineers
   - audiences:developers
   - audiences:architects
+category: real-time
+duration_hours: 16
+level: advanced
+tags:
+  - infrastructure:real-time
+  - concepts:design-patterns
 ---
 
 <!-- course: real_time_design_patterns -->

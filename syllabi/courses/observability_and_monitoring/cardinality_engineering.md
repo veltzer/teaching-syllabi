@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:observability
-  - concepts:performance
-  - concepts:cloud-economics
-  - concepts:best-practices
-level: advanced
-category: observability
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:devops
   - audiences:sres
   - audiences:performance-engineers
+category: observability
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:observability
+  - concepts:performance
+  - concepts:cloud-economics
+  - concepts:best-practices
 ---
 
 <!-- course: cardinality_engineering -->

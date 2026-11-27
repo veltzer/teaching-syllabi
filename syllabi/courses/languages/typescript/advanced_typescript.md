@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:typescript
   - languages:javascript
   - concepts:programming
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: advanced_typescript -->

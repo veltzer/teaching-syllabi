@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: architecture
+duration_hours: 24
+level: advanced
 tags:
   - concepts:domain-driven-design
   - concepts:architecture
   - concepts:design-patterns
-level: advanced
-category: architecture
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: domain_driven_design -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:clojure
   - concepts:functional-programming
   - concepts:jvm
   - concepts:lisp
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: clojure_programming -->

@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:operations
-level: intermediate
-category: practices
-duration_hours: 16
 audience:
   - audiences:management
   - audiences:team-leads
   - audiences:senior-developers
   - audiences:devops
+category: practices
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:operations
 ---
 
 <!-- course: engineering_onboarding_at_scale -->

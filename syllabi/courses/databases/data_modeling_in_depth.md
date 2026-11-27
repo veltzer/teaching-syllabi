@@ -1,14 +1,4 @@
 ---
-tags:
-  - concepts:databases
-  - concepts:database-design
-  - concepts:data-modeling
-  - concepts:data-architecture
-  - concepts:normalization
-  - concepts:domain-driven-design
-level: intermediate
-category: database
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:senior-developers
@@ -16,6 +6,16 @@ audience:
   - audiences:data-engineers
   - audiences:data-architects
   - audiences:architects
+category: database
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:databases
+  - concepts:database-design
+  - concepts:data-modeling
+  - concepts:data-architecture
+  - concepts:normalization
+  - concepts:domain-driven-design
 ---
 
 <!-- course: data_modeling_in_depth -->

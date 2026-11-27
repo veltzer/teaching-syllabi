@@ -1,15 +1,15 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:microservices
-  - concepts:best-practices
-level: advanced
-category: architecture
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:managers
+category: architecture
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:microservices
+  - concepts:best-practices
 ---
 
 <!-- course: legacy_modernization -->

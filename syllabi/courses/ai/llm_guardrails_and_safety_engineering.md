@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:ai
-  - concepts:security
-  - concepts:best-practices
-  - concepts:operations
-level: advanced
-category: ai
-duration_hours: 24
 audience:
   - audiences:ml-engineers
   - audiences:senior-developers
   - audiences:security-engineers
   - audiences:developers
+category: ai
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:ai
+  - concepts:security
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: llm_guardrails_and_safety_engineering -->

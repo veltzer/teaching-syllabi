@@ -1,17 +1,17 @@
 ---
-tags:
-  - practices:devops
-  - practices:ci-cd
-  - practices:automation
-  - infrastructure:cloud
-level: beginner
-category: devops
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:managers
   - audiences:devops
+category: devops
+duration_hours: 40
+level: beginner
+tags:
+  - practices:devops
+  - practices:ci-cd
+  - practices:automation
+  - infrastructure:cloud
 ---
 
 <!-- course: introduction_to_devops -->

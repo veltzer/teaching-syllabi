@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:c
   - concepts:api
   - concepts:design-patterns
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c_api_design -->

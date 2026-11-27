@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:managers
+category: methodology
+duration_hours: 24
+level: beginner
 tags:
   - practices:scrum
   - concepts:agile
   - practices:methodology
-level: beginner
-category: methodology
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:managers
 ---
 
 <!-- course: scrum -->

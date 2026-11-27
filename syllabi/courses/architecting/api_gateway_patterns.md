@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:devops
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:api
   - concepts:architecture
   - concepts:microservices
   - networking:web
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: api_gateway_patterns -->

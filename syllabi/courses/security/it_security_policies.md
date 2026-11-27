@@ -1,17 +1,17 @@
 ---
-tags:
-  - security:security
-  - security:policies
-  - security:compliance
-level: beginner
-category: security
-duration_hours: 8
 audience:
   - audiences:managers
   - audiences:developers
   - audiences:sysadmins
   - audiences:security-professionals
   - audiences:testers
+category: security
+duration_hours: 8
+level: beginner
+tags:
+  - security:security
+  - security:policies
+  - security:compliance
 ---
 
 <!-- course: it_security_policies -->

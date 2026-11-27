@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:ai
-  - concepts:machine-learning
-  - concepts:embeddings
-  - concepts:best-practices
-level: advanced
-category: ai
-duration_hours: 32
 audience:
   - audiences:ml-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:developers
+category: ai
+duration_hours: 32
+level: advanced
+tags:
+  - concepts:ai
+  - concepts:machine-learning
+  - concepts:embeddings
+  - concepts:best-practices
 ---
 
 <!-- course: multimodal_ai_engineering -->

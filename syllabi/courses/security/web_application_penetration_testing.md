@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:developers
+  - audiences:testers
+category: security
+duration_hours: 24
+level: advanced
 tags:
   - security:penetration-testing
   - security:web-security
   - security:owasp
   - security:vulnerabilities
-level: advanced
-category: security
-duration_hours: 24
-audience:
-  - audiences:security-professionals
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: web_application_penetration_testing -->

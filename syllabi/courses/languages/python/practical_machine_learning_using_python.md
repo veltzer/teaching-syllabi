@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: language
+duration_hours: 40
+duration_hours_long: 40
+duration_hours_short: 16
+level: intermediate
 tags:
   - languages:python
   - data-and-ai:machine-learning
   - data-and-ai:data-science
-level: intermediate
-category: language
-duration_hours_short: 16
-duration_hours_long: 40
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-duration_hours: 40
 ---
 
 <!-- course: practical_machine_learning_using_python -->

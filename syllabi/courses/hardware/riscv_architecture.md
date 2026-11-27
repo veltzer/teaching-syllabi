@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: hardware
+duration_hours: 24
+level: intermediate
 tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:riscv
   - concepts:systems-programming
-level: intermediate
-category: hardware
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: riscv_architecture -->

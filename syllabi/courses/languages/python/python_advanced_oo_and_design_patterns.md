@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 32
+level: advanced
 tags:
   - languages:python
   - concepts:design-patterns
   - concepts:oop
   - concepts:solid
-level: advanced
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: python_advanced_oo_and_design_patterns -->

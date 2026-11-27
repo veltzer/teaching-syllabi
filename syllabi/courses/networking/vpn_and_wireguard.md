@@ -1,17 +1,17 @@
 ---
-tags:
-  - networking:vpn
-  - networking:security
-  - protocols:wireguard
-  - protocols:ipsec
-level: intermediate
-category: networking
-duration_hours: 16
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:network-engineers
   - audiences:security-engineers
+category: networking
+duration_hours: 16
+level: intermediate
+tags:
+  - networking:vpn
+  - networking:security
+  - protocols:wireguard
+  - protocols:ipsec
 ---
 
 <!-- course: vpn_and_wireguard -->

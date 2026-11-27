@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:security-professionals
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:android
   - infrastructure:android-internals
@@ -6,13 +13,6 @@ tags:
   - infrastructure:kernel
   - infrastructure:binder
   - hardware-and-embedded:hal
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:security-professionals
 ---
 
 <!-- course: android_internals -->

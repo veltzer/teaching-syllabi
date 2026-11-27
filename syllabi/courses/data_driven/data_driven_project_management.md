@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:managers
+category: data-driven
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:data-analytics
   - audiences:management
   - audiences:project-management
-level: intermediate
-category: data-driven
-duration_hours: 24
-audience:
-  - audiences:managers
 ---
 
 <!-- course: data_driven_project_management -->

@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:ml-engineers
+  - audiences:senior-developers
+  - audiences:developers
+  - audiences:architects
+category: ai
+duration_hours: 40
+level: advanced
 tags:
   - concepts:ai
   - concepts:machine-learning
@@ -6,14 +14,6 @@ tags:
   - concepts:operations
   - concepts:performance
   - concepts:best-practices
-level: advanced
-category: ai
-duration_hours: 40
-audience:
-  - audiences:ml-engineers
-  - audiences:senior-developers
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: agentic_systems_engineering -->

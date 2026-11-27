@@ -1,18 +1,18 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:scalability
-  - practices:sre
-  - infrastructure:cloud
-level: intermediate
-category: architecture
-duration_hours: 16
 audience:
   - audiences:architects
   - audiences:devops
   - audiences:sres
   - audiences:sysadmins
   - audiences:managers
+category: architecture
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:architecture
+  - concepts:scalability
+  - practices:sre
+  - infrastructure:cloud
 ---
 
 <!-- course: disaster_recovery -->

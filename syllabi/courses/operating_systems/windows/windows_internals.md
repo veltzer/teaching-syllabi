@@ -1,17 +1,17 @@
 ---
-tags:
-  - infrastructure:windows
-  - infrastructure:kernel
-  - concepts:systems-programming
-  - practices:debugging
-level: advanced
-category: operating-systems
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:systems-programmers
   - audiences:security-engineers
   - audiences:performance-engineers
+category: operating-systems
+duration_hours: 40
+level: advanced
+tags:
+  - infrastructure:windows
+  - infrastructure:kernel
+  - concepts:systems-programming
+  - practices:debugging
 ---
 
 <!-- course: windows_internals -->

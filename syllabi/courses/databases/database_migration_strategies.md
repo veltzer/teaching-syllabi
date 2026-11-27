@@ -1,15 +1,15 @@
 ---
-tags:
-  - concepts:databases
-  - practices:devops
-  - practices:ci-cd
-level: intermediate
-category: database
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:dbas
   - audiences:devops
+category: database
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:databases
+  - practices:devops
+  - practices:ci-cd
 ---
 
 <!-- course: database_migration_strategies -->

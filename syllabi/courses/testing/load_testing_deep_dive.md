@@ -1,17 +1,17 @@
 ---
-tags:
-  - practices:testing
-  - practices:load-testing
-  - practices:performance
-  - practices:benchmarking
-level: intermediate
-category: testing
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:performance-engineers
   - audiences:testers
   - audiences:devops
+category: testing
+duration_hours: 16
+level: intermediate
+tags:
+  - practices:testing
+  - practices:load-testing
+  - practices:performance
+  - practices:benchmarking
 ---
 
 <!-- course: load_testing_deep_dive -->

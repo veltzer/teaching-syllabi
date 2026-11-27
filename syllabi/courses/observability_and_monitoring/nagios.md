@@ -1,16 +1,16 @@
 ---
-tags:
-  - practices:monitoring
-  - practices:observability
-  - practices:sre
-level: intermediate
-category: observability
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:sres
+category: observability
+duration_hours: 8
+level: intermediate
+tags:
+  - practices:monitoring
+  - practices:observability
+  - practices:sre
 ---
 
 <!-- course: nagios -->

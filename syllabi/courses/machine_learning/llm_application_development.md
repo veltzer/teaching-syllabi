@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:architects
+category: machine-learning
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:llm
   - data-and-ai:ml
@@ -6,13 +13,6 @@ tags:
   - languages:python
   - concepts:prompt-engineering
   - concepts:rag
-level: intermediate
-category: machine-learning
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:architects
 ---
 
 <!-- course: llm_application_development -->

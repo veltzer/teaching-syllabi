@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - infrastructure:linux
   - tools:qemu
@@ -6,12 +12,6 @@ tags:
   - practices:debugging
   - infrastructure:virtualization
   - infrastructure:device-drivers
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: qemu_for_kernel_development -->

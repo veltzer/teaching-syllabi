@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:senior-developers
+  - audiences:developers
+  - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:api
   - concepts:microservices
   - concepts:design-patterns
   - concepts:best-practices
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:senior-developers
-  - audiences:developers
-  - audiences:team-leads
 ---
 
 <!-- course: backend_for_frontend_pattern -->

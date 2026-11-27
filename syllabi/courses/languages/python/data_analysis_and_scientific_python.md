@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: language
+duration_hours: 32
+duration_hours_long: 32
+duration_hours_short: 16
+level: intermediate
 tags:
   - languages:python
   - tools:numpy
   - tools:pandas
   - data-and-ai:data-analysis
   - data-and-ai:data-science
-level: intermediate
-category: language
-duration_hours_short: 16
-duration_hours_long: 32
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-duration_hours: 32
 ---
 
 <!-- course: data_analysis_and_scientific_python -->

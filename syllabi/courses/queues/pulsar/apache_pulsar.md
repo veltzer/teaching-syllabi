@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:data-engineers
+category: message-queue
+duration_hours: 24
+level: intermediate
 tags:
   - tools:apache-pulsar
   - messaging:pub-sub
   - messaging:streaming
   - concepts:distributed-systems
-level: intermediate
-category: message-queue
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:data-engineers
 ---
 
 <!-- course: apache_pulsar -->

@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-  - concepts:big-data
-level: intermediate
-category: cloud
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:data-engineers
   - audiences:architects
+category: cloud
+duration_hours: 32
+level: intermediate
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - concepts:big-data
 ---
 
 <!-- course: aws_data_analytics -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:senior-developers
+category: architecture
+duration_hours: 16
+level: advanced
 tags:
   - architecture:clean-architecture
   - architecture:hexagonal
   - concepts:ports-and-adapters
   - practices:solid
-level: advanced
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:senior-developers
 ---
 
 <!-- course: clean_and_hexagonal_architecture -->

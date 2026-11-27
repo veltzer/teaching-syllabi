@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:architects
+  - audiences:sres
+category: networking
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:cloud
   - infrastructure:aws
   - infrastructure:azure
   - infrastructure:gcp
   - networking:networking
-level: advanced
-category: networking
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:architects
-  - audiences:sres
 ---
 
 <!-- course: multi_cloud_networking -->

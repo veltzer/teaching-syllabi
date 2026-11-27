@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: advanced
 tags:
   - languages:java
   - tools:spring
   - concepts:reactive
   - networking:grpc
-level: advanced
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: advanced_spring -->

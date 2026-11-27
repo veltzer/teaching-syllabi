@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - concepts:embeddings
   - concepts:lsp
@@ -7,14 +15,6 @@ tags:
   - data-and-ai:ai
   - data-and-ai:rag
   - practices:documentation
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- blurb: code_context_retrieval -->

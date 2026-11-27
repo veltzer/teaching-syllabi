@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:team-leads
+category: architecture
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:domain-driven-design
   - concepts:architecture
   - concepts:design-patterns
   - concepts:best-practices
   - concepts:microservices
-level: intermediate
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:team-leads
 ---
 
 <!-- course: event_storming_and_domain_modeling -->

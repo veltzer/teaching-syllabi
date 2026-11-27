@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:mysql
-  - practices:performance
-level: intermediate
-category: database
-duration_hours: 32
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
+category: database
+duration_hours: 32
+level: intermediate
+tags:
+  - tools:mysql
+  - practices:performance
 ---
 
 <!-- course: mysql_administration -->

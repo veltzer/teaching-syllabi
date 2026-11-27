@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:frontend-developers
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - tools:jest
   - languages:javascript
   - languages:typescript
   - practices:testing
   - concepts:tdd
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:frontend-developers
 ---
 
 <!-- course: jest -->

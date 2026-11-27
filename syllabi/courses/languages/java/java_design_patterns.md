@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:java
   - concepts:design-patterns
   - concepts:oop
   - concepts:solid
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: java_design_patterns -->

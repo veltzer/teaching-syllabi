@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:performance-engineers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:c++
   - practices:debugging
   - tools:gdb
   - tools:valgrind
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:performance-engineers
 ---
 
 <!-- course: cpp_debugging -->

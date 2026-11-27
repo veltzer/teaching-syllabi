@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: build-system
+duration_hours: 16
+level: intermediate
 tags:
   - tools:buck2
   - practices:build-systems
   - practices:monorepo
-level: intermediate
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: buck2 -->

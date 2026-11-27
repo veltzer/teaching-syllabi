@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:architects
+  - audiences:managers
+category: cloud
+duration_hours: 8
+level: intermediate
 tags:
   - infrastructure:cloud
   - practices:finops
   - practices:cost-optimization
   - concepts:cloud-economics
-level: intermediate
-category: cloud
-duration_hours: 8
-audience:
-  - audiences:devops
-  - audiences:architects
-  - audiences:managers
 ---
 
 <!-- course: finops -->

@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:java
   - tools:spring
   - concepts:design-patterns
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: spring_core -->

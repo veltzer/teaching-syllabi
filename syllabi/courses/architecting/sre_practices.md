@@ -1,17 +1,17 @@
 ---
-tags:
-  - practices:sre
-  - practices:monitoring
-  - practices:observability
-  - concepts:scalability
-level: intermediate
-category: architecture
-duration_hours: 16
 audience:
   - audiences:sres
   - audiences:devops
   - audiences:developers
   - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: intermediate
+tags:
+  - practices:sre
+  - practices:monitoring
+  - practices:observability
+  - concepts:scalability
 ---
 
 <!-- course: sre_practices -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+category: database
+duration_hours: 40
+level: intermediate
 tags:
   - tools:elasticsearch
   - tools:logstash
   - tools:kibana
   - practices:logging
   - practices:monitoring
-level: intermediate
-category: database
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:sysadmins
 ---
 
 <!-- course: elk -->

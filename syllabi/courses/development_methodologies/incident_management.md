@@ -1,16 +1,16 @@
 ---
-tags:
-  - practices:sre
-  - practices:methodology
-  - practices:devops
-level: intermediate
-category: methodology
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:managers
   - audiences:devops
   - audiences:sres
+category: methodology
+duration_hours: 16
+level: intermediate
+tags:
+  - practices:sre
+  - practices:methodology
+  - practices:devops
 ---
 
 <!-- course: incident_management -->

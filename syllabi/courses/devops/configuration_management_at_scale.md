@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:gitops
-  - concepts:operations
-  - concepts:best-practices
-  - concepts:scalability
-level: advanced
-category: devops
-duration_hours: 16
 audience:
   - audiences:devops
   - audiences:senior-developers
   - audiences:sres
   - audiences:architects
+category: devops
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:gitops
+  - concepts:operations
+  - concepts:best-practices
+  - concepts:scalability
 ---
 
 <!-- course: configuration_management_at_scale -->

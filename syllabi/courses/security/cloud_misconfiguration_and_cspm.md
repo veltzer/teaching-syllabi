@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:security-engineers
+  - audiences:devops
+  - audiences:sres
+  - audiences:senior-developers
+  - audiences:architects
+category: security
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:security
   - concepts:identity
@@ -6,15 +15,6 @@ tags:
   - concepts:best-practices
   - concepts:cloud-economics
   - concepts:gitops
-level: intermediate
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-engineers
-  - audiences:devops
-  - audiences:sres
-  - audiences:senior-developers
-  - audiences:architects
 ---
 
 <!-- course: cloud_misconfiguration_and_cspm -->

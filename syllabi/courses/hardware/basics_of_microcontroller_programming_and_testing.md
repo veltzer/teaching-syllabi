@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: hardware
+duration_hours: 32
+level: beginner
 tags:
   - hardware-and-embedded:microcontrollers
   - hardware-and-embedded:embedded
   - practices:testing
   - hardware-and-embedded:firmware
-level: beginner
-category: hardware
-duration_hours: 32
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: basics_of_microcontroller_programming_and_testing -->

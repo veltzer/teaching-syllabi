@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:security-engineers
+category: security
+duration_hours: 16
+level: intermediate
 tags:
   - security:supply-chain
   - security:sbom
   - tools:sigstore
   - concepts:slsa
   - practices:devops
-level: intermediate
-category: security
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:security-engineers
 ---
 
 <!-- course: supply_chain_security -->

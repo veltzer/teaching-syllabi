@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:python
   - practices:testing
   - practices:automation
   - tools:selenium
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: python_and_testing -->

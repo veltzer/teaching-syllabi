@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - tools:mongodb
   - data-and-ai:nosql
   - concepts:api
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: mongodb_for_developers -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:cryptography
-  - concepts:best-practices
-  - concepts:migration
-level: advanced
-category: security
-duration_hours: 16
 audience:
   - audiences:security-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:developers
+category: security
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:security
+  - concepts:cryptography
+  - concepts:best-practices
+  - concepts:migration
 ---
 
 <!-- course: post_quantum_cryptography -->

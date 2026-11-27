@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:c++
-  - concepts:programming
-  - concepts:optimization
-level: advanced
-category: language
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:embedded-engineers
   - audiences:performance-engineers
+category: language
+duration_hours: 24
+level: advanced
+tags:
+  - languages:c++
+  - concepts:programming
+  - concepts:optimization
 ---
 
 <!-- course: advanced_cpp -->

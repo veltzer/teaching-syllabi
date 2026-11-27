@@ -1,14 +1,14 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-level: beginner
-category: cloud
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:managers
+category: cloud
+duration_hours: 16
+level: beginner
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
 ---
 
 <!-- course: introduction_to_aws -->

@@ -1,18 +1,18 @@
 ---
-tags:
-  - concepts:developer-experience
-  - concepts:best-practices
-  - concepts:operations
-  - concepts:gitops
-level: intermediate
-category: devops
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:senior-developers
   - audiences:devops
   - audiences:team-leads
   - audiences:architects
+category: devops
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:developer-experience
+  - concepts:best-practices
+  - concepts:operations
+  - concepts:gitops
 ---
 
 <!-- course: internal_documentation_and_devex -->

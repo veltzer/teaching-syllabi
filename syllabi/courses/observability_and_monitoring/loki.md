@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: observability
+duration_hours: 16
+level: intermediate
 tags:
   - tools:loki
   - practices:observability
   - practices:log-management
   - tools:grafana
   - tools:prometheus
-level: intermediate
-category: observability
-duration_hours: 16
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: loki -->

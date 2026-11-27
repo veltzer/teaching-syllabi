@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:sysadmins
+category: build-system
+duration_hours: 24
+level: advanced
 tags:
   - tools:nix
   - tools:nixos
   - build:reproducible
   - practices:build-automation
   - infrastructure:package-management
-level: advanced
-category: build-system
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:sysadmins
 ---
 
 <!-- course: nix -->

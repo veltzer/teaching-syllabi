@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: beginner
 tags:
   - languages:csharp
   - concepts:programming
   - concepts:oop
-level: beginner
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: csharp_programming -->

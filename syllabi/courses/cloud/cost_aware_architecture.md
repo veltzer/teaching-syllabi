@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:cloud-economics
-  - concepts:best-practices
-  - concepts:operations
-level: advanced
-category: cloud
-duration_hours: 24
 audience:
   - audiences:architects
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:devops
+category: cloud
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:cloud-economics
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: cost_aware_architecture -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - networking:http
   - networking:protocols
   - networking:web
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: http2_and_http3 -->

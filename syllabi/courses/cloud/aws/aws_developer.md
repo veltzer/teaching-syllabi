@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
   - concepts:serverless
   - practices:devops
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: aws_developer -->

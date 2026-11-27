@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:ml-engineers
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - databases:vector
   - databases:nosql
@@ -7,13 +14,6 @@ tags:
   - tools:pinecone
   - tools:weaviate
   - tools:qdrant
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:ml-engineers
 ---
 
 <!-- course: vector_databases -->

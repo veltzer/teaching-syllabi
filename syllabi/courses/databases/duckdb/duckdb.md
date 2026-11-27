@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:data-scientists
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - databases:duckdb
   - databases:analytical
   - databases:olap
   - databases:sql
   - tools:duckdb
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:data-scientists
 ---
 
 <!-- course: duckdb -->

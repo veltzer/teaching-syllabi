@@ -1,14 +1,14 @@
 ---
-tags:
-  - tools:git
-  - concepts:version-control
-level: beginner
-category: version-control
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:managers
+category: version-control
+duration_hours: 24
+level: beginner
+tags:
+  - tools:git
+  - concepts:version-control
 ---
 
 <!-- course: introduction_to_git -->

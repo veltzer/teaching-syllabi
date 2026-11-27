@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:devops
+category: data-engineering
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:apache-nifi
   - practices:data-pipeline
   - practices:data-flow
   - concepts:etl
-level: intermediate
-category: data-engineering
-duration_hours: 24
-audience:
-  - audiences:data-engineers
-  - audiences:devops
 ---
 
 <!-- course: apache_nifi -->

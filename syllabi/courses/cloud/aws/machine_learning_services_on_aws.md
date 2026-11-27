@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:data-scientists
+  - audiences:developers
+  - audiences:managers
+category: cloud
+duration_hours: 16
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
   - data-and-ai:machine-learning
   - data-and-ai:nlp
-level: intermediate
-category: cloud
-duration_hours: 16
-audience:
-  - audiences:data-scientists
-  - audiences:developers
-  - audiences:managers
 ---
 
 <!-- course: machine_learning_services_on_aws -->

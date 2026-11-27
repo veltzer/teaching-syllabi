@@ -1,4 +1,9 @@
 ---
+audience:
+  - audiences:developers
+category: operating-systems
+duration_hours: 8
+level: intermediate
 tags:
   - infrastructure:linux
   - security:security
@@ -6,11 +11,6 @@ tags:
   - security:vulnerabilities
   - infrastructure:containers
   - security:aslr
-level: intermediate
-category: operating-systems
-duration_hours: 8
-audience:
-  - audiences:developers
 ---
 
 <!-- course: linux_security_for_application_developers -->

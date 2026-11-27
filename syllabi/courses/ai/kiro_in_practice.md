@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:team-leads
+category: ai
+duration_hours: 8
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:generative-ai
@@ -6,12 +12,6 @@ tags:
   - concepts:code-generation
   - practices:methodology
   - practices:productivity
-level: intermediate
-category: ai
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:team-leads
 ---
 
 <!-- course: kiro_in_practice -->

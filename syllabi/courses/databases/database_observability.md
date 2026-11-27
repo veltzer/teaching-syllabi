@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:dbas
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:sres
+category: database
+duration_hours: 16
+level: advanced
 tags:
   - concepts:databases
   - concepts:observability
   - concepts:performance
   - concepts:operations
   - concepts:best-practices
-level: advanced
-category: database
-duration_hours: 16
-audience:
-  - audiences:dbas
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:sres
 ---
 
 <!-- course: database_observability -->

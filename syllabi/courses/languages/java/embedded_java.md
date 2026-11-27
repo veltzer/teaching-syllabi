@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:architects
+category: language
+duration_hours: 40
+level: advanced
 tags:
   - languages:java
   - hardware-and-embedded:embedded
   - infrastructure:real-time
   - infrastructure:linux
-level: advanced
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:architects
 ---
 
 <!-- course: embedded_java -->

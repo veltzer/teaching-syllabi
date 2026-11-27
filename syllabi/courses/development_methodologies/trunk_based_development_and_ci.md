@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:team-leads
+  - audiences:architects
+category: methodology
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:version-control
   - concepts:best-practices
@@ -6,15 +15,6 @@ tags:
   - concepts:agile
   - concepts:testing
   - concepts:gitops
-level: intermediate
-category: methodology
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:team-leads
-  - audiences:architects
 ---
 
 <!-- course: trunk_based_development_and_ci -->

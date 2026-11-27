@@ -1,17 +1,17 @@
 ---
-tags:
-  - tools:mysql
-  - databases:sql
-  - practices:sre
-  - concepts:scalability
-level: advanced
-category: database
-duration_hours: 16
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:devops
   - audiences:architects
+category: database
+duration_hours: 16
+level: advanced
+tags:
+  - tools:mysql
+  - databases:sql
+  - practices:sre
+  - concepts:scalability
 ---
 
 <!-- course: mysql_high_availability -->

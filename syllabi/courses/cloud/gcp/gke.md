@@ -1,17 +1,17 @@
 ---
-tags:
-  - infrastructure:gcp
-  - infrastructure:cloud
-  - infrastructure:kubernetes
-  - infrastructure:containers
-level: intermediate
-category: cloud
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:architects
   - audiences:sres
+category: cloud
+duration_hours: 16
+level: intermediate
+tags:
+  - infrastructure:gcp
+  - infrastructure:cloud
+  - infrastructure:kubernetes
+  - infrastructure:containers
 ---
 
 <!-- course: gke -->

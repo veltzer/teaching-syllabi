@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:gcp
   - infrastructure:cloud
   - concepts:architecture
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: serverless_on_gcp -->

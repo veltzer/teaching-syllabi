@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:dbas
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - tools:cassandra
   - databases:nosql
   - data-and-ai:databases
   - concepts:data-modeling
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:dbas
 ---
 
 <!-- course: cassandra_administration -->

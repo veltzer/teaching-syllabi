@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:kernel
@@ -6,12 +12,6 @@ tags:
   - practices:performance
   - infrastructure:device-drivers
   - concepts:locking
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: advanced_linux_kernel_topics -->

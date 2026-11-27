@@ -1,14 +1,14 @@
 ---
-tags:
-  - practices:devops
-  - concepts:agile
-level: beginner
-category: methodology
-duration_hours: 16
 audience:
   - audiences:managers
   - audiences:team-leads
   - audiences:project-management
+category: methodology
+duration_hours: 16
+level: beginner
+tags:
+  - practices:devops
+  - concepts:agile
 ---
 
 <!-- course: devops_for_managers -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+category: architecture
+duration_hours: 24
+level: advanced
 tags:
   - concepts:distributed-systems
   - concepts:architecture
   - concepts:scalability
   - concepts:algorithms
-level: advanced
-category: architecture
-duration_hours: 24
-audience:
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- course: distributed_systems_fundamentals -->

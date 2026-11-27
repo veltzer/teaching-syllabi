@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:dbas
+  - audiences:architects
+category: database
+duration_hours: 8
+level: intermediate
 tags:
   - concepts:database-design
   - languages:sql
   - concepts:normalization
   - data-and-ai:data-modeling
-level: intermediate
-category: database
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:dbas
-  - audiences:architects
 ---
 
 <!-- course: database_design -->

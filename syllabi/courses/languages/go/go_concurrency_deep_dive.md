@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:go
   - concepts:concurrency
   - concepts:parallel-computing
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: go_concurrency_deep_dive -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - tools:fluxcd
   - infrastructure:gitops
   - infrastructure:kubernetes
   - practices:devops
   - practices:continuous-delivery
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:developers
 ---
 
 <!-- course: fluxcd -->

@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+  - audiences:managers
+category: observability
+duration_hours: 16
+level: intermediate
 tags:
   - tools:prometheus
   - tools:grafana
   - practices:monitoring
   - practices:observability
   - tools:kubernetes
-level: intermediate
-category: observability
-duration_hours: 16
-audience:
-  - audiences:sysadmins
-  - audiences:devops
-  - audiences:managers
 ---
 
 <!-- course: prometheus_and_grafana -->

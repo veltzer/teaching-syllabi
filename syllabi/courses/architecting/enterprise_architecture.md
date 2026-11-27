@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:distributed-systems
-  - concepts:microservices
-  - concepts:design-patterns
-level: advanced
-category: architecture
-duration_hours: 24
 audience:
   - audiences:architects
   - audiences:team-leads
   - audiences:managers
   - audiences:developers
+category: architecture
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:distributed-systems
+  - concepts:microservices
+  - concepts:design-patterns
 ---
 
 <!-- course: enterprise_architecture -->

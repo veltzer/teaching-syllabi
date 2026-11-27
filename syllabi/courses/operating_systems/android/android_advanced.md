@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:android
   - hardware-and-embedded:ndk
   - tools:jni
   - infrastructure:kernel
   - hardware-and-embedded:embedded
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: android_advanced -->

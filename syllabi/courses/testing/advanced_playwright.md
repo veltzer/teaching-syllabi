@@ -1,15 +1,15 @@
 ---
-tags:
-  - practices:testing
-  - practices:automation
-  - concepts:web-development
-level: advanced
-category: testing
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:testers
   - audiences:devops
+category: testing
+duration_hours: 16
+level: advanced
+tags:
+  - practices:testing
+  - practices:automation
+  - concepts:web-development
 ---
 
 <!-- course: advanced_playwright -->

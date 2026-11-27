@@ -1,14 +1,14 @@
 ---
-tags:
-  - infrastructure:azure
-  - infrastructure:cloud
-level: beginner
-category: cloud
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:managers
+category: cloud
+duration_hours: 24
+level: beginner
+tags:
+  - infrastructure:azure
+  - infrastructure:cloud
 ---
 
 <!-- course: introduction_to_the_azure_cloud -->

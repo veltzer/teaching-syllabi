@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: operating-systems
+duration_hours: 40
+level: intermediate
 tags:
   - infrastructure:linux
   - languages:c
@@ -7,12 +13,6 @@ tags:
   - concepts:multithreading
   - infrastructure:ipc
   - practices:debugging
-level: intermediate
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: linux_programming -->

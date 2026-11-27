@@ -1,14 +1,14 @@
 ---
-tags:
-  - networking:networking
-  - concepts:architecture
-level: advanced
-category: networking
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:architects
+category: networking
+duration_hours: 24
+level: advanced
+tags:
+  - networking:networking
+  - concepts:architecture
 ---
 
 <!-- course: software_defined_networking -->

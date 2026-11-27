@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:sysadmins
+category: operating-systems
+duration_hours: 40
+level: intermediate
 tags:
   - infrastructure:windows
   - practices:sysadmin
-level: intermediate
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:sysadmins
 ---
 
 <!-- course: windows_administration -->

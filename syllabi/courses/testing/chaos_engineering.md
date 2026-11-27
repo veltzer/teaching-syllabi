@@ -1,15 +1,15 @@
 ---
-tags:
-  - practices:testing
-  - practices:sre
-  - concepts:distributed-systems
-level: advanced
-category: testing
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:sres
+category: testing
+duration_hours: 16
+level: advanced
+tags:
+  - practices:testing
+  - practices:sre
+  - concepts:distributed-systems
 ---
 
 <!-- course: chaos_engineering -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:data-architecture
-  - concepts:best-practices
-  - concepts:operations
-  - concepts:data-modeling
-level: intermediate
-category: data-engineering
-duration_hours: 16
 audience:
   - audiences:data-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:data-architects
+category: data-engineering
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:data-architecture
+  - concepts:best-practices
+  - concepts:operations
+  - concepts:data-modeling
 ---
 
 <!-- course: data_contracts -->

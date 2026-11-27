@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:devops
+category: architecture
+duration_hours: 16
+level: advanced
 tags:
   - tools:kafka
   - concepts:architecture
   - concepts:distributed-systems
   - concepts:microservices
-level: advanced
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: event_driven_architecture_with_kafka -->

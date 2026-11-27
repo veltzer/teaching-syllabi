@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:prometheus
-  - practices:monitoring
-  - practices:observability
-level: advanced
-category: observability
-duration_hours: 16
 audience:
   - audiences:devops
   - audiences:sres
   - audiences:developers
+category: observability
+duration_hours: 16
+level: advanced
+tags:
+  - tools:prometheus
+  - practices:monitoring
+  - practices:observability
 ---
 
 <!-- course: advanced_prometheus -->

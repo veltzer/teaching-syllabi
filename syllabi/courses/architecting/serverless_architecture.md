@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:devops
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:serverless
   - concepts:architecture
   - concepts:distributed-systems
   - infrastructure:cloud
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: serverless_architecture -->

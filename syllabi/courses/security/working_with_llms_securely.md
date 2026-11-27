@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:security-professionals
+  - audiences:devops
+category: security
+duration_hours: 16
+level: intermediate
 tags:
   - security:security
   - data-and-ai:ai
   - data-and-ai:llm
   - security:owasp
-level: intermediate
-category: security
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:security-professionals
-  - audiences:devops
 ---
 
 <!-- course: working_with_llms_securely -->

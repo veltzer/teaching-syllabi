@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: advanced
 tags:
   - languages:python
   - concepts:concurrency
   - concepts:async-programming
-level: advanced
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: python_async_programming -->

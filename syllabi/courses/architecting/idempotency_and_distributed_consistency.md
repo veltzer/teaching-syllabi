@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:architects
+category: architecture
+duration_hours: 40
+level: advanced
 tags:
   - concepts:distributed-systems
   - concepts:eventual-consistency
@@ -7,13 +14,6 @@ tags:
   - concepts:architecture
   - concepts:design-patterns
   - concepts:best-practices
-level: advanced
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:architects
 ---
 
 <!-- course: idempotency_and_distributed_consistency -->

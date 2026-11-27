@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:java
   - concepts:api
   - concepts:rest
   - networking:web
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: java_web_services -->

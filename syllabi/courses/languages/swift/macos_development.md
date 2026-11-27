@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:swift
   - practices:mobile
   - concepts:programming
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: macos_development -->

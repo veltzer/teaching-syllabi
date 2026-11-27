@@ -1,13 +1,13 @@
 ---
-tags:
-  - data-and-ai:machine-learning
-  - languages:python
-level: intermediate
-category: ai
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:data-scientists
+category: ai
+duration_hours: 32
+level: intermediate
+tags:
+  - data-and-ai:machine-learning
+  - languages:python
 ---
 
 <!-- course: computer_vision_with_python -->

@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: embedded
+duration_hours: 40
+level: advanced
 tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:fpga
   - concepts:parallel-computing
-level: advanced
-category: embedded
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: fpga_programming -->

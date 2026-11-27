@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:gitops
-  - concepts:operations
-  - concepts:best-practices
-  - concepts:testing
-level: intermediate
-category: devops
-duration_hours: 24
 audience:
   - audiences:devops
   - audiences:sres
   - audiences:senior-developers
   - audiences:team-leads
+category: devops
+duration_hours: 24
+level: intermediate
+tags:
+  - concepts:gitops
+  - concepts:operations
+  - concepts:best-practices
+  - concepts:testing
 ---
 
 <!-- course: release_engineering_and_progressive_delivery -->

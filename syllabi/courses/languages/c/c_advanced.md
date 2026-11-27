@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:c
   - concepts:programming
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c_advanced -->

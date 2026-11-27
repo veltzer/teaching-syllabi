@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:team-leads
+  - audiences:managers
+category: practices
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:best-practices
   - concepts:developer-experience
   - concepts:agile
   - concepts:clean-code
   - concepts:tdd
-level: intermediate
-category: practices
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:team-leads
-  - audiences:managers
 ---
 
 <!-- course: pair_and_mob_programming -->

@@ -1,16 +1,16 @@
 ---
-tags:
-  - tools:superset
-  - data-and-ai:data-analysis
-  - practices:monitoring
-level: beginner
-category: big-data
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:data-scientists
   - audiences:managers
   - audiences:devops
+category: big-data
+duration_hours: 16
+level: beginner
+tags:
+  - tools:superset
+  - data-and-ai:data-analysis
+  - practices:monitoring
 ---
 
 <!-- course: apache_superset -->

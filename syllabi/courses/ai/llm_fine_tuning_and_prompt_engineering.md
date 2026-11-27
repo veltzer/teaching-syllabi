@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: ai
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:machine-learning
   - data-and-ai:llm
   - languages:python
-level: intermediate
-category: ai
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: llm_fine_tuning_and_prompt_engineering -->

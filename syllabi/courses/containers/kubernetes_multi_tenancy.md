@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:security-engineers
+  - audiences:architects
+  - audiences:senior-developers
+category: containers
+duration_hours: 24
+level: advanced
 tags:
   - concepts:gitops
   - concepts:security
   - concepts:operations
   - concepts:best-practices
   - concepts:scalability
-level: advanced
-category: containers
-duration_hours: 24
-audience:
-  - audiences:devops
-  - audiences:security-engineers
-  - audiences:architects
-  - audiences:senior-developers
 ---
 
 <!-- course: kubernetes_multi_tenancy -->

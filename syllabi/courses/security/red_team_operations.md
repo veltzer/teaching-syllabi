@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:network-security
-  - concepts:operations
-  - concepts:best-practices
-level: advanced
-category: security
-duration_hours: 40
 audience:
   - audiences:security-engineers
   - audiences:penetration-testers
   - audiences:management
   - audiences:senior-developers
+category: security
+duration_hours: 40
+level: advanced
+tags:
+  - concepts:security
+  - concepts:network-security
+  - concepts:operations
+  - concepts:best-practices
 ---
 
 <!-- course: red_team_operations -->

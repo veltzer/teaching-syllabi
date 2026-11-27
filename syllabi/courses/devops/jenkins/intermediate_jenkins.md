@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - tools:jenkins
   - practices:ci-cd
   - practices:devops
   - languages:groovy
   - tools:docker
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: intermediate_jenkins -->

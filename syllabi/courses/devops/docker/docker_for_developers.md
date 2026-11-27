@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: devops
+duration_hours: 24
+level: intermediate
 tags:
   - tools:docker
   - infrastructure:containers
   - practices:devops
   - networking:networking
-level: intermediate
-category: devops
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: docker_for_developers -->

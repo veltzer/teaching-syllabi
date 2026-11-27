@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+  - audiences:ml-engineers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:mojo
   - concepts:ai
   - concepts:performance
   - concepts:python-superset
   - concepts:systems-programming
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
-  - audiences:ml-engineers
 ---
 
 <!-- course: mojo_programming -->

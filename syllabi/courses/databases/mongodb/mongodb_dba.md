@@ -1,17 +1,17 @@
 ---
-tags:
-  - tools:mongodb
-  - data-and-ai:nosql
-  - audiences:administration
-  - practices:performance
-level: intermediate
-category: database
-duration_hours: 40
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
+category: database
+duration_hours: 40
+level: intermediate
+tags:
+  - tools:mongodb
+  - data-and-ai:nosql
+  - audiences:administration
+  - practices:performance
 ---
 
 <!-- course: mongodb_dba -->

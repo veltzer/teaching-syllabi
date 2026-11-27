@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:sres
+  - audiences:security-engineers
+category: operating-systems
+duration_hours: 32
+level: advanced
 tags:
   - infrastructure:linux
   - concepts:observability
   - concepts:security
   - concepts:performance
   - concepts:best-practices
-level: advanced
-category: operating-systems
-duration_hours: 32
-audience:
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:sres
-  - audiences:security-engineers
 ---
 
 <!-- course: ebpf_in_production -->

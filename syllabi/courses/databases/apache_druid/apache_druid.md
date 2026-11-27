@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:architects
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - databases:druid
   - databases:olap
   - databases:time-series
   - databases:real-time-analytics
   - tools:apache-druid
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:architects
 ---
 
 <!-- course: apache_druid -->

@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:systems-programmers
+  - audiences:embedded-developers
+  - audiences:firmware-developers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:kernel
   - concepts:systems-programming
   - concepts:concurrency
   - concepts:locking
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:systems-programmers
-  - audiences:embedded-developers
-  - audiences:firmware-developers
 ---
 
 <!-- course: linux_kernel_modules_and_drivers -->

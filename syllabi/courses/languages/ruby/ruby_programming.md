@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: beginner
 tags:
   - languages:ruby
   - concepts:programming
   - concepts:oop
-level: beginner
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: ruby_programming -->

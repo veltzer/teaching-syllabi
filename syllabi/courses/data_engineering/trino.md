@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:data-scientists
+  - audiences:analysts
+category: data-engineering
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:trino
   - databases:distributed-sql
   - practices:data-engineering
   - databases:query-engine
-level: intermediate
-category: data-engineering
-duration_hours: 24
-audience:
-  - audiences:data-engineers
-  - audiences:data-scientists
-  - audiences:analysts
 ---
 
 <!-- course: trino -->

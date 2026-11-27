@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:developers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:scala
   - tools:spark
   - data-and-ai:big-data
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:data-engineers
-  - audiences:developers
 ---
 
 <!-- course: scala_for_data_engineering -->

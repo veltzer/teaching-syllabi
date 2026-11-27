@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-  - concepts:networking
-level: intermediate
-category: cloud
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:architects
+category: cloud
+duration_hours: 24
+level: intermediate
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - concepts:networking
 ---
 
 <!-- course: aws_networking -->

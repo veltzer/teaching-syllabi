@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:performance-engineers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:java
   - tools:jvm
   - practices:performance
   - practices:profiling
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:performance-engineers
 ---
 
 <!-- course: java_performance_tuning -->

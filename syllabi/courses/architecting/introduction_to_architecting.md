@@ -1,13 +1,13 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:design-patterns
-level: beginner
-category: architecture
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:architects
+category: architecture
+duration_hours: 8
+level: beginner
+tags:
+  - concepts:architecture
+  - concepts:design-patterns
 ---
 
 <!-- course: introduction_to_architecting -->

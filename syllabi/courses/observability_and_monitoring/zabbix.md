@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+  - audiences:network-engineers
+category: observability
+duration_hours: 24
+level: intermediate
 tags:
   - tools:zabbix
   - observability:monitoring
   - observability:alerting
   - infrastructure:enterprise
-level: intermediate
-category: observability
-duration_hours: 24
-audience:
-  - audiences:sysadmins
-  - audiences:devops
-  - audiences:network-engineers
 ---
 
 <!-- course: zabbix -->

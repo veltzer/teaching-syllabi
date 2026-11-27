@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:senior-developers
+category: architecture
+duration_hours: 8
+level: advanced
 tags:
   - architecture:saga
   - architecture:distributed-transactions
   - concepts:microservices
   - concepts:eventual-consistency
-level: advanced
-category: architecture
-duration_hours: 8
-audience:
-  - audiences:architects
-  - audiences:senior-developers
 ---
 
 <!-- course: saga_pattern -->

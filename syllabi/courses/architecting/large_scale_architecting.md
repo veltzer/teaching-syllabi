@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+category: architecture
+duration_hours: 40
+level: advanced
 tags:
   - concepts:architecture
   - concepts:scalability
   - security:security
   - networking:networking
   - data-and-ai:databases
-level: advanced
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- course: large_scale_architecting -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 24
+level: intermediate
 tags:
   - tools:databricks
   - data-and-ai:big-data
   - languages:python
   - languages:sql
-level: intermediate
-category: big-data
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: databricks -->

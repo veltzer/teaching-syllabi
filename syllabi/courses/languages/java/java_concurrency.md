@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:java
   - concepts:concurrency
   - concepts:multithreading
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: java_concurrency -->

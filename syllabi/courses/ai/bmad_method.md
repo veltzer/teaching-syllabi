@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:product-managers
+category: ai
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:generative-ai
@@ -8,14 +16,6 @@ tags:
   - practices:agile
   - practices:user-stories
   - practices:productivity
-level: intermediate
-category: ai
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:product-managers
 ---
 
 <!-- course: bmad_method -->

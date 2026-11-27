@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:senior-developers
+  - audiences:data-engineers
+  - audiences:devops
+  - audiences:architects
+category: cloud
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:databases
   - concepts:serverless
   - concepts:cloud-economics
   - concepts:scalability
   - concepts:best-practices
-level: intermediate
-category: cloud
-duration_hours: 16
-audience:
-  - audiences:senior-developers
-  - audiences:data-engineers
-  - audiences:devops
-  - audiences:architects
 ---
 
 <!-- course: serverless_databases_in_practice -->

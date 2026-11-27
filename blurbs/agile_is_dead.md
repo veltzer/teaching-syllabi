@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:managers
+  - audiences:product-managers
+  - audiences:project-management
+  - audiences:team-leads
+category: methodology
+duration_minutes: 120
+level: intermediate
 tags:
   - data-and-ai:agents
   - data-and-ai:ai
@@ -7,15 +16,6 @@ tags:
   - practices:productivity
   - practices:project-management
   - practices:scrum
-level: intermediate
-category: methodology
-duration_minutes: 120
-audience:
-  - audiences:developers
-  - audiences:managers
-  - audiences:product-managers
-  - audiences:project-management
-  - audiences:team-leads
 ---
 
 <!-- blurb: agile_is_dead -->

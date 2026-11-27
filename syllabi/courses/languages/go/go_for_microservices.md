@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:go
   - concepts:microservices
@@ -7,12 +13,6 @@ tags:
   - concepts:testing
   - tools:docker
   - infrastructure:kubernetes
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: go_for_microservices -->

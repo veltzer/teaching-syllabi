@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
@@ -6,12 +12,6 @@ tags:
   - concepts:optimization
   - infrastructure:kernel
   - tools:buildroot
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: embedded_linux_boot_time_optimization -->

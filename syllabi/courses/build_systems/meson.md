@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-developers
+  - audiences:systems-programmers
+category: build-system
+duration_hours: 16
+level: intermediate
 tags:
   - tools:meson
   - build:c
   - build:cpp
   - build:cross-compilation
   - practices:build-automation
-level: intermediate
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-developers
-  - audiences:systems-programmers
 ---
 
 <!-- course: meson -->

@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:data-analysts
+category: data-engineering
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:dbt
   - languages:sql
   - concepts:data-transformation
   - concepts:analytics-engineering
-level: intermediate
-category: data-engineering
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:data-analysts
 ---
 
 <!-- course: dbt -->

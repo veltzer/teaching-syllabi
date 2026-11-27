@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:sysadmins
+category: devops
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:cloud
   - infrastructure:gcp
@@ -10,13 +17,6 @@ tags:
   - practices:observability
   - tools:terraform
   - tools:docker
-level: intermediate
-category: devops
-duration_hours: 32
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:sysadmins
 ---
 
 <!-- course: gcp_devops_engineer -->

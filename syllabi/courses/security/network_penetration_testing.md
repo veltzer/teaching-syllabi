@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:security-engineers
+  - audiences:penetration-testers
+category: security
+duration_hours: 32
+level: advanced
 tags:
   - security:penetration-testing
   - security:network-security
   - security:offensive
-level: advanced
-category: security
-duration_hours: 32
-audience:
-  - audiences:security-engineers
-  - audiences:penetration-testers
 ---
 
 <!-- course: network_penetration_testing -->

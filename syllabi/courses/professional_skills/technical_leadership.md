@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:agile
-  - concepts:architecture
-level: advanced
-category: practices
-duration_hours: 40
 audience:
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:architects
   - audiences:managers
+category: practices
+duration_hours: 40
+level: advanced
+tags:
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:agile
+  - concepts:architecture
 ---
 
 <!-- course: technical_leadership -->

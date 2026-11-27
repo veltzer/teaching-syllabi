@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:devops
+  - audiences:network-engineers
+  - audiences:architects
+category: networking
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:networking
   - concepts:scalability
@@ -6,15 +15,6 @@ tags:
   - concepts:distributed-systems
   - concepts:serverless
   - concepts:operations
-level: intermediate
-category: networking
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:devops
-  - audiences:network-engineers
-  - audiences:architects
 ---
 
 <!-- course: edge_computing_and_cdn -->

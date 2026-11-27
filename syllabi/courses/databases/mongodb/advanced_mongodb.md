@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: database
+duration_hours: 16
+level: advanced
 tags:
   - tools:mongodb
   - databases:nosql
   - data-and-ai:databases
   - concepts:data-modeling
-level: advanced
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: advanced_mongodb -->

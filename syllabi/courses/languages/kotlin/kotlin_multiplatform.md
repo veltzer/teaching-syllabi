@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:kotlin
   - practices:mobile
   - concepts:architecture
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: kotlin_multiplatform -->

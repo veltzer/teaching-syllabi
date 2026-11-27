@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:architecture
-  - concepts:design-patterns
-level: intermediate
-category: methodology
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:architects
+category: methodology
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:architecture
+  - concepts:design-patterns
 ---
 
 <!-- course: writing_design_documents -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:cryptography
-  - concepts:operations
-  - concepts:best-practices
-level: advanced
-category: embedded
-duration_hours: 24
 audience:
   - audiences:embedded-developers
   - audiences:firmware-developers
   - audiences:embedded-engineers
   - audiences:security-engineers
+category: embedded
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:security
+  - concepts:cryptography
+  - concepts:operations
+  - concepts:best-practices
 ---
 
 <!-- course: firmware_update_and_ota -->

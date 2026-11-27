@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:architects
+  - audiences:devops
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
@@ -7,14 +15,6 @@ tags:
   - infrastructure:cross-compilation
   - practices:build-systems
   - practices:ci-cd
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: embedded_linux_platform_development_with_yocto -->

@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 56
+level: intermediate
 tags:
   - data-and-ai:machine-learning
   - data-and-ai:supervised-learning
-level: intermediate
-category: machine-learning
-duration_hours: 56
-audience:
-  - audiences:data-scientists
 ---
 
 <!-- course: ml1 -->

@@ -1,16 +1,16 @@
 ---
-tags:
-  - security:security
-  - tools:docker
-  - tools:kubernetes
-level: advanced
-category: security
-duration_hours: 24
 audience:
   - audiences:security-professionals
   - audiences:developers
   - audiences:architects
   - audiences:devops
+category: security
+duration_hours: 24
+level: advanced
+tags:
+  - security:security
+  - tools:docker
+  - tools:kubernetes
 ---
 
 <!-- course: container_and_kubernetes_security -->

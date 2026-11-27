@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:javascript
   - languages:typescript
   - concepts:web-development
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: react -->

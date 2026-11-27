@@ -1,14 +1,14 @@
 ---
-tags:
-  - security:security
-  - networking:networking
-level: intermediate
-category: networking
-duration_hours: 24
 audience:
   - audiences:security-professionals
   - audiences:sysadmins
   - audiences:devops
+category: networking
+duration_hours: 24
+level: intermediate
+tags:
+  - security:security
+  - networking:networking
 ---
 
 <!-- course: network_security -->

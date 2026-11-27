@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sres
+  - audiences:sysadmins
+category: devops
+duration_hours: 16
+level: advanced
 tags:
   - tools:nginx
   - practices:devops
   - networking:web
   - practices:performance
-level: advanced
-category: devops
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:sres
-  - audiences:sysadmins
 ---
 
 <!-- course: advanced_nginx -->

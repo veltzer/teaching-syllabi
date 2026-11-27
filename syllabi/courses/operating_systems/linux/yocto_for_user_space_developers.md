@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 16
+level: intermediate
 tags:
   - infrastructure:linux
   - tools:yocto
   - hardware-and-embedded:embedded
   - practices:build-systems
   - hardware-and-embedded:toolchain
-level: intermediate
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: yocto_for_user_space_developers -->

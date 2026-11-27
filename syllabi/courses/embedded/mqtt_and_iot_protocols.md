@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: embedded
+duration_hours: 16
+level: intermediate
 tags:
   - networking:protocols
   - hardware-and-embedded:iot
   - networking:networking
-level: intermediate
-category: embedded
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: mqtt_and_iot_protocols -->

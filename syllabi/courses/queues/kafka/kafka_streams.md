@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: message-queue
+duration_hours: 16
+level: intermediate
 tags:
   - tools:kafka
   - data-and-ai:streaming
   - data-and-ai:message-queues
-level: intermediate
-category: message-queue
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: kafka_streams -->

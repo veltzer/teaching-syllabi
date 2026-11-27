@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
+  - audiences:performance-engineers
+category: build-system
+duration_hours: 16
+level: advanced
 tags:
   - tools:gcc
   - languages:c
   - languages:c++
   - hardware-and-embedded:compiler
   - hardware-and-embedded:toolchain
-level: advanced
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
-  - audiences:firmware-developers
-  - audiences:performance-engineers
 ---
 
 <!-- course: gcc_in_depth -->

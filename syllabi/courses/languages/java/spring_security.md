@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:security-professionals
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:java
   - tools:spring
   - tools:spring-security
   - concepts:security
   - concepts:web-development
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:security-professionals
 ---
 
 <!-- course: spring_security -->

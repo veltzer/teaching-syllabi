@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:systems-programmers
+  - audiences:team-leads
+  - audiences:architects
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:c++
   - languages:c++20
@@ -13,15 +22,6 @@ tags:
   - practices:refactoring
   - practices:testing
   - practices:sanitizers
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:systems-programmers
-  - audiences:team-leads
-  - audiences:architects
 ---
 
 <!-- course: cpp_in_the_age_of_ai -->

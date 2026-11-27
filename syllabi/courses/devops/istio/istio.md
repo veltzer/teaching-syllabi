@@ -1,17 +1,17 @@
 ---
-tags:
-  - tools:istio
-  - tools:kubernetes
-  - concepts:service-mesh
-  - concepts:microservices
-level: advanced
-category: devops
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:devops
   - audiences:security-professionals
+category: devops
+duration_hours: 24
+level: advanced
+tags:
+  - tools:istio
+  - tools:kubernetes
+  - concepts:service-mesh
+  - concepts:microservices
 ---
 
 <!-- course: istio -->

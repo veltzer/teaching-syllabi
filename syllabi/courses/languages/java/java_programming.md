@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: beginner
 tags:
   - languages:java
   - concepts:programming
   - concepts:oop
   - tools:jvm
-level: beginner
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: java_programming -->

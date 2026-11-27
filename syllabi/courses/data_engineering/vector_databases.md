@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:ml-engineers
+  - audiences:senior-developers
+  - audiences:devops
+category: data-engineering
+duration_hours: 24
+level: advanced
 tags:
   - databases:vector
   - concepts:embeddings
   - concepts:databases
   - concepts:operations
   - concepts:best-practices
-level: advanced
-category: data-engineering
-duration_hours: 24
-audience:
-  - audiences:data-engineers
-  - audiences:ml-engineers
-  - audiences:senior-developers
-  - audiences:devops
 ---
 
 <!-- course: vector_databases -->

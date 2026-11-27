@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:network-engineers
+  - audiences:devops
+  - audiences:sres
+  - audiences:senior-developers
+category: networking
+duration_hours: 24
+level: advanced
 tags:
   - concepts:networking
   - concepts:observability
   - concepts:operations
   - concepts:performance
   - concepts:best-practices
-level: advanced
-category: networking
-duration_hours: 24
-audience:
-  - audiences:network-engineers
-  - audiences:devops
-  - audiences:sres
-  - audiences:senior-developers
 ---
 
 <!-- course: network_observability_engineering -->

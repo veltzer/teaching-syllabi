@@ -1,16 +1,16 @@
 ---
-tags:
-  - infrastructure:cloud
-  - infrastructure:virtualization
-  - practices:devops
-level: intermediate
-category: cloud
-duration_hours: 24
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:architects
   - audiences:developers
+category: cloud
+duration_hours: 24
+level: intermediate
+tags:
+  - infrastructure:cloud
+  - infrastructure:virtualization
+  - practices:devops
 ---
 
 <!-- course: openstack -->

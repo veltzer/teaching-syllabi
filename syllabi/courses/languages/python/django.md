@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:python
   - concepts:web-development
   - tools:django
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: django -->

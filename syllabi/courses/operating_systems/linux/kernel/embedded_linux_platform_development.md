@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
@@ -8,12 +14,6 @@ tags:
   - tools:u-boot
   - tools:yocto
   - tools:buildroot
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: embedded_linux_platform_development -->

@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - tools:backstage
   - practices:devops
   - concepts:architecture
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: backstage -->

@@ -1,16 +1,16 @@
 ---
-tags:
-  - concepts:architecture
-  - data-and-ai:data-engineering
-  - concepts:distributed-systems
-level: advanced
-category: architecture
-duration_hours: 16
 audience:
   - audiences:architects
   - audiences:data-engineers
   - audiences:team-leads
   - audiences:managers
+category: architecture
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:architecture
+  - data-and-ai:data-engineering
+  - concepts:distributed-systems
 ---
 
 <!-- course: data_mesh -->

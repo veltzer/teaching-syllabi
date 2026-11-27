@@ -1,19 +1,19 @@
 ---
-tags:
-  - concepts:operations
-  - concepts:observability
-  - concepts:best-practices
-  - concepts:developer-experience
-  - concepts:scalability
-level: intermediate
-category: devops
-duration_hours: 40
 audience:
   - audiences:sres
   - audiences:devops
   - audiences:developers
   - audiences:senior-developers
   - audiences:team-leads
+category: devops
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:operations
+  - concepts:observability
+  - concepts:best-practices
+  - concepts:developer-experience
+  - concepts:scalability
 ---
 
 <!-- course: incident_response_and_postmortems -->

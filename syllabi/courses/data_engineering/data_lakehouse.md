@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-engineers
+  - audiences:architects
+category: data-engineering
+duration_hours: 16
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:delta-lake
@@ -6,13 +13,6 @@ tags:
   - concepts:data-lakehouse
   - concepts:data-architecture
   - concepts:big-data
-level: intermediate
-category: data-engineering
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-engineers
-  - audiences:architects
 ---
 
 <!-- course: data_lakehouse -->

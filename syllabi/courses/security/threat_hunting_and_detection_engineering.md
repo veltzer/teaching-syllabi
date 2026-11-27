@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:security-engineers
+  - audiences:security-professionals
+  - audiences:developers
+  - audiences:senior-developers
+category: security
+duration_hours: 40
+level: advanced
 tags:
   - concepts:security
   - concepts:network-security
   - concepts:observability
   - concepts:operations
   - concepts:best-practices
-level: advanced
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-engineers
-  - audiences:security-professionals
-  - audiences:developers
-  - audiences:senior-developers
 ---
 
 <!-- course: threat_hunting_and_detection_engineering -->

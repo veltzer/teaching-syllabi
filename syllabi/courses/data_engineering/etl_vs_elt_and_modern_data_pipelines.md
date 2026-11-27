@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:analytics-engineers
+  - audiences:developers
+  - audiences:architects
+category: data-engineering
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:etl
   - concepts:data-architecture
@@ -6,14 +14,6 @@ tags:
   - concepts:data-transformation
   - concepts:big-data
   - concepts:workflow-orchestration
-level: intermediate
-category: data-engineering
-duration_hours: 40
-audience:
-  - audiences:data-engineers
-  - audiences:analytics-engineers
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: etl_vs_elt_and_modern_data_pipelines -->

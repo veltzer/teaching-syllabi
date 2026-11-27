@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:devops
+category: cloud
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:azure
   - infrastructure:cloud
   - concepts:architecture
   - concepts:scalability
-level: advanced
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: azure_architect -->

@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sres
+  - audiences:senior-developers
+  - audiences:architects
+  - audiences:dbas
+category: cloud
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:operations
   - concepts:scalability
@@ -6,15 +15,6 @@ tags:
   - concepts:best-practices
   - concepts:cloud-economics
   - concepts:security
-level: intermediate
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:devops
-  - audiences:sres
-  - audiences:senior-developers
-  - audiences:architects
-  - audiences:dbas
 ---
 
 <!-- course: disaster_recovery_in_practice -->

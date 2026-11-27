@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: networking
+duration_hours: 24
+level: intermediate
 tags:
   - networking:grpc
   - networking:protocols
   - concepts:api
   - concepts:microservices
-level: intermediate
-category: networking
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: grpc -->

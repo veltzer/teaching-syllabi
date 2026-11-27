@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:dbas
+  - audiences:developers
+  - audiences:performance-engineers
+category: database
+duration_hours: 16
+level: advanced
 tags:
   - tools:mysql
   - databases:sql
   - practices:performance
   - practices:tuning
-level: advanced
-category: database
-duration_hours: 16
-audience:
-  - audiences:dbas
-  - audiences:developers
-  - audiences:performance-engineers
 ---
 
 <!-- course: mysql_performance_tuning -->

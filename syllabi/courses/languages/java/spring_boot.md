@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:java
   - tools:spring
   - concepts:web-development
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: spring_boot -->

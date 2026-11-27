@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: big-data
+duration_hours: 24
+level: intermediate
 tags:
   - tools:hive
   - tools:hadoop
   - data-and-ai:big-data
   - languages:sql
   - data-and-ai:etl
-level: intermediate
-category: big-data
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: hive_syllabus -->

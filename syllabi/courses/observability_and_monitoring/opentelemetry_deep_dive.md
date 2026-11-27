@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:sres
+  - audiences:devops
+  - audiences:performance-engineers
+category: observability
+duration_hours: 40
+level: advanced
 tags:
   - concepts:opentelemetry
   - concepts:observability
@@ -6,15 +15,6 @@ tags:
   - concepts:performance
   - concepts:microservices
   - concepts:operations
-level: advanced
-category: observability
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:sres
-  - audiences:devops
-  - audiences:performance-engineers
 ---
 
 <!-- course: opentelemetry_deep_dive -->

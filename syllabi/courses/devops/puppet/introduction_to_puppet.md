@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: beginner
 tags:
   - tools:puppet
   - infrastructure:configuration-management
   - practices:automation
   - practices:devops
-level: beginner
-category: devops
-duration_hours: 16
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: introduction_to_puppet -->

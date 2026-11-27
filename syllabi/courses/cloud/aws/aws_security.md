@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:security-professionals
+  - audiences:devops
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
   - security:security
   - security:iam
   - security:compliance
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:sysadmins
-  - audiences:security-professionals
-  - audiences:devops
 ---
 
 <!-- course: aws_security -->

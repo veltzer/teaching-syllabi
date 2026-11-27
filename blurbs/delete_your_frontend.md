@@ -1,4 +1,14 @@
 ---
+audience:
+  - audiences:managers
+  - audiences:team-leads
+  - audiences:architects
+  - audiences:developers
+  - audiences:frontend-developers
+  - audiences:product-managers
+category: ai
+duration_minutes: 120
+level: intermediate
 tags:
   - data-and-ai:agents
   - data-and-ai:ai
@@ -11,16 +21,6 @@ tags:
   - concepts:web-development
   - practices:accessibility
   - practices:security
-level: intermediate
-category: ai
-duration_minutes: 120
-audience:
-  - audiences:managers
-  - audiences:team-leads
-  - audiences:architects
-  - audiences:developers
-  - audiences:frontend-developers
-  - audiences:product-managers
 ---
 
 <!-- blurb: delete_your_frontend -->

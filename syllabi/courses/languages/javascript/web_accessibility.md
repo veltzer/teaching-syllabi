@@ -1,13 +1,13 @@
 ---
-tags:
-  - concepts:web-development
-  - concepts:best-practices
-level: intermediate
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:architects
+category: language
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:web-development
+  - concepts:best-practices
 ---
 
 <!-- course: web_accessibility -->

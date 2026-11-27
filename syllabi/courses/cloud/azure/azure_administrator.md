@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:azure
-  - infrastructure:cloud
-  - security:iam
-level: intermediate
-category: cloud
-duration_hours: 32
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:architects
+category: cloud
+duration_hours: 32
+level: intermediate
+tags:
+  - infrastructure:azure
+  - infrastructure:cloud
+  - security:iam
 ---
 
 <!-- course: azure_administrator -->

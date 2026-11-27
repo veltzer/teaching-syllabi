@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+category: devops
+duration_hours: 8
+level: intermediate
 tags:
   - tools:kustomize
   - infrastructure:kubernetes
   - practices:devops
   - practices:gitops
-level: intermediate
-category: devops
-duration_hours: 8
-audience:
-  - audiences:devops
-  - audiences:developers
 ---
 
 <!-- course: kustomize -->

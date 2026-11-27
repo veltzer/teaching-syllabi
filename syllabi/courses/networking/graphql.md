@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - networking:graphql
   - networking:protocols
   - concepts:api
   - networking:web
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: graphql -->

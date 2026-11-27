@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - tools:sqlite
   - languages:sql
   - concepts:database-design
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: sqlite_deep_dive -->

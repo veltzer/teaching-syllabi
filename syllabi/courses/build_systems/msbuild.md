@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:dotnet-developers
+category: build-system
+duration_hours: 16
+level: intermediate
 tags:
   - tools:msbuild
   - build:dotnet
   - build:csharp
   - languages:csharp
   - practices:build-automation
-level: intermediate
-category: build-system
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:dotnet-developers
 ---
 
 <!-- course: msbuild -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 24
+level: advanced
 tags:
   - data-and-ai:nlp
   - data-and-ai:deep-learning
   - data-and-ai:machine-learning
   - languages:python
-level: advanced
-category: machine-learning
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: nlp_with_transformers -->

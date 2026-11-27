@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:security-professionals
+category: security
+duration_hours: 40
+level: intermediate
 tags:
   - security:security
   - practices:monitoring
-level: intermediate
-category: security
-duration_hours: 40
-audience:
-  - audiences:security-professionals
 ---
 
 <!-- course: soc_analyst_training -->

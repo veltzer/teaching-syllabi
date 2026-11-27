@@ -1,14 +1,14 @@
 ---
-tags:
-  - tools:neo4j
-  - concepts:data-structures
-level: intermediate
-category: database
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:data-scientists
   - audiences:architects
+category: database
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:neo4j
+  - concepts:data-structures
 ---
 
 <!-- course: neo4j_graph_databases -->

@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: beginner
 tags:
   - languages:dart
   - concepts:programming
   - practices:mobile
-level: beginner
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: dart_and_flutter -->

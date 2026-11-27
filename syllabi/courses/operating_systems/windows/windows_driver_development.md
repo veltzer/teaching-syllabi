@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:systems-programmers
+  - audiences:embedded-developers
+  - audiences:firmware-developers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:windows
   - infrastructure:kernel
   - infrastructure:device-drivers
   - concepts:systems-programming
   - practices:debugging
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:systems-programmers
-  - audiences:embedded-developers
-  - audiences:firmware-developers
 ---
 
 <!-- course: windows_driver_development -->

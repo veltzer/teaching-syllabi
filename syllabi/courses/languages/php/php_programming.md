@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: beginner
 tags:
   - languages:php
   - concepts:programming
   - concepts:web-development
-level: beginner
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: php_programming -->

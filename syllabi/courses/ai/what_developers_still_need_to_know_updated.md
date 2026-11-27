@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:architects
+  - audiences:team-leads
+category: ai
+duration_hours: 8
+level: intermediate
 tags:
   - data-and-ai:ai
   - data-and-ai:llm
@@ -9,14 +17,6 @@ tags:
   - practices:documentation
   - practices:testing
   - databases:choosing
-level: intermediate
-category: ai
-duration_hours: 8
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: what_developers_still_need_to_know_updated -->

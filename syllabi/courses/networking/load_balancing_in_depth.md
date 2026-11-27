@@ -1,14 +1,4 @@
 ---
-tags:
-  - concepts:networking
-  - concepts:scalability
-  - concepts:distributed-systems
-  - concepts:performance
-  - concepts:operations
-  - concepts:architecture
-level: intermediate
-category: networking
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:senior-developers
@@ -16,6 +6,16 @@ audience:
   - audiences:sres
   - audiences:network-engineers
   - audiences:architects
+category: networking
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:networking
+  - concepts:scalability
+  - concepts:distributed-systems
+  - concepts:performance
+  - concepts:operations
+  - concepts:architecture
 ---
 
 <!-- course: load_balancing_in_depth -->

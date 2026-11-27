@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sres
+  - audiences:devops
+category: observability
+duration_hours: 16
+level: intermediate
 tags:
   - tools:opentelemetry
   - practices:observability
   - practices:distributed-tracing
   - practices:monitoring
   - practices:instrumentation
-level: intermediate
-category: observability
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sres
-  - audiences:devops
 ---
 
 <!-- course: opentelemetry -->

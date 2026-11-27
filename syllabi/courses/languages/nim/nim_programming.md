@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:systems-programmers
+category: language
+duration_hours: 24
+level: intermediate
 tags:
   - languages:nim
   - concepts:compiled
   - concepts:systems-programming
   - concepts:meta-programming
-level: intermediate
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:systems-programmers
 ---
 
 <!-- course: nim_programming -->

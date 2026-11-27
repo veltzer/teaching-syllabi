@@ -1,17 +1,17 @@
 ---
-tags:
-  - security:zero-trust
-  - security:architecture
-  - concepts:identity
-  - concepts:network-security
-level: intermediate
-category: security
-duration_hours: 16
 audience:
   - audiences:architects
   - audiences:security-engineers
   - audiences:devops
   - audiences:managers
+category: security
+duration_hours: 16
+level: intermediate
+tags:
+  - security:zero-trust
+  - security:architecture
+  - concepts:identity
+  - concepts:network-security
 ---
 
 <!-- course: zero_trust_security -->

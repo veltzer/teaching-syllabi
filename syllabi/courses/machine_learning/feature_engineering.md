@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:data-scientists
+  - audiences:developers
+  - audiences:data-engineers
+category: machine-learning
+duration_hours: 24
+level: intermediate
 tags:
   - concepts:feature-engineering
   - data-and-ai:machine-learning
   - tools:feast
   - tools:tecton
   - concepts:feature-store
-level: intermediate
-category: machine-learning
-duration_hours: 24
-audience:
-  - audiences:data-scientists
-  - audiences:developers
-  - audiences:data-engineers
 ---
 
 <!-- course: feature_engineering -->

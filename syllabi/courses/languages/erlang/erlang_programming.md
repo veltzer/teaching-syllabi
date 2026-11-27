@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: language
+duration_hours: 32
+level: intermediate
 tags:
   - languages:erlang
   - concepts:concurrency
   - concepts:distributed-systems
   - concepts:functional-programming
-level: intermediate
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: erlang_programming -->

@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:azure
-  - infrastructure:cloud
-  - concepts:big-data
-level: intermediate
-category: cloud
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:data-engineers
   - audiences:architects
+category: cloud
+duration_hours: 32
+level: intermediate
+tags:
+  - infrastructure:azure
+  - infrastructure:cloud
+  - concepts:big-data
 ---
 
 <!-- course: azure_data_engineering -->

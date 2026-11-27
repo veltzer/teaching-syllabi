@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+category: big-data
+duration_hours: 16
+level: intermediate
 tags:
   - tools:splunk
   - data-and-ai:big-data
   - practices:monitoring
   - practices:log-management
-level: intermediate
-category: big-data
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
 ---
 
 <!-- course: intermediate_splunk -->

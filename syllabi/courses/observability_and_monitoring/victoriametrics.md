@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sres
+  - audiences:sysadmins
+category: observability
+duration_hours: 16
+level: intermediate
 tags:
   - tools:victoriametrics
   - observability:metrics
   - observability:monitoring
   - concepts:prometheus-compatible
-level: intermediate
-category: observability
-duration_hours: 16
-audience:
-  - audiences:devops
-  - audiences:sres
-  - audiences:sysadmins
 ---
 
 <!-- course: victoriametrics -->

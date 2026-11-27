@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:security
-  - concepts:cryptography
-  - concepts:systems-programming
-  - concepts:best-practices
-level: advanced
-category: security
-duration_hours: 24
 audience:
   - audiences:security-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:embedded-developers
+category: security
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:security
+  - concepts:cryptography
+  - concepts:systems-programming
+  - concepts:best-practices
 ---
 
 <!-- course: hardware_security_and_trusted_execution -->

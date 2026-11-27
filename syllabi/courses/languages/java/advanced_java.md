@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 40
+level: advanced
 tags:
   - languages:java
   - tools:jvm
   - concepts:concurrency
   - practices:performance
-level: advanced
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: advanced_java -->

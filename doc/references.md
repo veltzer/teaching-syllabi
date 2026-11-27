@@ -174,7 +174,7 @@
 
 * [C++14 at Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B14)
 
-### languages/c++/c++17.md
+### languages/c++/c++17.md (C++)
 
 * [C++17 at Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B17)
 * [GitHub repo explaining all features](https://github.com/AnthonyCalandra/modern-cpp-features)

@@ -1,19 +1,19 @@
 ---
-tags:
-  - concepts:networking
-  - concepts:internet-infrastructure
-  - concepts:operations
-  - concepts:scalability
-  - concepts:network-security
-level: intermediate
-category: networking
-duration_hours: 40
 audience:
   - audiences:devops
   - audiences:sres
   - audiences:network-engineers
   - audiences:senior-developers
   - audiences:architects
+category: networking
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:networking
+  - concepts:internet-infrastructure
+  - concepts:operations
+  - concepts:scalability
+  - concepts:network-security
 ---
 
 <!-- course: dns_in_production -->

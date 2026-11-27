@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:mysql
-  - databases:sql
-  - practices:sysadmin
-level: intermediate
-category: database
-duration_hours: 24
 audience:
   - audiences:dbas
   - audiences:sysadmins
   - audiences:devops
+category: database
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:mysql
+  - databases:sql
+  - practices:sysadmin
 ---
 
 <!-- course: mysql_dba -->

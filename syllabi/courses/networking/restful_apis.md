@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:devops
+category: networking
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:api
   - concepts:rest
   - networking:http
   - networking:web
-level: intermediate
-category: networking
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: restful_apis -->

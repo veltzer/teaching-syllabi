@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:performance-engineers
+  - audiences:devops
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - practices:debugging
@@ -7,13 +14,6 @@ tags:
   - practices:sanitizers
   - practices:performance
   - concepts:multithreading
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:performance-engineers
-  - audiences:devops
 ---
 
 <!-- course: linux_debugging -->

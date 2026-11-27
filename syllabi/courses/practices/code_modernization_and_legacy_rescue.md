@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:team-leads
+  - audiences:architects
+category: practices
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:best-practices
   - concepts:migration
@@ -6,14 +14,6 @@ tags:
   - concepts:testing
   - concepts:design-patterns
   - concepts:architecture
-level: intermediate
-category: practices
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:team-leads
-  - audiences:architects
 ---
 
 <!-- course: code_modernization_and_legacy_rescue -->

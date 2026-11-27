@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: beginner
 tags:
   - languages:csharp
   - tools:aspnet
   - tools:entity-framework
   - concepts:web-development
-level: beginner
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: dotnet_development -->

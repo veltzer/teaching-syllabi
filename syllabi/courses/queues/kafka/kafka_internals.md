@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: message-queue
+duration_hours: 16
+level: advanced
 tags:
   - tools:kafka
   - data-and-ai:message-queues
   - data-and-ai:streaming
   - concepts:distributed-systems
-level: advanced
-category: message-queue
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: kafka_internals -->

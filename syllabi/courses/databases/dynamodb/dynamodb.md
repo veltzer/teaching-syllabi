@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: database
+duration_hours: 16
+level: intermediate
 tags:
   - databases:dynamodb
   - databases:nosql
   - infrastructure:aws
   - concepts:data-modeling
-level: intermediate
-category: database
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: dynamodb -->

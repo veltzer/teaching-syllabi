@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:architects
+  - audiences:team-leads
+category: ai
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:ai
   - concepts:programming
   - concepts:best-practices
   - concepts:test-quality
   - practices:productivity
-level: intermediate
-category: ai
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: what_developers_still_need_to_know -->

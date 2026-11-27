@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 24
+level: advanced
 tags:
   - data-and-ai:generative-ai
   - data-and-ai:diffusion-models
   - data-and-ai:deep-learning
   - tools:diffusers
   - concepts:stable-diffusion
-level: advanced
-category: machine-learning
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: diffusion_models -->

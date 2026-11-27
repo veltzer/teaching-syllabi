@@ -1,17 +1,17 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:architects
+  - audiences:devops
+category: cloud
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:gcp
   - infrastructure:cloud
   - practices:monitoring
   - practices:observability
   - practices:sre
-level: intermediate
-category: cloud
-duration_hours: 24
-audience:
-  - audiences:sysadmins
-  - audiences:architects
-  - audiences:devops
 ---
 
 <!-- course: logging_monitoring_and_observability_in_the_google_cloud -->

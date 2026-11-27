@@ -1,19 +1,19 @@
 ---
-tags:
-  - concepts:security
-  - concepts:testing
-  - concepts:best-practices
-  - concepts:operations
-  - concepts:developer-experience
-level: intermediate
-category: security
-duration_hours: 40
 audience:
   - audiences:security-engineers
   - audiences:developers
   - audiences:senior-developers
   - audiences:devops
   - audiences:architects
+category: security
+duration_hours: 40
+level: intermediate
+tags:
+  - concepts:security
+  - concepts:testing
+  - concepts:best-practices
+  - concepts:operations
+  - concepts:developer-experience
 ---
 
 <!-- course: sast_dast_and_modern_appsec -->

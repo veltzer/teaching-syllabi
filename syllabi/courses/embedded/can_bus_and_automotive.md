@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: embedded
+duration_hours: 16
+level: intermediate
 tags:
   - hardware-and-embedded:embedded
   - networking:protocols
   - hardware-and-embedded:automotive
-level: intermediate
-category: embedded
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: can_bus_and_automotive -->

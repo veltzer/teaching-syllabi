@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: operating-systems
+duration_hours: 40
+level: intermediate
 tags:
   - infrastructure:linux
   - audiences:sysadmin
@@ -6,12 +12,6 @@ tags:
   - networking:networking
   - security:security
   - practices:monitoring
-level: intermediate
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: linux_system_administration -->

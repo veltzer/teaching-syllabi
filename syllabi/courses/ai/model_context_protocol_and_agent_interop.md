@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:ai
-  - concepts:api
-  - concepts:best-practices
-  - concepts:design-patterns
-level: intermediate
-category: ai
-duration_hours: 16
 audience:
   - audiences:ml-engineers
   - audiences:senior-developers
   - audiences:developers
   - audiences:architects
+category: ai
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:ai
+  - concepts:api
+  - concepts:best-practices
+  - concepts:design-patterns
 ---
 
 <!-- course: model_context_protocol_and_agent_interop -->

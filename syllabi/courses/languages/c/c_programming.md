@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 32
+level: beginner
 tags:
   - languages:c
   - concepts:programming
   - concepts:systems-programming
-level: beginner
-category: language
-duration_hours: 32
-audience:
-  - audiences:developers
 ---
 
 <!-- course: c_programming -->

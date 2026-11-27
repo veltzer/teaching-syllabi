@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:observability
-  - concepts:distributed-systems
-  - concepts:performance
-  - concepts:best-practices
-level: advanced
-category: observability
-duration_hours: 24
 audience:
   - audiences:senior-developers
   - audiences:devops
   - audiences:sres
   - audiences:performance-engineers
+category: observability
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:observability
+  - concepts:distributed-systems
+  - concepts:performance
+  - concepts:best-practices
 ---
 
 <!-- course: distributed_tracing_in_practice -->

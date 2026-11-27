@@ -1,18 +1,18 @@
 ---
-tags:
-  - infrastructure:aws
-  - infrastructure:cloud
-  - concepts:architecture
-  - concepts:scalability
-level: intermediate
-category: cloud
-duration_hours: 40
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:architects
   - audiences:devops
   - audiences:managers
+category: cloud
+duration_hours: 40
+level: intermediate
+tags:
+  - infrastructure:aws
+  - infrastructure:cloud
+  - concepts:architecture
+  - concepts:scalability
 ---
 
 <!-- course: aws_architecting -->

@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:dbas
+  - audiences:data-engineers
+category: database
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:databases
   - concepts:database-design
   - concepts:performance
   - concepts:optimization
   - concepts:persistence
-level: intermediate
-category: database
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:dbas
-  - audiences:data-engineers
 ---
 
 <!-- course: query_optimization_and_indexing -->

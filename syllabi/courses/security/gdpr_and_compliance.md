@@ -1,17 +1,17 @@
 ---
-tags:
-  - security:compliance
-  - security:privacy
-  - concepts:gdpr
-  - concepts:data-protection
-level: beginner
-category: security
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:managers
   - audiences:legal
+category: security
+duration_hours: 16
+level: beginner
+tags:
+  - security:compliance
+  - security:privacy
+  - concepts:gdpr
+  - concepts:data-protection
 ---
 
 <!-- course: gdpr_and_compliance -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:sysadmins
+category: devops
+duration_hours: 24
+level: intermediate
 tags:
   - tools:saltstack
   - infrastructure:infrastructure-as-code
   - infrastructure:configuration-management
   - practices:devops
-level: intermediate
-category: devops
-duration_hours: 24
-audience:
-  - audiences:devops
-  - audiences:sysadmins
 ---
 
 <!-- course: saltstack -->

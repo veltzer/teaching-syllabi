@@ -1,14 +1,14 @@
 ---
-tags:
-  - security:security
-  - concepts:algorithms
-level: intermediate
-category: security
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:security-professionals
   - audiences:devops
+category: security
+duration_hours: 24
+level: intermediate
+tags:
+  - security:security
+  - concepts:algorithms
 ---
 
 <!-- course: cryptography_fundamentals -->

@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:developers
+  - audiences:testers
+category: security
+duration_hours: 16
+level: advanced
 tags:
   - security:security
   - infrastructure:android
   - practices:reverse-engineering
   - security:exploitation
-level: advanced
-category: security
-duration_hours: 16
-audience:
-  - audiences:security-professionals
-  - audiences:developers
-  - audiences:testers
 ---
 
 <!-- course: android_reverse_engineering -->

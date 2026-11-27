@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:managers
+  - audiences:team-leads
+category: language
+duration_minutes: 120
+level: intermediate
 tags:
   - concepts:migration
   - concepts:programming
@@ -6,14 +14,6 @@ tags:
   - data-and-ai:ai
   - practices:code-quality
   - practices:code-review
-level: intermediate
-category: language
-duration_minutes: 120
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:managers
-  - audiences:team-leads
 ---
 
 <!-- blurb: choosing_programming_languages_in_the_age_of_ai -->

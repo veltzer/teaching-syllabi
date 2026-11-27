@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
 tags:
   - tools:podman
   - practices:devops
   - practices:automation
   - tools:docker
-level: intermediate
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: podman -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:networking
-  - concepts:scalability
-  - concepts:performance
-  - concepts:best-practices
-level: advanced
-category: networking
-duration_hours: 16
 audience:
   - audiences:network-engineers
   - audiences:senior-developers
   - audiences:architects
   - audiences:devops
+category: networking
+duration_hours: 16
+level: advanced
+tags:
+  - concepts:networking
+  - concepts:scalability
+  - concepts:performance
+  - concepts:best-practices
 ---
 
 <!-- course: anycast_and_global_load_balancing -->

@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:security-professionals
+  - audiences:testers
+category: operating-systems
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:linux
   - security:security
@@ -6,12 +12,6 @@ tags:
   - security:privilege-escalation
   - security:exploitation
   - security:red-team
-level: advanced
-category: operating-systems
-duration_hours: 40
-audience:
-  - audiences:security-professionals
-  - audiences:testers
 ---
 
 <!-- course: offensive_linux -->

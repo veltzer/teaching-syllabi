@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:feature-store
-  - concepts:machine-learning
-  - concepts:best-practices
-  - concepts:operations
-level: advanced
-category: data-engineering
-duration_hours: 24
 audience:
   - audiences:data-engineers
   - audiences:ml-engineers
   - audiences:devops
   - audiences:senior-developers
+category: data-engineering
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:feature-store
+  - concepts:machine-learning
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: feature_store_engineering -->

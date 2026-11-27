@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 40
+duration_hours_long: 40
+duration_hours_short: 24
+level: intermediate
 tags:
   - tools:elasticsearch
   - data-and-ai:search
   - concepts:api
   - concepts:distributed-systems
-level: intermediate
-category: database
-duration_hours_short: 24
-duration_hours_long: 40
-audience:
-  - audiences:developers
-duration_hours: 40
 ---
 
 <!-- course: elasticsearch_for_developers -->

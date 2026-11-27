@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 24
+level: advanced
 tags:
   - languages:c++
   - languages:c
   - concepts:design-patterns
   - concepts:concurrency
   - practices:performance
-level: advanced
-category: language
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: technical_design_patterns_for_c++_programmers -->

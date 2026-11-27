@@ -1,12 +1,12 @@
 ---
-tags:
-  - hardware-and-embedded:embedded
-level: intermediate
-category: embedded
-duration_hours: 16
 audience:
   - audiences:embedded-engineers
   - audiences:developers
+category: embedded
+duration_hours: 16
+level: intermediate
+tags:
+  - hardware-and-embedded:embedded
 ---
 
 <!-- course: vxworks_and_non_secure_operating_systems -->

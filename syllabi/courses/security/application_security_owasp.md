@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+  - audiences:architects
+  - audiences:managers
+  - audiences:security-professionals
+category: security
+duration_hours: 16
+level: intermediate
 tags:
   - security:security
   - security:owasp
@@ -6,15 +15,6 @@ tags:
   - security:sast
   - security:dast
   - security:secure-sdlc
-level: intermediate
-category: security
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
-  - audiences:architects
-  - audiences:managers
-  - audiences:security-professionals
 ---
 
 <!-- course: application_security_owasp -->

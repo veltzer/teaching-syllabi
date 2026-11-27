@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+category: architecture
+duration_hours: 8
+level: intermediate
 tags:
   - concepts:architecture
   - data-and-ai:message-queues
   - concepts:scalability
-level: intermediate
-category: architecture
-duration_hours: 8
-audience:
-  - audiences:architects
-  - audiences:developers
 ---
 
 <!-- course: message_queues -->

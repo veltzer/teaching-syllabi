@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 32
+level: advanced
 tags:
   - infrastructure:linux
   - infrastructure:real-time
@@ -6,12 +12,6 @@ tags:
   - concepts:scheduling
   - hardware-and-embedded:embedded
   - practices:latency
-level: advanced
-category: operating-systems
-duration_hours: 32
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: linux_realtime -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:databases
-  - concepts:scalability
-  - concepts:distributed-systems
-  - concepts:best-practices
-level: advanced
-category: database
-duration_hours: 24
 audience:
   - audiences:dbas
   - audiences:senior-developers
   - audiences:architects
   - audiences:data-engineers
+category: database
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:databases
+  - concepts:scalability
+  - concepts:distributed-systems
+  - concepts:best-practices
 ---
 
 <!-- course: sharding_strategies -->

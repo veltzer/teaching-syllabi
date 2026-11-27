@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - infrastructure:linux
   - networking:networking
@@ -6,13 +13,6 @@ tags:
   - networking:sockets
   - infrastructure:device-drivers
   - hardware-and-embedded:dpdk
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: linux_networking -->

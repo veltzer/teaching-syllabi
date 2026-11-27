@@ -1,13 +1,13 @@
 ---
-tags:
-  - languages:sql
-  - data-and-ai:databases
-level: beginner
-category: language
-duration_hours: 32
 audience:
   - audiences:developers
   - audiences:dbas
+category: language
+duration_hours: 32
+level: beginner
+tags:
+  - languages:sql
+  - data-and-ai:databases
 ---
 
 <!-- course: sql -->

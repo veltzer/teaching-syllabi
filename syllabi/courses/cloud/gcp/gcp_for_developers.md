@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: cloud
+duration_hours: 16
+level: intermediate
 tags:
   - infrastructure:gcp
   - infrastructure:cloud
   - concepts:serverless
   - practices:devops
-level: intermediate
-category: cloud
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: gcp_for_developers -->

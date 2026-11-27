@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:testing
-  - concepts:test-quality
-  - concepts:web-development
-  - concepts:best-practices
-level: intermediate
-category: testing
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:qa-engineers
   - audiences:developers
   - audiences:frontend-developers
+category: testing
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:testing
+  - concepts:test-quality
+  - concepts:web-development
+  - concepts:best-practices
 ---
 
 <!-- course: visual_regression_testing -->

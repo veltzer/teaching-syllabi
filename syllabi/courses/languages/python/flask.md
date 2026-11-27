@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:python
   - concepts:web-development
   - tools:flask
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: flask -->

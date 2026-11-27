@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:architecture
-  - concepts:migration
-  - concepts:best-practices
-  - concepts:design-patterns
-level: advanced
-category: architecture
-duration_hours: 24
 audience:
   - audiences:architects
   - audiences:senior-developers
   - audiences:team-leads
   - audiences:developers
+category: architecture
+duration_hours: 24
+level: advanced
+tags:
+  - concepts:architecture
+  - concepts:migration
+  - concepts:best-practices
+  - concepts:design-patterns
 ---
 
 <!-- course: strangler_fig_migration_in_depth -->

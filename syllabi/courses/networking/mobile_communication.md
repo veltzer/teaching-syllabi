@@ -1,15 +1,15 @@
 ---
-tags:
-  - networking:protocols
-  - networking:networking
-  - hardware-and-embedded:iot
-level: intermediate
-category: networking
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:architects
   - audiences:embedded-engineers
+category: networking
+duration_hours: 16
+level: intermediate
+tags:
+  - networking:protocols
+  - networking:networking
+  - hardware-and-embedded:iot
 ---
 
 <!-- course: mobile_communication -->

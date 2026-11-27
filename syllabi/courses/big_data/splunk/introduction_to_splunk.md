@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:sysadmins
+  - audiences:devops
+category: big-data
+duration_hours: 16
+duration_hours_long: 16
+duration_hours_short: 8
+level: beginner
 tags:
   - tools:splunk
   - data-and-ai:big-data
   - practices:monitoring
   - practices:log-management
-level: beginner
-category: big-data
-duration_hours_short: 8
-duration_hours_long: 16
-audience:
-  - audiences:developers
-  - audiences:sysadmins
-  - audiences:devops
-duration_hours: 16
 ---
 
 <!-- course: introduction_to_splunk -->

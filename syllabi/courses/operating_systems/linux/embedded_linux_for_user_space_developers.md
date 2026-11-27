@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:embedded-engineers
+category: operating-systems
+duration_hours: 56
+level: intermediate
 tags:
   - infrastructure:linux
   - hardware-and-embedded:embedded
@@ -6,12 +12,6 @@ tags:
   - infrastructure:user-space
   - infrastructure:ipc
   - networking:networking
-level: intermediate
-category: operating-systems
-duration_hours: 56
-audience:
-  - audiences:developers
-  - audiences:embedded-engineers
 ---
 
 <!-- course: embedded_linux_for_user_space_developers -->

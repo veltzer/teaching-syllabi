@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - tools:solr
   - data-and-ai:search
   - tools:lucene
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
 ---
 
 <!-- course: solr_6_for_developers -->

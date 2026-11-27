@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:data-scientists
+category: data-science
+duration_hours: 40
+level: beginner
 tags:
   - data-and-ai:data-science
   - languages:python
   - data-and-ai:machine-learning
   - data-and-ai:statistics
-level: beginner
-category: data-science
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:data-scientists
 ---
 
 <!-- course: data_science -->

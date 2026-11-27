@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:devops
+  - audiences:developers
+  - audiences:sysadmins
+category: devops
+duration_hours: 32
+level: intermediate
 tags:
   - infrastructure:aws
   - infrastructure:cloud
@@ -10,13 +17,6 @@ tags:
   - practices:observability
   - tools:terraform
   - tools:docker
-level: intermediate
-category: devops
-duration_hours: 32
-audience:
-  - audiences:devops
-  - audiences:developers
-  - audiences:sysadmins
 ---
 
 <!-- course: aws_devops -->

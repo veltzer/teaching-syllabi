@@ -1,12 +1,12 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: beginner
 tags:
   - languages:javascript
   - concepts:web-development
-level: beginner
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: tailwind_css -->

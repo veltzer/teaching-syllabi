@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:python
-  - data-and-ai:data-analysis
-  - data-and-ai:data-analytics
-level: intermediate
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:data-scientists
   - audiences:data-analysts
+category: language
+duration_hours: 16
+level: intermediate
+tags:
+  - languages:python
+  - data-and-ai:data-analysis
+  - data-and-ai:data-analytics
 ---
 
 <!-- course: data_visualization_with_python -->

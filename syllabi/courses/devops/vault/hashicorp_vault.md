@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:vault
-  - security:security
-  - practices:devops
-level: intermediate
-category: devops
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:security-professionals
   - audiences:devops
+category: devops
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:vault
+  - security:security
+  - practices:devops
 ---
 
 <!-- course: hashicorp_vault -->

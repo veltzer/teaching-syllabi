@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:data-architects
+category: data-engineering
+duration_hours: 24
+level: intermediate
 tags:
   - data-and-ai:data-engineering
   - tools:apache-hudi
@@ -6,12 +12,6 @@ tags:
   - databases:lakehouse
   - practices:data-engineering
   - concepts:acid
-level: intermediate
-category: data-engineering
-duration_hours: 24
-audience:
-  - audiences:data-engineers
-  - audiences:data-architects
 ---
 
 <!-- course: apache_hudi -->

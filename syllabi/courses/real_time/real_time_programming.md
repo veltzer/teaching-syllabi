@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: real-time
+duration_hours: 56
+level: advanced
 tags:
   - infrastructure:real-time
   - languages:c
   - infrastructure:linux
   - concepts:systems-programming
-level: advanced
-category: real-time
-duration_hours: 56
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: real_time_programming -->

@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: devops
+duration_hours: 24
+level: intermediate
 tags:
   - tools:puppet
   - infrastructure:configuration-management
   - practices:automation
   - practices:devops
-level: intermediate
-category: devops
-duration_hours: 24
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: intermediate_puppet -->

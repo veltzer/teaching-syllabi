@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: operating-systems
+duration_hours: 24
+level: intermediate
 tags:
   - infrastructure:linux
   - linuxkernel:pthreads
@@ -7,12 +13,6 @@ tags:
   - concepts:synchronization
   - practices:debugging
   - languages:c
-level: intermediate
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: pthread -->

@@ -1,4 +1,9 @@
 ---
+audience:
+  - audiences:developers
+category: operating-systems
+duration_hours: 16
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:multi-core
@@ -6,11 +11,6 @@ tags:
   - concepts:concurrency
   - hardware-and-embedded:cache
   - concepts:synchronization
-level: advanced
-category: operating-systems
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: multi_core_programming -->

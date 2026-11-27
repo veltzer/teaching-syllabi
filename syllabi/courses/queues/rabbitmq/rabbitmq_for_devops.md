@@ -1,15 +1,15 @@
 ---
-tags:
-  - tools:rabbitmq
-  - data-and-ai:message-queues
-  - practices:devops
-level: intermediate
-category: message-queue
-duration_hours: 24
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: message-queue
+duration_hours: 24
+level: intermediate
+tags:
+  - tools:rabbitmq
+  - data-and-ai:message-queues
+  - practices:devops
 ---
 
 <!-- course: rabbitmq_for_devops -->

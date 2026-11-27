@@ -1,4 +1,13 @@
 ---
+audience:
+  - audiences:data-engineers
+  - audiences:analytics-engineers
+  - audiences:developers
+  - audiences:data-architects
+  - audiences:architects
+category: data-engineering
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:data-architecture
   - concepts:data-modeling
@@ -6,15 +15,6 @@ tags:
   - concepts:observability
   - concepts:best-practices
   - concepts:operations
-level: intermediate
-category: data-engineering
-duration_hours: 40
-audience:
-  - audiences:data-engineers
-  - audiences:analytics-engineers
-  - audiences:developers
-  - audiences:data-architects
-  - audiences:architects
 ---
 
 <!-- course: data_quality_and_validation -->

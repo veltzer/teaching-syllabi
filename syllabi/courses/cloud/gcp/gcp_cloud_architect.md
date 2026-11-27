@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:devops
+  - audiences:team-leads
+category: cloud
+duration_hours: 40
+level: advanced
 tags:
   - infrastructure:cloud
   - infrastructure:gcp
@@ -10,13 +17,6 @@ tags:
   - concepts:distributed-systems
   - infrastructure:containers
   - infrastructure:kubernetes
-level: advanced
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:devops
-  - audiences:team-leads
 ---
 
 <!-- course: gcp_cloud_architect -->

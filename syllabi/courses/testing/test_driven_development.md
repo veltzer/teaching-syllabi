@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:testers
+  - audiences:architects
+category: testing
+duration_hours: 16
+level: intermediate
 tags:
   - practices:testing
   - practices:tdd
   - practices:bdd
   - practices:refactoring
-level: intermediate
-category: testing
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:testers
-  - audiences:architects
 ---
 
 <!-- course: test_driven_development -->

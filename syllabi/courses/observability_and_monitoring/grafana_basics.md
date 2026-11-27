@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:sysadmins
+  - audiences:devops
+category: observability
+duration_hours: 16
+level: beginner
 tags:
   - tools:grafana
   - practices:monitoring
   - practices:observability
-level: beginner
-category: observability
-duration_hours: 16
-audience:
-  - audiences:sysadmins
-  - audiences:devops
 ---
 
 <!-- course: grafana_basics -->

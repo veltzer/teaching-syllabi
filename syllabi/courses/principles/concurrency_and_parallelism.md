@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:systems-programmers
+  - audiences:performance-engineers
+category: language
+duration_hours: 40
+level: advanced
 tags:
   - concepts:concurrency
   - concepts:parallel-computing
@@ -7,14 +15,6 @@ tags:
   - concepts:locking
   - concepts:synchronization
   - concepts:performance
-level: advanced
-category: language
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:systems-programmers
-  - audiences:performance-engineers
 ---
 
 <!-- course: concurrency_and_parallelism -->

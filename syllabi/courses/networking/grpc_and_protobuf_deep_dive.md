@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:architects
+category: networking
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:grpc
   - concepts:api
@@ -6,13 +13,6 @@ tags:
   - concepts:distributed-systems
   - concepts:microservices
   - concepts:networking
-level: intermediate
-category: networking
-duration_hours: 40
-audience:
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:architects
 ---
 
 <!-- course: grpc_and_protobuf_deep_dive -->

@@ -1,17 +1,17 @@
 ---
-tags:
-  - concepts:testing
-  - concepts:test-quality
-  - concepts:best-practices
-  - concepts:operations
-level: intermediate
-category: testing
-duration_hours: 16
 audience:
   - audiences:senior-developers
   - audiences:qa-engineers
   - audiences:team-leads
   - audiences:developers
+category: testing
+duration_hours: 16
+level: intermediate
+tags:
+  - concepts:testing
+  - concepts:test-quality
+  - concepts:best-practices
+  - concepts:operations
 ---
 
 <!-- course: end_to_end_testing_strategy -->

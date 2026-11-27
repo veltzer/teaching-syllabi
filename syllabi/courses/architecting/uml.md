@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+  - audiences:team-leads
+category: architecture
+duration_hours: 16
+level: intermediate
 tags:
   - concepts:uml
   - concepts:architecture
   - concepts:design-patterns
   - concepts:oop
-level: intermediate
-category: architecture
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:architects
-  - audiences:team-leads
 ---
 
 <!-- course: uml -->

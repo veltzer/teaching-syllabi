@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:developers
+category: embedded
+duration_hours: 32
+level: intermediate
 tags:
   - hardware-and-embedded:embedded
   - hardware-and-embedded:bare-metal
   - languages:c
   - hardware-and-embedded:microcontrollers
   - infrastructure:real-time
-level: intermediate
-category: embedded
-duration_hours: 32
-audience:
-  - audiences:embedded-engineers
-  - audiences:developers
 ---
 
 <!-- course: embedded_programming_for_bare_metal -->

@@ -1,4 +1,11 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:performance-engineers
+  - audiences:devops
+category: operating-systems
+duration_hours: 24
+level: advanced
 tags:
   - infrastructure:linux
   - hardware-and-embedded:intel
@@ -7,13 +14,6 @@ tags:
   - hardware-and-embedded:simd
   - hardware-and-embedded:vectorization
   - practices:performance
-level: advanced
-category: operating-systems
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:performance-engineers
-  - audiences:devops
 ---
 
 <!-- course: intel_compiler_optimization_for_linux -->

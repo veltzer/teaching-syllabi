@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 8
+level: advanced
 tags:
   - languages:javascript
   - tools:extjs
   - networking:web
-level: advanced
-category: language
-duration_hours: 8
-audience:
-  - audiences:developers
 ---
 
 <!-- course: extjs_advanced_topics -->

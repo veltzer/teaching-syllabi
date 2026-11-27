@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: beginner
 tags:
   - languages:lua
   - concepts:programming
   - concepts:scripting
-level: beginner
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: lua_programming -->

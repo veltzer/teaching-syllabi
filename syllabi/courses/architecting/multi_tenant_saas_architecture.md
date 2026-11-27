@@ -1,4 +1,12 @@
 ---
+audience:
+  - audiences:architects
+  - audiences:developers
+  - audiences:senior-developers
+  - audiences:team-leads
+category: architecture
+duration_hours: 40
+level: intermediate
 tags:
   - concepts:architecture
   - concepts:scalability
@@ -7,14 +15,6 @@ tags:
   - concepts:security
   - concepts:identity
   - concepts:cloud-economics
-level: intermediate
-category: architecture
-duration_hours: 40
-audience:
-  - audiences:architects
-  - audiences:developers
-  - audiences:senior-developers
-  - audiences:team-leads
 ---
 
 <!-- course: multi_tenant_saas_architecture -->

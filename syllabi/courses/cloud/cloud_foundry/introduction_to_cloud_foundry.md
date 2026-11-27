@@ -1,14 +1,14 @@
 ---
+audience:
+  - audiences:developers
+category: cloud
+duration_hours: 40
+level: beginner
 tags:
   - infrastructure:cloud-foundry
   - infrastructure:cloud
   - infrastructure:containers
   - concepts:microservices
-level: beginner
-category: cloud
-duration_hours: 40
-audience:
-  - audiences:developers
 ---
 
 <!-- course: introduction_to_cloud_foundry -->

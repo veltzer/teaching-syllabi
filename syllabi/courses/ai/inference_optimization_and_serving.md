@@ -1,18 +1,18 @@
 ---
+audience:
+  - audiences:ml-engineers
+  - audiences:senior-developers
+  - audiences:performance-engineers
+  - audiences:devops
+category: ai
+duration_hours: 32
+level: advanced
 tags:
   - concepts:ai
   - concepts:machine-learning
   - concepts:performance
   - concepts:scalability
   - concepts:best-practices
-level: advanced
-category: ai
-duration_hours: 32
-audience:
-  - audiences:ml-engineers
-  - audiences:senior-developers
-  - audiences:performance-engineers
-  - audiences:devops
 ---
 
 <!-- course: inference_optimization_and_serving -->

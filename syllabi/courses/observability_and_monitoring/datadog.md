@@ -1,16 +1,16 @@
 ---
-tags:
-  - tools:datadog
-  - practices:observability
-  - practices:monitoring
-level: intermediate
-category: observability
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
   - audiences:sres
+category: observability
+duration_hours: 16
+level: intermediate
+tags:
+  - tools:datadog
+  - practices:observability
+  - practices:monitoring
 ---
 
 <!-- course: datadog -->

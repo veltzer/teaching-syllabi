@@ -1,15 +1,15 @@
 ---
-tags:
-  - languages:bash
-  - infrastructure:linux
-  - languages:shell
-level: beginner
-category: language
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:sysadmins
   - audiences:devops
+category: language
+duration_hours: 16
+level: beginner
+tags:
+  - languages:bash
+  - infrastructure:linux
+  - languages:shell
 ---
 
 <!-- course: using_bash -->

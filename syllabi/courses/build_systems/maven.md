@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:java-developers
+category: build-system
+duration_hours: 24
+level: intermediate
 tags:
   - tools:maven
   - build:java
   - build:jvm
   - practices:build-automation
   - languages:java
-level: intermediate
-category: build-system
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:java-developers
 ---
 
 <!-- course: maven -->

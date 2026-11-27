@@ -1,15 +1,15 @@
 ---
-tags:
-  - practices:devops
-  - security:security
-  - practices:automation
-level: intermediate
-category: devops
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:devops
   - audiences:security-professionals
+category: devops
+duration_hours: 16
+level: intermediate
+tags:
+  - practices:devops
+  - security:security
+  - practices:automation
 ---
 
 <!-- course: dependency_management -->

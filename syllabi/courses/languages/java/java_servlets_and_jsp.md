@@ -1,13 +1,13 @@
 ---
+audience:
+  - audiences:developers
+category: language
+duration_hours: 16
+level: intermediate
 tags:
   - languages:java
   - networking:web
   - concepts:web-development
-level: intermediate
-category: language
-duration_hours: 16
-audience:
-  - audiences:developers
 ---
 
 <!-- course: java_servlets_and_jsp -->

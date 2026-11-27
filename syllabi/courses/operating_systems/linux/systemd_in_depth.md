@@ -1,17 +1,17 @@
 ---
-tags:
-  - infrastructure:linux
-  - concepts:systems-programming
-  - concepts:operations
-  - concepts:best-practices
-level: intermediate
-category: operating-systems
-duration_hours: 24
 audience:
   - audiences:sysadmins
   - audiences:devops
   - audiences:senior-developers
   - audiences:embedded-developers
+category: operating-systems
+duration_hours: 24
+level: intermediate
+tags:
+  - infrastructure:linux
+  - concepts:systems-programming
+  - concepts:operations
+  - concepts:best-practices
 ---
 
 <!-- course: systemd_in_depth -->

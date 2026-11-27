@@ -1,15 +1,15 @@
 ---
-tags:
-  - infrastructure:kubernetes
-  - infrastructure:containers
-  - practices:devops
-level: advanced
-category: containers
-duration_hours: 16
 audience:
   - audiences:devops
   - audiences:sres
   - audiences:sysadmins
+category: containers
+duration_hours: 16
+level: advanced
+tags:
+  - infrastructure:kubernetes
+  - infrastructure:containers
+  - practices:devops
 ---
 
 <!-- course: kubernetes_troubleshooting -->

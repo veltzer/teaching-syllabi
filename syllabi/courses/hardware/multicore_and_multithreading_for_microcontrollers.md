@@ -1,4 +1,10 @@
 ---
+audience:
+  - audiences:embedded-engineers
+  - audiences:firmware-developers
+category: hardware
+duration_hours: 16
+level: advanced
 tags:
   - hardware-and-embedded:microcontrollers
   - hardware-and-embedded:multi-core
@@ -6,12 +12,6 @@ tags:
   - concepts:concurrency
   - hardware-and-embedded:embedded
   - infrastructure:rtos
-level: advanced
-category: hardware
-duration_hours: 16
-audience:
-  - audiences:embedded-engineers
-  - audiences:firmware-developers
 ---
 
 <!-- course: multicore_and_multithreading_for_microcontrollers -->

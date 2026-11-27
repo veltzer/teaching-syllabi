@@ -1,18 +1,20 @@
 ---
+audience:
+  - audiences:data-scientists
+category: machine-learning
+duration_hours: 56
+level: advanced
 tags:
   - data-and-ai:machine-learning
   - data-and-ai:supervised-learning
-level: advanced
-category: machine-learning
-duration_hours: 56
-audience:
-  - audiences:data-scientists
 ---
 
 <!-- course: ml2 -->
 # `Machine learning`
 
 ## Description
+
+This course covers the theory and practice of `Machine learning`: the basics and supervised learning, unsupervised learning and data handling, and the basics of `Deep learning`.
 
 ## Duration
 

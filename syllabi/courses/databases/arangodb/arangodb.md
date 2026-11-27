@@ -1,16 +1,16 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:architects
+category: database
+duration_hours: 24
+level: intermediate
 tags:
   - databases:arangodb
   - databases:multi-model
   - databases:graph
   - databases:document
   - databases:nosql
-level: intermediate
-category: database
-duration_hours: 24
-audience:
-  - audiences:developers
-  - audiences:architects
 ---
 
 <!-- course: arangodb -->

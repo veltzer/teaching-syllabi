@@ -1,15 +1,15 @@
 ---
+audience:
+  - audiences:developers
+  - audiences:devops
+category: devops
+duration_hours: 16
+level: beginner
 tags:
   - tools:jenkins
   - practices:ci-cd
   - practices:devops
   - tools:docker
-level: beginner
-category: devops
-duration_hours: 16
-audience:
-  - audiences:developers
-  - audiences:devops
 ---
 
 <!-- course: jenkins_basics -->

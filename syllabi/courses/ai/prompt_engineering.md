@@ -1,15 +1,15 @@
 ---
-tags:
-  - data-and-ai:prompt-engineering
-  - data-and-ai:llm
-  - data-and-ai:ai
-level: beginner
-category: ai
-duration_hours: 8
 audience:
   - audiences:developers
   - audiences:data-scientists
   - audiences:team-leads
+category: ai
+duration_hours: 8
+level: beginner
+tags:
+  - data-and-ai:prompt-engineering
+  - data-and-ai:llm
+  - data-and-ai:ai
 ---
 
 <!-- course: prompt_engineering -->

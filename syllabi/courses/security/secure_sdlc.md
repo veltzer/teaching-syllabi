@@ -1,16 +1,16 @@
 ---
-tags:
-  - security:security
-  - practices:methodology
-  - concepts:best-practices
-level: intermediate
-category: security
-duration_hours: 16
 audience:
   - audiences:developers
   - audiences:security-professionals
   - audiences:managers
   - audiences:devops
+category: security
+duration_hours: 16
+level: intermediate
+tags:
+  - security:security
+  - practices:methodology
+  - concepts:best-practices
 ---
 
 <!-- course: secure_sdlc -->
